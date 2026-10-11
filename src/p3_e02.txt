@@ -1,0 +1,155 @@
+@title 3부 2화 — Våffeldagen
+@subtitle (와플의 날)
+@meta 날짜|3월 25일 수요일 오후 4시 반 ~ 저녁 7시 40분쯤 (영상 4도, 흐렸다 갬 · 해는 6시 15분쯤 짐)
+@meta 장소|릴리에홀멘(Liljeholmen), 오스카르의 아파트 — 부엌 → 소파와 부엌 사이 → 현관 → 다시 부엌
+@meta 등장인물|**Oskar** (오스카르, 31) · **Linnea** (린네아, 28) · **Ahmed** (아메드, 32, 오스카르의 동료) · **Elsa** (엘사, 9, 오스카르의 조카)
+@intro **지난 이야기** 오스카르는 끝내 문밖의 말소리를 듣지 못했다. 그가 본 건 노트북 밑으로 밀려 들어가는 흰 봉투와 마간의 굳은 얼굴뿐. "그 편지 뭐였어?" — "그냥 일." 여드레 뒤, 쇠데르병원 직원 식당에서 서울 이야기를 들은 이다는 한마디로 정리했다. "Säg det!" 그리고 "말 안 하는 것도 일종의 결정이야." 이다는 오스카르에게 먼저 말하지 않겠다고 약속했지만, 그가 대놓고 묻는다면 거짓말은 하지 않겠다고 했다. 그날 밤 전화로 '계약서'라는 말을 들은 오스카르는 브리트식 두 번째 jaha — "그 말은 안 믿어" — 를 남겼다. 노란 노트의 '단점' 칸에는 단 한 줄, "Oskar."
+@intro 그로부터 한 달. 답변 기한 4월 1일까지는 이제 일주일이 남았다. 3월 25일, 스웨덴 달력엔 '와플의 날'. 회르뇌산드의 브리트 할머니가 낡은 하트 모양 와플 틀과 손글씨 레시피 카드, 클라우드베리 잼 한 병을 소포로 부쳤고, 오스카르는 밸런타인데이 이후 처음으로 린네아를 릴리에홀멘에 불렀다. 아메드와 엘사도 온다. 린네아는 결심했다. 오늘이다. 오늘은 반드시 말한다.
+# 장면 1 — 할머니의 레시피 카드
+Oskar|A1|Hej. Du är tidig.|(3월 25일 수요일 오후 4시 반. 노란 벽돌 건물 3층. 앞치마를 두른 오스카르가 문을 연다. 처음으로 이 말을 하는 쪽이 그다) 안녕. 일찍 왔네.
+Linnea|B2|För en gångs skull, ja. Hade jag stannat hemma en minut till hade jag nött hål i golvet.|(가방 속엔 노란 노트. 지하철 14분 동안 첫 문장을 일곱 번 고쳤다) 웬일로, 그치. 집에 1분만 더 있었으면 바닥에 구멍 낼 뻔했어.
+Oskar|B1|Då får du hjälpa till. Farmor har skickat sitt gamla våffeljärn med posten, och receptet låg i paketet.|그럼 도와. 할머니가 옛날 와플 틀을 소포로 보냈어. 레시피도 상자에 들어 있었고.
+Linnea|A1|Får jag se?|봐도 돼?
+Oskar|B1|Kan du läsa det högt för mig? Farmors handstil är svår även för folk som inte har dyslexi.|(카드를 내민다. 그가 먼저 부탁한다 — 둘의 약속대로) 소리 내서 읽어 줄래? 할머니 글씨는 난독증 없는 사람한테도 어려워.
+Linnea|B2|Det ser ut som om hon har skrivit det på en båt mitt i en storm, men jag tror att jag kan tyda det.|폭풍 한가운데 배 위에서 쓴 것 같긴 한데, 알아볼 수 있을 것 같아.
+Oskar|A1|Läs.|읽어 봐.
+Linnea|A2|"Våfflor. Tre deciliter vetemjöl, en tesked bakpulver, en nypa salt."|"와플. 밀가루 3데시리터, 베이킹파우더 1티스푼, 소금 한 꼬집."
+Oskar|B1|En nypa? Varför kan hon inte skriva hur många gram det är, som en normal människa?|한 꼬집? 왜 몇 그램인지를 안 쓰는 거야, 보통 사람들처럼?
+Linnea|B1|En nypa är så mycket som man kan hålla mellan tummen och pekfingret. Det är inget exakt mått.|한 꼬집은 엄지랑 검지 사이에 집히는 만큼이야. 정확한 단위가 아니라고.
+Oskar|B1|Jag gillar inte mått som inte är exakta. Man mäter två gånger och sågar en gång.|정확하지 않은 단위는 별로야. 두 번 재고 한 번 자르는 거야.
+Linnea|B1|Det här är ingen båt, Oskar. Ingen drunknar för att en våffla blir lite sned.|이건 배가 아니야, 오스카르. 와플 좀 삐뚤어진다고 물에 빠져 죽는 사람 없어.
+Oskar|A2|Jo, jo. Vad står det mer?|그래, 그래. 또 뭐라고 써 있어?
+Linnea|A2|"Fem deciliter mjölk, två ägg och hundra gram smör."|"우유 5데시리터, 달걀 두 개, 버터 100그램."
+Oskar|A2|Smält smöret i den lilla kastrullen. Jag tar mjölet.|버터는 작은 냄비에 녹여. 밀가루는 내가 할게.
+Linnea|A2|Var har du kastrullerna?|냄비는 어디 있어?
+Oskar|A1|Under spisen.|오븐 밑에.
+Linnea|B1|Här står det också: "Vispa mjölet med hälften av mjölken först, så att det inte blir klumpar."|여기 또 써 있다. "가루가 뭉치지 않게 우유 절반만 먼저 넣고 저을 것."
+Oskar|B2|Så gjorde pappa också. Han vispade som om han skulle ro hem över hela fjärden innan stormen kom.|(거품기를 쥔 손이 잠깐 멈춘다) 아빠도 그렇게 했어. 폭풍 오기 전에 만(灣)을 통째로 노 저어 건너야 하는 사람처럼 저었지.
+Linnea|A2|Gräddade han våfflor?|아빠가 와플을 구우셨어?
+Oskar|B2|Varje år på våffeldagen. Det var den enda dagen på året då han stod vid spisen utan att det handlade om strömming.|해마다 와플의 날에. 일 년 중에 청어 말고 다른 걸로 가스레인지 앞에 선 유일한 날이었어.
+Linnea|B2|Visste du att våffeldagen egentligen är Vårfrudagen? Folk uttalade det så slarvigt att det till slut blev våfflor av alltihop.|와플의 날이 원래 '성모의 날(Vårfrudagen)'이었던 거 알아? 사람들이 하도 대충 발음해서 결국 전부 와플이 돼 버렸대.
+Oskar|B1|Nä. Det låter som något som du har hittat på för att imponera på mig.|에이. 나한테 잘 보이려고 지어낸 얘기 같은데.
+Linnea|B2|Det är sant! Så går det när ett helt folk hellre vill ha grädde än helgon.|진짜야! 온 국민이 성인(聖人)보다 생크림을 원하면 그렇게 되는 거지.
+Oskar|A2|Häll i resten av mjölken nu. Lite i taget.|이제 나머지 우유 부어. 조금씩.
+Linnea|A1|Så här?|이렇게?
+Oskar|B1|Bra. Nu ska smeten vila i en kvart, annars blir våfflorna sega.|좋아. 이제 반죽을 15분 쉬게 둬야 돼. 안 그러면 와플이 질겨져.
+Linnea|B1|En kvart? Då hinner vi dricka kaffe i lugn och ro innan de andra kommer.|(앞치마 끈을 만지작거린다. 15분. 첫 문장을 꺼내기엔 충분한 시간이다) 15분? 그럼 다른 사람들 오기 전에 커피 한 잔 느긋하게 마실 수 있겠다.
+Oskar|B1|Det tror jag inte. Ahmed sa fem, och han kommer alltid för tidigt när det finns mat.|글쎄. 아메드가 다섯 시라고 했는데, 걘 먹을 게 있으면 항상 일찍 와.
+Linnea|A1|Redan?|(초인종이 울린다. 4시 50분) 벌써?
+# 장면 2 — 계단에서 만난 두 사람, 그리고 토핑 전쟁
+Ahmed|A2|Aa, len! Titta vem jag hittade i trappan!|(문 앞에 아메드가 한 손엔 비닐봉지, 다른 손엔 엘사의 손을 잡고 서 있다. 사라는 1층 현관까지 데려다주고 볼일을 보러 갔다. 둘은 오늘 처음 만났다) 야! 계단에서 누굴 주웠는지 봐라!
+Elsa|A1|Hej, morbror! Hej, Linnea!|안녕, 삼촌! 안녕하세요, 린네아 언니!
+Oskar|B1|Ni är tidiga. Smeten måste vila en stund till, så ni får vänta.|일찍 왔네. 반죽이 좀 더 쉬어야 되니까 기다려.
+Elsa|B1|Mamma sa att jag hade tjatat om våfflor sedan frukost, så hon lämnade mig tidigare.|엄마가 나 아침부터 와플 노래 불렀다고 일찍 데려다줬어.
+Ahmed|B1|Vi möttes på andra våningen. Hon frågade direkt om jag var han som ramlade i vattnet med en planka.|2층에서 만났어. 보자마자 나보고 판자 들고 물에 빠진 그 사람 맞냐고 묻더라.
+Linnea|A1|Och?|(웃음을 참으며) 그래서요?
+Ahmed|B2|Jag sa att jag räddade plankan först, eftersom en riktig båtbyggare aldrig överger sitt material. Det är en hederssak.|판자부터 구했다고 했죠. 진짜 배 목수는 절대 자기 재료를 버리지 않으니까. 명예가 걸린 문제라고요.
+Elsa|A2|Morbror sa att du skrek som en mås.|삼촌은 아저씨가 갈매기처럼 소리 질렀다던데요.
+Oskar|B1|Jo. Och sedan klagade han en hel vecka på att vattnet var kallt — i mars.|응. 그러고 일주일 내내 물이 차가웠다고 투덜댔지. 3월에.
+Ahmed|B2|Oskar! Man förstör inte en mans rykte inför hans nyaste beundrare.|오스카르! 남자의 명성을 최신 팬 앞에서 망가뜨리는 거 아니다.
+Linnea|A2|Vad har du i påsen, Ahmed?|아메드 씨, 봉지엔 뭐 들었어요?
+Ahmed|B1|Dadelsirap från mamma. Riktiga våfflor behöver något från Irak, annars är de bara bröd med rutor.|엄마가 준 대추야자 시럽이요. 진짜 와플엔 이라크에서 온 게 들어가야 돼요. 안 그러면 그냥 격자무늬 빵이죠.
+Elsa|A1|Vad är det?|그게 뭐예요?
+Ahmed|A2|Det är som honung, fast av dadlar. Smaka.|꿀 같은 건데, 대추야자로 만든 거야. 먹어 봐.
+Elsa|A1|Mm! Gott!|음! 맛있어요!
+Oskar|B2|Farmors våfflor ska smakas med hjortronsylt först. Dadelsirap får man ta efteråt, om man absolut måste. Det är en fråga om respekt.|(브리트가 보낸 클라우드베리 잼 병을 식탁 한가운데에 내려놓는다) 할머니 와플은 클라우드베리 잼으로 먼저 맛보는 거야. 대추야자 시럽은 꼭 먹어야겠으면 그다음에. 예의 문제야.
+Ahmed|B2|Respekt? Du låter som en man som aldrig har vågat blanda två kulturer på samma tallrik.|예의? 넌 한 접시에 두 문화를 섞어 볼 엄두도 못 내 본 남자처럼 말한다.
+Linnea|B2|Jag tycker att var och en ska få välja själv. Det är ju hela poängen med våfflor — de dömer ingen.|다들 알아서 고르면 되잖아요. 그게 와플의 핵심이지 — 와플은 아무도 판단 안 하거든.
+Oskar|A2|Elsa, du får pensla järnet med smör.|엘사, 네가 틀에 버터 발라.
+Elsa|A1|Med den här?|이걸로?
+Oskar|B1|Ja. Inte för mycket, men överallt, annars fastnar den första våfflan.|응. 많이 말고 구석구석. 안 그러면 첫 와플이 들러붙어.
+Ahmed|B2|Den första våfflan blir alltid ful. Det är en naturlag, ungefär som att pendeltåget alltid är försenat just när man har bråttom.|첫 와플은 원래 못생겨. 자연법칙이야. 꼭 바쁠 때만 통근열차가 늦는 것처럼.
+Linnea|B2|Jag vispar grädden. Det är det enda jag kan göra i ett kök utan att någon behöver hålla ett öga på mig.|생크림은 제가 휘핑할게요. 부엌에서 아무도 지켜볼 필요 없이 제가 할 수 있는 유일한 일이거든요.
+Elsa|A2|Jag vill ha sylt och grädde och glass.|난 잼이랑 생크림이랑 아이스크림.
+Oskar|A1|Allt?|전부?
+Elsa|A1|Allt!|전부!
+Ahmed|B1|Titta! Den första blev faktiskt snygg, trots att jag sa att den skulle bli ful.|(뚜껑을 열자 하트 다섯 장이 붙은 황금색 와플) 봐! 첫 번째 거 진짜 잘생겼네. 못생길 거라고 했는데.
+Elsa|A1|Mer grädde!|생크림 더!
+Linnea|A2|Du har redan ett helt berg av grädde, Elsa.|이미 생크림이 산더미야, 엘사.
+Elsa|B1|Ett berg måste ha snö på toppen, annars är det bara en kulle.|산은 꼭대기에 눈이 있어야 돼요. 안 그러면 그냥 언덕이에요.
+Ahmed|B1|Walla, hon har rätt. Mot sån logik går det inte att argumentera.|와, 진짜 맞는 말이다. 저런 논리엔 반박을 못 해.
+Oskar|B1|Ahmed. Du har hällt dadelsirap rakt över hjortronen. Det är ett brott.|아메드. 클라우드베리 위에 대추야자 시럽을 그대로 부었잖아. 이건 범죄야.
+Ahmed|B2|Det är inget brott, det är fusion, len. Om tio år kommer folk att betala tvåhundra spänn för just den här våfflan på Söder.|범죄가 아니라 퓨전이지. 10년 뒤엔 쇠데르에서 딱 이 와플에 200크로나씩 낼 거다.
+Elsa|A2|Får jag smaka? … Det är äckligt gott!|먹어 봐도 돼요? …역겹게 맛있어요!
+Linnea|B1|"Äckligt gott." Det är det bästa omdömet om mat som jag har hört på länge.|"역겹게 맛있다." 오랜만에 들어 본 최고의 음식 평이네.
+# 장면 3 — 한 번, 두 번, 세 번
+Oskar|A2|Kan du hålla koll på järnet medan jag hämtar mer smör?|(5시 40분. 아메드와 엘사는 접시를 들고 소파로 옮겨 갔다. 아메드가 휴대폰으로 쌍둥이 영상을 보여 주고 있다. 와플 틀 앞엔 두 사람뿐) 버터 더 가져올 동안 틀 좀 봐 줄래?
+Linnea|A2|Oskar? Jag ville säga en sak…|(첫 번째) 오스카르? 나 할 말이 있었는데…
+Oskar|A1|Mm?|(냉장고 문을 연 채 돌아본다) 응?
+Linnea|B2|Det handlar om brevet i februari. Jag har vänt och vridit på det varje dag, och jag inser att jag borde ha…|2월에 그 편지 말이야. 매일 이리저리 생각해 봤는데, 내가 진작에…
+Elsa|A1|Morbror! Ahmed äter din våffla!|(소파 쪽에서) 삼촌! 아메드 아저씨가 삼촌 와플 먹어!
+Oskar|B2|Ahmed! Den våfflan hade jag vaktat ända sedan smeten hälldes i järnet.|아메드! 그 와플은 반죽 부을 때부터 내가 지키고 있던 거야.
+Ahmed|B2|Den låg där alldeles ensam och såg så övergiven ut att jag inte hade hjärta att låta den kallna.|혼자 덩그러니 놓여서 너무 버림받은 얼굴이길래, 차마 식게 둘 수가 없었어.
+Elsa|A2|Han åt den på tre tuggor. Jag räknade.|세 입에 먹었어요. 내가 셌어요.
+Oskar|B2|Då får han vispa nästa omgång grädde. Den som stjäl från kocken får betala med armmusklerna.|그럼 다음 생크림은 쟤가 휘핑하는 걸로. 요리사 거 훔친 놈은 팔 근육으로 갚는 거야.
+Linnea|A1|Sen, då.|(아무도 못 들을 만큼 작게. 둘 사이에서 금지된 그 단어) 그럼… 나중에.
+Ahmed|A2|Okej, okej. Var är vispen?|알았어, 알았어. 거품기 어딨어?
+Oskar|A2|I lådan till vänster om diskbänken.|싱크대 왼쪽 서랍.
+Linnea|B1|Oskar, kan du komma ut i hallen en sekund? Jag vill prata med dig utan publik.|(두 번째. 6시. 아메드가 휘핑하는 소리가 부엌을 채운다) 오스카르, 잠깐 현관으로 나와 줄래? 관객 없이 얘기하고 싶어.
+Oskar|A1|Nu?|지금?
+Linnea|A1|Ja. Det är viktigt.|응. 중요한 거야.
+Oskar|A2|Okej. Vad är det?|(현관, 작업복이 걸린 옷걸이 옆. 타르 냄새) 알았어. 뭔데?
+Linnea|B2|Du vet att jag sa att det var jobb. Det var inte fel, men det var inte heller hela sanningen, och nu har det gått så lång tid att jag inte vet var jag ska börja…|일이라고 했던 거 기억하지. 틀린 말은 아니었는데, 그렇다고 전부 사실도 아니었어. 그리고 이제 시간이 너무 많이 지나서 어디서부터 시작해야 할지…
+Ahmed|B1|Len! Kom och berätta för Elsa om ritningen på kylskåpet. Hon tror inte på mig när jag säger att du har ritat alla spant själv.|(거품기를 든 채 부엌에서 고개를 내민다) 야! 와서 엘사한테 냉장고에 붙은 도면 얘기 좀 해 줘. 늑골 전부 네가 직접 그렸다고 해도 안 믿어.
+Elsa|B1|Morbror ritar ju bara sneda båtar i marginalen! Det har farmor visat mig.|삼촌은 공책 귀퉁이에 삐뚤삐뚤한 배만 그리잖아요! 할머니가 보여 줬어요.
+Oskar|B1|Med linjal kan jag rita hur raka linjer som helst. Båtarna i marginalen ritade jag på mattelektionerna.|(린네아를 한 번 돌아보고는 부엌으로 간다) 자만 있으면 얼마든지 반듯하게 그려. 공책 귀퉁이 배는 수학 시간에 그린 거고.
+Linnea|B2|Perfekt. Jag har väntat i fem veckor på rätt tillfälle, och så förlorar jag mot en ritning på ett kylskåp.|(현관에 혼자 남아, 거울 속 자기에게) 완벽하네. 딱 맞는 순간을 5주나 기다렸는데, 냉장고에 붙은 도면 한 장한테 지다니.
+Ahmed|B2|Ni två är konstiga i kväll. Ni ser ut som två skådespelare som har glömt vem som ska säga nästa replik.|(6시 20분. 마지막 반죽을 붓는 오스카르와 그 옆의 린네아를 번갈아 본다) 둘 다 오늘 좀 이상해요. 다음 대사를 누가 칠지 까먹은 배우 둘 같아요.
+Elsa|B1|Linnea, är det därför du har varit så konstig hela kvällen? Ska ni gifta er?|언니, 그래서 저녁 내내 이상했던 거예요? 삼촌이랑 결혼해요?
+Linnea|A1|Va? Nej!|뭐? 아니!
+Oskar|A1|Nej?|(눈썹 하나가 올라간다) 아니야?
+Linnea|B1|Jag menar… inte i kväll. Elsa, gå och tvätta händerna, du har sylt ända upp till armbågarna.|내 말은… 오늘 밤은 아니라고. 엘사, 가서 손 씻어. 팔꿈치까지 잼 범벅이야.
+Ahmed|B1|Jag måste ringa Leila innan tvillingarna somnar, annars får jag inte höra slutet på sagan.|쌍둥이 자기 전에 레일라한테 전화해야겠다. 안 그러면 동화 결말을 못 들어.
+Linnea|B1|Okej. Nu. Oskar, jag måste berätta något om våren. Nej, om hösten, menar jag. Om hela nästa år.|(세 번째. 엘사는 화장실, 아메드는 창가에서 통화 중. 와플 틀 앞, 마침내 둘뿐) 좋아. 지금. 오스카르, 봄에 대해 할 얘기가 있어. 아니, 가을 말이야. 내년 전체.
+Oskar|B1|Ta det lugnt. Jag har ingenstans att gå, och våfflan klarar sig en minut till.|(뒤집개를 내려놓고 그녀를 본다. 와플 틀 뚜껑은 닫힌 채다) 천천히 해. 나 어디 안 가. 와플도 1분은 더 버텨.
+Linnea|B1|Jag har fått en fråga som… nej, "fråga" är fel ord. Det är mer än en fråga, det är…|나 질문을 하나 받았는데… 아니, '질문'은 틀린 단어야. 질문 이상의 거야, 그러니까…
+Elsa|A1|Det ryker!|(화장실에서 뛰어나오며) 연기 나요!
+Oskar|A1|Nej, våfflan!|아, 와플!
+Ahmed|B1|Leila, jag ringer upp! Brandvarnaren går, och Oskar har bränt farmors våffla!|(화재경보기가 비명을 지른다. 아메드가 전화를 끊고 행주를 휘두른다) 레일라, 다시 걸게! 화재경보기 울려, 오스카르가 할머니 와플 태웠어!
+Elsa|A2|Den är helt svart! Som kol!|완전 까매요! 숯 같아요!
+Linnea|B1|Varje gång jag försöker blir vi avbrutna.|(창문을 활짝 열며, 아무도 듣지 못하게) 내가 말하려고 할 때마다 누가 끼어들어.
+# 장면 4 — 설거지, 그리고 눈치
+Oskar|A2|Nu är det tyst igen.|(저녁 7시 15분. 사라가 1층에서 엘사를 데려갔고, 아메드는 남은 대추야자 시럽을 '선물'이라며 두고 갔다. 창문은 아직 열려 있고, 탄내가 3월의 찬 공기와 섞인다. 오스카르가 씻고 린네아가 닦는다) 이제 다시 조용하네.
+Linnea|A2|Elsa var så trött. Och så mätt.|엘사 엄청 피곤했나 봐. 배도 엄청 부르고.
+Oskar|B1|Du sa något när brandvarnaren gick. "Varje gång jag försöker."|화재경보기 울릴 때 너 뭐라고 했잖아. "말하려고 할 때마다"라고.
+Linnea|A1|Hörde du det?|그걸 들었어?
+Oskar|B2|Jag hör mer än jag säger. Den som är tyst har ju gott om tid att lyssna.|난 말하는 것보다 더 많이 들어. 조용한 사람은 들을 시간이 넉넉하잖아.
+Linnea|A2|Jag vet. Det har jag märkt.|알아. 그건 나도 알아챘어.
+Oskar|B1|Det är något du inte säger. Det har det varit sedan februari.|(젖은 손으로 접시 하나를 건넨다) 너 말 안 하는 게 있어. 2월부터 그랬어.
+Linnea|B2|Du har lärt dig nunchi bättre än jag trodde.|(행주를 든 손이 멈춘다. 한참 뒤) 눈치를 내가 생각한 것보다 더 잘 배웠네.
+Oskar|B2|Jag har haft en bra lärare. Dessutom tittar du bort varje gång du säger ordet "jobb", som om det vore tyngre än det låter.|선생님이 좋았으니까. 게다가 너, '일'이라는 말 할 때마다 눈을 피해. 그 말이 들리는 것보다 무거운 것처럼.
+Linnea|A2|Gör jag? Förlåt.|내가? 미안.
+Oskar|B2|Jag hade kunnat fråga Ida. Hon vet säkert, och hon ljuger inte för mig. Men det är inte hennes sak att berätta — jag vill höra det från dig.|이다한테 물어볼 수도 있었어. 분명 알 거고, 나한테 거짓말은 안 하겠지. 근데 그건 이다가 할 얘기가 아니야. 난 너한테서 듣고 싶어.
+Linnea|A2|Så du har inte frågat henne?|그럼 언니한테 안 물어본 거야?
+Oskar|A1|Nä.|안 물어봤어.
+Linnea|B1|Okej. Sätt dig. Inga fler våfflor och inga fler brandvarnare. Nu säger jag det.|(행주를 접어 식탁에 놓는다) 좋아. 앉아. 와플도 그만, 화재경보기도 그만. 이제 말할게.
+Oskar|A2|Jag sitter. Jag väntar.|(짝이 안 맞는 의자 하나에 앉는다) 앉았어. 기다릴게.
+Linnea|B2|Samma dag som du kom med bokhyllan fick jag ett brev som kan ändra hela nästa år för oss. Det kom från en stiftelse i…|(네 번째. 숨을 들이쉰다) 네가 책꽂이 메고 온 그날, 우리 내년 한 해를 통째로 바꿀 수도 있는 편지를 받았어. 어느 재단에서 온 건데, 거기가…
+Oskar|A2|Vänta. Båda våra telefoner surrar.|(참나무 식탁 위, 두 사람의 휴대폰이 동시에 진동한다. 한 번, 그리고 또 한 번) 잠깐. 우리 둘 다 휴대폰이 울려.
+Linnea|A2|Det är Maggan. Hon har skickat det till oss båda.|마간이야. 우리 둘한테 다 보냈어.
+Oskar|A1|Läs.|(자기 화면을 보지 않고, 그녀를 본다) 읽어 줘.
+Linnea|A2|"Kan ni komma? Båda två. Det är viktigt."|(화면을 소리 내어 읽는다. 곧이어 두 번째 문자: "Lördag klockan fyra, när jag har stängt. /M" — 마간의 문자에 처음으로 "Kram"이 없다. 두 사람은 동시에 같은 것을 떠올린다. 계산대 맨 위 서랍, 병따개 밑의 봉투. "Uppsägning av lokal." 린네아가 꺼내다 만 문장은 탄 와플 냄새 속에 그대로 떠 있다) "와 줄 수 있겠니? 둘 다. 중요한 일이란다."
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Mer grädde!** | 생크림 더! | *mer* + 명사 = "~ 더". 셀 수 없는 명사엔 *mer*, 셀 수 있으면 *fler*(*fler våfflor* 와플 더). 오스카르의 *Inga fler våfflor*(와플은 이제 그만)와 짝으로 |
+| `A1` | **Läs.** | 읽어 줘. | 명령형 = 동사 원형에서 *-a*를 뗀 꼴(*läsa → läs*). 1장 첫머리와 마지막 턴에서 같은 한 단어가 다른 무게로 반복된다 |
+| `A2` | **Jag ville säga en sak…** | 나 할 말이 있었는데… | *ville*는 *vill*의 과거형. 과거형으로 말하면 한 걸음 물러선 조심스러운 말투가 된다. 한국어 "~하려고 했는데"와 비슷 |
+| `A2` | **Smält smöret i den lilla kastrullen.** | 버터는 작은 냄비에 녹여. | 요리 명령형(*smält, häll, vispa*). *den lilla kastrullen*: 형용사가 붙은 한정형은 앞에 *den/det/de* + 형용사 약변화형(*liten → lilla*) + 명사 한정형, 이중 한정 |
+| `B1` | **Varje gång jag försöker blir vi avbrutna.** | 말하려고 할 때마다 누가 끼어들어. | 종속절 *Varje gång jag försöker*가 문장 앞에 오면 주절은 동사부터(V2): *blir vi*. *bli* + 과거분사 *avbrutna*(복수형) = 수동 "방해받다" |
+| `B1` | **Det är något du inte säger.** | 너 말 안 하는 게 있어. | 관계대명사 *som*이 생략된 관계절. 종속절 안에서 *inte*는 동사 **앞**: *du inte säger* (주절이면 *du säger inte*) |
+| `B1` | **Nu ska smeten vila i en kvart.** | 이제 반죽을 15분 쉬게 둬야 돼. | *en kvart* = 15분, *en halvtimme* = 30분. *smet*(반죽, 묽은 것) ↔ *deg*(빵 반죽, 되직한 것) |
+| `B2` | **Du har lärt dig nunchi bättre än jag trodde.** | 눈치를 내가 생각한 것보다 더 잘 배웠네. | *lära sig* = 배우다(재귀). 현재완료 *har lärt dig*. *bättre än jag trodde* = 생각보다 더 잘. *trodde*(과거)로 "예전엔 그렇게 생각 안 했다"는 뉘앙스 |
+| `B2` | **Jag hade kunnat fråga Ida.** | 이다한테 물어볼 수도 있었어. | *hade kunnat* + 원형 = "~할 수도 있었는데 (안 했다)". 과거의 가능성을 말하는 가정법 과거완료 |
+| `B2` | **Hade jag stannat hemma en minut till hade jag nött hål i golvet.** | 집에 1분만 더 있었으면 바닥에 구멍 냈을 거야. | *om*을 빼고 동사 *hade*를 문장 맨 앞으로 내는 도치 조건문. *nöta hål i golvet* = 왔다 갔다 해서 바닥을 닳게 하다, 안절부절못하다 |
+
+## 문화 메모
+- **와플의 날 (*Våffeldagen*, 3월 25일)** — 원래는 수태고지 축일인 *Vårfrudagen*(성모의 날)이다. 크리스마스 아홉 달 전인 이날을, 사람들이 빠르게 발음하다 보니 *Vårfru-*가 *Våffel-*처럼 들리게 됐고, 그래서 와플을 먹는 날이 됐다는 설이 널리 알려져 있다. 봄의 시작을 알리는 날이기도 해서, 스웨덴 사람들은 이날 집과 카페에서 와플을 굽는다.
+- **스웨덴 와플** — 벨기에식 두툼한 와플이 아니라, 하트 다섯 장이 꽃처럼 붙은 얇고 바삭한 와플(*hjärtformade våfflor*)이 기본이다. 토핑의 정석은 잼(*sylt*)과 생크림(*vispgrädde*). 북쪽 늪지대에서 따는 클라우드베리(*hjortron*)로 만든 *hjortronsylt*는 귀하고 비싼 별미라, 노를란드 할머니가 보내 준 한 병은 꽤 대접받는 선물이다. 새우 샐러드(*räkröra*) 같은 짠 토핑을 올리는 사람도 있다.
+- **계량 단위 *dl*, *msk*, *tsk*, *krm*** — 스웨덴 레시피는 무게보다 부피 단위를 즐겨 쓴다. *dl*(데시리터, 100ml), *msk*(matsked, 큰술 15ml), *tsk*(tesked, 작은술 5ml), *krm*(kryddmått, 1ml). 그래서 스웨덴 부엌엔 거의 다 *decilitermått* 세트가 있고, 오스카르처럼 "몇 그램이냐"고 묻는 사람은 드물다.
+- **화재경보기 (*brandvarnare*)** — 스웨덴에선 집집마다 화재경보기를 갖추도록 법으로 정해져 있고(셋집이면 집주인 책임), 해마다 12월 1일을 '화재경보기의 날(*Brandvarnarens dag*)'로 정해 배터리를 확인하라고 알린다. 와플·토스트를 태워서 경보기가 우는 건 스웨덴 부엌의 흔한 풍경이다.
+
+## 다음 화 예고 — 3화 *Hyran* (임대료)
+3월 28일 토요일 오후 4시, 문을 닫은 Lyktan. 창가 등불 아래 마간이 두 사람을 기다리고 있다. 서랍 속 봉투가 마침내 열린다. 건물이 팔렸고, 새 건물주는 임대료를 두 배로 올렸다. 6월이면 40년 된 서점이 문을 닫는다. 스티그와 함께 연 가게, 이 벽 사이에 담긴 한 사람의 평생. 오스카르는 짧게 말한다. "Vi hittar en lösning." — 그리고 바로 그때, 문에 달린 종이 울린다.
