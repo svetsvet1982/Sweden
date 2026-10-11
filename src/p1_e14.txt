@@ -1,0 +1,161 @@
+@title 1부 14화 — Första snön
+@subtitle (첫눈)
+@meta 날짜|11월 21일 금요일 밤 8시 반 ~ 10시쯤
+@meta 장소|혼스툴 린네아의 원룸(전화) ↔ 릴리에홀멘 오스카르의 집 → 혼스툴 린네아의 건물 앞 → 베스테르브론(Västerbron) 다리 위
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31)
+@intro **지난 이야기** — 폐점 후의 Lyktan, 크리스마스 책 일곱 상자와 레드 와인 한 병. 마간은 40년 동안 꺼내지 않았던 이야기를 들려주었다. 1974년 호른스가탄의 헌책방, 수염 난 스물한 살 스티그, 그리고 "생각해 볼게요"라는 대답 뒤에 길 건너편에서 허비한 1년. 이듬해 첫눈 속을 장갑도 없이 뛰어갔던 열여덟 살의 마간. 린네아는 "무서워요"라고 고백했고, 마간은 말했다. "Vänta inte för länge, lilla vän. Livet har en tendens att flytta till Uppsala." 린네아는 다음 날 오스카르에게 먼저 전화하겠다고 약속했다. 창고의 라디오는 예보했다. "I natt kommer årets första snö."
+@intro 그런데 그날 밤, 눈은 오지 않았다. 목요일 밤은 맑고 매섭게 추웠고, 금요일 아침 혼스툴의 지붕들은 서리로 하얬을 뿐이다. 린네아는 하루 종일 『겨울 부엌』의 교정쇄를 붙들고 앉아 전화기를 열두 번쯤 들었다 놓았다. 밤 8시 반, 창밖은 캄캄하고 목에는 여전히 오스카르의 목도리. 이제는 정말 걸어야 한다. 1부 가을의 마지막 밤.
+# 장면 1 — 전화, 그리고 첫눈
+Linnea|A1|Okej. Nu ringer jag.|(밤 8시 반, 혼스툴의 원룸. 교정쇄가 흩어진 책상 앞에서 휴대폰을 쥐고 혼잣말) 좋아. 이제 건다.
+Oskar|A1|Linnea? Hej.|(신호음 한 번 만에) 린네아? 안녕.
+Linnea|A2|Hej! Du svarade så snabbt.|안녕! 되게 빨리 받네.
+Oskar|A2|Jag hade telefonen i handen. Jag skulle precis ringa dig.|폰 들고 있었어. 막 너한테 걸려던 참이었어.
+Linnea|B1|Nej! Jag ville ringa först. Jag lovade någon att jag inte skulle vänta längre.|안 돼! 내가 먼저 걸고 싶었단 말이야. 더는 안 기다리겠다고 누구한테 약속했거든.
+Oskar|A2|Vem har du lovat det?|누구한테 약속했는데?
+Linnea|A1|Maggan.|마간.
+Oskar|A2|Då hann du först. Det räknas.|그럼 네가 먼저 건 거네. 인정.
+Linnea|B2|Bra, för jag har tänkt ringa sedan i morse, men jag har suttit med korrekturet hela dagen och hittat tolv anledningar att skjuta upp det.|다행이다. 아침부터 전화하려고 했거든. 근데 하루 종일 교정쇄 붙들고 앉아서 미룰 핑계를 열두 개나 찾아냈어.
+Oskar|A2|Tolv? Jag sköt bara upp det tre gånger.|열두 개? 난 세 번밖에 안 미뤘는데.
+Linnea|A2|Du också? Var är du nu?|너도? 지금 어디야?
+Oskar|B1|Hemma i Liljeholmen. Jag har suttit och ritat spant till Svalan hela kvällen.|릴리에홀멘 집. 저녁 내내 앉아서 스발란 늑골 도면 그리고 있었어.
+Linnea|B1|I går kväll sa radion att årets första snö skulle komma under natten, men det kom ingenting. Maggans knä hade fel.|어젯밤에 라디오에서 밤사이 올해 첫눈이 온다고 했는데 하나도 안 왔어. 마간 무릎이 틀렸어.
+Oskar|B2|Det var för kallt och för klart i natt. Snön har legat ute över havet och väntat på att vinden skulle vända.|어젯밤엔 너무 춥고 맑았어. 눈은 바다 위에 머물면서 바람이 바뀌길 기다리고 있었던 거야.
+Linnea|A2|Och nu har den vänt?|그럼 이제 바뀌었어?
+Oskar|A2|Titta ut genom fönstret.|창밖 봐 봐.
+Linnea|A1|Vänta…|잠깐만… (창가로 가서 커튼을 젖힌다)
+Oskar|A1|Nå?|어때?
+Linnea|A1|Det snöar!|(가로등 불빛 속으로 커다란 눈송이가 천천히 내려온다) 눈 온다!
+Oskar|B2|Här också. Det började för fem minuter sedan, och av flingorna att döma lär det inte sluta förrän i morgon bitti.|여기도. 5분 전부터 오기 시작했어. 눈송이 보니까 내일 아침까진 안 그칠 것 같아.
+Linnea|A2|Du visste det! Därför hade du telefonen i handen.|알고 있었구나! 그래서 폰 들고 있었던 거지.
+Oskar|B1|Jo. Jag tänkte att du kanske ville se årets första snö tillsammans med någon.|응. 넌 올해 첫눈을 누구랑 같이 보고 싶어 할지도 모른다고 생각했어.
+Linnea|A2|Jag ringde för att jag ville se dig.|(창유리에 이마를 대고, 조금 떨리는 목소리로) 나 너 보고 싶어서 전화한 거야.
+Oskar|A1|Nu?|지금?
+Linnea|A1|Ja. Nu.|응. 지금.
+Oskar|B1|Jag är där om tjugo minuter, om tunnelbanan går som den ska.|20분 안에 갈게. 지하철만 제대로 다니면.
+Linnea|B1|Du är här om femton, eftersom du alltid kommer för tidigt.|15분이겠지. 넌 항상 일찍 오니까.
+Oskar|A2|Bara när jag är nervös.|긴장할 때만 그래.
+Linnea|A1|Är du nervös?|긴장했어?
+Oskar|A2|Jo. Ta på dig vantar.|응. 장갑 껴.
+# 장면 2 — 베스테르브론, 가을을 되짚으며
+Linnea|A2|Fjorton minuter. Jag räknade.|(혼스툴, 린네아의 건물 현관 앞. 눈을 맞으며 서 있는 오스카르에게) 14분. 세어 봤어.
+Oskar|A2|Jag sprang inte. Jag gick fort.|안 뛰었어. 빨리 걸었을 뿐이야.
+Linnea|A2|Du har snö i håret. Hur länge har du stått här?|머리에 눈 쌓였어. 여기 얼마나 서 있었어?
+Oskar|A2|Och du har min halsduk. Fortfarande.|(대답 대신) 그리고 넌 내 목도리 하고 있네. 아직도.
+Linnea|A1|Den är min nu.|이제 내 거야.
+Oskar|A2|Jaså. Den har bott hos dig ett tag nu.|그래? 하긴, 너네 집에 산 지 꽤 됐지.
+Linnea|B1|Ska vi gå upp på Västerbron? Därifrån ser man hela stan, även när det snöar.|베스테르브론 올라갈래? 거기선 시내가 다 보여, 눈 올 때도.
+Oskar|A1|Ja. Kom.|그래. 가자.
+Linnea|B1|Det är konstigt. Det känns som om jag har känt dig mycket längre än i två månader.|(다리 위. 발밑으로 검은 물과 눈에 덮여 가는 롱홀멘의 나무들) 이상해. 두 달보다 훨씬 오래 알고 지낸 것 같아.
+Oskar|A2|Åtta veckor. I dag.|8주. 오늘로.
+Linnea|A1|Har du räknat?|세어 본 거야?
+Oskar|B2|Den som har räknat tolvhundrafyrtio nitar klarar nog att hålla reda på några veckor.|리벳을 1,240개나 세어 본 사람이 몇 주쯤 못 세겠어?
+Linnea|B1|Får jag fråga en sak som jag har undrat över sedan första kvällen?|첫날 저녁부터 궁금했던 거 하나 물어봐도 돼?
+Oskar|A2|Fråga. Jag svarar om jag kan.|물어봐. 대답할 수 있으면 할게.
+Linnea|A2|Varför trodde du att jag jobbade på Lyktan?|왜 내가 Lyktan 직원이라고 생각했어?
+Oskar|B2|Du hade en grön kofta och en hel trave böcker i famnen, och du rörde dig mellan hyllorna som om du hade ställt dit varenda bok själv.|초록 카디건에 책을 한 아름 안고 있었잖아. 책장 사이를 다니는 게, 꼭 거기 있는 책을 전부 네가 직접 꽂아 놓은 사람 같았어.
+Linnea|A2|Jag köpte bara tre av dem.|그중에 세 권만 샀는데.
+Oskar|B2|Det visste jag inte då. Jag var för upptagen med att inte stirra på dig.|그땐 몰랐지. 너 빤히 안 쳐다보려고 애쓰느라 바빴거든.
+Linnea|B1|Ida sa att koftan fick mig att se ut som en bibliotekarie som har gett upp kärleken.|이다 언니는 그 카디건 입으면 사랑을 포기한 사서 같다고 했어.
+Oskar|A1|Den är fin.|예뻐.
+Linnea|A2|Det sa du på bokcirkeln också.|북클럽에서도 그렇게 말했잖아.
+Oskar|B1|Det är fortfarande sant, även om Ida aldrig kommer att hålla med.|지금도 사실이야. 이다 씨는 절대 동의 안 하겠지만.
+Linnea|B1|Och sedan gick du ut i regnet och glömde boken som du hade kommit dit för att köpa.|그러고는 빗속으로 나가 버렸지. 사러 왔던 책은 두고.
+Oskar|B1|Jag glömde den inte riktigt. Jag tänkte på något annat när jag gick.|진짜 잊어버린 건 아니야. 나가면서 딴생각을 하고 있었어.
+Linnea|A1|På vad?|무슨 생각?
+Oskar|A2|På tjejen i den gröna koftan.|초록 카디건 입은 여자 생각.
+Linnea|B1|Maggan sa att du skulle komma tillbaka, för att det gör de alltid.|마간이 그랬어. 너 돌아올 거라고. 다들 그런다고.
+Oskar|B2|Hon hade rätt. Men jag hade nog kommit tillbaka även om boken inte hade legat kvar.|마간 말이 맞았어. 근데 책이 거기 없었어도 아마 다시 갔을 거야.
+Linnea|A2|Hon hade fel om snön i går, i alla fall.|그래도 어제 눈은 틀렸잖아.
+Oskar|B1|Hennes knä hade rätt. Det var bara vinden som inte hade bestämt sig än.|무릎은 맞았어. 바람이 아직 마음을 못 정했던 것뿐이야.
+Linnea|B2|Och sedan dök du upp på bokcirkeln med tolv kanelbullar, efter att ha läst exakt fyrtiotvå sidor.|그다음엔 시나몬롤 열두 개 들고 북클럽에 나타났지. 딱 42쪽 읽고.
+Oskar|A1|Jo… intressant.|(3화의 그 말투를 그대로 흉내 내며) 음… 흥미롭네요.
+Linnea|A2|Du sa det fyra gånger!|그 말을 네 번이나 했다니까!
+Oskar|B1|Gunnel tror fortfarande att jag är expert på isen i romanen.|군넬 씨는 아직도 내가 그 소설 속 얼음 전문가인 줄 알아.
+Linnea|B2|Och sedan regnet. En hel vecka av regn, när jag inte vågade svara på dina sms, eftersom jag hade dragit fel slutsatser.|그리고 비. 일주일 내내 비가 왔고, 난 멋대로 결론 내려 놓고 네 문자에 답할 엄두도 못 냈지.
+Oskar|B2|Fem sms. Jag har sparat dem, fast jag skäms över det sista – det lät som om jag redan hade gett upp.|문자 다섯 통. 다 저장해 뒀어. 마지막 건 좀 창피하지만. 벌써 포기한 사람처럼 들렸잖아.
+Linnea|A1|Förlåt.|미안해.
+Oskar|B1|Du har redan sagt förlåt. Och jag fick ju veta att du åt kanelbullar i fyra dagar.|이미 사과했잖아. 덕분에 네가 나흘 동안 시나몬롤만 먹었다는 것도 알게 됐고.
+Linnea|B1|Jag tror inte att jag kan äta en enda kanelbulle till i hela mitt liv.|평생 시나몬롤은 하나도 더 못 먹을 것 같아.
+Oskar|A2|Jo, det kommer du att göra.|아니, 먹게 될걸.
+# 장면 3 — 다리 한가운데, 단어를 찾다가
+Linnea|B1|Och ärtsoppan. Kastrullen står fortfarande på min diskbänk, fast det har gått tre veckor.|그리고 완두콩 수프. 그 냄비 3주째 아직 우리 집 싱크대에 있다.
+Oskar|B2|Jag vet. Jag har låtit den stå där med flit, så att jag alltid har en ursäkt att komma tillbaka.|알아. 일부러 거기 둔 거야. 다시 갈 핑계가 늘 있게.
+Linnea|A2|Du behöver ingen ursäkt.|핑계 필요 없어.
+Oskar|A1|Bra.|잘됐네.
+Linnea|B2|Och kyrkogården, med alla ljusen. Det var då jag förstod att du bär på saker som du aldrig visar för någon.|그리고 묘지, 그 수많은 촛불. 네가 아무한테도 안 보여 주는 걸 혼자 짊어지고 다닌다는 걸 그때 알았어.
+Oskar|B1|Jag hade inte berättat om pappa för någon på flera år. Med dig var det lättare.|아빠 얘기는 몇 년 동안 아무한테도 안 했었어. 너한텐 더 쉬웠어.
+Linnea|B1|Din hand var kall den kvällen, trots att du hade vantar i fickan.|그날 밤 네 손 차가웠어. 장갑은 주머니에 있었으면서.
+Oskar|A1|Inte nu längre.|(장갑 낀 손으로 린네아의 손을 잡으며) 지금은 아니야.
+Linnea|A2|Titta, där nere ligger Långholmen.|봐, 저 아래 롱홀멘이야.
+Oskar|B2|Svalan står där nere i skjulet. Hon har klarat över nittio vintrar, så en natt med snö bekommer henne inte.|스발란이 저 아래 창고에 있어. 아흔 번 넘는 겨울을 버텼으니 눈 오는 밤 하루쯤은 끄떡없지.
+Linnea|A2|Hon är lite som du, tycker jag.|스발란은 좀 너 같아.
+Oskar|A1|Gammal?|늙어서?
+Linnea|B2|Nej! Envis. Och betydligt starkare än man skulle kunna tro vid första anblicken.|아니! 고집 세서. 그리고 처음 봐서는 상상도 못 할 만큼 훨씬 튼튼해서.
+Oskar|B1|Linnea. I lördags vid porten var det något som jag ville säga.|린네아. 지난 토요일에 현관 앞에서, 하고 싶은 말이 있었어.
+Linnea|B1|Jag vet. Jag sprang in innan du hann säga det.|알아. 네가 말하기도 전에 내가 도망치듯 들어갔지.
+Oskar|B1|Du sa god natt så fort att porten nästan slog igen framför näsan på mig.|잘 자라는 말을 어찌나 빨리 하던지, 현관문이 내 코앞에서 닫힐 뻔했어.
+Linnea|B1|Får jag säga något först i kväll? Jag har övat, ungefär som du övade framför Svalan.|오늘은 내가 먼저 말해도 돼? 연습했어. 네가 스발란 앞에서 연습했던 것처럼.
+Oskar|A1|Ahmed.|(눈을 질끈 감으며) 아메드 이 자식.
+Linnea|A1|Får jag?|해도 돼?
+Oskar|A2|Ja. Jag lyssnar, och jag säger ingenting.|응. 들을게. 아무 말도 안 할게.
+Linnea|B2|Okej. När jag översätter letar jag alltid efter det exakta ordet, och jag ger mig inte förrän jag har hittat det.|좋아. 난 번역할 때 늘 딱 맞는 단어를 찾아. 찾을 때까지 절대 안 놓아.
+Oskar|B2|Jag vet. Jag har sett dig sitta en halvtimme med ett enda ord, som om det vore en planka med fel fiberriktning.|알아. 단어 하나 붙들고 30분씩 앉아 있는 거 봤어. 결이 잘못 난 판자라도 되는 것처럼.
+Linnea|B1|Jag har tänkt på dig varje dag sedan dess. Sedan den där kvällen i regnet.|그날 이후로 매일 네 생각 했어. 비 오던 그 저녁 이후로.
+Oskar|A1|Jag också.|나도.
+Linnea|B2|Och jag ville säga att jag är… förälskad. Nej, det är för litet. Kär? Det låter som en schlager. Fäst vid dig? Nej, då låter jag som ett frimärke.|그리고 하고 싶었던 말은, 내가… *förälskad*(반했다)? 아니, 그건 너무 작아. *kär*(사랑에 빠졌다)? 유행가 가사 같아. 너한테 *fäst*(붙어 있다)? 아니, 그럼 내가 무슨 우표 같잖아.
+Oskar|A1|Ett frimärke.|(웃음을 참으며) 우표.
+Linnea|B2|Jag har lärt mig ett helt språk till för att hitta ord som saknas på svenska, och nu står jag här utan ett enda ord.|스웨덴어에 없는 단어를 찾으려고 언어를 하나 더 배운 사람이, 지금 여기서 단어 하나 없이 서 있어.
+Oskar|B1|Det kanske finns ett ord på koreanska som passar bättre, som jeong?|한국어엔 더 잘 맞는 단어가 있을지도 모르잖아. 정처럼?
+Linnea|B2|Jeong byggs upp med tiden, nästan utan att man märker det. Det här märkte jag direkt, i en dörröppning, medan det regnade.|정은 시간이 쌓는 거야. 거의 모르는 사이에. 근데 이건 바로 알았어. 비 오는 날, 서점 문간에서.
+Oskar|A2|Då är det kanske både och.|그럼 둘 다인가 보지.
+Linnea|B1|Vänta, jag ska hitta det rätta ordet. Det finns ett, jag vet att det finns ett…|잠깐, 맞는 단어 찾을게. 하나 있어, 분명히 있는데…
+Oskar|A2|Du behöver inte leta.|안 찾아도 돼.
+Linnea|B2|För första gången i mitt liv hittar jag inte rätt ord — och det gör ingenting.|(입을 열었다 닫았다 하다가, 결국 웃음을 터뜨린다) 태어나서 처음으로 맞는 단어를 못 찾겠어. 근데 그래도 괜찮아.
+Oskar|B1|Det är det finaste du har sagt, och du har sagt många fina saker.|네가 한 말 중에 제일 예쁜 말이야. 예쁜 말 많이 했는데도.
+Linnea|A2|Men förstod du vad jag menade?|근데 무슨 말인지 알아들었어?
+# 장면 4 — 눈, 그리고 말 없이
+Oskar|A1|Ja.|응.
+Linnea|A1|Säkert?|진짜?
+Oskar|A2|Jag har förstått det sedan i oktober.|10월부터 알고 있었어.
+Linnea|A1|Va?!|뭐?!
+Oskar|B1|Du är inte så svår att läsa som du tror, Linnea.|넌 네가 생각하는 것만큼 읽기 어려운 사람 아니야, 린네아.
+Linnea|A2|Och vad säger vi nu, då?|그럼… 이제 우리 뭐라고 해?
+Oskar|A1|Ingenting.|아무것도.
+Linnea|A1|Ingenting?|아무것도?
+Oskar|A2|Ibland behövs inga ord.|가끔은 말이 필요 없어.
+Linnea|A1|Nej. Det gör de inte.|(작게) 응. 필요 없네.
+Oskar|A1|Kom.|(린네아 목에 감긴 자기 목도리 끝을 살며시 당기며) 이리 와.
+Linnea|A1|Det snöar fortfarande.|(첫 키스. 한참 뒤, 이마를 맞댄 채 속삭인다) 아직 눈 와.
+Oskar|A1|Jo.|응.
+Linnea|A2|Var det ett glatt jo?|그거… 기쁜 '응'이야?
+Oskar|A1|Jo.|(웃음기 섞인 목소리로. 화면이 천천히 어두워지고, 가로등 불빛 속에 눈만 내린다) 응.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Det snöar!** | 눈 온다! | 날씨 동사는 형식 주어 *det*과 함께: *Det regnar*(비 온다), *Det blåser*(바람 분다). 눈송이는 *en snöflinga*, 첫눈은 *årets första snö* |
+| `A1` | **Nu? — Ja. Nu.** | 지금? — 응. 지금. | 한 단어 대답도 억양만으로 충분하다. *nu*(지금), *sen*(나중에), *i morgon*(내일) — 시간 부사 한 단어로 약속을 잡는 연습 |
+| `A2` | **Jag ringde för att jag ville se dig.** | 너 보고 싶어서 전화했어. | *för att* + 절 = ~해서(이유). 이유를 말하는 *eftersom*보다 구어적. *för att* + 부정사(*för att se dig*)는 "~하려고"(목적)가 되니 구별할 것 |
+| `A2` | **Ibland behövs inga ord.** | 가끔은 말이 필요 없어. | *behövas*(필요하다)는 ‑s 형태로만 쓰는 동사. *Det behövs inte*(그럴 필요 없어). *inga*는 복수 명사 앞의 부정(*inga ord* = 단어가 하나도 없는) |
+| `B1` | **Jag har tänkt på dig varje dag sedan dess.** | 그날 이후로 매일 네 생각 했어. | 과거부터 지금까지 이어지는 일은 현재완료(*har tänkt*). *sedan dess* = 그때 이후로. *tänka på* + 사람 = ~를 생각하다 |
+| `B1` | **Du är inte så svår att läsa som du tror.** | 넌 네가 생각하는 것만큼 읽기 어렵지 않아. | *inte så* + 형용사 + *som* = ~만큼 ~하지 않다. *läsa någon* = 누군가의 마음을 읽다 |
+| `B1` | **Jag sprang in innan du hann säga det.** | 네가 말하기도 전에 들어가 버렸어. | *hinna* + 동사원형 = (시간 안에) ~할 짬이 있다. *innan du hann* = 네가 미처 ~하기 전에. 이번 화 초반의 *Då hann du först*(그럼 네가 먼저네)도 같은 동사 |
+| `B2` | **För första gången i mitt liv hittar jag inte rätt ord — och det gör ingenting.** | 태어나서 처음으로 맞는 단어를 못 찾겠어. 근데 그래도 괜찮아. | 부사구가 문장 맨 앞에 오면 V2 어순으로 동사가 두 번째(*hittar jag*). *det gör ingenting* = 상관없다, 괜찮다 |
+| `B2` | **Av flingorna att döma lär det inte sluta förrän i morgon bitti.** | 눈송이 보니 내일 아침까진 안 그칠 것 같아. | *av X att döma* = X로 판단하건대. *lär* + 동사원형 = ~할 것 같다(추측). *inte … förrän* = ~가 되어서야 비로소 |
+| `B2` | **Jag har låtit den stå där med flit, så att jag alltid har en ursäkt att komma tillbaka.** | 일부러 거기 둔 거야, 다시 갈 핑계가 늘 있게. | *låta* + 목적어 + 동사원형 = ~를 ~하게 두다. *med flit* = 일부러. *så att* + 절 = ~하도록(목적·결과). 냄비 하나에 담긴 오스카르식 고백 |
+
+## 문화 메모
+- **베스테르브론(Västerbron)** — 1935년에 개통한 길이 약 600m의 아치교로, 쇠데르말름(혼스툴 근처)과 쿵스홀멘을 잇는다. 다리 한가운데의 보행로에서는 리다르피에르덴, 시청사, 감라스탄, 그리고 바로 아래 롱홀멘 섬까지 한눈에 들어와 스톡홀름 사람들이 손꼽는 산책·야경 명소다. 섬 롱홀멘은 옛 감옥이 호텔로 바뀐 곳으로 유명하고, 작은 조선소와 보트 창고들도 남아 있다.
+- **첫눈과 눈의 단어들** — 스톡홀름의 첫눈은 보통 11월 무렵이지만 해에 따라 10월에 오기도, 12월까지 미뤄지기도 한다. 스웨덴어에는 눈을 가리키는 말이 많다: 젖은 눈 *blötsnö*, 눈사람 만들기 좋은 *kramsnö*, 갓 내린 가루눈 *nysnö*, 진눈깨비 *snöblandat regn*. 기상 예보는 SMHI가 내지만, 마간처럼 "무릎으로 예보한다"는 농담도 흔하다.
+- **"사랑해"의 무게** — 스웨덴어에서 *Jag älskar dig*는 꽤 무거운 말이라 연애 초반에는 잘 쓰지 않는다. 대신 *Jag är kär i dig*(너한테 반했어), *Jag tycker om dig*(너 좋아해), 조금 더 가볍게 *Jag gillar dig* 같은 표현을 단계적으로 쓴다. 린네아가 단어를 고르다 포기하는 데는 이런 미묘한 차이가 한몫한다.
+
+## 1부를 마치며
+- **질문하는 법** — *Ursäkta, jobbar du här?*에서 시작해 마간의 심문(*Hur gammal är du?*), 엘사의 질문 폭탄, 그리고 린네아가 배운 "짐작 대신 물어보기"까지. 의문사 *vad, var, vem, när, hur, varför*와 예/아니오 의문문의 동사 도치를 1부 내내 연습했다.
+- **과거와 현재완료** — *Jag glömde boken igår*(과거)와 *Jag har tänkt på dig varje dag sedan dess*(현재완료)의 차이. "언제"가 정해져 있으면 과거, 지금까지 이어지면 현재완료.
+- **종속절 어순과 *inte*의 자리** — *Jag trodde att hon var din flickvän*, *som inte frågade hur jag mådde*. 종속절에서는 *inte*가 동사 앞에 온다.
+- **B2의 맛보기** — *Hade jag väntat ett år till…* 같은 도치 가정문, *Man kan inte tvinga träet…* 같은 비유, 그리고 *det gör ingenting*처럼 짧지만 깊은 관용구.
+- **번역할 수 없는 단어 한 쌍** — 한국어 *정(情)*과 스웨덴어 *lagom*. 2부에서는 *눈치*와 *mys*가 기다린다.
+
+## 다음 화 예고 — 2부 1화 *Advent* (대림절)
+첫눈 오던 다리 위의 밤이 지나고 맞는 대림절 첫 일요일. 감라스탄 스토르토리에트 광장의 크리스마스 마켓에는 빨간 오두막들과 별 조명이 가득하다. *Vad kostar den?* *Kan jag få två glögg?* 뜨거운 글뢰그와 진저브레드를 사이에 두고, 키스 이후 첫 데이트에 나선 두 사람은 같은 질문 하나를 서로 꺼내지 못한 채 눈치만 본다. 그 틈에 린네아가 설명하는 한국어 단어, *눈치*. 그리고 마침내 — "Är vi… tillsammans nu?" "Jo. Om du vill." 행복한 순간, 린네아의 휴대폰 화면에 이름 하나가 뜬다. **Johan.** 2부 겨울 *Mörker och ljus*(어둠과 빛)가 시작된다.
