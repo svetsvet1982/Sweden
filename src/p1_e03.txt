@@ -1,0 +1,155 @@
+@title 1부 3화 — Kanelbullens dag
+@subtitle (시나몬롤의 날)
+@meta 날짜|10월 2일 목요일 저녁 6시 반 ~ 8시 (10월 4일 시나몬롤의 날 이틀 전)
+@meta 장소|서점 **Lyktan** (바스투가탄) — 책장 사이에 의자를 둥글게 놓은 북클럽 자리 → 서점 문 앞
+@meta 등장인물|**Oskar** (오스카르, 31) · **Linnea** (린네아, 28) · **Maggan** (마간, 68) · 북클럽 회원: **Gunnel** (군넬, 72, 은퇴한 국어 교사) · **Viktor** (빅토르, 34, 문학 박사과정생) · **Hanna** (한나, 41, 세 아이의 엄마)
+@intro **지난 이야기** — 토요일 아침, 책을 찾으러 Lyktan에 돌아온 오스카르는 마간의 "심문"을 통과한 끝에 책과 함께 정보 하나를 얻었다. 린네아가 목요일마다 북클럽에 온다는 것. 같은 시각 언니 이다는 린네아에게 목요일엔 꼭 가라고, 단 초록 카디건은 입지 말라고 못 박았다. 그날 저녁, 조선소에서 독서 목록을 펼쳐 본 오스카르는 얼어붙었다. 이번 주 책은 소설 『Vinterhamnen(겨울 항구)』, 412쪽. 남은 시간은 닷새.
+@intro 목요일 저녁 6시 반. 문 닫은 Lyktan의 책장 사이에 의자 여섯 개가 둥글게 놓여 있다. 마간이 커피를 따르고, 단골 회원 셋은 밑줄과 포스트잇으로 너덜너덜해진 『Vinterhamnen』을 무릎에 올려 두었다. 린네아는 결국 초록 카디건을 입고 왔다. 그리고 그녀는 자꾸만 문 쪽을 본다.
+# 장면 1 — Lyktan, 목요일 저녁 6시 반
+Gunnel|B1|Klockan är redan halv sju. Vi brukar aldrig vänta på folk som kommer för sent.|벌써 여섯 시 반이에요. 우린 늦는 사람은 원래 안 기다려요.
+Maggan|B2|Ge oss fem minuter till, Gunnel. Jag har på känn att vi får ett oväntat besök i kväll.|5분만 더 줘요, 군넬. 오늘 저녁엔 뜻밖의 손님이 올 것 같은 예감이 들거든요.
+Linnea|A1|Besök? Vem då?|(모르는 척) 손님이요? 누구요?
+Maggan|A2|Det får du se. Fin kofta, förresten.|(눈을 찡긋하며) 보면 알아. 그건 그렇고, 카디건 예쁘네.
+Linnea|B1|Tack. Min syster tycker att den får mig att se ut som en bibliotekarie.|고마워요. 언니는 이거 입으면 사서처럼 보인대요.
+Viktor|B2|Bibliotekarier är kraftigt underskattade. De är kulturens sista väktare i en tid då ingen läser längre.|사서는 심하게 과소평가돼 있어요. 아무도 책을 안 읽는 시대에 문화를 지키는 마지막 파수꾼이라고요.
+Hanna|A2|Viktor, vi har inte ens börjat än. Ta det lugnt.|빅토르, 아직 시작도 안 했어. 진정해.
+Oskar|A1|Hej. Förlåt att jag är sen.|(문 종이 울리고, 하얀 상자를 든 오스카르가 들어온다) 안녕하세요. 늦어서 죄송해요.
+Maggan|A2|Välkommen, Oskar! Du kommer precis i tid.|어서 와요, 오스카르! 딱 맞춰 왔네요.
+Linnea|A1|Hej…|(카디건 소매를 만지작거리며) 안녕하세요…
+Oskar|A2|Hej. Du har den gröna koftan på dig.|안녕하세요. 그 초록 카디건 입으셨네요.
+Linnea|A2|Ja. Är det något fel med den?|네. 뭐 잘못됐어요?
+Oskar|A1|Nej. Den är fin.|아뇨. 예뻐요.
+Gunnel|A2|Och vad har du i lådan, unge man?|그런데 그 상자엔 뭐가 들었어요, 젊은이?
+Oskar|B1|Kanelbullar. Det är ju kanelbullens dag på lördag, så jag tänkte att vi kunde fira lite i förväg.|시나몬롤이요. 토요일이 시나몬롤의 날이잖아요. 그래서 미리 좀 축하하면 어떨까 했어요.
+Hanna|A1|Åh, vad snällt!|어머, 너무 다정하다!
+Viktor|B2|Kanelbullens dag är i och för sig ett kommersiellt påhitt, men jag tänker inte klaga när det gynnar mig.|시나몬롤의 날이란 게 사실 상업적으로 만들어 낸 날이긴 하지만, 나한테 득이 된다면야 불평할 생각은 없어요.
+Oskar|A1|Vill du ha en bulle?|(린네아에게 상자를 내밀며) 롤 하나 드실래요?
+Linnea|A2|Gärna, tack! Var har du köpt dem?|좋아요, 고마워요! 어디서 사셨어요?
+Oskar|A2|På ett bageri i Liljeholmen. De var fortfarande varma när jag gick.|릴리에홀멘에 있는 빵집에서요. 나올 때까지 따뜻했어요.
+Maggan|B1|Eftersom vi har en ny medlem i kväll föreslår jag att vi börjar med en kort presentationsrunda.|오늘은 새 회원이 왔으니까, 간단하게 자기소개부터 한 바퀴 돌죠.
+Gunnel|B1|Gunnel. Jag var svensklärare i trettiofem år, och jag har läst boken två gånger.|군넬이에요. 35년 동안 국어 교사였고, 이 책은 두 번 읽었어요.
+Viktor|B1|Viktor. Jag skriver en avhandling om havet som metafor i nordisk litteratur.|빅토르입니다. 북유럽 문학 속 바다의 은유에 관한 논문을 쓰고 있어요.
+Hanna|A2|Hanna. Jag har tre barn, så jag läser mest på tunnelbanan.|한나예요. 애가 셋이라 주로 지하철에서 읽어요.
+Oskar|A2|Oskar. Jag bygger båtar. Och… jag har inte läst klart.|오스카르예요. 배를 만들어요. 그리고… 다 못 읽었어요.
+# 장면 2 — 토론: 『Vinterhamnen』
+Maggan|B1|Ingen fara. Här läser vi för nöjes skull, inte för att klara ett prov. Gunnel, vill du börja?|(웃으며) 걱정 마요. 여긴 시험 보려고 읽는 데가 아니라 즐기려고 읽는 데니까. 군넬, 먼저 시작할래요?
+Gunnel|B2|Gärna. Huvudpersonen framstår som både sympatisk och självisk. Ester lämnar ju sin man och sin son i Stockholm för att vårda sin sjuka far.|기꺼이요. 주인공은 공감이 가면서도 이기적인 인물로 보여요. 에스테르는 아픈 아버지를 돌보겠다고 스톡홀름에 남편과 아들을 두고 떠나잖아요.
+Oskar|A1|Jo… intressant.|음… 흥미롭네요.
+Hanna|B1|Men är det verkligen själviskt att ta hand om sin pappa när han är sjuk?|근데 아픈 아빠를 돌보는 게 정말 이기적인 걸까요?
+Gunnel|B2|Inte i sig. Men hon stannar kvar långt efter att han har blivit bättre, och hon ringer knappt hem på hela vintern.|그 자체로는 아니죠. 하지만 아버지가 회복된 뒤에도 한참을 더 머물고, 겨울 내내 집에 전화도 거의 안 하잖아요.
+Viktor|B2|Jag skulle vilja hävda att hamnen är bokens egentliga huvudperson. Den frusna hamnen speglar hur Ester själv har frusit fast i sitt liv.|저는 항구야말로 이 책의 진짜 주인공이라고 주장하고 싶어요. 얼어붙은 항구는 에스테르 자신이 삶 속에 얼어붙어 버린 모습을 비추고 있죠.
+Oskar|A1|Jo. Intressant.|네. 흥미롭네요.
+Gunnel|A2|Är det allt du har att säga?|할 말이 그게 다예요?
+Oskar|A2|Än så länge, ja. Jag lyssnar hellre först.|아직은요, 네. 일단 듣는 게 좋아서요.
+Maggan|B2|Ett klokt förhållningssätt. Det finns medlemmar i den här cirkeln som skulle må bra av att pröva det någon gång.|현명한 태도네요. 이 모임에도 언젠가 한번 그렇게 해 보면 좋을 회원들이 있는데 말이죠.
+Viktor|A1|Menar du mig nu?|지금 저 말씀하시는 거예요?
+Maggan|A1|Kanske.|글쎄.
+Hanna|B1|Jag grät faktiskt i scenen där Ester hittar pappans gamla brev. Det var det finaste i hela boken.|저 사실 에스테르가 아빠의 옛날 편지를 찾는 장면에서 울었어요. 책 전체에서 제일 아름다웠어요.
+Linnea|B1|Jag också. Det är första gången han visar att han är stolt över henne.|저도요. 아빠가 딸이 자랑스럽다는 걸 처음으로 드러내는 장면이잖아요.
+Gunnel|B2|Fast han säger det aldrig rakt ut – han skriver det, och först när det nästan är för sent. Det är typiskt för en viss sorts norrländsk man.|하지만 대놓고 말하지는 않죠. 글로 쓰고, 그것도 거의 너무 늦었을 때야. 그게 노를란드 남자들의 한 전형이에요.
+Oskar|A1|Jo… intressant.|(모두의 시선이 쏠린다) 음… 흥미롭네요.
+Linnea|A2|Oskar kommer faktiskt från Norrland.|오스카르는 사실 노를란드 출신이에요.
+Gunnel|A2|Jaså? Varifrån i Norrland?|그래요? 노를란드 어디요?
+Oskar|A1|Härnösand.|회르뇌산드요.
+Viktor|B1|Men då känner du ju igen miljön! Boken utspelar sig ju på Höga kusten.|그럼 배경을 알아보셨겠네요! 이 책 회가쿠스텐(높은 해안)이 배경이잖아요.
+Oskar|A2|Jo. Det är inte långt hemifrån.|네. 고향에서 멀지 않아요.
+Hanna|A2|Finns Norrhamn på riktigt?|노르함이라는 데가 진짜 있어요?
+Oskar|B1|Nä, jag tror inte det. Men det finns många små hamnar som ser ut precis som den på omslaget.|아뇨, 없을 거예요. 근데 표지에 있는 거랑 똑같이 생긴 작은 항구는 많아요.
+Linnea|A1|På omslaget?|(작게) 표지요?
+Oskar|A1|Och i boken.|(재빨리) 책에서도요.
+Viktor|B2|Det jag fastnade för var språket. Meningarna blir kortare och kortare ju längre vintern pågår, som om själva prosan fryser.|저는 문체에 꽂혔어요. 겨울이 길어질수록 문장이 점점 짧아지잖아요. 마치 산문 자체가 얼어붙는 것처럼.
+Gunnel|B2|Där har du för en gångs skull rätt, Viktor. Det är skickligt gjort, även om det ibland gränsar till det manierade.|웬일로 그건 맞는 말이네, 빅토르. 솜씨 있게 썼어요. 가끔은 좀 작위적인 데까지 가긴 하지만.
+Hanna|A2|Vad betyder manierad?|'작위적'이 무슨 뜻이에요?
+Linnea|B1|Att något känns konstlat. Typ att författaren försöker lite för mycket.|뭔가 억지로 꾸민 느낌이 난다는 거예요. 작가가 좀 너무 애쓰는 것 같은.
+Gunnel|B1|Precis. Man märker att du är översättare. Och vad säger båtbyggaren om språket?|바로 그거예요. 역시 번역가라 다르네. 그럼 배 만드는 분은 문체에 대해 뭐라고 할까요?
+Oskar|A1|Jo… intressant.|음… 흥미롭네요.
+Viktor|A2|Det sa du nyss också.|그 말 아까도 하셨잖아요.
+Oskar|B2|Men en sak i början stämmer verkligen. Isen lägger sig först i de grunda vikarna. Och pappan som lär Ester att slå i isen med ispiken innan hon tar ett steg – så gjorde min pappa också.|(갑자기 진지해지며) 그래도 앞부분에 정말 맞는 게 하나 있어요. 얼음은 얕은 만에서부터 먼저 얼어요. 그리고 아빠가 에스테르한테 한 발 내딛기 전에 얼음송곳으로 얼음을 두드려 보라고 가르치는 거요. 우리 아버지도 그랬어요.
+Hanna|A1|Oj!|와!
+Gunnel|B2|Där ser man. Ibland säger en enda konkret iakttagelse mer än en hel avhandling om metaforer.|거 봐요. 때로는 구체적인 관찰 하나가 은유에 관한 논문 한 편보다 더 많은 걸 말해 준다니까.
+Viktor|A2|Tack, Gunnel. Mycket snällt av dig.|(시무룩하게) 고마워요, 군넬. 참 친절하시네요.
+Linnea|B1|Det där var faktiskt riktigt bra, Oskar. Jag har aldrig tänkt på hur man vet om isen håller.|방금 그거 정말 좋았어요, 오스카르. 얼음이 버틸지 어떻게 아는지는 한 번도 생각해 본 적 없어요.
+Oskar|A2|Det är ungefär det enda jag kan.|(린네아에게만 들리게) 제가 아는 건 거의 그것뿐이에요.
+Maggan|A2|Vem vill ha mer kaffe?|커피 더 드실 분?
+Hanna|A1|Ja, tack!|저요, 주세요!
+Gunnel|B1|Och en bulle till, om den unge mannen inte har något emot det.|그리고 저 젊은이가 괜찮다면 롤도 하나 더.
+Oskar|A1|Ta två.|두 개 드세요.
+Viktor|B1|Ska vi gå vidare till slutet nu? Det är ju där det blir riktigt spännande.|이제 결말로 넘어갈까요? 진짜 흥미진진해지는 건 거기서부터잖아요.
+Linnea|A1|Redan?|(오스카르 쪽을 흘끗 보며) 벌써요?
+Maggan|B1|Klockan är snart åtta, lilla vän. Det är hög tid.|곧 여덟 시야, 얘야. 이제 할 때 됐지.
+# 장면 3 — 위기: "결말은 어떻게 보셨어요?"
+Viktor|B1|Oskar, du som kommer därifrån. Vad tyckte du om slutet?|오스카르 씨, 그 동네 출신이시잖아요. 결말 어떻게 보셨어요?
+Oskar|A1|Slutet?|결말이요?
+Viktor|A2|Ja. Den sista sidan. När isen går upp.|네. 마지막 페이지요. 얼음이 풀릴 때.
+Oskar|A1|Jo… Den var…|음… 그게…
+Linnea|B1|Förlåt, får jag säga en sak först? Jag har tänkt på slutet hela veckan, och jag måste få det ur mig.|(끼어들며) 죄송한데, 제가 먼저 하나 말해도 될까요? 일주일 내내 결말 생각만 했더니, 이거 말 안 하면 못 견디겠어요.
+Maggan|A1|Varsågod, Linnea.|(입꼬리를 올리며) 해 보렴, 린네아.
+Linnea|B2|Ester står på kajen med biljetten i handen när isen äntligen släpper, och boken tar slut innan vi får veta om hon kliver ombord. Jag tycker att det är modigt av författaren.|얼음이 드디어 풀릴 때 에스테르가 표를 손에 쥐고 부두에 서 있잖아요. 그런데 배에 오르는지 알기도 전에 책이 끝나요. 저는 그게 작가의 용기라고 생각해요.
+Gunnel|B2|Modigt? Jag skulle snarare kalla det fegt. Författaren vågar inte ta ställning.|용기요? 나는 오히려 비겁하다고 하겠어요. 작가가 입장을 정할 배짱이 없는 거죠.
+Hanna|B1|Jag är säker på att hon åker hem. Hon har ju en son som väntar på henne.|저는 집에 간다고 확신해요. 기다리는 아들이 있잖아요.
+Viktor|B2|Det vore alldeles för enkelt. Hela romanen bygger på att hon äntligen har hittat tillbaka till sig själv.|그건 너무 단순하죠. 소설 전체가 그녀가 마침내 자기 자신을 되찾았다는 데 기반하고 있잖아요.
+Gunnel|A2|Och vad tror du, Oskar?|그럼 오스카르 씨는 어떻게 생각해요?
+Oskar|A1|Jag… Jag tror att…|저는… 제 생각엔…
+Linnea|A2|Isen! Du sa ju något om isen förut.|(재빨리) 얼음이요! 아까 얼음 얘기 하셨잖아요.
+Oskar|B1|Jo. När isen släpper på våren kommer den första färjan. Då måste man bestämma sig, för den väntar inte på någon.|네. 봄에 얼음이 풀리면 첫 페리가 와요. 그때는 결정을 해야 해요. 배는 아무도 기다려 주지 않으니까.
+Hanna|A1|Precis!|바로 그거예요!
+Gunnel|B1|Så du menar att hon tar färjan? Eller att hon låter den gå?|그러니까 배를 탄다는 거예요? 아니면 그냥 보낸다는 거예요?
+Oskar|A2|Det beror på.|그건 경우에 따라 다르죠.
+Gunnel|A1|På vad då?|뭐에 따라서요?
+Linnea|B1|På vad hon har kvar där, tror jag. Gunnel, du har ju läst den två gånger – såg du något nytt andra gången?|(다시 끼어들며) 거기에 뭐가 남아 있느냐에 따라서겠죠. 군넬, 두 번 읽으셨잖아요. 두 번째엔 새로 보인 거 있었어요?
+Gunnel|B2|Det gjorde jag faktiskt. Andra gången lade jag märke till att färjan nämns redan på första sidan. Författaren har alltså planerat slutet från början.|사실 있었어요. 두 번째 읽을 때 보니까 페리가 벌써 첫 페이지에 나오더라고요. 그러니까 작가는 처음부터 결말을 계획해 둔 거예요.
+Viktor|B1|Det har jag också sett! Det är en så kallad cirkelkomposition.|저도 그거 봤어요! 이른바 원환 구조라는 거죠.
+Hanna|A2|Viktor, det har du inte alls sett. Du skrev precis upp det i ditt block.|빅토르, 너 그거 본 적 없잖아. 방금 수첩에 받아 적었으면서.
+Maggan|A2|Lugn, barn. Här bråkar vi inte.|진정들 해요, 얘들아. 여기선 싸우는 거 아니에요.
+Oskar|A2|Får jag ta en bulle till?|(조용히) 저 롤 하나 더 먹어도 될까요?
+Linnea|A1|Det är ju dina bullar.|(웃음을 참으며) 원래 오스카르 거잖아요.
+Gunnel|B2|Nåväl. Jag måste medge att det här var en av våra bättre diskussioner, och det beror inte enbart på bullarna.|자, 그럼. 인정할 수밖에 없네요. 오늘은 우리 토론 중에서도 꽤 좋은 편이었어요. 롤 덕분만은 아니고요.
+Maggan|B1|Då tackar vi för i kväll. Nästa gång läser vi en diktsamling, och den är på bara sextio sidor.|그럼 오늘은 여기까지. 다음 모임에선 시집을 읽어요. 겨우 60쪽짜리예요.
+Oskar|A2|Sextio sidor? Det klarar jag.|60쪽이요? 그건 할 수 있어요.
+Viktor|B2|Fast poesi är betydligt mer krävande per sida än prosa, så jag skulle inte ta ut segern i förväg.|근데 시는 쪽당으로 치면 산문보다 훨씬 까다로워요. 그러니까 김칫국부터 마시진 않는 게 좋을걸요.
+Hanna|A1|Viktor! Sluta.|빅토르! 그만해.
+# 장면 4 — Lyktan 문 앞, 바스투가탄의 밤
+Maggan|B1|Linnea, lilla vän, kan du följa Oskar till dörren? Gunnel och jag tar hand om disken.|린네아, 얘야, 오스카르 문까지 배웅해 줄래? 설거지는 나랑 군넬이 할게.
+Linnea|A1|Okej.|네.
+Oskar|A2|Tack för i kväll. Det var roligare än jag trodde.|(문 밖, 가로등 아래) 오늘 고마웠어요. 생각보다 재밌었어요.
+Linnea|A1|Du läste den inte, va?|(작게) 안 읽었죠, 그쵸?
+Oskar|A1|Nä.|아뇨.
+Linnea|A1|Jag visste det!|(둘 다 웃음이 터진다) 그럴 줄 알았어요!
+Oskar|A2|Var det så tydligt?|그렇게 티 났어요?
+Linnea|B1|Du sa ”Jo… intressant” fyra gånger. Och du pratade om bilden på omslaget!|"음… 흥미롭네요"를 네 번이나 했어요. 그리고 표지 그림 얘기까지 했고요!
+Oskar|B1|Jag försökte verkligen. Men jag läser långsamt, och jag kom bara till sidan fyrtiotvå.|진짜 노력은 했어요. 근데 제가 읽는 게 느려서, 42쪽까지밖에 못 갔어요.
+Linnea|B2|Fyrtiotvå sidor, och ändå var det du som sa det klokaste på hela kvällen. Gunnel blev imponerad, och det är inte direkt något som händer varje torsdag.|42쪽 읽고도 오늘 밤 제일 현명한 말을 한 사람이 오스카르였어요. 군넬이 감탄했잖아요. 그건 목요일마다 있는 일이 아니라고요.
+Oskar|B1|Och du räddade mig två gånger. Jag har undrat hela kvällen varför du gjorde det.|그리고 당신이 저를 두 번이나 구해 줬죠. 왜 그랬는지 저녁 내내 궁금했어요.
+Linnea|B2|För att jag inte ville att du skulle tro att bokcirklar bara handlar om att visa hur mycket man vet. Och för att… jag ville att du skulle komma tillbaka.|북클럽이 그냥 얼마나 많이 아는지 뽐내는 자리라고 생각하지 않았으면 해서요. 그리고… 다시 와 줬으면 해서요.
+Oskar|A2|Tillbaka till bokcirkeln?|북클럽에요?
+Linnea|A2|Till exempel. Men varför kom du egentligen? Du hade ju inte läst boken.|(시선을 피하며) 예를 들면요. 근데 진짜 왜 왔어요? 책도 안 읽었으면서.
+Oskar|B1|Maggan sa att du brukar komma hit på torsdagar. Jag tänkte att det var värt ett försök.|마간이 목요일마다 여기 온다고 했거든요. 한번 해 볼 만하다고 생각했어요.
+Linnea|A2|Med tolv kanelbullar?|시나몬롤 열두 개 들고요?
+Oskar|B2|Om jag inte hade något klokt att säga, tänkte jag, så kunde jag åtminstone bjuda på något gott.|똑똑한 말은 못 하더라도, 적어도 맛있는 거라도 대접할 수 있겠다 싶었죠.
+Maggan|A2|Linnea! Kan du hjälpa mig med kopparna?|(가게 안에서) 린네아! 컵 좀 도와줄래?
+Linnea|A2|Jag kommer! God natt, Oskar. Och tack för bullen.|금방 가요! 잘 가요, 오스카르. 롤 고마웠어요.
+Oskar|A2|Linnea! Ska vi ta en fika nån gång? Utan bok.|(돌아서는 그녀의 등에 대고) 린네아! 언제 피카 할래요? 책 없이.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vill du ha en bulle?** | 롤 하나 드실래요? | *vill du ha + 명사?* = ~드실래요? 권할 때 가장 기본 문장. *bulle* = 둥근 빵(번) |
+| `A1` | **Förlåt att jag är sen.** | 늦어서 죄송해요. | *förlåt att + 문장* = ~해서 미안해요. *vara sen* = 늦다 |
+| `A2` | **Jag har inte läst klart.** | 다 못 읽었어요. | *läsa klart* = 끝까지 다 읽다. 현재완료 + *inte* (부정어는 조동사 *har* 뒤) |
+| `A2` | **Du har den gröna koftan på dig.** | 그 초록 카디건 입었네요. | *ha något på sig* = ~을 입고 있다. 한정형 형용사 *den gröna koftan* (den + 형용사 -a + 명사 한정형) |
+| `B1` | **Vad tyckte du om slutet?** | 결말 어떻게 보셨어요? | *tycka om något* = ~에 대해 생각하다(의견). 과거형 *tyckte*로 다 읽은 책에 대한 감상을 묻는다 |
+| `B1` | **Jag måste få det ur mig.** | 이거 말 안 하면 못 견디겠어요. | *få ur sig* = (속에 있는 말을) 꺼내다, 털어놓다 |
+| `B1` | **Boken utspelar sig på Höga kusten.** | 이 책은 회가쿠스텐이 배경이에요. | *utspela sig* = (이야기가) ~에서 펼쳐지다. 재귀동사 |
+| `B2` | **Huvudpersonen framstår som både sympatisk och självisk.** | 주인공은 공감이 가면서도 이기적으로 보여요. | *framstå som* = ~로 보이다, ~라는 인상을 주다. *både … och …* = ~이기도 하고 ~이기도 한 |
+| `B2` | **Jag har på känn att…** | ~할 것 같은 예감이 들어요. | 관용구 *ha på känn* = 예감이 들다, 감이 오다 |
+| `B2` | **Jag skulle inte ta ut segern i förväg.** | 김칫국부터 마시지 않는 게 좋을걸요. | *ta ut segern i förväg* = 이기기도 전에 승리를 장담하다. *skulle* + 동사로 부드러운 충고 |
+
+## 문화 메모
+- **Kanelbullens dag (시나몬롤의 날, 10월 4일)** — 1999년 스웨덴의 가정 제빵 진흥 단체 *Hembakningsrådet*가 만든 기념일. 빅토르 말대로 "상업적인 발명"이지만, 이날 스웨덴 전국의 빵집과 슈퍼마켓은 시나몬롤로 가득 찬다.
+- **Fika와 bulle** — *bulle*는 효모 반죽으로 만든 둥근 빵을 통틀어 부르는 말이고, *kanelbulle*는 그 대표 선수다. 커피와 함께 단 빵을 곁들이는 쉬는 시간 *fika*는 동사("Ska vi fika?")로도 명사("en fika")로도 쓴다.
+- **Höga kusten (회가쿠스텐, "높은 해안")** — 오스카르의 고향 회르뇌산드 북쪽, 보트니아만을 따라 이어지는 해안. 빙하기 이후 땅이 지금도 솟아오르고 있어 유네스코 세계유산으로 지정됐다. 『Vinterhamnen』의 가상 마을 Norrhamn도 이 해안에 있다는 설정이다.
+- **Ispik (얼음송곳)** — 스웨덴에서는 언 호수나 바다 위를 걸을 때 목에 거는 *isdubbar*(얼음 탈출용 송곳)와 얼음 두께를 확인하는 *ispik*(긴 얼음 지팡이)를 챙기는 것이 기본 안전 수칙이다. 오스카르가 말하듯, 얼음은 얕은 만에서부터 먼저 언다.
+
+## 다음 화 예고 — 4화 *Första fikan* (첫 피카)
+일요일 오후, 쇠데르말름의 작은 카페. 이번엔 책도, 북클럽 회원도, 마간의 귀도 없다. "En kaffe, tack." 어색한 침묵 끝에 회르뇌산드의 겨울과 스톡홀름 토박이의 삶이 이어지고, 린네아는 다시 한번 *정*을 꺼낸다. 오스카르가 답례로 건네는 단어는 *lagom*.
