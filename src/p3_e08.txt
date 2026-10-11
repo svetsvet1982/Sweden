@@ -1,0 +1,155 @@
+@title 3부 8화 — Vi måste prata
+@subtitle (우리 이야기해야 해)
+@meta 날짜|4월 5일 일요일, 부활절(påskdagen) 새벽 5시 42분 ~ 7시쯤 (맑음, 영하 1도에서 영상 3도로 · 일출 6시 13분)
+@meta 장소|쇠데르말름 스킨나르비크 언덕(Skinnarviksberget) — 리다르피에르덴과 시청사, 베스테르브론이 내려다보이는 바위 꼭대기
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31)
+@intro **지난 이야기** 부활절 토요일, Lyktan의 påskpyssel. 마녀로 변장한 엘사는 일주일 전부터 테이블 지도에 엑스 두 개를 나란히 그려 놓았고, 마간은 가위 통을 카운터 밑에 숨겼다. 아이 의자에 몸을 접고 앉은 두 어른은 자작나무 가지 하나에 깃털 열한 개를 묶었다 — 전부 노 묶는 매듭으로 두 바퀴씩. 엘사의 부활절 편지에는 스발란의 고물에서 손을 흔드는 린네아가 있었다. "Det var innan allt det här. Men jag har inte ändrat mig." 그리고 "Ni får inte gå hem förrän ni är sams!" — 오스카르가 먼저 일어섰다. "Linnea. Kan vi prata? På riktigt?"
+@intro 린네아의 대답은 "Ja. Men inte här."였다. 그녀는 장소와 시간을 정확히 말했다. 내일, 스킨나르비크 언덕, 새벽 6시. 엘사가 "그건 집에 가는 거잖아요!" 하고 항의하자 마간이 판정했다. "내일 새벽 6시는 정확한 시간이니 규칙 위반이 아니란다." 그날 저녁 린네아는 이다의 부엌에서 달걀을 삶아 그림을 그렸고, 일주일 만에 처음으로 혼스툴 자기 집에서 잤다. 오스카르는 새벽 다섯 시에 릴리에홀멘을 나와 다리를 건너 걸었다. 쇠데르말름에서 가장 높은 바위 위, 아직 아무도 없는 시간이다.
+# 장면 1 — 일출, 보온병 두 개
+Linnea|A2|Du är redan här. Klockan är inte ens sex.|(새벽 5시 42분. 바위 꼭대기로 올라오는 비탈길, 숨이 조금 차다. 동쪽 하늘이 옅은 주황빛이다. 오스카르가 바위에 앉아 있다. 옆엔 보온병 두 개) 벌써 와 있네. 아직 6시도 안 됐는데.
+Oskar|A1|Jo. Jag var tidig.|(일어선다) 응. 일찍 왔어.
+Linnea|A1|Hur tidig?|얼마나 일찍?
+Oskar|A2|Tjugo minuter. Kanske trettio.|20분. 30분쯤일 수도.
+Linnea|B1|Du kommer alltid för tidigt när du är nervös. Det har jag lärt mig.|넌 긴장하면 늘 너무 일찍 오잖아. 그건 이제 알아.
+Oskar|A2|Sätt dig här. Stenen är kall.|(바위 위에 접어 둔 회색 울 담요를 편다) 여기 앉아. 돌이 차.
+Linnea|A2|Tack. Du har till och med tagit med en filt.|고마워. 담요까지 챙겨 왔네.
+Oskar|A2|Kaffe? Jag har två termosar.|커피 마실래? 보온병 두 개 가져왔어.
+Linnea|A2|Två? Varför två?|두 개? 왜 두 개야?
+Oskar|B1|Den ena är svart. I den andra har jag hällt i lite havremjölk, som du brukar ha.|하나는 블랙. 다른 하나엔 귀리 우유 조금 넣었어. 너 늘 그렇게 마시잖아.
+Linnea|B1|Du kommer ihåg hur jag dricker mitt kaffe, fast vi inte har pratat på en vecka.|(뚜껑 컵을 두 손으로 감싼다) 일주일 동안 말 한마디 안 했는데도 내가 커피 어떻게 마시는지 기억하는구나.
+Oskar|A1|Jo.|응.
+Linnea|B1|Och jag har med mig ägg. Ida och jag kokade dem i går kväll, för man kan inte fira påsk utan ägg.|(가방에서 종이봉투를 꺼낸다. 알루미늄 포일로 싼 소금 한 꼬집도) 그리고 난 달걀 가져왔어. 어젯밤에 이다 언니랑 삶았어. 부활절에 달걀이 없으면 안 되잖아.
+Oskar|A2|Har du målat dem?|그림도 그렸어?
+Linnea|B1|Ja. Och Ida målade ett som ska föreställa dig.|응. 그리고 언니가 너라면서 하나 그렸어.
+Oskar|A1|Vilket?|어느 거?
+Linnea|A1|Det bruna. Det som inte ler.|갈색 거. 안 웃는 거.
+Oskar|B1|Det ler lite, i ena mungipan. Ida ser mer än hon låtsas.|(달걀을 돌려 본다) 조금 웃는데. 입꼬리 한쪽이. 이다 씨는 모르는 척해도 다 보네.
+Linnea|A1|Lite, ja.|조금은, 그래.
+Oskar|B1|Varför ville du ses just här? Och så här tidigt?|왜 하필 여기서 보자고 했어? 그것도 이렇게 일찍.
+Linnea|B2|Mormor sa att solen dansar på påskdagens morgon, om man bara är uppe tidigt nog. Jag har aldrig sett den dansa, men jag har aldrig slutat titta heller.|외할머니가 그러셨어. 부활절 아침엔 해가 춤을 춘대, 일찍만 일어나면. 춤추는 건 한 번도 못 봤어. 근데 보는 걸 그만둔 적도 없어.
+Oskar|A2|Dansar den?|춤춰?
+Linnea|B1|Inte på riktigt. Men här finns det ingen vägg som Maggan kan stå bakom och lyssna.|진짜로는 아니고. 그리고 여긴 마간이 뒤에 서서 엿들을 벽이 없잖아.
+Oskar|A2|Nej. Här finns bara vind.|그렇지. 여긴 바람밖에 없어.
+Linnea|B1|Och hela stan nedanför, som om den fortfarande sover.|그리고 저 아래 도시 전체. 아직 자는 것처럼.
+Oskar|B2|Isen har släppt i hela Riddarfjärden nu. För en vecka sedan låg det fortfarande en tunn isskorpa längs kajen vid Söder Mälarstrand.|(물 쪽을 본다) 이제 리다르피에르덴 전체에 얼음이 다 풀렸어. 일주일 전만 해도 쇠데르 멜라르스트란드 부두 따라 얇은 살얼음이 남아 있었는데.
+Linnea|A1|Titta! Där!|(6시 13분. 감라스탄 쪽 지붕들 너머로 빛이 터진다) 봐! 저기!
+Oskar|A2|Där kommer den. Precis bakom kyrktornet på Riddarholmen.|저기 오네. 리다르홀멘 교회 첨탑 바로 뒤에서.
+Linnea|A1|Förlåt.|(해를 보면서, 그를 보지 않고) 미안해.
+Oskar|A1|Förlåt.|(거의 같은 순간에) 미안해.
+# 장면 2 — 사과들
+Linnea|A2|Hann jag före den här gången?|(고개를 돌린다. 웃음이 반쯤 새어 나온다) 이번엔 내가 먼저였어?
+Oskar|B1|Nä. Vi sa det samtidigt, och då räknas det för oss båda.|아니. 동시에 했어. 그럼 둘 다 친 걸로 해.
+Linnea|B1|Jag har ett helt tal. Det har jag burit på sedan i torsdags.|나 연설 하나 통째로 있어. 목요일부터 품고 다녔어.
+Oskar|A2|Jag har också något. Får jag börja?|나도 뭐 있어. 내가 먼저 해도 돼?
+Linnea|A2|Du? Vill du börja först?|(컵이 입술 앞에서 멈춘다) 네가? 네가 먼저 하고 싶어?
+Oskar|B1|Ja. Annars börjar du, och då säger jag bara "jo" i en halvtimme.|응. 안 그러면 네가 시작하고, 난 30분 동안 "응"만 하게 될 거야.
+Linnea|A1|Okej. Börja.|알았어. 해.
+Oskar|B1|Jag har övat i tre kvällar, som när jag övade på Ronja. Det är fyra saker, och jag kan dem utantill.|(재킷 안주머니를 한 번 만진다. 꺼내지는 않는다) 사흘 저녁 연습했어. 로냐 연습할 때처럼. 네 가지야. 다 외웠어.
+Linnea|A1|Fyra?|네 가지?
+Oskar|B1|Den första: jag skrek "Gå!" åt dig. Jag har aldrig skrikit så åt någon förut – och så blev det just du.|첫 번째. 너한테 "가!"라고 소리쳤어. 누구한테도 그렇게 소리친 적 없었는데, 그게 하필 너였어.
+Linnea|B1|Det var det som gjorde mest ont. Inte ordet, utan rösten.|그게 제일 아팠어. 말보다, 목소리가.
+Oskar|B2|Den andra: "Då kan du väl åka." Jag sa det som om jag slog igen en dörr, trots att det enda jag ville var att du inte skulle gå.|두 번째. "그럼 가면 되겠네." 문을 쾅 닫듯이 말했어. 내가 바란 건 네가 가지 않는 것 하나뿐이었는데.
+Linnea|B2|Jag hörde den dörren slå igen hela veckan, varje gång telefonen låg tyst på bordet.|그 문 닫히는 소리, 일주일 내내 들었어. 휴대폰이 탁자 위에서 조용할 때마다.
+Oskar|B2|Den tredje är värst. Jag sa att du tycker att jag är för dum för din värld. Det var inte dina ord – det var lärarnas, och jag lade dem i din mun.|세 번째가 제일 나빠. 네가 날 네 세계에 비해 너무 멍청하다고 생각한다고 했지. 그건 네 말이 아니었어. 선생님들 말이었어. 내가 그걸 네 입에 넣은 거야.
+Linnea|A1|Oskar…|오스카르…
+Oskar|A2|Låt mig säga klart. Snälla.|끝까지 말하게 해 줘. 부탁이야.
+Linnea|A2|Okej. Jag ska vara tyst nu.|(입술을 꾹 다문다) 알았어. 이제 조용히 할게.
+Oskar|B2|Den fjärde: jag stängde dörren och gömde mig, precis som du sa. Det gjorde pappa också. "Det tar vi sen." Och sedan fanns det inget sen.|네 번째. 네 말대로 문 닫고 숨었어. 아빠도 그랬어. "그건 나중에 하자." 그리고 그 나중은 없었지.
+Linnea|B1|Du gjorde det på bron också. Du gick över hela Västerbron utan att vända dig om.|다리에서도 그랬어. 베스테르브론을 끝까지 건너면서 한 번도 안 돌아봤어.
+Oskar|B2|Jag ville vända mig om hela vägen. Men hade jag gjort det, hade jag gått tillbaka – och då hade jag inte vetat vad jag skulle säga.|건너는 내내 돌아보고 싶었어. 근데 돌아봤으면 다시 돌아갔을 거야. 그럼 무슨 말을 해야 할지 몰랐을 거고.
+Linnea|A2|Jag sa "titta tillbaka". Du hörde det inte.|나 "돌아봐"라고 했어. 넌 못 들었지만.
+Oskar|A1|Nej. Inte då.|(한참 있다가) 응. 그땐 못 들었어.
+Linnea|B1|Nu är det min tur. Jag borde ha berättat direkt.|이제 내 차례야. 바로 말했어야 했어.
+Oskar|A2|Samma dag? I februari?|그날? 2월에?
+Linnea|B2|Samma kväll, när du stod utanför glasdörren med bokhyllan på ryggen. I stället lät jag dig gissa i sex veckor, tills du fick höra det av Johan, av alla människor.|그날 저녁에. 네가 책꽂이를 메고 유리문 밖에 서 있던 그때. 그런데 난 6주 동안 널 짐작만 하게 내버려 뒀고, 결국 넌 하필이면 요한한테서 그 얘길 들었어.
+Oskar|B2|Ja. Han visste mer om oss än jag gjorde, och det kändes förnedrande.|그래. 그 사람이 우리에 대해 나보다 더 많이 알고 있었어. 그게 굴욕적이었어.
+Linnea|B2|Och Malin. Jag tog fram henne just för att jag visste att det skulle göra ont. Det var fult gjort, och det förtjänade varken du eller hon.|그리고 말린. 아플 걸 알아서 일부러 꺼낸 거야. 비겁했어. 너도, 그 사람도 그런 말 들을 이유 없었어.
+Oskar|B1|Det du sa om henne var sant. Det var därför det gjorde så ont.|말린 얘기는 사실이었어. 그래서 그렇게 아팠던 거고.
+Linnea|B2|Det kan vara sant och ändå fel att säga. Ida frågade mig om jag ville ha dig eller ha rätt – och jag visste svaret innan hon hade frågat klart.|사실이어도 하면 안 되는 말이 있어. 이다 언니가 물었어. 널 원하는지, 아니면 내가 옳기를 원하는지. 언니가 질문을 다 끝내기도 전에 답을 알았어.
+Oskar|B1|Ahmeds mamma sa nästan samma sak till honom en gång. Att stolthet inte håller en varm på natten.|아메드 어머니도 아메드한테 거의 같은 말을 했대. 자존심은 밤에 사람을 따뜻하게 해 주지 않는다고.
+Linnea|B1|Hon låter som en klok kvinna. Henne skulle jag vilja träffa någon gång.|지혜로운 분 같다. 언제 한번 뵙고 싶어.
+Oskar|A1|Jo. Det ska du.|응. 꼭 그래.
+Linnea|B2|Och så det sista, det du sa i slutet. Hör noga nu: jag har aldrig tyckt att du är för dum. Inte för min värld, inte för Johans, inte för någon värld som finns.|(컵을 내려놓고 그를 똑바로 본다) 그리고 마지막. 네가 끝에 했던 말. 잘 들어. 난 네가 너무 멍청하다고 생각한 적 한 번도 없어. 내 세계에 비해서도, 요한의 세계에 비해서도, 세상 어떤 세계에 비해서도.
+Oskar|B2|Men varför fick jag aldrig se brevet, om det inte var för att du trodde att jag inte skulle klara av att läsa det?|그럼 난 왜 그 편지를 한 번도 못 봤어? 내가 못 읽을 거라고 생각해서가 아니었다면.
+Linnea|B2|För att du hade bett mig läsa det högt. Och då hade jag fått höra, med dig bredvid mig, hur fantastiskt det lät – och hur gärna jag ville åka.|네가 소리 내서 읽어 달라고 했을 테니까. 그럼 네 옆에서, 그게 얼마나 근사하게 들리는지 내 귀로 들어야 했을 테니까. 내가 얼마나 가고 싶은지도.
+# 장면 3 — 한과 vemod
+Oskar|B1|Så det handlade inte om att jag inte kan läsa.|(오래 아무 말 없다가) 그러니까 내가 못 읽어서가 아니었구나.
+Linnea|A2|Nej. Det handlade om mig. Inte om dig.|응. 나 때문이었어. 너 때문이 아니라.
+Oskar|B1|Det har du inte sagt förut. Inte ens på varvet.|그건 전에 말 안 했잖아. 조선소에서도.
+Linnea|B1|Jag har bara sagt det till Ida. Jag skämdes för mycket för att säga det till dig.|이다 언니한테만 했어. 너한테 말하기엔 너무 창피했어.
+Oskar|B1|Så det låter så fint, det där brevet? Så fint att man blir rädd för det?|그 편지가 그렇게 좋게 들려? 무서워질 만큼?
+Linnea|A2|Ja. Väldigt fint. Tyvärr.|응. 엄청. 안타깝게도.
+Oskar|B1|Läs det för mig i kväll. Jag ber om det, så att du vet att jag vill höra det.|오늘 저녁에 읽어 줘. 내가 부탁하는 거야. 내가 듣고 싶다는 거 알라고.
+Linnea|B1|I kväll, då. Men först vill jag ge dig ett ord. Jag har sparat det sedan i höstas.|(눈가를 손등으로 훔친다) 그럼 오늘 저녁에. 근데 그 전에 너한테 단어 하나 주고 싶어. 작년 가을부터 아껴 둔 거야.
+Oskar|A2|Ett koreanskt ord? Som jeong och nunchi?|한국어 단어? 정이랑 눈치처럼?
+Linnea|A1|Ja. Han.|응. 한.
+Oskar|A1|Han? Vem då?|(주위를 둘러본다) 그? 누구?
+Linnea|A2|Nej, inte "han" som i "han där borta". Han. 한. Det är ett ord.|(웃음이 터진다) 아니, "저기 저 남자" 할 때 그 "han" 말고. 한. 恨. 단어야.
+Oskar|A1|Okej.|알았어.
+Linnea|B2|Det är en sorg som man har burit så länge att den har blivit en del av en – sorg, saknad och lite ilska i samma knut. Ordböckerna skriver "agg" eller "bitterhet", men det räcker inte.|너무 오래 품고 살아서 자기 일부가 돼 버린 슬픔이야. 슬픔이랑 그리움이랑 약간의 분노가 한 매듭에 묶여 있는 거. 사전엔 "원한"이나 "비통"이라고 나오는데, 그걸론 부족해.
+Oskar|A2|Varför räcker det inte?|왜 부족해?
+Linnea|B2|För att den inte bara är bitter. Den bär också på en längtan – efter något som borde ha blivit av men aldrig blev. Ett samtal som aldrig blev klart, till exempel.|그냥 쓰라리기만 한 게 아니거든. 그리움도 품고 있어. 일어났어야 했는데 끝내 일어나지 않은 무언가를 향한. 예를 들면, 끝나지 못한 대화 같은.
+Oskar|A2|Som med pappa.|아빠랑처럼.
+Linnea|B2|Ja. Jag tänkte på det redan i Härnösand, när du berättade om ert sista samtal och om det han aldrig hann säga.|응. 회르뇌산드에서부터 생각했어. 너희 마지막 통화 얘기를 들었을 때. 아빠가 끝내 못 한 그 말 얘기를.
+Oskar|B1|Vad gör man med det, då? I Korea?|그럼 그걸 어떻게 해? 한국에선?
+Linnea|B2|Man säger att man "löser" sin han – 한을 풀다. Samma verb som när man knyter upp en knut, eller löser ett problem.|한을 "푼다"고 해. 한을 풀다. 매듭을 풀 때, 문제를 풀 때 쓰는 바로 그 동사야.
+Oskar|B2|En knut som har dragits åt i fem år får man inte upp med fingrarna. Man får blöta repet och vänta tills det mjuknar – eller ta till en märlspik.|(손바닥을 펴서 본다. 어제 깃털 묶던 손) 5년 동안 조여진 매듭은 손가락으로는 안 풀려. 밧줄을 적셔서 부드러워질 때까지 기다려야 돼. 아니면 쇠송곳(märlspik)을 쓰든가.
+Linnea|A2|Vad är en märlspik?|märlspik이 뭐야?
+Oskar|A2|En spik av järn. För knutar. Pappa hade en i båten.|쇠로 된 뾰족한 송곳. 매듭 푸는 거. 아빠 배에 하나 있었어.
+Linnea|B1|Och din knut, då? Sitter den fortfarande lika hårt?|그럼 네 매듭은? 아직도 그렇게 꽉 묶여 있어?
+Oskar|B2|Du sa en gång att sorgen inte försvinner, men att den ändrar form. Jag visste inte vilken form min hade. Nu tror jag att den har varit han – och att den kanske håller på att bli något annat.|네가 언젠가 그랬잖아. 슬픔은 사라지지 않고 모양이 바뀐다고. 난 내 게 무슨 모양인지 몰랐어. 이제 알 것 같아. 한이었던 거야. 그리고 어쩌면 지금 다른 무언가가 되고 있는 중인 것 같아.
+Linnea|A2|Något annat? Vad då?|다른 무언가? 뭔데?
+Oskar|B1|Det finns ett svenskt ord. Jag har tänkt ge dig det ända sedan Härnösand.|스웨덴어 단어가 하나 있어. 회르뇌산드 때부터 너한테 주려고 했어.
+Linnea|A1|Vilket ord?|무슨 단어?
+Oskar|A1|Vemod.|베모드.
+Linnea|B1|Jag vet vad det står i ordboken. Men säg det med dina ord.|사전에 뭐라고 나오는지는 알아. 근데 네 말로 해 줘.
+Oskar|B2|Vemod är en sorg som också rymmer något vackert — som en sommarkväll i augusti.|(해가 이제 완전히 떠올라 물 위가 하얗다. 그는 물을 본 채로, 천천히) 베모드는 아름다운 것도 함께 품고 있는 슬픔이야. 8월의 여름 저녁처럼.
+Linnea|A1|I augusti.|(아주 작게) 8월.
+Oskar|B2|Hemma i Härnösand kommer mörkret tillbaka i augusti. Första kvällen man måste tända en lykta igen är man ledsen över att sommaren tar slut – men glad att den har funnits.|회르뇌산드에선 8월에 어둠이 돌아와. 다시 등을 켜야 하는 첫 저녁이 오면, 여름이 끝나서 슬퍼. 그래도 그 여름이 있었다는 게 기뻐.
+Linnea|B2|Augusti. Det är ungefär då jag skulle sätta mig på planet, om jag åker. Tänkte du på det när du valde ordet?|8월. 내가 간다면 딱 그쯤 비행기를 타겠지. 그 단어 고를 때 그 생각 했어?
+Oskar|B1|Nej. Inte förrän jag hörde mig själv säga det. Men det gör det inte mindre sant.|아니. 내 입으로 말하고 나서야 알았어. 그래도 그게 덜 맞는 말이 되는 건 아니야.
+# 장면 4 — "Allt."
+Linnea|A2|Vad vill du egentligen?|(무릎을 끌어안고, 그를 향해 몸을 돌린다. 아래쪽 비탈로 첫 조깅하는 사람이 지나간다) 넌 진짜로 뭘 원해?
+Oskar|A1|Allt.|전부.
+Linnea|A1|Allt?|전부?
+Oskar|B1|Jag vill att Lyktan ska finnas kvar. Jag vill att Svalan ska komma i sjön i sommar, med dig i aktern.|(재킷 안주머니에서 네 번 접힌 종이를 꺼낸다. 엘사의 크레용 그림. 어제 아무도 모르게 챙긴 것) Lyktan이 남아 있으면 좋겠어. 이번 여름에 스발란이 물에 뜨면 좋겠어. 네가 고물에 앉아서.
+Linnea|A2|Och Seoul?|그럼 서울은?
+Oskar|B2|Jag vill att du åker, för att det är din dröm sedan du var femton. Och jag vill att du stannar. Båda delarna är sanna, och jag tänker inte låtsas att bara den ena är det.|네가 가면 좋겠어. 열다섯 살 때부터 네 꿈이었으니까. 그리고 네가 남으면 좋겠어. 둘 다 진짜야. 하나만 진짜인 척은 안 할 거야.
+Linnea|A1|Båda?|둘 다?
+Oskar|B1|I måndags frågade du vad jag kände, och jag sa "jag vet inte". Det var inte sant.|월요일에 네가 내 마음이 어떠냐고 물었을 때 "모르겠어"라고 했잖아. 그거 거짓말이었어.
+Linnea|A2|Vad var sant, då?|그럼 진짜는 뭐였는데?
+Oskar|A2|Jag var rädd att förlora dig.|널 잃을까 봐 무서웠어.
+Linnea|B1|Jag också. Det är därför jag teg i sex veckor – och kanske därför du skrek "gå".|나도. 그래서 6주 동안 입 다물고 있었던 거야. 그리고 아마 그래서 네가 "가"라고 소리친 거고.
+Oskar|B2|Jo. Det är lättare att skicka iväg någon än att vänta på att hon ska gå. Det trodde jag i alla fall – ända tills det var gjort.|응. 누가 떠나길 기다리는 것보다 먼저 보내 버리는 게 쉬우니까. 적어도 그렇게 믿었어. 그러고 나서야 아니란 걸 알았지.
+Linnea|A2|Är vi… tillsammans fortfarande?|우리… 아직 사귀는 거야?
+Oskar|A1|Jo. Om du vill.|(11월 30일, 스토르토리에트에서와 똑같은 대답) 응. 네가 원하면.
+Linnea|A1|Jag vill.|원해.
+Oskar|B2|Men Seoul har vi inte löst, och det kommer inte att lösa sig av sig självt bara för att solen har gått upp.|(그녀의 손을 잡은 채) 근데 서울 문제는 아직 안 풀었어. 해가 떴다고 저절로 풀리진 않을 거야.
+Linnea|B1|Först räddar vi Lyktan. Sen bestämmer vi resten.|먼저 Lyktan을 살리자. 나머진 그다음에 정하고.
+Oskar|A1|Du sa "sen".|(눈썹 한쪽이 올라간다) 너 "나중에"라고 했다.
+Linnea|B1|Jag hörde det själv. Sista maj, då – senast sista maj bestämmer vi resten. Tillsammans.|(얼굴을 감싸 쥐고 웃는다) 나도 들었어. 그럼 5월 마지막 날. 늦어도 5월 31일까지 나머지를 정하자. 같이.
+Oskar|A2|Jo. Det är inte sen. Det är en tid.|(입꼬리가 이번엔 양쪽 다 올라간다. 아메드라면 단번에 알아들었을, 아주 행복한 "jo") 응. 그건 '나중에'가 아니야. 정확한 시간이지.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Förlåt.** | 미안해. / 용서해 줘. | 진심 어린 사과의 기본형. 가볍게 지나가며 하는 "실례합니다"는 *Ursäkta*. *förlåta* = 용서하다 → *Förlåt mig.* = 날 용서해 줘 |
+| `A1` | **Jo. Om du vill.** — **Jag vill.** | 응. 네가 원하면. — 원해. | 2부 1화 첫 고백의 반복. *om* = 만약 ~라면. 짧게 *Jag vill.*만으로도 "원해"라는 완전한 대답이 된다 |
+| `A2` | **Jag var rädd att förlora dig.** | 널 잃을까 봐 무서웠어. | *vara rädd att + 부정사* = ~할까 봐 두렵다. *vara rädd för något* = ~을 무서워하다 |
+| `A2` | **Vad vill du egentligen?** | 너 진짜로 뭘 원해? | *egentligen* = 실제로는, 사실은. 질문에 넣으면 "겉말 말고 진짜 속마음"을 묻는 뉘앙스가 된다 |
+| `B1` | **Jag borde ha berättat direkt.** | 바로 말했어야 했어. | *borde ha + 완료분사* = ~했어야 했다(후회). *Du borde ha ringt.* = 전화했어야지 |
+| `B1` | **Först räddar vi Lyktan. Sen bestämmer vi resten.** | 먼저 Lyktan을 살리자. 나머진 그다음에 정하자. | *Först… sen…* = 먼저… 그다음에…. 부사가 문장 맨 앞에 오면 V2 규칙에 따라 동사가 둘째 자리로(*räddar vi*, *bestämmer vi*) |
+| `B1` | **Jag skämdes för mycket för att säga det.** | 너무 창피해서 말을 못 했어. | *för + 형용사/부사 + för att + 부정사* = 너무 ~해서 …할 수 없다. *skämmas*(창피해하다)는 -s 동사, 과거형 *skämdes* |
+| `B2` | **Vemod är en sorg som också rymmer något vackert — som en sommarkväll i augusti.** | 베모드는 아름다운 것도 품고 있는 슬픔이야. 8월의 여름 저녁처럼. | *rymma* = (안에) 담다, 수용하다. *vemod*는 아련하고 조용한 슬픔. 관계대명사 *som*과 비교의 *som*이 한 문장에 함께 나온다 |
+| `B2` | **Hade jag gjort det, hade jag gått tillbaka.** | 그렇게 했더라면 돌아갔을 거야. | *om*을 빼고 *hade*를 맨 앞에 둔 과거 가정 조건절(= *Om jag hade gjort det*). 결과절에도 *hade + 완료분사* |
+| `B2` | **Det kan vara sant och ändå fel att säga.** | 사실이어도 하면 안 되는 말일 수 있어. | *och ändå* = 그런데도, 그럼에도. 두 판단을 나란히 놓아 대비시키는 표현 |
+
+## 문화 메모
+- **부활절 아침의 춤추는 해(solen dansar på påskdagsmorgonen)** — 옛 스웨덴 민간 신앙에서는 부활절 일요일 아침, 해가 부활의 기쁨으로 떠오르며 춤을 춘다(또는 뛰어오른다)고 믿었다. 그래서 일출을 보려고 일찍 일어나 언덕이나 높은 곳에 오르는 풍습이 있었다. 부활절 일요일(*påskdagen*)과 다음 날 월요일(*annandag påsk*)은 모두 공휴일이고, 아침 식탁엔 삶은 달걀이 빠지지 않는다.
+- **스킨나르비크 언덕(Skinnarviksberget)** — 쇠데르말름에서 가장 높은 자연 지형(해발 약 50m)의 바위 언덕. 리다르피에르덴 너머로 시청사, 쿵스홀멘, 감라스탄, 베스테르브론이 한눈에 보여 일출·일몰 명소로 사랑받는다. 여름 저녁엔 피크닉 하는 사람들로 가득하지만, 4월 새벽 6시엔 대개 텅 비어 있다.
+- **vemod** — 지나가는 것을 아쉬워하는 조용하고 아련한 슬픔. 사전적으로는 "애수, 우수"에 가깝다. 스웨덴 사람들은 짧은 여름이 끝나 가는 8월 저녁, 가재 파티(*kräftskiva*) 뒤 다시 촛불을 켜는 첫 어둠, 민요의 단조 선율에서 이 감정을 자주 이야기한다. 한(恨)처럼 "번역하기 어려운 단어"로 곧잘 꼽힌다.
+- **한(恨)과 "한을 풀다"** — 오래 쌓여 응어리진 슬픔·억울함·그리움이 뒤섞인 감정을 가리키는 한국어. 한국어에선 이 응어리를 "푼다"고 하는데, *풀다*는 매듭을 풀 때와 문제를 풀 때도 쓰는 동사다. 스웨덴어에선 *lösa*(문제를 풀다)와 *knyta upp*(매듭을 풀다)으로 나뉜다.
+
+## 다음 화 예고 — 9화 *Rädda Lyktan* (Lyktan을 살려라)
+4월 중순, 마간의 편지가 북클럽과 단골들에게 도착한다. Lyktan 계산대 앞에 모인 사람들 — 린네아와 오스카르, 이다, 아메드, 그리고 "작전 회의"라는 말에 눈을 반짝이는 마간. 후원의 밤, 크라우드펀딩, 바스투가탄 이웃 가게들의 서명. "Kan du skriva här?" 동네를 한 바퀴 도는 서명 행렬 끝에, 아무도 예상하지 못한 조력자가 문 종을 울린다. 남색 코트의 요한이 말한다. "Jag är kanske inte din favoritperson, men jag vet hur man får medierna intresserade."
