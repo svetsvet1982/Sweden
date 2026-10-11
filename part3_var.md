@@ -118,11 +118,11 @@
 - **엔딩 훅** 린네아: "Tänk om vi båda åker?" (우리 둘 다 떠나면 어떨까?)
 
 ### 11화 — Valborg (발보리의 밤)
-- 📅 4월 30일 · 📍 스칸센(Skansen) 모닥불 · 👥 오스카르, 린네아, 이다, 아메드, 레일라
+- 📅 4월 30일 · 📍 스칸센(Skansen) 모닥불 · 👥 오스카르, 린네아, 이다, 사미르, 아메드, 레일라
 - **줄거리** 봄맞이 모닥불과 합창. 겨울을 태워 보내는 밤. 둘은 미래를 처음으로 "만약"이 아닌 "계획"으로 이야기한다.
 - **장면 구성**
   - 001–030 모닥불, 봄 노래, 학생 모자 (`A1·A2`)
-  - 031–060 이다 & 아메드, 공식 커플 선언 (`A2·B1` 코미디)
+  - 031–060 이다 & 사미르, 공식 커플 선언 (`A2·B1` 코미디)
   - 061–100 둘만의 대화: 장거리 연애의 현실 — 시차, 비용, 신뢰 (`B1·B2`)
   - 101–120 "Vi gör en plan." (`A1·A2`)
 - **핵심 표현** A1 *Vad varmt!* / A2 *Vintern är äntligen slut.* / B1 *Om du åker till Seoul kan jag hälsa på dig.* / B2 *Avståndet är inte det farliga — det farliga är att sluta prata med varandra.*
