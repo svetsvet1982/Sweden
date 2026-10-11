@@ -1,0 +1,155 @@
+@title 1부 1화 — Ursäkta, jobbar du här?
+@subtitle (실례합니다, 여기서 일하세요?)
+@meta 날짜|9월 26일 금요일 저녁 6시경
+@meta 장소|쇠데르말름 바스투가탄(Bastugatan)의 작은 서점 **Lyktan**
+@meta 등장인물|**Oskar** (오스카르, 31, 목선 목수) · **Linnea** (린네아, 28, 번역가) · **Maggan** (마간, 68, 서점 주인)
+@intro **지난 이야기 없음 — 시리즈 첫 화.**
+@intro 초록색 카디건을 입은 린네아가 책을 한 아름 안고 서가 사이를 서성이고 있다. 문에 달린 종이 울리고, 비에 젖을 것 같은 하늘을 등지고 키 큰 남자가 들어온다. 그는 잠시 두리번거리다 린네아에게 다가간다.
+# 장면 1 — 서점 Lyktan, 책장 사이
+Oskar|A1|Ursäkta, jobbar du här?|실례합니다, 여기서 일하세요?
+Linnea|A1|Va? Nej. Nej, nej, nej.|네? 아뇨. 아니에요, 아니에요.
+Oskar|A2|Förlåt. Du bar på så många böcker, så jag trodde…|죄송해요. 책을 너무 많이 들고 계셔서 저는 그만…
+Linnea|A2|Jag förstår. Men jag ska köpa alla de här. Tyvärr.|이해해요. 근데 이거 전부 제가 살 거예요. 안타깝게도.
+Oskar|A2|Okej. Vet du var personalen är?|그렇군요. 직원은 어디 있는지 아세요?
+Linnea|B1|Ingen aning. Hon som äger butiken brukar sitta där borta, men hon verkar ha gått in på lagret. Vad letar du efter? Jag kanske kan hjälpa dig.|전혀요. 주인분이 보통 저기 앉아 계시는데, 창고에 들어가신 것 같아요. 뭘 찾으세요? 제가 도와드릴 수 있을지도 몰라요.
+Oskar|A2|En bok till min systerdotter. Hon fyller nio på söndag.|조카 줄 책이요. 일요일에 아홉 살이 돼요.
+Linnea|A2|Nio år! Vad tycker hon om?|아홉 살! 뭘 좋아해요?
+Oskar|A1|Hästar. Och svärd.|말이요. 그리고 칼.
+Linnea|A1|Svärd?|칼이요?
+Oskar|B1|Ja. Hon vill bli riddare. Eller pirat. Det beror på vilken bok hon har läst senast.|네. 기사가 되고 싶대요. 아니면 해적. 마지막에 읽은 책이 뭐냐에 따라 달라져요.
+Linnea|B1|Då vet jag precis vilken bok hon behöver. Följ med, barnböckerna står längst in.|그럼 딱 필요한 책을 알아요. 따라오세요, 어린이책은 맨 안쪽에 있어요.
+Oskar|A1|Tack.|고마워요.
+Linnea|A2|Har hon läst Astrid Lindgren?|아스트리드 린드그렌 책은 읽었어요?
+Oskar|A2|Pippi, tror jag. Eller så har hon sett den på tv.|삐삐는 읽었을 거예요. 아니면 TV로 봤거나.
+Linnea|B1|Pippi är bra. Men för en nioåring som vill slåss med svärd finns det något ännu bättre.|삐삐도 좋죠. 근데 칼싸움하고 싶은 아홉 살한테는 훨씬 더 좋은 게 있어요.
+Oskar|A1|Vad då?|뭔데요?
+Linnea|A1|Den här. ”Ronja Rövardotter”.|이거요. 『산적의 딸 로냐』.
+Oskar|A2|Vad handlar den om?|무슨 내용이에요?
+Linnea|B2|Om en flicka som växer upp bland rövare i en borg mitt i skogen – och hon är modigare än alla vuxna omkring henne.|숲 한가운데 성에서 산적들 사이에 자라는 여자아이 이야기예요. 그리고 그 아이는 주변의 어떤 어른보다도 용감하죠.
+Oskar|B1|Det låter faktiskt precis som Elsa. Hon är inte rädd för någonting.|정말 딱 엘사 같네요. 걔는 무서운 게 하나도 없거든요.
+Linnea|A1|Elsa? Vilket fint namn.|엘사? 이름 예쁘다.
+Oskar|B1|Hon läser jättemycket. Mer än jag har gjort i hela mitt liv.|걔는 책을 엄청 읽어요. 제가 평생 읽은 것보다 많이.
+Linnea|A2|Läser du inte så mycket?|책 많이 안 읽으세요?
+Oskar|B1|Nä. Jag har aldrig varit särskilt bra på böcker.|네. 저는 책이랑은 별로 안 친해서요.
+Linnea|B2|Det gör inget. Den här är skriven så att man glömmer att man läser – man bara är där, i skogen.|괜찮아요. 이 책은 읽고 있다는 걸 잊게 만들어요. 그냥 거기, 숲속에 있게 되죠.
+Oskar|A1|Då tar jag den.|그럼 이걸로 할게요.
+# 장면 2 — 계산대, 진짜 주인 등장
+Maggan|A2|Hallå där! Förlåt, jag var på lagret. Kan jag hjälpa till?|어머, 손님! 미안해요, 창고에 있었어요. 도와드릴까요?
+Oskar|A2|Jo… Jag trodde att hon jobbade här.|네… 저는 이분이 여기서 일하는 줄 알았어요.
+Maggan|B1|Linnea? Hon är här så ofta att hon nästan borde få lön.|린네아? 하도 자주 와서 거의 월급 줘야 할 판이죠.
+Linnea|A1|Hej, Maggan.|안녕하세요, 마간.
+Maggan|B2|Och vad har hon lurat dig att köpa? Hon har en otrolig förmåga att sälja böcker som inte ens är hennes egna.|그래, 이 아가씨가 뭘 사라고 꼬드겼어요? 자기 가게 책도 아닌데 파는 재주가 기가 막히다니까.
+Oskar|A1|Ronja.|로냐요.
+Maggan|B1|Ett utmärkt val. Ska den slås in?|아주 훌륭한 선택이네요. 포장해 드릴까요?
+Oskar|A2|Ja, tack. Det är en present.|네, 부탁해요. 선물이에요.
+Maggan|A2|Vilket papper vill du ha? Rött eller blått?|어떤 포장지로 할래요? 빨간색, 파란색?
+Oskar|A1|Blått.|파란색이요.
+Linnea|A2|Gillar Elsa blått?|엘사가 파란색 좋아해요?
+Oskar|B1|Ingen aning, faktiskt. Men det är samma färg som havet, och havet gillar hon.|사실 모르겠어요. 근데 바다랑 같은 색이고, 걔는 바다를 좋아하거든요.
+Maggan|A2|Det blir 189 kronor. Kort eller Swish?|189크로나예요. 카드, 아니면 스위시?
+Oskar|A1|Kort.|카드요.
+Maggan|B1|Och du, Linnea? Ska du verkligen köpa alla de där, eller ska du bara bära runt på dem som vanligt?|그리고 린네아? 그거 정말 다 살 거야, 아니면 평소처럼 들고 돌아다니기만 할 거야?
+Linnea|A2|Jag ska köpa… tre av dem.|살 거예요… 그중에 세 권만.
+Oskar|A2|Vad läser du för något?|뭘 읽으세요?
+Linnea|B1|Mest koreansk skönlitteratur. Jag jobbar som översättare, från koreanska till svenska.|주로 한국 소설이요. 번역가로 일해요, 한국어에서 스웨덴어로.
+Oskar|A1|Koreanska?|한국어요?
+Linnea|A1|Ja.|네.
+Oskar|B1|Wow. Jag har svårt nog med svenska ibland, så det låter nästan omöjligt.|와. 저는 가끔 스웨덴어도 버거운데, 거의 불가능한 일처럼 들리네요.
+Linnea|B1|Ibland. Men det är det roligaste jag vet. Vad jobbar du med?|가끔은요. 근데 제가 아는 것 중에 제일 재밌는 일이에요. 그쪽은 무슨 일 하세요?
+Oskar|B1|Jag bygger båtar. Eller, rättare sagt, jag restaurerar gamla träbåtar som ingen annan vill ta hand om.|배를 만들어요. 아니, 정확히 말하면 아무도 돌보려 하지 않는 오래된 목선을 복원해요.
+Maggan|B2|En båtbyggare och en översättare. Det låter som början på en roman som jag gärna skulle sälja.|목선 목수와 번역가라. 내가 기꺼이 팔고 싶은 소설의 첫머리 같네.
+Linnea|A1|Maggan!|마간!
+Maggan|B1|Vad då? Jag säger bara vad jag ser. Varsågod, här är din bok.|뭐? 난 보이는 대로 말했을 뿐인데. 자, 여기 책이요.
+Oskar|A1|Tack så mycket.|정말 감사합니다.
+# 장면 3 — 갑작스러운 비, 서점 문간
+Linnea|A1|Oj. Det regnar.|어. 비 오네요.
+Oskar|A2|Det regnar inte, det öser ner!|비 오는 정도가 아니라 퍼붓는데요!
+Linnea|A2|Och jag har inget paraply.|그리고 저 우산도 없어요.
+Maggan|B1|Ni får gärna stå kvar här tills det slutar. Jag ska ändå räkna kassan.|그칠 때까지 여기 있어도 돼요. 어차피 난 정산해야 하니까.
+Oskar|B2|Tack. Jag har ändå aldrig förstått mig på folk som springer i regnet som om de skulle smälta.|감사합니다. 어차피 저는 녹아내리기라도 할 것처럼 빗속을 뛰어가는 사람들을 이해해 본 적이 없어요.
+Linnea|A1|Var bor du?|어디 사세요?
+Oskar|A2|På Långholmen. Nej, jag jobbar där. Jag bor i Liljeholmen.|롱홀멘이요. 아니, 거기서 일하고요. 사는 데는 릴리에홀멘이에요.
+Linnea|A2|Jag bor i Hornstull. Vi är nästan grannar.|전 혼스툴 살아요. 거의 이웃이네요.
+Oskar|A1|Nästan.|거의요.
+Linnea|A2|Du låter inte som en stockholmare.|스톡홀름 사람 말투가 아니네요.
+Oskar|A2|Nä. Jag kommer från Härnösand.|네. 회르뇌산드 출신이에요.
+Linnea|B1|Norrland! Det hörs faktiskt. Du säger ”jo” på ett speciellt sätt.|노를란드! 그러고 보니 티가 나요. "요(jo)"를 독특하게 말하시네요.
+Oskar|A1|Jo.|요. (그렇죠.)
+Linnea|A1|Precis så!|바로 그거요!
+Oskar|B1|Jag flyttade hit för tio år sedan, men jag har aldrig riktigt vant mig vid tempot.|10년 전에 이사 왔는데, 이 속도엔 아직도 적응이 잘 안 돼요.
+Linnea|A2|Vilket tempo?|어떤 속도요?
+Oskar|B1|Alla går så fort. Alla pratar så fort. Du, till exempel.|다들 너무 빨리 걸어요. 다들 너무 빨리 말하고. 예를 들면 당신처럼.
+Linnea|B2|Förlåt! Mamma säger att jag pratar som om jag vore rädd att någon skulle avbryta mig.|미안해요! 엄마 말로는 제가 누가 끼어들까 봐 겁내는 사람처럼 말한대요.
+Oskar|A2|Det gör inget. Jag gillar det.|괜찮아요. 좋아요, 그거.
+Linnea|B1|Du har inte frågat varför jag valde koreanska. Det brukar folk göra direkt.|제가 왜 한국어를 골랐는지 안 물어보시네요. 사람들은 보통 바로 묻거든요.
+Oskar|A2|Okej. Varför koreanska?|그럼. 왜 한국어예요?
+Linnea|B2|När jag var tonåring hittade jag en koreansk roman i svensk översättning, och jag blev så irriterad på hur stel svenskan var att jag bestämde mig för att lära mig originalspråket.|10대 때 스웨덴어로 번역된 한국 소설을 하나 발견했는데, 스웨덴어가 너무 딱딱해서 짜증이 난 나머지 원어를 배우기로 마음먹었죠.
+Oskar|B1|Så du lärde dig ett helt språk för att du var irriterad?|그러니까 짜증 나서 언어 하나를 통째로 배웠다고요?
+Linnea|A2|Ja. Det låter galet, va?|네. 미친 소리 같죠?
+Oskar|B1|Lite. Men jag lärde mig bygga båtar för att jag var arg på en båt som läckte.|조금요. 근데 저도 물 새는 배한테 화가 나서 배 만드는 걸 배웠어요.
+Linnea|A1|Nej! På riktigt?|에이! 진짜요?
+Oskar|A1|På riktigt.|진짜요.
+Linnea|B1|Då är vi likadana. Vi blir arga på saker, och sen lagar vi dem.|그럼 우리 똑같네요. 뭔가에 화가 나면, 그걸 고치잖아요.
+Oskar|B1|Vad är det svåraste med att översätta?|번역에서 제일 어려운 게 뭐예요?
+Linnea|B2|Det svåraste är att det finns ord som helt enkelt inte går att översätta. Man måste hitta en känsla på svenska som ligger så nära som möjligt.|제일 어려운 건, 그냥 번역이 안 되는 단어들이 있다는 거예요. 스웨덴어에서 최대한 가까운 감정을 찾아야 하죠.
+Oskar|A2|Som vad, till exempel?|예를 들면요?
+Linnea|B2|Det finns ett koreanskt ord, ”jeong”. Det är en sorts värme mellan människor som växer fram långsamt, nästan utan att man märker det.|"정"이라는 한국어 단어가 있어요. 사람 사이에 천천히 자라나는 일종의 따뜻함인데, 거의 알아채지도 못하는 사이에 생기죠.
+Oskar|B1|Jeong. Det låter som när man har jobbat med samma träbit länge.|정. 같은 나뭇조각으로 오래 작업했을 때 같은 거네요.
+Linnea|A2|Hur menar du?|무슨 뜻이에요?
+Oskar|B2|Efter ett tag känner man varje kvist i träet. Man vet var det vill böja sig och var det spricker. Och på något sätt börjar man tycka om det.|시간이 지나면 나무의 옹이 하나하나까지 느껴져요. 어디서 휘고 싶어 하는지, 어디서 갈라지는지 알게 되죠. 그리고 어쩐지 그걸 좋아하게 돼요.
+Linnea|B2|Ja. Precis så. Du har just förklarat det bättre än jag har lyckats göra på fem år.|네. 바로 그거예요. 제가 5년 동안 해내지 못한 설명을 방금 더 잘 해내셨어요.
+Maggan|B2|Jag hör allt, ska ni veta. Och jag har inte hört något så vackert i den här butiken på länge.|(계산대에서) 다 들리거든요. 그리고 이 가게에서 이렇게 아름다운 말은 오랜만에 듣네.
+Oskar|B2|Hon har rätt, tyvärr. Det är inte varje dag man får prata om trä och ord med någon som faktiskt lyssnar.|안타깝지만 저분 말이 맞아요. 나무랑 말에 대해, 진짜로 들어 주는 사람이랑 이야기할 수 있는 날은 흔치 않으니까요.
+Linnea|A1|Maggan…|마간…
+# 장면 4 — 비가 그치고
+Oskar|A2|Titta. Det har slutat regna.|봐요. 비 그쳤어요.
+Linnea|A2|Vad synd. Eller, jag menar… vad bra.|아쉽네. 아니, 그러니까… 다행이네요.
+Oskar|B2|Jag måste tyvärr gå. Jag lovade min syster att hjälpa henne baka tårta inför kalaset, och hon förlåter mig aldrig om jag kommer sent.|아쉽지만 가 봐야 해요. 누나한테 생일 파티 케이크 굽는 걸 돕겠다고 약속했는데, 늦으면 절대 용서 안 해 줄 거예요.
+Linnea|A2|Hälsa till Elsa och säg grattis från mig.|엘사한테 안부 전해 주세요. 제가 생일 축하한다고요.
+Oskar|B1|Jag ska säga att en riktig expert valde boken.|진짜 전문가가 골라 준 책이라고 말할게요.
+Linnea|A2|En expert som inte ens jobbar här.|여기서 일하지도 않는 전문가요.
+Oskar|A1|Precis.|그러니까요.
+Linnea|A2|Vad heter du, förresten?|그런데 이름이 뭐예요?
+Oskar|A1|Oskar. Och du heter Linnea.|오스카르요. 그리고 당신은 린네아죠.
+Linnea|A2|Hur vet du det?|그걸 어떻게 알아요?
+Oskar|B1|Maggan har sagt ditt namn minst fem gånger sedan jag kom in.|제가 들어온 뒤로 마간이 당신 이름을 적어도 다섯 번은 불렀거든요.
+Linnea|A1|Just det.|아, 맞다.
+Oskar|A1|Hej då, Linnea.|그럼 안녕히, 린네아.
+Linnea|A1|Hej då, Oskar.|잘 가요, 오스카르.
+Maggan|A2|Nå? Fick du hans nummer?|그래서? 번호는 받았어?
+Linnea|A1|Nej.|아뇨.
+Maggan|A1|Varför inte?|왜?
+Linnea|B2|För att man inte ber en främling om numret bara för att han säger fina saker om trä!|나무에 대해 멋진 말 좀 했다고 처음 보는 사람한테 번호를 달라고 하진 않으니까요!
+Maggan|A2|Jaså. Men titta här.|그래? 근데 이것 좀 봐.
+Linnea|A1|Vad?|뭔데요?
+Maggan|B1|Han glömde boken. Den ligger kvar på disken, fint inslagen i blått papper.|책을 두고 갔어. 파란 종이에 예쁘게 포장된 채로 계산대에 그대로 있네.
+Linnea|A2|Åh nej! Jag springer efter honom!|아 안 돼! 제가 쫓아갈게요!
+Maggan|A1|Vänta.|기다려.
+Linnea|A1|Va?|네?
+Maggan|B2|Han kommer tillbaka. Det gör de alltid. Och då vore det synd om du inte var här.|돌아올 거야. 다들 그러거든. 그리고 그때 네가 여기 없으면 아쉽잖니.
+Linnea|A2|Maggan, du är omöjlig.|마간, 정말 못 말려요.
+Maggan|B2|Jag vet. Men jag har sålt böcker i fyrtio år, och jag har lärt mig att känna igen en början när jag ser en.|알아. 하지만 난 40년을 책을 팔았고, 시작을 보면 그게 시작이라는 걸 알아볼 줄 알게 됐단다.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Ursäkta, jobbar du här?** | 실례합니다, 여기서 일하세요? | 가게에서 직원에게 말 걸 때 쓰는 기본 문장. *jobba här* = 여기서 일하다 |
+| `A1` | **Vad då?** | 뭔데요? / 왜요? | 상대 말에 되묻는 구어 표현 |
+| `A2` | **Hon fyller nio på söndag.** | 그 애는 일요일에 아홉 살이 돼요. | *fylla + 숫자* = ~살이 되다 (생일) |
+| `A2` | **Det öser ner!** | 비가 퍼부어요! | *ösa ner* = 억수같이 쏟아지다 |
+| `A2` | **Det gör inget.** | 괜찮아요. / 상관없어요. | 사과에 대한 대답으로 아주 자주 씀 |
+| `B1` | **Jag har aldrig varit särskilt bra på böcker.** | 저는 책이랑은 별로 안 친해요. | 현재완료 + *aldrig*, *vara bra på* = ~을 잘하다 |
+| `B1` | **Hon verkar ha gått in på lagret.** | 창고에 들어가신 것 같아요. | *verka + ha + 과거분사* = ~한 것 같다 |
+| `B2` | **Det finns ord som helt enkelt inte går att översätta.** | 그냥 번역이 안 되는 단어들이 있어요. | *gå att + 동사* = ~할 수 있다 (가능) |
+| `B2` | **…som om jag vore rädd att någon skulle avbryta mig.** | 누가 끼어들까 봐 겁내는 것처럼 | *som om + vore* (가정법) |
+| `B2` | **Då vore det synd om du inte var här.** | 그때 네가 여기 없으면 아쉬울 거야. | *vore* = *skulle vara* 의 가정법 |
+
+## 문화 메모
+- **Swish** — 스웨덴 국민 모바일 송금 앱. 가게에서 "Kort eller Swish?"(카드, 스위시?)는 일상적인 질문.
+- **Ronja Rövardotter** — 아스트리드 린드그렌의 1981년작 『산적의 딸 로냐』. 스웨덴 어린이의 필독서.
+- **Norrland의 "jo"** — 북부 사람들은 들숨으로 "jo"라고 말하기도 한다. 스톡홀름 사람들이 금방 알아차리는 특징.
+- **jeong (정)** — 시리즈 전체를 관통하는 첫 번째 "번역할 수 없는 단어". 1부 4화에서 오스카르가 *lagom*으로 답한다.
+
+## 다음 화 예고 — 2화 *Boken som blev kvar* (남겨진 책)
+토요일 아침, 파란 포장지의 책을 찾으러 오스카르가 Lyktan에 돌아온다. 하지만 린네아는 없다. 마간의 질문 공세가 시작된다. "Så… hur gammal är du?"
