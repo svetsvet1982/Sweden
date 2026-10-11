@@ -1,0 +1,155 @@
+@title 1부 4화 — Första fikan
+@subtitle (첫 피카)
+@meta 날짜|10월 5일 일요일 오후 2시 ~ 5시 (시나몬롤의 날 다음 날)
+@meta 장소|쇠데르말름 카타리나 교회 근처의 작은 카페 **Kafé Ugglan** (가상의 가게) → 모세바케 광장(Mosebacke torg) 끝 전망 난간
+@meta 등장인물|**Oskar** (오스카르, 31) · **Linnea** (린네아, 28) · **Barista** (카페 직원)
+@intro **지난 이야기** — 412쪽짜리 소설을 42쪽만 읽은 오스카르는 시나몬롤 열두 개를 들고 북클럽에 나타났다. "Jo… intressant."를 네 번이나 반복하며 버티던 그는 얼음 이야기 하나로 깐깐한 군넬을 감탄시켰고, 결말 질문에 걸려 넘어질 뻔할 때마다 초록 카디건의 린네아가 슬쩍 질문을 가로채 그를 구했다. 문 앞 가로등 아래, "안 읽었죠?" "아뇨." 둘은 웃음을 터뜨렸고, 돌아서는 린네아의 등 뒤로 오스카르가 외쳤다. "언제 피카 할래요? 책 없이."
+@intro 린네아의 대답은 "일요일 두 시"였다. 장소는 그녀가 골랐다. 카타리나 교회 뒤 골목, 간판도 잘 안 보이는 작은 카페 Kafé Ugglan. 이번엔 책도, 북클럽 회원도, 마간의 귀도 없다. 약속 시간보다 일찍 도착한 오스카르가 창가 자리를 힐끔거리며 계산대 앞에 서 있고, 문이 열린다. 아직 둘은 서로의 전화번호도 모른다.
+# 장면 1 — Kafé Ugglan, 일요일 오후 두 시
+Linnea|A1|Hej! Har du väntat länge?|(문을 열고 들어오며) 안녕하세요! 오래 기다렸어요?
+Oskar|B1|Nä. Jag kom lite för tidigt. Det gör jag alltid när jag är nervös.|아뇨. 좀 일찍 왔어요. 긴장하면 늘 그래요.
+Linnea|B1|Bra att du hittade hit. Kaféet syns nästan inte från gatan.|잘 찾아오셨네요. 이 카페 길에서는 거의 안 보이거든요.
+Oskar|A2|Jag gick förbi två gånger.|두 번 지나쳤어요.
+Linnea|A1|Två gånger?|두 번이나요?
+Oskar|A1|Jo.|네.
+Barista|A2|Hej hej! Vad får det lov att vara?|안녕하세요! 뭘로 드릴까요?
+Oskar|A1|En kaffe, tack.|커피 한 잔 주세요.
+Barista|A2|Bryggkaffe? Påtår ingår.|드립 커피요? 리필은 무료예요.
+Oskar|A1|Bra.|좋네요.
+Linnea|B1|Och jag tar en havrelatte, fast med lite mindre mjölk än vanligt, om det går.|저는 오트 라테로 할게요. 근데 가능하면 우유를 평소보다 조금만 적게요.
+Barista|A2|Visst. Vill ni ha något att äta till?|그럼요. 같이 드실 것도 필요하세요?
+Linnea|A2|En kardemummabulle, tack. Och du, Oskar?|카르다몸 번 하나요. 오스카르는요?
+Oskar|B1|Ingen kanelbulle i dag. Jag åt upp de tre som blev över i torsdags.|오늘 시나몬롤은 됐어요. 목요일에 남은 거 세 개 제가 다 먹었거든요.
+Barista|A2|En chokladboll då? De är hemgjorda.|그럼 초콜릿볼은 어떠세요? 직접 만든 거예요.
+Oskar|A1|Okej. Tack.|좋아요. 고맙습니다.
+Barista|A2|Det blir hundrafemtio kronor.|150크로나입니다.
+Linnea|A2|Jag betalar. Det var ju jag som valde stället.|(카드를 꺼내며) 제가 낼게요. 장소 고른 게 저잖아요.
+Oskar|A2|Nä. Det var jag som frågade.|(동시에 카드를 꺼내며) 아뇨. 물어본 건 저예요.
+Linnea|B1|Okej, vi delar på det. Men bara om du lovar att jag får bjuda nästa gång.|좋아요, 반반 해요. 대신 다음번엔 제가 사는 걸로 약속하면요.
+Oskar|A1|Nästa gång. Okej.|(아주 살짝 웃으며) 다음번. 좋아요.
+Linnea|A2|Ska vi sitta vid fönstret?|창가에 앉을까요?
+Oskar|A1|Ja.|네.
+Linnea|A1|Så…|(자리에 앉아 컵을 감싸 쥐고) 그래서…
+Oskar|A1|Så.|그래서.
+Linnea|B2|Asså, jag brukar aldrig ha svårt att prata, men just nu känns det som om alla mina ord har tagit slut.|그러니까, 저 원래 말하는 거 어려워한 적이 없거든요. 근데 지금은 단어가 다 떨어져 버린 느낌이에요.
+Oskar|B2|Det gör inget. Där jag kommer ifrån räknas tystnad inte som något pinsamt. Man kan sitta en hel kväll utan att säga någonting.|괜찮아요. 제 고향에선 침묵을 민망한 걸로 안 쳐요. 저녁 내내 아무 말 없이 앉아 있기도 해요.
+Linnea|A2|En hel kväll? Jag skulle dö.|저녁 내내요? 저라면 죽을 거예요.
+Oskar|A2|Kaffet är gott i alla fall.|(한 모금 마시고) 어쨌든 커피는 맛있네요.
+# 장면 2 — 창가 자리: 고향과 가족
+Linnea|A2|Berätta om Härnösand. Hur var det att växa upp där?|(웃음을 참으며) 회르뇌산드 얘기 해 줘요. 거기서 자라는 건 어땠어요?
+Oskar|A2|Jag växte upp i Härnösand. Fast egentligen utanför stan, nära vattnet.|회르뇌산드에서 자랐어요. 정확히는 시내 밖, 물가 근처에서요.
+Linnea|A1|Vid havet?|바닷가요?
+Oskar|B1|Ja. Från farmors köksfönster ser man ut över fjärden. Det har jag saknat sedan jag flyttade.|네. 할머니 부엌 창문으로 만(灣)이 내다보여요. 이사 온 뒤로 그게 그리웠어요.
+Linnea|A2|Bor din farmor kvar där?|할머니는 아직 거기 사세요?
+Oskar|B2|Ja. Hon är åttiofyra, hugger fortfarande sin egen ved och vägrar envist att flytta till något som hon kallar ”ett förvaringsställe för gamlingar”.|네. 여든넷인데 아직도 장작을 직접 패시고, 할머니 말로는 "늙은이 보관소"라는 데로는 죽어도 안 가신대요.
+Linnea|A1|Va? Själv?|네? 혼자서요?
+Oskar|B1|Hon säger att det håller henne ung. Jag har slutat försöka stoppa henne.|그래야 안 늙는대요. 말리는 건 이제 포기했어요.
+Linnea|A2|Och dina föräldrar? Bor de också där?|그럼 부모님은요? 부모님도 거기 사세요?
+Oskar|A2|Det är en lång historia. En annan gång, kanske.|(커피잔을 잠시 내려다보며) 얘기가 길어요. 다음에 할게요, 아마.
+Linnea|A1|Okej. Förlåt.|아, 네. 미안해요.
+Oskar|B1|Du behöver inte be om ursäkt. Men jag har en syster här i Stockholm, Sara. Det är hennes dotter som fick Ronja.|사과할 필요 없어요. 그리고 스톡홀름에 누나가 있어요, 사라라고. 『로냐』 받은 게 누나 딸이에요.
+Linnea|A2|Elsa! Tyckte hon om boken?|엘사! 책 좋아했어요?
+Oskar|B2|Hon läser ett kapitel varje kväll och ringer sedan och berättar varenda detalj. Jag har nog aldrig vetat så mycket om en bok som jag inte har läst själv.|매일 밤 한 장(章)씩 읽고 나서 전화해서 하나도 빠짐없이 얘기해 줘요. 제가 직접 안 읽은 책을 이렇게 잘 알게 된 건 처음일 거예요.
+Linnea|A1|Vad gulligt!|너무 귀엽다!
+Oskar|B1|Hon har frågat flera gånger vem som valde boken, så jag sa att det var en tjej med grön kofta.|책 누가 골랐냐고 몇 번이나 물어봐서, 초록 카디건 입은 언니라고 했어요.
+Linnea|B1|Säg till henne att tjejen med den gröna koftan grät flera gånger när hon läste den som liten.|초록 카디건 언니도 어릴 때 그 책 읽으면서 몇 번이나 울었다고 전해 주세요.
+Oskar|A2|Det ska jag säga. Och du? Du är väl från Stockholm?|그렇게 전할게요. 린네아는요? 스톡홀름 출신이죠?
+Linnea|B1|Ja, jag är en riktig stockholmare. Jag växte upp i Bromma, och mina föräldrar bor fortfarande kvar i samma hus.|네, 완전 스톡홀름 토박이예요. 브롬마에서 자랐고, 부모님은 아직도 같은 집에 사세요.
+Oskar|A1|Bromma. Fint.|브롬마. 좋은 동네죠.
+Linnea|B2|Fint och lite tråkigt, om jag ska vara ärlig. Pappa är lärare och tävlar i frågesport på fritiden, och mamma pratar med sina rosor som om de vore människor.|좋긴 한데, 솔직히 말하면 좀 지루해요. 아빠는 교사인데 쉬는 날엔 퀴즈 대회에 나가고, 엄마는 장미들한테 사람한테 하듯 말을 걸어요.
+Oskar|B2|Det låter som en familj där man aldrig behöver undra om man är välkommen.|와도 되나 고민할 필요가 전혀 없는 가족 같네요.
+Linnea|A2|Det är det. Och sen har jag Ida, min storasyster.|맞아요. 그리고 이다라고, 언니가 하나 있어요.
+Oskar|A1|Är hon snäll?|언니는 착해요?
+Linnea|B2|Snäll är kanske inte rätt ord. Hon är sjuksköterska på akuten, och hon pratar med mig som om jag vore en av hennes patienter.|'착하다'는 딱 맞는 단어가 아닌 것 같아요. 응급실 간호사인데, 저한테 꼭 자기 환자한테 하듯 말해요.
+Oskar|A1|Hur då?|어떻게요?
+Linnea|A2|”Sätt dig. Drick vatten. Gör som jag säger.”|(언니 흉내를 내며) "앉아. 물 마셔. 내 말대로 해."
+Oskar|B1|Då förstår jag varför du pratar så snabbt. Du måste hinna säga allt innan hon avbryter dig.|그래서 말이 그렇게 빠르구나. 언니가 끊기 전에 다 말해야 하니까.
+Linnea|B2|Mamma säger nästan samma sak! Enligt henne pratar jag som någon som är rädd för att bli avbruten.|엄마도 거의 똑같은 말 해요! 엄마 말로는 제가 누가 끼어들까 봐 겁내는 사람처럼 말한대요.
+Oskar|A2|Och nu bor du i Hornstull. Nästan grannar, sa du.|그리고 지금은 혼스툴에 살고요. 거의 이웃이라고 했잖아요.
+Linnea|A2|Du kommer ihåg det!|그걸 기억하네요!
+Oskar|A1|Jo.|네.
+Linnea|A2|Hur länge har du bott i Liljeholmen?|릴리에홀멘에는 얼마나 살았어요?
+Oskar|B1|I tio år, ända sedan jag flyttade söderut. Jag hade tänkt stanna ett år.|10년이요. 남쪽으로 내려온 뒤로 쭉. 원래는 1년만 있으려고 했는데.
+Linnea|B2|Tio år i Stockholm, och du låter fortfarande som om du nyss hade klivit av tåget från Norrland.|스톡홀름에서 10년인데, 아직도 노를란드에서 기차 막 내린 사람처럼 말하네요.
+# 장면 3 — 정(情)과 lagom
+Oskar|A2|Det gör jag med flit.|일부러 그러는 거예요.
+Linnea|A1|Med flit?|일부러요?
+Oskar|B1|Nä. Men om jag börjar prata stockholmska blir farmor arg.|(무표정하게) 아뇨. 근데 스톡홀름 말투 쓰기 시작하면 할머니가 화내실 거예요.
+Linnea|A1|Din kopp är tom.|(웃음을 터뜨리고) 컵이 비었네요.
+Oskar|A2|Påtår. Jag kommer strax.|리필이요. 금방 올게요.
+Linnea|B1|Du, jag har tänkt på en sak sedan första kvällen på Lyktan. Minns du ordet jeong?|(그가 돌아와 앉자) 저기요, Lyktan에서 처음 만난 날부터 생각하던 게 있어요. '정'이라는 단어 기억해요?
+Oskar|B1|Jo. Du sa att det inte gick att översätta, och jag sa att det var som att jobba länge med samma bit trä.|네. 번역이 안 되는 말이라고 했고, 저는 같은 나뭇조각으로 오래 작업하는 거랑 비슷하다고 했죠.
+Linnea|B2|Exakt. Och ju mer jag tänker på det, desto mer tror jag att du hade rätt. Jeong är något man bygger upp med tiden, nästan utan att märka det.|바로 그거예요. 생각하면 할수록 오스카르 말이 맞았던 것 같아요. 정은 시간이 지나면서 쌓아 가는 거예요. 거의 알아차리지도 못하는 사이에.
+Oskar|A2|Som damm?|먼지처럼요?
+Linnea|A1|Nej!|(웃으며) 아니거든요!
+Oskar|A1|Förlåt. Fortsätt.|미안해요. 계속하세요.
+Linnea|B2|Det fina är att det inte bara gäller människor man tycker om. På koreanska finns det något som heter miun jeong, alltså jeong för någon som man faktiskt irriterar sig på.|재밌는 건 좋아하는 사람한테만 해당하는 게 아니라는 거예요. 한국어엔 '미운 정'이라는 게 있어요. 사실은 짜증 나는 사람한테 드는 정이요.
+Oskar|A2|Jeong för någon man inte gillar?|싫은 사람한테 드는 정이요?
+Linnea|B1|Ja! Typ en granne som spelar hög musik i tjugo år. När han flyttar saknar man honom ändå.|네! 이를테면 20년 동안 음악을 크게 트는 이웃 같은 거요. 그 사람이 이사 가면 그래도 허전한 거죠.
+Oskar|B1|Då har jag jeong för Ahmed. Han har pratat oavbrutet sedan jag började på varvet.|그럼 전 아메드한테 정이 있네요. 제가 조선소 들어간 날부터 쉬지 않고 떠들거든요.
+Linnea|A2|Vem är Ahmed?|아메드가 누구예요?
+Oskar|A2|Min kollega. Du kommer att gilla honom. Tyvärr.|제 동료요. 린네아도 좋아하게 될 거예요. 유감스럽게도.
+Linnea|B1|Nu är det din tur. Jag har gett dig ett koreanskt ord, så nu vill jag ha ett svenskt tillbaka.|이제 오스카르 차례예요. 제가 한국어 단어를 하나 줬으니까, 이번엔 스웨덴어 단어를 하나 돌려받고 싶어요.
+Oskar|A2|Ett svenskt ord? Du är ju svensk.|스웨덴어 단어요? 린네아도 스웨덴 사람이잖아요.
+Linnea|B1|Ett ord som du skulle vilja förklara för någon som inte är det. Ett som är svårt att översätta.|스웨덴 사람이 아닌 누군가한테 설명해 주고 싶은 단어요. 번역하기 어려운 거.
+Oskar|A1|Lagom.|(한참 생각하다가) 라곰.
+Linnea|A1|Lagom? Seriöst?|라곰이요? 진심이에요?
+Oskar|B1|Lagom betyder ungefär "inte för mycket, inte för lite".|라곰은 대충 "너무 많지도, 너무 적지도 않게"라는 뜻이에요.
+Linnea|B2|Det vet jag ju! Varenda turistbok om Sverige har ett kapitel om lagom. Jag hade hoppats på något lite mer oväntat.|그건 저도 알죠! 스웨덴 관광 책마다 라곰 챕터가 하나씩 있잖아요. 좀 더 뜻밖의 걸 기대했는데.
+Oskar|B2|Vänta. I verkstaden är lagom ingen livsstil, utan ett mått. Drar man åt skruvtvingarna för hårt pressas limmet ut ur fogen, och drar man åt dem för löst håller den inte.|잠깐만요. 작업장에서 라곰은 라이프스타일이 아니라 치수예요. 클램프를 너무 세게 조이면 이음매에서 접착제가 다 밀려 나오고, 너무 느슨하게 조이면 안 붙어요.
+Linnea|A1|Oj.|어머.
+Oskar|B2|Och virket ska vara lagom torrt. Är det för fuktigt krymper det och spricker när det torkar, och är det för torrt sväller det så mycket i vattnet att plankorna trycker sönder varandra.|그리고 목재는 적당히 말라 있어야 해요. 너무 축축하면 마르면서 줄어들고 갈라지고, 너무 바싹 마르면 물에 들어가서 너무 부풀어서 판자끼리 서로 밀어 깨뜨려요.
+Linnea|B2|Det där står inte i någon turistbok. Du pratar om trä ungefär som andra pratar om människor de har känt länge. Var har du lärt dig allt det?|그런 건 어떤 관광 책에도 안 나와요. 오스카르는 나무 얘기를, 다른 사람들이 오래 알고 지낸 사람 얘기하듯 하네요. 그런 건 다 어디서 배웠어요?
+Oskar|B2|Av en gammal båtbyggare i Härnösand, som lät mig sopa golvet i två somrar innan jag fick röra ett enda verktyg. Han pratade ännu mindre än jag.|회르뇌산드의 나이 든 배 목수한테서요. 연장 하나 만지게 해 주기 전에 두 여름 동안 바닥만 쓸게 하셨죠. 그분은 저보다 말이 더 없었어요.
+Linnea|A1|Omöjligt.|말도 안 돼요.
+Oskar|B1|Förresten finns det en historia om att ordet kommer från vikingarna. De skickade runt ett horn med mjöd, ”laget om”, och alla fick dricka lagom mycket.|그리고 이 단어가 바이킹한테서 왔다는 얘기도 있어요. 꿀술 뿔잔을 무리 전체에 한 바퀴('laget om') 돌렸는데, 다들 딱 적당히만 마셔야 했다고.
+Linnea|B2|Den historien är tyvärr en myt. Lagom kommer egentligen från ett gammalt ord för lag, alltså det som är rätt och riktigt. Förlåt, det är yrkesskadan.|아쉽지만 그건 지어낸 얘기예요. 라곰은 사실 '법'을 뜻하는 옛말에서 왔어요. 그러니까 옳고 마땅한 것. 미안해요, 직업병이에요.
+Oskar|A2|Vikingarna är en bättre historia.|바이킹 얘기가 더 재밌는데.
+Linnea|B1|Det är de alltid. Men vet du vad som är roligt? Jeong är aldrig lagom. Det blir alltid lite för mycket.|바이킹 얘기는 늘 그렇죠. 근데 재밌는 거 알아요? 정은 절대 라곰이 아니에요. 늘 조금씩 넘치거든요.
+Oskar|A2|Det låter inte så dumt.|(작게) 그것도 나쁘지 않네요.
+# 장면 4 — 모세바케 광장, 해 질 무렵
+Linnea|A2|Ska vi gå ut en stund? Solen har kommit fram.|잠깐 나갈까요? 해가 났어요.
+Oskar|A1|Gärna. Vart?|좋아요. 어디로요?
+Linnea|B2|Till Mosebacke. Det är bara fem minuter härifrån, och utsikten är det enda i den här stan som aldrig har gjort mig besviken.|모세바케요. 여기서 5분밖에 안 걸리고, 그 전망은 이 도시에서 저를 한 번도 실망시킨 적 없는 유일한 거예요.
+Oskar|A1|Oj då.|(모세바케 광장 끝 난간. 발아래로 감라스탄과 물, 섬들이 노을빛으로 펼쳐진다) 와.
+Linnea|B1|Där är Gamla stan, och den smala spiran är Riddarholmskyrkan. Jag brukar komma hit när jag har kört fast i en översättning.|저기가 감라스탄이고, 저 뾰족한 첨탑이 리다르홀름 교회예요. 번역하다 막히면 여기 오곤 해요.
+Oskar|A2|Och där borta ligger af Chapman.|그리고 저쪽에 아프 차프만이 있네요.
+Linnea|A1|Det vita skeppet?|저 하얀 배요?
+Oskar|B2|En fullriggare från 1888. Skrovet är av stål, så det är inte riktigt min sort, men riggen är vacker. Jag skulle kunna stå och titta på den hur länge som helst.|1888년에 지어진 풀리거, 그러니까 대형 범선이에요. 선체가 강철이라 제 전문은 아니지만, 돛대랑 삭구가 아름다워요. 몇 시간이고 서서 볼 수 있어요.
+Linnea|A2|Bygger du också stora båtar?|큰 배도 만들어요?
+Oskar|A2|Nä. Små båtar av trä. Mest gamla.|아뇨. 나무로 된 작은 배요. 주로 오래된 거.
+Linnea|B1|Har du någon egen båt, eller jobbar du bara med andras?|본인 배도 있어요? 아니면 남의 배만 고쳐요?
+Oskar|B1|Jag har en. Hon heter Svalan. Just nu är hon mest ruttet trä, men en dag ska hon segla igen.|하나 있어요. 이름은 스발란(제비)이에요. 지금은 거의 썩은 나무 덩어리지만, 언젠가 다시 바다에 나갈 거예요.
+Linnea|A1|Svalan. Vad fint.|스발란. 예쁘다.
+Oskar|B1|Fint är kanske inte rätt ord, som du brukar säga. Hon har ett hål i skrovet som man kan sticka in handen i.|'예쁘다'는 딱 맞는 단어가 아닐지도요, 린네아 식으로 말하면. 선체에 손이 들어갈 만한 구멍이 나 있거든요.
+Linnea|A2|Var ligger hon?|그 배 어디 있어요?
+Oskar|B1|På varvet på Långholmen. Hon står uppallad i ett skjul, och jag brukar jobba med henne på lördagarna.|롱홀멘 조선소요. 창고 안에 받침대로 받쳐 세워 놨는데, 보통 토요일마다 그 배 작업을 해요.
+Linnea|A2|Även nästa lördag?|다음 토요일에도요?
+Oskar|A1|Jo. Varför?|네. 왜요?
+Linnea|B1|Vet du att jag aldrig har varit på ett riktigt varv? Jag vet inte ens vad man gör där, förutom att det luktar tjära.|저 진짜 조선소엔 한 번도 가 본 적 없는 거 알아요? 거기서 뭘 하는지도 몰라요. 타르 냄새 난다는 것 말고는.
+Oskar|B1|Det luktar tjära, ja. Och sågspån. Det är inget ställe för en grön kofta.|타르 냄새 나죠, 맞아요. 톱밥 냄새도요. 초록 카디건 입고 올 데는 아니에요.
+Linnea|A1|Visa mig båten.|(오스카르를 똑바로 바라보며) 그 배 보여 줘요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **En kaffe, tack.** | 커피 한 잔 주세요. | 주문의 기본형: *en/ett + 명사 + tack*. 카페에서 *kaffe*라고만 하면 보통 드립 커피(*bryggkaffe*)가 나온다 |
+| `A1` | **Har du väntat länge?** | 오래 기다렸어요? | 현재완료 *har + väntat*. 늦게 도착했을 때 건네는 첫마디 |
+| `A2` | **Jag växte upp i Härnösand.** | 회르뇌산드에서 자랐어요. | *växa upp* (자라다) – 과거형 *växte upp*. 불규칙이 아니라 약변화 *-te* |
+| `A2` | **Vad får det lov att vara?** | 뭘로 드릴까요? | 가게 직원의 정형화된 공손한 질문. 손님은 *Jag tar…* 또는 *…, tack*로 답한다 |
+| `A2` | **Det var ju jag som valde stället.** | 장소 고른 게 저잖아요. | 강조 구문 *det är/var X som…* (~한 건 X다). *ju* = "알다시피, ~잖아" |
+| `B1` | **Lagom betyder ungefär "inte för mycket, inte för lite".** | 라곰은 대충 "너무 많지도 적지도 않게"라는 뜻이에요. | *ungefär* = 대략. *för mycket / för lite* = 너무 많이/너무 적게 (*för* + 형용사·부사 = 지나치게) |
+| `B1` | **Vi delar på det.** | 반반 내요. | *dela på något* = ~을 나눠 내다/나눠 쓰다. 더치페이 때 자주 쓰는 표현 |
+| `B2` | **Jeong är något man bygger upp med tiden, nästan utan att märka det.** | 정은 시간이 지나면서 쌓아 가는 거예요, 거의 알아차리지도 못하는 사이에. | *bygga upp* = 쌓아 올리다. *utan att* + 부정사 = ~하지 않고, ~도 모르게 |
+| `B2` | **…som om jag vore en av hennes patienter.** | 꼭 자기 환자인 것처럼요. | *som om* + 가정법 *vore* (= *var*의 가정형) = 마치 ~인 것처럼 |
+| `B2` | **Ju mer jag tänker på det, desto mer tror jag att…** | 생각하면 할수록 ~라고 믿게 돼요. | *ju + 비교급…, desto + 비교급* = ~할수록 더 ~하다. *desto* 뒤에서 도치(V2) |
+
+## 문화 메모
+- **Påtår (리필)** — 스웨덴 카페에서 드립 커피(*bryggkaffe*)를 시키면 한 번 더 따라 마시는 *påtår*가 무료로 포함된 경우가 많다. 계산대 옆에 놓인 커피 주전자에서 손님이 직접 따르는 곳도 흔하다. 세 번째 잔은 농담 삼아 *tretår*라고 부른다.
+- **Kardemummabulle와 chokladboll** — 시나몬롤만큼 사랑받는 피카 단짝들. *kardemummabulle*는 카르다몸 향을 넣어 꼬아 구운 빵이고, *chokladboll*은 귀리·버터·설탕·코코아를 반죽해 코코넛 가루를 묻힌 굽지 않는 과자로, 스웨덴 아이들이 처음 만들어 보는 간식으로도 유명하다.
+- **Lagom의 어원** — 흔히 바이킹이 꿀술 뿔잔을 "무리 전체에 한 바퀴(*laget om*)" 돌리며 적당히 마셨다는 데서 왔다고들 하지만, 이는 민간 어원이다. 실제로는 '법·관습'을 뜻하는 옛말 *lag*의 복수 여격형(*lagum*, "법도에 맞게")에서 온 말로 본다. 린네아의 "직업병" 정정이 맞다.
+- **모세바케와 아프 차프만** — 쇠데르말름 북쪽 언덕의 *Mosebacke torg*는 감라스탄과 시내를 내려다보는 전망으로 유명하다. 맞은편 셰프스홀멘에 정박한 하얀 범선 *af Chapman*은 1888년 영국에서 건조된 강철 선체의 풀리거로, 지금은 유스호스텔로 쓰인다.
+
+## 다음 화 예고 — 5화 *Varvet på Långholmen* (롱홀멘의 조선소)
+토요일 아침, 낡은 스웨터 차림의 린네아가 롱홀멘 조선소 문을 연다. 그녀를 맞는 건 타르 냄새, 톱밥, 그리고 쉬지 않고 떠드는 아메드. "Vad är det?" 받침대 위에 놓인 썩은 선체 Svalan 앞에서, 말 없던 오스카르가 참나무와 소나무, 리벳과 타르 이야기를 쏟아내기 시작한다. 그리고 린네아는 생애 첫 대패질에 도전하는데…
