@@ -1,0 +1,154 @@
+@title 3부 3화 — Hyran
+@subtitle (임대료)
+@meta 날짜|3월 28일 토요일 오후 4시 ~ 5시 45분쯤 (영상 3도, 진눈깨비 뒤 갬 · 해는 6시 20분쯤 짐)
+@meta 장소|쇠데르말름 바스투가탄, 문 닫은 서점 Lyktan — 창가 독서 탁자 → 계산대 앞 → 어린이 책 코너 → 다시 창가
+@meta 등장인물|**Maggan** (마간, 68, Lyktan 주인) · **Linnea** (린네아, 28) · **Oskar** (오스카르, 31) · **Johan** (요한 발, 30, 출판사 Albatross 편집자 — 마지막에 잠깐)
+@intro **지난 이야기** 3월 25일, 와플의 날. 브리트 할머니가 부친 하트 모양 와플 틀 앞에서 린네아는 세 번 입을 열었고, 세 번 다 끊겼다. 아메드가 와플을 훔쳐 먹었고, 냉장고에 붙은 도면이 오스카르를 불러 갔고, 마지막엔 와플이 타서 화재경보기가 울었다. 설거지를 하며 오스카르가 조용히 말했다. "Det är något du inte säger." 이다에게 물어볼 수도 있었지만 묻지 않았다고, 너한테서 듣고 싶다고. 네 번째로 숨을 들이쉰 린네아가 '어느 재단에서 온 편지'까지 말했을 때, 두 사람의 휴대폰이 동시에 울렸다. 마간이었다. "Kan ni komma? Båda två. Det är viktigt." — 그리고 처음으로 "Kram"이 빠진 두 번째 문자. "Lördag klockan fyra, när jag har stängt. /M"
+@intro 사흘 뒤, 3월 28일 토요일 오후 4시. 진눈깨비가 막 그친 바스투가탄. Lyktan의 문에는 "Stängt" 팻말이 걸렸지만, 창가의 등불은 켜져 있다. 서울 답변 기한까지는 나흘. 린네아는 아직 말하지 못했고, 두 사람은 같은 것을 떠올리며 문 앞에 섰다. 계산대 맨 위 서랍, 병따개 밑의 흰 봉투 두 통.
+# 장면 1 — 서랍 속의 봉투
+Maggan|A2|Kom in, ni två. Jag har satt på kaffe.|(오후 4시 정각. 마간이 안에서 문을 열자 종이 울린다. 회색 니트에 진주 귀걸이, 평소처럼 단정하지만 눈 밑이 어둡다. 그녀는 둘을 들이고 문을 닫는다 — 잠그는 걸 잊은 채) 들어오렴, 둘 다. 커피 올려놨어.
+Oskar|A1|Tack.|(문 앞 매트에 장화를 꼼꼼히 턴다. 오늘은 10분 일찍 오지 않았다. 정각에 왔다) 고맙습니다.
+Linnea|B1|Du lät så allvarlig i sms:et, Maggan. Har det hänt något? Är du sjuk?|문자가 너무 심각하게 느껴졌어요, 마간. 무슨 일 있으세요? 어디 아프세요?
+Maggan|B1|Nej, nej. Jag är frisk som en nötkärna, lilla vän. Det är inte min hälsa det handlar om.|아니, 아니. 난 아주 쌩쌩해, 얘야. 내 건강 얘기가 아니야.
+Oskar|A2|Ska vi sätta oss?|앉을까요?
+Maggan|B1|Ja, sätt er vid läsbordet. Jag har dukat fram koppar, och bullarna är från bageriet på hörnet.|그래, 창가 독서 탁자에 앉으렴. 잔은 꺼내 놨고, 빵은 모퉁이 빵집 거야.
+Linnea|A1|Kanelbullar?|(접시 위엔 시나몬롤이 수북하다. 린네아의 위로 음식) 시나몬롤이요?
+Maggan|B2|Jag vet vad du äter när du behöver tröst. Och jag misstänker att du kommer att behöva det om en stund.|위로가 필요할 때 네가 뭘 먹는지 알지. 그리고 좀 있으면 그게 필요할 것 같구나.
+Oskar|B1|Är det brevet i lådan som du ville prata om?|(앉지 않고 선 채로, 계산대 쪽을 한 번 본다) 하시려는 얘기가 서랍 속 그 편지예요?
+Maggan|A1|Vilket brev?|(커피 주전자를 든 손이 멈춘다) 무슨 편지?
+Linnea|B1|Förlåt, Maggan. På fettisdagen, när jag hämtade saxen, såg jag kuvertet under kapsylöppnaren. Jag läste bara rubriken.|죄송해요, 마간. 셈라 화요일에 가위 가지러 갔다가 병따개 밑에 있는 봉투를 봤어요. 제목만 읽었어요.
+Maggan|A2|Och du, Oskar?|그럼 너는, 오스카르?
+Oskar|B1|Linnea berättade det för mig på alla hjärtans dag. Vi har lovat varandra att inte ha några hemligheter.|밸런타인데이에 린네아가 말해 줬어요. 저희 서로 비밀 두지 않기로 약속했거든요.
+Linnea|A1|…Ja.|(시선을 떨군다. 그 약속을 지금 이 탁자에서 깨고 있는 사람은 그녀다) …네.
+Maggan|B2|Så ni har vetat i flera veckor och ändå inte sagt ett ord. Jag trodde att det bara var väggarna i lagret som var tunna — tydligen gäller det lådorna också.|(잠깐 말이 없다가, 뜻밖에 웃는다) 그러니까 몇 주나 알면서 한마디도 안 했구나. 창고 벽만 얇은 줄 알았더니, 서랍도 그런 모양이네.
+Linnea|B1|Vi ville inte fråga. Vi tänkte att du skulle berätta när du var redo.|여쭤보고 싶지 않았어요. 준비되시면 말씀해 주실 거라고 생각했어요.
+Maggan|B2|Det var omtänksamt av er. Och det var fegt av mig att låta er gå och gissa. Nu ska ni få höra hela historien.|배려해 준 거구나. 그리고 너희가 짐작만 하게 둔 건 내가 비겁했어. 이제 처음부터 다 얘기해 줄게.
+Oskar|A1|Okej.|(그제야 의자에 앉는다) 네.
+Maggan|B1|Huset har blivit sålt. Familjen som har ägt det i femtio år har sålt det till ett fastighetsbolag.|건물이 팔렸어. 50년 동안 이 건물을 갖고 있던 집안이 부동산 회사에 팔았어.
+Linnea|B1|När hände det? Du har aldrig sagt något om att huset skulle säljas.|언제요? 건물이 팔린다는 말씀은 한 번도 없으셨잖아요.
+Maggan|B1|I höstas. Det första brevet kom i november. Där stod det att de nya ägarna ville "se över villkoren".|작년 가을에. 첫 편지가 11월에 왔지. 새 주인이 '조건을 재검토'하고 싶다고 써 있더라.
+Oskar|A2|Och det andra brevet?|그럼 두 번째 편지는요?
+Maggan|B2|Det kom i februari. "Uppsägning av lokal — för villkorsändring." Det låter så artigt, nästan som en inbjudan till middag.|그건 2월에 왔어. "점포 임대 해지 통지 — 조건 변경을 위한." 참 정중하게 들리지. 거의 저녁 식사 초대장처럼.
+Linnea|B1|Vad betyder det? Att de säger upp dig, eller att de vill ändra något?|그게 무슨 뜻이에요? 내보낸다는 거예요, 아니면 뭘 바꾸겠다는 거예요?
+Maggan|B2|Båda delarna. Antingen skriver jag på ett nytt hyresavtal med deras villkor, eller så ska lokalen vara tom när det gamla avtalet går ut.|둘 다. 그쪽 조건으로 새 임대 계약서에 서명하든지, 아니면 지금 계약이 끝날 때 가게를 비우든지.
+Oskar|A2|När går det ut?|언제 끝나요?
+Maggan|A2|Den sista juni.|6월 30일.
+Linnea|A1|Juni?|6월이요?
+Maggan|B2|Jag har räknat och räknat, lilla vän. Hur jag än vänder på siffrorna blir svaret detsamma: i juni stänger Lyktan.|계산하고 또 계산해 봤어, 얘야. 숫자를 아무리 이리저리 돌려 봐도 답은 똑같아. 6월에 Lyktan은 문을 닫아.
+Linnea|A1|Nej!|아니에요!
+# 장면 2 — 숫자와 계약서
+Oskar|A2|Hur mycket vill de ha i hyra?|(린네아의 손등 위에 자기 손을 얹는다. 그리고 목수답게 숫자부터 묻는다) 임대료를 얼마 달래요?
+Maggan|A2|Hyran blir dubbelt så hög.|임대료가 두 배가 돼.
+Linnea|A1|Dubbelt?|두 배요?
+Maggan|A2|Jag betalar arton tusen i månaden nu. De vill ha trettiosex.|지금 한 달에 1만 8천 크로나 내. 3만 6천을 달래.
+Oskar|A1|Trettiosex tusen.|(천천히, 숫자를 손으로 재듯이) 3만 6천.
+Maggan|B1|Och de vill ha ett nytt avtal på fem år, där hyran dessutom höjs varje år efter index.|게다가 5년짜리 새 계약을 원해. 임대료는 해마다 물가지수에 맞춰 또 오르고.
+Linnea|B1|Hur mycket säljer du för en vanlig månad, om jag får fråga?|평소 한 달 매출이 얼마나 돼요? 여쭤봐도 된다면요.
+Maggan|B1|En bra månad, som december, kanske sjuttio tusen. En vanlig mars knappt hälften.|좋은 달, 12월 같은 때는 7만쯤. 평범한 3월은 그 절반도 안 되고.
+Oskar|B1|Och då har du inte ens räknat med att böckerna också kostar pengar.|그것도 책 들여오는 돈은 아직 계산에 넣지도 않은 거잖아요.
+Maggan|B2|Precis. Av varje bok som jag säljer för tvåhundra kronor går mer än hälften tillbaka till förlaget. Resten ska räcka till hyra, el och en gammal kvinnas lön.|그렇지. 200크로나짜리 책 한 권을 팔면 절반 넘게 출판사로 돌아가. 나머지로 임대료, 전기료, 그리고 늙은 여자 하나 월급까지 대야 해.
+Linnea|A2|Det går inte ihop.|계산이 안 맞네요.
+Maggan|A1|Nej.|안 맞지.
+Oskar|B1|Får de verkligen göra så? Bara höja hyran till det dubbla och säga upp dig?|그렇게 해도 되는 거예요? 그냥 임대료를 두 배로 올리고 나가라고 해도?
+Maggan|B2|Det frågade jag också. En av mina stamkunder är advokat, och hon läste igenom hela avtalet åt mig i januari.|나도 그걸 물었어. 단골 중에 변호사가 한 명 있는데, 1월에 계약서를 처음부터 끝까지 대신 읽어 줬어.
+Linnea|A2|Vad sa hon?|뭐라고 했어요?
+Maggan|B2|Att besittningsskyddet för lokaler är svagt i Sverige. Den som hyr en bostad har starka rättigheter, men en butik har ingen rätt att stanna kvar om hyresvärden inte vill.|스웨덴에선 점포 임차인의 계속 점유권이 약하대. 집을 빌린 사람은 권리가 강하지만, 가게는 집주인이 원하지 않으면 계속 있을 권리가 없대.
+Oskar|A1|Ingen alls?|전혀요?
+Maggan|B2|Bara ett indirekt skydd. Om de kräver en hyra som är orimligt hög jämfört med marknaden, kan man ha rätt till ersättning när man flyttar. Men stanna får man inte.|간접적인 보호뿐이야. 시세에 비해 터무니없이 높은 임대료를 요구하면, 나갈 때 보상을 받을 권리가 있을 수는 있대. 하지만 남을 수는 없어.
+Linnea|B1|Men trettiosex tusen måste väl vara orimligt för en liten bokhandel?|그래도 작은 서점한테 3만 6천은 당연히 터무니없는 거 아니에요?
+Maggan|B2|För en bokhandel, ja. Men marknaden bryr sig inte om vad som säljs i lokalen. Ett kafé eller en vinbar på Söder skulle gärna betala det.|서점한텐 그렇지. 하지만 시장은 가게 안에서 뭘 파는지엔 관심 없어. 쇠데르의 카페나 와인 바라면 그 돈 기꺼이 낼 거야.
+Oskar|B1|Har du försökt prata med dem, eller har allt gått via brev?|그 사람들이랑 얘기는 해 보셨어요, 아니면 전부 편지로만 오갔어요?
+Maggan|B1|Två gånger. En ung man i skjorta och gympaskor, mycket artig. Han sa att det "inte var något personligt".|두 번. 셔츠에 운동화 신은 젊은 남자였는데, 아주 예의 바르더라. "개인적인 감정은 전혀 없다"고 하더구나.
+Linnea|A1|Typiskt.|(코웃음) 하여간.
+Maggan|B1|Man kan vända sig till hyresnämnden och be om medling. Men de kan inte tvinga ägarna att låta mig stanna.|임대차 조정위원회(hyresnämnden)에 조정을 신청할 수는 있어. 하지만 거기서도 집주인한테 나를 남게 하라고 강제할 순 없대.
+Oskar|A2|Har du något sparat?|모아 두신 돈은 좀 있으세요?
+Maggan|B1|Lite. Med den nya hyran räcker det kanske ett halvår. Sedan står jag där med tomma hyllor och en ännu tommare bankbok.|조금. 새 임대료로 반년쯤 버틸까. 그다음엔 텅 빈 책장이랑 더 텅 빈 통장만 남겠지.
+Linnea|A2|Vi kan hjälpa dig. Jag kan…|저희가 도울 수 있어요. 제가…
+Maggan|B2|Nej, lilla vän. Jag har inte bett er hit för att få pengar av er. Det vill jag att ni förstår.|아니, 얘야. 너희한테 돈 받으려고 부른 게 아니야. 그건 알아줬으면 좋겠구나.
+Oskar|B1|Varför ville du att vi skulle komma, då?|그럼 왜 저희를 부르셨어요?
+Maggan|B1|För att ni ska vara de första som får veta. Förlagen och stamkunderna får ett brev i april.|너희가 제일 먼저 알았으면 해서. 출판사들이랑 단골들은 4월에 편지를 받을 거야.
+Linnea|A2|Vet någon annan redan?|벌써 아는 사람 있어요?
+Maggan|A1|Ingen.|아무도.
+Oskar|A2|Inte ens bokklubben?|북클럽 분들도요?
+Maggan|B2|Gunnel skulle börja samla namnunderskrifter innan jag ens hunnit hänga av mig kappan. Jag behövde några veckor för mig själv först.|군넬이 알면 내가 외투도 벗기 전에 서명부터 받으러 다닐걸. 먼저 나 혼자 몇 주가 필요했어.
+Linnea|B1|Men nu vet vi. Och nu får du inte bära det här ensam längre.|하지만 이제 저희가 알잖아요. 이제 이건 혼자 짊어지시면 안 돼요.
+# 장면 3 — 구둣방이었던 자리
+Maggan|B2|Vet ni vad det första jag tänkte på var, när jag öppnade det andra brevet? Inte pengarna. Golvet.|(창밖으로 해가 나기 시작한다. 마간이 커피를 한 모금 마신다) 두 번째 편지를 열었을 때 제일 먼저 뭐가 떠올랐는지 아니? 돈이 아니었어. 바닥이었어.
+Oskar|A1|Golvet?|바닥이요?
+Maggan|B2|När vi fick nycklarna, Stig och jag, var här en skomakarverkstad. Golvet var täckt av lim och läderbitar, och hela lokalen luktade som en gammal känga.|스티그랑 내가 열쇠를 받았을 때 여긴 구둣방이었어. 바닥은 접착제랑 가죽 조각으로 뒤덮여 있었고, 가게 전체에서 낡은 장화 냄새가 났지.
+Linnea|A2|Hur gammal var du då?|그때 몇 살이셨어요?
+Maggan|A2|Tjugoåtta. Lika gammal som du är nu.|스물여덟. 지금 너랑 같은 나이.
+Linnea|A1|Som jag?|저랑요?
+Maggan|B2|Vi skrapade golvet på knä hela vintern, kväll efter kväll, när Stig hade slutat för dagen på antikvariatet på Hornsgatan.|겨우내 무릎 꿇고 바닥을 긁어냈어. 매일 저녁, 스티그가 호른스가탄 헌책방에서 하루 일을 마치고 나면.
+Oskar|A2|Med vad? En vanlig skrapa?|(목수의 질문) 뭘로요? 그냥 스크레이퍼로요?
+Maggan|B1|Med en skrapa och en hel del svordomar. Stig svor bara när han trodde att jag inte hörde. I april öppnade vi.|스크레이퍼랑 욕 한 바가지로. 스티그는 내가 못 듣는다고 생각할 때만 욕을 했어. 그리고 4월에 문을 열었지.
+Linnea|A2|Så i april blir det precis fyrtio år?|그럼 4월에 딱 40년이 되는 거네요?
+Maggan|B1|Räknar man vintern på knä är det redan mer. Jag har drivit butiken i över fyrtio år.|(단어에 깐깐한 린네아에게, 작게 웃으며) 무릎 꿇던 그 겨울까지 치면 벌써 넘었지. 이 가게를 꾸려 온 지 40년이 넘었어.
+Oskar|A2|Vem kom på namnet?|이름은 누가 지었어요?
+Maggan|B2|Stig. Jag ville ha något franskt och elegant, men samma vecka som vi skrev på hyreskontraktet kom han hem från en loppis med en gammal lykta under armen, och sedan fanns det inget mer att diskutera.|스티그. 난 뭔가 프랑스식으로 우아한 이름을 원했는데, 임대 계약서에 서명한 그 주에 그 사람이 벼룩시장에서 낡은 등을 옆구리에 끼고 돌아왔고, 그다음엔 더 따질 것도 없었지.
+Linnea|A2|Lyktan i fönstret.|창가의 그 등이네요.
+Maggan|B2|Han sa att en bokhandel ska synas från gatan som ett fönster i en stuga där någon fortfarande är vaken. Därför lyser den till nio varje kväll, för det var då han brukade stänga.|그 사람이 그랬어. 서점은 길에서 보면, 아직 누가 깨어 있는 오두막 창문처럼 보여야 한다고. 그래서 매일 밤 아홉 시까지 켜 두는 거야. 그 사람이 문 닫던 시간이니까.
+Oskar|B1|Det var den som jag såg först, den kvällen i regnet, innan jag ens hade läst skylten.|저도 그걸 제일 먼저 봤어요. 그날 밤 빗속에서, 간판을 읽기도 전에.
+Maggan|B1|Jag vet. Du är den ende som har kommit in för att lyktan lyste. Stig hade tyckt om dig.|알아. 등불을 보고 들어온 손님은 너 하나뿐이야. 스티그가 널 좋아했을 거야.
+Linnea|B1|Vad hade Stig sagt om det här, tror du? Om breven?|스티그 씨라면 이 일에 대해 뭐라고 하셨을까요? 그 편지들에 대해서요?
+Maggan|B2|Han hade varit rasande i en kvart. Sedan hade han satt på kaffe och sagt att inga väggar i världen är värda att man ligger sömnlös för deras skull.|15분은 펄펄 뛰었겠지. 그러고 나서 커피를 올리고, 세상 어떤 벽도 그것 때문에 잠 못 이룰 가치는 없다고 했을 거야.
+Oskar|A2|Sover du, då?|그럼 잠은 주무세요?
+Maggan|A1|Inte så mycket.|별로.
+Linnea|B1|Varför sa du ingenting? Vi har ju varit här nästan varje vecka sedan i höstas.|왜 아무 말씀 안 하셨어요? 저희 가을부터 거의 매주 여기 왔잖아요.
+Maggan|B2|Av samma skäl som man ibland inte berättar saker för dem man tycker om, lilla vän. Man vill skydda dem — och slippa se deras ansikten när de får veta.|(린네아를 오래 바라본다. 서울 이야기를 아는 단 한 사람의 눈빛. 린네아는 그 뜻을 안다) 사람이 가끔 좋아하는 사람한테 말을 안 하는 것과 같은 이유야, 얘야. 그 사람들을 지켜 주고 싶은 거지 — 그리고 알게 되는 순간의 그 얼굴을 안 보고 싶은 거고.
+Linnea|A1|Jag vet.|(아주 작게. 오스카르는 커피잔만 보고 있다) 알아요.
+Oskar|B1|Finns det något mer här inne som är Stigs? Förutom lyktan, menar jag.|여기 스티그 씨 거가 또 있어요? 등불 말고요.
+Maggan|B2|Disken. Han byggde den av gamla dörrar från ett rivningshus i Vasastan. Och poesihyllan där borta — den lutar, för han vägrade använda vattenpass.|계산대. 바사스탄의 철거하는 집에서 나온 낡은 문짝으로 그 사람이 만들었어. 그리고 저기 시집 책장 — 기울었지. 수평계를 절대 안 쓰겠다고 우겼거든.
+Oskar|A1|Jo. Jag har sett det.|(오스카르의 입꼬리가 아주 조금 올라간다) 네. 봤어요.
+Maggan|B1|Klart att du har. Men du är den förste som aldrig har försökt rätta till den.|당연히 봤겠지. 근데 그걸 바로잡으려 들지 않은 사람은 네가 처음이야.
+Linnea|A2|Och barnen? Var satt de?|아이들은요? 어디 앉았어요?
+Maggan|B2|Längst in, där de sitter än i dag. Stig läste högt för dem på lördagarna, med en egen röst för varje figur, medan mammorna låtsades att de inte lyssnade.|맨 안쪽, 지금 앉는 바로 그 자리. 토요일마다 스티그가 등장인물마다 다른 목소리를 내서 소리 내어 읽어 줬어. 엄마들은 안 듣는 척하고.
+Oskar|A2|Nu sitter de vid min hylla.|이제 제 책꽂이 앞에 앉네요.
+Maggan|B2|Ja. Och det är därför det gör så ont. Det är inte bara en butik — det är ett helt liv som ryms mellan de här väggarna.|(어린이 책 코너 쪽, 오스카르의 낮은 참나무 책꽂이를 본다) 그래. 그래서 이렇게 아픈 거야. 이건 그냥 가게가 아니야 — 이 벽들 사이에 한 사람의 평생이 통째로 담겨 있어.
+Linnea|A1|Maggan…|마간…
+Maggan|B1|Förlåt. Jag lovade mig själv att inte gråta inför er. Jag har övat på det här samtalet hela veckan.|미안하다. 너희 앞에선 안 울겠다고 다짐했는데. 이 얘기, 일주일 내내 연습했거든.
+Oskar|A1|Det gör inget.|(작업복 주머니에서 깨끗하게 접힌 손수건을 꺼내 내민다) 괜찮아요.
+# 장면 4 — "방법을 찾을게요"
+Linnea|A2|Vad vill du själv, Maggan?|(오후 5시 반. 등불 옆 창으로 늦은 햇빛이 비스듬히 들어온다) 마간은 어떻게 하고 싶으세요?
+Maggan|B1|Jag vill inte att Lyktan ska bli en vinbar. Mer än så vet jag inte just nu.|Lyktan이 와인 바가 되는 건 싫어. 지금은 그 이상은 모르겠구나.
+Oskar|A1|Vi hittar en lösning.|우리가 방법을 찾을게요.
+Maggan|B2|Du låter så säker, som om du redan hade ritat hela lösningen på papper.|아주 확신하는구나. 해결책을 벌써 종이에 다 그려 놓은 사람처럼.
+Oskar|B1|Jag är inte säker. Men jag har sett båtar som alla sa var för ruttna, och i dag flyter de.|확신은 없어요. 근데 다들 너무 썩었다고 한 배들이 지금은 떠 있는 걸 봤어요.
+Linnea|A2|Som Svalan.|스발란처럼.
+Oskar|A1|Jo.|응.
+Maggan|B2|Att bli jämförd med en båt som kostade en krona — det är nog det vackraste någon har sagt till mig på länge.|1크로나 주고 산 배에 비유되다니 — 오랜만에 들은 말 중에 제일 아름다운 말인 것 같구나.
+Linnea|B2|Vi har tre månader på oss. Det är kortare än vi skulle vilja, men längre än det låter.|석 달 있어요. 바라는 것보단 짧지만, 들리는 것보단 길어요.
+Oskar|A2|Vi börjar i morgon.|내일부터 시작해요.
+Maggan|A1|I morgon?|내일?
+Linnea|A2|Ja. Jag ringer Ida, och Oskar ringer Ahmed.|네. 저는 이다 언니한테 전화하고, 오스카르는 아메드한테 하고요.
+Oskar|B1|Ahmed pratar med alla som står still längre än tio sekunder. Den här gången är det en fördel.|아메드는 10초 넘게 가만히 서 있는 사람이면 누구하고든 얘기해요. 이번엔 그게 장점이죠.
+Maggan|A2|Ni är tokiga, båda två.|(손수건으로 눈가를 누르며, 웃는다) 둘 다 정신이 나갔구나.
+Linnea|A1|Tack!|감사합니다!
+Maggan|A2|Ta en bulle till nu. Ni har knappt ätit något.|이제 빵 하나씩 더 먹으렴. 거의 아무것도 안 먹었잖아.
+Oskar|A1|Vem är det?|(그 순간, 문에 달린 종이 울린다. 마간이 잠그는 걸 잊은 문이 열리고 3월의 찬바람이 들어온다) 누구지?
+Maggan|A2|Vi har tyvärr stängt! … Herr Wall?|죄송하지만 문 닫았어요! … 발 씨?
+Linnea|A1|Johan…|(얼굴에서 핏기가 가신다. 남색 코트, 캐시미어 목도리 — 오스카르도 그를 알아본다. 12월 율보르드에서 손을 내밀며 "아, 그 목수분이시군요?"라고 했던 남자. 오스카르가 천천히 일어선다) 요한…
+Johan|B1|Ursäkta att jag stör. Jag såg ljuset i fönstret och tänkte att du kanske var här. Linnea, har du bestämt dig för Seoul?|(오스카르를 보고 아주 잠깐 멈칫하지만, 이미 말은 입 밖으로 나오고 있다) 방해해서 죄송합니다. 창에 불이 켜져 있길래 혹시 여기 있나 해서요. 린네아, 서울은 결정했어?
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Nej!** | 아니에요! / 안 돼요! | 가장 짧은 부정이지만, 억양에 따라 거절·충격·항의가 된다. 여기선 "그럴 리 없어"에 가까운 비명 |
+| `A1` | **Vi hittar en lösning.** | 우리가 방법을 찾을게요. | 스웨덴어는 현재형으로 가까운 미래·의지를 말할 수 있다(*Vi börjar i morgon* 내일 시작해요). *en lösning* = 해결책 (*lösa* 풀다) |
+| `A2` | **Hyran blir dubbelt så hög.** | 임대료가 두 배가 돼. | *dubbelt så* + 형용사 = "두 배만큼 ~한". *tre gånger så hög* = 세 배. *hyran*은 *hyra*(임대료)의 한정형 |
+| `A2` | **Det går inte ihop.** | 계산이 안 맞아. / 앞뒤가 안 맞아. | *gå ihop* = (돈·숫자·이야기가) 맞아떨어지다. 가계부에도, 수상한 알리바이에도 쓴다 |
+| `B1` | **Jag har drivit butiken i över fyrtio år.** | 이 가게를 40년 넘게 꾸려 왔어. | *driva* (*drev, drivit*) + 가게·회사 = 운영하다. 현재까지 이어지는 기간은 현재완료 + *i* + 기간. *över* = ~ 넘게 |
+| `B1` | **Får de verkligen göra så?** | 정말 그렇게 해도 되는 거예요? | *få* = ~해도 된다(허락). *verkligen* = 정말로. 법·규칙을 따질 때 자주 쓰는 질문 |
+| `B1` | **Räknar man vintern på knä är det redan mer.** | 무릎 꿇던 겨울까지 치면 벌써 넘었지. | *om*을 생략하고 동사(*räknar*)를 앞세운 조건절. 뒤 주절은 동사부터: *är det* (V2) |
+| `B2` | **Det är inte bara en butik — det är ett helt liv som ryms mellan de här väggarna.** | 이건 그냥 가게가 아니야 — 이 벽들 사이에 한 사람의 평생이 담겨 있어. | *rymmas* = (공간에) 들어가다, 담기다 — 형태는 수동 *-s*지만 뜻은 능동인 데포넌트 동사. *de här väggarna* = 이 벽들(지시어 + 명사 한정형) |
+| `B2` | **Besittningsskyddet för lokaler är svagt.** | 점포의 계속 점유권 보호는 약해. | *besittningsskydd* = 임차인이 계약 종료 뒤에도 계속 머물 권리. *bostad*(주거) ↔ *lokal*(점포·사무실) 구분이 핵심 |
+| `B2` | **Man vill skydda dem — och slippa se deras ansikten.** | 그 사람들을 지켜 주고 싶고 — 그 얼굴을 안 보고 싶은 거야. | *slippa* + 원형 = (싫은 일을) 안 해도 되다, 면하다. 한국어로 옮기기 까다로운 스웨덴어 동사 중 하나 |
+
+## 문화 메모
+- **주거(*bostad*)와 점포(*lokal*)의 차이** — 스웨덴에서 집을 빌린 세입자는 강한 계속 거주권(*direkt besittningsskydd*)으로 보호받는다. 반면 가게·사무실 같은 *lokal* 임차인은 '간접적' 보호뿐이어서, 집주인이 계약 갱신을 거절하면 원칙적으로 나가야 한다. 다만 거절이나 임대료 인상 요구가 부당하다고 인정되면 보상(*ersättning*)을 받을 수 있다. 분쟁이 생기면 임대차 조정위원회(*hyresnämnden*)에 조정을 신청할 수 있지만, 위원회가 임차인을 남게 하라고 명령하지는 못한다. (구체적인 기한·금액은 계약과 사정에 따라 다르므로 실제로는 전문가 상담이 필요하다.)
+- **쇠데르의 '젠트리피케이션'** — 한때 노동자 동네였던 쇠데르말름은 1990년대 이후 카페·와인 바·디자인 숍이 늘면서 임대료가 크게 올랐다. 오래된 헌책방·구둣방·동네 가게가 문을 닫고 그 자리에 체인점이나 바가 들어서는 일은 스톡홀름에서 자주 뉴스가 된다.
+- **스웨덴 독립 서점** — 스웨덴의 책값은 정가제가 아니라 자유 가격제라서(정가제는 1970년 폐지), 온라인 대형 서점의 할인과 경쟁해야 하는 작은 서점은 늘 빠듯하다. 그래서 낭독회·북클럽·어린이 행사로 '동네 거실' 역할을 하는 독립 서점이 많다.
+
+## 다음 화 예고 — 4화 *Oskar får veta* (오스카르가 알게 되다)
+같은 날, 같은 서점. 요한의 한마디가 남긴 정적 속에서 아무도 움직이지 못한다. 요한은 당황해 사과하고, 린네아는 얼어붙고, 오스카르는 아무 말 없이 문을 나선다. 종이 한 번 울린다. 린네아가 쇠데르 멜라르스트란드 강변까지 그를 쫓아간다. "Hur länge?" — "Sex veckor." 짧은 문장만 남은 오스카르가 마침내 입을 연다. "Det är inte resan som gör ont, det är att jag fick höra det från honom."
