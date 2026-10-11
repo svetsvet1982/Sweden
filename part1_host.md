@@ -95,7 +95,7 @@
   - 036–070 마간의 노골적인 자리 비켜 주기 (`B1·B2` 마간의 문어체)
   - 071–100 진실: "Det var min syster." (`A2·B1`)
   - 101–120 공원 벤치: 처음으로 서로의 연애사를 조금 이야기한다 (`B1·B2`)
-- **핵심 표현** A1 *Är du arg?* / A2 *Jag såg dig i söndags.* / B1 *Jag trodde att hon var din flickvän.* / B2 *Jag skäms nästan för mycket för att kunna skratta åt det.*
+- **핵심 표현** A1 *Är du arg?* / A2 *Jag såg dig i lördags.* / B1 *Jag trodde att hon var din flickvän.* / B2 *Jag skäms nästan för mycket för att kunna skratta åt det.*
 - **엔딩 훅** 오스카르: "Jag har ingen flickvän. Än." (여자친구 없어요. 아직은.)
 
 ### 9화 — Deadline (마감)
