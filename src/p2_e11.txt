@@ -1,0 +1,155 @@
+@title 2부 11화 — Ida tar över
+@subtitle (이다의 면접)
+@meta 날짜|2월 6일 금요일 저녁 6시 45분 ~ 9시 40분쯤 (영하 4도, 흐림)
+@meta 장소|쇠데르말름 링베겐(Ringvägen), 이다의 아파트 부엌 → 밤의 링베겐 거리
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31) · **Ida** (이다, 32) · **Samir** (사미르, 29) · **Maggan** (마간, 68 — 전화)
+@intro **지난 이야기** 1월의 마지막 토요일, 에케뢰의 까만 얼음 위. 오스카르는 아빠에게 배운 대로 얼음 지팡이로 얼음을 두드리며 소리를 들었고, 린네아는 다섯 번 넘어지고 다섯 번 웃었다. "Man måste lita på isen, men aldrig blint." 얼음 위에 나란히 누워, 린네아는 처음으로 '미래'라는 단어를 꺼냈다. 올여름 스발란의 고물에 앉을 사람, 언젠가 겨울 서울의 밤새 여는 가게들. 그리고 이다의 문자. "Middag hos mig på fredag. Ta med snickaren."
+@intro 엿새 뒤 금요일 저녁, 링베겐의 오래된 아파트 계단참. 섣달그믐 밤 "심문은 다음에, 우리 집에서"라며 미뤄 둔 이다의 '면접'이 드디어 열린다. 이다가 약속한 것은 세 가지였다. 커피, 센 조명, 그리고 등받이가 불편한 의자. 오스카르는 약속 시간보다 15분 일찍 도착했고, 그의 손에 들린 튤립은 줄기가 조금 휘어 있다.
+# 장면 1 — 이다의 부엌, 심문 개시
+Linnea|B1|Vi är en kvart för tidiga igen. Du kommer alltid för tidigt när du är nervös.|(2월 6일 금요일 저녁 6시 45분. 링베겐 아파트의 계단참. 린네아가 휴대폰 시계를 보여 준다) 우리 또 15분 일찍 왔어. 너 긴장하면 꼭 일찍 오더라.
+Oskar|A1|Jag är inte nervös.|나 긴장 안 했어.
+Linnea|B1|Du har hållit så hårt i tulpanerna att stjälkarna har böjt sig.|튤립을 얼마나 꽉 쥐었는지 줄기가 다 휘었어.
+Oskar|B1|Tulpaner gör så. De fortsätter att växa mot ljuset, även när de står i en vas.|튤립은 원래 그래. 꽃병에 꽂혀 있어도 계속 빛 쪽으로 자라.
+Ida|A2|Ni är tidiga! Kom in. Skorna av, jackorna där.|(문이 벌컥 열린다. 앞치마 차림의 이다가 두 사람을 번갈아 본다) 일찍 왔네! 들어와. 신발 벗고, 외투는 저기.
+Oskar|A2|De här är till dig.|(튤립을 내민다) 이거 드리려고요.
+Ida|B1|Tulpaner i februari. Linnea, han har redan bättre smak än den förra.|2월에 튤립이라. 린네아, 이 사람 벌써 전 남친보다 취향이 낫다.
+Linnea|A1|Ida! Inte nu.|언니! 지금 그런 말 하지 마.
+Ida|B2|Jo, just nu. Jag har väntat sedan nyårsafton, och jag tänker inte slösa bort en enda minut av kvällen.|아니, 바로 지금. 섣달그믐부터 기다렸어. 오늘 저녁은 일 분도 허투루 안 쓸 거야.
+Oskar|A2|Var ska jag sitta?|어디 앉으면 돼요?
+Ida|A2|Där. Den stolen är din.|저기. 저 의자가 네 자리야.
+Linnea|B1|Det är ju pallen från badrummet. Och varför står skrivbordslampan mitt på köksbordet?|그거 욕실에 있던 등받이 없는 의자잖아. 그리고 책상 스탠드는 왜 식탁 한가운데 있어?
+Ida|B1|Jag lovade starkt ljus och en obekväm stol, och jag håller alltid vad jag lovar. Sitt. Namn?|센 조명이랑 불편한 의자 약속했잖아. 난 약속은 꼭 지켜. 앉아. 이름?
+Oskar|A2|Oskar Lund. Det vet du redan.|(조용히 의자에 앉는다. 스탠드 불빛이 얼굴 정면으로 쏟아진다) 오스카르 룬드. 이미 아시잖아요.
+Ida|B1|Och du är alltså snickaren som min syster har pratat om ända sedan september?|그러니까 네가 우리 동생이 9월부터 줄곧 얘기하는 그 목수지?
+Oskar|A1|Båtbyggare.|배 목수요.
+Ida|A2|Är det inte samma sak?|그게 그거 아니야?
+Oskar|B2|Nä. En snickare arbetar mest med raka linjer, men på en båt finns det knappt en enda, och allt ska hålla när havet trycker på från alla håll.|아니요. 목수는 주로 직선으로 일하는데, 배엔 직선이 거의 하나도 없어요. 그리고 바다가 사방에서 밀어도 전부 버텨야 하고요.
+Linnea|B2|Johan kallade honom också "snickaren" på julbordet, i en ton som om det vore något man borde skämmas för.|요한도 율보르드에서 이 사람을 "목수"라고 불렀어. 무슨 부끄러운 거라도 되는 것처럼.
+Ida|B1|Usch. Då tar jag tillbaka det direkt, för jag vill inte låta som Johan.|윽. 그럼 당장 취소. 요한처럼 들리긴 싫으니까.
+Oskar|A2|Ingen fara. Nästa fråga.|괜찮아요. 다음 질문.
+Ida|A2|Hur mycket tjänar du?|돈은 얼마나 벌어?
+Linnea|A1|Ida!|언니!
+Oskar|A2|Tjugoåtta tusen i månaden. Före skatt.|한 달에 2만 8천 크로나요. 세전.
+Ida|B1|Jaha. Jag trodde att du skulle vägra svara, så jag hade förberett tre följdfrågor.|어머. 대답 안 할 줄 알고 추가 질문을 세 개나 준비해 놨는데.
+Oskar|A2|Och du? Hur mycket tjänar du?|그쪽은요? 얼마 버세요?
+Ida|A2|Det är jag som ställer frågorna här. Vad har du för planer?|질문은 내가 해. 앞으로 계획은 뭐야?
+Oskar|A2|Svalan i sjön i sommar. Linnea i aktern.|올여름에 스발란을 물에 띄우는 거요. 린네아는 고물에 앉히고요.
+Ida|A1|Vill du ha barn?|(스발란이 뭔지 묻지도 않고, 눈 하나 깜빡 안 하고) 애 갖고 싶어?
+Linnea|A2|Jag satte i halsen!|(물을 마시다 사레가 들린다) 켁, 사레들렸잖아!
+Oskar|A2|Jo. En dag. Inte i kväll.|네. 언젠가. 오늘 밤은 아니고요.
+# 장면 2 — 건조한 대답, 무너지는 이다
+Ida|B1|Okej, nu måste jag äta något innan jag tappar fattningen. Kycklinggryta. Ta mycket.|(냄비를 식탁에 탁 내려놓는다) 됐어, 정신줄 놓기 전에 뭐라도 먹어야겠다. 닭고기 스튜야. 많이 먹어.
+Linnea|B2|Om du ska förhöra honom hela kvällen kan du åtminstone flytta lampan, annars ser han inte ens vad han äter.|저녁 내내 심문할 거면 스탠드라도 좀 치워. 저러다 뭘 먹는지도 안 보이겠다.
+Ida|A2|Hur länge varade ditt längsta förhållande?|(스탠드를 딱 5센티 옮겨 주며) 제일 길게 사귄 건 얼마나 됐어?
+Oskar|A2|Fyra år. Hon hette Malin.|4년이요. 이름은 말린이었어요.
+Ida|A1|Varför tog det slut?|왜 끝났는데?
+Oskar|B1|För att jag slutade prata när pappa försvann. Hon väntade i ett år, och det var inte hennes fel att hon till slut gick.|아빠가 실종됐을 때 제가 입을 닫았거든요. 그 사람은 1년을 기다렸어요. 결국 떠난 건 그 사람 잘못이 아니에요.
+Ida|A1|Åh. Förlåt.|(포크를 든 채 멈춘다) 아. 미안.
+Oskar|B1|Du behöver inte be om ursäkt. Det var ett ärligt svar på en ärlig fråga.|사과 안 하셔도 돼요. 솔직한 질문에 솔직하게 대답한 것뿐이에요.
+Linnea|B2|Jag sa ju det. Han svarar kortare än någon annan jag känner, men han svarar ärligare också.|내가 말했잖아. 내가 아는 누구보다 짧게 대답하는데, 누구보다 솔직하게 대답하기도 해.
+Ida|B2|Mina förhör brukar gå ut på att folk slingrar sig, och då vet jag precis vad jag ska göra. För det här har jag ingen plan.|내 심문은 원래 다들 요리조리 빠져나가는 거거든. 그럼 어떻게 할지 딱 알지. 근데 이런 건 계획에 없었어.
+Oskar|A2|Ska jag slingra mig lite?|좀 빠져나가 볼까요?
+Ida|A1|Nej! Röker du?|아니! 담배 피워?
+Oskar|A1|Nä.|아니요.
+Ida|A1|Dricker du?|술은?
+Oskar|A1|Kaffe.|커피요.
+Ida|B1|Okej, en svårare fråga. Min syster läser hela tiden, så vad läser du själv just nu?|좋아, 좀 어려운 질문. 우리 동생은 맨날 책 읽잖아. 그럼 넌 지금 뭐 읽고 있어?
+Linnea|B1|Ida, den frågan behöver han faktiskt inte svara på—|(재빨리) 언니, 그 질문은 꼭 대답 안 해도—
+Oskar|B1|Det är okej. Jag vill svara. Ronja Rövardotter, kapitel nio. Det går långsamt, eftersom jag har dyslexi.|(식탁 위 린네아의 손등에 손을 얹는다) 괜찮아. 대답하고 싶어. (이다를 본다) 『산적의 딸 로냐』요. 9장. 천천히 읽어요. 난독증이 있어서요.
+Ida|A2|Hur länge har du vetat det?|(정적. 이다가 포크를 내려놓는다. 장난기가 빠진 목소리 — 응급실 간호사의 차분한 말투다) 안 지 얼마나 됐어?
+Oskar|B2|Sedan jag var tjugofyra. Ahmed hade sett mig låtsas läsa samma arbetsorder i en kvart, och dagen efter hade han bokat en tid åt mig.|스물넷 때부터요. 제가 같은 작업 지시서를 15분째 읽는 척하는 걸 아메드가 봤거든요. 다음 날 아메드가 검사 예약을 잡아 놨더라고요.
+Ida|B2|Och innan dess trodde du förstås att du var dum. Jag träffar många vuxna på jobbet som har burit på samma sak i hela sitt liv utan att någon har sett det.|그럼 그 전엔 당연히 자기가 멍청한 줄 알았겠네. 병원에서 평생 아무도 몰라준 채로 그걸 지고 산 어른들, 많이 봐.
+Oskar|A1|Jo.|네.
+Ida|B1|Du var aldrig dum. Det var skolan som inte förstod dig. Och kapitel nio är längre än jag har kommit i någon bok sedan jul.|넌 멍청했던 적 없어. 학교가 널 몰랐던 거지. 그리고 9장이면, 난 크리스마스 이후로 어떤 책도 거기까지 못 갔어.
+Linnea|A1|Tack, Ida.|(작게) 고마워, 언니.
+Ida|B2|Och du har vetat om det sedan före jul utan att säga ett ord till mig, fast du brukar berätta allt?|그리고 너는 크리스마스 전부터 알았으면서 나한테 한 마디도 안 했고? 평소엔 다 말하는 애가?
+Linnea|B1|Det var inte min sak att berätta. Det var hans.|내가 말할 일이 아니었어. 이 사람 일이었지.
+Ida|B2|Nej, det var det inte, och just därför litar jag lite mer på er båda nu. Men en sak ska du veta, Oskar.|그래, 네 일이 아니었지. 그래서 오히려 이제 너희 둘 다 좀 더 믿음이 가. 근데 하나는 알아 둬, 오스카르.
+Oskar|A1|Ja?|네?
+Ida|B1|Jag tänker inte låta någon såra min lillasyster.|난 누구든 내 동생한테 상처 주게 두지 않을 거야.
+Oskar|B1|Där är vi överens. Ingen får såra henne – inte ens jag.|그건 저도 같은 생각이에요. 아무도 린네아한테 상처 주면 안 돼요. 저조차도요.
+Ida|B1|Bra svar. Jag ger upp. Jag hade tolv frågor kvar, men du har svarat på dem innan jag ens hann ställa dem. Linnea, hämta efterrätten, är du snäll.|(의자 등받이에 털썩 기댄다) 좋은 대답. 나 포기. 질문이 열두 개 남았는데, 묻기도 전에 다 대답해 버렸네. 린네아, 디저트 좀 가져와 줄래.
+Linnea|A1|Okej.|(냉장고 쪽으로 간다) 알았어.
+Ida|B2|Du klarade förhöret bättre än någon annan hon har tagit med hem.|(목소리를 낮추고, 냉장고 문을 연 린네아의 등 쪽으로 턱짓하며) 너, 쟤가 집에 데려온 그 누구보다 심문 잘 통과했어.
+Oskar|A1|Johan också?|요한보다도요?
+Ida|B2|Särskilt Johan. Han svarade med citat ur böcker jag aldrig har läst och trodde att jag inte märkte hur han undvek varenda fråga.|특히 요한보다. 걔는 내가 읽어 본 적도 없는 책 구절로 대답하더라. 질문마다 피해 가는 걸 내가 모를 줄 알고.
+# 장면 3 — 디저트, 그리고 초인종
+Linnea|A2|Det ringer på dörren. Väntar du någon?|(초콜릿 케이크 접시를 들고 돌아서는데, 초인종이 울린다) 누가 왔어. 누구 기다려?
+Ida|A2|Kanske. Öppna du, jag har grädde på händerna.|어쩌면. 네가 열어. 나 손에 크림 묻었어.
+Linnea|A1|Samir?!|(문을 연다. 목도리에 턱을 묻고 작은 상자를 든 사미르가 서 있다) 사미르?!
+Samir|A2|Hej. Jag är bjuden på efterrätt.|안녕하세요. 디저트 먹으러 오라고 초대받았어요.
+Linnea|A1|Av vem?|누구한테요?
+Ida|A1|Av mig.|(앞치마에 손을 닦으며 현관으로 나온다) 나한테.
+Samir|B2|Jag tog med kleicha som mamma bakade i morse. Det är kakor med dadlar och kardemumma, och hon blev väldigt misstänksam när jag bad om en hel låda, för jag brukar aldrig gå bort på fredagar.|엄마가 오늘 아침에 구운 클레이차 가져왔어요. 대추야자랑 카다멈 들어간 과자예요. 한 상자 통째로 달라고 하니까 엄마가 엄청 수상하게 보셨어요. 제가 금요일에 어디 가는 일이 거의 없거든요.
+Ida|A2|Kom in. Du känner Oskar.|들어와. 오스카르는 알지.
+Oskar|A2|Hej. Ta inte pallen. Den är till för förhör.|안녕. 그 의자엔 앉지 마. 심문용이야.
+Samir|A1|Förhör?|심문이요?
+Linnea|B1|Ida har förhört Oskar i två timmar. Ida, hur känner ni ens varandra?|언니가 두 시간째 오스카르를 심문했어요. 언니, 두 사람 대체 어떻게 아는 사이야?
+Ida|B1|Taklampan i köket gick sönder i tisdags, och jag behövde en elektriker. Ahmed gav mig ett nummer.|화요일에 부엌 천장 등이 나갔거든. 전기 기사가 필요했지. 아메드가 번호 하나 주더라.
+Samir|B2|Den var inte jordad, och kopplingen i dosan var så gammal att jag inte förstår hur den har fungerat sedan sjuttiotalet. Egentligen borde hela köket dras om, men det är en annan historia – och nu pratar jag för mycket, jag vet.|접지가 안 돼 있었고요, 박스 안 배선이 너무 오래돼서 70년대부터 어떻게 버텼는지 모르겠어요. 사실 부엌 배선을 전부 새로 해야 하는데, 그건 또 다른 얘기고… 저 지금 말 너무 많죠. 알아요.
+Oskar|A2|Du är nervös.|너 긴장했구나.
+Samir|A1|Lite.|조금요.
+Ida|B1|Han ville inte ta betalt, så jag sa att han fick efterrätt i stället. Det är bara rättvist.|돈을 안 받겠다잖아. 그래서 대신 디저트 먹으러 오라고 했지. 그게 공평하잖아.
+Linnea|B2|Och det råkade bara bli samma kväll som du förhörde min pojkvän, så att jag inte skulle hinna förhöra dig tillbaka?|그리고 하필 내 남자 친구 심문하는 날이랑 겹쳤고? 내가 언니를 거꾸로 심문할 틈도 없게?
+Ida|B2|Precis. Den som jobbar på akuten lär sig att planera allt, till och med sina egna överraskningar.|맞아. 응급실에서 일하면 다 계획하게 돼. 자기가 벌이는 깜짝 이벤트까지.
+Samir|B1|Hon sa "kom klockan nio", och jag sa ja innan jag hann tänka. Det var faktiskt mitt nyårslöfte.|아홉 시에 오라고 하시길래, 생각할 틈도 없이 좋다고 했어요. 사실 그게 제 새해 결심이었거든요.
+Oskar|A2|Att bli modigare. Jag minns.|더 용감해지는 거. 기억나.
+Ida|A2|Vilket nyårslöfte?|(섣달그믐엔 자정 직전에야 도착했던 이다) 무슨 새해 결심?
+Samir|A1|Det säger jag inte.|그건 말 안 할래요.
+Ida|B2|Då får du sitta på pallen nästa gång, och då tänker jag inte ge upp lika lätt som i kväll.|그럼 다음엔 네가 그 의자에 앉는 거야. 그땐 오늘처럼 쉽게 포기 안 할 거다.
+Linnea|A1|Herregud.|맙소사.
+Oskar|A2|Kakorna är goda. Hälsa din mamma.|(클레이차를 하나 더 집으며) 과자 맛있다. 어머니께 안부 전해 줘.
+Samir|B1|Det ska jag. Hon kommer att fråga vem som åt flest, och vad Ida tyckte om dem.|전할게요. 누가 제일 많이 먹었는지, 그리고 이다 씨가 어떻게 생각했는지 물으실 거예요.
+Ida|A2|Säg att jag åt fyra.|네 개 먹었다고 해.
+Samir|A1|Du har ätit fem.|다섯 개 드셨어요.
+Ida|B1|Räknar du också? Linnea, nu finns det två sådana runt mitt bord.|너도 세? 린네아, 이제 내 식탁에 이런 사람이 둘이야.
+Linnea|B1|Ida, vi går nog hem nu. Oskar ska upp tidigt i morgon.|(오스카르의 소매를 잡아당기며) 언니, 우리 이제 가 볼게. 오스카르 내일 일찍 일어나야 해.
+Ida|B2|Gå ni. Samir och jag ska diska, och jag lovar att inte förhöra honom förrän han har torkat det sista glaset.|가. 사미르랑 나는 설거지할 거야. 마지막 컵 닦을 때까지는 심문 안 한다고 약속할게.
+Oskar|A1|Ska jag?|내가?
+Linnea|A1|Ja. Det ska du.|응. 그래야 돼.
+# 장면 4 — 링베겐의 밤
+Oskar|A1|Din syster och Samir?!|(밤 9시 반. 아파트 현관문이 등 뒤에서 닫히자마자, 눈 내린 링베겐 보도 위에서) 너희 언니랑 사미르?!
+Linnea|B1|Du sa precis en mening med både frågetecken och utropstecken. Det har jag aldrig hört förut.|너 방금 물음표랑 느낌표 둘 다 붙은 문장 말했다. 처음 들어 봐.
+Oskar|A2|Det var värt ett utropstecken.|느낌표 붙일 만했잖아.
+Linnea|B2|Hon har inte sagt ett ord om honom på hela veckan, hon som annars ringer mig om varenda kollega hon har bråkat med!|일주일 내내 사미르 얘기는 한 마디도 안 했어. 평소엔 동료랑 싸운 얘기까지 일일이 전화하는 사람이!
+Oskar|A2|Hon skjuter inte upp saker längre.|이제 일을 안 미루시잖아.
+Linnea|B1|Och han har blivit modigare. Två nyårslöften på en gång, i Idas kök.|그리고 사미르는 용감해졌고. 새해 결심 두 개가 한꺼번에 이뤄졌네, 언니 부엌에서.
+Oskar|A1|Ahmed vet inte.|아메드는 몰라.
+Linnea|A2|Ska du berätta för honom?|아메드한테 말할 거야?
+Oskar|B1|Nä. Det är inte min sak att berätta. Det lärde jag mig i kväll.|아니. 내가 말할 일이 아니야. 오늘 배웠어.
+Linnea|B2|Apropå det… Du berättade om dyslexin själv, fast ingen tvingade dig. Jag satt där och var beredd att byta ämne åt dig.|그 얘기 나와서 말인데… 너 난독증 얘기, 아무도 시키지 않았는데 직접 했잖아. 난 옆에서 화제 돌려 줄 준비하고 있었는데.
+Oskar|B1|Jag ville inte att din syster skulle få veta det av någon annan. Inte ens av dig.|언니가 다른 사람한테 듣게 하고 싶지 않았어. 너한테서도.
+Linnea|A2|Var det svårt?|어려웠어?
+Oskar|B2|Mindre svårt än i december. Hon frågade som en sjuksköterska och inte som en lärare, och det är en större skillnad än man kan tro.|12월보단 덜. 언니는 선생님처럼 안 묻고 간호사처럼 물었어. 그 차이가 생각보다 커.
+Linnea|B2|Hon kommer att läsa på om dyslexi hela helgen, det lovar jag. På måndag har hon säkert skrivit en lista med appar som hon tycker att du borde testa.|언니 이번 주말 내내 난독증 공부할 거야, 장담해. 월요일쯤이면 너한테 써 보라고 앱 목록까지 만들어 놨을걸.
+Oskar|B1|Då får hon läsa listan högt för mig, eftersom det var hennes idé.|그럼 그 목록은 언니가 소리 내서 읽어 주셔야지. 언니 아이디어니까.
+Linnea|A1|Jag är stolt över dig.|자랑스러워.
+Oskar|A2|Och jag är mätt. Din syster lagar god mat.|그리고 난 배불러. 언니 요리 잘하시더라.
+Linnea|A2|Hej, Maggan! Har det hänt något?|(주머니 속 휴대폰이 울린다. 화면의 이름을 보고 걸음을 멈추더니, 스피커폰으로 받는다) 마간, 안녕하세요! 무슨 일 있으세요?
+Maggan|B1|Nej då, lilla vän. Jag satt bara här i butiken och kom att tänka på er två.|(조금 피곤한 목소리. 문 닫은 가게의 고요함이 전화기 너머로 전해진다) 아니야, 얘야. 그냥 가게에 앉아 있다가 너희 둘 생각이 나서.
+Linnea|A1|På oss?|저희요?
+Maggan|A2|Ta med Oskar. Kom förbi på tisdag. Jag bjuder på semlor.|(잠깐, 무언가를 망설이는 듯한 침묵 뒤에) 오스카르도 데려와. 화요일에 들르렴. 내가 셈라 살게.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vill du ha barn?** | 아이 갖고 싶어? | *vilja ha* + 명사 = ~을 원하다. *barn*은 단수·복수 형태가 같은 ett-명사(*ett barn – barn*) |
+| `A1` | **Jag är stolt över dig.** | 네가 자랑스러워. | *stolt över* + 사람/일. 전치사 *över*를 꼭 같이 외우자 |
+| `A2` | **Hur mycket tjänar du?** | 돈 얼마나 벌어? | *tjäna* = (돈을) 벌다. 스웨덴에선 연봉을 묻는 게 꽤 무례한 질문이라 이다의 직설이 더 도드라진다 |
+| `A2` | **Det är jag som ställer frågorna här.** | 질문은 내가 해. | 강조 구문 *Det är X som…* = "~하는 건 바로 X다". *ställa en fråga* = 질문하다 (*göra en fråga* ✗) |
+| `A2` | **Jag satte i halsen!** | 사레들렸어! | *sätta i halsen* = 음식·음료가 목에 걸리다, 사레들리다. 과거형 *satte* |
+| `B1` | **Jag tänker inte låta någon såra min lillasyster.** | 누구든 내 동생한테 상처 주게 두지 않을 거야. | *tänka* + 동사원형 = ~할 작정이다. *låta någon* + 동사 = 누가 ~하게 두다. *lillasyster* = 여동생(*storasyster* = 언니·누나) |
+| `B1` | **Det var inte min sak att berätta.** | 내가 말할 일이 아니었어. | *min sak* = 내 소관, 내가 나설 일. 부정형 문장에서 자주 쓴다: *Det är inte din sak.* (네가 상관할 일 아니야) |
+| `B2` | **Du klarade förhöret bättre än någon annan hon har tagit med hem.** | 쟤가 집에 데려온 누구보다 심문을 잘 통과했어. | *klara* = 해내다, 통과하다. *ta med hem* = 집에(가족에게) 데려오다. *någon annan* 뒤 관계절은 *som* 생략 가능 |
+| `B2` | **…så att jag inte skulle hinna förhöra dig tillbaka?** | 내가 거꾸로 심문할 틈도 없게? | *så att* 종속절에서 *inte*는 동사 앞(*jag inte skulle*). *hinna* = (시간 안에) ~할 겨를이 있다 |
+| `B2` | **Mina förhör brukar gå ut på att folk slingrar sig.** | 내 심문은 원래 다들 요리조리 빠져나가는 거야. | *gå ut på att…* = (핵심이) ~하는 것이다. *slingra sig* = 몸을 비틀다 → 대답을 피하다(재귀동사) |
+
+## 문화 메모
+- **월급 이야기는 금기에 가깝다** — 스웨덴 사람들은 친한 사이에도 "얼마 버냐"는 질문을 무례하게 여기는 편이다. 그런데 역설적으로 스웨덴은 *offentlighetsprincipen*(공공 정보 공개 원칙) 덕분에 세무 당국(*Skatteverket*)에 요청하면 누구의 과세 소득이든 알아볼 수 있는 나라이기도 하다. 그래서 "물어보지는 않지만, 마음만 먹으면 알 수 있다".
+- **2월의 튤립** — 스웨덴에서 튤립은 1~3월 겨울을 대표하는 꽃이다. 어두운 계절에 슈퍼마켓 입구마다 튤립 다발이 쌓이고, 저녁 초대에 가져가기 가장 무난한 선물이다. 꽃병에 꽂힌 뒤에도 줄기가 계속 자라며 빛 쪽으로 휘는 성질이 있다.
+- **dyslexi (난독증)** — 스웨덴에서는 인구의 약 5~8%가 난독증이 있다고 본다. 학교와 도서관에서 오디오북(*talböcker*)을 쓸 수 있도록 지원하며, 국립 접근성 매체 기관 *MTM*이 난독증이 있는 사람들을 위한 녹음 도서를 제공한다. 성인이 되어서야 진단을 받는 경우도 드물지 않다.
+- **kleicha (클레이차)** — 이라크의 전통 과자로, 대추야자·견과류 소를 넣고 카다멈 등으로 향을 낸다. 명절에 집집마다 대량으로 굽는다. 스웨덴에는 이라크 출신 이민자 공동체가 커서, 이런 과자를 중동 식료품점에서 쉽게 볼 수 있다.
+
+## 다음 화 예고 — 12화 *Fettisdagen* (셈라의 날)
+화요일 오후, 바스투가탄의 Lyktan. 마간의 계산대 위에 크림이 산처럼 올라간 셈라가 줄지어 있다. 뚜껑부터 떼어 먹을까, 통째로 베어 물까 — 린네아와 오스카르의 진지한 논쟁 사이로 엘사가 『로냐』를 들고 나타나 삼촌에게 "책 읽기 시합"을 신청한다. 마간은 셈라의 역사를 이야기하며 "작은 것들의 의미"를 말하지만, 린네아는 그녀가 계산대 서랍 속 흰 봉투를 급히 밀어 넣는 걸 본다. "En del traditioner överlever just för att de är så onödiga."
