@@ -1,0 +1,155 @@
+@title 1부 2화 — Boken som blev kvar
+@subtitle (남겨진 책)
+@meta 날짜|9월 27일 토요일 오전 11시 ~ 오후
+@meta 장소|서점 **Lyktan** (바스투가탄) → 롱홀멘(Långholmen) 목선 조선소 → 링베겐(Ringvägen) 이다의 아파트 부엌
+@meta 등장인물|**Oskar** (오스카르, 31) · **Maggan** (마간, 68) · **Ahmed** (아메드, 32, 오스카르의 동료) · **Linnea** (린네아, 28) · **Ida** (이다, 32, 린네아의 언니)
+@intro **지난 이야기** — 비 오는 금요일 저녁, 조카 엘사의 생일 선물을 사러 서점 Lyktan에 들른 오스카르는 초록 카디건을 입은 린네아를 직원으로 착각했다. 린네아가 골라 준 책은 『산적의 딸 로냐』. 비 내리는 문간에서 두 사람은 번역과 나무, 그리고 한국어 단어 *정*에 대해 이야기했다. 그런데 오스카르는 파란 종이로 포장한 책을 계산대 위에 두고 가 버렸다. 번호도 묻지 않은 채.
+@intro 다음 날 아침 11시. Lyktan이 문을 열자마자 종이 울린다. 마간은 고개도 들지 않고 미소 짓는다. 계산대 뒤에는 파란 포장지의 책이 밤새 그 자리에 있었다.
+# 장면 1 — 서점 Lyktan, 토요일 오전
+Maggan|A1|God morgon! Där är du ju.|(문 종이 울리자) 좋은 아침이에요! 드디어 왔네.
+Oskar|A2|God morgon. Jag glömde boken igår.|안녕하세요. 어제 책을 두고 갔어요.
+Maggan|B1|Jag vet. Den har legat bakom disken hela natten och väntat på dig.|알아요. 밤새 계산대 뒤에서 당신을 기다리고 있었죠.
+Oskar|B1|Jag märkte det inte förrän jag stod hemma hos min syster med en tom påse.|누나 집에서 빈 봉투를 들고 서 있을 때에야 알았어요.
+Maggan|A2|Och vad sa din syster då?|그래서 누나는 뭐라던가요?
+Oskar|A2|Hon skrattade. Länge.|웃었어요. 오래.
+Maggan|B2|Det förstår jag. Men innan jag lämnar ifrån mig boken tänkte jag ställa några små frågor, om du inte har något emot det.|그럴 만하네요. 그런데 책을 내주기 전에 몇 가지 간단한 질문을 좀 하려고 해요. 괜찮다면 말이죠.
+Oskar|A1|Frågor?|질문이요?
+Maggan|A1|Bara några. Hur gammal är du?|몇 개만요. 몇 살이에요?
+Oskar|A1|Trettioett.|서른한 살이요.
+Maggan|A1|Är du gift?|결혼했어요?
+Oskar|A1|Nä.|아뇨.
+Maggan|A2|Inte gift. Har du flickvän, då?|미혼이라. 그럼 여자친구는요?
+Oskar|B1|Nä. Varför undrar du det? Det här känns som ett förhör.|없어요. 그건 왜 궁금하세요? 이거 꼭 심문 같네요.
+Maggan|B2|Det är ett förhör, min vän. Jag ansvarar för boken – och i viss mån även för den unga damen som valde den.|심문 맞아요. 나는 그 책에 책임이 있거든요. 그리고 어느 정도는, 그 책을 고른 아가씨한테도요.
+Oskar|A1|Linnea?|린네아요?
+Maggan|A1|Just det. Har du barn?|바로 그거예요. 아이는 있어요?
+Oskar|A2|Nej, bara en systerdotter. Hon fyller nio i morgon.|아뇨, 조카만 있어요. 내일 아홉 살이 돼요.
+Maggan|B2|Elsa, ja, som tydligen vill bli riddare. Och om jag inte missminner mig bor du i Liljeholmen.|엘사, 그렇지. 기사가 되고 싶다는. 그리고 내 기억이 틀리지 않았다면 릴리에홀멘에 살고요.
+Oskar|A2|Hur vet du det?|그걸 어떻게 아세요?
+Maggan|B2|Jag hörde en hel del igår, det ska erkännas. Butiken är liten och mina öron är stora.|어제 꽤 많이 들었어요, 인정할게요. 가게는 작고 내 귀는 크거든요.
+Oskar|A2|Jo. Det märktes.|네. 티가 나더라고요.
+Maggan|A2|Läser du mycket själv?|당신도 책 많이 읽어요?
+Oskar|A2|Inte så mycket. Det går långsamt för mig.|별로요. 저는 읽는 게 느려서요.
+Maggan|B1|Det gör ingenting. Det viktiga är inte hur fort man läser, utan att man hittar rätt bok.|상관없어요. 중요한 건 얼마나 빨리 읽느냐가 아니라 맞는 책을 찾는 거니까.
+Oskar|A2|Okej. Får jag boken nu?|알겠어요. 이제 책 주시겠어요?
+Maggan|A1|Snart. En sista fråga.|곧요. 마지막 질문 하나.
+Oskar|A2|Får jag fråga en sak först? Har du hennes nummer?|제가 먼저 하나 물어봐도 돼요? 그분 번호 갖고 계세요?
+Maggan|B1|Självklart har jag det. Men jag lämnar aldrig ut mina kunders nummer. Det är en principsak.|당연히 있죠. 하지만 손님 번호는 절대 안 알려 줘요. 원칙의 문제예요.
+Oskar|A1|Jaha. Okej.|아. 네.
+Maggan|B1|Däremot kan jag berätta en sak. Hon brukar komma hit på torsdagar.|대신 하나는 말해 줄 수 있어요. 그 아가씨는 목요일마다 여기 오곤 해요.
+Oskar|A1|På torsdagar?|목요일마다요?
+Maggan|A2|Vi har bokcirkel. Klockan halv sju.|북클럽이 있거든요. 여섯 시 반에.
+Oskar|B2|Bokcirkel… Jag är rädd att jag skulle sitta där som en fisk på torra land medan alla andra pratade om böcker.|북클럽이라… 다들 책 얘기하는 동안 저는 물 밖에 나온 물고기처럼 앉아 있을 것 같은데요.
+Maggan|B2|Det vore synd att låta tillfället gå förbi. Här är boken – och här är höstens läslista. Den får du på köpet.|기회를 그냥 흘려보내면 아깝잖아요. 여기 책이요. 그리고 이건 가을 독서 목록. 덤으로 줄게요.
+# 장면 2 — 롱홀멘 조선소, 토요일 오후
+Ahmed|A2|Len! Äntligen. Du sa ju tio, bror.|야! 드디어 왔네. 열 시라며, 형제.
+Oskar|A2|Jag var tvungen att hämta en sak först.|먼저 뭘 좀 가지러 가야 했어.
+Ahmed|A2|Vadå för sak? Du ser konstig ut, walla. Typ… glad. Vad har hänt?|무슨 거? 너 표정 이상해, 진짜로. 뭐랄까… 기분 좋아 보여. 무슨 일 있었어?
+Oskar|B2|Ingenting. Elvira har legat i sjön sedan maj, och om vi inte tar upp henne innan frosten kommer kan plankorna spricka.|아무 일도. 엘비라가 5월부터 물에 있었잖아. 서리 오기 전에 안 끌어올리면 판자가 갈라질 수 있어.
+Ahmed|B1|Aa, aa, Elvira, frosten, plankorna. Kranen kommer inte förrän klockan två. Så först vill jag höra allt.|어어, 엘비라, 서리, 판자. 크레인은 두 시나 돼야 와. 그러니까 일단 다 들어 봐야겠어.
+Oskar|A2|Det finns inget att höra.|들을 거 없어.
+Ahmed|B1|Bror, jag känner dig. När du är så här tyst betyder det att det finns jättemycket att höra.|형제, 내가 너를 알아. 네가 이렇게 조용하면 들을 게 엄청 많다는 뜻이야.
+Oskar|A2|Jag glömde en bok i en bokhandel. Det är allt.|서점에 책을 두고 왔어. 그게 다야.
+Ahmed|A1|En bokhandel? Du? Frivilligt?|서점? 네가? 자발적으로?
+Oskar|A2|Det var en tjej där. Hon hjälpte mig att välja.|거기 어떤 여자가 있었어. 고르는 걸 도와줬어.
+Ahmed|A2|Jalla, nu kommer vi nånstans! Vad heter hon? Vad jobbar hon med?|오케이, 이제 좀 진도 나가네! 이름이 뭐야? 무슨 일 해?
+Oskar|A1|Linnea. Översättare. Från koreanska.|린네아. 번역가. 한국어.
+Ahmed|B1|Koreanska? Walla, hon är smartare än oss två ihop.|한국어? 진짜, 우리 둘 합친 것보다 똑똑하겠네.
+Oskar|A1|Säkert.|그렇겠지.
+Ahmed|A2|Och? Ska ni ses igen?|그래서? 다시 만나기로 했어?
+Oskar|A1|Vet inte.|몰라.
+Ahmed|B1|Vad menar du, vet inte? Du fick väl hennes nummer?|모른다니 무슨 소리야? 번호는 받았겠지?
+Oskar|A1|Nä.|아니.
+Ahmed|B1|Du har ju inte ens frågat om hennes nummer?!|너 설마 번호도 안 물어본 거야?!
+Oskar|B1|Det kändes inte rätt. Vi hade precis träffats, och Maggan som äger bokhandeln stod och lyssnade. I morse ställde hon typ tjugo frågor till mig.|그럴 분위기가 아니었어. 막 만난 사이였고, 서점 주인 마간이 옆에서 다 듣고 있었다고. 오늘 아침엔 나한테 질문을 한 스무 개는 했어.
+Ahmed|A1|Om vad?|뭐에 대해?
+Oskar|B1|Om allt. Hur gammal jag är. Om jag är gift. Om jag har flickvän.|전부 다. 몇 살인지. 결혼했는지. 여자친구 있는지.
+Ahmed|B1|Haha! Hon testar dig, len. Hon kollar om du är bra nog för hennes kompis.|하하! 너 시험당한 거야. 네가 자기 친구한테 어울리는 놈인지 확인한 거지.
+Oskar|B1|Hon sa att Linnea brukar komma dit på torsdagar. Till en bokcirkel.|린네아가 목요일마다 거기 온대. 북클럽에.
+Ahmed|B1|Där har du det! Det är en inbjudan, bror. Fattar du inte det?|거 봐! 그거 초대장이야, 형제. 그걸 몰라?
+Oskar|B1|Jo. Men jag har inte läst en hel roman sedan gymnasiet. Det vet du.|알아. 근데 나 고등학교 이후로 소설 한 권을 끝까지 읽어 본 적이 없어. 너도 알잖아.
+Ahmed|B2|Asså, om jag hade väntat på det perfekta tillfället med Leila, skulle jag fortfarande sitta hemma hos mamma i Rinkeby och spela FIFA.|야, 내가 레일라랑 완벽한 타이밍만 기다렸으면 아직도 링케뷔 엄마 집에 앉아서 피파나 하고 있을 거다.
+Oskar|A2|Och tvillingarna?|그럼 쌍둥이는?
+Ahmed|B2|Exakt! Då hade Nour och Adam aldrig funnits. Tänk på det nästa gång du tycker att något inte känns rätt.|바로 그거야! 그럼 누르랑 아담은 세상에 없었겠지. 다음에 뭔가 '분위기가 아니다' 싶을 땐 그걸 생각해.
+Oskar|B2|Kranen är här. Vi tar Elvira först – och sen, om jag måste, tar jag mig an den där läslistan.|크레인 왔다. 엘비라부터 하자. 그다음에, 꼭 해야 한다면, 그 독서 목록이랑 씨름해 볼게.
+# 장면 3 — 링베겐, 이다의 부엌
+Ida|B1|Du har med dig bullar. Det betyder att något har hänt.|빵을 사 왔네. 무슨 일 있었다는 뜻이지.
+Linnea|B2|Ingenting har hänt. Får man inte längre komma förbi med bullar utan att bli misstänkt för något?|아무 일도 없었어. 이제는 빵 들고 놀러 오기만 해도 의심받아야 돼?
+Ida|A2|Jag har jobbat natt på akuten, Linnea. Jag orkar inte gissa.|나 응급실에서 밤샘 근무하고 왔어, 린네아. 추측할 기운 없어.
+Linnea|A2|Okej. Igår kom det in en kille på Lyktan.|알았어. 어제 Lyktan에 어떤 남자가 들어왔어.
+Ida|A1|En kille! Äntligen.|남자! 드디어.
+Linnea|A2|Han trodde att jag jobbade där.|내가 거기서 일하는 줄 알더라.
+Ida|A2|Klart han gjorde. Du är ju där jämt.|당연하지. 너 맨날 거기 있잖아.
+Linnea|B2|Han skulle köpa en present till sin systerdotter, och innan jag visste ordet av stod jag där och sålde Ronja Rövardotter till honom, som om det vore mitt jobb.|조카 선물을 사려던 참이었는데, 정신 차려 보니 내가 무슨 직원이라도 되는 것처럼 『로냐』를 팔고 있더라고.
+Ida|A1|Vad heter han?|이름은?
+Linnea|A1|Oskar.|오스카르.
+Ida|A1|Har du hans nummer?|번호는 받았어?
+Linnea|A1|Nej.|아니.
+Ida|A1|Linnea! Varför inte?|린네아! 왜 안 받았어?
+Linnea|B2|För att det hade varit konstigt. Man kan inte bara be någon om numret efter en halvtimme i en bokhandel.|이상했을 테니까. 서점에서 30분 이야기했다고 바로 번호를 달라고 할 순 없잖아.
+Ida|B1|Nej, du går hellre hem och skriver en dikt om det.|그래, 넌 차라리 집에 가서 그걸로 시를 쓰겠지.
+Linnea|B2|Jag skriver inga dikter. Men jag har kanske tänkt på vad jag borde ha sagt ett par gånger. Eller tjugo.|시는 안 써. 근데… 무슨 말을 했어야 했는지 몇 번 생각해 보긴 했을지도. 아니면 스무 번쯤.
+Ida|A2|Vad pratade ni om?|무슨 얘기 했는데?
+Linnea|B2|Om översättning. Jag försökte förklara jeong, och han jämförde det med att jobba med samma träbit länge. Ingen har fattat det så snabbt förut.|번역 얘기. 내가 '정'을 설명하려고 했는데, 그 사람이 같은 나뭇조각으로 오래 작업하는 거에 비유하더라. 그렇게 빨리 알아들은 사람은 처음이야.
+Ida|A2|Okej. Nu lyssnar du på mig. Du ska träffa honom igen.|좋아. 이제 내 말 들어. 너 그 사람 다시 만나.
+Linnea|A2|Hur då? Jag vet bara att han bor i Liljeholmen.|어떻게? 릴리에홀멘 산다는 것밖에 몰라.
+Ida|A2|Bra. Då knackar vi dörr i Liljeholmen.|좋아. 그럼 릴리에홀멘 집집마다 문 두드리자.
+Linnea|A1|Ida!|언니!
+Ida|A2|Vad är det som plingar? Kolla mobilen.|뭐가 띵동 하는데? 폰 확인해.
+Linnea|A2|Det är Maggan. ”Han var här. Boken är hämtad. Jag har nämnt torsdag. Kram, M.”|마간이야. "그 사람 왔다 갔어. 책 찾아감. 목요일 얘기 해 뒀어. 꼭 안아 줄게, M."
+Ida|A1|Vad är torsdag?|목요일이 뭔데?
+Linnea|B1|Bokcirkeln. Maggan har alltså berättat för honom att jag brukar vara där.|북클럽. 그러니까 마간이 그 사람한테 내가 거기 자주 온다고 말해 버린 거야.
+Ida|A2|Den kvinnan är ett geni. Då går du dit på torsdag. Punkt.|그분 천재다. 그럼 너 목요일에 가. 끝.
+Linnea|B1|Men tänk om han inte kommer? Eller om han kommer och allt blir pinsamt?|근데 그 사람이 안 오면? 아니면 왔는데 다 어색해지면?
+Ida|B1|Då blir det pinsamt. Det har ingen dött av.|그럼 어색한 거지. 그걸로 죽은 사람은 없어.
+Linnea|B1|Det säger du som jobbar på akuten.|응급실에서 일하는 사람이 할 말은 아니지 않아?
+Ida|B1|Precis. Därför vet jag. Och en sak till: ta inte på dig den gröna koftan.|그러니까 하는 말이야. 그래서 아는 거고. 그리고 하나 더. 그 초록 카디건 입지 마.
+Linnea|A2|Vad är det för fel på min kofta?|내 카디건이 뭐가 어때서?
+Ida|B2|Ingenting, om man vill se ut som en bibliotekarie som har gett upp om kärleken.|아무 문제 없지. 사랑을 포기한 사서처럼 보이고 싶다면.
+Linnea|B1|Men det var ju tack vare koftan som han trodde att jag jobbade där!|근데 그 카디건 덕분에 그 사람이 날 직원으로 착각한 거라고!
+# 장면 4 — 교차 편집: 조선소 / 이다의 부엌, 토요일 저녁
+Ahmed|A2|Elvira står på land. Bra jobbat, len. Vad är det där för papper?|(조선소, 해 질 녘) 엘비라 육지에 올렸다. 수고했어. 근데 그 종이는 뭐야?
+Oskar|A2|Läslistan. Från Maggan.|독서 목록. 마간이 줬어.
+Ida|A2|Vilken bok läser ni på torsdag, förresten?|(이다의 부엌) 근데 목요일엔 무슨 책 읽어?
+Linnea|B1|En roman som Maggan har valt. Jag har redan läst den två gånger.|마간이 고른 소설. 난 벌써 두 번 읽었어.
+Ida|A1|Klart du har.|그럼 그렇겠지.
+Ahmed|A2|Läs högt, då. Vad står det?|(조선소) 소리 내서 읽어 봐. 뭐라고 써 있어?
+Oskar|A1|Läs själv.|네가 읽어.
+Ahmed|B1|”Torsdag den 2 oktober: Vinterhamnen.” Låter mysigt. Typ en bok om båtar.|"10월 2일 목요일: 『겨울 항구』." 아늑하게 들리네. 배에 관한 책 같은데.
+Oskar|B2|Hamnar och båtar kan jag. Men att sitta i en ring och prata om symbolik är som att ro över Ålands hav i en eka.|항구랑 배는 내가 알지. 근데 둘러앉아서 상징 같은 걸 얘기하는 건, 작은 나룻배로 올란드해를 건너는 거나 마찬가지야.
+Linnea|B2|Han kommer inte. Ingen går frivilligt på en bokcirkel bara för att träffa någon han har sett en enda gång.|(이다의 부엌) 안 올 거야. 딱 한 번 만난 사람 때문에 제 발로 북클럽에 오는 사람이 어디 있어.
+Ida|B1|Det är just därför han kommer. Lita på mig.|바로 그래서 오는 거야. 날 믿어.
+Linnea|A1|Torsdag.|목요일.
+Oskar|A1|Torsdag.|(조선소) 목요일.
+Ahmed|A2|Hur många sidor är den, då?|그래서 그거 몇 쪽인데?
+Oskar|A1|Vänta.|잠깐만.
+Ida|B2|Och om du nu ändå tänker sitta och tänka på honom hela veckan, kan du lika gärna köpa en ny tröja medan du gör det.|(이다의 부엌) 그리고 어차피 일주일 내내 그 사람 생각만 할 거면, 그러는 김에 새 스웨터나 하나 사.
+Linnea|B2|Jag ska överväga saken. Men koftan tänker jag inte ge upp utan strid.|고려해 볼게. 근데 카디건은 순순히 포기 안 할 거야.
+Ahmed|B1|Len? Varför blev du så blek? Hur många sidor?|(조선소) 야? 왜 갑자기 얼굴이 하얘져? 몇 쪽이냐고?
+Oskar|A1|Fyrahundratolv.|(목록을 든 채 얼어붙어) …사백십이 쪽.
+Ahmed|A1|Fyrahundra…?|사백…?
+Oskar|A1|Fyrahundratolv sidor. På fem dagar.|사백십이 쪽. 닷새 만에.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Hur gammal är du?** | 몇 살이에요? | 나이를 묻는 기본 의문문. 대답은 숫자만: *Trettioett.* |
+| `A1` | **Är du gift?** | 결혼했어요? | *är du + 형용사?* 형태의 예/아니오 질문 |
+| `A2` | **Jag glömde boken igår.** | 어제 책을 두고 갔어요. | *glömma → glömde* (과거형), *boken* = 그 책 (한정형) |
+| `A2` | **Vad heter du i efternamn?** | 성이 뭐예요? | *förnamn* 이름 / *efternamn* 성 |
+| `B1` | **Hon brukar komma hit på torsdagar.** | 그녀는 목요일마다 여기 오곤 해요. | *bruka + 동사* = ~하곤 하다 (습관). *på torsdagar* = 목요일마다 |
+| `B1` | **Du har ju inte ens frågat om hennes nummer?!** | 너 번호도 안 물어본 거야?! | *ju* (뻔한 걸 강조), *inte ens* = ~조차 안 |
+| `B1` | **Det har ingen dött av.** | 그걸로 죽은 사람은 없어. | "별일 아니야"라는 관용 표현. 목적어 *det*이 문장 앞에 온 V2 어순 |
+| `B2` | **Det vore synd att låta tillfället gå förbi.** | 기회를 그냥 흘려보내면 아깝잖아요. | *vore* (가정법), *låta + 목적어 + 동사* = ~하게 두다 |
+| `B2` | **Innan jag visste ordet av…** | 정신 차려 보니 / 어느새 | 관용구. 직역하면 "그 말을 알기도 전에" |
+| `B2` | **Om jag hade väntat…, skulle jag fortfarande sitta…** | 내가 기다렸다면 아직도 ~하고 있을 거야 | 과거 사실의 반대 가정: *om + hade + 과거분사, skulle + 동사* |
+
+## 문화 메모
+- **Båtupptagning (보트 육상 인양)** — 스웨덴에서는 9~10월에 개인 보트를 물에서 끌어올려 겨울 동안 육지에 보관한다. 얼음과 서리로부터 선체를 지키기 위해서다. 목선은 특히 신경 써야 한다.
+- **Bokcirkel (북클럽)** — 스웨덴에서는 서점, 도서관, 직장, 친구 모임 단위의 북클럽이 아주 흔하다. 노동자 교육 운동에서 시작된 *studiecirkel*(스터디 서클) 전통과도 이어져 있다.
+- **Förortsslang (교외 슬랭)** — 아메드가 쓰는 *len*(친구야), *walla*(진짜로, 맹세코), *jalla*(자, 어서), *aa*(응)은 링케뷔 같은 스톡홀름 교외에서 다양한 언어가 섞여 생긴 구어 표현이다. 아랍어·터키어 등에서 온 말이 많다.
+- **Södersjukhuset (쇠데르병원)** — 쇠데르말름에 있는 스톡홀름의 대형 공립병원. 응급실(*akuten*)은 스톡홀름에서 가장 바쁜 곳 중 하나로 꼽힌다.
+
+## 다음 화 예고 — 3화 *Kanelbullens dag* (시나몬롤의 날)
+닷새 동안 412쪽은 무리였다. 목요일 저녁, 책을 거의 펼치지도 못한 오스카르가 시나몬롤 한 상자를 들고 Lyktan의 북클럽에 나타난다. 회원들의 열띤 문학 토론 속에서 그가 할 수 있는 말은 단 하나. "Jo… intressant."
