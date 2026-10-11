@@ -1,0 +1,154 @@
+@title 1부 8화 — Missförståndet
+@subtitle (오해)
+@meta 날짜|10월 22일 수요일 밤 9시 ~ 10시 반 (7화 직후, 비가 그친 뒤)
+@meta 장소|서점 Lyktan (폐점 후) → 바스투가탄 이바르 로 공원(Ivar Los park)의 벤치
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31) · **Maggan** (마간, 68)
+@intro **지난 이야기** — 토요일 오후 마리아토리에트에서 오스카르가 흰 재킷의 여자를 오래 끌어안는 걸 본 뒤, 린네아는 나흘 동안 그의 문자 다섯 통에 하나도 답하지 않았다. 다시 찾아간 카페에서 바리스타가 그 여자가 누군지 말하려 하자 "Säg inget."으로 막았고, 이다의 압박에 건 전화는 엇갈려 음성 메시지만 남았다. "일주일 더 혼자 짐작하느니 차라리 당신한테 직접 듣고 싶어요." 목요일 북클럽을 피하려고 수요일 밤 마간을 도와 의자 여섯 개를 놓던 린네아에게 언니는 말했다. "오스카르라는 장도 끝까지 읽어 봐." 그때 문 위의 종이 울렸다. "Vi har stängt!" — "Jag vet. Förlåt."
+@intro 같은 수요일 밤 9시. 비에 흠뻑 젖은 오스카르가 문간에 서 있고, 린네아는 의자 등받이를 붙든 채 얼어붙어 있다. 그 사이에 선 마간만이 이 상황을 아주, 아주 즐기고 있다.
+# 장면 1 — 서점 Lyktan, 밤 9시
+Maggan|A1|Oskar! Kom in, kom in.|(가장 먼저 정신을 차리고) 오스카르! 들어와요, 들어와요.
+Oskar|A2|Jag är blöt. Jag droppar på golvet.|저 젖었어요. 바닥에 물 떨어져요.
+Maggan|B1|Det här golvet har klarat värre saker än lite regn. Jag hämtar en handduk från lagret.|이 바닥은 비 좀 맞는 것보다 험한 일도 견뎌 왔어요. 창고에서 수건 가져올게요.
+Linnea|A1|Hej.|(마간이 사라지자, 의자 등받이를 꼭 쥔 채) 안녕하세요.
+Oskar|A1|Hej.|안녕하세요.
+Linnea|A1|Du är blöt.|젖으셨네요.
+Oskar|A1|Jo.|네.
+Linnea|A2|Har du inget paraply?|우산 없어요?
+Oskar|A2|Nä. Det gick sönder vid Hornstull.|없어요. 혼스툴에서 망가졌어요.
+Linnea|A1|Vid Hornstull?|혼스툴에서요?
+Oskar|B1|Jag stod vid Hornstull i en halvtimme, fast jag inte ens vet vilken port du bor i.|혼스툴에 30분 서 있었어요. 어느 건물 사시는지도 모르면서.
+Linnea|A1|Varför?|왜요?
+Oskar|A2|Jag tänkte att jag kanske skulle se dig.|어쩌면 마주칠지도 모른다고 생각했어요.
+Linnea|A1|Åh.|아.
+Oskar|B1|Sen tänkte jag att Maggan vet var du bor. Hon vet ju allt.|그러다 마간 씨는 어디 사시는지 알겠다 싶었죠. 그분은 다 아시니까.
+Maggan|B2|Det vet jag, men sådant lämnar jag aldrig ut. Det har du väl inte glömt? Här, torka dig innan du blir förkyld.|(수건을 들고 창고에서 나오며) 알죠. 하지만 그런 건 절대 안 알려 줘요. 잊진 않았겠죠? 자, 감기 걸리기 전에 닦아요.
+Oskar|A1|Tack.|감사합니다.
+Maggan|A2|Sätt dig. Stolarna står ju redan framme.|앉아요. 의자는 벌써 다 나와 있잖아요.
+Oskar|A2|Bokcirkeln är väl i morgon? Jag har läst dikterna.|북클럽 내일이죠? 시 읽었어요.
+Linnea|A1|Alla?|다요?
+Oskar|B1|Nästan. Den sista, den om havet, läste jag tre gånger, för den var bra.|거의요. 마지막 거, 바다에 관한 시는 세 번 읽었어요. 좋더라고요.
+Maggan|B2|Utmärkt. Det är betydligt mer än vad somliga av våra trognaste medlemmar brukar hinna med.|훌륭해요. 우리 가장 충실한 회원 몇몇이 해내는 것보다 훨씬 낫네요.
+Linnea|A2|Jag… jag har haft mycket att göra.|저… 요즘 일이 많았어요.
+Oskar|A1|Okej.|그렇군요.
+Linnea|B1|Med översättningen, alltså. Först tjugo sidor, sen tjugo till, och sen…|번역 말이에요. 처음엔 20쪽, 그다음 또 20쪽, 그다음엔…
+Oskar|A2|Du svarade inte på mina sms.|제 문자에 답 안 하셨잖아요.
+Linnea|A1|Nej.|네.
+Oskar|A1|Fem sms.|문자 다섯 개요.
+Linnea|A1|Jag vet.|알아요.
+Oskar|A1|Är du arg?|(수건을 목에 건 채, 아주 조용히) 화났어요?
+Linnea|A1|Nej.|아뇨.
+Oskar|A1|Jo.|났잖아요.
+Linnea|A1|Nej!|아니라니까요!
+Oskar|A2|Okej. Du är inte arg.|알았어요. 화 안 났어요.
+Linnea|A2|Jag är inte arg på dig.|당신한테 화난 게 아니에요.
+# 장면 2 — 같은 서점, 마간의 "급한 볼일"
+Maggan|B2|Om ni ursäktar mig, har jag just kommit på att bilderböckerna i lagret måste räknas. Samtliga. I kväll.|(헛기침을 한 번 하고) 실례가 안 된다면… 창고에 있는 그림책을 세어야 한다는 게 방금 생각났어요. 전부 다. 오늘 밤에.
+Linnea|A2|Nu? Vi räknade dem ju i eftermiddags.|지금요? 오늘 오후에 다 셌잖아요.
+Maggan|B2|Man kan aldrig vara för noggrann med bilderböcker, lilla vän. De har en tendens att försvinna när man minst anar det.|그림책은 아무리 꼼꼼해도 지나치지 않단다, 얘야. 전혀 예상 못 할 때 사라지는 버릇이 있거든.
+Oskar|B1|Jaha. Det låter som ett jobb som kan ta hela natten.|그렇군요. 밤새 걸릴 수도 있는 일 같네요.
+Maggan|B1|Det finns te i termosen bakom disken. Ta en kopp, Oskar, du ser ut som en dränkt katt.|계산대 뒤 보온병에 차가 있어요. 한 잔 마셔요, 오스카르. 꼭 물에 빠진 고양이 같아요.
+Oskar|A2|Tack. Det är snällt av dig.|감사합니다. 친절하시네요.
+Maggan|B2|Snällhet har ingenting med saken att göra. Jag vill helt enkelt inte att någon får lunginflammation i min butik – det vore dåligt för ryktet.|친절이랑은 아무 상관 없어요. 그냥 내 가게에서 누가 폐렴에 걸리는 게 싫을 뿐이에요. 평판에 안 좋으니까.
+Linnea|A2|Maggan, du behöver inte gå.|마간, 안 가셔도 돼요.
+Maggan|B2|Och för säkerhets skull: lagret har, som du vet, tunna väggar. Därför tänker jag sätta på radion. Ganska högt.|(창고 문 앞에서 돌아보며) 그리고 혹시 몰라 말해 두는데, 알다시피 창고 벽이 얇잖니. 그래서 라디오를 켤 거야. 꽤 크게.
+Linnea|A2|Vill du ha mjölk i teet?|(창고 문이 닫히고 곧 클래식 음악이 흘러나온다. 린네아는 괜히 바쁘게 보온병을 연다) 차에 우유 넣을래요?
+Oskar|A1|Nej tack.|아뇨, 괜찮아요.
+Linnea|A1|Socker?|설탕은요?
+Oskar|A2|Nej. Linnea, sätt dig.|아뇨. 린네아, 앉아요.
+Linnea|A2|Okej. Men bara en minut.|(마지못해 의자 끝에 걸터앉으며) 알았어요. 근데 딱 1분만요.
+Oskar|B1|Du sa att du inte är arg på mig. Vem är du arg på, då?|저한테 화난 게 아니라고 했죠. 그럼 누구한테 화난 거예요?
+Linnea|A2|På mig själv, tror jag.|저 자신한테요, 아마.
+Oskar|A1|Varför?|왜요?
+Linnea|B2|Det är svårt att förklara utan att låta som en fullständig idiot, och jag har inte riktigt bestämt mig för om jag är beredd på det än.|완전 바보처럼 들리지 않게 설명하기가 어려워요. 그리고 그럴 각오가 됐는지 아직 마음을 못 정했고요.
+Oskar|B1|Jag har hört dig prata om översättning i en hel timme. Jag tror inte att du kan låta som en idiot.|번역 얘기를 한 시간 내내 하는 걸 들은 사람이에요. 당신이 바보처럼 들릴 수 있을 것 같진 않은데요.
+Linnea|A1|Vänta bara.|두고 보세요.
+Oskar|B1|Jag väntar. Det har jag gjort i fem dagar, så det går bra.|기다릴게요. 닷새 동안 그래 왔으니까, 괜찮아요.
+Linnea|A2|Förlåt. Det var inte snällt av mig.|미안해요. 제가 못됐었어요.
+Oskar|B1|Jag trodde att jag hade sagt nåt fel på Junibacken. Om Elsa och flickvän och allt det där.|유니바켄에서 제가 뭔가 잘못 말한 줄 알았어요. 엘사 얘기랑, 여자친구 얘기랑, 그런 거.
+Linnea|B2|Nej, nej. Du var underbar på Junibacken – om du hade sagt något fel, skulle Elsa ha påpekat det direkt.|아뇨, 아뇨. 유니바켄에서 당신 정말 멋졌어요. 뭔가 잘못 말했으면 엘사가 바로 지적했을걸요.
+Oskar|B2|Jag har gått igenom varje ord jag sa den dagen, ungefär som när man letar efter en läcka i ett skrov: planka för planka, utan att hitta någonting.|그날 했던 말을 하나하나 다 되짚어 봤어요. 선체에서 물 새는 데를 찾을 때처럼요. 판자 한 장 한 장. 근데 아무것도 못 찾았어요.
+Linnea|B1|Det fanns ingen läcka. Det var inte nåt du sa. Det var nåt jag såg.|새는 데는 없었어요. 당신이 한 말 때문이 아니에요. 제가 본 것 때문이에요.
+Oskar|A1|Såg?|봤다고요?
+Linnea|A2|Det låter dumt.|바보같이 들릴 거예요.
+Oskar|A1|Säg det.|말해 봐요.
+Maggan|B2|Förlåt att jag stör, men har någon av er sett mina läsglasögon? Utan dem är det fullkomligt omöjligt att räkna någonting.|(창고 문이 빼꼼 열린다) 방해해서 미안한데, 누구 내 돋보기 못 봤어요? 그게 없으면 뭘 센다는 건 완전히 불가능하거든요.
+Linnea|A2|De sitter på ditt huvud, Maggan.|머리 위에 있어요, 마간.
+Maggan|B1|Jaså, minsann. Då ber jag om ursäkt och försvinner igen. Fortsätt, fortsätt.|어머나, 그러네. 그럼 실례했어요, 다시 사라질게요. 계속해요, 계속.
+Oskar|A2|Hon lyssnar, va?|(문이 닫히고, 라디오 소리가 아까보다 한 단계 작아진다) 듣고 계시죠?
+Linnea|B1|Ja, garanterat. Hon har nog örat mot dörren just nu, radio eller inte.|네, 장담해요. 라디오를 켜든 말든, 지금 문에 귀를 대고 있을걸요.
+Oskar|A2|Det gör inget. Säg det ändå.|상관없어요. 그래도 말해 봐요.
+# 장면 3 — 같은 서점, 진실
+Linnea|A2|Jag såg dig i lördags.|(깊게 숨을 들이쉬고) 토요일에 당신 봤어요.
+Oskar|A2|I lördags? Vi var ju tillsammans.|토요일이요? 같이 있었잖아요.
+Linnea|B1|Senare. När jag hade låst Lyktan gick jag ner mot Hornsgatan, och då såg jag dig på Mariatorget.|그 뒤에요. Lyktan 문 잠그고 호른스가탄 쪽으로 내려가다가, 마리아토리에트에서 당신을 봤어요.
+Oskar|A1|Okej.|그래서요.
+Linnea|B1|Du stod utanför ett kafé och kramade en kvinna i vit jacka. Länge.|카페 앞에 서서 흰 재킷 입은 여자를 안고 있었어요. 오래.
+Oskar|A2|En kvinna i vit jacka?|흰 재킷 입은 여자요?
+Linnea|B2|Och sen sprang jag därifrån som en tonåring, gick hem och åt kanelbullar i fyra dagar och vägrade svara på dina sms.|그리고 전 십 대 애처럼 거기서 도망쳤고, 집에 가서 나흘 동안 시나몬롤만 먹으면서 당신 문자를 다 씹었어요.
+Oskar|A1|Linnea.|린네아.
+Linnea|B1|Jag trodde att hon var din flickvän.|그 여자가 당신 여자친구인 줄 알았어요.
+Oskar|A2|Det var min syster.|(한참 린네아를 바라보다가) 우리 누나였어요.
+Linnea|A1|Va?|네?
+Oskar|B1|Sara. Elsas mamma. Hon slutade jobba klockan fyra och mötte oss där. Hon är kock, så hon hade kockrocken på sig.|사라요. 엘사 엄마. 네 시에 일 끝나고 거기서 우리랑 만났어요. 요리사라서 조리복을 입고 있었던 거예요.
+Linnea|A1|En kockrock.|조리복.
+Oskar|B1|Jo. Hon kommer alltid direkt från restaurangen, så hon hinner aldrig byta om.|네. 늘 식당에서 바로 오니까 옷 갈아입을 틈이 없어요.
+Linnea|B1|Men Elsa var inte där! Jag letade efter henne, och hon syntes inte till någonstans.|근데 엘사는 거기 없었잖아요! 찾아봤는데 어디에도 안 보였어요.
+Oskar|A2|Hon var på toaletten. Inne på kaféet.|화장실에 있었어요. 카페 안에.
+Linnea|A2|Åh nej. Åh nej, nej, nej.|(두 손으로 얼굴을 가리며) 아, 안 돼. 안 돼, 안 돼, 안 돼.
+Oskar|A2|Skrattar du? Varför skrattar du?|(손가락 사이로 웃음소리가 새어 나온다) 웃어요? 왜 웃어요?
+Linnea|B2|Jag skäms nästan för mycket för att kunna skratta åt det. Och ändå kan jag inte sluta.|너무 창피해서 웃을 수도 없을 지경이에요. 그런데도 멈출 수가 없어요.
+Oskar|A2|Det är okej. Skratta du.|괜찮아요. 웃어요.
+Linnea|B2|Det värsta är att jag gick tillbaka till kaféet i dag, och baristan försökte berätta vem hon var. Men jag ville hellre vara olycklig än höra sanningen.|최악인 건 뭔지 알아요? 오늘 그 카페에 다시 갔는데, 바리스타가 그 여자가 누군지 말해 주려고 했어요. 근데 전 진실을 듣느니 차라리 불행한 쪽이 낫다고 생각했나 봐요.
+Oskar|A2|Gick du dit? I regnet?|거기 갔었어요? 이 빗속에?
+Linnea|B2|Ja. Med paraply, men utan värdighet. Jag satt vid fönstret och stirrade på fontänen som en hjältinna i en dålig roman.|네. 우산은 챙겼지만 체면은 못 챙겼죠. 창가에 앉아서 분수만 노려봤어요. 삼류 소설 여주인공처럼.
+Oskar|B1|Du hade kunnat fråga mig. Jag hade svarat direkt.|저한테 물어봤으면 됐잖아요. 바로 대답했을 텐데.
+Linnea|B1|Jag vet. Min syster har sagt samma sak i fyra dagar. Hon kommer att bli outhärdlig nu.|알아요. 우리 언니가 나흘 내내 똑같은 말을 했어요. 이제 언니 잘난 척 감당 못 할 거예요.
+Oskar|B1|Vill du veta vad Sara viskade? Det handlade om dig.|사라가 뭐라고 속삭였는지 알고 싶어요? 당신 얘기였어요.
+Linnea|A1|Om mig?|저요?
+Oskar|B2|Hon sa att du är bra. Och att jag inte fick släppa taget den här gången. Det var typiskt henne – hon har aldrig kunnat låta bli att lägga sig i.|당신 좋은 사람이래요. 그리고 이번엔 놓치지 말라고요. 딱 누나다운 말이죠. 남의 일에 끼어들지 않고는 못 배기는 사람이라.
+Linnea|A2|”Den här gången”?|"이번엔"이요?
+Maggan|B2|Regnet har upphört, mina vänner. Ivar Los park ligger ett stenkast härifrån, och jag skulle gärna vilja låsa innan midnatt. I morgon halv sju vill jag se er båda här.|(창고 문이 활짝 열린다. 라디오는 언제부턴가 꺼져 있었다) 비가 그쳤어요, 두 사람. 이바르 로 공원은 엎어지면 코 닿을 데 있고, 난 자정 전엔 문을 잠그고 싶네요. 그리고 내일 여섯 시 반엔 둘 다 여기서 보고 싶어요.
+# 장면 4 — 이바르 로 공원, 비 그친 밤 10시
+Linnea|A2|Bänken är blöt. Allt är blött.|(리다르피에르덴 위로 시청 탑 불빛이 번진다) 벤치 젖었네요. 전부 다 젖었어요.
+Oskar|B1|Sitt på min jacka. Den kan inte bli blötare än den redan är.|제 재킷 깔고 앉아요. 지금보다 더 젖을 수도 없으니까.
+Linnea|B1|Tack. Du sa ”den här gången”. Vad menade Sara med det?|고마워요. 아까 "이번엔"이라고 했잖아요. 사라 씨는 무슨 뜻으로 그런 거예요?
+Oskar|B1|För några år sen fanns det en tjej här i Stockholm. Hon hette Malin.|몇 년 전에, 여기 스톡홀름에 한 여자가 있었어요. 이름은 말린이었어요.
+Linnea|A1|Vad hände?|무슨 일이 있었어요?
+Oskar|B2|Det hände något hemma i Härnösand, och efter det slutade jag prata – med henne, med Sara, med alla. Malin väntade i ett år. Sen orkade hon inte mer, och jag gjorde ingenting för att hålla kvar henne.|회르뇌산드 집에 일이 좀 있었어요. 그 뒤로 전 말을 안 하게 됐어요. 말린한테도, 사라한테도, 모두한테. 말린은 1년을 기다렸어요. 그러고는 더 버티지 못했고, 전 붙잡으려고 아무것도 안 했어요.
+Linnea|A2|Vad hände hemma?|집에는 무슨 일이 있었는데요?
+Oskar|A2|En annan gång. Jag lovar.|다음에요. 약속해요.
+Linnea|B2|Då lägger jag det överst i högen med ”en annan gång”. Min historia är faktiskt den raka motsatsen: det var jag som gick, innan han ens hann förklara sig.|그럼 '다음에' 더미 맨 위에 올려 둘게요. 제 얘기는 사실 정반대예요. 떠난 쪽이 저였어요. 그 사람이 해명할 틈도 주기 전에.
+Oskar|B1|Varför gjorde du det, om du inte visste säkert?|확실히 알지도 못하면서 왜 그랬어요?
+Linnea|B1|Jag drog en slutsats på tre sekunder och gjorde slut samma kväll. Jag vet fortfarande inte om jag hade rätt.|3초 만에 결론을 내리고, 그날 밤에 헤어지자고 했어요. 제가 옳았는지 지금도 몰라요.
+Oskar|A2|Så vi är två idioter på en blöt bänk.|그러니까 젖은 벤치 위에 바보가 둘이네요.
+Linnea|B2|Ja. Fast det finns sämre ställen att vara idiot på – utsikten är i alla fall fantastisk.|네. 그래도 바보 노릇 하기에 더 나쁜 곳도 많죠. 적어도 경치는 끝내주잖아요.
+Oskar|B1|Jag springer inte iväg, Linnea. Jag är dålig på att prata, men jag springer inte.|전 도망 안 가요, 린네아. 말은 서툴러도, 도망은 안 가요.
+Linnea|B1|Och jag ska försöka fråga i stället för att gissa. Det blir svårt, men jag ska försöka.|그리고 전 짐작하는 대신 물어보도록 해 볼게요. 어렵겠지만, 해 볼게요.
+Oskar|A2|Vi har väl slutat vara främlingar nu?|우리 이제 남은 아니죠?
+Linnea|A1|Ja. Det har vi.|(작게 웃으며) 네, 이제 남 아니죠. (잠깐 멈췄다가, 처음으로 말을 놓으며) …응. 이제 아니야.
+Oskar|A2|Bra. Då vill jag säga en sak.|(살짝 놀란 얼굴. 그러다 그도 따라 말을 놓는다) 좋아. 그럼 나 하나만 말할게.
+Linnea|B1|Vänta, jag först. Jag övar på att fråga i stället för att gissa: har du en flickvän?|잠깐, 나 먼저. 짐작 말고 물어보기, 연습 중이야. 너 여자친구 있어?
+Oskar|A1|Jag har ingen flickvän. Än.|(린네아를 똑바로 보며, 아주 천천히) 여자친구 없어. 아직은.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Är du arg?** | 화났어요? | *är* + 주어 + 형용사로 묻는 예/아니오 의문문. 대답은 *Ja.* / *Nej.* "누구한테" 화났는지는 *arg på* + 사람 (*Jag är inte arg på dig.*) |
+| `A1` | **Nej! — Jo.** | 아니에요! — (아니긴) 맞잖아요. | 부정문·부정 의문에 "아니, 그렇다"고 반박할 때는 *ja*가 아니라 *jo*. *Är du inte arg?* — *Jo!* (화났어!) |
+| `A2` | **Jag såg dig i lördags.** | 토요일에 당신 봤어요. | *i lördags* = 지난 토요일, *på lördag* = 이번(돌아오는) 토요일. *i går*, *i fjol*(작년)처럼 *i* + 과거 시점 |
+| `A2` | **Det var min syster.** | 우리 누나였어요. | 사람을 소개·지칭할 때 성별과 상관없이 *det*. *Det är Oskar.* (오스카르예요.) *syster*는 언니·누나·여동생 모두 |
+| `A2` | **Vi har väl slutat vara främlingar nu?** | 우리 이제 남은 아니죠? | *sluta* + 동사 원형 = ~하기를 그만두다. 문중 *väl*은 동의를 구하는 "~잖아요, 그렇죠?" |
+| `B1` | **Jag trodde att hon var din flickvän.** | 그 여자가 당신 여자친구인 줄 알았어요. | 주절이 과거(*trodde*)면 *att*절도 과거(*var*). 한국어 "~인 줄 알았다"에 딱 맞는 틀 |
+| `B1` | **Du hade kunnat fråga mig.** | 저한테 물어봤으면 됐잖아요. | *hade* + *kunnat* + 원형 = "~할 수도 있었다"(하지 않은 일). *Jag hade svarat direkt.* (바로 대답했을 텐데.) |
+| `B2` | **Jag skäms nästan för mycket för att kunna skratta åt det.** | 너무 창피해서 웃을 수도 없을 지경이에요. | *för* + 형용사/부사 + *för att* + 원형 = "너무 ~해서 …할 수 없다". *skämmas*는 -s로 끝나는 탈형동사(현재 *skäms*) |
+| `B2` | **Om du hade sagt något fel, skulle Elsa ha påpekat det.** | 뭔가 잘못 말했으면 엘사가 지적했을걸요. | 과거 사실의 반대 가정: *om* + *hade* + 과거분사, 주절 *skulle ha* + 과거분사 |
+| `B2` | **Det finns sämre ställen att vara idiot på.** | 바보 노릇 하기에 더 나쁜 곳도 많죠. | 전치사 *på*가 문장 끝으로 가는 스웨덴어 특유의 어순(*ett ställe att bo på* 살 곳). 비교급 *sämre* ← *dålig* |
+
+## 문화 메모
+- **스웨덴어에는 존댓말이 없다?** — 옛날에는 스웨덴어에도 존칭 *ni*와 직함으로 부르는 복잡한 경어 체계가 있었지만, 1960년대 후반 이른바 **du-reformen**(du 개혁)으로 거의 사라졌다. 1967년 사회복지청장 브로르 렉세드(Bror Rexed)가 직원들에게 모두 *du*로 부르자고 선언한 일이 상징처럼 기억된다. 그래서 이 드라마의 존댓말/반말은 스웨덴어가 아니라 **한국어 번역**에서만 드러난다. 오늘 밤부터 린네아와 오스카르의 번역은 반말이다.
+- **ja / nej / jo** — 스웨덴어에는 "예/아니오" 말고 세 번째 대답 *jo*가 있다. 부정 질문이나 부정 주장을 뒤집을 때 쓴다(*Du är inte arg. — Jo, det är jag!*). 노를란드 사람들은 *jo*를 들숨으로 짧게 "흡" 하듯 말하기도 하는데, 이것도 "응, 그래"라는 뜻이다.
+- **이바르 로 공원(Ivar Los park)** — 바스투가탄의 작은 언덕 공원. 노동자 문학 작가 이바르 로-요한손(Ivar Lo-Johansson)의 이름을 땄으며, 그가 말년을 보낸 바스투가탄의 아파트는 지금도 기념 공간으로 남아 있다. 리다르피에르덴 너머로 시청사(Stadshuset)와 쿵스홀멘이 한눈에 보여, 비 그친 밤 벤치에 앉기 좋은 곳이다.
+
+## 다음 화 예고 — 9화 *Deadline* (마감)
+일주일 뒤 목요일 밤. 출판사의 독촉 전화는 점점 정중해지고, 그만큼 무서워진다. 사흘째 잠을 못 잔 린네아의 원룸은 원고와 빈 커피잔과 시나몬롤 봉지로 난장판이다. 그때 초인종이 울린다. 이번엔 어느 건물인지 아는 오스카르가, 냄비째 수프를 들고 서 있다. "Är du hungrig?" 한 문장이 아무리 해도 스웨덴어로 펴지지 않는다는 린네아에게, 오스카르는 배 이야기를 꺼낸다. "Man kan inte tvinga träet att böja sig åt fel håll — det spricker." 이제 서로 말을 놓은 두 사람의 첫 밤 — 그리고 다음 날 아침, 냉장고에 붙은 쪽지 한 장.
