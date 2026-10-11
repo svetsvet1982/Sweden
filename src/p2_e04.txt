@@ -1,0 +1,155 @@
+@title 2부 4화 — Bokstäverna som dansar
+@subtitle (춤추는 글자들)
+@meta 날짜|12월 18일 목요일 오후 3시 ~ 5시쯤 (영하 5도, 해는 이미 졌다)
+@meta 장소|롱홀멘(Långholmen) 조선소 창고(skjul) — 받침대 위의 스발란, 대패 작업대, 증기 상자(ånglåda) 옆
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31) · **Ahmed** (아메드, 32)
+@intro **지난 이야기** 12월 16일, Vindros 출판사의 송년 율보르드. 오스카르는 손글씨 메뉴판을 린네아에게 넘기고, 퀴즈 볼펜을 되밀고, "요즘 뭐 읽어요?"라는 질문에 "아무것도요"라고 답했다. 『로냐』 첫 문장은 맞혔지만, 그 책은 조카가 전화로 "얘기해 줬다"고 했다. 그리고 요한 발이 나타났다 — 『겨울 부엌』 문고판 판권을 사 간 대형 출판사 편집자이자, 린네아가 3초 만에 헤어진 전 남자친구. 눈 내리는 베스테르브론 한가운데, 첫 키스를 했던 그 자리에서 린네아는 메뉴판, 볼펜, "아무것도", 북클럽 42쪽, 『로냐』를 하나씩 짚었다. "Varför läser du aldrig?" 생각보다 날카롭게 나온 그 질문에, 오스카르는 끝내 대답하지 않았다.
+@intro 이틀 뒤, 12월 18일 목요일 오후. 해는 세 시 전에 졌고, 롱홀멘의 창고에는 작업등 두 개와 증기 상자의 김만 남았다. 그날 밤 오스카르는 혼스툴 현관 앞까지 린네아를 바래다주고 한마디 없이 돌아갔다. 그 뒤로 린네아가 보낸 문자는 하나 — "Förlåt. Kan vi prata?" 답장은 없었다. 그래서 린네아는 Ugglan의 시나몬롤 한 봉지와, 어제 Lyktan에서 산 파란 포장지 꾸러미 하나를 들고 직접 왔다.
+# 장면 1 — 조선소 창고, 대패 소리
+Ahmed|A1|Linnea! Hej!|(창고 옆문. 털모자를 쓴 아메드가 문을 열다가 깜짝 놀란다) 린네아 씨! 안녕하세요!
+Linnea|A1|Hej, Ahmed. Är han här?|안녕하세요, 아메드 씨. 그 사람 여기 있어요?
+Ahmed|B1|Han är där inne. Han har hyvlat samma bräda i två dagar, så den är nog väldigt slät vid det här laget.|(목소리를 낮추며) 안에 있어요. 이틀째 같은 판자만 대패질하고 있거든요. 지금쯤이면 엄청 매끈할걸요.
+Linnea|A2|Är han arg på mig?|저한테 화났어요?
+Ahmed|B1|Walla, han är inte arg. Han är rädd, typ. Men det ser likadant ut när han inte säger nåt.|진짜로, 화난 거 아니에요. 그냥… 겁먹은 거예요. 근데 쟤는 말을 안 하니까 둘이 똑같아 보이죠.
+Linnea|A1|Rädd? För vad?|겁먹었다고요? 뭘요?
+Ahmed|A2|Det får han berätta själv. Oskar! Du har besök!|그건 본인이 말해야죠. (안쪽으로 외친다) 오스카르! 손님 왔다!
+Oskar|A1|Vem då?|(대패 소리가 멈추지 않는다) 누구?
+Ahmed|A2|Jag ska köpa mjölk. Det tar typ en timme. Minst.|난 우유 사러 간다. 한 시간쯤 걸려. 최소. (린네아에게 윙크하고 문을 닫는다)
+Oskar|A1|Hej.|(대패가 멈춘다. 받침대 위 스발란의 그림자 옆에서, 회색 스웨터에 톱밥을 묻힌 오스카르가 돌아본다) 안녕.
+Linnea|A1|Hej.|안녕.
+Oskar|A2|Det finns ingen affär på Långholmen.|롱홀멘엔 가게 없는데.
+Linnea|A2|Jag vet. Han ville lämna oss ensamma. Här, kanelbullar från Ugglan.|알아. 우리 둘만 있게 해 주려는 거지. (봉지를 내민다) 자, Ugglan 시나몬롤.
+Oskar|A1|Tack.|(봉지를 받아 작업대 끝에 조심스럽게 내려놓는다) 고마워.
+Linnea|A2|Vad gör du med brädan?|그 판자로 뭐 해?
+Oskar|B2|Det är ek till ett nytt spant. Jag hyvlar den tills fibrerna löper rakt, för annars spricker den när den kommer ur ånglådan och jag böjer den.|새 늑골 만들 참나무야. 결이 곧게 흐를 때까지 대패질하는 거야. 안 그러면 증기 상자에서 꺼내서 휠 때 갈라지거든.
+Linnea|A1|Spricker den?|갈라져?
+Oskar|B2|Om man tvingar den. Trä har ett eget minne – böjer man det åt fel håll, kommer det ihåg det i hundra år.|억지로 하면. 나무한텐 나름의 기억이 있어. 엉뚱한 쪽으로 휘면 백 년을 그걸 기억해.
+Linnea|B2|Du svarade inte på mitt sms, och jag har kollat telefonen ungefär var femte minut sedan dess, vilket är ganska förnedrande för en vuxen kvinna.|내 문자에 답 안 했잖아. 그 뒤로 거의 5분마다 휴대폰 확인했어. 다 큰 어른으로서 꽤 굴욕적이야.
+Oskar|A2|Jag läste det. Många gånger.|읽었어. 여러 번.
+Linnea|A1|Och?|그래서?
+Oskar|A1|Sen hyvlade jag.|그다음엔 대패질했지.
+Linnea|B1|Jag har tänkt på vad jag skulle säga ända sedan i tisdags, och nu har jag glömt alltihop.|화요일부터 무슨 말 할지 계속 생각했는데, 지금 다 까먹었어.
+Oskar|A1|Sätt dig.|(발로 낮은 나무 의자를 밀어 준다) 앉아.
+Linnea|B2|Förlåt för frågan på bron. Jag ställde den som en åklagare som redan hade bestämt sig, och jag ångrade mig innan du ens hade hunnit gå därifrån.|다리 위에서 한 질문, 미안해. 이미 결론 내린 검사처럼 물었어. 네가 걸어가기도 전에 벌써 후회했어.
+Oskar|B1|Vi lovade ju att fråga i stället för att gissa. Du gjorde bara det vi hade bestämt.|우리 짐작 대신 물어보기로 약속했잖아. 넌 정한 대로 한 것뿐이야.
+Linnea|B1|Men inte så. Inte mitt på bron, i snön, med en röst som skar.|그래도 그런 식은 아니었어. 다리 한가운데서, 눈 맞으면서, 그렇게 날 선 목소리로.
+Oskar|B1|Och jag följde dig hem utan att säga ett enda ord, fast jag visste att du väntade på ett svar. Det var också fel.|그리고 난 네가 대답 기다리는 거 알면서, 한마디도 없이 너 집까지 바래다주고 왔지. 그것도 잘못이야.
+# 장면 2 — 고백: 짧은 문장이 조금씩 길어진다
+Linnea|A2|Du behöver inte berätta något i dag. Jag kan vänta.|오늘 아무 말 안 해도 돼. 나 기다릴 수 있어.
+Oskar|A1|Nä. Jag vill.|아니. 하고 싶어.
+Linnea|A1|Okej.|(의자에 앉는다. 무릎 위에 파란 꾸러미를 올려놓은 채) 알았어.
+Oskar|A1|Jag kan inte.|(대패를 내려놓고, 작업대 모서리를 두 손으로 짚는다) 난 못 해.
+Linnea|A1|Kan inte vad?|뭘 못 해?
+Oskar|A1|Läsa. Inte ordentligt.|읽는 거. 제대로는.
+Linnea|A1|Läsa?|읽는 거?
+Oskar|A2|Jag har dyslexi.|난독증이 있어.
+Linnea|A1|Dyslexi.|(아주 조용히, 그 단어를 받아서 그대로 놓아 둔다) 난독증.
+Oskar|A2|Jag kan läsa lite. Men det går väldigt långsamt.|조금은 읽을 수 있어. 근데 엄청 느려.
+Linnea|A2|När fick du veta det?|언제 알았어?
+Oskar|A2|När jag var tjugofyra. Ahmed tvingade mig att göra ett test.|스물넷에. 아메드가 억지로 검사받게 했어.
+Linnea|A2|Först när du var tjugofyra?|스물넷이 돼서야?
+Oskar|A2|Innan dess trodde jag bara att jag var dum.|그전엔 그냥 내가 멍청한 줄 알았어.
+Linnea|A2|Vem har sagt att du är dum?|누가 너더러 멍청하대?
+Oskar|A2|I skolan sa de att jag var dum.|학교에서 다들 나보고 멍청하다고 했어.
+Linnea|A1|Lärarna?|선생님들이?
+Oskar|B1|Inte lärarna, inte med det ordet. De sa att jag var lat och att jag inte lyssnade. Det var de andra barnen som sa dum.|선생님들은 아니야, 그 단어로는. 게으르다고, 수업을 안 듣는다고 했지. 멍청하다고 한 건 다른 애들이었어.
+Linnea|A2|Sara sa att du ritade båtar i marginalen.|사라 씨가 그러던데, 너 공책 여백에 배 그렸다며.
+Oskar|B1|Jo. Båtarna kunde jag i alla fall. Bokstäverna hoppar runt när jag försöker läsa.|응. 배는 그래도 그릴 줄 알았으니까. 읽으려고 하면 글자들이 이리저리 뛰어다녀.
+Linnea|B1|Hur ser det ut? Om du vill berätta, alltså.|어떻게 보이는데? 말해 주고 싶으면, 그러니까.
+Oskar|B1|Som om de dansar. B och d byter plats, och när jag kommer till slutet av en rad vet jag inte längre var nästa börjar.|춤추는 것 같아. b랑 d가 자리를 바꾸고, 한 줄 끝까지 가면 다음 줄이 어디서 시작하는지 모르겠어.
+Linnea|A2|Och siffror? Priserna på julmarknaden?|숫자는? 크리스마스 마켓에서 가격은?
+Oskar|B2|Siffror också, ibland. Det var inte ljuset på Stortorget, även om jag skyllde på det. Jag ville bara inte stå och stava mig igenom en prisskylt medan du tittade på.|숫자도 가끔. 스토르토리에트 조명 탓이 아니었어. 조명 탓을 하긴 했지만. 그냥 네가 보는 앞에서 가격표를 한 자 한 자 더듬더듬 읽고 서 있기가 싫었어.
+Linnea|A2|Och menyn på Sjöboden. Och pennan.|그리고 Sjöboden 메뉴판도. 볼펜도.
+Oskar|B1|Jag skriver som ett barn, med fel bokstäver i fel ordning. Jag ville inte att du skulle se det.|난 애처럼 써. 틀린 글자를 틀린 순서로. 네가 그걸 보는 게 싫었어.
+Linnea|B1|Det är därför dina lappar alltid är så korta. "Soppan finns i kylen. /O."|그래서 네 쪽지가 늘 그렇게 짧았구나. "수프는 냉장고에 있어. /O."
+Oskar|A2|Den lappen tog tio minuter.|그 쪽지 쓰는 데 10분 걸렸어.
+Linnea|B1|Jag har sparat den. Den sitter fortfarande på mitt kylskåp.|그거 아직 갖고 있어. 지금도 우리 집 냉장고에 붙어 있어.
+Oskar|B2|Och Vinterhamnen. Jag satt med den varje kväll i två veckor, med fingret under raderna, och när jag äntligen kom till sidan fyrtiotvå hade jag redan glömt hur den började.|그리고 『겨울 항구』. 2주 동안 매일 밤 손가락으로 줄을 짚어 가며 붙잡고 있었는데, 겨우 42쪽까지 갔을 땐 앞부분이 어떻게 시작했는지 벌써 잊어버렸어.
+Linnea|B1|Du sa att du läser långsamt. Jag trodde att du menade att du var noggrann.|읽는 게 느리다고 했잖아. 난 꼼꼼하다는 뜻인 줄 알았어.
+Oskar|A2|Det var ingen lögn. Bara inte hela sanningen.|거짓말은 아니었어. 다 말 안 했을 뿐이지.
+Linnea|A2|Och Ronja? Elsa berättade den i telefon.|그럼 『로냐』는? 엘사가 전화로 얘기해 줬다며.
+Oskar|B1|Elsa tror att jag gillar att lyssna. Hon har berättat hela boken för mig i telefon, kapitel för kapitel, sedan i oktober.|엘사는 내가 듣는 걸 좋아하는 줄 알아. 10월부터 전화로 한 장씩 한 장씩, 책 한 권을 통째로 얘기해 줬어.
+Linnea|B2|Och när jag bad dig läsa meningen på min skärm sa du "Läs du. Jag lyssnar hellre." Jag gick och tänkte på det i flera dagar, för jag trodde att det var det finaste någon hade sagt om min röst.|그리고 내가 노트북 화면의 문장 읽어 보라고 했을 때, 넌 "네가 읽어. 난 듣는 게 좋아"라고 했지. 그 말을 며칠이나 곱씹었어. 누가 내 목소리에 대해 한 말 중에 제일 다정한 말인 줄 알았거든.
+Oskar|B2|Det var sant. Jag skulle hellre lyssna på dig i en timme än läsa en enda sida själv, och det har ingenting med dyslexin att göra.|그건 진짜야. 나 혼자 한 페이지 읽느니 네 목소리를 한 시간 듣는 게 더 좋아. 그건 난독증이랑 아무 상관 없어.
+Linnea|B1|Hos Ahmed och Leila i november sa Ahmed att du inte hade läst en hel roman sedan gymnasiet, "för att…" Och sedan sa du bara hans namn.|11월에 아메드 씨네 집에서, 아메드 씨가 너 고등학교 이후로 소설 한 권도 다 안 읽었다고 했잖아. "왜냐하면…" 그리고 넌 그 사람 이름만 불렀지.
+Oskar|B1|Jo. Han var på väg att säga det. Han är den enda som vet, och han har hållit tyst i sju år, fast det inte direkt är hans starkaste sida.|응. 말할 뻔했지. 아는 사람은 걔뿐이야. 7년 동안 입 다물고 있었어. 입 다무는 게 걔 특기는 절대 아닌데.
+Linnea|A2|Inte Sara? Inte din farmor?|사라 씨도? 할머니도?
+Oskar|B1|De vet att skolan var svår. Farmor läste Emil för mig tills jag var tolv. Men ordet har jag aldrig sagt till dem.|학교가 힘들었던 건 알아. 할머니는 내가 열두 살 될 때까지 『에밀』을 읽어 주셨고. 근데 그 단어는 한 번도 말한 적 없어.
+Linnea|A1|Och Malin?|그럼 말린은?
+Oskar|B2|Malin trodde att jag inte tyckte om böcker. Vi var tillsammans i fyra år, och hon fick aldrig veta – hon lämnade en man som hon bara hade sett hälften av.|말린은 내가 책을 안 좋아하는 줄 알았어. 4년을 만났는데 끝까지 몰랐어. 걔는 반쪽만 본 남자를 두고 떠난 거야.
+Linnea|B1|Fyra år… Hur orkade du hålla det hemligt så länge?|4년이나… 그렇게 오래 어떻게 숨기고 버텼어?
+Oskar|B2|Man lär sig. Man tar med sig någon till banken, man säger att man har glömt glasögonen fast man aldrig har haft några, och man beställer samma sak som den som sitter bredvid.|익숙해져. 은행엔 누구 하나 데리고 가고, 안경을 두고 왔다고 해. 안경 같은 거 써 본 적도 없으면서. 그리고 옆 사람이랑 똑같은 걸 시키고.
+Linnea|A2|Hur känns det att gå in i en bokhandel?|서점에 들어가면 어떤 기분이야?
+Oskar|B2|Som att kliva in i ett rum där alla talar ett språk som jag borde kunna. Varje bokrygg på hyllan är en fråga jag inte kan svara på, och förr eller senare kommer någon fram och frågar vad man letar efter.|다들 내가 당연히 알아야 하는 언어로 말하는 방에 들어서는 느낌. 책장에 꽂힌 책등 하나하나가 내가 대답 못 하는 질문이고, 조만간 누가 다가와서 뭘 찾냐고 물어.
+Linnea|B1|Ändå gick du in i Lyktan. En fredag i september, i regnet.|그런데도 Lyktan에 들어왔잖아. 9월의 어느 금요일, 비 오는 날에.
+Oskar|B2|Elsa ville ha en bok med svärd, och i tre år hade jag bara gett henne presentkort. Jag tyckte att hon förtjänade en riktig bok från mig, även om jag inte kunde läsa den själv.|엘사가 칼 나오는 책을 갖고 싶어 했어. 3년 동안 난 상품권만 줬고. 내가 직접 못 읽더라도, 걔는 나한테서 진짜 책 한 권 받을 자격이 있다고 생각했어.
+Linnea|A2|Och du frågade mig om jag jobbade där.|그래서 나한테 여기서 일하냐고 물었구나.
+Oskar|B2|För att jag inte ville läsa skyltarna på hyllorna. Jag har ägnat hela mitt liv åt att dölja något som egentligen inte är mitt fel.|책장에 붙은 안내판을 읽기 싫어서. 난 평생을, 사실 내 잘못도 아닌 걸 숨기는 데 써 왔어.
+# 장면 3 — 동정 대신 질문
+Linnea|A2|Nej. Det är inte ditt fel.|(일어나서, 작업대 건너편에 선다. 손은 뻗지 않는다) 응. 네 잘못 아니야.
+Oskar|A1|Jag vet. Nu.|알아. 이제는.
+Linnea|B1|Får jag ställa några frågor? Du får säga stopp när du vill.|몇 가지 물어봐도 돼? 그만하고 싶으면 언제든 말해.
+Oskar|A1|Fråga.|물어봐.
+Linnea|B1|När du läser – hjälper det om bokstäverna är större, eller om du följer raden med fingret?|읽을 때 글자가 크면 도움이 돼? 아니면 손가락으로 줄을 따라가면?
+Oskar|B1|Fingret hjälper. Och korta texter. En hel sida med små bokstäver är som en vägg.|손가락은 도움 돼. 그리고 짧은 글. 작은 글씨로 꽉 찬 한 페이지는 벽 같아.
+Linnea|B2|Har du provat ljudböcker? Jag gissar att du tycker att det är fusk, men det är det inte. En berättelse är en berättelse, oavsett om den kommer in genom ögonen eller genom öronen.|오디오북은 들어 봤어? 반칙 같다고 생각할 것 같은데, 반칙 아니야. 눈으로 들어오든 귀로 들어오든 이야기는 이야기야.
+Oskar|B1|Det känns som fusk. Som att ta motorbåten när alla andra ror.|반칙 같아. 다들 노 젓는데 나만 모터보트 타는 것처럼.
+Linnea|B1|Varför kom du tillbaka till Lyktan dagen efter, då? Och sedan igen, och igen?|그럼 다음 날은 왜 Lyktan에 다시 왔어? 그 뒤로도 또, 또?
+Oskar|B2|Jag var rädd varje gång dörren gick upp och klockan ringde. Men det fanns något där inne som var värt att vara rädd för.|문이 열리고 종이 울릴 때마다 겁났어. 근데 그 안에 겁낼 만한 가치가 있는 게 있었거든.
+Linnea|A1|Något?|뭐가?
+Oskar|A1|Någon.|누가.
+Linnea|B2|Jag tänkte på en sak hela vägen hit. Ord är bokstavligen mitt jobb, och ändå valde jag de sämsta jag hade och kastade dem på dig mitt på en bro.|여기 오는 내내 생각했어. 말은 글자 그대로 내 직업인데, 그런 내가 가진 말 중에 제일 나쁜 걸 골라서 다리 한가운데서 너한테 던졌다고.
+Oskar|B1|Du kastade ingenting. Du såg något. Det var bara jag som inte ville bli sedd.|넌 아무것도 안 던졌어. 그냥 본 거야. 보이기 싫었던 건 나고.
+Linnea|B2|Jag såg det redan i november, när du sa "Ahmed" på det där sättet. Jag valde att inte fråga, och när jag väl frågade gjorde jag det på sämsta tänkbara sätt. Nunchi åt fel håll, båda gångerna.|11월에 네가 그렇게 "아메드" 하고 불렀을 때 이미 봤어. 그런데 안 묻기로 했고, 막상 물었을 땐 생각할 수 있는 제일 나쁜 방식으로 물었지. 두 번 다 눈치가 엉뚱한 쪽으로 간 거야.
+Oskar|A2|Du sa att jag inte var så svår att läsa.|너 그랬잖아. 나 그렇게 읽기 어려운 사람 아니라고.
+Linnea|B1|Det var en sjukt dålig ordvits, med tanke på allt. Varför sa du ingenting?|생각해 보면 진짜 최악의 말장난이었네. 왜 아무 말 안 했어?
+Oskar|B2|Jag tyckte att den var bra. Du är den första som har försökt läsa mig i stället för att ge upp efter första raden.|난 그거 좋았는데. 첫 줄에서 포기하지 않고 날 읽어 보려고 한 사람은 네가 처음이야.
+Linnea|B1|Stör det dig att jag jobbar med böcker? Att mina vänner är sådana som Siri och Henrik?|내가 책 만지는 일 하는 거, 신경 쓰여? 내 주변 사람들이 시리나 헨리크 같은 사람들인 거?
+Oskar|B2|Det skrämde mig i början. Men när du pratar om ord låter du precis som jag när jag pratar om trä, och då går det inte att vara rädd för det.|처음엔 무서웠어. 근데 네가 말에 대해 얘기할 때, 꼭 내가 나무 얘기할 때 같은 소리가 나. 그러면 무서워할 수가 없어.
+Linnea|B1|Vill du att jag läser saker åt dig ibland, eller skulle det bara göra det värre?|가끔 내가 이것저것 대신 읽어 줬으면 좋겠어? 아니면 그러면 더 싫을까?
+Oskar|B1|Ibland, om jag ber om det. Jag vill inte att du ska bli min… vad heter det… tolk.|가끔, 내가 부탁하면. 네가 내… 뭐라 그러더라… 통역사가 되는 건 싫어.
+Linnea|B1|Jag är översättare, inte tolk. Det är säkert en viktig skillnad i branschen.|난 번역가지 통역사가 아니야. 업계에선 분명 중요한 차이겠지.
+Oskar|A2|Nu låter du som Johan.|너 지금 요한 같다.
+Linnea|A1|Usch! Ta tillbaka det.|으, 싫어! 그 말 취소해.
+Oskar|A1|Nä.|(이틀 만에 처음으로, 입꼬리가 올라간다) 싫은데.
+Linnea|B2|Bara en sak till, sedan lovar jag att sluta prata. Att läsa långsamt är inte att läsa dåligt. Jag läser varje mening som jag översätter minst tio gånger, och ingen har någonsin kallat mig dum för det.|하나만 더 말하고 입 다물게. 느리게 읽는 건 못 읽는 게 아니야. 난 번역하는 문장마다 최소 열 번은 읽어. 근데 그걸로 날 멍청하다고 한 사람은 아무도 없어.
+# 장면 4 — "Läs för mig."
+Oskar|A2|Vad har du i paketet?|(린네아의 무릎 위, 파란 꾸러미를 턱으로 가리키며) 그 꾸러미엔 뭐 들었어?
+Linnea|B1|Jag köpte den på Lyktan i går. Maggan slog in den i blått papper utan att fråga varför.|어제 Lyktan에서 샀어. 마간 할머니가 왜냐고 묻지도 않고 파란 종이로 싸 주셨어.
+Oskar|A1|Ronja.|(포장을 모서리부터 천천히 뜯는다. 9월의 그 책과 똑같은 표지) 로냐.
+Linnea|A2|Samma bok. Och den här gången betalade jag.|같은 책. 그리고 이번엔 내가 냈어.
+Oskar|A2|Presenter räknas inte.|선물은 안 쳐.
+Linnea|A2|Jo, visst gör de det.|아니, 당연히 쳐.
+Oskar|A2|Varför köpte du den?|왜 산 거야?
+Linnea|A1|Läs för mig.|(책을 펼쳐 첫 페이지를 그의 앞에 놓는다) 나한테 읽어 줘.
+Oskar|A1|Nu?|지금?
+Linnea|A2|Bara första meningen. Jag har ingen brådska.|첫 문장만. 나 하나도 안 급해.
+Oskar|A1|Den… natten…|(검지를 첫 줄 아래에 댄다. 작업등 불빛 아래서 손가락이 아주 천천히 움직인다) 그… 밤…
+Linnea|A1|Ingen brådska.|(재촉하지 않는다. 다음 단어를 대신 말해 주지도 않는다) 천천히 해.
+Oskar|A2|…när… Ronja… föddes…|…로냐가… 태어나던…
+Linnea|A1|Mm.|(그의 손가락만 바라보며, 고개를 아주 작게 끄덕인다) 응.
+Oskar|A2|…gick… åskan… över… bergen.|(손가락이 줄 끝에 닿는다. 길게 숨을 내쉬고, 고개를 든다. 창고 밖에선 증기 상자가 낮게 쉭쉭거린다. 린네아는 끝까지 기다렸다) …산 너머로… 천둥이… 지나갔다.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Jag kan inte.** | 난 못 해. | *kan* 뒤에 동사가 생략된 말. 문맥이 받쳐 주면 "읽는 걸 못 해"처럼 무엇이든 될 수 있다. 상대는 *Kan inte vad?* (뭘 못 해?)로 되묻는다 |
+| `A1` | **Läs för mig.** | 나한테 읽어 줘. | *läsa för någon* = ~에게 (소리 내어) 읽어 주다. *läsa åt någon* = ~ 대신 읽어 주다. 이 화에서 둘 다 나온다 |
+| `A2` | **I skolan sa de att jag var dum.** | 학교에서 다들 나보고 멍청하다고 했어. | 막연한 "사람들"을 가리키는 *de*. 주절이 과거(*sa*)라서 종속절도 과거 *var* (시제 일치) |
+| `A2` | **Det finns ingen affär på Långholmen.** | 롱홀멘엔 가게가 없어. | *det finns* + 명사 = ~이 있다. 부정은 *ingen/inget/inga*로: *Det finns inget kaffe kvar.* |
+| `A2` | **Presenter räknas inte. – Jo, visst gör de det.** | 선물은 안 쳐. — 아니, 당연히 쳐. | 부정문에 반박할 때는 *ja*가 아니라 **jo**. *visst gör de det* = "물론 그래" (동사 반복 대신 *göra*) |
+| `B1` | **Bokstäverna hoppar runt när jag försöker läsa.** | 읽으려고 하면 글자들이 이리저리 뛰어다녀. | *hoppa runt* = 여기저기 뛰어다니다. *försöka* + 원형 (*att* 없이도 자주 쓴다) |
+| `B1` | **Du får säga stopp när du vill.** | 그만하고 싶으면 언제든 말해. | *få* = ~해도 된다(허락). *säga stopp* = 그만하라고 하다. 배려하며 질문을 시작할 때 좋은 문장 |
+| `B1` | **Det var ingen lögn. Bara inte hela sanningen.** | 거짓말은 아니었어. 다 말 안 했을 뿐이지. | *ingen lögn* — *en lögn*의 부정은 *inte en lögn*보다 *ingen lögn*이 자연스럽다 |
+| `B2` | **Jag har ägnat hela mitt liv åt att dölja något som egentligen inte är mitt fel.** | 난 평생을, 사실 내 잘못도 아닌 걸 숨기는 데 써 왔어. | *ägna något åt att* + 동사 = ~하는 데 (시간·삶을) 바치다. 관계절 안의 부정어 위치 *som egentligen inte är* |
+| `B2` | **En berättelse är en berättelse, oavsett om den kommer in genom ögonen eller genom öronen.** | 눈으로 들어오든 귀로 들어오든 이야기는 이야기야. | *oavsett om … eller …* = ~이든 ~이든 상관없이. 종속절이라 *om den kommer*의 어순 |
+
+## 문화 메모
+- **스웨덴의 난독증(dyslexi)** — 스웨덴에서는 인구의 약 5~8%가 난독증이 있는 것으로 추정되며, 더 넓게는 *läs- och skrivsvårigheter*(읽기·쓰기 어려움)라는 말을 쓴다. 진단은 주로 언어치료사 *logoped*가 하고, 학교에서는 시험 시간 연장·음성 지원 같은 *anpassningar*(맞춤 지원)를 받을 수 있다. 하지만 오스카르처럼 1990~2000년대 지방 학교에서 진단 없이 "게으르다"는 말만 듣고 자란 성인도 적지 않다.
+- **talböcker와 Legimus** — 읽기에 어려움이 있는 사람은 공공 도서관을 통해 국가 기관 MTM(*Myndigheten för tillgängliga medier*)의 *Legimus* 서비스에서 녹음 도서 *talböcker*를 무료로 빌릴 수 있다. 일반 상업 오디오북 *ljudböcker*도 스웨덴에서는 구독 앱으로 매우 대중적이어서, 출퇴근길 지하철에서 이어폰으로 소설을 "읽는" 사람이 흔하다.
+- **『Ronja Rövardotter』** — 아스트리드 린드그렌이 1981년에 펴낸 마지막 장편 동화. 천둥 치는 밤에 태어난 산적 두목의 딸 로냐와 적대 산적단의 아들 비르크의 이야기로, 1984년 타게 다니엘손 감독이 영화로 만들었다. 스웨덴 아이들 상당수가 첫 문장을 외울 만큼 유명한 책이다.
+- **12월의 스톡홀름** — 동지(12월 21일 무렵) 즈음 스톡홀름의 해는 오전 8시 40분쯤 떠서 오후 3시 전에 진다. 그래서 "오후 세 시인데 밖이 캄캄한" 작업장 풍경이 이상하지 않다.
+
+## 다음 화 예고 — 5화 *Julklappar* (크리스마스 선물)
+12월 21일 일요일. 드로트닝가탄의 인파 속, 린네아는 언니 이다를 끌고 "글자 없는 선물"을 찾아 헤맨다. 같은 시각 롱홀멘에선 아메드가 "walla, 여자는 보석이야"를 외치고, 오스카르는 묵묵히 참나무 조각을 깎는다. 서로에게 건네는 두 개의 꾸러미 — 그리고 오스카르가 끝내 꺼내는 말. *Jag åker hem till Härnösand i morgon.*
