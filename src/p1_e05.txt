@@ -1,0 +1,155 @@
+@title 1부 5화 — Varvet på Långholmen
+@subtitle (롱홀멘의 조선소)
+@meta 날짜|10월 11일 토요일 오전 10시 ~ 오후
+@meta 장소|롱홀멘(Långholmen) 목선 조선소 — 마당과 커피 주전자 → Svalan이 받침대 위에 서 있는 창고(skjul) → 대패 작업대(hyvelbänk) → 조선소 대문(grind)
+@meta 등장인물|**Oskar** (오스카르, 31) · **Linnea** (린네아, 28) · **Ahmed** (아메드, 32, 오스카르의 동료)
+@intro **지난 이야기** — 일요일 오후, 간판도 잘 안 보이는 카페 Kafé Ugglan에서 두 사람의 첫 피카가 열렸다. 커피값은 반반, 대신 "다음번엔 린네아가 산다". 오스카르는 회르뇌산드와 여든넷의 할머니 이야기를 했지만, 부모님 이야기엔 "얘기가 길어요. 다음에."라며 입을 닫았다. 린네아는 *정*과 *미운 정*을, 오스카르는 작업장의 *lagom*을 건넸다. 해 질 녘 모세바케 광장 난간에서 오스카르가 롱홀멘 창고에 세워 둔 썩은 목선 Svalan 이야기를 꺼내자, 린네아가 그를 똑바로 보며 말했다. "그 배 보여 줘요."
+@intro 일주일 뒤 토요일 아침, 롱홀멘. 9월 말에 뭍으로 올린 고객의 배 Elvira가 마당 한쪽에 서 있고, 커피 주전자에선 김이 오른다. 조선소는 평소와 다르게 이상할 만큼 깨끗하다. 열 시 정각, 낡은 회색 스웨터를 입고 빵집 종이봉투를 든 린네아가 대문 앞에 선다. 둘은 아직도 서로의 전화번호를 모른다.
+# 장면 1 — 조선소 마당, 토요일 오전 열 시
+Ahmed|A2|Bror, du har städat. Du städar aldrig.|형제, 너 청소했네. 너 청소 절대 안 하잖아.
+Oskar|A1|Jo. Ibland.|해. 가끔.
+Ahmed|B2|Walla, du har till och med sopat under hyvelbänken. Om jag inte kände dig skulle jag tro att du väntade besök av kungen.|진짜, 대패 작업대 밑까지 쓸었네. 너를 몰랐으면 국왕이라도 오는 줄 알겠다.
+Oskar|A2|Hon kommer klockan tio.|그 사람 열 시에 와.
+Ahmed|A2|Jag vet, len. Du har sagt det fyra gånger i dag.|알아, 야. 오늘만 네 번 말했어.
+Oskar|A1|Tre.|세 번.
+Ahmed|B2|Okej, tre. Men om man räknar alla gånger du har tittat på klockan sedan du kom hit i morse, kommer vi upp i typ hundra.|그래, 세 번. 근데 아침에 와서부터 네가 시계 본 횟수까지 치면 한 백 번은 될걸.
+Oskar|A2|Har du satt på kaffe?|커피는 올려놨어?
+Ahmed|A1|Aa. Klart.|어. 당연하지.
+Linnea|A1|Hallå? Är det här?|(대문 앞에서, 낡은 회색 스웨터 차림으로) 저기요? 여기 맞아요?
+Ahmed|A2|Ja, ja, ja! Välkommen! Du måste vara Linnea!|네네네! 어서 와요! 린네아죠!
+Linnea|A2|Ja, det är jag. Och du måste vara Ahmed.|네, 저예요. 그럼 아메드시겠네요.
+Ahmed|B1|Har han pratat om mig? Walla, det är första gången han säger något snällt om mig.|얘가 제 얘기 했어요? 진짜, 저한테 좋은 말 해 준 건 처음이네.
+Linnea|B1|Han sa att jag kommer att gilla dig. Och sedan sa han ”tyvärr”.|제가 아메드를 좋아하게 될 거래요. 그러고는 "유감스럽게도"라고 덧붙였고요.
+Ahmed|A1|Tyvärr?!|유감스럽게도?!
+Oskar|A1|Hej.|(뒤에서 다가오며) 안녕하세요.
+Linnea|A1|Hej, Oskar.|안녕하세요, 오스카르.
+Ahmed|B1|Kolla på honom. ”Hej.” Ett helt ord! Det betyder att han är på väldigt bra humör.|저것 좀 봐요. "안녕하세요." 한 단어나 했어! 기분이 엄청 좋다는 뜻이에요.
+Oskar|A1|Ahmed. Kaffe.|아메드. 커피.
+Ahmed|A2|Ja, ja, jag går. Mjölk? Socker?|알았어, 알았어, 간다. (린네아에게) 우유? 설탕?
+Linnea|B1|Gärna lite mjölk, tack. Förresten har jag tagit med fika. Jag lovade ju att bjuda nästa gång.|우유 조금 주세요. (오스카르에게 종이봉투를 내밀며) 그리고 피카 거리 가져왔어요. 다음번엔 제가 산다고 약속했잖아요.
+Oskar|A1|Det räknas inte.|그건 안 쳐요.
+Linnea|A1|Jo, det gör det.|쳐요, 쳐.
+Ahmed|A2|Vad är det i påsen? Kanelbullar?|(커피잔 세 개를 들고 돌아오며) 봉투에 뭐 있어요? 시나몬롤?
+Linnea|B1|Nej, jag tror att Oskar har ätit så många kanelbullar att det räcker ett tag. Det är wienerbröd.|아뇨, 오스카르는 시나몬롤을 당분간 충분할 만큼 먹은 것 같아서요. 데니시 페이스트리예요.
+Ahmed|B2|Wienerbröd! Bror, hade jag vetat att hon var så här, hade jag hjälpt dig att städa.|데니시! 형제, 이런 사람인 줄 알았으면 나도 같이 청소했지.
+Oskar|A1|Ahmed.|(낮게) 아메드.
+Ahmed|B1|Vadå? Jag säger bara som det är. Men hur visste du ens att hon skulle komma? Ni har ju inte varandras nummer.|뭐? 그냥 있는 그대로 말하는 건데. 근데 이 사람 올 줄은 어떻게 알았어? 너희 서로 번호도 없잖아.
+Linnea|B2|Lördag klockan tio räckte. Ärligt talat är det ganska skönt att bestämma något och sedan bara lita på att den andra dyker upp.|토요일 열 시면 충분했어요. 솔직히 약속 하나 정해 놓고, 상대가 나타날 거라고 그냥 믿는 거, 꽤 좋던데요.
+Ahmed|B2|Gammaldags, walla. Det låter som en svartvit film, där folk skriver brev och väntar under klockan på torget.|옛날식이네요, 진짜. 사람들이 편지 쓰고 광장 시계 밑에서 기다리는 흑백 영화 같아요.
+# 장면 2 — 창고 안의 Svalan
+Oskar|A2|Kom. Hon står här inne.|와요. 이 안에 있어요.
+Linnea|B1|Oj. Hon är mycket större än jag hade föreställt mig.|(창고 문이 열리고, 받침대 위에 선 선체가 드러난다) 와. 생각했던 것보다 훨씬 크네요.
+Oskar|A2|Sju meter. Det är inte så stort.|7미터예요. 그렇게 크진 않아요.
+Linnea|B1|Den ser i alla fall stor ut när den står på land, eftersom man ser hela undersidan.|그래도 땅 위에 있으니까 커 보여요. 밑바닥까지 다 보이니까.
+Oskar|A1|Hon.|(바로잡으며) '그녀'요.
+Linnea|A2|Förlåt. Hon ser stor ut.|미안해요. 그녀가 커 보여요.
+Ahmed|B1|Han blir sur om man kallar henne ”den”. Jag gjorde det en gång, och han pratade inte med mig på en vecka.|배를 'den'이라고 부르면 삐쳐요. 제가 한 번 그랬다가, 일주일 동안 저랑 말을 안 했어요.
+Oskar|A1|Han ljuger.|거짓말이에요.
+Ahmed|A2|Okej, fem dagar då.|그래, 그럼 닷새.
+Linnea|A1|Vad är det?|(선체 옆면에 줄지어 박힌 작은 구릿빛 점들을 가리키며) 이건 뭐예요?
+Oskar|B1|Kopparnitar. Plankorna överlappar varandra, och nitarna håller ihop dem. Det kallas klinkbyggt.|구리 리벳이요. 판자들이 서로 겹쳐 있고, 리벳이 그걸 붙잡아 줘요. 클링커 방식이라고 해요.
+Linnea|A2|Hur många nitar finns det?|리벳이 몇 개나 있어요?
+Oskar|A2|Över tusen. Jag har inte räknat.|천 개 넘어요. 세어 보진 않았어요.
+Ahmed|A2|Jo, det har han. Tolvhundrafyrtio.|세어 봤어요. 천이백사십 개.
+Oskar|A1|Ungefär.|대충요.
+Linnea|A1|Hur gammal är hon?|몇 살이에요?
+Oskar|B2|Båten är från 1934. Hon byggdes vid Höga kusten av en man som sägs ha byggt båtar hela sitt liv utan en enda ritning.|이 배는 1934년에 만들어졌어요. 회가쿠스텐에서, 평생 도면 한 장 없이 배를 만들었다는 사람이 지었대요.
+Linnea|A2|Då är hon äldre än alla jag känner. Till och med Maggan.|그럼 제가 아는 누구보다 나이가 많네요. 마간보다도요.
+Ahmed|B1|Säg inte det till henne. Oskar säger att hon är farlig, och han är inte rädd för någonting.|그 말은 그분한테 하지 마요. 오스카르가 그러는데 무서운 분이래요. 얘는 무서운 게 하나도 없는 앤데.
+Linnea|B2|Farlig är kanske inte rätt ord. Hon är snarare den sortens människa som vet vad man tänker innan man själv har hunnit tänka det.|'무섭다'는 딱 맞는 단어는 아닐 거예요. 오히려 내가 생각하기도 전에 내가 뭘 생각하는지 먼저 아는 그런 분이죠.
+Oskar|A1|Farlig.|(작게) 무서워요.
+Linnea|A2|Hur fick du tag på henne?|(웃음을 터뜨리고, 선체를 쓰다듬으며) 이 배는 어떻게 구했어요?
+Oskar|A2|Vi köpte henne för en krona.|우리가 1크로나에 샀어요.
+Linnea|A1|En krona?|1크로나요?
+Oskar|B2|Ingen annan ville ha henne. Hon hade legat på land i tjugo år, och ägaren verkade mest lättad över att någon var dum nog att ta hand om henne.|아무도 원하지 않았거든요. 20년 동안 뭍에 방치돼 있었고, 주인은 누가 그걸 떠맡을 만큼 어리석다는 데 그저 안도하는 눈치였어요.
+Linnea|A2|”Vi”? Du och Ahmed?|"우리"요? 오스카르랑 아메드요?
+Ahmed|A2|Nä, nä, inte jag. Jag var inte med.|(오스카르를 힐끗 보고, 가볍게) 아뇨, 아뇨, 전 아니에요. 전 그때 없었어요.
+Oskar|A2|Det är en lång historia.|(선체에 손을 얹은 채) 얘기가 길어요.
+Linnea|B1|Den har jag hört förut. Okej, jag lägger den på högen med ”en annan gång”.|그 말 전에도 들었어요. 좋아요, '다음에' 더미에 하나 더 얹어 둘게요.
+Oskar|A1|Tack.|고마워요.
+Linnea|A2|Så vad är det för fel på henne?|그래서, 이 배는 어디가 문제예요?
+Oskar|B1|Rötan har gått in i två bordgångar nära kölen, och i några av spanten. Här, känn.|용골 근처 판자 두 줄에 썩음이 번졌어요. 늑골 몇 개에도요. 여기, 만져 봐요.
+Linnea|A1|Det är mjukt!|(손가락으로 눌러 보고) 물렁해요!
+Oskar|B2|Friskt virke ska vara hårt och ringa när man knackar på det. Ruttet trä låter dovt, nästan som om det redan hade gett upp.|성한 목재는 단단하고, 두드리면 맑게 울려야 해요. 썩은 나무는 둔탁한 소리가 나요. 꼭 이미 포기해 버린 것처럼.
+Linnea|B1|Kan man inte bara laga hålet och strunta i resten? Det verkar vara en enorm mängd jobb.|그냥 구멍만 메우고 나머지는 신경 안 쓰면 안 돼요? 일이 어마어마하게 많아 보이는데.
+Oskar|B1|Nej. Man måste byta ut det ruttna virket först. Annars sprider sig rötan till det friska.|안 돼요. 썩은 목재를 먼저 갈아 내야 해요. 안 그러면 썩음이 성한 데까지 번져요.
+Ahmed|B1|Det finns folk som lagar sånt med glasfiber på en eftermiddag. Säg det till honom, bara. Se vad som händer.|이런 걸 유리섬유로 오후 한나절이면 고치는 사람들도 있어요. 얘한테 그 말 한번 해 봐요. 어떻게 되나.
+Linnea|B1|Varför gör du inte det, om det går så mycket snabbare?|그게 훨씬 빠르면 왜 그렇게 안 해요?
+Oskar|B2|För att då vore hon inte Svalan längre. Det handlar om att respektera hur båten en gång byggdes.|그러면 더 이상 스발란이 아닐 테니까요. 이 배가 처음에 어떻게 만들어졌는지를 존중하는 문제예요.
+Linnea|B2|Det är nästan exakt det jag försöker göra när jag översätter. Man får inte skriva om en bok till något som den aldrig var, bara för att det går fortare.|그거 제가 번역할 때 하려는 거랑 거의 똑같아요. 더 빠르다는 이유로 책을 원래 아니었던 무언가로 고쳐 쓰면 안 되거든요.
+Oskar|B1|Då gör vi samma jobb. Fast mitt luktar tjära.|그럼 우리 같은 일 하네요. 제 쪽은 타르 냄새가 날 뿐이고.
+Linnea|A2|Vad är det som luktar, förresten?|(코를 킁킁거리며) 근데 이거 무슨 냄새예요?
+Oskar|B2|Trätjära, kokt linolja och balsamterpentin, ungefär lika delar. Man stryker på det varje vår, så att träet inte suger åt sig vatten.|나무 타르, 끓인 아마인유, 테레빈유를 대충 같은 비율로 섞은 거예요. 나무가 물을 빨아들이지 않게 봄마다 발라요.
+Ahmed|B1|Han luktar så hela året. Leila säger att hon känner igen honom med slutna ögon innan han ens har kommit in genom dörren.|얘 일 년 내내 그 냄새 나요. 레일라 말로는 얘가 문으로 들어오기도 전에 눈 감고도 알아본대요.
+Linnea|A1|Jag gillar det.|전 좋은데요.
+# 장면 3 — 대패 작업대
+Oskar|A2|Vill du prova?|(잠깐 말이 없다가) 해 볼래요?
+Linnea|A1|Vad då?|뭘요?
+Oskar|B1|Att hyvla. Det här är en bit spillvirke, så det gör inget om det går fel.|대패질이요. 이건 자투리 나무라서 잘못돼도 괜찮아요.
+Linnea|A2|Okej. Hur ska jag hålla den?|좋아요. 이건 어떻게 잡아요?
+Oskar|A1|Två händer. Så.|두 손으로요. 이렇게.
+Ahmed|B1|Nu blir det roligt. Jag hämtar telefonen, för det här måste Leila få se.|이제 재밌어지겠네. 폰 가져올게요. 이건 레일라가 꼭 봐야 돼.
+Oskar|A1|Nej.|안 돼.
+Linnea|B1|Ahmed, om du filmar det här kommer jag aldrig att förlåta dig.|아메드, 이거 찍으면 평생 용서 안 할 거예요.
+Ahmed|A1|Okej, okej.|알았어요, 알았어요.
+Oskar|A2|Stå bredare. Böj knäna lite.|다리 좀 더 벌리고 서요. 무릎 살짝 굽히고.
+Linnea|A1|Så här?|이렇게요?
+Oskar|A2|Ja. Skjut nu. Lugnt.|네. 이제 밀어요. 천천히.
+Linnea|A1|Den fastnar!|(대패가 덜컥 걸린다) 걸렸어요!
+Oskar|B1|Du hyvlar mot fibrerna. Vänd på biten och följ fibrernas riktning, så går det lättare.|결 반대로 밀어서 그래요. 나무를 돌려서 결 방향을 따라가요. 그럼 쉬워요.
+Linnea|A2|Fibrerna? Jag ser inga fibrer.|결이요? 아무것도 안 보이는데요.
+Oskar|B1|Titta på linjerna i träet. Om du stryker med handen åt fel håll känns det strävt, ungefär som när man klappar en katt bakåt.|나무에 있는 선들을 봐요. 손으로 반대 방향으로 쓸면 까끌까끌해요. 고양이를 거꾸로 쓰다듬을 때처럼.
+Ahmed|B2|Han har ingen katt. Om han hade haft en, hade katten fått sova i båten och han själv på golvet.|얘 고양이 없어요. 있었으면 고양이는 배에서 재우고 자기는 바닥에서 잤을걸요.
+Linnea|A1|Okej. Nu.|(나무를 돌려 놓고 숨을 들이쉰다) 좋아요. 이번엔.
+Oskar|A1|Bra!|좋아요!
+Linnea|A1|Titta! Hyvelspån!|(돌돌 말려 나온 얇은 대팻밥을 들어 올리며) 봐요! 대팻밥!
+Oskar|B2|Den är jämn hela vägen. Det är inte många som lyckas med det första gången, inte ens de som har hållit i en hyvel förut.|처음부터 끝까지 고르네요. 처음에 이렇게 해내는 사람 별로 없어요. 대패 잡아 본 사람들조차도요.
+Linnea|B2|Säger du det bara för att vara snäll, eller är det sant? Jag hör direkt när någon översätter artigt i stället för ärligt.|그냥 친절하려고 하는 말이에요, 아니면 진짜예요? 누가 솔직하게 말하는 대신 예의 바르게 '번역'하면 저 바로 알아들어요.
+Oskar|A2|Jag är inte så snäll. Fråga Ahmed.|저 그렇게 친절하지 않아요. 아메드한테 물어봐요.
+Ahmed|B1|Det stämmer. Förra månaden fick vår lärling sopa golvet i två veckor, bara för att han hade lagt ner en hyvel på fel sätt.|맞아요. 지난달에 우리 견습생은 대패를 잘못 내려놨다고 2주 동안 바닥만 쓸었어요.
+Linnea|B2|Precis som du och den gamla båtbyggaren i Härnösand! Det verkar som om ingen får bli båtbyggare utan att först ha sopat ett halvt varv.|오스카르랑 회르뇌산드의 그 늙은 배 목수 얘기랑 똑같네요! 조선소 반쯤은 쓸어 봐야 배 목수가 될 수 있나 봐요.
+# 장면 4 — 커피 주전자 옆, 그리고 대문
+Oskar|A2|Jag hämtar mer kaffe. Ahmed, rör ingenting.|커피 더 가져올게요. 아메드, 아무것도 건드리지 마.
+Ahmed|A2|Jag rör aldrig nåt.|나 원래 아무것도 안 건드려. (오스카르가 나가자마자 린네아 쪽으로 의자를 끌어온다)
+Linnea|B1|Är han alltid så här tyst, eller är det bara när jag är här?|이 사람 항상 이렇게 조용해요, 아니면 제가 있을 때만 그래요?
+Ahmed|A2|Tyst? Han är inte tyst. Han är glad. Så här glad har jag aldrig sett honom.|조용하다고요? 조용한 게 아니에요. 기분 좋은 거예요. 이렇게 기분 좋은 거 처음 봐요.
+Linnea|A1|Glad? Det här är glad?|기분 좋은 거요? 이게요?
+Ahmed|B2|Du måste lära dig att läsa honom. Om han säger ”jo” på ett visst sätt betyder det att han är överlycklig, fast ansiktet ser ut som om han väntade på bussen.|이 사람 읽는 법을 배워야 해요. "Jo"를 어떤 식으로 말하면 엄청 행복하다는 뜻이에요. 얼굴은 버스 기다리는 사람 같아도요.
+Linnea|B1|I dag har han sagt ”jo” fler gånger än jag kan räkna.|오늘 "jo"를 셀 수 없을 만큼 많이 했는데요.
+Ahmed|B1|Lyssna. Jag har jobbat med honom i nästan tio år, och jag ska säga dig en sak.|들어 봐요. 저 얘랑 거의 10년 같이 일했는데, 하나 말해 줄게요.
+Linnea|A1|Vad?|뭔데요?
+Ahmed|A2|Han har aldrig visat båten för nån tjej förut.|얘가 여자한테 이 배 보여 준 적 한 번도 없어요.
+Linnea|A2|Aldrig? Inte en enda?|한 번도요? 한 명도요?
+Ahmed|B1|Inte en enda. Folk har frågat, alltså. Men han brukar säga att man inte visar upp något som inte är färdigt.|단 한 명도요. 물어본 사람이야 있었죠. 근데 얘는 늘 끝나지 않은 건 남한테 보여 주는 게 아니라고 해요.
+Linnea|B2|Men hon är ju långt ifrån färdig. Om han bara visade upp sådant som var färdigt, skulle jag ha fått vänta i flera år.|근데 저 배는 완성이랑 거리가 한참 멀잖아요. 완성된 것만 보여 주는 거라면, 저는 몇 년은 기다려야 했을 텐데요.
+Ahmed|B2|Exakt, det är därför jag säger det. Han har gjort ett undantag, och Oskar gör aldrig undantag, inte ens när det gäller vad han äter till lunch.|바로 그거예요, 그래서 하는 말이에요. 예외를 둔 거죠. 오스카르는 절대 예외 안 둬요, 점심에 뭘 먹을지조차도요.
+Oskar|A2|Vad pratar ni om?|(커피 주전자를 들고 돌아와) 무슨 얘기 해?
+Ahmed|B1|Ingenting! Vi pratade om vad vi ska äta till lunch.|아무것도! 점심 뭐 먹을지 얘기하고 있었어.
+Linnea|B1|Jag borde nog gå nu. Jag har lovat förlaget tjugo sidor till måndag.|저 이제 가 봐야 할 것 같아요. 출판사에 월요일까지 스무 쪽 약속했거든요.
+Oskar|B1|Jag följer dig till grinden, så att du inte går vilse bland båtarna.|배들 사이에서 길 잃지 않게 대문까지 바래다줄게요. (뒤에서 아메드가 린네아에게 엄지를 치켜든다)
+Linnea|B2|Tack för i dag. Jag letar efter rätt ord, men jag tror faktiskt att det är första gången som lukten av tjära har gjort mig glad.|(대문 앞에서) 오늘 고마웠어요. 맞는 단어를 찾고 있는데… 타르 냄새 때문에 기분이 좋아진 건 진짜 처음인 것 같아요.
+Oskar|A2|Linnea… Får jag ditt nummer?|(돌아서려는 그녀를 부르며) 린네아… 번호 물어봐도 돼요?
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vad är det?** | 이건 뭐예요? | 모르는 물건을 가리킬 때 쓰는 가장 기본 질문. *det*는 "그것/이것"을 가리키는 비인칭 대명사 |
+| `A1` | **Så här?** | 이렇게요? | 따라 하면서 확인할 때. *så här* = 이렇게, *så där* = 저렇게 |
+| `A2` | **Båten är från 1934.** | 이 배는 1934년에 만들어졌어요. | *vara från + 연도* = ~년산이다. 연도는 보통 *nittonhundratrettiofyra*로 읽는다 |
+| `A2` | **Stå bredare. Böj knäna lite.** | 다리 좀 더 벌리고 서요. 무릎 살짝 굽히고. | 명령형 = 동사 원형에서 *-a*를 뗀 형태 (*stå*, *böj*). *bredare*는 *bred*의 비교급 |
+| `A2` | **Får jag ditt nummer?** | 번호 받아도 돼요? | *Får jag…?* = ~해도 될까요? 허락을 구하는 공손한 질문. *ditt* (*ett nummer*이므로 중성형) |
+| `B1` | **Man måste byta ut det ruttna virket först.** | 썩은 목재를 먼저 갈아 내야 해요. | *byta ut* = 교체하다. 한정형 형용사 *det ruttna virket* (*ett virke* → *det + 형용사-a + 명사-et*) |
+| `B1` | **Du hyvlar mot fibrerna.** | 결 반대로 대패질하고 있어요. | *mot* = ~에 거슬러, ~을 향해. 반대말은 *med fibrerna* (결 따라) |
+| `B2` | **Det handlar om att respektera hur båten en gång byggdes.** | 이 배가 처음에 어떻게 만들어졌는지를 존중하는 문제예요. | *det handlar om att…* = ~하는 것이 핵심이다. *byggdes* = 수동 과거 (*-s* 수동태). *en gång* = 한때, 일찍이 |
+| `B2` | **…nästan som om det redan hade gett upp.** | 꼭 이미 포기해 버린 것처럼. | *som om* + 과거완료 = 마치 ~했던 것처럼. *ge upp* (포기하다)의 완료형 *har/hade gett upp* |
+| `B2` | **Hade jag vetat att hon var så här, hade jag hjälpt dig att städa.** | 이런 사람인 줄 알았으면 나도 같이 청소했지. | *om*을 생략하고 동사를 앞으로 보낸 가정법 도치 (*Hade jag vetat…* = *Om jag hade vetat…*) |
+
+## 문화 메모
+- **롱홀멘(Långholmen)** — 쇠데르말름과 쿵스홀멘 사이의 녹지 섬. 1975년까지 감옥이 있던 곳으로, 옛 감옥 건물은 지금 호텔·호스텔과 박물관이 되었다. 섬 둘레에는 작은 목선 조선소와 보트 클럽이 모여 있어, 가을이면 배들이 뭍으로 올라와 겨울잠에 든다.
+- **Klinkbyggd (클링커 방식)** — 판자를 기와처럼 조금씩 겹쳐 붙이고 구리 리벳(*kopparnitar*)으로 고정하는 북유럽 전통 조선법으로, 바이킹 배에서부터 이어져 왔다. 판자 끝을 맞대어 매끈하게 붙이는 방식은 *kravellbyggd*라고 한다. 북유럽의 클링커 조선 전통은 2021년 유네스코 인류무형문화유산에 등재되었다.
+- **배는 "hon"** — 스웨덴어에서도 배를 여성 대명사 *hon*으로 부르는 전통이 있다. 문법적으로는 *en båt → den*이 맞지만, 배를 아끼는 사람들 사이에선 *hon*이 훨씬 자연스럽다.
+- **Wienerbröd** — 우리가 "데니시 페이스트리"라 부르는 빵을 스웨덴(과 덴마크)에서는 "빈의 빵"이라 부른다. 19세기 빈 출신 제빵사들이 버터를 겹겹이 접는 반죽법을 북유럽에 전했다는 데서 온 이름이다.
+
+## 다음 화 예고 — 6화 *Elsas födelsedag* (엘사의 생일)
+『로냐』를 다 읽은 엘사가 드디어 "초록 카디건 언니"를 만나고 싶다고 조른다. 미뤄 둔 생일 나들이 날, 사라의 집 현관문이 열리자마자 쏟아지는 아홉 살의 질문 폭탄. "Vad heter du? Har du läst alla böcker i hela världen?" 넷이 함께 간 유니바켄, 아스트리드 린드그렌의 세계 속에서 엘사가 던진 한마디에 두 어른이 그대로 얼어붙는다. "Är du hans flickvän?"
