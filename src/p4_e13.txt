@@ -1,0 +1,155 @@
+@title 4부 13화 — Oskar i Seoul
+@subtitle (서울의 오스카르)
+@meta 날짜|2월 1일 월요일 오전 9시 40분 ~ 2월 14일 일요일 밤 11시 — 오스카르의 3주 가운데 네 개의 날 (2월 7일 일요일 = 설날)
+@meta 장소|서울 — 인천공항 입국장 → 공항철도(AREX) → 서울역 → 지하철 4호선·3호선, 종로 뒷골목의 작은 헌책방, 눈 덮인 북촌 → 떡국집 → 뚝섬 한강공원, 서촌 '번역가의 집' 꼭대기 층
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31) — 그 밖에 편의점 직원, 헌책방 주인(60대), 떡국집 주인(모두 대사 없음, 지문으로만)
+@intro **지난 이야기 — 4부 12화** 다섯 달, 다섯 번의 통화. 털양말 두 켤레에 싸여 서울까지 온 참나무 등불과 티라이트 열 개, 엘사의 열 번째 생일 아침, 새벽 세 시 라면 가게와 Lyktan 창가를 잇는 오스카르의 첫 "사… 랑… 해". 1월 17일, 영하 16도의 추위에 휴대폰이 꺼지자 두 사람은 반 토막 문장으로 각자 공중누각을 지었지만, 린네아가 자정 20분 전에 먼저 전화했다. "Vi lovade att aldrig låta en missförståelse ligga kvar över natten." 그리고 1월 31일 일요일, 알란다 공항에서 걸려 온 영상통화. 2월 12일이 아니라 오늘 떠난다고, 3주 동안 있겠다고. "Den gamla är för mörka dagar. Den här är för något annat."
+@intro 2월 1일 월요일 아침 9시 40분, 인천공항 입국장. 스톡홀름은 새벽 1시 40분이다. 처음으로 '외국인'이 된 오스카르와 처음으로 '안내자'가 된 린네아. 린네아의 원고 마감(『소금의 집』 앞쪽 절반, 2월 15일)은 그대로이고, 다음 주 일요일은 음력 설이다. 이번 화는 오스카르의 3주 가운데 네 개의 날이다.
+# 장면 1 — 2월 1일(월) 오전 9시 40분 · 인천공항 입국장 → 공항철도 → 서울역 → 지하철
+Oskar|A1|Hej.|(자동문이 열리고, 회색 스웨터를 입은 키 큰 남자가 걸어 나온다. 한 손엔 여행 가방, 다른 손엔 손바닥만 한 참나무 등불) 안녕.
+Linnea|A1|Hej… Du är här.|(난간 앞에서 꼼짝도 못 하고 서 있다가) 안녕… 너 여기 있네.
+Oskar|B1|Du lovade att inte gråta förrän du såg mig.|나 보기 전까진 안 운다고 약속했잖아.
+Linnea|B1|Jag har sett dig nu, så nu får jag. Det var exakt så jag formulerade det.|(그의 스웨터에 얼굴을 묻는다) 이제 봤으니까 울어도 돼. 내가 정확히 그렇게 말했거든.
+Oskar|A1|Jo.|(등불을 든 손을 그녀의 등 뒤로 조심스럽게 비켜 들고 안는다) 그래.
+Linnea|A2|Vad har du i handen? Visa!|손에 든 거 뭐야? 보여 줘!
+Oskar|A2|Inte än. Den ska tändas när det är mörkt.|아직 안 돼. 어두울 때 켜는 거야.
+Linnea|B1|Du har burit en lykta genom två flygplatser utan att säga vad den är till för?|등불 하나를 들고 공항을 두 군데나 거쳐 왔으면서 뭐에 쓰는 건지 말도 안 해 준다고?
+Oskar|A1|Den får vänta lite.|조금만 기다려.
+Linnea|B2|Du är den enda jag känner som kan göra en present spännande bara genom att vägra visa den.|선물을 안 보여 주는 것만으로 이렇게 궁금하게 만드는 사람은 내가 아는 사람 중에 너밖에 없어.
+Oskar|A2|Hur långt är det till stan?|시내까지 얼마나 걸려?
+Linnea|B1|Ungefär en timme med flygplatståget. Det heter AREX och går ända in till Seoul Station, men först behöver du ett T-money-kort.|공항철도로 한 시간쯤. AREX라고 하는데 서울역까지 바로 가. 근데 그 전에 티머니 카드부터 있어야 돼.
+Oskar|A1|Ett vad?|뭐?
+Linnea|B1|Ett kort som man laddar med pengar och blippar när man åker tåg och buss. Det finns i närbutiken där borta.|돈 충전해서 기차랑 버스 탈 때 찍는 카드. 저기 편의점에서 팔아.
+Oskar|A1|Kamsahamnida… tack!|(편의점 계산대. 젊은 직원이 충전한 카드를 건네자 오스카르가 고개를 깊이 숙인다) 감사합니다… 탁(고마워요)!
+Linnea|B1|Du bugade dessutom. Har appen lärt dig det också?|(직원이 웃으며 같이 고개를 숙인다) 게다가 인사까지 했네. 그것도 앱이 가르쳐 줬어?
+Oskar|B2|Nej, det var Elsa. Hon har tittat på koreanska tv-serier i två veckor för att lära mig, och hon påstår att den som inte bugar betraktas som oförskämd.|아니, 엘사가. 나 가르치겠다고 2주 동안 한국 드라마를 봤어. 고개 안 숙이면 무례한 사람 취급받는대.
+Linnea|A1|Hon är tio!|걔 열 살이잖아!
+Oskar|A2|Sara vet inte om det.|사라는 몰라.
+Linnea|B2|Titta ut nu. Där ute är Gula havet, fast vid lågvatten ser det mer ut som en åker av lera som någon har glömt att plöja.|(공항철도 일반열차. 창밖으로 긴 다리와 끝없는 갯벌이 지나간다) 지금 밖 좀 봐. 저기가 황해야. 근데 물이 빠지면 누가 갈다 만 진흙 밭처럼 보여.
+Oskar|B2|Tidvatten. Det har vi inte hemma – Östersjön står nästan still, och jag har aldrig sett havet dra sig undan så långt att man kan gå på botten.|(창에 이마를 대다시피 하고) 조수. 우리 동네엔 없는 거야. 발트해는 거의 가만히 있거든. 바다가 저렇게 멀리 물러나서 바닥을 걸어 다닐 수 있을 정도인 건 처음 봐.
+Linnea|A1|Hur känns det?|기분이 어때?
+Oskar|A2|Allt ser annorlunda ut här.|여긴 다 달라 보여.
+Linnea|B1|Nu är vi framme vid Seoul Station. Härifrån tar vi tunnelbanan, först linje fyra och sedan trean.|(서울역 지하, 거대한 노선도 앞) 이제 서울역이야. 여기서부터 지하철 타. 먼저 4호선, 그다음에 3호선.
+Oskar|A2|Kartan ser ut som en tallrik spagetti.|(노선도 앞에서 굳어 버린다) 지도가 스파게티 한 접시 같아.
+Linnea|B1|Följ bara färgerna: först den ljusblå, sedan den orange. Det är som ett sjökort, fast med färre grund.|색깔만 따라가. 먼저 하늘색, 그다음에 주황색. 해도랑 똑같아. 암초가 좀 적을 뿐이지.
+Oskar|B1|Sjökort kan jag läsa. Där finns det mest siffror och nästan inga bokstäver.|해도는 읽을 줄 알아. 거긴 거의 숫자뿐이고 글자는 별로 없거든.
+Linnea|B1|Allt står på engelska också, så du klarar dig även om du tappar bort mig.|전부 영어로도 적혀 있어. 그러니까 나를 잃어버려도 괜찮아.
+Oskar|A2|Varför tittar alla på mig?|(4호선 객차 안. 손잡이를 잡은 그를 사람들이 힐끔힐끔 올려다본다) 왜 다들 나를 쳐다봐?
+Linnea|B2|För att du är ett huvud längre än alla andra i vagnen och håller i en träbit som om den vore gjord av glas.|네가 이 칸에서 다른 사람들보다 머리 하나는 더 크고, 나무토막 하나를 유리로 만든 것처럼 들고 있으니까.
+# 장면 2 — 2월 3일(수) 오후 · 종로 뒷골목의 작은 헌책방
+Oskar|A2|Den här ser ut som Lyktan.|(종로 3가 뒷골목. 문을 열자 풍경이 맑게 울린다. 천장까지 쌓인 책, 석유난로, 계산대 뒤 60대 여주인) 여기 Lyktan 같다.
+Linnea|B2|Jag hittade den mitt första år som utbytesstudent, en kväll när hemlängtan var så stark att jag inte stod ut i mitt eget rum.|교환학생 첫해에 찾은 데야. 집이 너무 그리워서 내 방에 있을 수가 없던 어느 날 저녁에.
+Oskar|B2|Klockan över dörren låter ljusare än vår. Metallen är tunnare, och den hänger så att minsta drag får den att sjunga.|(문 위를 올려다본다) 문 위의 종이 우리 거보다 소리가 맑네. 쇠가 더 얇고, 바람이 조금만 불어도 울리게 매달아 놨어.
+Linnea|B1|Det är ett vindspel, ingen ringklocka. Men det gör samma jobb.|그건 종이 아니라 풍경이야. 그래도 하는 일은 똑같아.
+Oskar|B2|Jag vill fråga själv. Jag har övat hela morgonen i duschen, och det tänker jag inte låta gå till spillo.|내가 직접 물어볼래. 아침 내내 샤워하면서 연습했는데, 그걸 헛수고로 만들 순 없지.
+Linnea|A1|Okej. Kör!|좋아. 해 봐!
+Oskar|A1|Sillyehamnida…|(계산대 앞으로 가서, 한 음절씩) 실례합니다…
+Linnea|A2|Bra! Fortsätt. Hon tittar på dig.|(책장 뒤에서 속삭인다) 잘했어! 계속해. 너 쳐다보고 계셔.
+Oskar|A1|Yeogiseo… ilhaseyo?|여기서… 일하세요? (주인이 눈을 동그랗게 뜨더니 웃음을 터뜨린다)
+Linnea|B1|Hon säger att hon har jobbat här i trettio år, och att du är den förste som har frågat om det.|(웃음을 참으며) 여기서 30년 일하셨는데, 그걸 물어본 사람은 네가 처음이래.
+Oskar|B2|Säg att jag inte kan läsa skylten. Inte på svenska heller, om sanningen ska fram.|간판을 못 읽어서 그렇다고 전해 줘. 사실대로 말하자면 스웨덴어 간판도 잘 못 읽는다고.
+Linnea|B1|Är du säker på att du vill att jag ska säga det?|정말 그 말까지 하라고?
+Oskar|A1|Ja. Det är okej.|응. 괜찮아.
+Linnea|B2|Hon säger att det var hennes pappa som öppnade butiken, och att han aldrig lärde sig läsa ordentligt. Han sålde böcker på känn.|(주인의 긴 대답을 듣고 나서) 이 가게는 아버님이 여셨는데, 그분은 끝내 글을 제대로 못 배우셨대. 책을 감으로 파셨대.
+Oskar|A1|Då är vi två.|그럼 우리 둘이네.
+Linnea|A2|Vad letar du efter?|뭐 찾는 거 있어?
+Oskar|A2|Saltets hus. På koreanska.|『소금의 집』. 한국어로.
+Linnea|B1|Du kan inte läsa den. Den har tolvhundra sidor, och inte en enda av dem är på svenska.|그거 못 읽잖아. 1,200쪽인데 스웨덴어로 된 쪽은 한 장도 없어.
+Oskar|B1|Jag vet. Jag vill ha den i bokhyllan ändå, bredvid Ronja.|알아. 그래도 책꽂이에 꽂아 두고 싶어. 『로냐』 옆에.
+Linnea|B1|Den finns i två band, eftersom den är för tjock för att få plats i ett.|(주인이 안쪽 서가에서 두 권짜리 책을 꺼내 온다) 두 권으로 돼 있어.
+Oskar|A1|Två? Bra.|두 권? 좋네.
+Linnea|B2|Hon undrar varför en svensk som inte kan koreanska vill köpa en roman på tolvhundra sidor, och jag vet faktiskt inte vad jag ska svara.|한국어도 모르는 스웨덴 사람이 왜 1,200쪽짜리 소설을 사려는지 궁금하시대. 나도 솔직히 뭐라고 대답해야 할지 모르겠어.
+Oskar|B1|Säg att min flickvän har bott i den boken sedan i september. Jag vill veta hur den känns i handen.|내 여자 친구가 9월부터 그 책 속에서 살고 있다고 해. 손에 쥐면 어떤 느낌인지 알고 싶다고.
+Linnea|A1|Oskar…|오스카르…
+Oskar|A2|Säg det. Ordagrant.|전해 줘. 한 글자도 빼지 말고.
+Linnea|B2|Hon kommer ihåg mig. Det var här jag hittade rävboken till Elsa i höstas, och nu vill hon veta om du är snickaren som jag pratade om.|(주인이 린네아를 한참 보더니 손뼉을 친다) 나를 기억하셔. 작년 가을에 엘사 줄 여우 책을 찾은 데가 여기였거든. 그때 내가 얘기한 그 목수가 너냐고 물으셔.
+Oskar|A1|Båtbyggare.|배 목수.
+Linnea|B1|Jag sa båtbyggare. Hon har gjort dig till snickare ändå.|배 목수라고 했어. 그런데도 그냥 목수로 만들어 버리셨네.
+Oskar|A2|Nu ger hon mig en mandarin. Varför?|(주인이 계산을 마친 책 두 권 위에 귤 하나를 얹어 그의 손에 쥐여 준다) 이번엔 귤을 주시네. 왜?
+Linnea|B2|För att du köpte en bok som du inte kan läsa, för att det är kallt ute, och för att man inte låter någon gå tomhänt härifrån. Det finns ett ord för det.|네가 읽지도 못하는 책을 샀으니까. 밖이 추우니까. 그리고 여기선 누구도 빈손으로 보내지 않으니까. 그걸 가리키는 말이 있어.
+Oskar|A1|Jeong?|정?
+Linnea|A2|Kanske. Vad tror du?|아마도. 넌 어떻게 생각해?
+Oskar|B1|Jag vet inte än. Men jag tror att jag precis fick en mandarin av det.|아직 모르겠어. 근데 방금 그걸로 귤 하나를 받은 것 같아.
+Linnea|A1|Säg tack nu.|이제 고맙다고 해.
+Oskar|A1|Kamsahamnida!|(귤을 두 손으로 받쳐 들고 아까보다 더 깊이 고개를 숙인다) 감사합니다!
+# 장면 3 — 2월 7일(일) 설날 · 눈 덮인 북촌 → 떡국집 → 뚝섬 한강공원
+Linnea|B2|Det har snöat hela natten. Titta på taken – det är som om någon har lagt ett vitt täcke över hela stadsdelen medan vi sov.|(아침, 북촌 한옥 골목. 밤새 내린 눈이 기와지붕마다 하얗게 쌓였다) 밤새 눈 왔어. 지붕 좀 봐. 우리가 자는 동안 누가 동네 전체에 하얀 이불을 덮어 놓은 것 같아.
+Oskar|B2|Taken svänger uppåt i ändarna, precis som stäven på en gammal allmogebåt. Och jag ser inte en enda spik i hela takstolen.|(처마 밑에 멈춰 서서 고개를 젖힌다) 지붕 끝이 위로 휘어 올라가네. 옛날 나무배 이물처럼. 그리고 지붕 틀 전체에 못이 하나도 안 보여.
+Linnea|B2|Hanok byggs med träfogar som låser varandra, utan en enda spik. Jag visste att du skulle fråga om det innan du ens hade lagt märke till snön.|한옥은 나무끼리 서로 물리게 짜 맞춰서, 못 하나 없이 지어. 네가 눈이 온 것도 알아채기 전에 그것부터 물어볼 줄 알았어.
+Oskar|A2|Det är snyggt gjort.|잘 만들었다.
+Linnea|B1|Och i dag är det Seollal, koreanskt nyår. Därför är det så tyst – nästan alla har åkt hem till sina familjer.|그리고 오늘은 설날이야. 한국의 새해. 그래서 이렇게 조용한 거야. 다들 가족한테 내려갔거든.
+Oskar|A2|Vad säger man i dag?|오늘은 뭐라고 인사해?
+Linnea|A2|Saehae bok mani badeuseyo. Ungefär ”ta emot mycket lycka i det nya året”.|새해 복 많이 받으세요. 대충 "새해에 행운을 많이 받으세요"라는 뜻이야.
+Oskar|A1|Saehae… bok…|새해… 복…
+Linnea|A1|Mani badeuseyo.|많이 받으세요.
+Oskar|A2|Det är för långt. Jag säger tack i stället.|너무 길어. 그냥 고맙다고 할래.
+Linnea|B1|Kom, vi går och äter. Det enda stället som har öppet här i dag serverar tteokguk.|가자, 밥 먹으러. 오늘 이 동네에서 문 연 데가 딱 한 군데인데, 떡국을 팔아.
+Oskar|B1|Soppan som gör en ett år äldre. Du berättade om den för Maggan på fettisdagen.|한 살 더 먹게 해 주는 국. 셈라의 날에 네가 마간한테 얘기했잖아.
+Linnea|B2|Kommer du ihåg det? Du åt din semla i tre tuggor och såg ut som om du inte hörde ett ord av vad vi sa.|그걸 기억해? 너 셈라를 세 입에 먹어 치우면서 우리 얘기는 한마디도 안 듣는 것 같았는데.
+Oskar|A2|Jag hör allt. Jag säger bara inget.|난 다 들어. 말을 안 할 뿐이지.
+Linnea|A1|Varsågod. Ät!|(작은 떡국집. 김이 오르는 그릇 두 개가 놓인다) 자, 먹어!
+Oskar|A1|Den är god. Och varm.|맛있다. 그리고 따뜻해.
+Linnea|B2|Nu är du ett år äldre, åtminstone enligt tanten i köket, som verkar ha bestämt sig för att adoptera dig.|이제 너 한 살 더 먹었어. 적어도 주방 아주머니 말로는. 너를 아예 입양하기로 마음먹으신 것 같아.
+Oskar|B1|Hon gav mig mer soppa fast jag inte bad om det. Och hon klappade mig på armen.|(빈 그릇을 내려다본다) 달라고도 안 했는데 국을 더 주셨어. 그리고 내 팔을 토닥토닥하셨어.
+Linnea|B2|Det gjorde hon för att du åt upp allt och sa kamsahamnida med en så allvarlig min att hon trodde att du höll tal.|네가 싹 비우고 '감사합니다'를 너무 진지한 얼굴로 하니까, 연설하는 줄 아셨나 봐.
+Oskar|A2|Floden är stor. Är den frusen?|(오후, 뚝섬 한강공원. 넓은 강 위로 잿빛 하늘) 강이 크네. 얼었어?
+Linnea|B2|Bara längs kanterna. Längre ut flyter isflaken förbi, eftersom strömmen är för stark för att isen ska hinna lägga sig.|가장자리만. 더 바깥쪽은 물살이 너무 세서 얼음이 얼 틈이 없어. 그래서 얼음 조각들이 떠내려가.
+Oskar|B2|Isen vid stranden är grå och porös – den skulle inte ens bära en katt. Pappa sa alltid att dålig is låter fel innan man har satt foten på den.|(물가에 쭈그려 앉아 얼음 가장자리를 장갑 낀 손가락으로 톡 건드린다) 물가 얼음이 회색이고 구멍투성이야. 고양이 한 마리도 못 버텨. 아빠는 늘 그랬어. 나쁜 얼음은 발을 올리기도 전에 소리부터 이상하다고.
+Linnea|B2|Vi går inte ut på den, hur mycket din båtbyggarnyfikenhet än kliar.|네 배 목수 호기심이 아무리 근질거려도, 우리 저기 안 올라가.
+Oskar|A1|Nä.|안 가.
+Linnea|B1|Du har varit tyst sedan vi gick från restaurangen. Vad tänker du på?|떡국집에서 나온 뒤로 계속 조용하네. 무슨 생각 해?
+Oskar|A2|Tanten med soppan. Killen i butiken på flygplatsen. Bokhandlaren med mandarinen.|국 더 주신 아주머니. 공항 편의점 청년. 귤 주신 책방 주인.
+Linnea|A2|Och vad har de gemensamt?|그 사람들한테 무슨 공통점이 있는데?
+Oskar|B1|Nu förstår jag vad du menade med jeong.|이제 네가 말한 '정'이 뭔지 알겠어.
+Linnea|A2|Berätta. Med dina egna ord, inte mina.|말해 봐. 내 말 말고 네 말로.
+Oskar|B2|Det är inte kärlek, och det är inte vänskap. Det är det som växer mellan människor när de har mött varandra tillräckligt många gånger – även om de aldrig har bestämt sig för att tycka om varandra.|사랑도 아니고 우정도 아니야. 사람들이 서로 충분히 여러 번 마주치다 보면 그 사이에 자라나는 거. 서로 좋아하기로 마음먹은 적이 한 번도 없어도.
+Linnea|B2|Det var nästan exakt så jag förklarade det för dig den hösten vi träffades. Då kom vi fram till att jeong aldrig är lagom.|우리 처음 만난 그해 가을에 내가 너한테 설명한 거랑 거의 똑같아. 그때 우리, 정은 절대 '라곰'이 아니라고 결론 냈었지.
+Oskar|B1|Jag förstod inte då, för jag hade aldrig varit ny någonstans. Nu gör jag det.|그땐 몰랐어. 어디서도 낯선 사람이 돼 본 적이 없었으니까. 이젠 알아.
+Linnea|B2|Jeong är det som fanns kvar mellan oss även när vi var åtta tusen kilometer ifrån varandra.|정은, 우리가 8천 킬로미터 떨어져 있을 때도 우리 사이에 남아 있던 거야.
+Oskar|B1|Sju tusen etthundra fågelvägen. Men planet tog en omväg, så åtta tusen får det bli.|직선거리로는 7,100이야. 근데 비행기가 돌아서 왔으니까, 8천으로 해 줄게.
+Linnea|A1|Du räknar igen!|(웃음을 터뜨리며 그의 팔짱을 낀다) 또 센다!
+# 장면 4 — 2월 14일(일) 밤 11시 · 서촌 '번역가의 집' 꼭대기 층
+Oskar|A2|Har du skickat det?|(책상 위 옛 등불에 티라이트가 타고 있다. 오스카르는 침대 끝에 앉아 『겨울 항구』를 덮는다) 보냈어?
+Linnea|B1|Tio i elva. Första halvan av Saltets hus ligger hos Albatross – en hel dag före deadline.|(노트북을 덮으며 기지개를 켠다) 열 시 오십 분에. 『소금의 집』 앞쪽 절반, 지금 알바트로스에 가 있어. 마감보다 꼬박 하루 먼저.
+Oskar|A1|Bra jobbat.|수고했어.
+Linnea|B2|Och i dag är det precis ett år sedan du sa det först, hemma hos dig i Liljeholmen. Jag har inte glömt att du hann före mig den gången.|그리고 오늘이 딱 1년 되는 날이야. 릴리에홀멘 너희 집에서 네가 그 말을 먼저 한 날. 그때 네가 나보다 먼저 했다는 거, 안 잊었어.
+Oskar|A2|Nu är det mörkt. Nu får du se den.|(가방에서 새 등불을 꺼낸다) 이제 어두워. 이제 보여 줄게.
+Linnea|A1|Äntligen!|드디어!
+Oskar|B1|Den är gjord av Svalans gamla mastspår. Pappas krona låg under den i alla år.|(건전지 초를 켠다. 손바닥만 한 참나무 등불에 노란 불빛이 번진다) 스발란의 옛 돛대 받침으로 만든 거야. 아빠의 1크로나가 그 밑에 줄곧 있었지.
+Linnea|B1|Det står bokstäver på sidan. H.L. O.L. – det är ju de som din pappa skar.|(등불을 조심스럽게 돌려 본다) 옆면에 글자가 있어. H.L. O.L.… 이거 너희 아빠가 새긴 거잖아.
+Oskar|B1|Jag sågade runt dem. Resten av biten fick bli en lykta.|그 글자를 피해서 톱질했어. 나머지 조각이 등불이 된 거야.
+Linnea|A2|Och under? Får jag vända på den?|밑면은? 뒤집어 봐도 돼?
+Oskar|A2|Ja. Elsa har kollat stavningen.|응. 철자는 엘사가 확인했어.
+Linnea|A2|”Så hittar du hem. /O”|(밑면에 꾹꾹 눌러 쓴 글씨를 소리 내어 읽는다) "그러면 집을 찾아올 거야. /O"
+Oskar|B2|Gubben i Nordingrå sa till pappa: lägg kronan under masten, så kommer hon alltid hem. Den gamla lyktan är för mörka dagar. Den här är för när du ska bestämma var hemma är.|노르딩그로 그 영감님이 아빠한테 그랬대. 돛대 밑에 크로나를 넣어 두라고, 그러면 배가 늘 집으로 돌아온다고. 옛날 등불은 어두운 날을 위한 거고, 이건 네가 어디가 집인지 정할 때를 위한 거야.
+Linnea|B2|Jag tror att jag har vetat det sedan kräftskivan. Jag var bara rädd att byta ett avstånd mot ett annat – du i Härnösand med Ingeborg, jag på Söder med Lyktan.|(두 등불을 나란히 놓고 한참 바라본다) 가재 파티 때부터 알고 있었던 것 같아. 그냥 거리 하나를 다른 거리로 바꾸는 게 무서웠던 거야. 너는 회르뇌산드에서 잉에보리랑, 나는 쇠데르에서 Lyktan이랑.
+Oskar|B1|Kerstin mejlade i förra veckan. Jag börjar första maj, och sedan blir det två år där uppe.|지난주에 케르스틴한테 메일 왔어. 5월 1일부터 시작이고, 그다음 2년은 거기 있어야 돼.
+Linnea|B1|Fem timmar med tåg. Jag har räknat på det sedan i augusti, men jag har inte vågat säga det högt förrän nu.|기차로 다섯 시간. 8월부터 계속 따져 봤어. 근데 지금까지 소리 내서 말할 용기가 없었어.
+Oskar|B1|Efter Seoul är fem timmar på ett tåg ingenting. Jag kan sova hela vägen, och på sommaren seglar vi Svalan norrut.|서울 다음이면 기차 다섯 시간은 아무것도 아니야. 가는 내내 자도 되고. 여름엔 스발란 타고 북쪽으로 올라가면 되고.
+Linnea|B1|Då vet jag var den nya lyktan ska stå: i fönstret på Lyktan, bredvid Stigs.|그럼 새 등불을 어디에 둘지 알겠다. Lyktan 창가에. 스티그의 등불 옆에.
+Oskar|A2|Måndag om en vecka sitter jag i fönstret igen. Ska jag hälsa något?|다음 주 월요일이면 나 다시 그 창가에 앉아 있을 거야. 뭐 전할 말 있어?
+Linnea|A2|Säg till Maggan att jag tackar ja.|마간한테 수락한다고 전해 줘.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Kamsahamnida… tack!** | 감사합니다… 고마워요! | 오스카르의 첫 실전 한국어. 스웨덴어 *tack*은 어디서나 쓰는 만능 인사: *Tack så mycket!*(정말 고마워요), *Tack för maten!*(잘 먹었습니다) |
+| `A1` | **Ett vad?** | 뭐(가 필요하다고)? | 모르는 단어가 나왔을 때, 상대가 쓴 관사 *ett/en*만 살려서 되묻는 구어 표현. *En vad?*도 같은 방식 |
+| `A2` | **Allt ser annorlunda ut här.** | 여긴 다 달라 보여. | *se ut* = ~해 보이다. 분리 동사라 *ut*이 형용사 뒤로 간다: *Du ser trött ut.* *annorlunda*는 형태가 변하지 않는 형용사 |
+| `A2` | **Säg till Maggan att jag tackar ja.** | 마간한테 수락한다고 전해 줘. | *tacka ja / tacka nej* = (제안·초대를) 받아들이다 / 거절하다. *säga till någon att…* = ~에게 …라고 전하다 |
+| `B1` | **Nu förstår jag vad du menade med jeong.** | 이제 네가 말한 '정'이 뭔지 알겠어. | *mena med* = (어떤 말로) ~을 뜻하다: *Vad menar du med det?* 간접의문문 *vad du menade*는 평서문 어순 |
+| `B1` | **…jag har inte vågat säga det högt förrän nu.** | 지금까지 소리 내서 말할 용기가 없었어. | *inte … förrän* = ~하고 나서야 비로소. *våga* + 부정사(att 없이) = 감히 ~하다. *säga högt* = 소리 내어 말하다 |
+| `B2` | **Jeong är det som fanns kvar mellan oss även när vi var åtta tusen kilometer ifrån varandra.** | 정은, 우리가 8천 킬로미터 떨어져 있을 때도 우리 사이에 남아 있던 거야. | *det som* = ~하는 것. *finnas kvar* = 남아 있다. *ifrån varandra* = 서로 떨어져 |
+| `B2` | **…hur mycket din båtbyggarnyfikenhet än kliar.** | 네 배 목수 호기심이 아무리 근질거려도. | *hur + 형용사/부사 + än* = 아무리 ~해도(양보). *Hur kallt det än är, badar han.* 합성어 *båtbyggar+nyfikenhet*처럼 스웨덴어는 명사를 붙여 새 단어를 만든다 |
+| `B2` | **…för stark för att isen ska hinna lägga sig.** | 얼음이 얼 틈이 없을 만큼 세다. | *för + 형용사 + för att* = 너무 ~해서 …할 수 없다. *isen lägger sig* = (호수·바다에) 얼음이 얼다, 결빙하다 |
+| `B2` | **Inte på svenska heller, om sanningen ska fram.** | 사실대로 말하자면 스웨덴어로도 못 읽어. | *om sanningen ska fram* = 사실을 말하자면(관용구). 부정문의 '~도'는 *också*가 아니라 *heller* |
+
+## 문화 메모
+- **조수가 없는 바다, 발트해(Östersjön)** — 발트해는 좁은 해협으로만 북해와 이어져 있어 조수 간만의 차가 몇 센티미터에 불과하다. 스웨덴 동해안의 수위는 달보다 바람과 기압에 따라 오르내린다. 그래서 스톡홀름 군도에서 자란 사람에게, 물이 빠지면 수 킬로미터의 갯벌이 드러나는 황해는 낯선 풍경이다.
+- **얼음 지식(isvett)** — 스웨덴에서는 겨울마다 호수와 바다의 얼음 위를 걷고 스케이트를 탄다. 그래서 '얼음 지식'을 어릴 때부터 배운다. 혼자 가지 않기, 목에 거는 얼음 송곳(isdubbar)과 얼음 지팡이(ispik) 챙기기, 지팡이로 두드려 둔탁한 소리가 나면 두껍다는 신호. 회색으로 구멍이 숭숭한 얼음은 녹고 있는 얼음이라 위험하다.
+- **'du'의 나라** — 스웨덴어에는 한국어 같은 존댓말 체계가 거의 없다. 1960년대 후반 '두 개혁(du-reformen)' 이후 처음 보는 어른에게도, 사장에게도 *du*(너)라고 부르는 게 보통이 되었다. 공손함은 어휘가 아니라 *tack*, *ursäkta*, 그리고 말투로 표현한다. 그래서 스웨덴 사람에게 '감사합니다'와 '고마워'를 구별하는 일은 꽤 어려운 숙제다. 고개 숙여 인사하는 습관도 없다.
+- **스웨덴의 설? — 1월 6일까지의 크리스마스** — 스웨덴의 새해는 양력 1월 1일 하나뿐이지만, 크리스마스 시즌은 1월 6일 주현절(trettondedag jul)까지, 전통적으로는 1월 13일 '성 크누트의 날(tjugondedag Knut)'에 크리스마스트리를 치우며 끝난다. 아이들은 이날 트리에 남은 과자를 따 먹는다.
+
+## 다음 화 예고 — 14화 *Ursäkta, jobbar du här?* (실례합니다, 여기서 일하세요?)
+그리고 일곱 달 뒤, 9월 26일 — 첫 만남으로부터 꼭 2년. 서울에서 돌아온 린네아가 Lyktan의 새 공동 대표로 첫 출근하는 날이다. 초록 카디건, 책 한 아름, 마간의 마지막 인수인계. 창가에는 스티그의 등불 옆에 손바닥만 한 참나무 등불이 하나 더 놓여 있다. 손님이 하나둘 들어오고, 문의 종이 다시 울린다. 회르뇌산드에서 밤새 내려온 키 큰 남자가 묻는다. "Ursäkta, jobbar du här?" — "Ja. Från och med idag." 시리즈 피날레.
