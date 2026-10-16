@@ -1,0 +1,161 @@
+@title 3부 14화 — Jag åker i augusti
+@subtitle (나 8월에 떠나)
+@meta 날짜|5월 16일 토요일 밤 9시 반 → 5월 31일 일요일 밤 9시 56분 ~ 11시 2분 (맑음, 일몰 9시 52분쯤, 밤 11시에도 북쪽 하늘이 푸르게 밝음)
+@meta 장소|쇠데르말름 바스투가탄, Lyktan 문 앞 → 2주 뒤, 몬텔리우스베겐 전망 산책로 (리다르피에르덴과 시청, 쿵스홀멘이 내려다보이는 벤치)
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31) · **Ahmed** (아메드, 32 — 잠깐)
+@intro **지난 이야기** 5월 16일 토요일, Lyktan 낭독의 밤. 의자 53개, 관객 142명. 마간은 카린 보예를, 군넬은 『닐스 홀게르손』을, 요한은 영어판에서 서툴게 옮긴 『소금의 집』 첫 페이지를 읽고 "이 책을 한국어처럼 들리게 할 사람은 맨 뒤에 서 있다"고 말했다. 엘사의 「나의 서점」이 끝나고, 마지막 순서의 오스카르는 『로냐』를 덮고 142명 앞에서 말했다. "Jag har dyslexi." 줄이 한 번 뛰었고, 린네아는 "Vi väntar."라고만 했다. 그가 마지막으로 읽은 문장은 스티그의 말이었다 — 창가의 등불은 안에 아직 누가 깨어 있다고 말한다고. 그리고 9시, 부동산 회사 대표의 메일: 임대료 월 1만 8천 크로나, 3년 동결. Lyktan은 남는다. 축하의 소란 속에서 린네아가 오스카르의 손목을 잡았다. "Följ med mig ut." — "Nu?" — "Nu. Inte sen."
+@intro 문 종이 등 뒤에서 잦아든다. 밤 9시 반인데 바스투가탄의 하늘은 아직 다 어두워지지 않았고, 오늘 밤 창가의 등불은 아홉 시가 지나도 꺼지지 않는다. 서울 재단의 답변 기한도, 회르뇌산드 해양박물관의 답변 기한도 똑같이 5월 31일 — sista maj. 둘이 '같이' 정하기로 한 날까지 이제 보름이 남았다.
+# 장면 1 — Lyktan 문 앞, 밤 9시 반
+Oskar|A1|Vart ska vi?|(5월 16일 토요일 밤 9시 반, 바스투가탄. 등 뒤에서 문 종이 잦아들고, 유리문 너머로 웃음소리와 피자 냄새가 새어 나온다) 어디 가는데?
+Linnea|B1|Ingenstans. Jag ville bara ha dig för mig själv en liten stund.|아무 데도. 그냥 잠깐만 너를 나 혼자 갖고 싶었어.
+Oskar|A2|Det är fortfarande ljust ute.|(지붕들 위 하늘을 올려다본다) 밖이 아직 밝네.
+Linnea|B1|Det är maj. Om ett par veckor blir det knappt mörkt alls.|5월이잖아. 2주쯤 지나면 거의 어두워지지도 않아.
+Oskar|A2|Mina händer skakar fortfarande. Titta.|(두 손을 내밀어 본다) 손이 아직도 떨려. 봐.
+Linnea|A1|Ge mig dem.|(그 손을 자기 두 손으로 감싼다) 이리 줘.
+Oskar|B2|Jag trodde att jag skulle må illa efteråt. Men jag mår bara… konstigt lätt, som om någon hade lyft av mig en last som jag har burit sedan skolan.|끝나고 나면 속이 울렁거릴 줄 알았어. 근데 그냥… 이상하게 가벼워. 학교 때부터 지고 다니던 짐을 누가 내려 준 것처럼.
+Linnea|B2|Den lasten ställde du ner själv i kväll, inför hundrafyrtio personer – och jag såg inte en enda som tittade bort.|그 짐은 오늘 밤 네가 직접 내려놓은 거야. 140명 앞에서. 그리고 고개 돌리는 사람은 한 명도 못 봤어.
+Oskar|A2|Hundrafyrtiotvå. Samir räknade.|백마흔둘. 사미르가 셌어.
+Linnea|B2|Förstås. Han hade säkert räknat hostningarna också, om någon hade vågat hosta.|(웃음이 터진다) 그렇겠지. 누가 감히 기침이라도 했으면 그것까지 셌을걸.
+Oskar|A2|Och Lyktan stannar. Tre år till.|그리고 Lyktan은 남고. 3년 더.
+Linnea|B2|Jag såg Maggans ansikte när hon läste mejlet. Jag tror inte att hon har sovit ordentligt en enda natt sedan februari.|마간 씨가 메일 읽을 때 얼굴 봤어. 2월 이후로 하룻밤도 제대로 못 주무셨을 거야.
+Oskar|B1|I natt sover hon. Om Giorgos låter henne gå hem, vill säga.|오늘 밤은 주무시겠지. 요르고스가 집에 보내 주면 말이야.
+Linnea|B1|Men jag drog inte ut dig hit för att prata om Maggan.|근데 마간 씨 얘기하려고 끌고 나온 거 아니야.
+Oskar|A1|Nähä?|아니야?
+Linnea|B1|Det fanns en rad till på ditt papper. Jag såg den när du vek ihop det.|종이에 한 줄이 더 있었어. 네가 접을 때 봤어.
+Oskar|A2|Den var inte till dem.|그건 저 사람들한테 하는 말이 아니었어.
+Linnea|A1|Till vem, då?|그럼 누구한테?
+Oskar|A2|Du vet till vem.|(셔츠 주머니에서 네 번 접힌 공책 종이를 꺼낸다) 누군지 알잖아.
+Linnea|A2|Läs den för mig. Bara för mig.|나한테 읽어 줘. 나한테만.
+Oskar|A1|"Jag älskar dig."|(종이를 펴고 마지막 줄에 검지를 댄다. 이번엔 줄이 뛰지 않는다) "사랑해."
+Linnea|A1|Jag älskar dig också.|(그의 셔츠 깃을 두 손으로 잡는다) 나도 사랑해.
+Oskar|B1|Jag har bestämt mig, Linnea. Om Höga kusten. Nästan i alla fall.|(한참 뒤, 그녀의 머리 위에 턱을 얹은 채) 정했어, 린네아. 회가쿠스텐 일. 적어도 거의.
+Linnea|B1|Jag också. Jag skrev mejlet till stiftelsen i går natt, men jag har inte skickat det.|나도. 어젯밤에 재단에 보낼 메일 썼어. 근데 아직 안 보냈어.
+Oskar|B2|Säg det inte nu. Om du säger ditt först väljer jag efter dig – och då har vi brutit mot punkt fem.|지금 말하지 마. 네가 먼저 말하면 난 네 결정에 맞춰서 고를 거야. 그럼 5번을 어기는 거고.
+Linnea|A2|Okej. Inget i kväll, då.|(잠깐 그를 올려다보다가) 알았어. 그럼 오늘 밤은 아무 말도 안 하기.
+Oskar|A1|Nej. Inte i kväll.|응. 오늘 밤은 말고.
+Linnea|A2|Sista maj, då. Det är en söndag.|그럼 5월 마지막 날. 일요일이야.
+Oskar|B1|Klockan tio på kvällen, på Monteliusvägen. Det är inte sen. Det är en tid.|일요일 밤 10시, 몬텔리우스베겐. 그건 '나중'이 아니야. 시간이지.
+Ahmed|A2|Len! Pizzan blir kall, och Maggan vill hålla tal igen!|(문이 벌컥 열리고 종이 요란하게 울린다. 피자 상자를 머리 위로 든 아메드) 야, 형제! 피자 식는다! 마간 씨가 또 연설하신대!
+# 장면 2 — 몬텔리우스베겐, 5월 31일 밤 10시
+Linnea|B1|Du är redan här. Hur länge har du suttit och väntat den här gången?|(보름 뒤, 5월 31일 일요일 밤 9시 56분, 몬텔리우스베겐. 해는 조금 전에 쿵스홀멘 너머로 졌고, 리다르피에르덴 위 하늘은 아직 연한 주황빛이다. 난간 옆 벤치에 오스카르가 앉아 있다) 벌써 와 있네. 이번엔 얼마나 앉아서 기다렸어?
+Oskar|A2|En halvtimme. Kanske lite mer.|30분. 좀 더 됐나.
+Linnea|B2|Typiskt. Om du någon gång kom i tid skulle jag tro att något hade hänt.|역시. 네가 언젠가 제시간에 오면 무슨 일 생긴 줄 알 거야.
+Oskar|B1|Jag ville se solen gå ner. Den försvann bakom Kungsholmen för en kvart sedan.|해 지는 거 보고 싶었어. 15분 전에 쿵스홀멘 뒤로 넘어갔어.
+Linnea|B1|Senast vi satt här var det nyårsafton, och vi frös så att vi inte kände tårna.|(그 옆에 앉는다) 우리가 마지막으로 여기 앉았을 땐 섣달그믐이었는데. 발가락 감각이 없을 만큼 추웠지.
+Oskar|A2|Och du hade lyktan i famnen.|그리고 넌 등불을 품에 안고 있었고.
+Linnea|A2|Jag har den med mig i kväll också.|(가방에서 참나무 등불을 꺼내 무릎 위에 올려놓는다) 오늘 밤도 가져왔어.
+Oskar|A1|Bra.|좋아.
+Linnea|B1|Vem börjar? Vi bestämde aldrig vem som skulle börja.|누가 먼저 해? 누가 먼저 할지는 안 정했잖아.
+Oskar|A2|Jag. Jag har övat.|나. 연습했어.
+Linnea|B1|Klart du har. Ahmed fick väl lyssna på det varje lunch hela veckan?|당연히 했겠지. 아메드 씨가 일주일 내내 점심마다 들어 줬지?
+Oskar|B1|I fredags ringde jag Kerstin på museet. Vi pratade i fyrtio minuter, och så länge har jag aldrig pratat i telefon i hela mitt liv.|금요일에 박물관 케르스틴한테 전화했어. 40분 통화했어. 평생 그렇게 오래 전화해 본 적이 없어.
+Linnea|A1|Och?|그래서?
+Oskar|B1|Jag har sagt till museet att jag börjar om ett år.|박물관에 1년 뒤에 시작하겠다고 했어.
+Linnea|A1|Om ett år?|1년 뒤?
+Oskar|B2|Pengarna kommer ändå inte förrän nästa vår, och i höst ska de bara mäta och dokumentera. Det klarar Kerstin med sina två snickare utan mig.|어차피 큰돈은 내년 봄에야 들어와. 올가을엔 측량하고 기록만 할 거고. 그건 케르스틴이 목수 둘이랑 나 없이도 해.
+Linnea|A2|Och hon sa ja? Bara så där?|그래서 그분이 좋다고 했어? 그렇게 쉽게?
+Oskar|B2|Hon sa att Ingeborg har legat på land i sju år, och att en båt som har väntat så länge klarar ett år till. Styrelsen skriver under i juni.|잉에보리는 7년이나 뭍에 올라와 있었다고. 그렇게 오래 기다린 배면 1년쯤 더 버틴대. 이사회가 6월에 서명한대.
+Linnea|B1|Oskar. Du lovade. Punkt fem: "Ingen stannar för den andras skull."|오스카르. 약속했잖아. 5번. "아무도 상대를 위해 남지 않는다."
+Oskar|A2|Jag vet. Jag skrev den själv.|알아. 내가 직접 썼잖아.
+Linnea|B1|Och du stannade med pennan när du skrev den. Jag såg det, fast jag inte sa något.|그리고 그거 쓸 때 연필 멈췄지. 봤어. 말은 안 했지만.
+Oskar|B1|Ja. För att jag redan då visste att jag inte ville åka i höst.|응. 그때 이미 올가을엔 가기 싫다는 걸 알았거든.
+Linnea|A2|Varför sa du ingenting?|왜 아무 말 안 했어?
+Oskar|B2|För att jag inte visste om det var för din skull eller för min egen. Det måste jag vara säker på innan jag sa något – annars hade det bara varit ett nytt sätt att gömma mig.|그게 너 때문인지 나 자신 때문인지 몰랐으니까. 말하기 전에 그것부터 확실히 해야 했어. 안 그러면 그냥 숨는 방법이 하나 더 늘었을 뿐일 테니까.
+Linnea|A1|Och nu vet du?|그래서 이제 알아?
+Oskar|A1|Jo.|응.
+Linnea|A2|Berätta. Allt.|말해 줘. 전부.
+Oskar|B2|Om jag åker upp i höst bygger jag ett liv där uppe medan du bygger ett i Seoul. Om ett år har vi två liv som inte vet någonting om varandra.|올가을에 올라가면 난 거기서 삶을 하나 짓고, 넌 서울에서 하나 짓겠지. 1년 뒤엔 서로에 대해 아무것도 모르는 삶이 두 개 생기는 거야.
+Linnea|B1|Det kan hända ändå. Avstånd är avstånd, oavsett var du bor.|그건 어차피 일어날 수도 있어. 네가 어디 살든 거리는 거리야.
+Oskar|B2|Kanske. Men här har jag Svalan, Lyktan, Elsa på tisdagarna och Ahmed, som inte låter mig vara tyst. Här har jag ett liv där du redan finns med.|그럴지도. 근데 여긴 스발란이 있고, Lyktan이 있고, 화요일마다 엘사가 있고, 날 조용히 내버려 두지 않는 아메드가 있어. 여긴 이미 네가 들어 있는 삶이 있어.
+Linnea|B2|Och Ingeborg, då? Du erkände själv att du ville ha det jobbet mer än du hade vågat säga högt.|그럼 잉에보리는? 너 스스로 인정했잖아. 그 일을 소리 내서 말할 수 있었던 것보다 훨씬 더 원한다고.
+Oskar|B1|Det vill jag fortfarande. Därför tackade jag inte nej. Jag sa "om ett år".|지금도 원해. 그래서 거절 안 한 거야. "1년 뒤"라고 한 거지.
+Linnea|B1|Och vad sa din farmor? Du pratade väl med henne i dag?|할머니는 뭐라셨어? 오늘 통화했지?
+Oskar|B2|Hon sa: "Båten har väntat i sju år, pojk. Hon dör int av ett år till. Men du ska int sitta å vänta mä händerna i knät."|이러셨어. "배는 7년을 기다렸다, 얘야. 1년 더 기다린다고 안 죽는다. 그래도 손 놓고 앉아서 기다리기만 하진 마라."
+Linnea|B1|Det låter precis som henne. Hon kan säga ja och nej i samma mening.|딱 할머니 말씀 같다. 한 문장 안에 '그래'랑 '안 돼'를 같이 넣으시잖아.
+Oskar|B1|Så jag tänker inte bara vänta. Jag ska göra klart Svalan, och jag ska läsa ut Ronja innan Ahmed hinner smita från vadet.|그러니까 그냥 기다리지만은 않을 거야. 스발란 마무리하고, 아메드가 내기에서 빠져나가기 전에 『로냐』 끝까지 읽을 거야.
+Linnea|B1|Han har redan börjat träna, förresten. Leila skickade en bild på honom i nya löparskor.|그러고 보니 아메드 씨 벌써 연습 시작했대. 레일라 씨가 새 러닝화 신은 사진 보냈어.
+Oskar|B2|Då tror han alltså att jag klarar det. Annars skulle han aldrig ha köpt skor.|그럼 걔도 내가 해낼 거라고 믿는 거네. 아니면 신발을 샀을 리가 없지.
+Linnea|B1|Jag frågar i stället för att gissa, som vi lovade. Stannar du för min skull?|(웃음을 거두고) 짐작하는 대신 물을게, 약속한 대로. 너 나 때문에 남는 거야?
+Oskar|B2|Att stanna för någon och att vänta på någon är inte samma sak – jag väljer att vänta.|(그녀를 똑바로 본다) 누군가를 위해 남는 거랑 누군가를 기다리는 건 같은 게 아니야. 난 기다리는 쪽을 고를 거야.
+# 장면 3 — 판자와 메일
+Linnea|B2|Malin väntade på dig i ett år, och till slut orkade hon inte mer. Jag är rädd att det blir likadant med oss – fast åt andra hållet.|(한참 리다르피에르덴 쪽을 보다가, 조용히) 말린은 1년 동안 너를 기다렸고, 결국 더는 못 버텼잖아. 우리도 그렇게 될까 봐 무서워. 방향만 반대로.
+Oskar|B2|Malin väntade på att jag skulle öppna en dörr som jag höll stängd. Jag väntar på någon som ringer varje dag. Det är skillnad.|말린은 내가 닫아 둔 문을 열어 주길 기다렸어. 난 매일 전화하는 사람을 기다리는 거고. 그건 달라.
+Linnea|A1|Varje dag?|매일?
+Oskar|A2|Punkt ett. Jag har lappen kvar i plånboken.|1번. 그 종이 아직 지갑에 있어.
+Linnea|B2|Jag vill inte komma hem om ett år och upptäcka att du har offrat något stort bara för att jag skulle få mitt.|1년 뒤에 돌아와서, 내가 내 걸 가지라고 네가 큰 걸 희생했다는 걸 알게 되고 싶진 않아.
+Oskar|B1|Ingeborg finns kvar om ett år. Kerstin har lovat det skriftligt – fast hon skickar det som ljudfil.|잉에보리는 1년 뒤에도 있어. 케르스틴이 서면으로 약속했어. 음성 파일로 보내 주긴 하지만.
+Linnea|A1|Som ljudfil?|(웃음이 새어 나온다) 음성 파일로?
+Oskar|A2|Papper till styrelsen. Ljudfil till mig.|이사회엔 종이. 나한텐 음성 파일.
+Linnea|B1|Okej. Nu är det min tur, och jag har inte övat. Jag har bara skrivit och strukit hela veckan.|좋아. 이제 내 차례야. 난 연습 안 했어. 일주일 내내 쓰고 지우기만 했어.
+Oskar|A1|Ta din tid.|천천히 해.
+Linnea|B2|Jag har varit rädd för den här resan sedan februari, men inte av de skäl jag trodde. Jag trodde att jag var rädd för att förlora dig.|2월부터 이 여행이 무서웠어. 근데 내가 생각한 이유 때문이 아니었어. 난 너를 잃을까 봐 무서운 줄 알았거든.
+Oskar|A2|Och det var du inte?|아니었어?
+Linnea|B2|Jo, det också. Men mest var jag rädd för hur mycket jag ville åka. Som om det betydde att jag älskade dig mindre.|아니, 그것도 맞아. 근데 제일 무서웠던 건 내가 얼마나 가고 싶어 하는지였어. 그게 꼭 널 덜 사랑한다는 뜻인 것 같아서.
+Oskar|B1|Det betyder det inte. Jag ville ha Ingeborg lika mycket, och jag älskar dig ändå.|그런 뜻 아니야. 나도 잉에보리를 똑같이 원했는데, 그래도 널 사랑하잖아.
+Linnea|B2|Det vet jag nu. Det tog tre månader och en hel del av Idas näsdukar att förstå det.|이젠 알아. 그걸 알아듣는 데 석 달이랑 이다 언니 휴지 꽤 많이 들었지만.
+Oskar|A2|Ida räknade dem, va?|이다 씨가 셌겠지?
+Linnea|B1|Självklart. Hon sa att hon behövde siffran för att veta hur illa det var.|당연하지. 얼마나 심각한지 알려면 숫자가 필요하대.
+Oskar|A2|Vad mer är du rädd för?|또 뭐가 무서워?
+Linnea|B2|Att jag kommer tillbaka som en annan. Ett år på ett annat språk förändrar en, och jag vet inte om den som kommer hem är någon du känner igen.|다른 사람이 돼서 돌아올까 봐. 다른 언어 속에서 1년을 살면 사람이 변해. 집에 돌아오는 내가 네가 알아볼 수 있는 사람일지 모르겠어.
+Oskar|B2|Trä förändras också, Linnea. Det sväller och krymper med årstiderna, men en bra planka spricker inte om man låter den röra sig.|나무도 변해, 린네아. 계절 따라 부풀었다 줄었다 하지. 근데 좋은 판자는 움직이게 놔두면 안 갈라져.
+Linnea|A1|Är jag en planka nu?|나 이제 판자야?
+Oskar|A2|En bra planka. Det är det finaste jag vet.|좋은 판자. 내가 아는 제일 좋은 말이야.
+Linnea|B1|Och så är jag orolig för Maggan. Lyktan är räddad, men hon är sextioåtta, och jag kommer inte att sitta där på måndagarna.|그리고 마간 씨가 걱정돼. Lyktan은 살았지만 마간 씨는 예순여덟이고, 난 월요일마다 거기 앉아 있지 못할 거잖아.
+Oskar|B1|Då sitter jag i fönsterstolen efter jobbet på måndagarna. Jag läser långsamt, så jag blir sittande länge.|그럼 월요일마다 퇴근하고 내가 창가 의자에 앉아 있을게. 난 천천히 읽으니까 오래 앉아 있게 될 거야.
+Linnea|A1|Du?|(웃음과 울음 사이에서) 네가?
+Oskar|A2|Jag. Med hörlurarna.|나. 헤드폰 끼고.
+Linnea|B2|Det finns i alla fall en sak jag är säker på. Om jag tackar nej till Saltets hus kommer jag resten av livet att undra hur den hade låtit på svenska – och jag vill inte att du ska vara anledningen till den frågan.|그래도 하나는 확실해. 『소금의 집』을 거절하면 나는 평생 궁금해할 거야. 그 책이 스웨덴어로 어떻게 들렸을지. 그리고 네가 그 질문의 이유가 되는 건 싫어.
+Oskar|B2|Det vill inte jag heller. Jag väntar hellre på någon som har gjort det hon drömde om än att leva med någon som går och undrar.|나도 싫어. 평생 궁금해하는 사람이랑 사느니, 꿈꾸던 걸 해낸 사람을 기다리는 게 나아.
+Linnea|B1|Jag skrev mejlet natten före Lyktans kväll. Sedan dess har jag läst det varje kväll utan att ändra ett enda ord.|(휴대폰을 꺼낸다) 그 메일은 Lyktan의 밤 전날 밤에 썼어. 그 뒤로 매일 밤 읽었는데, 한 단어도 안 고쳤어.
+Oskar|A2|Läs det för mig.|나한테 읽어 줘.
+# 장면 4 — 밤 11시, 아직 밝은 하늘
+Linnea|B1|Det är på koreanska. Jag översätter medan jag läser.|(휴대폰 화면 불빛이 얼굴을 비춘다) 한국어로 썼어. 읽으면서 옮길게.
+Oskar|A1|Läs.|읽어.
+Linnea|A2|"Tack för att ni har väntat på mitt svar. Jag tackar ja."|"제 대답을 기다려 주셔서 감사합니다. 제안을 수락합니다."
+Oskar|A1|Bra.|(아주 작게) 좋아.
+Linnea|A2|Jag åker i augusti.|(화면에서 눈을 떼고, 그를 본다) 나 8월에 떠나.
+Oskar|A1|Åk.|가.
+Linnea|B1|Förra gången du sa så lät det som en dörr som slogs igen.|지난번에 네가 그 말 했을 땐 문이 쾅 닫히는 소리 같았어.
+Oskar|B1|Då sa jag "då kan du väl åka". Det är inte samma sak.|그땐 "그럼 가든가"라고 했지. 그거랑은 달라.
+Linnea|A1|Säg det igen, då.|그럼 다시 말해 줘.
+Oskar|A1|Åk. Och kom hem.|(그녀의 두 손을 등불째 감싸 쥐고) 가. 그리고 집에 와.
+Linnea|A1|Jag lovar.|약속해.
+Oskar|A2|När går planet?|비행기는 언제 떠?
+Linnea|B1|Den tjugoåttonde augusti. Residenset börjar den första september, men jag vill hinna sova bort jetlaggen först.|8월 28일. 레지던시는 9월 1일부터인데, 시차 적응할 시간은 있어야지.
+Oskar|A2|Nästan tretton veckor.|거의 13주네.
+Linnea|B2|Du räknar redan. Jag hade hoppats att vi skulle slippa räkna dagarna i sommar.|벌써 세고 있네. 이번 여름엔 날짜 세는 일 없었으면 했는데.
+Oskar|A2|Bara i kväll. I morgon slutar jag.|오늘 밤만. 내일부턴 안 셀게.
+Linnea|A1|Ska jag skicka?|(엄지를 '보내기' 위에 올린 채) 보낼까?
+Oskar|A1|Skicka.|보내.
+Linnea|A1|Skickat.|(밤 11시 2분. 작은 전송음) 보냈어.
+Oskar|A2|Titta. Klockan är elva, och himlen är fortfarande ljus.|(리다르피에르덴 위 북쪽 하늘이 아직 연한 파랑으로 빛나고, 시청 탑 너머엔 별 하나 보이지 않는다. 오스카르가 성냥을 그어 그녀 무릎 위 참나무 등불에 불을 붙인다 — 등불이 필요 없을 만큼 밝은 밤인데도. 스톡홀름의 백야가 시작된다) 봐. 11시인데 하늘이 아직 밝아.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Åk. Och kom hem.** | 가. 그리고 집에 와. | *åka*(가다, 타고 가다)의 명령형 *åk*, *komma*의 명령형 *kom*. 명령형은 동사 원형에서 끝의 -a를 떼서 만든다. *hem*은 '집으로'(방향), *hemma*는 '집에'(위치) |
+| `A1` | **Ta din tid.** | 천천히 해. | 직역하면 "네 시간을 가져." 서두르는 사람에게 건네는 말. 더 길게는 *Ta all tid du behöver.* |
+| `A2` | **Jag åker i augusti.** | 나 8월에 떠나. | 현재형으로 확정된 미래를 말한다. 달 이름 앞에는 *i*, 소문자로 쓴다(*i augusti, i maj*) |
+| `A2` | **Klockan är elva, och himlen är fortfarande ljus.** | 11시인데 하늘이 아직 밝아. | *fortfarande* = 아직, 여전히. *himmel → himlen*(한정형에서 e가 빠짐). *ljus*는 '밝은'(형용사)도 되고 '빛, 초'(명사)도 된다 |
+| `B1` | **Jag har sagt till museet att jag börjar om ett år.** | 박물관에 1년 뒤에 시작하겠다고 했어. | *säga till någon* = ~에게 말하다. *om ett år* = (지금부터) 1년 뒤. *för ett år sedan*(1년 전)과 짝으로 외우자 |
+| `B1` | **Jag frågar i stället för att gissa.** | 짐작하는 대신 물어볼게. | *i stället för att* + 부정사 = ~하는 대신에. 1부부터 이어진 두 사람의 약속 |
+| `B1` | **Det är inte sen. Det är en tid.** | 그건 '나중'이 아니야. 시간이지. | *sen*(= *sedan*) = 나중에, 그다음에. 막연한 '나중'과 정해진 시각(*en tid*)의 차이. *boka en tid* = 예약을 잡다 |
+| `B2` | **Att stanna för någon och att vänta på någon är inte samma sak – jag väljer att vänta.** | 누군가를 위해 남는 것과 누군가를 기다리는 건 같지 않아. 난 기다리는 쪽을 고를 거야. | *att* + 부정사 두 개를 주어로 쓴 문장. 전치사에 주의: *stanna för någon*(~를 위해 남다) / *vänta på någon*(~를 기다리다) |
+| `B2` | **Om jag tackar nej kommer jag resten av livet att undra.** | 거절하면 나는 평생 궁금해할 거야. | *tacka nej / tacka ja* = 거절하다 / 수락하다. *om*절이 앞에 오면 주절은 동사부터(*kommer jag*). *kommer att* + 부정사 = 미래 예측 |
+| `B2` | **Som om någon hade lyft av mig en last.** | 누가 내 짐을 내려 준 것처럼. | *som om* + 과거완료 = 마치 ~했던 것처럼. *lyfta av* = 들어서 내려 주다. *en last* = 짐, 적재물(배에 싣는 짐도 *last*) |
+
+## 문화 메모
+- **스톡홀름의 '밝은 밤(ljusa nätter)'** — 스톡홀름은 북극권보다 남쪽이라 한여름에도 해가 진다. 하지만 5월 말이면 해가 밤 10시 가까이 되어서야 지고, 하늘은 완전히 어두워지지 않은 채 푸르스름한 박명이 새벽까지 이어진다. 하지 무렵에는 일몰이 10시를 넘고 해가 새벽 3시 반쯤 다시 뜬다. 진짜 '해가 지지 않는 밤(midnattssol)'은 북극권 너머 라플란드에서나 볼 수 있다. 오스카르의 고향 회르뇌산드 같은 노를란드 해안은 스톡홀름보다 여름밤이 훨씬 더 환하다.
+- **몬텔리우스베겐(Monteliusvägen)** — 쇠데르말름 북쪽 절벽 위로 난 500m쯤 되는 산책로. 리다르피에르덴 너머로 시청(Stadshuset), 감라스탄, 쿵스홀멘이 한눈에 보여 스톡홀름에서 손꼽히는 전망 명소다. 이름은 고고학자 오스카르 몬텔리우스(Oscar Montelius)에게서 따왔다 — 극 중 오스카르와 같은 이름.
+- **보호할 가치가 있는 배, K-märkt fartyg** — 스웨덴에서는 역사적 가치가 있는 배를 국가 해양·교통사 박물관 기관(Statens maritima och transporthistoriska museer)이 심사해 '문화재 표시 선박(*K-märkt fartyg*)'으로 지정한다. 지정된 배는 원래 모습을 지키며 복원·운항해야 한다. 회가쿠스텐 일대는 19세기 말까지 갈레아스(*galeas*) 같은 나무 화물 범선을 많이 만들던 곳이다. 극 중 갈레아스 *Ingeborg*와 해양박물관은 가상이다.
+
+## 3부를 마치며
+- **결정과 고백의 문장** — *Jag har inte bestämt mig*에서 *Jag har bestämt mig*까지. *bestämma sig för att*, *tacka ja / tacka nej*, *Jag borde ha berättat direkt* 같은 후회의 *borde ha* + 완료분사로 결정의 무게를 말하는 법을 익혔다.
+- **싸움과 사과의 언어** — *Du lyssnar inte på mig!*, *Gå!*, *Du vänder på allt…*처럼 날 선 문장들, 그리고 *Förlåt*, *Jag var rädd att förlora dig*. 같은 사람이 같은 동사 *åka*로 "Då kan du väl åka."(그럼 가든가)와 "Åk. Och kom hem."(가. 그리고 집에 와)을 말할 때, 문장 하나의 뉘앙스가 얼마나 달라지는지.
+- **두 개의 비슷한 말 구별하기** — *stanna för / vänta på*, *få rätt / få vara lycklig*, *sen / en tid*. 3부의 B2 문장들은 비슷해 보이는 두 말을 나란히 놓고 그 차이로 마음을 말했다.
+- **숫자와 공적인 말** — 임대료(*Hyran blir dubbelt så hög*), 계약서, 모금액, 박물관 업무 통화. 일상 회화를 넘어 법률·계약·업무 어휘가 대화 안에 섞여 들어왔다.
+- **번역할 수 없는 단어 한 쌍** — 한국어 *한(恨)*과 스웨덴어 *vemod*. 오래 묶인 매듭 같은 슬픔이 아름다움을 품은 슬픔으로 바뀌어 가는 이야기. 4부에서는 *설렘*과 *smultronställe*가 기다린다.
+
+## 다음 화 예고 — 4부 1화 *Sommarlistan* (여름 목록)
+6월 6일, 스웨덴 국경일. 하얀 학생 모자를 쓴 졸업생들이 트럭 짐칸에 올라 노래를 부르며 거리를 지나간다. 오늘은 아메드의 동생 졸업 파티 — *Grattis!* 꽃다발과 풍선, 아기 때 사진을 크게 뽑은 팻말, 그리고 어김없이 아메드의 수다. 마당 한쪽에서는 '스웨덴다움이란 무엇인가'를 두고 때아닌 토론이 벌어진다. 그날 밤 혼스툴의 원룸, 린네아와 오스카르는 노란 노트를 펼친다. *Vi har tolv veckor kvar.* 떠나기 전에 함께할 열 가지 — 여름 목록. 날짜를 세지 말자고, 대신 날들이 의미 있게 하자고 다짐하는 두 사람. 목록의 1번은 정해져 있다. *Segla med Svalan.* 그리고 오스카르의 한마디. "Svalan är klar. Nästan." 4부 여름 *Skärgården*(군도)이 시작된다.
