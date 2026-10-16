@@ -49,7 +49,7 @@ Ida|B1|Okej. Då dricker vi ett glas vin först, och sen steker jag ägg åt dig
 Linnea|A1|Rött?|레드?
 Ida|A2|Det enda jag har. Ta två glas från diskstället.|그거밖에 없어. 건조대에서 잔 두 개 가져와.
 Linnea|B1|Jag har legat på din soffa sedan i måndags. Förlåt att jag tar så mycket plats.|(이불을 어깨에 두른 채 잔을 가져온다. 목에는 여전히 오스카르의 목도리) 월요일부터 언니 소파 차지하고 있네. 자리 너무 차지해서 미안.
-Ida|B1|Soffan har varit din förut. Tre veckor, när Johan gjorde slut. Den känner igen dig.|그 소파 전에도 네 거였잖아. 요한이랑 헤어졌을 때 3주. 소파가 너 알아봐.
+Ida|B1|Soffan har varit din förut. Tre veckor, när du gjorde slut med Johan. Den känner igen dig.|그 소파 전에도 네 거였잖아. 요한이랑 헤어졌을 때 3주. 소파가 너 알아봐.
 Linnea|A2|Tack. Det var precis vad jag behövde höra.|고마워. 딱 듣고 싶던 말이네.
 Ida|A1|Skål.|건배.
 Linnea|A1|Skål.|건배.
