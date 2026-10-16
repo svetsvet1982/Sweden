@@ -17,6 +17,11 @@
 | [part3_var.md](part3_var.md) | 3부 봄 *Isen släpper* — 14화 기획 |
 | [part4_sommar.md](part4_sommar.md) | 4부 여름 *Skärgården* — 14화 기획 |
 
+## PDF
+- [pdf/Lyktan_전체.pdf](pdf/Lyktan_전체.pdf) — 바이블 + 56화 전체 (592쪽)
+- 부별: [1부](pdf/Lyktan_1부.pdf) · [2부](pdf/Lyktan_2부.pdf) · [3부](pdf/Lyktan_3부.pdf) · [4부](pdf/Lyktan_4부.pdf)
+- 다시 만들기: `python3 tools/build_pdf.py` (Noto CJK 폰트, `pip install markdown playwright`, Chromium 필요)
+
 ## 대본 목차 (56화 전체 완성)
 
 ### 1부 가을 — *Ursäkta, jobbar du här?*
