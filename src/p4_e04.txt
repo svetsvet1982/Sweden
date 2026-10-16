@@ -1,0 +1,155 @@
+@title 4부 4화 — Storm vid Sandhamn
+@subtitle (산드함 앞바다의 폭풍)
+@meta 날짜|7월 4일 토요일 · 새벽 5시 반 ~ 밤 11시 (아침 맑음, 남서풍 5~8m/s → 오후 3시 반 예보보다 세 시간 일찍 한랭전선 통과, 돌풍·소나기 → 저녁에 잦아듦, 일몰 밤 10시쯤)
+@meta 장소|롱홀멘 조선소 부두 → 함마르뷔 수문(Hammarbyslussen) → 살트셰엔(Saltsjön) → 박스홀름(Vaxholm) 앞 → 칸홀름스피에르덴(Kanholmsfjärden) → 산드함(Sandhamn, 산된 섬) 손님 항구(gästhamnen)
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31) · **Hamnvärden** (항구 관리인, 50대)
+@intro **지난 이야기 — 4부 3화** 6월 19일 미드섬머 이브, 우퇴(Utö) 섬. 아무도 몰랐던 마간의 빨간 오두막에 열한 명이 모였다. 9년 만에 다시 세운 스티그의 메이폴, 개구리 춤, 청어 세 가지, 사미르의 「Helan går」. 마간은 열일곱 살 미드섬머에 일곱 가지 꽃을 베개 밑에 넣었던 이야기를 건배사로 털어놓았다. 그날 밤 린네아는 오스카르의 온갖 도발에도 한마디 하지 않고 일곱 송이를 땄고, 여름 목록 2번에 줄을 그었다. 이튿날 아침, "Jag drömde om dig." — "Jag vet. Du pratade i sömnen." 무슨 잠꼬대였는지 오스카르는 아직도 말해 주지 않는다.
+@intro 2주 뒤 토요일 새벽. 스발란이 처음으로 멜라렌을 떠나 바다로 나간다. 목적지는 군도 바깥쪽, 섬 전체가 요트 항구 같은 산드함. 7미터 클링커 목선으로 30해리가 넘는, 해가 긴 7월이라야 하루에 갈 수 있는 거리다. 오스카르는 사흘 전부터 매일 아침 SMHI 해상 예보를 확인했고, 린네아는 어젯밤 해도에 연필로 항로를 그려 넣었다. 수문을 지나기 위해 조선소의 낡은 4마력 선외기를 고물에 달았다. 출국까지 8주.
+# 장면 1 — 새벽의 출항, 수문을 지나 바다로
+Oskar|A1|God morgon. Flytväst.|(7월 4일 토요일 새벽 5시 반. 롱홀멘 부두. 해는 벌써 떠 있다. 오스카르가 주황색 구명조끼를 내민다) 좋은 아침. 구명조끼.
+Linnea|A2|Redan? Vi har inte ens lämnat bryggan.|벌써? 아직 부두도 안 떠났잖아.
+Oskar|B1|På Svalan har alla flytväst från brygga till brygga. Det är den enda regeln jag aldrig förhandlar om.|스발란에선 부두에서 부두까지 다들 구명조끼 입어. 이건 내가 절대 타협 안 하는 유일한 규칙이야.
+Linnea|B1|Okej, okej. Men orange är verkligen inte min färg, bara så du vet.|(구명조끼를 입고 버클을 채우며) 알았어, 알았어. 근데 주황색은 진짜 내 색 아니야. 그냥 알아 두라고.
+Oskar|A2|Den är inte till för att vara snygg.|예쁘라고 입는 거 아니야.
+Linnea|A2|Vad sa SMHI i morse?|SMHI는 오늘 아침에 뭐래?
+Oskar|B1|Sydväst, fem till åtta meter per sekund. Risk för byar i kväll, när en front drar in. Då har vi legat i Sandhamn i flera timmar.|남서풍, 초속 5에서 8미터. 오늘 밤에 전선이 들어오면서 돌풍 가능성. 그때쯤이면 우린 벌써 몇 시간째 산드함에 있을 거야.
+Linnea|B2|Över trettio sjömil på en dag, i en båt från 1934. Om pappa visste exakt vad vi har planerat skulle han ringa Sjöräddningen redan nu.|하루에 30해리 넘게, 그것도 1934년에 만든 배로. 우리 아빠가 우리 계획을 정확히 알면 지금 당장 해양구조대에 전화할걸.
+Oskar|B2|Svalan har klarat värre. Hon seglade på Bottenhavet långt innan någon av oss var född.|스발란은 더한 것도 견뎠어. 우리 둘 다 태어나기 한참 전에 보트니아해를 누볐던 배야.
+Linnea|A1|Vatten, mat, regnjacka… Har jag allt?|(배낭을 뒤지며) 물, 먹을 거, 비옷… 다 챙겼나?
+Oskar|B1|Torra kläder ligger i sjösäcken under toften. Den är vattentät, så kläderna håller sig torra.|마른 옷은 가로 좌판 밑 방수 가방에 있어. 방수라서 옷은 젖지 않아.
+Linnea|B2|Du har tänkt på allt. Ibland undrar jag om du ligger vaken på nätterna och räknar flytvästar i stället för får.|넌 다 생각해 뒀구나. 가끔 궁금해. 너 밤에 누워서 양 대신 구명조끼 세는 거 아니야?
+Oskar|A1|Jo. Kasta loss.|응. 줄 풀어.
+Linnea|B1|Varför måste vi slussa? Det ser ju ut som samma vatten.|(새벽 6시 반. 함마르뷔 수문 안. 선외기가 통통거리고, 수문 벽이 축축하게 번들거린다) 왜 수문을 지나야 돼? 똑같은 물로 보이는데.
+Oskar|B2|Mälaren ligger lite högre än Saltsjön. Här inne är det sötvatten, och på andra sidan slussen börjar Östersjön, även om det inte syns.|멜라렌 호수가 살트셰엔보다 조금 높아. 여기 안쪽은 민물이고, 수문 건너편부터 발트해가 시작돼. 눈에는 안 보여도.
+Linnea|A2|Saltvatten! Det luktar annorlunda redan.|(수문이 열리자 코를 킁킁거리며) 바닷물이다! 벌써 냄새가 달라.
+Oskar|B1|Ta rorkulten medan jag sätter segel. Håll henne rakt mot vinden tills jag säger till.|(선외기를 끄고 돛대로 가며) 내가 돛 올리는 동안 키 손잡이 잡아. 내가 말할 때까지 바람 쪽으로 똑바로 세워 둬.
+Linnea|A2|Okej. Vart styr jag sedan?|오케이. 그다음엔 어디로 가?
+Oskar|B1|Mot fyren där borta. Håll den precis till vänster om masten, så går vi fritt från grunden.|저기 등대 쪽으로. 등대가 돛대 바로 왼쪽에 오게 잡아. 그러면 얕은 데를 피해서 가.
+Linnea|B2|I går kväll ritade jag in hela rutten på sjökortet med blyerts, precis som din farfar gjorde med sina strömmingsplatser.|어젯밤에 해도에 항로를 전부 연필로 그려 넣었어. 너희 할아버지가 청어 어장 표시하셨던 것처럼.
+Oskar|B1|Jag såg det. Du hade ritat en väg rakt över ett grund utanför Vaxholm, men annars var den bra.|봤어. 박스홀름 앞 얕은 바위 위로 곧장 지나가게 그렸더라. 그거 말곤 괜찮았어.
+Linnea|A1|Va? Var då?|뭐? 어디?
+Oskar|B2|Jag har redan ändrat den. Du hade somnat med pennan i handen, och jag ville inte väcka dig.|벌써 고쳐 놨어. 너 연필 쥔 채로 잠들었더라. 깨우기 싫었어.
+Linnea|B1|Titta, Vaxholms kastell! Jag har bara sett det från Waxholmsbåten, aldrig från en egen båt.|(오전 10시. 둥근 돌 요새가 물 위에 떠 있는 것처럼 지나간다) 봐, 박스홀름 요새! 군도 여객선에서만 봤지, 우리 배에서 보는 건 처음이야.
+Oskar|B1|Det finns kaffe i termosen. Häll bara upp en halv mugg, annars spiller du när hon krängar.|보온병에 커피 있어. 컵에 반만 따라. 안 그러면 배 기울 때 쏟아.
+Linnea|B2|Gärna. Förresten — jag har undrat ända sedan midsommar vad jag egentligen sa i sömnen.|좋아. 그건 그렇고… 미드섬머 이후로 계속 궁금했는데, 나 잠꼬대로 대체 뭐라고 했어?
+Oskar|A1|Det säger jag inte.|그건 말 안 해.
+Linnea|A2|Snälla! Var det något pinsamt?|제발! 창피한 거였어?
+Oskar|B2|Om jag berättar det nu har jag ingenting kvar att reta dig med resten av sommaren.|지금 말해 버리면, 남은 여름 동안 널 놀릴 거리가 하나도 없잖아.
+Linnea|A1|Du är hemsk.|(웃으며 그의 팔을 친다) 너 진짜 나빠.
+# 장면 2 — 칸홀름스피에르덴, 세 시간 일찍 온 전선
+Oskar|A2|Linnea. Titta västerut.|(오후 3시 반. 칸홀름스피에르덴 한가운데. 산드함까지 한 시간 남짓. 오스카르가 갑자기 고개를 돌린다) 린네아. 서쪽 봐.
+Linnea|B1|Varför är himlen så mörk där borta? Det var ju strålande sol för en kvart sedan.|저쪽 하늘이 왜 저렇게 어두워? 15분 전만 해도 해가 쨍쨍했는데.
+Oskar|A1|Fronten.|전선이야.
+Linnea|A2|Men SMHI sa i kväll!|근데 SMHI는 저녁이라고 했잖아!
+Oskar|B1|Den kom tre timmar för tidigt. Ser du den vita linjen på vattnet? Där har vinden redan kommit.|세 시간 일찍 왔어. 물 위에 하얀 줄 보여? 저기엔 벌써 바람이 와 있어.
+Linnea|A1|Vad gör vi?|어떡해?
+Oskar|A2|Vi revar. Innan den är här.|돛 줄이자. 저게 오기 전에.
+Linnea|A2|Okej. Säg vad jag ska göra.|알았어. 뭘 하면 되는지 말해 줘.
+Oskar|B1|Ta rorkulten. Jag går fram till masten och tar in ett rev.|키 잡아. 난 돛대로 가서 돛을 한 단 줄일게.
+Linnea|A2|Och jag? Vad gör jag?|나는? 난 뭐 해?
+Oskar|B1|Du håller henne upp mot vinden, så att seglet slutar dra. Inte för mycket.|배를 바람 쪽으로 올려서 돛이 바람을 안 받게 해. 너무 많이는 말고.
+Linnea|A1|Så här?|(키 손잡이를 밀며) 이렇게?
+Oskar|A1|Bra. Håll.|좋아. 그대로.
+Linnea|B1|Du har ju alltid sagt att man ska sitta lågt. Varför ställer du dig upp?|너 맨날 몸 낮게 앉으라고 했잖아. 근데 왜 일어서?
+Oskar|B2|En hand för båten och en för mig själv. Det lärde pappa mig innan jag ens kunde simma.|(한 손으로 돛대를 붙잡고) 한 손은 배를 위해, 한 손은 나를 위해. 아빠가 내가 헤엄도 못 칠 때 가르쳐 준 거야.
+Linnea|A1|Var försiktig!|조심해!
+Oskar|A2|Revet är inne. Nu kommer den.|(돛 아랫자락을 묶고 고개를 든다. 물 위의 하얀 줄이 바로 코앞이다) 줄였어. 이제 온다.
+Linnea|A1|Oj!|(첫 돌풍이 내리꽂힌다. 스발란이 확 기울고 뱃전 너머로 물이 쏟아져 들어온다) 으악!
+Oskar|A2|Släpp skotet! Släpp!|시트 풀어! 놔!
+Linnea|A1|Vilket?|어느 거?
+Oskar|A1|Storskotet! Det i din hand!|주범 시트! 네 손에 있는 거!
+Linnea|A2|Hon rätar upp sig… Men vattnet! Det är vatten överallt!|(줄을 놓자 배가 천천히 일어선다) 배가 다시 서… 근데 물! 사방이 물이야!
+Oskar|B1|Det är bara vatten, hon tål det. Lyssna på mig nu, inte på vinden.|그냥 물이야, 스발란은 버텨. 이제 바람 말고 내 말만 들어.
+Linnea|A1|Okej.|(이를 악물고) 알았어.
+Oskar|B1|Vi tar ner storen helt och seglar bara på focken. Då blir hon lugnare.|주범은 완전히 내리고 앞 돛만으로 가자. 그럼 배가 덜 날뛰어.
+Linnea|A2|Ska jag släppa rorkulten?|키 놔야 돼?
+Oskar|A1|Nej! Aldrig.|아니! 절대 놓지 마.
+Linnea|B1|Jag ser nästan ingenting! Regnet piskar mig i ansiktet, och jag vet inte vart jag ska styra.|(빗줄기가 옆으로 몰아친다) 거의 아무것도 안 보여! 비가 얼굴을 때려서 어디로 가야 할지 모르겠어.
+Oskar|B2|Styr mot den gröna pricken och lämna den på höger sida. Till vänster om den ligger ett grund som man inte ser förrän man har gått på det.|저 초록 부표 쪽으로 가. 부표는 오른쪽에 두고 지나. 그 왼쪽에 얕은 바위가 있는데, 거기 걸리기 전까진 안 보여.
+Linnea|A2|Jag ser den! Den gröna!|보여! 초록색!
+Oskar|B1|Vi måste falla av runt pricken. När jag säger nu drar du in fockskotet, så hårt du kan.|부표 돌면서 바람 아래로 틀어야 돼. 내가 '지금' 하면 앞 돛 시트를 있는 힘껏 당겨.
+Linnea|A2|Fockskotet… det blå repet?|앞 돛 시트… 파란 줄?
+Oskar|A1|Ja. Vänta…|그래. 기다려…
+Linnea|A1|Nu?|지금?
+Oskar|A1|Nu!|지금!
+Linnea|A2|Det går inte! Det sitter fast!|안 돼! 꽉 끼었어!
+Oskar|A2|Dra i repet! Med hela kroppen!|줄 당겨! 온몸으로!
+Linnea|A1|Jag drar!|(뒤로 몸을 젖혀 매달린다) 당기고 있어!
+Oskar|A2|Bra! Nu går vi fritt från grundet.|(돛이 팽팽해지고, 배가 바위 옆을 미끄러지듯 지나간다) 좋아! 이제 바위에서 벗어났어.
+Linnea|B2|Stenarna såg ut som ryggarna på stora djur som låg och väntade under ytan.|(배 옆으로 지나가는 검은 바위를 돌아보며, 숨을 몰아쉬고) 바위들이… 물밑에 엎드려서 기다리는 큰 짐승들 등처럼 보였어.
+# 장면 3 — 산드함 항구, 젖은 옷과 떨리는 손
+Oskar|B2|Vinden har inte släppt än, men här i lä bakom Sandön når vågorna oss inte. Om en kvart ligger vi i hamnen.|(오후 5시. 비가 가늘어졌다. 다시 선외기를 켜고 산된 섬 뒤 바람그늘로 들어선다. 앞쪽으로 빽빽한 돛대 숲과 노란 집들) 바람은 아직 안 잦아들었지만, 산된 섬 뒤 바람그늘이라 파도가 여기까진 못 와. 15분이면 항구야.
+Linnea|A2|Jag kan inte sluta skaka.|떨림이 안 멈춰.
+Oskar|B1|Det är adrenalinet som går ur kroppen. Det är helt normalt efter en sådan by.|아드레날린이 빠져나가는 거야. 그런 돌풍 뒤엔 완전히 정상이야.
+Linnea|B1|Hur kan du vara så lugn när mina händer fortfarande darrar?|내 손은 아직도 떨리는데, 넌 어떻게 그렇게 침착해?
+Oskar|A1|Titta på mina.|(키 손잡이에서 한 손을 떼어 내민다. 그 손도 떨리고 있다) 내 손 봐.
+Hamnvärden|B1|Hallå där! Ni kom in mitt i byarna. Är allt bra ombord?|(노란 비옷을 입은 항구 관리인이 부두 끝에서 손을 흔든다) 거기요! 돌풍 한가운데로 들어오셨네요. 배는 다 괜찮아요?
+Linnea|A1|Ja. Vi lever!|네. 살아 있어요!
+Hamnvärden|B1|Lägg er med aktern mot den gula bojen och fören mot bryggan, så tar jag emot linan.|고물은 저 노란 부표에, 이물은 부두 쪽으로 대세요. 밧줄은 제가 받을게요.
+Oskar|A2|Linnea, ta linan i fören och kasta den till honom.|(고물 쪽에서 부표에 줄을 걸며) 린네아, 이물에 있는 밧줄 잡아서 저분한테 던져.
+Linnea|A1|Ett, två… nu!|(밧줄을 감아 쥐고) 하나, 둘… 지금!
+Hamnvärden|A2|Fint kast! Jag har den.|잘 던지셨네요! 받았어요.
+Linnea|B1|Tack! Finns det varma duschar här? Vi är blöta ända in på skinnet.|고마워요! 여기 따뜻한 샤워실 있어요? 저희 속옷까지 다 젖었어요.
+Hamnvärden|B2|Servicehuset ligger uppe vid backen, och koden får ni av mig när ni betalar hamnavgiften. Det här var inte vad SMHI lovade, så ni är långt ifrån de enda som har kommit in med skräck i blicken idag.|편의시설 건물은 저 언덕 위에 있고, 정박료 내실 때 출입 번호 알려 드릴게요. 오늘은 SMHI 예보랑 영 딴판이었으니까, 겁에 질린 얼굴로 들어온 분들이 두 분만은 절대 아니에요.
+Oskar|A2|Vi hade koll. Fronten hade inte det.|저희는 다 알고 나왔어요. 전선이 몰랐던 거죠.
+Linnea|B2|Jag stod under den varma duschen i tjugo minuter, och ändå känns det fortfarande som om marken gungar.|(저녁 7시. 샤워를 하고 방수 가방에서 꺼낸 마른 옷으로 갈아입었다. 젖은 옷들은 붐에 줄줄이 널려 있다. 콕핏에 앉아) 뜨거운 물 밑에 20분이나 서 있었는데, 아직도 땅이 흔들리는 것 같아.
+Oskar|B1|Det gör det i flera timmar efter en dag på sjön. Kroppen har inte förstått att vi är framme än.|바다에서 하루 보내면 몇 시간은 그래. 몸이 아직 도착한 걸 모르는 거야.
+Linnea|B2|Utan dina torra kläder i sjösäcken hade jag frusit ihjäl. Okej, kanske inte ihjäl, men nästan.|네 방수 가방에 마른 옷 없었으면 나 얼어 죽었을 거야. 그래, 죽진 않았겠지만, 거의.
+Oskar|A2|Ät nu. Ärtsoppa. Från burk, men varm.|(작은 트랑기아 버너에서 냄비를 내려 컵에 붓는다) 이제 먹어. 완두콩 수프. 통조림이지만 따뜻해.
+Linnea|B2|Ärtsoppa på en lördag? Jag trodde att du fick utslag om någon åt den en annan dag än torsdag.|토요일에 완두콩 수프? 목요일 말고 다른 날 먹으면 너 두드러기라도 나는 줄 알았는데.
+Oskar|B1|På sjön gäller inte sådana regler. Pappa hade alltid två burkar under toften.|바다에선 그런 규칙 없어. 아빠는 늘 좌판 밑에 통조림 두 개를 넣어 다녔어.
+Linnea|B1|Jag har aldrig varit så rädd i hela mitt liv.|(컵을 두 손으로 감싸 쥐고, 한참 있다가) 나 평생 그렇게 무서웠던 적 없어.
+Oskar|A1|Jag vet.|알아.
+Linnea|B2|När båten lade sig på sidan och vattnet forsade in över relingen tänkte jag på din pappa. Förlåt, jag vet inte om man får säga så.|배가 옆으로 눕고 뱃전 너머로 물이 쏟아져 들어올 때, 너희 아빠 생각이 났어. 미안해, 이런 말 해도 되는지 모르겠다.
+Oskar|B1|Det får man. Jag tänkte på honom också. Varje sekund.|해도 돼. 나도 아빠 생각했어. 매 순간.
+Linnea|A2|Var du också rädd?|너도 무서웠어?
+Oskar|B2|Mer än du tror. Men när man har ansvar för någon ombord har man inte råd att visa det. Rädslan får vänta tills man ligger i hamn.|네가 생각하는 것보다 더. 근데 배에 누굴 태우고 있으면 그걸 보여 줄 여유가 없어. 무서운 건 항구에 들어올 때까지 기다려야 돼.
+Linnea|A2|Och nu ligger vi i hamn.|그리고 이제 우린 항구에 있어.
+Oskar|A2|Ja. Nu får den komma.|(숟가락을 내려놓는다. 두 손에 얼굴을 묻고 길게 숨을 내쉰다. 어깨가 조금 떨린다) 응. 이제 와도 돼.
+Linnea|B1|Kom hit. Nu är det min tur att hålla i dig.|(그의 옆으로 옮겨 앉아 두 팔로 감싼다) 이리 와. 이번엔 내가 너 붙잡아 줄 차례야.
+# 장면 4 — 캔버스 덮개 아래, 판자 너머의 바다
+Oskar|A2|Hör du? Det är havet.|(밤 11시. 붐 위로 씌운 캔버스 덮개(kapell) 아래, 바닥 판자 위에 침낭 두 개. 바람은 잦아들었고, 항구 건너편 요트 클럽 호텔의 불빛이 덮개 틈으로 비친다. 선체 판자 너머로 물이 찰랑인다) 들려? 바다야.
+Linnea|B2|Det låter precis som du sa i juni, som om vågorna pratade med båten genom plankorna.|6월에 네가 말한 거랑 똑같아. 파도가 판자 너머로 배한테 말을 거는 것 같아.
+Oskar|B1|Nummer tre på listan: sova en natt ombord. Du får stryka den, om du vill.|목록 3번. 배에서 하룻밤 자기. 줄 그어도 돼, 원하면.
+Linnea|A1|Ge mig pennan.|(헤드랜턴을 켜고 노란 노트를 편다) 연필 줘.
+Oskar|A2|Du var modig idag.|(그녀가 3번에 줄을 긋는 걸 지켜보다가) 너 오늘 용감했어.
+Linnea|B1|Modig? Jag gjorde bara det du sa. Jag hann inte ens tänka.|용감? 난 그냥 네가 시키는 대로 했을 뿐이야. 생각할 틈도 없었어.
+Oskar|B2|Det är just därför. Det svåraste ombord är inte att dra i ett rep, utan att släppa sin egen vilja och göra precis det någon annan säger, i rätt sekund.|바로 그래서야. 배에서 제일 어려운 건 줄 당기는 게 아니야. 내 고집을 내려놓고 다른 사람이 말한 걸 딱 그 순간에 그대로 하는 거지.
+Linnea|B2|I stormen fanns ingen tid att tvivla — jag var tvungen att lita på dig helt.|폭풍 속에선 의심할 시간이 없었어. 널 완전히 믿을 수밖에 없었어.
+Oskar|B1|Och det gjorde du. Du frågade inte en enda gång varför.|그리고 넌 그렇게 했어. 왜냐고 한 번도 안 물었어.
+Linnea|B2|Det konstiga är att jag aldrig har litat helt på någon förut, inte ens på mig själv. Jag läser ju alltid hela kapitlet innan jag vågar översätta första meningen.|이상한 건, 나 지금까지 누굴 완전히 믿어 본 적이 없다는 거야. 나 자신도. 난 늘 한 장을 끝까지 다 읽고 나서야 첫 문장을 번역할 용기가 나잖아.
+Oskar|B2|Pappa brukade säga att man måste lita på isen, men aldrig blint. Jag tror att det gäller havet också. Och människor.|아빠가 늘 그랬어. 얼음은 믿어야 하지만 절대 눈 감고 믿으면 안 된다고. 바다도 그런 것 같아. 사람도.
+Linnea|B1|Litar du blint på mig, då?|그럼 넌 나 눈 감고 믿어?
+Oskar|B1|Nej. Jag litar på dig med öppna ögon. Det är större.|아니. 난 눈 뜨고 널 믿어. 그게 더 큰 거야.
+Linnea|B2|Den repliken skriver jag upp i den gula anteckningsboken, bredvid alla seglingsord. Fast jag misstänker att du har övat på den.|그 대사는 노란 노트에 적어 둘래. 항해 용어들 옆에. 근데 너 그거 연습한 것 같은데.
+Oskar|A1|Lite.|조금.
+Linnea|B2|En sak till. När du stod vid masten och vattnet forsade runt dina ben, lovade jag mig själv att aldrig mer klaga på flytvästen.|하나 더. 네가 돛대 옆에 서 있고 다리 주위로 물이 콸콸 흐를 때, 다시는 구명조끼 갖고 불평 안 하겠다고 나 자신한테 약속했어.
+Oskar|B2|Det tänker jag påminna dig om varje gång du säger att orange inte är din färg.|그 말, 네가 주황색은 내 색 아니라고 할 때마다 상기시켜 줄 거야.
+Linnea|B1|Ska vi segla hem redan i morgon? Jag vet inte om jag vågar, efter idag.|내일 바로 집으로 돌아가? 오늘 같은 일 겪고 나니까 자신이 없네.
+Oskar|B2|Inte direkt hem. Det finns en liten ö på vägen tillbaka som inte har något namn på sjökortet, och dit har jag aldrig tagit med någon.|곧장 집으로는 아니고. 돌아가는 길에 해도에 이름도 안 나오는 작은 섬이 하나 있어. 거긴 아무도 데려간 적 없어.
+Linnea|A1|Aldrig? Inte ens Ahmed?|한 번도? 아메드도?
+Oskar|B1|I morgon visar jag dig mitt smultronställe.|(고개를 젓고, 랜턴을 끈다. 어둠 속에서) 내일, 내 산딸기 자리를 보여 줄게.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Nu!** | 지금! | 가장 짧은 명령. 배 위에선 *Nu!* 한마디가 "지금 당장 해"라는 뜻이다. *Nu?*(지금?)라고 되물으면 확인 질문 |
+| `A1` | **Vad gör vi?** | 어떡해? / 우리 뭐 해? | 직역은 "우리 뭘 해?". 당황했을 때 가장 자연스러운 한마디. 현재형이 가까운 미래도 나타낸다 |
+| `A2` | **Dra i repet!** | 줄 당겨! | *dra i* + 명사 = ~를 잡아당기다. *repet* = *rep*(줄, 중성)의 한정형. *dra*처럼 모음으로 끝나는 짧은 동사는 원형이 그대로 명령형이 된다: *Dra!* |
+| `A2` | **Släpp skotet!** | 시트 풀어! | *släppa → släpp!* (명령형은 -a를 뗀 형태). *skot* = 돛을 조절하는 줄(sheet), 한정형 *skotet* |
+| `B1` | **Jag har aldrig varit så rädd i hela mitt liv.** | 평생 이렇게 무서웠던 적이 없어. | 현재완료 *har varit* + *aldrig* = ~한 적이 없다. *i hela mitt liv* = 내 평생에. *liv*가 중성이라 *mitt* |
+| `B1` | **Vi är blöta ända in på skinnet.** | 속까지 흠뻑 젖었어요. | *ända in på skinnet* = 살갗까지 = 완전히. 주어가 복수라 형용사도 복수형 *blöta* |
+| `B1` | **När jag säger nu drar du in fockskotet.** | 내가 '지금' 하면 앞 돛 시트를 당겨. | 종속절(*när…*)이 앞에 오면 주절은 동사부터: *drar du*. V2 어순 연습에 좋은 문장 |
+| `B2` | **I stormen fanns ingen tid att tvivla — jag var tvungen att lita på dig helt.** | 폭풍 속에선 의심할 시간이 없었어. 널 완전히 믿을 수밖에 없었어. | *det fanns* = ~이 있었다(여기선 부사구가 앞에 와서 *fanns ingen tid*). *vara tvungen att* = ~할 수밖에 없다. *lita på* = ~를 믿다 |
+| `B2` | **Man måste lita på isen, men aldrig blint.** | 얼음은 믿어야 하지만, 절대 맹목적으로 믿으면 안 된다. | 하칸의 말(2부). 일반 주어 *man*과 *måste*. *blint* = 눈먼 채로 → 맹목적으로(형용사 *blind*의 부사형 -t) |
+| `B2` | **En hand för båten och en för mig själv.** | 한 손은 배를 위해, 한 손은 나를 위해. | 뱃사람들의 오래된 안전 수칙: 움직일 때 한 손은 늘 배를 붙잡고 있으라는 말. *själv*로 '나 자신'을 강조 |
+
+## 문화 메모
+- **SMHI와 해상 예보** — 스웨덴 기상수문연구소(SMHI)는 바다를 나가는 사람들이 가장 먼저 확인하는 곳이다. 해상 예보(*sjöväder*)는 바람을 시속이 아니라 **초속 미터(m/s)**로 알려 주고, 해역별로 돌풍(*byar*) 가능성을 함께 표시한다. 여름의 한랭전선은 예보보다 몇 시간 빨리 오기도 해서, 노련한 선원들은 예보만큼이나 서쪽 하늘과 물 위의 하얀 바람 줄을 본다.
+- **구명조끼(flytväst)** — 스웨덴에서는 해마다 익사 사고의 상당수가 보트를 타다 일어나고, 그중 대부분이 구명조끼를 입지 않았다는 통계가 반복해서 나온다. 그래서 해양구조협회(*Sjöräddningssällskapet*) 같은 단체는 "부두에서 부두까지" 늘 입으라고 캠페인을 한다. 오스카르의 규칙은 유난이 아니라 상식이다.
+- **멜라렌에서 바다로 — 수문(sluss)** — 스톡홀름은 민물 호수 멜라렌과 바다(발트해의 살트셰엔)가 만나는 자리에 세워졌다. 멜라렌의 수면이 바다보다 조금 높아서, 배가 오가려면 시내의 수문을 지나야 한다. 레저 보트는 주로 쇠데르말름 동쪽의 함마르뷔 수문(*Hammarbyslussen*)을 이용한다.
+- **산드함(Sandhamn)과 손님 항구** — 스톡홀름 군도 바깥쪽 산된(*Sandön*) 섬의 마을로, 19세기 말부터 왕립 스웨덴 요트 클럽(KSSS)의 거점이 있는 스웨덴 요트의 성지다. 여름이면 항구가 돛대로 빽빽하다. 스웨덴의 손님 항구(*gästhamn*)에서는 흔히 고물을 부표(*boj*)에 걸고 이물을 부두(*brygga*)에 대며, 정박료(*hamnavgift*)를 내면 샤워실과 화장실을 쓸 수 있다. 비비카 스텐의 추리소설 '산드함 시리즈'의 무대로도 유명하다.
+
+## 다음 화 예고 — 5화 *Smultronställe* (산딸기 자리)
+폭풍이 지나간 다음 날 아침, 바다는 거울처럼 잔잔하다. 스발란은 산드함을 떠나 돌아가는 길에 항로에서 살짝 벗어난다. 해도에 이름조차 없는 작은 바위섬, 오스카르가 지금까지 누구에게도 보여 준 적 없는 곳. 따뜻한 화강암 위의 햇볕, 바위틈에 숨은 빨간 산딸기. 오스카르가 마지막 스웨덴어 단어 *smultronställe*를 건네고, 린네아는 마지막 한국어 단어로 답한다 — *설렘*. 그리고 얼음장 같은 바다를 향해: *Hoppa!*
