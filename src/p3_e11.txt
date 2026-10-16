@@ -1,0 +1,155 @@
+@title 3부 11화 — Valborg
+@subtitle (발보리의 밤)
+@meta 날짜|4월 30일 목요일 (Valborgsmässoafton), 저녁 7시 40분 ~ 9시 40분쯤 (맑음, 낮엔 영상 13도였지만 해가 지자 7도까지 떨어짐, 일몰 8시 40분쯤)
+@meta 장소|스칸센(Skansen), 유르고르덴 — 모닥불 언덕의 잔디밭 → 물이 내려다보이는 언덕 가장자리 난간 → 다시 꺼져 가는 모닥불 앞
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31) · **Ahmed** (아메드, 32) · **Leila** (레일라, 31) · **Ida** (이다, 32) · **Samir** (사미르, 29)
+@intro **지난 이야기** 4월 23일 목요일, 롱홀멘. 스발란에 마지막 세 번째 타르를 바르던 오후, 회르뇌산드의 회가쿠스텐 해양박물관장 케르스틴 비클룬드에게서 전화가 왔다. 1891년 울롱에르에서 지어진 갈레아스 '잉에보리'를 2년 동안 복원해 달라는 제안 — 7년 전 그 배를 항구로 끌고 들어온 사람은 오스카르의 아버지 하칸이었다. 오스카르는 처음 보는 사람에게 먼저 "Jag har dyslexi"라고 말했고, 장갑도 벗기 전에 린네아에게 전화했다. "Jag ville inte göra samma misstag som du." 답변 기한은 린네아의 서울과 같은 5월 31일. 서로를 위해 거절하지도, 남지도 않기로 약속한 저녁, 따뜻한 바위 위에서 린네아가 물었다. "Tänk om vi båda åker?"
+@intro 일주일 뒤, 발보리 전야. 스웨덴 곳곳의 언덕에서 모닥불이 겨울을 태워 보내는 밤이다. 스칸센의 언덕에도 마른 가지와 낡은 판자를 쌓은 커다란 장작 더미가 서 있고, 그 앞 잔디밭은 담요와 보온병과 흰 학생 모자로 빽빽하다. 아메드는 여섯 시부터 불 가까운 자리를 지키고 있다. 이다는 "늦는다"는 문자만 보냈다 — 주어가 "나"가 아니라 "우리"인 문자를.
+# 장면 1 — 모닥불, 봄 노래, 흰 모자
+Ahmed|A2|Här! Jag har hittat en plats nära elden. Kom!|(4월 30일 목요일 저녁 7시 40분, 스칸센. 언덕 위 잔디밭이 사람들로 빽빽하다. 가운데엔 아직 불 붙지 않은 커다란 장작 더미. 아메드가 두 팔을 휘두른다) 여기! 불 가까운 자리 잡았어요. 와요!
+Leila|B2|Han har stått här sedan sex för att hålla platsen, och av matsäcken som skulle räcka till oss alla har han redan ätit upp hälften.|(돗자리 위에서 보온병을 꺼내며, 린네아에게) 이 사람 자리 맡는다고 여섯 시부터 여기 서 있었어요. 다 같이 먹으려고 싸 온 도시락을 벌써 반이나 먹었고요.
+Linnea|B1|Hej! Förlåt att vi är sena. Färjan var full av folk i studentmössor som redan hade börjat sjunga.|안녕하세요! 늦어서 미안해요. 배가 학생 모자 쓴 사람들로 꽉 찼는데, 벌써들 노래를 부르고 있더라고요.
+Ahmed|A2|Vad har du på huvudet, Linnea?|린네아 씨, 머리에 그거 뭐예요?
+Linnea|B1|Min studentmössa. Pappa tar på sig sin varje valborg, så jag har gjort likadant sedan jag tog studenten.|(흰 바탕에 검은 챙, 앞에 작은 휘장이 달린 모자. 살짝 누렇게 바랬다) 학생 모자요. 아빠가 발보리마다 자기 걸 쓰시거든요. 그래서 저도 졸업한 뒤로 똑같이 하고 있어요.
+Ahmed|A1|Du ser ut som en kapten.|선장님 같네요.
+Oskar|B2|En riktig kapten skulle aldrig ha en vit mössa. Den skulle vara svart av tjära efter en enda dag.|(담요를 어깨에 메고, 아주 진지하게) (아메드에게) 진짜 선장은 흰 모자 절대 안 써. 하루만 지나도 타르 때문에 새까매질걸.
+Leila|B1|Min ligger i en plastpåse hemma hos mamma i Tensta. Hon säger att det är det finaste hon äger.|제 건 텐스타 엄마 집에 비닐봉지에 싸여 있어요. 엄마는 그게 자기가 가진 것 중에 제일 귀한 거래요.
+Linnea|A2|Och du, Oskar? Har du en mössa?|너는, 오스카르? 모자 있어?
+Oskar|B1|Den ligger i en låda hos farmor. Den luktar nog strömming vid det här laget.|할머니 집 서랍에 있어. 지금쯤이면 아마 청어 냄새 날걸.
+Ahmed|B2|Min tappade jag på tunnelbanan samma kväll som jag tog studenten, och jag har bestämt mig för att tro att någon i Rinkeby fortfarande bär den med stolthet.|내 건 졸업한 날 밤에 지하철에서 잃어버렸어요. 링케뷔 어딘가에서 누가 아직도 그걸 자랑스럽게 쓰고 다닌다고 믿기로 했어요.
+Linnea|A2|Var är tvillingarna i kväll?|쌍둥이는 오늘 어디 있어요?
+Leila|B1|Hos mina föräldrar i Tensta. De får grilla korv på balkongen, så de har redan glömt bort oss.|텐스타 우리 부모님 댁이요. 발코니에서 소시지 구워 먹게 해 준다니까 벌써 우리는 까맣게 잊었어요.
+Ahmed|A2|Och Ida? Hon sa att hon skulle komma.|그럼 이다는요? 온다고 했잖아요.
+Linnea|A2|Hon skrev nyss. Vänta… "Vi är sena. Spara plats nära elden."|(휴대폰을 본다) 방금 문자 왔어요. 잠깐만… "우리 늦어. 불 가까이 자리 맡아 둬."
+Ahmed|A1|"Vi"? Vilka "vi"?|"우리"? 우리가 누군데요?
+Linnea|A1|Ingen aning.|(너무 빨리) 전혀 모르겠는데요.
+Oskar|A1|Ingen aning alls.|(무표정하게 담요를 펴며) 전혀 모르겠는데.
+Leila|B2|Ni ljuger båda två, och ni gör det dessutom väldigt dåligt. Låt bli, Ahmed. Vi får veta snart nog.|두 사람 다 거짓말하네요. 그것도 아주 못하게. 그만둬, 아메드. 곧 알게 되겠지.
+Linnea|B1|Lyssna, nu sjunger kören. "Vintern rasat" – den sjungs väl på varenda valborgsfirande i hela landet.|(장작 더미 옆 무대에 흰 학생 모자를 쓴 남성 합창단이 줄지어 서고, 첫 화음이 언덕 위로 퍼진다) 들어 봐, 합창 시작했어. '빈테른 라사트' — 전국 발보리 행사란 행사에선 다 부를걸.
+Oskar|B2|"Vintern rasat ut bland våra fjällar…"|(아주 낮은 목소리로, 합창을 따라 부른다) "우리의 산들 사이에서 겨울은 실컷 날뛰고 물러갔네…"
+Linnea|A1|Sjunger du?!|너 노래해?!
+Oskar|B2|Farmor sjöng den varje vår när isen släppte i viken, fast hon påstod att den var skriven av någon som aldrig hade sett en riktig norrländsk vinter.|만에 얼음이 풀릴 때마다 할머니가 부르셨어. 진짜 노를란드 겨울은 구경도 못 해 본 사람이 쓴 노래라고 투덜대시면서.
+Ahmed|B1|Tio år, len. På tio år har jag aldrig hört dig sjunga, inte ens "Ja, må han leva" när tvillingarna fyllde år.|십 년이다, 야. 십 년 동안 네가 노래하는 거 한 번도 못 들었어. 쌍둥이 생일 때 생일 축하 노래도 안 불렀잖아.
+Leila|A2|Tyst, Ahmed. Nu tänder de elden!|(합창이 끝나고, 횃불을 든 사람이 장작 더미로 다가간다) 쉿, 아메드. 이제 불 붙인다!
+Linnea|A1|Titta!|(마른 가지에 불이 옮겨붙더니, 순식간에 불길이 장작 더미를 타고 올라간다. 언덕 위에서 환호성) 봐!
+Ahmed|A1|Vad varmt!|(한 걸음 물러서며 손바닥으로 얼굴을 가린다) 와, 따뜻하다!
+Leila|B2|I fjol frös vi så mycket att Ahmed stod med ryggen mot elden hela kvällen och påstod att han "laddade batterierna".|작년엔 너무 추워서 아메드가 저녁 내내 불에 등을 대고 서서는 "배터리 충전 중"이라고 우겼어요.
+Oskar|B2|Förr i tiden tände man brasor för att skrämma bort rovdjuren innan korna släpptes ut på bete. Nu bränner vi bara bort vintern.|(불을 바라보며) 옛날엔 소들을 풀밭에 내놓기 전에 맹수들 쫓으려고 불을 피웠대요. 지금은 그냥 겨울을 태워 보내는 거고.
+Linnea|A2|Vintern är äntligen slut.|(불빛이 그녀의 흰 모자를 주황색으로 물들인다. 오스카르의 팔에 머리를 기대며) 겨울이 드디어 끝났어.
+# 장면 2 — "우리"의 정체
+Ida|A2|Hej allihop! Där är ni ju.|(사람들 사이를 헤치고 이다가 나타난다. 머리엔 린네아 것과 똑같이 바랜 학생 모자. 그리고 오른손은 — 사미르의 왼손을 꼭 쥐고 있다) 다들 안녕! 여기 있었네.
+Samir|A1|Hej.|(얼굴이 모닥불보다 빨갛다) 안녕하세요.
+Ahmed|A1|Samir?!|(입을 벌린 채, 맞잡은 손과 사미르의 얼굴을 번갈아 본다) 사미르?!
+Samir|A1|Hej, Ahmed.|안녕, 형.
+Ahmed|A2|Min kusin Samir?! Han som aldrig går ut?|내 사촌 사미르?! 밖에 절대 안 나오는 그 사미르?!
+Leila|A1|Ahmed. Andas.|아메드. 숨 쉬어.
+Ahmed|B1|Jag visste det! "Ida skrev", sa han på Lyktan. Jag visste det redan då, walla!|알았어! Lyktan에서 "이다 씨가 문자 하셨어요" 그랬을 때. 그때 이미 알았다고, 진짜로!
+Leila|B1|Du visste ingenting. Du kom hem och pratade om fotboll hela kvällen.|아무것도 몰랐잖아. 집에 와서 저녁 내내 축구 얘기만 했으면서.
+Ahmed|B2|Jag tänkte! Det syntes kanske inte utanpå, men inombords pågick en hel utredning, walla.|생각은 하고 있었거든! 겉으로는 티가 안 났어도, 속으로는 수사 하나가 통째로 진행 중이었다고, 진짜.
+Ida|B2|Kan vi sätta oss först? Jag har gått hela vägen från Djurgårdsbron i skor som uppenbarligen var gjorda för att stå still.|일단 좀 앉으면 안 돼? 유르고르덴 다리부터 여기까지 걸어왔거든. 이 신발은 아무래도 가만히 서 있으라고 만든 건가 봐.
+Ahmed|B1|Nej, nej, nej. Ingen sätter sig förrän någon förklarar. Är ni tillsammans, eller vad är det här?|안 돼, 안 돼, 안 돼. 누가 설명하기 전엔 아무도 못 앉아. 너희 사귀는 거야, 아니면 이게 뭔데?
+Ida|A2|Det tar vi sen, Ahmed.|(돗자리에 털썩 앉으며, 손을 휘휘 젓는다) 그건 나중에 얘기해, 아메드.
+Linnea|A1|Sen?|(오스카르와 동시에 고개를 홱 든다) 나중에?
+Oskar|A1|Sen?|나중에요?
+Ida|B1|Vad är det med er två och ordet "sen"? Ni tittade på mig exakt så där på Lyktan också.|너희 둘은 '나중에'라는 말에 무슨 원한 있어? Lyktan에서도 딱 그렇게 쳐다봤잖아.
+Linnea|B2|Vi har lovat varandra att aldrig säga "sen". Det började i Härnösand i december, och när jag bröt löftet i februari höll det på att kosta oss allt.|우리 서로한테 절대 '나중에'라고 안 하기로 약속했어. 12월에 회르뇌산드에서 시작된 건데, 2월에 내가 그 약속을 깼다가 하마터면 전부 잃을 뻔했어.
+Ida|B1|Ni har förbjudit ett helt ord? Det är det mest Linnea-aktiga jag har hört i hela mitt liv.|단어 하나를 통째로 금지했다고? 내 평생 들은 것 중에 제일 린네아다운 소리네.
+Oskar|B1|Det var hennes idé, men jag håller fast vid den. "Sen" betyder oftast "aldrig".|린네아 아이디어였어요. 그래도 전 지켜요. '나중에'는 대개 '절대 안 한다'는 뜻이니까요.
+Ida|B2|Okej, okej. Om jag inte får säga "sen", så får jag väl säga det nu, även om jag hade tänkt göra det med lite mer stil och lite mindre publik.|알았어, 알았어. '나중에'라고 못 하면 지금 말하는 수밖에 없겠네. 좀 더 멋있게, 구경꾼도 좀 적을 때 하려고 했는데.
+Samir|A2|Ja. Vi är tillsammans.|(이다보다 먼저, 생각보다 큰 목소리로) 네. 저희 사귀어요.
+Ida|A1|Samir!|사미르!
+Samir|B1|Förlåt. Du tog så lång tid på dig att jag blev nervös, och när jag är nervös…|죄송해요. 너무 오래 뜸 들이셔서 긴장했어요. 제가 긴장하면…
+Leila|A2|…pratar han. Det vet vi alla.|…말이 많아지지. 다들 알아.
+Ahmed|B2|Vänta. På nyårsafton, innan du kom, sa han: "Om ett år hoppas jag att jag är modigare än jag är idag." Det var ditt nyårslöfte, eller hur, Samir?|잠깐. 섣달그믐에 너 오기 전에 얘가 그랬어. "1년 뒤엔 지금보다 용감한 사람이었으면 좋겠어요." 그게 네 새해 결심이었지, 사미르?
+Ida|A2|Var det? Det har du aldrig berättat.|(사미르를 돌아본다) 그랬어? 그 얘기는 한 번도 안 했잖아.
+Samir|B1|Det har inte gått ett år än, bara fyra månader. Men jag tyckte att det var dags.|아직 1년 안 됐어요. 겨우 넉 달이에요. 그래도 이제 때가 된 것 같았어요.
+Linnea|B2|Då har du hållit ditt nyårslöfte åtta månader för tidigt. Det har ingen i vår familj någonsin lyckats med.|그럼 새해 결심을 여덟 달이나 일찍 지킨 거네요. 우리 집안에선 아무도 그런 적 없어요.
+Ida|A2|Sluta. Nu gråter jag nästan.|(모자 챙을 끌어내리며) 그만해. 나 울 것 같잖아.
+Oskar|B1|Samir. Nu är det din tur att sitta på pallen hemma hos Ida. Jag har suttit där. Lycka till.|(사미르의 어깨를 툭 친다) 사미르. 이제 네가 이다 씨네 그 의자에 앉을 차례다. 난 앉아 봤어. 행운을 빈다.
+Samir|A1|Pallen?|(겁먹은 얼굴로 이다를 본다) 그 의자… 요?
+# 장면 3 — 7천 킬로미터, 7시간
+Linnea|A2|Kom. Jag vill visa dig en sak.|(밤 9시 가까이. 해가 지고, 모닥불 불길이 조금 낮아졌다. 이다가 사미르에게 '심문 규칙'을 설명하는 사이, 린네아가 오스카르의 손을 잡아끈다) 와 봐. 보여 주고 싶은 게 있어.
+Oskar|A1|Vad då?|뭔데?
+Linnea|B1|Härifrån ser man ända bort till Söder. Någonstans där borta ligger Lyktan.|(언덕 가장자리 난간. 아래로 검은 물, 그 건너편 쇠데르 절벽 위로 창문 불빛들이 줄지어 있다) 여기선 쇠데르까지 다 보여. 저기 어딘가에 Lyktan이 있어.
+Oskar|B1|I torsdags frågade du: "Tänk om vi båda åker?" Jag har knappt tänkt på något annat sedan dess.|지난 목요일에 네가 그랬잖아. "우리 둘 다 떠나면 어떨까?" 그 뒤로 다른 생각은 거의 못 했어.
+Linnea|B2|Inte jag heller. Jag har översatt två sidor på en vecka, och båda måste göras om, eftersom jag hela tiden tänkte på tidszoner i stället för på texten.|나도. 일주일 동안 번역 두 쪽 했는데, 둘 다 다시 해야 돼. 글 대신 계속 시간대 생각만 했거든.
+Oskar|B2|Jag har räknat. Det är ungefär sjutusen kilometer mellan Härnösand och Seoul, och det går inga direktflyg från Midlanda.|계산해 봤어. 회르뇌산드에서 서울까지 대충 7천 킬로미터야. 그리고 미들란다 공항에선 직항이 없어.
+Linnea|A1|Du har räknat?|(웃음이 터진다) 계산해 봤어?
+Oskar|A1|Jo. Jag räknar.|응. 난 세는 사람이잖아.
+Linnea|B1|Och jag har räknat ut tidsskillnaden. På sommaren ligger Seoul sju timmar före oss, och på vintern åtta.|그럼 난 시차를 계산했지. 여름엔 서울이 우리보다 일곱 시간 빠르고, 겨울엔 여덟 시간.
+Oskar|A2|Varför inte samma hela året?|왜 일 년 내내 똑같지 않아?
+Linnea|B2|För att man inte ställer om klockan i Korea. När vi går över till vintertid i slutet av oktober blir skillnaden en timme större – som om den inte vore stor nog redan.|한국은 시계를 안 바꾸거든. 우리가 10월 말에 겨울 시간으로 바꾸면 차이가 한 시간 더 벌어져. 안 그래도 충분히 먼데 말이야.
+Oskar|B1|Så när jag äter lunch klockan tolv, äter du middag.|그럼 내가 열두 시에 점심 먹을 때, 넌 저녁 먹는 거네.
+Linnea|B1|Och när du lägger dig klockan tio, är det redan morgon hos mig.|그리고 네가 밤 열 시에 잘 때면, 나한텐 벌써 아침이고.
+Oskar|A2|Då ringer vi på min lunch. Varje dag.|그럼 내 점심시간에 통화하자. 매일.
+Linnea|B2|Varje dag? Du som tyckte att tre meningar i veckan var en hel roman?|매일? 일주일에 세 문장이면 장편소설 한 권이라던 사람이?
+Oskar|B1|Det var förut. Nu har jag mer att säga.|그건 예전 얘기고. 이젠 할 말이 더 많아.
+Linnea|B1|Och pengarna? En flygbiljett till Seoul kostar minst tiotusen kronor tur och retur.|그리고 돈은? 서울 가는 비행기표는 왕복으로 최소 만 크로나야.
+Oskar|B1|Om du åker till Seoul kan jag hälsa på dig.|네가 서울에 가면, 내가 너 보러 갈 수 있어.
+Linnea|A2|Hur då? Du har ju Ingeborg.|어떻게? 넌 잉에보리가 있잖아.
+Oskar|B2|De stora pengarna kommer först nästa vår, och på vintern är det lugnt på ett varv. Om jag sparar semesterdagar kan jag komma i februari, när alla här är som tröttast på mörkret.|큰 예산은 내년 봄에야 들어오고, 겨울엔 조선소가 한가해. 휴가를 아껴 두면 2월에 갈 수 있어. 여기 사람들이 어둠에 제일 지쳐 있을 때.
+Linnea|B2|I februari? Då kan det vara minus tio i Seoul, med en vind från Sibirien som går rakt igenom kläderna.|2월에? 그때 서울은 영하 10도까지 내려가. 시베리아에서 부는 바람이 옷을 그냥 뚫고 들어온다고.
+Oskar|B1|Du lovade att visa mig Seoul en vinter. Och jag sa: "En dag åker vi dit."|네가 언젠가 겨울에 서울 보여 준다고 했잖아. 그리고 내가 그랬지. "언젠가 같이 가자."
+Linnea|B1|Och jag får komma hem över jul, det står i kontraktet. Jul i Härnösand, hos Britt, med sju sorters kakor.|그리고 난 크리스마스엔 집에 올 수 있어. 계약서에 있어. 회르뇌산드에서, 브리트 할머니 댁에서, 과자 일곱 가지랑 보내는 크리스마스.
+Oskar|B2|Farmor skulle gråta av glädje, och sedan skulle hon påstå att det bara var röken från vedspisen.|할머니 기뻐서 우시겠다. 그러고는 장작 난로 연기 때문이라고 우기시겠지.
+Linnea|A2|Har du berättat för henne om Ingeborg nu?|이제 할머니한테 잉에보리 얘기는 했어?
+Oskar|B1|I söndags, när hon ringde. Hon sa "jaha". Den glada sorten.|일요일에, 할머니가 전화하셨을 때. "jaha" 하시더라. 기쁜 쪽 jaha.
+Linnea|A1|Och? Vad mer?|그래서? 또 뭐라셨는데?
+Oskar|B1|Hon var tyst länge. Sedan frågade hon: "Å jänta, då? Hur blir det med jänta?" Hon menade dig.|한참 말이 없으셨어. 그러다 물으셨지. "그럼 그 처자는? 그 처자는 어쩌고?" 너 말하는 거였어.
+Linnea|A2|Vad svarade du?|넌 뭐라고 했어?
+Oskar|B1|Att jag inte visste än, men att jag inte tänkte gissa ensam.|아직 모른다고. 그래도 혼자 짐작하진 않을 거라고.
+Linnea|B2|Det är inte flygbiljetterna jag är rädd för, Oskar. Det är att vi blir två röster i en telefon som pratar om vädret, medan allt som är viktigt händer någon annanstans.|내가 무서운 건 비행기표가 아니야, 오스카르. 우리가 전화기 속 두 목소리가 돼서 날씨 얘기나 하고, 정작 중요한 일은 전부 다른 데서 일어나는 거. 그게 무서워.
+Oskar|B2|Malin och jag bodde i samma stad, och vi sågs varje dag. Det hjälpte inte, för jag slutade prata.|말린이랑 난 같은 도시에 살았고, 매일 만났어. 그래도 소용없었어. 내가 말을 안 하게 됐으니까.
+Linnea|B2|Avståndet är inte det farliga – det farliga är att sluta prata med varandra.|(그의 손을 잡는다) 거리가 위험한 게 아니야. 위험한 건 서로 말하기를 멈추는 거야.
+Oskar|A2|Då pratar vi. Även när det är svårt.|그럼 말하자. 어려울 때도.
+Linnea|B1|Och om det dyker upp en snygg båtbyggare i Härnösand?|(일부러 가볍게) 그런데 회르뇌산드에 잘생긴 배 목수가 나타나면?
+Oskar|B1|Det blir två snickare och en lärling, och jag är chefen. Och du, då? Sjutusen kilometer bort, och Johan skickar mejl.|목수 둘에 견습생 하나야. 그리고 내가 반장이고. 그럼 너는? 7천 킬로미터 떨어져 있는데, 요한은 메일 보내고.
+Linnea|B2|Johan är bokens redaktör på Albatross, inget annat. Men du har rätt i en sak: det finns saker mellan honom och mig som aldrig blev avslutade.|요한은 알바트로스에서 그 책 편집자일 뿐이야. 그 이상은 아무것도 아니야. 근데 하나는 네 말이 맞아. 그 사람이랑 나 사이엔 한 번도 제대로 끝맺지 못한 게 있어.
+Oskar|A2|Vad då för saker?|어떤 거?
+Linnea|B2|Han lämnade mig på tre sekunder och sa aldrig varför. Och nu har han rekommenderat mig till det största jobbet i mitt liv, utan att fråga. Jag vill veta varför innan jag bestämmer mig.|3초 만에 날 떠났고, 이유는 끝까지 말 안 했어. 그런데 이제 와서 내 인생에서 제일 큰 일에 날 추천했어, 나한테 묻지도 않고. 결정하기 전에 왜 그랬는지 알고 싶어.
+Oskar|A1|Fråga honom, då.|(물 건너 쇠데르의 불빛을 한참 보다가) 그럼 물어봐.
+# 장면 4 — Vi gör en plan
+Ahmed|B1|Där är ni! Vi trodde att ni hade rymt till Seoul, och Leila hade redan börjat dela upp er matsäck.|(밤 9시 반. 모닥불은 붉은 숯 더미가 됐고, 사람들이 담요를 개기 시작한다) 여기 있었네! 둘이 서울로 도망간 줄 알았잖아요. 레일라는 벌써 두 사람 도시락 나눠 먹을 준비 하고 있었고.
+Linnea|A1|Nästan.|거의요.
+Ida|A2|Nå? Har ni bestämt er?|그래서? 결정했어?
+Oskar|A1|Nej. Men…|아뇨. 그래도…
+Linnea|A1|Vi gör en plan.|우리, 계획을 세울 거야.
+Ahmed|A2|En plan! Äntligen pratar ni som vuxna människor.|계획! 드디어 둘이 어른처럼 말하네요.
+Oskar|A2|Har någon en penna?|(스칸센 행사 안내지를 뒤집어 무릎에 놓는다) 누구 펜 있어요?
+Samir|A1|Här.|(작업 재킷 가슴 주머니에서 납작한 목수 연필을 꺼낸다) 여기요.
+Ida|B1|Han har alltid en penna i fickan. Det är en av anledningarna, om någon undrar.|이 사람 주머니에 항상 연필이 있어. 혹시 궁금한 사람 있을까 봐 말하는데, 그게 이유 중 하나야.
+Oskar|A2|Ett. Vi ringer varje dag. Min lunch, din middag.|(꾹꾹 눌러 쓴 큰 글씨로, 한 줄씩) 하나. 매일 통화한다. 내 점심, 네 저녁.
+Linnea|A2|Två. Inga "sen". Aldrig.|둘. '나중에' 없기. 절대.
+Ida|B1|Det vet jag nu. Och jag tänker använda det mot er resten av livet.|그건 이제 나도 알아. 그리고 평생 너희한테 써먹을 거야.
+Oskar|A2|Tre. Jul i Härnösand. Fyra. Februari i Seoul.|셋. 크리스마스는 회르뇌산드. 넷. 2월엔 서울.
+Linnea|A2|Fem. Ingen stannar för den andras skull.|다섯. 누구도 상대 때문에 남지 않는다. (오스카르가 아주 잠깐 연필을 멈춘다. 그리고 쓴다)
+Leila|A2|Det låter som en bra plan.|좋은 계획 같네요.
+Ahmed|A2|Och jag, då? Står jag inte med?|그럼 나는? 나는 안 들어가?
+Oskar|A1|Sex. Ahmed.|(맨 아래에 작게 덧붙인다) 여섯. 아메드.
+Linnea|B1|En sak till. Jag skriver till Johan nu, och jag vill att du vet om det innan jag trycker på skicka.|(다들 돗자리를 개느라 바쁜 사이, 휴대폰을 꺼낸다. 화면을 오스카르 쪽으로 기울인다) 하나 더. 나 지금 요한한테 문자 보낼 거야. 보내기 누르기 전에 네가 알았으면 해서.
+Oskar|A1|Jo. Skriv.|(화면을 들여다보고, 고개를 끄덕인다. 이제 둘 사이에 비밀은 없다) 응. 보내.
+Linnea|A2|"Kan vi ses? Bara vi två."|(소리 내어 읽으며 한 글자씩 입력하고, 전송을 누른다. 사그라든 모닥불에서 마지막 불씨 하나가 톡 튀어 오른다) "만날 수 있어? 우리 둘만."
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vad varmt!** | 와, 따뜻하다! | *Vad + 형용사!* = 감탄문. 주어·동사 없이 형용사만으로 충분하다(*Vad kallt! Vad fint!*). 형용사는 *det*에 맞춰 중성형 *-t* |
+| `A1` | **Vi gör en plan.** | 우리, 계획을 세울 거야. | 현재형 *gör*가 가까운 미래·결심을 나타낸다. "계획을 세우다"는 *göra en plan*(*lägga upp en plan*도 가능) |
+| `A2` | **Vintern är äntligen slut.** | 겨울이 드디어 끝났어. | *vara slut* = 끝나다, 다 떨어지다(*Mjölken är slut.* 우유가 떨어졌다). *äntligen* = 드디어(*till slut*와 구별: 그쪽은 "결국") |
+| `A2` | **Det tar vi sen.** | 그건 나중에 얘기하자. | *ta det sen* = 미루다. 목적어 *det*를 앞으로 빼서 *Det tar vi…*(V2 어순). 이 커플에겐 금지어! |
+| `A2` | **Kan vi ses? Bara vi två.** | 만날 수 있어? 우리 둘만. | *ses* = 서로 만나다(상호의 *-s*: *träffas, höras*도 같은 형태). *Vi ses!* = 또 보자! |
+| `B1` | **Om du åker till Seoul kan jag hälsa på dig.** | 네가 서울에 가면, 내가 너 보러 갈 수 있어. | *om*-절이 앞에 오면 주절은 동사부터(*kan jag*). *hälsa på någon* = ~를 방문하다(*hälsa* "인사하다"와 다른 뜻, *på*에 강세) |
+| `B1` | **Ni har förbjudit ett helt ord?** | 단어 하나를 통째로 금지했다고? | 평서문 어순 그대로 억양만 올리는 놀람 의문문. *ett helt ord* — *ett*-명사라 형용사도 *helt* |
+| `B1` | **Det har inte gått ett år än.** | 아직 1년 안 됐어요. | *det har gått + 기간* = (시간이) 지났다. *än* = 아직(부정문). *inte … än* 짝으로 외우기 |
+| `B2` | **Avståndet är inte det farliga – det farliga är att sluta prata med varandra.** | 거리가 위험한 게 아니야. 위험한 건 서로 말하기를 멈추는 거야. | *det farliga* = 위험한 것(형용사의 명사적 용법, 한정형 *-a*). *sluta + 부정사*(*att* 없이). *varandra* = 서로 |
+| `B2` | **…som om den inte vore stor nog redan.** | 안 그래도 충분히 먼데 말이야. | *som om* + 가정법 과거 *vore*(= *var*). 일상 회화에선 *som om den inte var*도 흔하다. *nog* = 충분히(형용사 뒤) |
+
+## 문화 메모
+- **발보리 전야(Valborgsmässoafton, 4월 30일)** — 성녀 발푸르가(Walpurga)의 축일 전야이자, 스웨덴 사람들이 겨울을 보내고 봄을 맞는 밤. 전국의 언덕과 공터에서 큰 모닥불(*valborgsmässoeld, valborgsbrasa*)을 피운다. 옛날 농촌에서 가축을 처음 풀밭에 내놓기 전에 불을 피워 맹수를 쫓던 풍습과 이어져 있다고 한다. 다음 날 5월 1일은 노동절 공휴일이다. 스톡홀름에선 유르고르덴의 야외 민속 박물관 스칸센(Skansen)의 모닥불, 봄 연설(*vårtal*), 합창이 유명하다.
+- **봄 노래 «Vintern rasat»** — 정식 제목은 «Längtan till landet»(시골을 향한 그리움). 19세기 중반 헤르만 세테르베리(Herman Sätherberg)가 가사를, 오토 린드블라드(Otto Lindblad)가 곡을 쓴 남성 합창곡으로, "Vintern rasat ut bland våra fjällar…"로 시작한다. 발보리 밤이면 흰 학생 모자를 쓴 합창단이 모닥불 앞에서 이 노래와 «Sköna maj, välkommen» 같은 봄 노래를 부른다.
+- **학생 모자(studentmössa)** — 고등학교(gymnasium) 졸업식 날 쓰는 흰 모자. 졸업한 뒤에도 발보리 날엔 다시 꺼내 쓰는 사람이 많다. 대학 도시 웁살라에서는 오후 3시 대학 도서관 카롤리나 레디비바(Carolina Rediviva) 앞에서 수천 명이 한꺼번에 모자를 쓰고 흔드는 *mösspåtagning*이 유명하다.
+- **스웨덴과 한국의 시차** — 스웨덴은 3월 마지막 일요일부터 10월 마지막 일요일까지 서머타임(CEST, UTC+2), 나머지 기간엔 표준시(CET, UTC+1)를 쓴다. 한국(KST, UTC+9)은 서머타임이 없으므로 시차는 여름 7시간, 겨울 8시간. 스톡홀름의 점심 12시가 서울의 저녁 7시(겨울엔 8시)다.
+
+## 다음 화 예고 — 12화 *Johan* (요한)
+5월 초, 쿵스트레드고르덴 근처의 하얀 식탁보가 깔린 레스토랑. 메뉴판 하나 고르는 데도 어색한 두 사람. 린네아는 3년 동안 묻지 못했던 질문을 꺼낸다 — 왜 그날 밤, 3초 만에 떠났는지. 그리고 왜, 묻지도 않고 자신을 서울에 추천했는지. 늘 매끄럽던 요한의 문장이 처음으로 중간에 멈춘다. "Jag var aldrig riktigt närvarande när vi var tillsammans." 마지막 악수와 함께 건네는 한마디, 그리고 계산서 위에 얹힌 뜻밖의 소식.
