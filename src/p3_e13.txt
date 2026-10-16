@@ -1,0 +1,154 @@
+@title 3부 13화 — Lyktans kväll
+@subtitle (Lyktan의 밤)
+@meta 날짜|5월 16일 토요일, 저녁 6시 10분 ~ 9시 반쯤 (맑음, 낮엔 영상 18도, 일몰 9시 20분쯤)
+@meta 장소|쇠데르말름 바스투가탄의 서점 Lyktan — 진열대를 벽 쪽으로 밀어붙이고 의자를 늘어놓은 가게 안, 맨 안쪽 어린이 책장 앞, 계산대
+@meta 등장인물|**Linnea** (린네아, 28) · **Oskar** (오스카르, 31) · **Maggan** (마간, 68) · **Ahmed** (아메드, 32) · **Leila** (레일라, 31) · **Ida** (이다, 32) · **Samir** (사미르, 29) · **Elsa** (엘사, 9) · **Sara** (사라, 35) · **Johan** (요한, 30) · 북클럽 **Gunnel**(군넬)·**Viktor**(빅토르)·**Hanna**(한나) · 동네 사람들 — 바리스타 **Mira**(미라), 꽃집 **Bosse**(보세), 피자집 **Giorgos**(요르고스), 단골 **Lena**(레나) · 작가 **Ylva Brandt**(일바 브란트, 50대)
+@intro **지난 이야기** 5월 5일 화요일, 쿵스트레드고르덴 옆 레스토랑 '카스타니엔'. 린네아는 3년 만에 요한에게 그날 밤의 3초를 이야기했다 — 아이를 갖고 싶냐는 질문에 그가 시계를 본 3초, 그리고 키르케고르. 요한은 지루해서가 아니라 겁이 나서였다고 털어놓았다. "Du såg rätt sak den kvällen. Men du läste den fel." 서울 추천은 그녀를 되찾으려던 게 아니라고 — "ingen annan förstår de där texterna som du gör." 생애 첫 악수, "Han är bra för dig." 그리고 돌아서는 린네아의 등 뒤로 요한이 말했다. "Förresten — tidningen vill skriva om Lyktan. Stort reportage."
+@intro 열하루 뒤, 5월 16일 토요일. 기사는 수요일 아침 조간 문화면에 실렸다 — 제목은 「창가의 등불이 꺼지려 한다」. 그 뒤로 Lyktan의 전화는 쉬지 않고 울렸고, 처음 보는 손님들이 신문을 접어 들고 문을 열었다. 오늘 밤은 스티그가 떠난 뒤 처음 열리는 낭독회다. 가게는 4시에 문을 닫았고, 오스카르는 5시부터 와 있다. 두 시간 일찍.
+# 장면 1 — 쉰세 개의 의자
+Maggan|B1|Femtio stolar. Stig och jag hade aldrig fler än tjugo här inne.|(5월 16일 토요일 저녁 6시 10분, Lyktan. 진열대를 벽 쪽으로 밀어붙인 자리에 의자가 줄지어 있다. 창가 등불은 벌써 켜져 있다) 의자 쉰 개. 스티그랑 나는 여기 스무 개 넘게 놓아 본 적이 없는데.
+Samir|B1|Femtiotre. Jag har räknat två gånger, eftersom någon flyttade en stol medan jag räknade.|(가슴 주머니의 목수 연필로 의자 등받이를 하나씩 짚으며) 쉰세 개예요. 두 번 셌어요. 세는 동안 누가 의자 하나를 옮겨서요.
+Giorgos|B1|Tolv av dem är mina, så jag vill ha tillbaka dem innan vi öppnar i morgon!|(문간에서 마지막 의자 두 개를 양팔에 끼고) 그중 열두 개는 우리 가게 거예요. 그러니까 내일 문 열기 전엔 꼭 돌려줘요!
+Maggan|B1|Självklart. Du får dem tillbaka innan du ens har hunnit stänga ugnen.|물론이죠. 화덕 불 끄기도 전에 돌려받으실 거예요.
+Bosse|B1|Tulpanerna ställer jag i fönstret, och liljekonvaljerna får stå på disken. De är årets första, så var rädda om dem.|(양동이 두 개를 든 채 어깨로 문을 밀고 들어온다. 종이 울린다) 튤립은 창가에 둘게요. 은방울꽃은 계산대 위에. 올해 첫 꽃이니까 조심히들 다뤄요.
+Ahmed|A2|Har ni sett tidningen? Min mamma har köpt fem stycken!|(접힌 신문을 흔들며 보세 뒤로 들어온다. 그 뒤에 레일라) 신문 봤어요? 우리 엄마가 다섯 부나 샀어요!
+Leila|B1|Och hon har satt upp artikeln på kylskåpet, bredvid tvillingarnas teckningar. Det är den största äran man kan få i hennes kök.|그리고 기사를 냉장고에 붙이셨어요. 쌍둥이 그림 옆에요. 어머님 부엌에서 받을 수 있는 최고의 영예예요.
+Ida|B1|Var är tvillingarna? Jag hade sett fram emot att träffa Nour och Adam.|쌍둥이는? 누르랑 아담 보는 거 기대하고 있었는데.
+Leila|B1|Hos mina föräldrar i Tensta. Mamma har lovat att de får titta på film tills de somnar på soffan.|텐스타 저희 부모님 댁에요. 엄마가 소파에서 잠들 때까지 영화 보게 해 주겠다고 약속했대요.
+Johan|B2|Artikeln har delats mer än tolvtusen gånger sedan i onsdags. Min vän på kulturredaktionen säger att hon aldrig har fått så många mejl om en enda text.|(계산대 옆, 휴대폰 화면을 내려다보며 마간에게) 수요일 이후로 기사가 만 2천 번 넘게 공유됐습니다. 문화부 친구 말로는, 기사 하나로 이렇게 많은 메일을 받아 본 건 처음이랍니다.
+Maggan|B2|Jag har läst den tre gånger och gråtit varje gång, herr Wall. Men det tänker jag inte erkänna inför någon annan än er.|세 번 읽었고, 읽을 때마다 울었어요, 발 씨. 하지만 그건 당신 말고 다른 사람 앞에선 인정 안 할 거예요.
+Ahmed|B1|Vi hörde det, Maggan. Men vi lovar att låtsas som om vi inte gjorde det.|(신문 너머로) 다 들었는데요, 마간 씨. 그래도 못 들은 척하기로 약속할게요.
+Linnea|A2|Var är Oskar? Han var här redan klockan fem.|(은방울꽃 양동이를 계산대 위에 내려놓으며) 오스카르는 어디 있어? 다섯 시에 벌써 와 있었는데.
+Ida|B2|I lagret. Han har burit stolar i en timme och sagt exakt tre saker, så antingen övar han eller så håller han på att få panik.|창고에. 한 시간 동안 의자 나르면서 딱 세 마디 했어. 연습 중이거나, 아니면 패닉 직전이거나.
+Linnea|A1|Tre saker?|세 마디?
+Ida|A2|"Jo." "Nä." Och "var ska den här stå?"|"응." "아니." 그리고 "이건 어디 둬요?"
+Elsa|A1|Hej! Vi är här!|(문 종이 요란하게 울린다. 노란 원피스에 머리를 두 갈래로 땋은 엘사, 그 뒤로 사라) 안녕하세요! 우리 왔어요!
+Sara|B2|Hon har övat på sin text varje kväll i en vecka, så högt att grannarna förmodligen skulle kunna ta över om hon blev sjuk.|(엘사의 어깨를 붙잡고, 린네아에게) 일주일 내내 매일 저녁 자기 글 연습했어. 얼마나 크게 읽었는지, 얘가 아프기라도 하면 이웃들이 대신 읽어도 될 거야.
+Linnea|A2|Hej, Sara! Och Elsa – vilken fin klänning!|안녕하세요, 사라 씨! 그리고 엘사 — 원피스 너무 예쁘다!
+Elsa|A2|Tack! Jag läser som nummer fyra. Var är morbror?|고마워요! 저는 네 번째로 읽어요. 삼촌은 어디 있어요?
+Oskar|A1|Här.|(창고 문간에. 오늘은 회색 스웨터 대신 다림질한 흰 셔츠. 손에는 『로냐』 한 권) 여기.
+Elsa|A1|Är du nervös?|삼촌, 긴장돼?
+Oskar|A1|Nä.|아니.
+Linnea|A1|Jo.|(동시에, 작게) 긴장했어.
+Gunnel|B1|Unge man, om du ställer stolen där ser ingen på tredje raden någonting.|(맨 앞줄에 핸드백을 내려놓으며, 사미르에게) 젊은이, 의자를 거기 두면 셋째 줄에선 아무것도 안 보여요.
+Samir|A2|Förlåt. Jag flyttar den.|죄송해요. 옮길게요.
+Johan|B1|Margareta, Ylva Brandt har kommit. Hon vägrade låta förlaget skicka en bil och tog tunnelbanan som alla andra.|(문 쪽을 돌아보며) 마르가레타 씨, 일바 브란트 씨가 오셨습니다. 출판사에서 차를 보내겠다는 것도 마다하고, 다른 사람들처럼 지하철을 타고 오셨어요.
+Ylva|B2|Förlåt att jag är så tidig. Jag köpte min första diktsamling här när jag var nitton, och jag ville se butiken en gång till innan den fylldes av folk.|(50대 여자. 짧은 은발, 낡은 가죽 가방. 마간에게 손을 내민다) 너무 일찍 와서 죄송해요. 열아홉 살 때 첫 시집을 여기서 샀거든요. 사람들로 꽉 차기 전에 이 가게를 한 번 더 보고 싶었어요.
+Maggan|B2|Då är det ni som stod vid poesihyllan en hel eftermiddag och läste utan att köpa något, tills Stig sålde boken till er för halva priset.|(그 손을 잡은 채, 한참 얼굴을 들여다본다) 그럼 시집 책장 앞에 오후 내내 서서 읽기만 하고 안 사던 그 학생이 당신이군요. 스티그가 반값에 팔 때까지.
+Ylva|B2|Det var jag. Han sa att en bok som någon har läst stående i tre timmar redan tillhör henne.|그게 저예요. 그분이 그러셨죠. 누가 세 시간을 서서 읽은 책이면, 그 책은 이미 그 사람 거라고.
+Maggan|A1|Tack för att ni kom!|(저녁 7시 정각. 꽉 찬 의자, 벽에 기대 선 사람들, 열린 문 밖 보도까지 사람. 마간이 계산대 앞에 서서 손뼉을 두 번 친다. 가게 안이 조용해진다) 와 주셔서 고마워요!
+# 장면 2 — 시인, 소년, 소금, 그리고 아홉 살의 글
+Samir|A2|Hundrafyrtiotvå personer. Och ett tjugotal till ute på trottoaren.|(이다 귀에 대고) 142명이에요. 밖에 보도에도 스무 명쯤 더 있고요.
+Maggan|B2|Det är nio år sedan någon läste högt här inne. Stig gjorde det varje lördag längst in vid barnhyllan, med en egen röst för varje figur. I kväll tänkte jag fortsätta där han slutade.|9년 만이에요, 여기서 누가 소리 내어 읽는 건. 스티그는 토요일마다 맨 안쪽 어린이 책장 앞에서, 인물마다 목소리를 바꿔 가며 읽었죠. 오늘 밤은 그이가 멈춘 데서부터 이어 가 볼까 해요.
+Hanna|A1|Åh nej. Jag gråter redan.|(둘째 줄에서 휴지를 꺼내며) 아, 어떡해. 벌써 눈물 나.
+Viktor|B2|Det är helt normalt, Hanna. Högläsning aktiverar samma delar av hjärnan som musik, vilket förklarar varför man blir rörd innan man ens har förstått texten.|(옆자리에서, 속삭인다는 게 다 들리게) 지극히 정상이에요, 한나 씨. 낭독은 음악이랑 같은 뇌 부위를 활성화하거든요. 글을 이해하기도 전에 감동하는 게 그래서죠.
+Gunnel|A1|Viktor. Tyst.|빅토르. 조용.
+Maggan|B1|Ylva Brandt har bett att få sitta i publiken i kväll, eftersom det här är grannarnas kväll. Så vi börjar med en granne – mig.|일바 브란트 씨는 오늘 밤 관객석에 앉겠다고 하셨어요. 오늘은 이웃들의 밤이니까요. 그러니 이웃부터 시작하죠. 저부터.
+Ahmed|A1|Kör, Maggan!|가자, 마간 씨!
+Maggan|B2|Karin Boye. Stig läste den för mig den första våren vi hade butiken, när vi var skyldiga pengar till alla och inte visste om vi skulle klara oss till sommaren. "Ja visst gör det ont när knoppar brister. Varför skulle annars våren tveka?"|(안경을 고쳐 쓰고, 손때 묻은 얇은 시집을 펼친다) 카린 보예. 가게를 연 첫봄에 스티그가 나한테 읽어 준 시예요. 여기저기 빚만 지고, 여름까지 버틸 수 있을지도 모르던 때였죠. "그래, 물론 아프지, 꽃눈이 터질 때는. 그렇지 않다면 봄이 왜 망설이겠어?"
+Lena|B1|Den kan jag. Vi läste den i skolan varje vår, men då trodde jag att den bara handlade om träd.|(뒤쪽 벽 앞에서 일곱 살쯤 된 딸의 어깨를 감싼 채, 작게) 그거 알아요. 학교에서 봄마다 읽었어요. 그땐 그냥 나무 얘긴 줄 알았지만요.
+Maggan|B2|Det gör de flesta. Men man förstår den först när man själv har varit en knopp som inte vågade brista.|대부분 그렇죠. 하지만 그 시는, 자기가 직접 터질 엄두를 못 내던 꽃눈이 돼 봐야 비로소 이해가 돼요.
+Gunnel|B1|Och nu Selma Lagerlöf. Jag har valt början på Nils Holgersson, eftersom ingen bok har lärt fler svenska barn att läsa.|(일어서서, 표지가 닳은 두꺼운 책을 든다) 그럼 이제 셀마 라겔뢰프. 『닐스 홀게르손』 첫머리로 골랐어요. 스웨덴 아이들한테 읽는 법을 그 어떤 책보다 많이 가르친 책이니까.
+Viktor|B2|Den skrevs faktiskt som en läsebok i geografi, på beställning av folkskollärarna.|(손가락을 들며) 사실은 초등학교 교사들의 의뢰로 지리 독본으로 쓰인 책이죠.
+Gunnel|B1|Tack, Viktor. Det är därför jag står här och du sitter där.|고마워요, 빅토르. 그러니까 내가 여기 서 있고 당신은 거기 앉아 있는 거예요.
+Ahmed|B1|Oj. Där fick du, Viktor. Det kommer att svida hela veckan.|오. 한 방 먹었네요, 빅토르 씨. 일주일은 쓰리겠는데요.
+Gunnel|A2|"Det var en gång en pojke." Så börjar den. Lyssna nu.|"옛날에 한 소년이 있었다." 이렇게 시작해요. 이제 들어 봐요.
+Samir|A2|Elva minuter. Ingen hostade en enda gång.|(군넬이 말썽꾸러기 소년이 엄지만 하게 작아지는 대목까지 읽고 책을 덮는다. 박수. 사미르가 다시 이다 귀에 속삭인다) 11분이요. 아무도 기침 한 번 안 했어요.
+Ida|A2|Räknade du hostningar?|기침을 셌어?
+Samir|B1|Jag räknar allt när jag är nervös. Det är lugnare än att prata.|전 긴장하면 뭐든 세요. 말하는 것보다 마음이 편하거든요.
+Johan|B2|Jag lovade Linnea en gång att inte citera någon, så i kväll har jag gjort något dumdristigt i stället. Det här är första sidan i en koreansk roman som ännu inte finns på svenska – i min egen klumpiga översättning från engelskan.|(일어선다. 시계 없는 왼쪽 손목. 종이 한 장) 언젠가 린네아한테 아무도 인용하지 않겠다고 약속한 적이 있습니다. 그래서 오늘은 대신 무모한 짓을 하나 해 봤어요. 아직 스웨덴어판이 없는 한국 소설의 첫 페이지입니다. 영어판에서 제가 서툴게 옮긴 거고요.
+Linnea|A1|Saltets hus?|(맨 뒤 벽에 기대 선 채, 거의 소리 없이) 『소금의 집』?
+Johan|B1|"Saltet kommer alltid tillbaka, sa farmor. Man kan skrapa bort det, men nästa morgon ligger det vitt över saltdammarna igen."|(종이를 내려다보며) "소금은 언제나 돌아온다, 할머니는 말했다. 긁어내도 다음 날 아침이면 다시 염전 위에 하얗게 깔려 있다."
+Viktor|B2|Intressant. Saltet som en metafor för minnet, alltså – något som inte går att tvätta bort.|흥미롭군요. 그러니까 기억의 은유로서의 소금 — 씻어 낼 수 없는 것.
+Johan|B2|Kanske. Men jag ska vara ärlig: i mina händer blir svenskan platt. Det finns bara en person som kan få boken att låta som den gör på koreanska, och hon står längst bak.|그럴지도요. 하지만 솔직히 말씀드리면, 제 손에선 스웨덴어가 납작해집니다. 이 책을 한국어처럼 들리게 할 수 있는 사람은 딱 한 명인데, 그 사람은 맨 뒤에 서 있습니다.
+Linnea|B1|Johan… Det där stod inte i programmet.|(사람들이 일제히 뒤를 돌아본다. 얼굴이 빨개진다) 요한… 그건 순서지에 없었잖아.
+Oskar|A2|Han har rätt.|(린네아 옆, 벽에 기대 서서. 그녀를 보지 않고, 낮게) 맞는 말이야.
+Maggan|A2|Och nu, nummer fyra: Elsa, nio år.|그럼 이제 네 번째. 엘사, 아홉 살.
+Elsa|A2|Jag har skrivit en egen text. Den heter "Min bokhandel".|(의자 위에 올라선다. 사라가 뒤에서 의자를 붙잡는다) 저는 직접 글을 썼어요. 제목은 "나의 서점"이에요.
+Ahmed|A1|Heja, Elsa!|엘사, 파이팅!
+Elsa|A2|"Min bokhandel har en lampa i fönstret. Den lyser varje kväll till klockan nio."|(종이를 두 손으로 꼭 쥐고) "나의 서점에는 창가에 등불이 있다. 그 등불은 매일 밤 아홉 시까지 켜져 있다."
+Sara|A1|Högre, gumman!|더 크게, 우리 딸!
+Elsa|B1|"Där bor Maggan. Hon vet var alla böcker står, fast hon aldrig letar. Om man är ledsen får man sitta på golvet vid barnhyllan så länge man vill."|(더 크게) "거기에는 마간 할머니가 산다. 할머니는 모든 책이 어디 있는지 안다. 찾아보지도 않는데. 슬플 때는 어린이 책장 앞 바닥에 원하는 만큼 앉아 있어도 된다."
+Hanna|B1|Åh… Nu förstår jag varför min yngsta aldrig vill gå härifrån.|(휴지를 하나 더 뽑으며) 아… 우리 막내가 왜 여기만 오면 집에 안 가려고 하는지 이제 알겠어.
+Elsa|A2|"Jag vill att Lyktan ska finnas kvar när jag blir stor. Slut."|"나는 내가 커서도 Lyktan이 있으면 좋겠다. 끝."
+Maggan|B1|Kom hit, lilla gumman. Det var det finaste jag har hört på fyrtio år.|(박수 소리 속에서, 의자에서 뛰어내린 엘사를 끌어안는다) 이리 오렴, 우리 꼬마. 40년 동안 들은 것 중에 제일 예쁜 글이었어.
+# 장면 3 — 마지막 순서
+Elsa|A2|Nu är det morbrors tur!|(마간 품에서 빠져나와, 계산대 쪽을 가리키며) 이제 삼촌 차례예요!
+Maggan|B2|Den som läser sist i kväll kom in här en regnig kväll i september och trodde att Linnea arbetade här. Han har byggt en bokhylla åt barnen, och nu har han lovat mig att läsa.|(엘사를 사라에게 돌려보내고, 다시 사람들 쪽으로) 오늘 밤 마지막 순서는, 9월 어느 비 오는 저녁에 여기 들어와서 린네아를 직원인 줄 알았던 사람이에요. 아이들 책장을 만들어 준 사람이고, 이제 나한테 읽어 주겠다고 약속했어요.
+Ahmed|A2|Kom igen, len! Du fixar det!|(손나팔을 만들어) 가자, 형제! 넌 할 수 있어!
+Oskar|A1|Ahmed.|아메드.
+Leila|A2|Sätt dig, älskling. Nu är det hans kväll.|(아메드의 셔츠 자락을 잡아 앉힌다) 앉아, 자기. 지금은 저 사람 시간이야.
+Oskar|A2|Jag skulle läsa ur Ronja. Det var planen.|(계산대 앞에 선다. 손에는 『로냐』, 그 사이에 끼운 네 번 접힌 공책 한 장) 『로냐』를 읽으려고 했어요. 그게 계획이었어요.
+Elsa|A1|Ronja!|로냐!
+Oskar|B1|"Den natten när Ronja föddes…" Nej. Den meningen är Astrid Lindgrens. Jag har en egen i stället.|(책을 펴고 첫 줄에 손가락을 댄다. 그러다 멈춘다) "로냐가 태어나던 그날 밤…" 아니에요. 이 문장은 아스트리드 린드그렌 거예요. 저한텐 제 문장이 있어요.
+Gunnel|A2|Vad sa han? En egen?|(옆자리 한나에게) 뭐라고 했어요? 자기 거?
+Oskar|B1|Men först måste jag säga en sak, annars förstår ni inte varför det går så långsamt.|(책을 덮어 계산대에 내려놓고, 접힌 종이를 편다. 종이 끝이 조금 떨린다) 근데 먼저 하나 말해야 해요. 안 그러면 왜 이렇게 느린지 이해 못 하실 테니까.
+Maggan|A1|Vi har tid.|(작게) 우린 시간 많아요.
+Oskar|B1|Jag har dyslexi. Bokstäverna hoppar för mig, och raderna byter plats när jag tittar upp.|저는 난독증이 있어요. 글자가 뛰고, 고개를 들었다 내리면 줄이 자리를 바꿔요.
+Samir|A1|Dyslexi?|(아주 작게, 이다에게) 난독증이요?
+Ida|A2|Sch. Lyssna nu.|(사미르의 손을 꽉 잡으며) 쉿. 지금은 들어.
+Oskar|B1|Jag har aldrig vågat läsa inför folk förut. I skolan sa lärarna att jag var lat, så till slut slutade jag försöka.|사람들 앞에서 읽어 본 적은 한 번도 없어요. 그럴 용기가 없었어요. 학교에선 선생님들이 제가 게으르다고 했어요. 그래서 결국 해 보는 걸 그만뒀어요.
+Sara|A1|Oskar…|(셋째 줄, 엘사를 무릎에 앉힌 채. 손으로 입을 가린다) 오스카르…
+Elsa|B1|Det är därför du läser med fingret! Det gjorde jag också när jag gick i ettan.|(엄마 무릎 위에서, 큰 소리로) 그래서 삼촌이 손가락으로 읽는 거구나! 나도 1학년 때 그랬는데!
+Oskar|A2|Jo. Precis som du.|(처음으로 조금 웃는다. 가게 안에 낮은 웃음이 번진다) 응. 너처럼.
+Ylva|B2|Ta all tid du behöver. Ingen av oss skulle vilja vara någon annanstans i kväll.|(맨 앞줄에서, 조용히) 필요한 만큼 시간 쓰세요. 오늘 밤 여기 말고 다른 데 있고 싶은 사람은 아무도 없을 거예요.
+Oskar|B1|"Den kvällen när jag gick in på Lyktan regnade det över Söder."|(종이 위 첫 줄에 검지를 댄다. 천천히, 한 단어씩) "내가 Lyktan에 들어가던 그날 저녁, 쇠데르에 비가 내렸다."
+Gunnel|B2|Bra. Fortsätt. Jag har hört trettio års elever läsa högt, och ingen av dem har någonsin fått ett helt rum att hålla andan.|(안경 너머로, 교단의 목소리로) 좋아요. 계속해요. 30년 동안 학생들 낭독을 들었지만, 방 하나를 통째로 숨죽이게 만든 아이는 하나도 없었어요.
+Oskar|A2|"Det var ett ljus i fönstret. Jag kunde inte läsa skylten."|"창가에 불빛이 있었다. 나는 간판을 읽을 수 없었다."
+Maggan|A1|Lampan.|(창가 등불 쪽으로 고개를 돌린다. 아주 작게) 그 등불.
+Oskar|A2|"Där inne stod en tjej i grön kofta. Hon jobbade inte där."|"안에는 초록 카디건을 입은 여자가 서 있었다. 그 사람은 거기서 일하지 않았다."
+Ahmed|A2|Det är sant! Hon jobbar fortfarande inte här!|(웃음이 터진 가운데) 진짜예요! 저 사람 아직도 여기서 일 안 해요!
+Oskar|B1|"Jag har varit rädd för bokhandlar hela mitt liv. Det här är den första där jag har slutat vara rädd."|(웃음이 가라앉을 때까지 기다렸다가) "나는 평생 서점이 무서웠다. 여기는 내가 더 이상 무서워하지 않게 된 첫 번째 서점이다."
+Elsa|A1|Morbror?|(오스카르가 다음 줄에서 멈춘다. 손가락이 종이 위에서 한 줄 내려갔다가, 다시 올라간다. 5초. 10초. 밖에서 자전거 벨 소리 하나) 삼촌?
+Oskar|A2|Vänta. Raden hoppade.|잠깐만. 줄이 뛰었어.
+Linnea|A1|Vi väntar.|(맨 뒷줄. 입술을 깨물고, 한 발짝도 움직이지 않는다 — 12월의 약속, 단어 하나도 속삭이지 않기) 기다릴게.
+Oskar|B2|"En lampa i ett fönster säger att någon fortfarande är vaken därinne, och att man får knacka på även om man inte vet vad man ska säga. Låt den fortsätta lysa."|(손가락을 다시 줄 첫머리에 댄다. 이번엔 멈추지 않는다) "창가의 등불은 안에 아직 누군가 깨어 있다고 말한다. 무슨 말을 해야 할지 몰라도 문을 두드려도 된다고. 그 불이 계속 켜져 있게 해 주세요."
+Maggan|B2|Det var Stigs ord. Det där om fönstret där någon fortfarande är vaken – det sa han den första kvällen vi tände lampan.|(안경을 벗는다. 목소리가 갈라진다) 스티그가 하던 말이야. 아직 누가 깨어 있는 창문 — 우리가 처음 등불을 켠 날 저녁에 그이가 그렇게 말했지.
+Oskar|B1|Jag vet. Du berättade det i mars, och sedan dess har jag inte kunnat gå förbi fönstret utan att tänka på det.|(종이를 접으며) 알아요. 3월에 말씀해 주셨잖아요. 그 뒤로는 이 창문 앞을 지날 때마다 그 생각이 났어요.
+# 장면 4 — 박수, 메일 한 통, 그리고 문밖
+Ahmed|A2|Han läste högt inför alla! Walla, inför alla!|(박수가 터지자 벌떡 일어나, 옆자리 일바 브란트에게) 저 사람이 모두 앞에서 소리 내서 읽었어요! 진짜로요, 모두 앞에서!
+Ylva|B2|Jag har varit på hundratals uppläsningar, men jag har aldrig hört någon läsa som om varje ord kostade något.|(박수를 멈추지 않은 채) 수백 번 낭독회에 가 봤지만, 단어 하나하나가 값을 치르는 것처럼 읽는 사람은 처음 봐요.
+Samir|B1|Jag har känt honom sedan i vintras och märkte ingenting. Jag trodde bara att han var noggrann.|(이다에게, 아직 손뼉을 치면서) 지난겨울부터 알고 지냈는데 전혀 몰랐어요. 그냥 꼼꼼한 사람인 줄만 알았어요.
+Ida|B2|Det var meningen att ingen skulle märka det. Han har dolt det sedan han var liten, och i kväll valde han att sluta – inför hundrafyrtio personer.|아무도 눈치 못 채게 하려고 그랬던 거야. 어릴 때부터 숨겨 왔는데, 오늘 밤 그만두기로 한 거지. 그것도 140명 앞에서.
+Sara|A2|Linnea. Visste du?|(엘사를 안은 채 사람들 사이를 헤치고 와서) 린네아. 너 알고 있었어?
+Linnea|B1|Sedan december. Men det var hans sak att berätta, inte min.|12월부터요. 근데 그건 제가 아니라 오스카르가 말할 일이었어요.
+Sara|B2|Han satt alltid längst bak i klassrummet, och jag trodde att han bara inte brydde sig. Hade jag varit en bättre storasyster hade jag kanske sett det.|걔는 늘 교실 맨 뒷자리에 앉았어. 난 그냥 관심이 없는 줄만 알았지. 내가 좀 더 나은 누나였으면 알아봤을지도 몰라.
+Maggan|A2|Vänta. Jag har fått ett mejl.|(박수가 잦아들 무렵. 계산대 위 마간의 휴대폰이 진동한다. 화면을 보다가 그대로 굳는다) 잠깐. 메일이 왔어.
+Johan|B1|Från vem? Ni ser ut som om ni har sett ett spöke.|누구한테서입니까? 유령이라도 보신 얼굴인데요.
+Maggan|B1|Från fastighetsbolaget. Från vd:n själv, inte från den unge mannen i gymnastikskor.|부동산 회사에서요. 그 운동화 신은 젊은 남자 말고, 대표가 직접.
+Ida|A1|Läs!|읽어 봐요!
+Maggan|B2|"Jag läste artikeln i onsdags och har inte kunnat sluta tänka på lampan i fönstret. Vi har gjort en ny bedömning: hyran ligger kvar på arton tusen kronor i månaden i tre år, utan indexhöjning."|(안경을 다시 쓰고, 천천히. 손이 떨린다) "수요일에 기사를 읽고 창가의 등불 생각을 떨칠 수가 없었습니다. 저희는 다시 검토했습니다. 임대료는 3년 동안 월 1만 8천 크로나로 유지되며, 물가 연동 인상은 없습니다."
+Elsa|A1|Vad betyder det?|그게 무슨 뜻이에요?
+Oskar|A1|Lyktan stannar.|(계산대 앞에서, 접힌 종이를 쥔 채) Lyktan이 남는다는 거야.
+Gunnel|A2|Då behöver jag inte kedja fast mig vid disken.|그럼 계산대에 사슬로 몸 안 묶어도 되겠네요.
+Giorgos|A2|Pizza till alla! Jag ringer min bror.|(문간에서 두 팔을 번쩍 들며) 다들 피자 먹어요! 형한테 전화할게요!
+Maggan|B2|Ni har inte bara räddat en bokhandel, ni har påmint mig om varför den finns.|(계산대 모서리를 붙잡고 선다. 눈물이 뺨을 타고 흐르는데 닦지 않는다. 가게 안이 다시 조용해진다) 여러분은 서점 하나를 구한 것만이 아니에요. 이 서점이 왜 있는지를 나한테 다시 일깨워 줬어요.
+Hanna|B1|Nu gråter jag igen, och den här gången skäms jag inte ens.|나 또 운다. 이번엔 창피하지도 않아.
+Viktor|A2|Det är helt normalt, Hanna.|(자기도 안경을 벗어 눈가를 훔치며) 지극히 정상이에요, 한나 씨.
+Mira|B2|Jag har hundra kardemummabullar i kartonger vid dörren. Hade det gått åt andra hållet hade de fått bli tröst, men nu blir de fest.|(카페 우글란의 미라. 문 옆에 쌓인 상자를 가리키며) 문 옆 상자에 카르다몸 번이 백 개 있어요. 일이 반대로 됐으면 위로용이 됐을 텐데, 이제 축하용이네요.
+Linnea|A2|Oskar. Följ med mig ut.|(축하의 소란 속, 사람들 사이로 손을 뻗어 오스카르의 손목을 잡는다) 오스카르. 나랑 밖에 나가자.
+Oskar|A1|Nu?|지금?
+Linnea|A1|Nu. Inte sen.|(문 종이 울리고, 문이 닫힌다. 5월 밤 9시 반, 바스투가탄의 하늘은 아직 다 어두워지지 않았다. 오늘 밤은 아홉 시가 지나도 창가의 등불이 꺼지지 않는다) 지금. 나중 말고.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Tack för att ni kom!** | 와 주셔서 고마워요! | *tack för att* + 절 = ~해 줘서 고마워. 여럿에게는 *ni*, 한 사람에게는 *Tack för att du kom!* 과거형 *kom*(← *komma*)에 주의 |
+| `A1` | **Vi har tid.** | 우린 시간 많아요. | 서두르는 사람을 안심시키는 한마디. *tid*는 관사 없이(셀 수 없는 명사). *Ta all tid du behöver.*(필요한 만큼 시간 써)와 짝 |
+| `A2` | **Han läste högt inför alla.** | 그는 모두 앞에서 소리 내어 읽었다. | *läsa högt* = 소리 내어 읽다(↔ *läsa tyst*). *inför* = ~의 앞에서(사람 앞, 청중 앞). 장소의 *framför*와 구별 |
+| `A2` | **Var ska den här stå?** | 이건 어디 둬요? | 세워 두는 물건엔 *stå*, 눕혀 두는 물건엔 *ligga*. 꽃병·의자는 *står*, 책·신문은 *ligger* |
+| `B1` | **Jag har aldrig vågat läsa inför folk förut.** | 사람들 앞에서 읽을 용기를 낸 적이 한 번도 없어요. | 현재완료 + *aldrig … förut* = 지금까지 한 번도. *våga* + 부정사(*att* 없이) = 감히 ~하다 |
+| `B1` | **Det var hans sak att berätta, inte min.** | 그건 내가 아니라 그 사람이 말할 일이었어요. | *det är någons sak att* + 부정사 = ~가 할 일이다. 소유대명사 *hans / min*가 같은 명사 *sak*를 받는다 |
+| `B1` | **Bokstäverna hoppar för mig.** | 나한텐 글자가 뛰어요. | *för mig* = 나에게는, 내 경우엔. 난독증을 설명할 때 흔히 쓰는 표현. *dyslexi*는 *-i*로 끝나는 *en*-명사 |
+| `B2` | **Ni har inte bara räddat en bokhandel, ni har påmint mig om varför den finns.** | 여러분은 서점 하나를 구한 것만이 아니에요. 이 서점이 왜 있는지를 다시 일깨워 줬어요. | *inte bara … (utan också)* 구문의 변형. *påminna någon om något* = ~에게 ~을 상기시키다. 간접의문문 *varför den finns*는 평서문 어순 |
+| `B2` | **Ja visst gör det ont när knoppar brister.** | 그래, 물론 아프지, 꽃눈이 터질 때는. | 카린 보예의 시 첫 행. *visst* = 물론, 확실히. 강조 때문에 *det gör ont*가 *gör det ont*로 도치. *brista* = 터지다, 찢어지다 |
+| `B2` | **Ingen av oss skulle vilja vara någon annanstans.** | 우리 중 누구도 다른 데 있고 싶지 않을 거예요. | *skulle vilja* = ~하고 싶을 것이다(공손·가정). *någon annanstans* = 다른 어딘가(장소 부사, 한 단어) |
+
+## 문화 메모
+- **카린 보예(Karin Boye, 1900–1941)** — 스웨덴 모더니즘을 대표하는 시인·소설가. 디스토피아 소설 『칼로카인(Kallocain)』으로도 유명하다. 1935년 시집 『나무를 위하여(För trädets skull)』에 실린 «Ja visst gör det ont»는 봄의 꽃눈이 터지는 아픔을 성장과 변화의 아픔에 겹친 시로, 스웨덴 학교에서 거의 누구나 배우는 봄의 시다.
+- **『닐스의 신기한 모험(Nils Holgerssons underbara resa genom Sverige)』** — 셀마 라겔뢰프가 초등학교 교사 협회의 의뢰를 받아 아이들에게 스웨덴 지리를 가르치기 위해 쓴 책(1906–1907). 거위를 타고 스웨덴 전역을 날아다니는 소년 이야기로, 오랫동안 학교 독본으로 쓰였다. 20크로나 지폐에 라겔뢰프와 함께 닐스가 그려져 있던 적도 있다.
+- **스웨덴과 난독증(dyslexi)** — 스웨덴에서는 난독증 진단을 받으면 학교와 직장에서 오디오북·음성 자료 같은 지원을 받을 수 있다. 국가기관 MTM(접근 가능한 미디어청)은 도서관 서비스 *Legimus*를 통해 읽기 장애가 있는 사람에게 녹음 도서를 무료로 빌려준다. 성인이 되어서야 진단받는 경우도 적지 않다.
+
+## 다음 화 예고 — 14화 *Jag åker i augusti* (나 8월에 떠나)
+문 종이 등 뒤에서 울리고, 바스투가탄의 골목은 5월 밤인데도 아직 환하다. 가게 안에서는 피자 상자가 열리고 카르다몸 번이 돌고, 누군가 다시 운다. 밖에는 두 사람뿐. 낭독의 떨림이 아직 손끝에 남은 오스카르와, 할 말을 정한 얼굴의 린네아. 둘이 함께 정하기로 한 기한, 5월 31일이 이제 코앞이다. 그런데 오스카르에게도 먼저 꺼낼 말이 있다 — 회르뇌산드에 관해. *Jag har sagt till museet att jag börjar om ett år.* 그리고 백야가 시작되는 하늘 아래, 린네아의 대답. *Jag åker i augusti.*
