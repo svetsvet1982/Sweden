@@ -104,3 +104,19 @@
 - 원고: `src/pX_eYY.txt` (화자|레벨|스웨덴어|한국어) → `python3 tools/build_episode.py src/*.txt` 로 `episodes/*.md` 생성·검증
   (120턴, 같은 화자 연속 금지, 부별 레벨 분포 ±6)
 - 설정 연속성: [`notes/continuity.md`](notes/continuity.md)
+
+---
+
+# 새 시리즈: Frågan bakom frågan — 스웨덴어 비즈니스 대화 드라마 기획
+
+스톡홀름 경영컨설팅 회사의 컨설턴트들이 민간기업 컨설팅 → 제조기업 CEO·CFO → 독립 경영감사 → 정치 컨설팅으로
+나아가는 4부작 (4부 × 16화 × 120턴 = 64화, 7,680턴). 스웨덴 현안을 최대한 반영.
+
+| 파일 | 내용 |
+|---|---|
+| [konsult/bible.md](konsult/bible.md) | 시리즈 바이블: 설정, 인물, 레벨·레지스터 설계, 대본 형식, 64화 그리드 |
+| [konsult/part1_hypotesen.md](konsult/part1_hypotesen.md) | 1부 *Hypotesen* (가설) — 민간기업 컨설팅, 16화 기획 |
+| [konsult/part2_bruket.md](konsult/part2_bruket.md) | 2부 *Bruket* (공장) — 제조기업 CEO·CFO, 16화 기획 |
+| [konsult/part3_granskningen.md](konsult/part3_granskningen.md) | 3부 *Granskningen* (감사) — 독립 경영감사, 16화 기획 |
+| [konsult/part4_sparren.md](konsult/part4_sparren.md) | 4부 *Spärren* (기준선) — 정치 컨설팅·2026 총선, 16화 기획 |
+| [konsult/issues.md](konsult/issues.md) | 반영한 스웨덴 현안 색인 |
