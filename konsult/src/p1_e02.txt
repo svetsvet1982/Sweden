@@ -1,0 +1,162 @@
+@title 1부 2화 — Hypotesen
+@subtitle (가설)
+@meta 날짜|2022년 10월 20일 목요일, 아침 8시 ~ 저녁 7시 반
+@meta 장소|Norrström Partners 회의실 "Strömmen"(Bergsklint 프로젝트룸) → 쇠데르텔리에의 Bergsklint 물류단지(Bergsklint Logistikpark) → E4 고속도로, 스톡홀름으로 돌아가는 차 안 → 쿵스홀멘, 엘린의 집 부엌
+@meta 등장인물|**Amir Nouri** (아미르 누리, 27, 애널리스트) · **Jonas Ekholm** (요나스 에크홀름, 41, 프린시플) · **Elin Bergqvist** (엘린 베리크비스트, 34, 시니어 매니저) · **Fredrik Sandell** (프레드리크 산델, 52, Bergsklint 재무책임자 CFO) · **Peder Wallin** (페데르 발린, 48, Bergsklint 자산관리팀장 förvaltningschef) · **Marko Ilić** (마르코 일리치, 39, 임차인 Trefors Logistik 현장 책임자) · **Daniel** (다니엘, 엘린의 남편, 중학교 수학 교사) · **Maja** (마야, 2, 엘린의 딸)
+@meta 이번 화의 도구|이슈 트리(problemträd / issue tree)와 가설 주도 접근(hypotesdriven problemlösning) — MECE, "Vad måste vara sant?"
+@meta 스웨덴 현안|물가연동 임대료(indexklausul) — 1월에 임대료가 10% 넘게 오르는데도 이자비용이 더 빨리 오르고 평가액은 떨어지는 역설 · 재무약정(ICR·LTV)의 위험 수위 · 팬데믹 이후 꺾인 전자상거래와 물류창고 수요
+@intro **지난 이야기** — 첫 출근날 아침, 노르브로 다리에서 길을 물은 상대가 하필 자기 상사 요나스였던 신입 애널리스트 아미르. 그는 오리엔테이션 대신 곧장 상업용 부동산 회사 Bergsklint Fastigheter의 긴급 회의에 투입됐다. 내년 4월 14일 만기인 15억 크로나 채권, 8억이 모자라는 현금, 신용등급 BBB−. CFO 프레드리크는 "은행을 설득할 슬라이드"를 원했지만, 엘린은 화이트보드에 진짜 문제를 적었다 — 이사회가 11월 15일까지 내려야 할 결정. 그리고 저녁 다리 위에서 요나스가 물었다. "Vad är frågan bakom frågan? 내일 아침 8시에 답해 봐."
+@intro 화요일 아침 8시 정각, 아미르는 답을 내놓았다. "질문 뒤의 질문은 은행을 어떻게 설득하느냐가 아니라, Bergsklint의 문제가 유동성(likviditet) 문제냐 지급능력(solvens) 문제냐는 거예요." 요나스는 좋은 질문이지만 아직 답은 아니라며 숙제를 하나 더 얹었다. "그걸 가설로 놓고 목요일까지 검증해 와." 수요일 저녁, 프레드리크가 "하루 더 걸린다"던 공실 자료가 마침내 데이터룸에 올라왔다. 그리고 목요일 아침 8시, Bergsklint 프로젝트룸이 된 회의실 "Strömmen". 다니얄이 시험을 보는 날, 아미르도 시험을 본다.
+# 장면 1 — 회의실 "Strömmen", 목요일 아침 8시
+Jonas|B1|Klockan är åtta. Du ser ut som någon som inte har sovit, Amir.|8시야. 한숨도 못 잔 사람 같은 얼굴이네, 아미르. (커피 두 잔을 들고 회의실에 들어오며)
+Amir|A2|Jag sov fyra timmar. Det räcker.|네 시간 잤어요. 그거면 충분해요.
+Elin|B1|Det räcker inte, men det tar vi en annan gång. Är det där kaffet till mig?|충분하지 않아. 근데 그 얘긴 다음에 하자. 그 커피 내 거야?
+Jonas|A2|Ett till dig, ett till Amir. Mitt drack jag på bron.|하나는 너, 하나는 아미르 거. 내 건 다리에서 마셨어.
+Amir|B1|Tack. Daniyal har prov i dag, förresten. Han sms:ade "be för mig" klockan sex i morse.|고마워요. 참, 다니얄 오늘 시험이에요. 아침 6시에 "나 위해 기도해 줘"라고 문자 보냈더라고요.
+Jonas|B2|Då är ni två som har prov i dag. I tisdags sa du att frågan bakom frågan inte är hur man övertygar bankerna. Påminn Elin om vad du sa.|그럼 오늘 시험 보는 사람이 둘이네. 화요일에 넌 질문 뒤의 질문이 은행을 어떻게 설득하느냐가 아니라고 했지. 엘린한테 뭐라고 했는지 다시 말해 봐.
+Amir|B2|Jag sa att den verkliga frågan är om Bergsklint har ett likviditetsproblem eller ett solvensproblem. Alltså om de bara saknar pengar just nu, eller om skulderna faktiskt är större än vad bolaget tål.|진짜 질문은 Bergsklint의 문제가 유동성 문제냐, 지급능력 문제냐라고 했어요. 그러니까 지금 당장 돈이 없을 뿐인지, 아니면 빚이 회사가 감당할 수 있는 것보다 실제로 큰 건지요.
+Elin|B1|Bra fråga. Och vad sa Jonas?|좋은 질문이네. 그래서 요나스는 뭐랬어?
+Amir|B1|Han sa att det var en bra fråga men inget svar. Och att jag skulle testa den som en hypotes till torsdag.|좋은 질문이지만 답은 아니라고요. 그리고 목요일까지 그걸 가설로 검증해 오라고 했어요.
+Jonas|A2|Och nu är det torsdag.|그리고 오늘이 목요일이지.
+Amir|B2|Okej. Min slutsats är att det är ett likviditetsproblem. Fastigheterna är värda 14,2 miljarder och nettoskulden är 8,1. Bolaget är solvent – det har bara slut på kontanter vid fel tidpunkt.|좋아요. 제 결론은 유동성 문제라는 거예요. 부동산 가치가 142억이고 순부채가 81억이에요. 회사는 지급능력이 있어요 — 하필 안 좋은 때에 현금이 떨어졌을 뿐이죠. (노트북 화면을 돌려 표를 보여 준다)
+Jonas|B1|Var kommer 14,2 miljarder ifrån?|142억은 어디서 나온 숫자야?
+Amir|B1|Från halvårsrapporten. Sidan elva.|반기보고서요. 11쪽.
+Jonas|B1|Och vem har skrivit halvårsrapporten?|그럼 반기보고서는 누가 썼지?
+Amir|B1|Bergsklint … Okej, jag fattar vart du vill komma.|Bergsklint요… 오케이, 무슨 말 하려는지 알겠어요.
+Jonas|C1|Du har testat din hypotes med exakt de siffror som kunden själv har gett dig. Det är inte att testa en hypotes, det är att bekräfta den. Två helt olika saker.|넌 고객이 직접 건네준 바로 그 숫자로 가설을 검증했어. 그건 가설을 검증하는 게 아니라 확인하는 거야. 완전히 다른 두 가지지.
+Amir|B2|Men värderingarna är gjorda av externa värderare. Det är väl inte Fredrik som har hittat på dem?|근데 평가액은 외부 감정평가사들이 한 거잖아요. 프레드리크가 지어낸 건 아니잖아요?
+Elin|B2|Nej, men värderarna räknar på de hyror och den vakansgrad som bolaget rapporterar. Om de uppgifterna är fel, så är värderingen också fel.|아니지. 근데 감정평가사들은 회사가 보고한 임대료랑 공실률을 가지고 계산해. 그 정보가 틀리면 평가액도 틀린 거야.
+Amir|A2|Så jag hade fel?|그럼 제가 틀린 거예요?
+Jonas|B2|Du hade halvrätt, och det är bättre än vad de flesta klarar på sin fjärde dag. Frågan var rätt. Testet var för snällt.|반은 맞았어. 출근 나흘째에 대부분이 해내는 것보단 나아. 질문은 맞았어. 검증이 너무 순했지.
+Amir|B1|Asså, hur testar man något på ett sätt som inte är snällt då?|그럼, 순하지 않게 검증하는 건 어떻게 하는 건데요?
+Elin|B1|Man letar efter det som skulle kunna fälla hypotesen, inte efter det som stöder den. Kom, vi ritar.|가설을 무너뜨릴 수 있는 걸 찾는 거야. 뒷받침하는 걸 찾는 게 아니라. 이리 와, 그려 보자. (화이트보드 마커를 집는다)
+Jonas|C1|Och glöm inte att Fredrik vill ha sina slides senast i morgon bitti. Vi levererar dem, men de ska bygga på något som vi själva tror på – inte på något som vi har lånat av kunden.|그리고 프레드리크가 늦어도 내일 아침 일찍까지 슬라이드를 원한다는 거 잊지 마. 만들어 주긴 할 거야. 근데 고객한테 빌려 온 게 아니라, 우리 스스로 믿는 것 위에 세워야 해.
+Amir|A2|Okej. Jag är redo.|좋아요. 준비됐어요.
+Jonas|B1|Drick kaffet först. När Elin har en tusch i handen tar det minst en timme.|커피부터 마셔. 엘린이 마커를 손에 쥐면 최소 한 시간이야.
+# 장면 2 — "Strömmen", 화이트보드 앞, 아침 8시 20분
+Elin|B2|Vi börjar med frågan högst upp i trädet, och den tar vi direkt från problemformuleringen: hur får Bergsklint fram 1,5 miljarder till den 14 april?|트리 맨 위의 질문부터 시작하자. 그건 문제 정의에서 그대로 가져와. Bergsklint는 4월 14일까지 15억을 어떻게 마련하는가? (화이트보드 맨 위에 네모를 그린다)
+Amir|B1|Och sedan delar man upp den i mindre frågor?|그리고 그걸 더 작은 질문들로 쪼개는 거예요?
+Elin|B2|Precis. Men grenarna måste vara MECE – ömsesidigt uteslutande och kollektivt uttömmande. Inget får överlappa, och inget får saknas.|맞아. 근데 가지들은 MECE여야 해 — 서로 겹치지 않고, 합치면 빠짐이 없어야 해. 겹치는 것도, 빠진 것도 없어야 돼.
+Amir|A2|Som en ekvation.|방정식처럼요.
+Jonas|B1|Mer som ett hockeylag. Alla har sin position, och ingen står på samma plats.|하키 팀에 더 가깝지. 다들 자기 포지션이 있고, 같은 자리에 서 있는 사람은 없어.
+Elin|B2|Pengarna kan bara komma från fyra ställen: från fastigheterna, från ägarna, från den löpande verksamheten eller från nya lån. Fler källor finns inte.|돈은 네 군데서만 나올 수 있어. 부동산에서, 주주에게서, 일상적인 영업에서, 아니면 새 대출에서. 다른 원천은 없어. (가지 네 개를 긋는다)
+Amir|B1|Fastigheterna betyder att sälja. Ägarna betyder nyemission. Men vad betyder den löpande verksamheten?|부동산은 매각이라는 뜻이고, 주주는 신주 발행이죠. 근데 일상적인 영업은 뭘 뜻해요?
+Elin|B2|Att behålla mer av kassaflödet: stoppa utdelningen, skjuta upp investeringar, sänka kostnaderna. Där hamnar de 380 miljonerna som gick till ägarna i våras.|현금흐름을 더 많이 남기는 거야. 배당 중단, 투자 연기, 비용 절감. 지난봄 주주들한테 간 3억 8천만이 여기 들어가.
+Jonas|B1|Och nya lån är bankerna. Men där har obligationsvillkoren redan satt ett tak.|그리고 새 대출은 은행이지. 근데 거긴 채권 조건이 이미 상한을 정해 놨어.
+Amir|B2|Hur högt är taket? Det framgick inte tydligt av villkoren som jag läste.|상한이 얼마나 되는데요? 제가 읽은 조건에선 분명하게 안 나와 있었어요.
+Elin|B1|Fredrik sa i tisdags att det handlar om högst 400 miljoner i ny säkerställd skuld. Det har vi inte kontrollerat än.|프레드리크가 화요일에 새 담보부 채무는 최대 4억 정도라고 했어. 그건 아직 확인 안 했고. (가지 옆에 "≤ 400? kontrollera!"라고 쓴다)
+Amir|A2|Okej. Och sedan då?|오케이. 그다음엔요?
+Jonas|C1|Sedan gör vi det som skiljer oss från en revisor. Vi väntar inte tills vi har analyserat varenda gren, utan gissar på svaret redan nu – och lägger resten av veckan på att försöka bevisa att vi har fel.|그다음엔 우리가 회계감사인과 다른 점을 보여 주는 거야. 가지 하나하나 다 분석할 때까지 기다리지 않고, 지금 당장 답을 짐작해 — 그리고 남은 한 주를 우리가 틀렸다는 걸 증명하려고 애쓰는 데 쓰는 거지.
+Elin|B1|Vi börjar med en hypotes och försöker sedan motbevisa den.|가설로 시작해서, 그다음 그걸 반박해 보는 거야.
+Amir|B2|Men är det inte farligt att bestämma sig för ett svar innan man ens har sett all data?|근데 데이터를 다 보기도 전에 답을 정해 버리는 건 위험하지 않아요?
+Elin|C1|Det farliga är att samla data utan riktning. Man kan analysera i månader och ändå inte veta vad man letar efter – och den tiden har Bergsklint inte.|위험한 건 방향 없이 데이터를 모으는 거야. 몇 달을 분석하고도 뭘 찾는지 모를 수 있거든 — 그리고 Bergsklint한텐 그럴 시간이 없어.
+Jonas|B2|En hypotes är som en karta. Den kan vara fel, men den talar om åt vilket håll du ska gå. Fråga Amir, han är expert på kartor.|가설은 지도 같은 거야. 틀릴 수도 있지만 어느 쪽으로 가야 할지 알려 주지. 아미르한테 물어봐, 지도 전문가잖아. (씩 웃으며)
+Amir|A2|Haha. Väldigt roligt.|하하. 정말 재밌네요.
+Elin|C1|Här är vår dag ett-hypotes: Bergsklint klarar förfallet om bolaget säljer fastigheter för ungefär en miljard, stoppar utdelningen och tar resten från bankerna. Någon nyemission behövs inte.|우리 첫날 가설은 이거야. Bergsklint는 부동산을 10억 크로나어치쯤 팔고, 배당을 멈추고, 나머지를 은행에서 조달하면 만기를 넘길 수 있다. 신주 발행은 필요 없다. (트리 옆에 크게 써서 동그라미를 친다)
+Amir|B1|Och vilka fastigheter skulle de sälja?|그럼 어떤 부동산을 팔아요?
+Elin|B2|De som går lättast att sälja till ett bra pris. Fredrik har redan nämnt logistikparken i Södertälje – den är stor, modern och nästan fullt uthyrd.|좋은 가격에 제일 쉽게 팔리는 것들. 프레드리크가 이미 쇠데르텔리에 물류단지를 언급했어 — 크고, 현대적이고, 거의 다 임대돼 있지.
+Jonas|B1|Nu kommer den viktigaste frågan i hela metoden. Vad måste vara sant?|이제 이 방법 전체에서 제일 중요한 질문이 나온다. 무엇이 사실이어야 하지?
+Amir|B1|Vad måste vara sant … för att hypotesen ska stämma?|무엇이 사실이어야… 가설이 맞으려면요?
+Elin|B2|Ja. Skriv upp tre saker. Om en enda av dem inte håller, faller hela hypotesen.|그래. 세 가지 적어 봐. 그중 하나라도 안 맞으면 가설 전체가 무너져.
+Amir|B2|Ett: det finns köpare som betalar ungefär bokfört värde. Två: bankerna accepterar planen. Tre … kassaflödet ser ut som i rapporten, alltså att hyrorna kommer in och att vakanserna inte ökar.|하나, 장부가치 정도를 치를 매수자가 있다. 둘, 은행이 계획을 받아들인다. 셋… 현금흐름이 보고서에 나온 대로다. 그러니까 임대료가 들어오고 공실이 늘지 않는다. (화이트보드에 받아 적는다)
+Jonas|B1|Bra. Och vilken av de tre har vi minst koll på?|좋아. 그럼 그 셋 중에 우리가 제일 모르는 건 뭐지?
+Amir|B2|Den tredje. Vakanserna kom in i datarummet först i går kväll, och jag har bara hunnit skumma dem.|세 번째요. 공실 자료는 어제 저녁에야 데이터룸에 올라왔고, 저는 대충 훑어볼 시간밖에 없었어요.
+Elin|C1|Och samtidigt stiger räntorna varje månad. Räntetäckningsgraden är 2,4 i dag, men varje procentenhet uppåt i Stibor kostar dem ungefär 60 miljoner om året, eftersom större delen av skulden löper med rörlig ränta.|그리고 그 와중에 금리는 매달 올라. 이자보상배율이 지금은 2.4배지만, 부채 대부분이 변동금리라서 스티보르가 1%포인트 오를 때마다 1년에 6천만쯤 더 들어.
+Amir|B2|Om räntorna fortsätter uppåt bryter de mot kovenanterna redan i andra kvartalet.|금리가 계속 오르면 2분기에 벌써 재무약정을 위반해요. (노트북으로 재빨리 계산해 보고)
+Jonas|B1|Då vet vi vad vi gör i dag. Vi åker till Södertälje och tittar på det som Fredrik vill sälja.|그럼 오늘 할 일은 정해졌네. 쇠데르텔리에 가서 프레드리크가 팔고 싶어 하는 걸 직접 보자.
+# 장면 3 — 쇠데르텔리에, Bergsklint 물류단지, 오전 11시
+Fredrik|B1|Välkomna till Södertälje! Det här är Bergsklint Logistikpark – fyra hallar, 96 000 kvadratmeter.|쇠데르텔리에에 오신 걸 환영합니다! 여기가 Bergsklint 물류단지예요 — 창고 네 동, 9만 6천 제곱미터. (바람 부는 주차장에서 형광 조끼를 나눠 주며)
+Jonas|A2|Tack. Det är större än jag trodde.|감사합니다. 생각보다 크네요.
+Fredrik|B2|Det här är Peder Wallin, vår förvaltningschef. Han kan varenda kvadratmeter här. Själv måste jag tyvärr ta ett samtal med Mälarbanken, men jag ansluter om en halvtimme.|이쪽은 페데르 발린, 저희 자산관리팀장입니다. 여기 제곱미터 하나하나 다 알아요. 저는 아쉽게도 멜라르방켄과 통화를 해야 해서요. 30분 뒤에 합류하겠습니다.
+Peder|B1|Hej, välkomna. Vi börjar med hall A och B, där sitter våra största hyresgäster.|안녕하세요, 환영합니다. 가장 큰 임차인들이 있는 A동과 B동부터 시작하죠.
+Elin|B1|Gärna. Hur länge har du jobbat med parken?|좋아요. 이 단지 일은 얼마나 하셨어요?
+Peder|C1|Ända sedan vi förvärvade den 2017. Då bestod den av två hallar; resten har vi uppfört i egen regi, och de två senaste stod färdiga mitt under pandemin, när e-handeln slog alla rekord.|2017년에 매입했을 때부터 줄곧이요. 그땐 두 동뿐이었고, 나머지는 저희가 직접 지었습니다. 마지막 두 동은 전자상거래가 기록을 갈아치우던 팬데믹 한복판에 완공됐죠.
+Amir|A2|Hur många lokaler står tomma just nu?|지금 공실이 몇 개죠?
+Peder|B1|Just nu? Inga stora. Två mindre kontorsdelar i hall D. Vakansgraden här ligger under tre procent.|지금이요? 큰 건 없어요. D동에 작은 사무 공간 두 곳 정도요. 여기 공실률은 3% 미만입니다.
+Elin|B2|Och för hela portföljen? I halvårsrapporten står det 5,8 procent i ekonomisk vakansgrad.|포트폴리오 전체로는요? 반기보고서엔 경제적 공실률이 5.8%라고 돼 있던데요.
+Peder|B2|Det stämmer ungefär. Den har legat stabilt de senaste åren, även om kontoren i Kista drar upp den lite.|대략 맞습니다. 최근 몇 년간 안정적이었어요. 시스타 쪽 사무실이 조금 끌어올리긴 하지만요.
+Jonas|B1|Och hyrorna? Hur ser kontrakten ut här?|임대료는요? 여기 계약은 어떻게 돼 있어요?
+Peder|B2|Nästan alla har indexklausul med full uppräkning mot KPI. Hyran räknas upp den första januari utifrån oktoberindexet, så nästa år går hyrorna upp med kanske tio, elva procent.|거의 다 소비자물가지수(KPI)에 100% 연동되는 물가연동 조항이 있어요. 임대료는 10월 지수를 기준으로 1월 1일에 인상돼서, 내년엔 임대료가 10%, 11%쯤 오를 겁니다.
+Amir|B1|Men då borde ju Bergsklint tjäna mer pengar nästa år, inte mindre?|그럼 Bergsklint는 내년에 돈을 덜 버는 게 아니라 더 벌어야 하는 거 아니에요?
+Elin|C1|Intäkterna stiger, ja, men räntekostnaderna stiger snabbare, och samtidigt höjer värderarna avkastningskraven. Det är paradoxen i hela branschen just nu: hyrorna går upp medan fastigheterna blir mindre värda.|수입은 오르지, 맞아. 근데 이자비용은 더 빨리 오르고, 동시에 감정평가사들은 요구수익률을 올려. 그게 지금 업계 전체의 역설이야. 임대료는 오르는데 부동산 가치는 떨어지는 거.
+Peder|B1|Det låter dystert när du säger det så.|그렇게 말씀하시니까 암울하게 들리네요.
+Elin|B2|Det är inte meningen. Jag försöker bara förstå var marginalen tar slut.|그럴 뜻은 아니에요. 그냥 여유가 어디서 바닥나는지 알고 싶을 뿐이에요.
+Marko|A2|Peder! Har du en minut?|페데르! 잠깐 시간 돼요? (B동 하역장 쪽에서 형광 조끼를 입은 남자가 손을 흔든다)
+Peder|B1|Det här är Marko Ilić, platschef för Trefors Logistik i hall B. Marko, de här är konsulter från Stockholm.|이분은 마르코 일리치, B동 Trefors Logistik의 현장 책임자예요. 마르코, 이분들은 스톡홀름에서 오신 컨설턴트들이에요.
+Marko|B1|Konsulter? Då hoppas jag att ni är här för att sänka hyran.|컨설턴트요? 그럼 임대료 내리러 오셨길 바랍니다. (반쯤 농담으로)
+Jonas|A2|Tyvärr inte. Hur går det för er?|아쉽게도 아니에요. 요즘 어떠세요?
+Marko|B2|Det går, men e-handeln har bromsat in rejält sedan i våras. Folk köper mindre när elräkningen och matpriserna äter upp lönen. Och nu ska hyran upp med elva procent i januari.|그럭저럭이요. 근데 봄부터 전자상거래가 확 꺾였어요. 전기요금이랑 식료품값이 월급을 다 잡아먹으니 사람들이 덜 사죠. 그런데 이제 1월엔 임대료가 11%나 오른다니까요.
+Amir|B1|Funderar ni på att flytta?|이전을 고려하고 계세요?
+Marko|B2|Inte vi, vi har kontrakt till 2027. Men grannarna i hall C har ju redan bestämt sig. NordFrakt flyttar till Eskilstuna vid nyår – de har redan börjat packa.|저희는 아니에요. 2027년까지 계약돼 있거든요. 근데 C동 이웃들은 이미 결정했잖아요. NordFrakt는 새해에 에스킬스투나로 옮겨요 — 벌써 짐 싸기 시작했어요.
+Elin|A2|Hall C? Hela hallen?|C동이요? 동 전체요? (펜을 멈춘다)
+Marko|B1|Hela. Det är väl ingen hemlighet? Det har pratats om det här ute sedan midsommar.|전부요. 그거 비밀 아니죠? 여기선 하지 때부터 다들 얘기하던 건데. (페데르의 얼굴을 보고 말끝을 흐린다)
+Peder|C1|NordFrakt har sagt upp sitt avtal, det stämmer, men det löper till den 31 december. Formellt sett är hallen alltså fullt uthyrd, och vi för redan diskussioner med flera intressenter.|NordFrakt가 계약 해지 통보를 한 건 맞습니다. 하지만 계약은 12월 31일까지 유효해요. 그러니까 형식상으로는 그 동이 100% 임대 중이고, 이미 여러 후보와 협의하고 있습니다.
+Jonas|B2|Hur många av de diskussionerna har lett till ett påskrivet kontrakt?|그 협의 중 몇 건이 서명된 계약으로 이어졌나요?
+Peder|B1|Inget än. Marknaden är lite avvaktande just nu.|아직 없습니다. 지금 시장이 좀 관망세라서요.
+Elin|C1|Jag förstår. Då vore vi tacksamma om du kunde skicka oss en lista över alla uppsagda avtal i portföljen, med hyresvärde och avflyttningsdatum – helst redan i dag.|알겠습니다. 그럼 포트폴리오 전체의 해지 통보된 계약 목록을 임대료와 퇴거일 포함해서 보내 주시면 감사하겠습니다 — 가능하면 오늘 중으로요.
+Peder|B2|Den finns faktiskt redan i datarummet, under en egen flik. Men jag ska be en kollega skicka en uppdaterad version.|사실 그건 이미 데이터룸에 별도 탭으로 있어요. 그래도 동료한테 업데이트된 버전을 보내 달라고 하겠습니다.
+# 장면 4 — E4 고속도로, 스톡홀름으로 돌아가는 차 안, 오후 1시
+Amir|B2|Jag har hittat fliken. Den heter "Uppsägningar" och ligger längst ner i filen, efter alla diagram som ingen orkar läsa.|탭 찾았어요. "해지 통보"라는 이름이고, 파일 맨 아래, 아무도 읽을 엄두 안 내는 그래프들 뒤에 있어요. (뒷좌석에서 노트북을 무릎에 올려놓고)
+Elin|A2|Läs upp den.|읽어 줘. (조수석에서 노란 노트를 펼친다)
+Amir|B2|NordFrakt, hall C: 31 000 kvadratmeter, 52 miljoner i årshyra, avflyttning den 31 december. Sedan två kontorshyresgäster i Kista, tillsammans 22 miljoner, som flyttar i mars. Totalt 74 miljoner.|NordFrakt, C동: 3만 1천 제곱미터, 연 임대료 5천2백만, 퇴거 12월 31일. 그다음 시스타의 사무실 임차인 둘, 합쳐서 2천2백만, 3월에 나가요. 총 7천4백만이에요.
+Jonas|B1|Och hur stora är hyresintäkterna totalt?|그럼 전체 임대수입은 얼마야? (운전대를 잡은 채)
+Amir|B1|Ungefär 950 miljoner om året, enligt halvårsrapporten.|반기보고서 기준으로 1년에 9억 5천만쯤이요.
+Elin|B2|Då försvinner nästan åtta procent av hyrorna inom ett halvår. Lägg det på de 5,8 procenten, så är den verkliga vakansgraden närmare fjorton.|그럼 반년 안에 임대료의 거의 8%가 사라지는 거야. 그걸 5.8%에 더하면 실제 공실률은 14%에 가까워. (노트에 74 ÷ 950 ≈ 7.8을 적는다)
+Amir|B2|Men Peder ljög ju inte. Avtalen gäller formellt till nyår, och de står faktiskt i datarummet.|근데 페데르가 거짓말한 건 아니잖아요. 계약은 형식상 새해까지 유효하고, 데이터룸에 실제로 있기도 하고요.
+Elin|C1|Nej, ingen har ljugit. Siffrorna ljuger inte, men de kan tiga – och här tiger de om vakansgraden.|그래, 아무도 거짓말 안 했어. 숫자는 거짓말하지 않아. 하지만 침묵할 순 있지. 여기선 공실률에 대해 침묵하고 있어.
+Jonas|C1|Och det är ingen slump att fliken låg längst ner. Ett datarum är också en berättelse – det är bara någon annan som har bestämt i vilken ordning man ska läsa den.|그리고 그 탭이 맨 아래 있었던 건 우연이 아니야. 데이터룸도 하나의 이야기야 — 어떤 순서로 읽을지를 다른 누군가가 정해 놨을 뿐이지.
+Amir|B1|Så vad betyder det för vår hypotes?|그럼 그게 우리 가설엔 무슨 의미예요?
+Elin|B2|Att det tredje villkoret inte håller. Och det första vacklar: vem köper en logistikpark där en tredjedel av ytan står tom från nyår?|세 번째 조건이 안 맞는다는 거지. 그리고 첫 번째도 흔들려. 새해부터 면적의 3분의 1이 비는 물류단지를 누가 사겠어?
+Jonas|B2|Så den fastighet som Fredrik helst vill sälja är just den som har blivit svårast att sälja.|그러니까 프레드리크가 제일 팔고 싶어 하는 부동산이 하필 제일 팔기 어려워진 거네.
+Amir|A2|Det är ju typ ironiskt.|이거 완전 아이러니하네요.
+Elin|C1|Det är värre än ironiskt. Värderarna gör en ny värdering per den 31 december, och då måste de räkna med en tom hall. Jag gissar att parken tappar en halv miljard, kanske mer.|아이러니보다 더 나빠. 감정평가사들이 12월 31일 기준으로 새로 평가하는데, 그땐 빈 동을 반영할 수밖에 없어. 내 짐작으론 단지가 5억, 어쩌면 그 이상 떨어져.
+Jonas|A2|Och resten av portföljen?|나머지 포트폴리오는?
+Elin|C1|Om avkastningskravet stiger med en halv procentenhet – och det är snarare försiktigt räknat – tappar portföljen knappt tio procent bara på det. Lägg till Södertälje, så är vi en bra bit över tolv.|요구수익률이 0.5%포인트 오르면 — 그것도 오히려 보수적으로 잡은 거야 — 그것만으로 포트폴리오가 10% 가까이 떨어져. 쇠데르텔리에를 더하면 12%를 훌쩍 넘고. (노트에 4.6% → 5.1%, 14.2 × 0.9 ≈ 12.8, −0.5 → 12.3을 적는다)
+Amir|B2|Och vid drygt tolv procent slår de i taket för belåningsgraden. Det var ju det du räknade ut i måndags.|그리고 12% 남짓이면 LTV 상한에 닿죠. 월요일에 계산하셨던 거잖아요.
+Jonas|B1|När testas kovenanterna? Varje kvartal?|재무약정은 언제 테스트해? 분기마다?
+Elin|B2|Ja, vid varje kvartalsskifte, men bokslutet är det tyngsta testet, eftersom det är då som värderarna går igenom alla fastigheter.|응, 분기 말마다. 근데 연말 결산이 제일 무거운 테스트야. 그때 감정평가사들이 부동산을 전부 다시 보니까.
+Amir|C1|Så om jag förstår rätt, hänger allt på en värdering som görs om tio veckor, medan Fredrik fortfarande tror att problemet är ett lån som förfaller i april.|그러니까 제가 제대로 이해했다면, 모든 게 10주 뒤에 이뤄질 평가에 달려 있는데, 프레드리크는 아직도 문제가 4월에 만기 되는 대출이라고 생각하는 거네요.
+Jonas|B2|Och om värderingen faller så mycket, är det inte längre en fråga om likviditet, utan om solvens. Din fråga från i tisdags, Amir.|그리고 평가액이 그만큼 떨어지면, 더 이상 유동성 문제가 아니라 지급능력 문제야. 네가 화요일에 던진 질문이지, 아미르.
+Amir|B1|Så min hypotes var fel, men min fråga var rätt?|그러니까 제 가설은 틀렸는데, 제 질문은 맞았다는 거예요?
+Jonas|C1|Exakt. Och nu har du lärt dig det viktigaste i hela yrket: en motbevisad hypotes är inget misslyckande, utan det snabbaste sättet att komma närmare sanningen.|정확해. 그리고 이제 이 일에서 제일 중요한 걸 배웠어. 반박된 가설은 실패가 아니라, 진실에 더 빨리 다가가는 방법이라는 거. (백미러로 아미르를 보며 씩 웃는다)
+# 장면 5 — 쿵스홀멘, 엘린의 집 부엌, 저녁 7시 반
+Daniel|A2|Du är hemma! Maten är klar om fem minuter.|왔어! 밥 5분 뒤면 돼. (스파게티 냄비를 저으며)
+Maja|A2|Mamma! Mamma, titta!|엄마! 엄마, 봐 봐! (크레용 그림을 흔든다)
+Elin|A2|Oj, vad fint! Är det en katt?|우와, 예쁘다! 고양이야?
+Maja|A2|Nej. Häst.|아니. 말.
+Daniel|B1|Hon har ritat hästar hela eftermiddagen. Hur gick det i Södertälje?|오후 내내 말만 그렸어. 쇠데르텔리에는 어땠어?
+Elin|B1|Bra och dåligt. Mest dåligt. Får jag bara räkna klart en sak innan vi äter?|좋기도 하고 나쁘기도 하고. 대체로 나빠. 밥 먹기 전에 하나만 계산 좀 끝내도 돼? (식탁에서 노란 노트를 꺼낸다)
+Daniel|B2|Bara om du lovar att lägga undan den gula anteckningsboken när Maja ska sova. Jag har trettio matteprov att rätta, så vi är två som räknar i kväll.|마야 재울 땐 노란 노트 치운다고 약속하면. 나도 채점할 수학 시험지가 서른 장이라, 오늘 밤엔 계산하는 사람이 둘이네.
+Maja|A2|Mamma räknar.|엄마 계산해. (엘린 옆 의자에 기어 올라와 노트를 들여다보며 진지하게)
+Daniel|A2|Ja, mamma räknar alltid. Och nu ringer din telefon – Jonas, såklart.|그래, 엄마는 늘 계산하지. 그리고 이제 전화 온다 — 요나스겠지, 당연히.
+Elin|B1|Hej, Jonas. Jag sitter precis med siffrorna från Södertälje.|응, 요나스. 마침 쇠데르텔리에 숫자 보고 있었어. (마야를 무릎에 앉힌 채 전화를 받는다)
+Jonas|B2|Fredrik vill ha sina slides i morgon bitti. Om vi tar upp Södertälje redan då, kommer han inte att bli glad. Vad ska stå på första sidan?|프레드리크가 내일 아침 일찍 슬라이드를 원해. 그때 쇠데르텔리에 얘기를 꺼내면 좋아하진 않을 거야. 첫 장엔 뭘 넣을까?
+Elin|C1|Sanningen. Jag har läst obligationsvillkoren igen: kovenanterna testas per den 31 december, och i bokslutskommunikén i januari får hela marknaden se resultatet. De har inte sex månader. De har tre.|진실. 채권 조건을 다시 읽어 봤어. 재무약정은 12월 31일 기준으로 테스트되고, 1월 연말 실적 발표 때 시장 전체가 그 결과를 보게 돼. 그들한테 6개월은 없어. 석 달이야. (노란 노트의 한 줄에 동그라미를 친다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Hur många lokaler står tomma just nu?** | 지금 공실이 몇 개죠? | *lokal* = (상업용) 공간·점포·사무실. *stå tom* = 비어 있다 — 건물·공간에는 *vara* 대신 *stå* 를 자주 쓴다 |
+| `A2` | **Läs upp den.** | 그거 소리 내어 읽어 줘. | *läsa upp* = 소리 내어 읽다. 소사(particle) *upp* 에 강세. *läsa* 만 쓰면 '읽다(혼자)' |
+| `B1` | **Vi börjar med en hypotes och försöker sedan motbevisa den.** | 가설로 시작해서, 그다음 그걸 반박해 보는 거야. | *motbevisa* = 반증하다(↔ *bevisa*). *sedan* 은 주절에서 정동사 *försöker* 바로 뒤에 온다 |
+| `B1` | **Vad måste vara sant?** | 무엇이 사실이어야 하지? | 가설 검증의 핵심 질문. *för att hypotesen ska stämma* (가설이 맞으려면)를 붙여 쓰기도 한다 |
+| `B1` | **Okej, jag fattar vart du vill komma.** | 오케이, 무슨 말 하려는지 알겠어요. | *vart* = 어디로(방향), *var* = 어디에(위치). *vilja komma* = (말의) 요점이 ~이다. 공식적으로는 *Jag förstår vart du vill komma.* |
+| `B2` | **Om räntorna fortsätter uppåt bryter de mot kovenanterna redan i andra kvartalet.** | 금리가 계속 오르면 2분기에 벌써 재무약정을 위반해요. | *om* 절이 앞에 오면 주절은 동사 먼저(V2): *bryter de*. *bryta mot* = (규칙·약정을) 어기다 |
+| `B2` | **Formellt sett är hallen fullt uthyrd.** | 형식상으로는 그 동이 전부 임대 중입니다. | *formellt sett* = 형식상(↔ *i praktiken*). *hyra ut* → 과거분사 *uthyrd* (공통성), *uthyrt* (중성) |
+| `C1` | **Siffrorna ljuger inte, men de kan tiga – och här tiger de om vakansgraden.** | 숫자는 거짓말하지 않아. 하지만 침묵할 순 있지. 여기선 공실률에 대해 침묵하고 있어. | 엘린의 입버릇 확장판. *tiga om något* = ~에 대해 입을 다물다. 강변화 *tiga – teg – tigit*, *ljuga – ljög – ljugit* |
+| `C1` | **Det är inte att testa en hypotes, det är att bekräfta den.** | 그건 가설을 검증하는 게 아니라 확인하는 거야. | 부정사 구문 *det är att + 동사* 를 두 번 겹쳐 대비. *bekräfta* = 확인하다, 확증하다 |
+| `C1` | **En motbevisad hypotes är inget misslyckande, utan det snabbaste sättet att komma närmare sanningen.** | 반박된 가설은 실패가 아니라, 진실에 더 빨리 다가가는 방법이야. | *inget X, utan Y* = X가 아니라 Y. *komma närmare* = 더 가까이 가다 |
+
+## 현안 메모
+- **물가연동 임대료(indexklausul)** — 스웨덴의 상업용 임대차 계약은 대부분 임대료를 소비자물가지수(KPI)에 연동한다. 흔한 방식은 계약 기준연도 10월 지수 대비 직전 해 10월 지수의 상승분만큼 매년 1월 1일 임대료를 올리는 것(100% 연동이 일반적). 이 화의 시점(10월 20일)에는 9월 KPI 상승률 10.8%까지 발표돼 있었고, 11월 중순 나온 10월 수치는 10.9% — 그 결과 2023년 1월 많은 상업용 임대료가 한꺼번에 10% 안팎 올랐다.
+- **임대료는 오르는데 가치는 떨어지는 역설** — 부동산 가치는 대략 '순영업이익 ÷ 요구수익률(*avkastningskrav*)'로 계산된다. 금리가 오르면 투자자들이 더 높은 수익률을 요구해 분모가 커지고, 임대료가 올라도 가치는 떨어진다. 요구수익률이 4.6%에서 5.1%로 0.5%포인트만 올라도 가치는 약 10% 줄어든다. 동시에 변동금리 채권·대출의 이자비용은 임대료보다 빨리 올라 ICR을 깎아 먹는다.
+- **재무약정 테스트와 공실** — 채권·대출의 재무약정(LTV 상한, ICR 하한)은 보통 분기 말 기준으로 테스트되고, 외부 감정평가를 전면 반영하는 연말 결산이 가장 무거운 시험대가 된다. 공시되는 '경제적 공실률(*ekonomisk vakansgrad*)'은 기준일 현재 비어 있는 면적의 임대료 비중이라, 해지 통보는 됐지만 아직 입주 중인 계약(*uppsagda avtal*)은 잡히지 않는다 — 그래서 투자자와 분석가는 해지 통보 목록을 따로 확인한다.
+- **꺾인 전자상거래** — 팬데믹 기간 폭증한 온라인 쇼핑은 2022년 들어 물가 급등과 전기요금 부담으로 둔화했고, 그 기대를 타고 늘어난 물류창고 수요도 식기 시작했다.
+
+## 비즈니스 메모
+- **이슈 트리(problemträd)와 MECE** — 맨 위에 문제 정의에서 나온 핵심 질문을 놓고, 그것을 하위 질문으로 쪼갠다. 가지들은 **MECE**(*ömsesidigt uteslutande, kollektivt uttömmande* — 서로 겹치지 않고, 합치면 빠짐이 없게)여야 한다. 이번 화의 예: "15억을 어디서?" → ① 부동산(매각) ② 주주(신주 발행) ③ 영업 현금흐름(배당 중단·투자 연기·비용 절감) ④ 새 대출(은행, 단 채권 조건상 한도 존재).
+- **가설 주도 접근(hypotesdriven problemlösning)** — 모든 가지를 다 분석하기 전에 첫날 가설(*dag ett-hypotes*)을 세우고, "**Vad måste vara sant?**(무엇이 사실이어야 하는가)"를 적은 뒤 그중 가장 불확실한 조건부터 **반박하려고** 시도한다. 고객이 준 숫자로 가설을 맞춰 보는 건 검증이 아니라 확인(*bekräftelse*)일 뿐이다. 반박된 가설은 실패가 아니라 다음 가설로 가는 지름길이다.
+
+## 다음 화 예고 — Styrelsemötet
+11월 15일, 외스테르말름의 Bergsklint 이사회실. 그 전에 먼저 노르스트룀 안에서 결투가 벌어진다. 헨리크가 군닐라에게 내미는 손쉬운 해법 — "배당은 유지하고, 비용 절감으로 quick wins를." 리허설은 헨리크와 요나스의 싸움이 되고, 이사회에서 대주주는 단호하게 말한다. "가족이 키운 자산은 팔지 않습니다." 휴정 중 복도에서 아미르는 시나리오 표를 즉석에서 다시 계산하고, 엘린은 민감도 분석 한 장을 꺼낸다. 그리고 엘리베이터 안, 헨리크의 차가운 축하가 기다린다.
