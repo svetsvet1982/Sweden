@@ -1,0 +1,162 @@
+@title 1부 3화 — Styrelsemötet
+@subtitle (이사회)
+@meta 날짜|2022년 11월 15일 화요일, 아침 7시 반 ~ 오후 5시
+@meta 장소|Norrström Partners 회의실 "Strömmen"(리허설) → 외스테르말름, Bergsklint 본사 이사회실 → 이사회실 앞 복도(휴정) → 다시 이사회실 → Norrström 부엌(피카)과 엘리베이터
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 41, 프린시플) · **Elin Bergqvist** (엘린 베리크비스트, 34, 시니어 매니저) · **Amir Nouri** (아미르 누리, 27, 애널리스트) · **Henrik Rosenstam** (헨리크 로센스탐, 45, 파트너) · **Gunilla Ahlström** (군닐라 알스트룀, 59, 대표 파트너) · **Ingrid Malmsten** (잉리드 말름스텐, 63, Bergsklint 이사회 의장, 독립이사) · **Staffan Bergsklint** (스타판 베리스클린트, 68, 대주주 가문 대표·이사) · **Fredrik Sandell** (프레드리크 산델, 52, Bergsklint CFO) · **Sofia Mäkinen** (소피아 매키넨, 30, 변화관리 컨설턴트)
+@meta 이번 화의 도구|피라미드 원칙(pyramidprincipen — 결론 먼저) + 민감도 분석(känslighetsanalys)
+@meta 스웨덴 현안|리크스방크의 연속 금리 인상과 11월 말 추가 인상 전망 · 채권시장이 닫히며 차환 위기에 몰린 부동산 회사들 · 배당 중단·자산 매각·신주 발행(företrädesemission)이라는 쓴 약과 신용등급 하향 공포
+@intro **지난 이야기** — 아미르의 첫 가설("Bergsklint의 문제는 유동성 문제다")은 반만 맞았다. 엘린은 이슈 트리를 그리고 첫날 가설을 세웠지만, 쇠데르텔리에 물류단지 현장에서 임차인 마르코가 무심코 흘린 한마디가 모든 걸 뒤집었다 — C동 임차인 NordFrakt가 연말에 나간다. 데이터룸 맨 아래 숨어 있던 "해지 통보" 탭, 실질 공실률 14%, 그리고 12월 31일 연말 평가에서 LTV 상한 65%를 넘을 위험. 프레드리크가 가장 팔고 싶어 한 단지는 가장 팔기 어려운 자산이 됐다. 그날 밤 부엌에서 엘린은 말했다. "De har inte sex månader. De har tre."
+@intro 그로부터 4주. 첫 장에 '진실'을 넣은 슬라이드에 프레드리크는 처음엔 얼굴을 붉혔지만, 주거래 은행 Mälarbanken이 같은 말을 하자 입을 다물었다. 감정평가사들의 예비 의견도 나왔다 — 포트폴리오 전체 −11~14%. 팀이 만든 권고안은 부동산 세 곳 매각, 배당 중단, 10억 크로나 신주 발행. 9일 뒤에는 리크스방크가 또 금리를 올릴 것으로 보인다. 이사회는 오늘 오전 10시, 외스테르말름의 Bergsklint 본사. 그런데 아침 7시 반, 회의실 "Strömmen"에는 고객보다 먼저 넘어야 할 상대가 앉아 있다.
+# 장면 1 — 회의실 "Strömmen", 아침 7시 반 (리허설)
+Gunilla|B1|Klockan är halv åtta, och styrelsemötet börjar klockan tio. Vi har en timme på oss. Henrik, du ville säga något innan vi börjar.|7시 반이고, 이사회는 10시에 시작해. 우리한테 주어진 시간은 한 시간이야. 헨리크, 시작하기 전에 할 말이 있다고 했지. (상석에 앉아 커피잔을 내려놓으며)
+Henrik|B2|Yes. Jag läste Elins deck i natt, och analysen är solid. Men jag tror inte att styrelsen köper den. Staffan Bergsklint kommer aldrig att sälja familjens fastigheter.|예스. 어젯밤에 엘린 덱 읽어 봤는데, 분석은 탄탄해. 근데 이사회가 그걸 받아들일 것 같진 않아. 스타판 베리스클린트는 절대 가문의 부동산을 안 팔 거야.
+Jonas|B1|Hur vet du vad Staffan tänker?|스타판이 무슨 생각 하는지 네가 어떻게 알아?
+Henrik|B1|Vi spelar golf ihop, Jonas. Sedan femton år tillbaka.|우리 같이 골프 쳐, 요나스. 15년째.
+Elin|A2|Det visste jag inte.|그건 몰랐네.
+Henrik|C1|Därför föreslår jag ett alternativ som styrelsen faktiskt kan säga ja till: behåll utdelningen, sänk förvaltningskostnaderna med tio procent och förhandla fram en bryggfinansiering med bankerna tills obligationsmarknaden öppnar igen. Quick wins, inga smärtsamma beslut.|그래서 이사회가 실제로 '예'라고 할 수 있는 대안을 제안하려고. 배당은 유지하고, 관리비를 10% 줄이고, 채권시장이 다시 열릴 때까지 은행이랑 브리지 파이낸싱을 협상하는 거지. 퀵 윈, 고통스러운 결정은 없고. (화이트보드에 "QUICK WINS"라고 크게 쓴다)
+Gunilla|B1|Jonas, du ser inte övertygad ut. Vad säger du?|요나스, 납득 안 된 얼굴이네. 어떻게 생각해?
+Jonas|B2|Att det är en plan för en presentation, inte för ett bolag. Tio procent av förvaltningskostnaderna är kanske femton miljoner om året. Bolaget saknar 800 miljoner om fem månader.|그건 프레젠테이션용 계획이지, 회사를 위한 계획이 아니라는 거. 관리비의 10%면 1년에 1천5백만쯤이야. 회사는 다섯 달 뒤에 8억이 모자라고.
+Henrik|C1|Det handlar inte bara om pengar, utan om signalvärde. Stryker Bergsklint utdelningen, så rasar aktien, och då blir en nyemission ännu dyrare – det vet du lika väl som jag.|이건 돈 문제만이 아니라 시그널 문제야. Bergsklint가 배당을 없애면 주가가 폭락하고, 그럼 신주 발행은 더 비싸져. 너도 나만큼 잘 알잖아.
+Elin|B2|Aktien rasar ändå om bolaget bryter mot kovenanterna i bokslutet. Värderarna har redan gett en preliminär bedömning: minus elva till fjorton procent för hela portföljen.|회사가 연말 결산에서 재무약정을 위반하면 주가는 어차피 폭락해. 감정평가사들이 이미 예비 의견을 줬어. 포트폴리오 전체 마이너스 11에서 14%.
+Amir|B1|Och vid drygt tolv procent hamnar belåningsgraden över 65. Det är taket i obligationsvillkoren.|그리고 12% 남짓이면 LTV가 65%를 넘어요. 그게 채권 조건의 상한이고요.
+Henrik|B2|Preliminärt. Värderare är försiktiga i november och generösa i februari. I've seen it before.|예비 의견이잖아. 감정평가사들은 11월엔 신중하고 2월엔 후해져. 내가 겪어 봤어.
+Gunilla|C1|Det kan mycket väl stämma, Henrik, men en rekommendation till en styrelse kan inte bygga på förhoppningen att värderarna ska bli på bättre humör.|그 말이 맞을 수도 있어, 헨리크. 하지만 이사회에 올리는 권고가 감정평가사들 기분이 좋아지길 바라는 기대 위에 서 있을 순 없지.
+Henrik|B1|Fair enough. Men bankerna då? Mälarbanken vill ju behålla kunden.|페어 이너프. 근데 은행은? Mälarbanken은 고객을 놓치기 싫어하잖아.
+Elin|B2|Mälarbanken sa i fredags att de kan tänka sig att förlänga kreditramen, men bara om ägarna skjuter till nytt kapital. De vill se att familjen tar sin del av smällen.|Mälarbanken이 지난 금요일에 신용한도 연장은 검토할 수 있다고 했어. 단, 주주들이 새 자본을 넣는다는 조건으로. 가문이 충격의 자기 몫을 떠안는 걸 보고 싶은 거지.
+Amir|A2|Det stod i mejlet från Fredrik.|프레드리크 메일에 그렇게 쓰여 있었어요.
+Gunilla|B1|Bra. Då kör vi en genomdragning. Jonas, du har två minuter. Låtsas att jag är Staffan.|좋아. 그럼 한번 처음부터 해 보자. 요나스, 2분 줄게. 내가 스타판이라고 생각해.
+Jonas|B2|Okej. Bergsklint har en obligation på 1,5 miljarder som förfaller den 14 april, och ett värdefall i bokslutet kan leda till att bolaget bryter mot sina kovenanter redan vid årsskiftet. Vi har därför gått igenom fyra möjliga finansieringskällor …|좋아요. Bergsklint에는 4월 14일 만기인 15억 규모의 채권이 있고, 연말 결산에서 평가액이 떨어지면 회사는 연초에 벌써 재무약정을 위반할 수 있습니다. 그래서 저희는 네 가지 가능한 자금원을 검토했는데…… (일어서서 이슈 트리 슬라이드를 띄운다)
+Gunilla|C1|Stopp. Du har pratat i trettio sekunder, och jag vet fortfarande inte vad du vill att jag ska göra. En styrelse lyssnar som en läsare som har bråttom: slutsatsen först, sedan skälen, och detaljerna bara till den som frågar.|스톱. 30초를 말했는데 난 아직도 네가 나한테 뭘 하라는 건지 모르겠어. 이사회는 바쁜 독자처럼 들어. 결론 먼저, 그다음 이유, 세부 사항은 묻는 사람한테만.
+Jonas|A2|Pyramiden. Jag vet.|피라미드. 알아.
+Gunilla|B1|Att veta det är inte samma sak som att göra det. Ta om från början.|아는 거랑 하는 건 다른 얘기야. 처음부터 다시.
+Jonas|B2|Vi rekommenderar att styrelsen säljer tre av fastigheterna. Vi rekommenderar också att utdelningen stryks och att bolaget tar in en miljard i en nyemission. Tre skäl: obligationen, kovenanterna och räntorna.|이사회가 부동산 세 곳을 매각할 것을 권고드립니다. 아울러 배당을 없애고, 신주 발행으로 10억을 조달할 것을 권고드립니다. 이유는 셋입니다. 채권, 재무약정, 그리고 금리.
+Gunilla|A2|Bättre. Mycket bättre.|낫네. 훨씬 나아.
+Henrik|B2|Och när Staffan säger nej, vad gör ni då? Ni har ju ingen plan B i presentationen.|그럼 스타판이 '노'라고 하면 어떡할 건데? 프레젠테이션에 플랜 B도 없잖아.
+Elin|C1|Vi har en känslighetsanalys som visar vad som händer med båda planerna om räntorna och värderingarna utvecklas sämre än väntat. Den lägger vi i bilagan, och vi tar fram den först när någon ifrågasätter rekommendationen.|우리한텐 금리와 평가액이 예상보다 나쁘게 움직일 때 두 계획이 각각 어떻게 되는지 보여 주는 민감도 분석이 있어. 그건 부록에 넣고, 누가 권고에 이의를 제기할 때 꺼낼 거야.
+Gunilla|C1|Då gör vi så här: rekommendationen är Elins och Jonas, och Henriks alternativ ligger i bilagan som plan B – med samma känslighetsanalys som allt annat. Kunden betalar inte för sanningen. Kunden betalar för att kunna agera på den.|그럼 이렇게 하자. 권고안은 엘린과 요나스 것으로 가고, 헨리크의 대안은 플랜 B로 부록에 넣어 — 다른 것과 똑같은 민감도 분석을 붙여서. 고객은 진실에 돈을 내는 게 아니야. 고객은 그 진실을 바탕으로 행동할 수 있게 되는 데 돈을 내지.
+Henrik|B1|Okej. Det är ert case. Jag hoppas bara att ni vet vad ni gör.|오케이. 너희 케이스니까. 너희가 뭘 하는지 알고 있길 바랄 뿐이야. (재킷을 집어 들고 회의실을 나간다)
+Amir|A2|Taxin kommer om tio minuter.|택시 10분 뒤에 와요. (휴대폰을 확인하며 조용히)
+# 장면 2 — 외스테르말름, Bergsklint 본사 이사회실, 오전 10시
+Ingrid|A2|Vill någon ha kaffe innan vi börjar?|시작하기 전에 커피 드실 분 계세요?
+Amir|A2|Ja tack, gärna.|네, 감사합니다. 주시면 좋죠.
+Ingrid|B1|Välkomna till Bergsklint. Jag heter Ingrid Malmsten och är styrelsens ordförande. Staffan Bergsklint här företräder familjen i styrelsen.|Bergsklint에 오신 걸 환영합니다. 저는 이사회 의장 잉리드 말름스텐입니다. 이쪽의 스타판 베리스클린트 이사님은 이사회에서 가문을 대표하고 계시고요.
+Staffan|B1|Min far köpte det första huset 1958, Kvarteret Klinten på Kungsholmen. Där började allt.|제 아버지가 1958년에 첫 건물을 사셨지요. 쿵스홀멘의 클린텐 블록. 모든 게 거기서 시작됐습니다. (창밖을 보며 손으로 테이블을 가볍게 두드린다)
+Ingrid|B2|Vi har avsatt en timme för den här punkten. Fredrik har redan informerat styrelsen om värderingen och obligationen, så ni kan gå direkt på rekommendationen.|이 안건에는 한 시간을 잡아 두었습니다. 평가액과 채권에 대해서는 프레드리크가 이미 이사회에 보고했으니, 바로 권고안으로 들어가셔도 됩니다.
+Jonas|B1|Tack. Då börjar vi med slutsatsen, och sedan förklarar vi varför.|감사합니다. 그럼 결론부터 말씀드리고, 그다음에 이유를 설명드리겠습니다.
+Elin|B2|Vår rekommendation har tre delar. Bergsklint säljer tre fastigheter för cirka 1,6 miljarder, stryker utdelningen för 2022 och genomför en företrädesemission på en miljard före utgången av mars.|저희 권고안은 세 부분입니다. Bergsklint가 부동산 세 곳을 약 16억에 매각하고, 2022년도 배당을 없애고, 3월 말 전에 10억 규모의 주주배정 유상증자를 실시하는 것입니다.
+Staffan|A2|Vilka tre?|어느 세 곳이오?
+Elin|B1|Kontorshuset i Solna Strand, lagret i Jordbro och Kvarteret Klinten.|솔나 스트란드의 사무실 건물, 요르드브로의 창고, 그리고 클린텐 블록입니다.
+Staffan|A2|Klinten? Ni vill sälja Klinten?|클린텐? 클린텐을 팔자는 거요?
+Fredrik|B2|Staffan, vi har gått igenom det här. Klinten är den fastighet som är lättast att sälja – den ligger centralt, den är fullt uthyrd och det finns köpare som betalar nära bokfört värde.|스타판, 이건 이미 같이 검토했잖아요. 클린텐이 가장 팔기 쉬운 자산이에요. 도심에 있고, 임대율 100%고, 장부가에 가까운 값을 낼 매수자가 있어요.
+Staffan|C1|Det är just därför vi ska behålla den. Familjen har byggt det här bolaget i sextiofyra år, och vi har aldrig sålt någonting som min far byggde upp. Familjen säljer inte det som familjen har byggt.|바로 그래서 지켜야 하는 거요. 우리 가문은 64년 동안 이 회사를 키웠고, 아버지가 일군 건 단 한 번도 판 적이 없소. 가문이 키운 자산은 팔지 않습니다.
+Ingrid|B1|Låt dem förklara först, Staffan. Sedan diskuterar vi.|먼저 설명을 들어 보죠, 스타판. 토론은 그다음에 하고요.
+Jonas|B2|Vi förstår att Klinten är mer än en fastighet. Men låt oss börja med varför det överhuvudtaget behövs ett beslut i dag.|클린텐이 단순한 부동산 이상이라는 건 저희도 압니다. 하지만 우선 애초에 왜 오늘 결정이 필요한지부터 말씀드리겠습니다.
+Elin|B2|Det finns två klockor som tickar. Den första är obligationen på 1,5 miljarder som förfaller den 14 april. Den andra är bokslutet den 31 december, när kovenanterna testas mot de nya värderingarna.|시계가 두 개 돌아가고 있습니다. 첫째는 4월 14일 만기인 15억 채권. 둘째는 12월 31일 연말 결산으로, 이때 재무약정이 새 평가액을 기준으로 테스트됩니다. (화면에 시계 두 개가 그려진 슬라이드를 띄운다)
+Ingrid|B1|Och den andra klockan är den som går fortast?|그리고 두 번째 시계가 더 빨리 가는 거군요?
+Elin|B2|Ja. Om portföljen tappar drygt tolv procent i värde, slår belåningsgraden i taket på 65 procent. Värderarnas preliminära bedömning är minus elva till fjorton.|네. 포트폴리오 가치가 12% 남짓 떨어지면 LTV가 상한인 65%에 닿습니다. 감정평가사들의 예비 의견은 마이너스 11에서 14%입니다.
+Staffan|B2|Men det är ju bara siffror på papper. Hyrorna går upp med elva procent i januari, och hyresgästerna betalar som vanligt.|하지만 그건 종이 위의 숫자일 뿐이오. 1월에 임대료가 11% 오르고, 임차인들은 늘 그렇듯 꼬박꼬박 내고 있소.
+Amir|B2|Det stämmer att hyrorna går upp, men räntekostnaderna stiger ännu snabbare. Varje procentenhet i Stibor kostar bolaget ungefär 60 miljoner om året.|임대료가 오르는 건 맞습니다. 하지만 이자비용은 그보다 더 빨리 오릅니다. 스티보르가 1%포인트 오를 때마다 회사는 1년에 약 6천만 크로나를 더 냅니다.
+Staffan|A2|Och vem är du?|그런데 젊은 분은 누구시오?
+Amir|B1|Amir Nouri, analytiker på Norrström Partners. Det är jag som har gjort beräkningarna.|노르스트룀 파트너스의 애널리스트 아미르 누리입니다. 계산은 제가 했습니다.
+Staffan|C1|Då kan du kanske förklara för mig varför vi ska sälja familjens arv bara för att en värderare har fått kalla fötter.|그럼 감정평가사 하나가 겁을 먹었다는 이유만으로 왜 우리가 가문의 유산을 팔아야 하는지 설명해 줄 수 있겠군.
+Jonas|C1|Därför att obligationsinnehavarna inte frågar varför värdet har fallit. De frågar bara om belåningsgraden i bokslutet ligger under 65 procent – och om svaret är nej, kan de kräva förtida återbetalning.|채권자들은 가치가 왜 떨어졌는지 묻지 않기 때문입니다. 그들은 결산에서 LTV가 65% 아래냐만 묻습니다. 그리고 답이 '아니오'라면, 조기 상환을 요구할 수 있습니다.
+Staffan|B2|Jag har hört att det finns ett annat alternativ. Ett där vi behåller både utdelningen och fastigheterna och sänker kostnaderna i stället.|다른 대안도 있다고 들었소. 배당도 부동산도 지키고, 대신 비용을 줄이는 안 말이오.
+Jonas|A2|Var har du hört det?|어디서 들으셨습니까? (엘린과 짧게 눈빛을 주고받는다)
+Staffan|B1|Det spelar väl ingen roll. Finns det eller inte?|그게 무슨 상관이오. 있소, 없소?
+Elin|B2|Det finns, och det ligger i bilagan. Men vi rekommenderar det inte, eftersom det man kan spara på kostnaderna är litet jämfört med det som fattas.|있습니다. 부록에 있습니다. 하지만 저희는 권고하지 않습니다. 비용에서 아낄 수 있는 금액이 모자라는 금액에 비해 너무 작기 때문입니다.
+Staffan|B2|Flera i familjen lever på utdelningen. Den kan ni inte bara stryka med ett penndrag.|가문 사람 여럿이 배당으로 먹고삽니다. 펜으로 한 줄 긋듯이 그냥 없앨 수는 없소.
+Ingrid|B2|Staffan, utdelningen är något som styrelsen föreslår och stämman beslutar om, inte en rättighet. Men jag förstår poängen. Vad betyder nyemissionen för familjen?|스타판, 배당은 이사회가 제안하고 주주총회가 결정하는 것이지 권리가 아니에요. 하지만 무슨 말인지는 알겠습니다. 신주 발행은 가문에 어떤 의미인가요?
+Elin|B2|Familjen äger 44 procent av kapitalet. För att inte spädas ut måste familjen teckna sin andel av emissionen – ungefär 440 miljoner.|가문은 자본의 44%를 보유하고 있습니다. 지분이 희석되지 않으려면 가문이 신주 중 자기 몫을 인수해야 합니다. 약 4억 4천만입니다.
+Staffan|C1|Så först ska vi sälja vårt arv, sedan ska vi avstå från utdelningen, och till sist ska vi betala 440 miljoner för förmånen. Det är inte en räddningsplan, det är en expropriation.|그러니까 먼저 유산을 팔고, 다음엔 배당을 포기하고, 마지막엔 그 특권의 대가로 4억 4천만을 내라는 거군. 그건 구조 계획이 아니라 수용(收用)이오. (의자를 뒤로 밀며)
+Ingrid|B1|Vi tar en paus på tjugo minuter. Jag vill att alla får tänka efter.|20분 휴정하겠습니다. 다들 생각할 시간을 가졌으면 합니다.
+# 장면 3 — 이사회실 앞 복도, 휴정 20분
+Amir|A2|Wow. Han var inte glad.|와. 하나도 안 기뻐하시던데요. (복도 창가에서 노트북을 열며 작게)
+Jonas|A2|Nej. Men han stannade kvar i rummet.|그래. 그래도 방을 나가진 않았잖아.
+Elin|B1|Vem har berättat om plan B för honom? Den låg bara i vår bilaga, och bilagan har vi inte skickat ut.|누가 플랜 B 얘기를 한 거지? 그건 우리 부록에만 있었고, 부록은 아직 보내지도 않았는데.
+Jonas|B1|Jag har en gissning. Den spelar golf.|짐작 가는 사람이 있어. 골프 치는 사람.
+Amir|A2|Henrik? Asså, seriöst?|헨리크요? 아니, 진짜요?
+Elin|B2|Det tar vi senare. Just nu har vi tjugo minuter och en styrelseledamot som tror att vi vill ta hans pappas hus ifrån honom.|그건 나중에 얘기해. 지금 우리한텐 20분이랑, 우리가 자기 아버지 집을 빼앗으려 한다고 믿는 이사 한 명이 있어.
+Jonas|B2|Då måste vi förstå vad han egentligen är rädd för. Är det Klinten, utdelningen eller att det är han som sitter i styrelsen när familjens bolag krymper?|그럼 그 사람이 진짜 두려워하는 게 뭔지 알아야 해. 클린텐이야, 배당이야, 아니면 가문 회사가 쪼그라들 때 이사회에 앉아 있는 사람이 하필 자기라는 거야?
+Amir|B1|Jag kan räkna på en version utan Klinten. Vad händer om de behåller den och bara säljer två?|클린텐 빼고 한 버전 계산해 볼게요. 클린텐을 지키고 두 곳만 팔면 어떻게 되는지.
+Elin|B1|Gör det. Solna och Jordbro ger tillsammans ungefär 950 miljoner. Då saknas resten.|해 봐. 솔나랑 요르드브로를 합치면 9억 5천만쯤 나와. 그럼 나머지가 비지.
+Amir|A2|Okej. Ge mig fem minuter.|오케이. 5분만 주세요.
+Fredrik|B1|Ursäkta att jag stör. Jag ville bara säga att ni gör det bra där inne.|방해해서 미안합니다. 안에서 잘하고 계신다고 말씀드리고 싶었어요. (이사회실 문을 조용히 닫고 나오며)
+Jonas|B1|Tack, Fredrik. Men du såg inte särskilt säker ut.|고마워요, 프레드리크. 근데 당신은 별로 확신 있어 보이지 않던데요.
+Fredrik|C1|Jag har jobbat för familjen i tolv år, och jag vet hur mycket Klinten betyder för Staffan. Hans far hade sitt kontor på översta våningen, och där sitter Staffan fortfarande – fast huvudkontoret ligger här på Östermalm.|이 가문을 위해 12년을 일했으니, 클린텐이 스타판에게 얼마나 큰 의미인지 압니다. 그분 아버지가 꼭대기 층에 집무실을 두셨는데, 스타판은 아직도 거기 앉아요. 본사는 여기 외스테르말름에 있는데도요.
+Elin|B2|Så om Klinten säljs, måste han flytta ut ur sin pappas kontor.|그러니까 클린텐을 팔면, 아버지 집무실에서 나가야 하는 거네요.
+Fredrik|B1|Ja. Det är ingen siffra, men det är en del av ekvationen.|네. 숫자는 아니지만, 방정식의 일부죠.
+Jonas|B2|Det är kanske den viktigaste delen. Kan man skriva in ett hyresavtal i affären? Att han får ha kvar kontoret som hyresgäst?|어쩌면 제일 중요한 부분일지도요. 매매 계약에 임대차 계약을 넣을 수 있을까요? 그분이 임차인으로 그 집무실을 계속 쓰게?
+Fredrik|B2|Det har jag inte tänkt på. En köpare skulle nog acceptera ett hyresavtal för en våning, om priset är rätt.|그건 생각 못 했네요. 가격만 맞으면 매수자는 한 층짜리 임대차 계약 정도는 받아들일 겁니다.
+Amir|A2|Jag har siffrorna. Ska jag läsa?|숫자 나왔어요. 읽을까요?
+Elin|A2|Ja, kör.|응, 해 봐.
+Amir|B2|Utan Klinten får bolaget in ungefär 950 miljoner i stället för 1,6 miljarder. För att belåningsgraden ska hamna på samma nivå måste emissionen öka från en miljard till drygt 1,6.|클린텐이 빠지면 회사가 손에 쥐는 돈은 16억이 아니라 9억 5천만쯤이에요. LTV를 같은 수준으로 맞추려면 신주 발행을 10억에서 16억 남짓으로 늘려야 해요.
+Jonas|B1|Och vad betyder det för familjen?|그럼 가문한텐 무슨 의미야?
+Amir|B2|Med 44 procent blir familjens andel cirka 720 miljoner i stället för 440. Att behålla Klinten kostar alltså familjen nästan 300 miljoner extra.|44%니까 가문 몫이 4억 4천만이 아니라 약 7억 2천만이 돼요. 그러니까 클린텐을 지키는 데 가문이 거의 3억을 더 내는 셈이에요. (노트북 화면을 엘린 쪽으로 돌린다)
+Elin|C1|Och det är ett pris som han själv kan värdera. Vi ska inte tala om för honom vad Klinten är värd för familjen – vi ska visa vad den kostar och låta honom välja.|그리고 그건 그 사람이 스스로 값을 매길 수 있는 가격이야. 클린텐이 가문에 얼마의 가치가 있는지 우리가 말해 줄 게 아니라, 그게 얼마의 비용인지 보여 주고 선택하게 해야 해. (노란 노트에 "Klinten = 300 mkr"이라고 적고 밑줄을 긋는다)
+Fredrik|B1|Det kommer han att uppskatta. Han hatar när folk talar om för honom vad han känner.|그건 좋아하실 겁니다. 남이 자기 기분을 대신 말해 주는 걸 질색하시거든요.
+Amir|A2|Var är toaletten, förresten?|그런데 화장실이 어디예요?
+Fredrik|A2|Rakt fram, andra dörren till vänster.|쭉 가서 왼쪽 두 번째 문이요.
+Staffan|B1|Ekholm. En sak har jag funderat på. Spelade du inte hockey en gång i tiden?|에크홀름. 하나 궁금한 게 있었소. 예전에 하키 하지 않았소? (커피잔을 들고 다가온다)
+Jonas|B1|Jo. I Kiruna, och sedan några säsonger längre söderut, tills knät sa ifrån.|했습니다. 키루나에서, 그리고 남쪽에서 몇 시즌 더 뛰다가 무릎이 그만하라더군요.
+Staffan|B2|Jag tyckte väl att jag kände igen namnet. Min far tog med mig på hockey varje lördag. Han brukade säga att man aldrig vinner genom att stå still.|어쩐지 이름이 낯익더라니. 아버지가 토요일마다 날 하키 경기에 데려가셨소. 늘 그러셨지, 가만히 서 있어서 이기는 법은 없다고.
+Jonas|C1|Då hade vi samma tränare, din far och jag. Får jag föreslå en sak när vi går in igen? Vi börjar inte med Klinten, utan med vad som händer om styrelsen inte gör någonting alls.|그럼 아버님과 저는 같은 코치를 둔 셈이네요. 다시 들어가면 하나 제안해도 되겠습니까? 클린텐이 아니라, 이사회가 아무것도 하지 않으면 무슨 일이 생기는지부터 시작하겠습니다.
+# 장면 4 — 이사회실, 2라운드
+Ingrid|B1|Då fortsätter vi. Elin, du hade en sida till?|그럼 계속하겠습니다. 엘린, 한 장 더 있다고 하셨죠?
+Elin|B2|Ja, en enda. Det är en känslighetsanalys som visar båda planerna – vår och alternativet i bilagan – med tre antaganden om räntan och tre om värderingarna.|네, 딱 한 장입니다. 두 계획, 즉 저희 안과 부록의 대안을 금리 가정 세 가지, 평가액 가정 세 가지로 보여 주는 민감도 분석입니다. (화면에 3×3 표 두 개를 나란히 띄운다)
+Staffan|A2|En sida. Bra.|한 장. 좋소.
+Elin|B2|I basfallet ligger Stibor kring tre procent nästa år. Då klarar sig alternativet med utdelningen fram till april – men bara om obligationsmarknaden öppnar igen och bolaget kan låna nytt.|기본 시나리오에서는 내년 스티보르가 3% 안팎입니다. 그러면 배당을 유지하는 대안도 4월까지는 버팁니다. 단, 채권시장이 다시 열려서 회사가 새로 돈을 빌릴 수 있을 때만요.
+Ingrid|B1|Och om räntorna fortsätter uppåt?|금리가 계속 오르면요?
+Elin|B2|Med ett pessimistiskt ränteantagande räcker kassan inte ens till sommaren. Då har bolaget 1,1 miljarder i kassa och kreditramar, men ska betala 1,5 miljarder i april och 380 miljoner i utdelning i maj.|비관적인 금리 가정이면 현금이 여름까지도 못 갑니다. 그 경우 회사가 가진 건 현금과 신용한도를 합쳐 11억인데, 4월에 15억, 5월에 배당 3억 8천만을 내야 합니다.
+Amir|B1|Och samtidigt sjunker räntetäckningsgraden mot 1,8. Golvet ligger på 1,75.|그리고 동시에 이자보상배율이 1.8 쪽으로 떨어집니다. 하한은 1.75입니다.
+Staffan|B1|Och er plan? Klarar den det pessimistiska fallet?|그럼 당신들 안은? 비관적인 경우도 견디오?
+Elin|B2|Ja. Även med Stibor på fyra procent och ett värdefall på sjutton procent hamnar belåningsgraden kring 54 procent efter försäljningarna och emissionen. Det ger en marginal på elva procentenheter.|네. 스티보르 4%에 평가액 17% 하락을 가정해도, 매각과 신주 발행 후 LTV는 54% 안팎입니다. 11%포인트의 여유가 생깁니다.
+Fredrik|C1|Och emissionen hinner räknas med, eftersom obligationsvillkoren innehåller en så kallad equity cure: eget kapital som tillförs inom nittio dagar efter testdagen får räknas in i kovenanttestet. Våra jurister bekräftade det i går.|그리고 신주 발행은 시간 안에 반영됩니다. 채권 조건에 이른바 '에쿼티 큐어' 조항이 있어서, 테스트 기준일 이후 90일 안에 투입된 자기자본은 재무약정 테스트에 포함할 수 있거든요. 어제 법무팀이 확인했습니다.
+Jonas|C1|Staffan, din far hade rätt: man vinner inte genom att stå still. Och det här är första perioden. Man vinner inte matchen i första perioden, men man kan mycket väl förlora den där.|스타판, 아버님 말씀이 맞습니다. 가만히 서 있어서는 이길 수 없죠. 그리고 지금은 1피리어드입니다. 경기를 1피리어드에 이기진 못해도, 거기서 지는 건 충분히 가능합니다.
+Staffan|B1|Och Klinten då? Har ni räknat på att behålla den?|그럼 클린텐은? 그걸 지키는 경우도 계산해 봤소?
+Amir|B2|Det har vi gjort. Om bolaget behåller Klinten måste emissionen bli drygt 1,6 miljarder. Familjens andel blir då cirka 720 miljoner i stället för 440.|계산해 봤습니다. 회사가 클린텐을 보유하면 신주 발행 규모가 16억 남짓이 돼야 합니다. 그러면 가문의 몫은 4억 4천만이 아니라 약 7억 2천만이 됩니다.
+Staffan|B1|Nästan 300 miljoner mer. För ett hus.|3억 가까이 더. 건물 하나 때문에. (한참 말이 없다)
+Jonas|B2|För ett hus som betyder mycket. Det är inte vårt beslut hur mycket det är värt för familjen. Men det finns kanske ett sätt att sälja huset utan att lämna det.|큰 의미가 있는 건물 하나 때문이죠. 그게 가문에 얼마의 가치인지는 저희가 결정할 일이 아닙니다. 다만 건물을 팔면서도 떠나지 않는 방법이 있을지 모릅니다.
+Fredrik|B2|En köpare kan mycket väl tänka sig ett hyresavtal för översta våningen. Du skulle kunna ha kvar din fars kontor, som hyresgäst.|매수자는 꼭대기 층 임대차 계약 정도는 충분히 받아들일 수 있어요. 아버님 집무실을 임차인으로 계속 쓰실 수 있는 거죠.
+Staffan|C1|Som hyresgäst i min fars hus. Det är en tanke jag aldrig trodde att jag skulle behöva tänka. Men hellre det än att bli den som förlorade hela bolaget i första perioden.|아버지 건물의 세입자라. 내가 그런 생각을 해야 하리라곤 꿈에도 몰랐소. 하지만 1피리어드에 회사 전체를 잃은 사람이 되느니 그게 낫지.
+Ingrid|C1|Då föreslår jag följande beslut: styrelsen föreslår årsstämman att ingen utdelning lämnas för 2022, ger bolagsledningen i uppdrag att sälja de tre fastigheterna och kallar till extra bolagsstämma i december för beslut om en fullt garanterad företrädesemission om cirka en miljard kronor. Finns det några invändningar?|그럼 다음과 같이 의결할 것을 제안합니다. 이사회는 정기주주총회에 2022년도 무배당을 제안하고, 경영진에게 부동산 세 곳의 매각을 위임하며, 약 10억 크로나 규모의 전액 인수보증부 주주배정 유상증자를 의결하기 위해 12월에 임시주주총회를 소집한다. 이의 있으십니까?
+Staffan|B1|Inga. Familjen tecknar sin andel. Skriv det i protokollet.|없소. 가문은 자기 몫을 인수하겠소. 의사록에 그렇게 적어 주시오.
+Ingrid|A2|Då är det beslutat. Tack.|그럼 의결되었습니다. 감사합니다. (의사봉 대신 펜으로 테이블을 가볍게 두드린다)
+# 장면 5 — Norrström 부엌, 오후 3시 → 엘리베이터, 오후 5시
+Sofia|A2|Klockan är tre! Vem har köpt bullar i dag?|3시다! 오늘 번 누가 사 왔어?
+Amir|A2|Jag. Det var jag som tog den sista i fredags.|저요. 금요일에 마지막 거 먹은 게 저였잖아요. (시나몬롤 봉지를 테이블에 내려놓는다)
+Sofia|B1|Bra, du har koll på reglerna. Och hur gick det i morse? Nej, vänta – vi pratar inte om kunder på fikat.|좋아, 규칙 제대로 알고 있네. 그래서 아침엔 어떻게 됐어? 아니, 잠깐 — 피카 땐 고객 얘기 안 하지.
+Elin|B1|Det gick bra. Mer kan jag inte säga, för då bryter jag mot regeln.|잘됐어. 더는 말 못 해. 그럼 규칙 위반이니까.
+Sofia|B1|Okej, ett undantag. Bara i dag. Vad hände?|오케이, 예외. 오늘만. 무슨 일 있었어?
+Amir|B1|Styrelsen sa ja till allt. Och Staffan ska bli hyresgäst i sin egen pappas hus. Asså, sjukt.|이사회가 전부 '예' 했어. 그리고 스타판 씨가 자기 아빠 건물 세입자가 된대. 아니, 진짜 대박. (입에 시나몬롤을 문 채)
+Jonas|B1|Det var Amirs siffror som vände honom. Trehundra miljoner för ett hus – det förstod han direkt.|그 사람 마음을 돌린 건 아미르 숫자였어. 건물 하나에 3억 — 그건 바로 알아듣더라.
+Henrik|B1|Going down? Jag hörde att Bergsklint köpte hela paketet. Nice.|내려가? Bergsklint가 패키지 전부 샀다며. 나이스. (오후 5시, 요나스와 엘린이 탄 엘리베이터 문이 닫히기 직전, 헨리크가 손을 넣어 문을 연다)
+Jonas|B2|Det gjorde de. Staffan kände förresten redan till plan B när mötet började. Konstigt, eller hur?|샀지. 그런데 스타판은 회의 시작할 때 이미 플랜 B를 알고 있더라. 이상하지 않아?
+Henrik|B2|Stockholm är en liten stad, Jonas. Grattis. Men nästa gång kommer kunden att vilja ha en enklare sanning.|스톡홀름은 좁은 동네야, 요나스. 축하해. 근데 다음엔 고객이 더 쉬운 진실을 원할걸. (층수 표시를 올려다보며, 웃지 않고)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Vill någon ha kaffe innan vi börjar?** | 시작하기 전에 커피 드실 분 계세요? | *någon* = 누군가(의문문에서 '누구든'). *innan* + 절 = ~하기 전에. 회의를 여는 가장 스웨덴다운 인사 |
+| `A2` | **Rakt fram, andra dörren till vänster.** | 쭉 가서 왼쪽 두 번째 문이요. | 길 안내의 기본형. *rakt fram* = 곧장 앞으로, *till vänster / till höger* = 왼쪽으로/오른쪽으로 |
+| `B1` | **Vi rekommenderar att styrelsen säljer tre av fastigheterna.** | 이사회가 부동산 세 곳을 매각할 것을 권고드립니다. | *rekommendera att* + 절. *tre av fastigheterna* = 그 부동산들 중 셋 — *av* 뒤에는 한정형 복수 |
+| `B1` | **Då börjar vi med slutsatsen, och sedan förklarar vi varför.** | 그럼 결론부터 말씀드리고, 그다음 이유를 설명드리겠습니다. | 피라미드 원칙을 한 문장으로. *då*, *sedan* 이 문두에 오면 동사가 바로 뒤(V2): *börjar vi*, *förklarar vi* |
+| `B1` | **Ta om från början.** | 처음부터 다시 해. | *ta om* = 다시 하다(반복). 소사 *om* 에 강세. 리허설·연습에서 자주 쓰는 지시 |
+| `B2` | **Med ett pessimistiskt ränteantagande räcker kassan inte ens till sommaren.** | 비관적인 금리 가정이면 현금이 여름까지도 못 갑니다. | *räcka till* = ~까지 충분하다. *inte ens* = ~조차 아니다 — 주절에서는 정동사 뒤 *räcker kassan inte ens* |
+| `B2` | **De vill se att familjen tar sin del av smällen.** | 가문이 충격의 자기 몫을 떠안는 걸 보고 싶어 해요. | *ta smällen* = (손실·충격을) 떠안다. *sin* 은 주어(*familjen*)를 가리키는 재귀 소유사 |
+| `C1` | **Man vinner inte matchen i första perioden, men man kan mycket väl förlora den där.** | 경기를 1피리어드에 이기진 못해도, 거기서 지는 건 충분히 가능하죠. | 요나스의 하키 비유. *mycket väl* = 충분히, 얼마든지(가능성 강조). *där* 가 문장 끝에서 *i första perioden* 을 받는다 |
+| `C1` | **Kunden betalar inte för sanningen. Kunden betalar för att kunna agera på den.** | 고객은 진실에 돈을 내는 게 아니야. 그 진실을 바탕으로 행동할 수 있게 되는 데 돈을 내지. | 군닐라의 신조. *betala för att* + 부정사 = ~하기 위해 돈을 내다. *agera på något* = ~에 근거해 행동하다 |
+| `C1` | **Det är inte en räddningsplan, det är en expropriation.** | 그건 구조 계획이 아니라 수용이오. | *expropriation* = (공공 목적의) 강제 수용 — 과장된 수사로 감정을 드러내는 이사회 화법. *det är inte X, det är Y* 대비 구문 |
+
+## 현안 메모
+- **리크스방크의 금리 인상 행진** — 스웨덴 중앙은행 리크스방크는 2022년 4월 마이너스 시대 이후 처음으로 기준금리를 0.25%로 올린 뒤, 6월 0.75%, 9월 20일에는 한 번에 1%포인트를 올려 1.75%로 만들었다. 이 화의 시점(11월 15일)에는 10월 물가상승률(KPIF)이 9%대에 머물러 있어 11월 24일 회의에서 또 큰 폭의 인상이 예상됐고, 실제로 0.75%포인트 올라 2.5%가 됐다. 변동금리 비중이 큰 스웨덴 기업과 가계는 인상분을 곧바로 체감한다.
+- **채권시장에 기대 온 부동산 회사들** — 스웨덴 부동산 회사들은 저금리 시절 은행 대출보다 회사채(특히 무담보 채권)로 빠르게 몸집을 불렸고, 부동산 업종은 스웨덴 회사채 시장의 가장 큰 발행자 집단이 됐다. 2022년 금리가 뛰고 채권 스프레드가 넓어지자 신용도가 낮은 발행사에는 시장이 사실상 닫혔고, 만기 상환을 은행 대출·자산 매각·증자로 메워야 했다. 상장 부동산주는 2022년 한 해 동안 많은 종목이 크게(절반 안팎) 떨어졌다.
+- **배당 중단과 신용등급** — 신용평가사는 LTV·ICR과 함께 회사가 현금을 주주에게 얼마나 내보내는지를 본다. 2022년 말~2023년에 걸쳐 여러 상장 부동산 회사가 투자등급(BBB−) 방어를 위해 배당을 줄이거나 없애고, 자산을 할인 매각하고, 증자에 나섰다. 오너 가문이 대주주인 회사에서는 "배당 = 가문의 소득"이라 결정이 더 어렵다.
+- **주주배정 유상증자(företrädesemission)** — 기존 주주에게 지분 비율대로 신주 인수권(*teckningsrätt*)을 주는 방식. 참여하지 않으면 지분이 희석(*utspädning*)된다. 상장사는 보통 임시주주총회(*extra bolagsstämma*) 의결을 거치고, 미청약분을 대신 인수하기로 약속하는 보증단(*garantikonsortium*)을 꾸려 '전액 보증(*fullt garanterad*)'으로 성공을 확실히 한다.
+
+## 비즈니스 메모
+- **피라미드 원칙(pyramidprincipen)** — 바버라 민토(Barbara Minto)가 정리한 보고 원칙. 결론(권고)을 맨 위에 한 문장으로 놓고, 그 아래 3개 안팎의 근거, 그 아래 데이터를 둔다. 바쁜 의사결정자는 첫 문장만 듣고도 "무엇을 결정하라는 건지" 알아야 한다. 요나스의 첫 리허설처럼 배경→분석→결론 순으로 말하면, 듣는 사람은 30초 만에 길을 잃는다.
+- **민감도 분석(känslighetsanalys)** — 핵심 가정(여기선 스티보르 금리와 요구수익률·평가액)을 바꿔 가며 결과(LTV, ICR, 현금 잔고)가 어떻게 변하는지 보는 표. 두 계획을 같은 표에 나란히 놓으면 "어느 안이 더 그럴듯한가"가 아니라 "어느 안이 나쁜 시나리오에서도 살아남는가"를 비교하게 된다. 감정이 걸린 선택(클린텐)에는 "그 선택의 가격"(가문 부담 +약 3억)을 숫자로 보여 주고 결정은 고객에게 맡긴다.
+
+## 다음 화 예고 — Matpriserna
+2023년 1월 16일, 솔나의 식료품 체인 Nära Mat 본사. 커피도, 우유도, 치즈도 1년 새 몰라보게 비싸졌다. CEO 안데르스 홀름은 자리에 앉자마자 말한다. "Vi behöver en berättelse." — 공급사와 전기요금 탓이라는 이야기 말이다. 하지만 데이터룸에서 품목별 마진을 분해하던 엘린은 고개를 갸웃한다. 그리고 같은 날, 기자 리누스 팔크의 기사가 나온다. "Vem tjänar på din matkasse?" 홀름은 취재 요청 메일을 컨설턴트들 앞에 내던지고, 그날 저녁 엘린의 전화가 울린다.
