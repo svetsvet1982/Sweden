@@ -1,0 +1,161 @@
+@title 1부 6화 — Kampanjen
+@subtitle (캠페인)
+@meta 날짜|2023년 2월 15일 수요일, 오전 8시 반 ~ 저녁 8시 반
+@meta 장소|솔나, Nära Mat 본사 7층 회의실(경영진 회의) → 시내 방송국, 생방송 토론 프로그램 「Kvällsfrågan」 출연자 대기실과 복도 → Norrström Partners 회의실 "Strömmen"(생방송 시청)
+@meta 등장인물|**Elin Bergqvist** (엘린 베리크비스트, 34, 시니어 매니저) · **Jonas Ekholm** (요나스 에크홀름, 41, 프린시플) · **Sofia Mäkinen** (소피아 매키넨, 30, 변화관리 컨설턴트) · **Amir Nouri** (아미르 누리, 27, 애널리스트) · **Anders Holm** (안데르스 홀름, 58, Nära Mat CEO) · **Camilla Fors** (카밀라 포르스, Nära Mat CMO·마케팅 총괄) · **Petra Lindgren** (페트라 린드그렌, 셰르홀멘점 점장, 녹음) · **Linus Falk** (리누스 팔크, 38, *Stockholms-Kuriren* 기자, TV 화면) · 「Kvällsfrågan」 진행자와 프로듀서 · **Gunilla Ahlström** (군닐라 알스트룀, 59, 대표 파트너)
+@meta 이번 화의 도구|이해관계자 맵(intressentkarta — '힘 × 영향' 2×2 격자)과 "한 문장 메시지"(무엇을, 언제부터 — 먼저 말하고, 일찍 말하고, 끝에 다시 말한다)
+@meta 스웨덴 현안|식료품 물가 상승률 연 20% 안팎 — 물가가 정치 쟁점이 되고, 소수 대형 체인이 장악한 시장의 마진에 비판이 쏠린다 · 업계의 '가격 동결·인하' 경쟁 · 단기 마진 대 소비자 신뢰
+@intro **지난 이야기** — 아미르와 소피아는 앞치마를 두르고 셰르홀멘과 외스테르말름의 Nära Mat 매장에 하루씩 섰다. 셰르홀멘 점장 페트라는 절도와 욕설에 지친 직원들 이야기를 털어놓았고, 외스테르말름에선 아무도 우유 값을 몰랐다. 고객들은 스무 개 남짓한 기본 품목의 가격만 기억했다. 그날 밤 엘린은 동네별 기억 품목을 묶은 '가격 인식 지수'를 떠올렸고, 소피아는 말했다. "Vi har letat efter svaret i Excel. Det fanns i kassakön." 아미르는 셰르홀멘역 개찰구에서 동생 다니얄을 기다렸다.
+@intro 3주 뒤. 2월 6일 Nära Mat 이사회는 연말 실적을 승인했고, 다음 날 발표 직후 주가는 하루 만에 6% 빠졌다. 의장은 홀름에게 5월 정기주총 전까지 "신뢰 회복 계획"을 가져오라고 했다. 그사이 팀은 회원 프로그램 영수증 400만 장으로 셰르홀멘의 가설을 검증해, 쉰 개의 기본 품목 목록을 만들었다. 오늘 아침 솔나 7층에서는 마케팅 총괄 카밀라가 4천만 크로나짜리 광고 캠페인을 펼친다. 그리고 오늘 밤, 홀름은 리누스 팔크가 나오는 생방송 토론에 출연하기로 되어 있다. 엘린은 아직도 1월 16일 밤의 전화를 아무에게도 말하지 않았다.
+# 장면 1 — 솔나, Nära Mat 본사 7층 회의실, 오전 8시 반
+Holm|B1|God morgon, allihop. Kaffet står på bordet, och jackorna får ni gärna ha på er – värmen är fortfarande nedskruvad. Vi har två timmar, och i kväll sitter jag i direktsänd tv. Camilla, varsågod.|좋은 아침입니다, 여러분. 커피는 테이블에 있고, 외투는 그냥 입고 계셔도 됩니다. 난방은 아직 낮춰 둔 상태라서요. 두 시간 있습니다. 그리고 저는 오늘 저녁 생방송에 나갑니다. 카밀라 씨, 시작하시죠. (7층 회의실, 홀름이 상석에 앉는다)
+Camilla|C1|Tack, Anders. Jag ska fatta mig kort. Kunderna upplever att vi har svikit dem, och då räcker det inte att vi ändrar oss i det tysta – vi måste visa att vi står på deras sida, högt, tydligt och i varje kanal där de befinner sig.|감사합니다, 안데르스. 짧게 말씀드릴게요. 고객들은 우리가 자기들을 배신했다고 느끼고 있어요. 그렇다면 조용히 태도를 바꾸는 것으론 부족합니다. 우리가 고객 편이라는 걸 보여 줘야 해요. 크게, 분명하게, 고객이 있는 모든 채널에서요. (화면에 캠페인 시안이 뜬다. 큰 글씨로 "Vi står på din sida")
+Amir|A2|”Vi står på din sida.” Snyggt.|'우리는 당신 편입니다.' 멋지네요. (작게 중얼거리며)
+Camilla|B2|Kampanjen går i tv, i sociala medier och i alla våra butiker under åtta veckor. Vi har bokat reklamtid från den första mars, och budgeten landar på fyrtio miljoner.|캠페인은 8주 동안 TV, 소셜 미디어, 그리고 전 매장에서 진행됩니다. 3월 1일부터 광고 시간을 잡아 뒀고, 예산은 4천만 크로나입니다.
+Elin|A2|Fyrtio miljoner?|4천만이요?
+Camilla|B1|Ja. Det är mycket pengar, jag vet. Men det är vad det kostar att synas i dag.|네. 큰돈인 거 압니다. 하지만 요즘 눈에 띄려면 그 정도는 들어요.
+Holm|B1|Camilla har jobbat med varumärken i tjugo år. Jag litar på hennes känsla.|카밀라 씨는 20년 동안 브랜드 일을 해 왔어요. 저는 그 감을 믿습니다.
+Jonas|B2|Det gör jag också, och kampanjen är riktigt välgjord. Men får jag ställa en fråga innan vi pratar om kanaler? Vad ska kunden se i butiken på måndag som hon inte såg förra måndagen?|저도 그렇습니다. 캠페인도 정말 잘 만들었고요. 그런데 채널 얘기 전에 하나 여쭤봐도 될까요? 고객이 다음 월요일에 매장에서, 지난 월요일엔 못 봤던 무엇을 보게 되나요?
+Camilla|B1|Hon ser våra nya skyltar, och hon ser att vi bryr oss.|새 간판을 보겠죠. 그리고 우리가 신경 쓴다는 걸 보게 되고요.
+Sofia|B1|Men ser hon ett nytt pris på kaffet?|그런데 커피에 새 가격표가 붙은 걸 보게 되나요?
+Camilla|C1|Priserna ligger utanför mitt ansvarsområde, Sofia. Mitt uppdrag är att vända bilden av Nära Mat, och den bilden avgörs inte i första hand av vad en liter mjölk kostar, utan av vad folk känner när de kliver in genom dörren.|가격은 제 소관 밖이에요, 소피아 씨. 제 임무는 Nära Mat의 이미지를 뒤집는 거고, 그 이미지는 우유 1리터 값보다는 사람들이 문을 열고 들어설 때 무엇을 느끼느냐로 먼저 결정돼요.
+Jonas|B1|Då vill jag gärna rita något. Har ni en penna?|그럼 하나 그려 보고 싶은데요. 펜 있으세요? (일어나 화이트보드 쪽으로 간다)
+Holm|A2|Varsågod. Där.|그러세요. 저기요.
+Jonas|B2|Det här är en intressentkarta. På den ena axeln: hur mycket makt de har över er. På den andra: hur mycket de berörs av priserna. Ägarna och styrelsen hamnar här uppe, med mycket makt.|이건 이해관계자 맵입니다. 한 축은 그들이 회사에 대해 얼마나 힘을 갖고 있는지, 다른 축은 가격에 얼마나 영향을 받는지예요. 주주와 이사회는 여기 위쪽, 힘이 큰 곳에 오고요. (두 축을 긋고 사분면을 나눈다)
+Amir|B1|Och kunderna? Var hamnar de?|그럼 고객은요? 어디에 들어가요?
+Jonas|B2|Var för sig har de nästan ingen makt alls. Men tillsammans, och med en journalist som Linus Falk i ryggen, flyttar de sig snabbt hit upp i hörnet.|하나하나는 힘이 거의 없죠. 하지만 뭉치면, 그리고 리누스 팔크 같은 기자가 뒤에 있으면 금방 이 위쪽 구석으로 올라옵니다. (오른쪽 위 사분면으로 화살표를 그린다)
+Elin|B1|Och var hamnar personalen i butikerna? Den syns inte på er bild alls.|그럼 매장 직원들은 어디에 들어가요? 여러분 그림엔 아예 안 보이는데요. (카밀라의 시안 쪽을 턱으로 가리키며)
+Jonas|C1|Personalen står mitt i korselden. De saknar inflytande över priserna, men de är de enda som möter kunden varje dag, öga mot öga. Det är de som får bära kampanjen – eller skämmas för den, när kunden ser att ingenting har förändrats.|직원들은 십자포화 한가운데 서 있어요. 가격에 대한 영향력은 없지만, 매일 고객과 얼굴을 맞대는 유일한 사람들이죠. 캠페인을 짊어지는 것도, 고객이 바뀐 게 하나도 없다는 걸 알아챘을 때 그 캠페인 때문에 창피를 당하는 것도 그 사람들이에요. (맵 한가운데에 '직원'이라고 쓰고 동그라미를 친다)
+Camilla|C1|Med all respekt – det här är en klassisk konsultövning. Ni ritar rutor medan konkurrenterna redan syns i varje reklampaus. Vi har ett varumärkesproblem, och sådana löser man med kommunikation, inte med kalkylblad.|외람되지만, 이건 전형적인 컨설턴트식 연습이에요. 여러분이 네모를 그리는 동안 경쟁사들은 벌써 광고 시간마다 나오고 있어요. 우리한텐 브랜드 문제가 있고, 그런 문제는 스프레드시트가 아니라 커뮤니케이션으로 푸는 겁니다.
+Elin|C1|Det håller jag inte med om. Ni har ett prisproblem som har vuxit till ett varumärkesproblem. Om ni bara behandlar symptomet riskerar ni att lägga fyrtio miljoner på att påminna kunderna om just det som gör dem arga.|저는 동의하지 않아요. 여러분은 가격 문제가 브랜드 문제로 커진 상황이에요. 증상만 다루면, 고객을 화나게 하는 바로 그걸 고객에게 상기시키는 데 4천만을 쓰게 될 수 있어요.
+Camilla|B1|Och vad föreslår du i stället?|그럼 대신 뭘 제안하시는데요?
+Elin|B2|Att ni sänker priset på de femtio basvaror som kunderna faktiskt minns. Inte på fyratusenåttahundra artiklar – på femtio.|고객이 실제로 기억하는 기본 품목 50가지의 가격을 내리는 거요. 4,800개 품목 전부가 아니라, 50개요.
+Holm|B1|Femtio varor? Det är ju ingenting.|50개요? 그건 아무것도 아니잖아요.
+Amir|B2|Det är just det som är poängen. De femtio varorna står för ungefär tolv procent av omsättningen, men för nästan hela bilden av vad det kostar att handla hos er.|바로 그게 핵심이에요. 그 50개 품목은 매출의 약 12%지만, 여기서 장 보는 데 얼마가 드는지에 대한 이미지는 거의 전부를 차지해요.
+Camilla|B2|Och var kommer de femtio varorna ifrån? Har ni frågat ett representativt urval, eller trettio personer i Skärholmen?|그 50개는 어디서 나온 건데요? 대표성 있는 표본에 물어보신 거예요, 아니면 셰르홀멘에서 서른 명한테요?
+Amir|C1|Bägge delarna, faktiskt. Intervjuerna gav oss hypotesen, och sedan har vi prövat den mot data från ert medlemsprogram – fyra miljoner kvitton från tolv butiker sedan i höstas. Det är samma tjugotal varor som återkommer, men det är inte samma tjugo i Skärholmen som på Östermalm.|사실 둘 다예요. 인터뷰로 가설을 세웠고, 그다음 회원 프로그램 데이터로 검증했어요. 지난가을 이후 12개 매장의 영수증 400만 장이요. 늘 같은 스무 개 남짓의 품목이 나오는데, 셰르홀멘의 스무 개와 외스테르말름의 스무 개가 같지는 않아요. (고객 앞이라 말투가 또박또박하다)
+Sofia|B1|Därför blir det femtio och inte tjugo. Vi har slagit ihop listorna.|그래서 스무 개가 아니라 쉰 개가 된 거예요. 목록들을 합쳤거든요.
+Holm|B2|Jag hör vad ni säger. Men om vi sänker priserna utan att någon får veta det, då har vi bara gett bort pengar.|무슨 말씀인지는 알겠습니다. 하지만 아무도 모르게 가격을 내리면, 그냥 돈을 퍼 주는 거잖아요.
+Jonas|B2|Där har ni en roll för Camilla. Kampanjen behövs – men den ska berätta om något som har hänt, inte om något ni känner.|바로 거기에 카밀라 씨의 역할이 있죠. 캠페인은 필요합니다. 다만 회사가 느끼는 무언가가 아니라, 실제로 일어난 일을 말해야 해요.
+Holm|B1|Bra. Elin, visa mig vad det kostar. Siffrorna först.|좋아요. 엘린 씨, 그게 얼마나 드는지 보여 주세요. 숫자부터요.
+# 장면 2 — 같은 회의실, 오전 9시 15분 — 엘린의 숫자
+Elin|B1|Gärna. Jag börjar med det som kostar, och sedan tar vi det som inte syns.|좋아요. 드는 비용부터 시작하고, 그다음에 안 보이는 걸 볼게요. (노트북을 화면에 연결하고, 노란 노트를 옆에 펼친다)
+Holm|A2|Okej. Jag lyssnar.|좋습니다. 듣고 있어요.
+Elin|B2|Nära Mat omsätter 15,6 miljarder om året. De femtio basvarorna står för ungefär 1,9 miljarder av det. Sänker vi dem med i snitt sju procent, förlorar ni runt 130 miljoner i bruttovinst på ett år – om volymerna står still.|Nära Mat의 연 매출은 156억 크로나예요. 기본 품목 50개가 그중 약 19억이고요. 평균 7% 내리면, 판매량이 그대로라는 가정에서 1년에 매출총이익을 1억 3천만 정도 잃습니다.
+Holm|B2|Hundratrettio miljoner. Det motsvarar mer än en fjärdedel av vårt rörelseresultat för hela förra året.|1억 3천만. 작년 한 해 영업이익의 4분의 1이 넘는 돈이에요.
+Elin|B2|Före alla effekter, ja. Men volymerna står inte still. När kaffet blir billigare köper folk inte bara mer kaffe – de slutar köpa det hos konkurrenterna, och då tar de med sig resten av matkassen.|모든 효과를 반영하기 전엔 그렇죠. 하지만 판매량은 그대로 있지 않아요. 커피가 싸지면 사람들은 커피만 더 사는 게 아니라, 경쟁사에서 커피 사는 걸 그만둬요. 그리고 나머지 장바구니까지 같이 가지고 오죠.
+Camilla|B2|Och hur mycket är det värt? Det där är väl ändå bara en gissning.|그건 얼마나 가치가 있는데요? 그것도 결국 추측일 뿐 아닌가요?
+Amir|C1|En kvalificerad gissning. I höstas körde ni en kaffekampanj i ungefär hälften av butikerna, vilket gav oss något som liknar ett naturligt experiment. Där ökade antalet kvitton med kaffe på med elva procent, och de kvittona var i snitt nittio kronor större.|근거 있는 추측이요. 지난가을에 매장 절반쯤에서만 커피 할인 행사를 하셨잖아요. 덕분에 자연 실험 비슷한 게 생겼어요. 그 매장들에선 커피가 찍힌 영수증 수가 11% 늘었고, 그 영수증들은 평균 90크로나 더 컸어요.
+Elin|B2|Räknar vi försiktigt ger det tillbaka ungefär femtio miljoner i bruttovinst. Då landar nettokostnaden på runt åttio miljoner.|보수적으로 계산해도 매출총이익 약 5천만이 돌아와요. 그러면 순비용은 8천만 정도가 되고요.
+Holm|B1|Fortfarande åttio miljoner.|그래도 8천만이네요.
+Elin|C1|Ja. Och nu kommer den del som inte syns i någon resultaträkning: vad det kostar att låta bli. Amir, visa kurvan.|네. 이제 어떤 손익계산서에도 안 나오는 부분이에요. 아무것도 하지 않을 때 드는 비용이요. 아미르, 그래프 보여 줘.
+Amir|B2|Det här är era medlemmar i de södra förorterna. Sedan september har nio procent av dem minskat sina inköp hos er med mer än fyrtio procent. De har inte slutat handla mat – de har slutat handla den här.|이건 남부 교외 지역의 회원들이에요. 9월 이후로 그중 9%가 여기서의 구매를 40% 넘게 줄였어요. 장 보는 걸 그만둔 게 아니라, 여기서 사는 걸 그만둔 거죠. (화면에 아래로 꺾이는 선 그래프)
+Holm|A2|Nio procent?|9%요?
+Elin|C1|Räknar man upp det till helår motsvarar det omkring 900 miljoner i förlorad försäljning, eller drygt 200 miljoner i bruttovinst. Och de kunderna kommer inte tillbaka av sig själva bara för att inflationen vänder.|연간으로 환산하면 매출 약 9억, 매출총이익으로는 2억 남짓을 잃는 셈이에요. 그리고 그 고객들은 인플레이션이 꺾인다고 저절로 돌아오지 않아요.
+Camilla|B2|Men det är ju precis därför vi behöver kampanjen – för att vinna tillbaka dem.|그러니까 바로 그래서 캠페인이 필요한 거죠. 그 사람들을 되찾으려고요.
+Sofia|B1|Har de slutat handla här för att de inte har sett någon reklam?|그분들이 광고를 못 봐서 여기 발길을 끊은 걸까요?
+Camilla|A2|Nej… kanske inte.|아뇨… 그건 아니겠죠.
+Elin|B2|Jämför de två posterna: runt åttio miljoner för att sänka priserna, mot drygt tvåhundra miljoner om kunderna fortsätter att försvinna. Och flyttar ni 25 av kampanjens 40 miljoner till prissänkningen, landar nettokostnaden på 55 miljoner.|두 항목을 비교해 보세요. 가격 인하에 8천만 정도, 고객이 계속 떠나면 2억 남짓. 그리고 캠페인 예산 4천만 중 2,500만을 가격 인하로 돌리면 순비용은 5,500만이 돼요. (노란 노트에 적은 숫자 두 개에 각각 동그라미를 친다)
+Camilla|B1|Ni vill alltså ta min budget.|그러니까 제 예산을 가져가겠다는 거네요.
+Jonas|B2|Vi vill att din budget ska få något att berätta. Femton miljoner på en kampanj om lägre priser gör mer nytta än fyrtio på en kampanj om känslor.|카밀라 씨 예산에 할 이야기가 생기게 하자는 거죠. 낮아진 가격을 알리는 캠페인에 쓰는 1,500만이, 감정을 말하는 캠페인에 쓰는 4천만보다 더 쓸모 있어요.
+Holm|C1|Det låter elegant, men ni glömmer en sak. Den sjunde februari publicerade vi bokslutskommunikén, och aktien föll sex procent på en enda dag. Om jag nu går ut och pressar ner marginalen frivilligt, kommer ägarna att tolka det som att vi har tappat kontrollen.|우아하게 들리지만 한 가지를 잊고 계세요. 2월 7일에 연말 실적을 발표했는데, 주가가 하루 만에 6% 빠졌어요. 지금 제가 나서서 스스로 마진을 깎으면, 주주들은 우리가 통제력을 잃었다고 해석할 겁니다.
+Elin|B2|Hur mycket föll rörelsemarginalen under det fjärde kvartalet?|4분기에 영업이익률은 얼마나 떨어졌어요?
+Holm|B1|Inte mycket. För helåret blev den 3,0 procent.|많이는 아니에요. 연간으로는 3.0%였어요.
+Elin|C1|Då föll aktien inte på grund av marginalen, utan på grund av frågan som analytikerna ställde i telefonkonferensen: hur länge kan ni ta ut de här priserna innan kunderna går? Den frågan kan ingen reklamfilm besvara.|그럼 주가는 이익률 때문에 빠진 게 아니에요. 애널리스트들이 컨퍼런스 콜에서 던진 질문 때문이죠. 고객이 떠나기 전까지 이 가격을 얼마나 더 받을 수 있느냐. 그 질문엔 어떤 광고 영상도 답할 수 없어요. (컨퍼런스 콜 녹취록에서 밑줄 친 대목을 가리키며)
+Holm|C1|Och styrelsen, då? Den sjätte februari bad ordföranden mig att återkomma med en plan för hur vi ska återvinna förtroendet före stämman i maj. Jag tvivlar starkt på att hon föreställde sig en plan som börjar med att vi frivilligt sänker resultatet.|그럼 이사회는요? 2월 6일에 의장이 5월 주총 전에 신뢰를 되찾을 계획을 가져오라고 했습니다. 그게 우리가 스스로 이익을 줄이는 것으로 시작하는 계획일 거라고 상상했을지는 정말 의문이네요.
+Jonas|B2|Vad är frågan bakom frågan, Anders? Är det ”vad tycker styrelsen om ett lägre resultat i år”, eller ”vad tycker styrelsen om en vd som såg kunderna gå och inte gjorde något”?|안데르스 씨, 질문 뒤의 질문이 뭘까요? '올해 이익이 줄면 이사회가 뭐라고 할까'일까요, 아니면 '고객이 떠나는 걸 보고도 아무것도 안 한 CEO를 이사회가 어떻게 볼까'일까요?
+Holm|A2|Det där var elakt.|그건 좀 심하네요.
+Jonas|A2|Lite. Förlåt.|조금요. 죄송합니다.
+Sofia|B2|Det finns en sak till som inte syns i Excel. Förtroende är svårare att bygga upp igen än marginaler. En marginal kan ni höja på en måndag – ett förtroende tar år.|엑셀에 안 보이는 게 하나 더 있어요. 신뢰는 마진보다 되살리기가 어렵습니다. 마진은 월요일 하루 만에 올릴 수 있지만, 신뢰는 몇 년이 걸려요.
+Camilla|B2|Det är lätt att säga för den som inte behöver stå framför ägarna och förklara varför marginalen har sjunkit.|주주들 앞에 서서 마진이 왜 떨어졌는지 설명할 필요가 없는 사람은 쉽게 말할 수 있죠.
+Sofia|B1|Det är sant. Men jag har med mig någon som står framför kunderna varje dag. Får jag spela upp något?|맞아요. 하지만 매일 고객 앞에 서는 사람의 목소리를 가져왔어요. 하나 틀어 드려도 될까요?
+# 장면 3 — 같은 회의실, 오전 10시 — 녹음과 침묵
+Holm|B1|Vad är det för något?|그게 뭡니까?
+Sofia|B2|En inspelning från Skärholmen, den 26 januari. Petra Lindgren har gett mig lov att spela upp den här i dag, just för er.|1월 26일 셰르홀멘에서 녹음한 거예요. 페트라 린드그렌 씨가 오늘 여기서, 바로 여러분께 틀어 드려도 된다고 허락했어요. (노트북을 테이블 가운데로 민다)
+Holm|A2|Petra? Henne känner jag.|페트라요? 그 사람 압니다.
+Petra|B1|Jag har jobbat på Nära Mat i nitton år. Jag har alltid varit stolt när folk frågar var jag jobbar.|Nära Mat에서 19년 일했어요. 사람들이 어디서 일하냐고 물으면 늘 자랑스러웠어요. (노트북 스피커에서 매장 소음 사이로 페트라의 목소리가 흘러나온다 — 녹음)
+Sofia|B1|Och nu, då?|그럼 지금은요? (녹음 속 소피아의 목소리)
+Petra|B2|Nu säger jag att jag jobbar ”inom handeln”. Förra månaden stod en kund och skrek åt en av mina tjejer att vi är tjuvar. Och vet du vad det värsta var? Jag kunde inte säga att han hade fel.|이젠 '유통 쪽에서' 일한다고 해요. 지난달 어떤 손님이 우리 여직원 한 명한테 우리가 도둑놈들이라고 소리를 질렀어요. 그런데 제일 힘든 게 뭐였는지 아세요? 그 사람이 틀렸다고 말할 수가 없었다는 거예요. (녹음)
+Sofia|A2|Varför inte?|왜요? (녹음)
+Petra|B2|För att jag inte själv förstår varför kaffet kostar åttiofem kronor. Jag får priserna från Solna på måndagarna, och sedan får jag stå här och försvara dem.|저도 왜 커피가 85크로나인지 이해를 못 하니까요. 월요일마다 솔나에서 가격이 내려오고, 저는 여기 서서 그걸 변호해야 해요. (녹음)
+Sofia|B1|Vad skulle du vilja säga till dem i Solna?|솔나 본사 사람들한테 뭐라고 말하고 싶으세요? (녹음)
+Petra|B1|Kom hit en lördag. Stå i kassan en timme. Sedan får ni sätta vilka priser ni vill.|토요일에 한번 와 보라고요. 한 시간만 계산대에 서 보라고. 그다음엔 원하는 가격 마음대로 매기시라고요. (녹음)
+Sofia|B1|Det var allt. Mer har jag inte.|이게 다예요. 더는 없어요. (재생을 멈춘다. 회의실에 긴 침묵이 흐른다. 아무도 커피잔에 손을 대지 않는다)
+Holm|A2|Spela den igen.|다시 틀어 주세요. (한참 뒤, 낮은 목소리로)
+Sofia|A2|Hela?|전부요?
+Holm|A2|Nej. Bara slutet.|아뇨. 마지막 부분만요.
+Petra|A2|Kom hit en lördag. Stå i kassan en timme.|토요일에 한번 와 보라고요. 한 시간만 계산대에 서 보라고. (녹음이 다시 흐른다)
+Holm|C1|Jag började själv i kassan i Bromma 1983, och i många år stod jag där varje jul. Sedan blev det möten i stället, och nu har jag inte stått i en kassa på femton år. Man märker inte när man slutar lyssna – man märker bara att det har blivit tyst.|저도 1983년에 브롬마 매장 계산대에서 시작했어요. 오랫동안 크리스마스 때마다 계산대에 섰고요. 그러다 그 자리가 회의로 바뀌었고, 이제는 계산대에 서 본 지 15년이 됐네요. 듣기를 멈출 때는 모릅니다. 그저 조용해졌다는 것만 알게 되죠. (창밖을 보며)
+Camilla|B1|Anders, kampanjen kan ju fortfarande…|안데르스, 그래도 캠페인은…
+Holm|B2|Kampanjen blir av, Camilla, men den blir kortare, och den ska handla om priserna. Elin, hur snabbt kan butikerna byta prisskyltar?|캠페인은 해요, 카밀라. 하지만 더 짧게, 그리고 가격 얘기로요. 엘린 씨, 매장들이 가격표를 얼마나 빨리 바꿀 수 있죠?
+Elin|B1|Enligt era egna rutiner går prisändringar ut på måndagar. Nästa måndag är den tjugonde.|회사 자체 절차상 가격 변경은 월요일마다 나가요. 다음 월요일이 20일이고요.
+Holm|B1|Då gör vi så. Vi sänker priset på femtio basvaror från och med måndag. Jag ringer ordföranden nu, och i kväll säger jag det i tv.|그럼 그렇게 하죠. 월요일부터 기본 품목 50가지 가격을 내립니다. 지금 의장에게 전화하겠습니다. 그리고 오늘 저녁 TV에서 그렇게 말하겠습니다. (일어서며 휴대폰을 꺼낸다)
+# 장면 4 — 시내 방송국, 「Kvällsfrågan」 출연자 대기실과 복도, 저녁 7시 40분
+Jonas|B1|Hur känns det, Anders? Du har tjugo minuter kvar.|기분 어떠세요, 안데르스 씨? 20분 남았어요. (분장을 마친 홀름이 대기실 소파에 앉아 넥타이를 몇 번이나 고쳐 맨다)
+Holm|A2|Jag är jättenervös.|엄청 긴장돼요.
+Jonas|B2|Bra. Den som inte är nervös inför direktsänd tv har oftast inte förstått vad som står på spel.|좋습니다. 생방송 앞에서 긴장 안 하는 사람은 대개 뭐가 걸려 있는지 모르는 사람이에요.
+Holm|B1|Ordföranden sa att det är mitt beslut. ”Men det är också ditt ansvar, Anders.”|의장이 제 결정이라고 하더군요. "하지만 그건 당신 책임이기도 해요, 안데르스."
+Jonas|C1|Det är ett bra besked. Hon har gett dig mandat, inte en garanti – och ärligt talat är det det mesta man kan begära av en styrelse som själv vill kunna backa om det går illa. Nu övar vi en gång till. Jag är Linus.|좋은 답이네요. 의장은 보증이 아니라 권한을 준 거예요. 솔직히, 일이 틀어지면 자기도 물러설 여지를 남겨 두고 싶은 이사회한테 바랄 수 있는 건 그게 최대치죠. 자, 한 번 더 연습하죠. 제가 리누스입니다.
+Holm|A2|Okej. Kör.|좋아요. 하세요.
+Jonas|B2|”Anders Holm, er bruttomarginal steg mitt i den största matprisökningen på flera decennier. Har ni tjänat pengar på kundernas oro?”|"안데르스 홀름 씨, 수십 년 만의 최대 식료품 가격 상승 한복판에서 귀사의 매출총이익률이 올랐습니다. 고객들의 불안으로 돈을 버신 겁니까?" (리누스 흉내를 내며 몸을 앞으로 숙인다)
+Holm|B2|Det är viktigt att förstå att vi har haft kraftigt ökade kostnader för el, för transporter och för…|저희는 전기, 운송 비용이 크게 올랐고… 그 점을 이해하시는 게 중요한데…
+Jonas|B1|Stopp. Han har inte frågat om elen. Han har frågat om ni har tjänat pengar.|스톱. 전기에 대해 물은 게 아니에요. 돈을 벌었느냐고 물었어요.
+Holm|B1|Men jag kan ju inte säga ja!|하지만 그렇다고 할 순 없잖아요!
+Jonas|C1|Du kan säga det som är sant. Folk förlåter nästan allt utom en chef som försöker prata bort det som de redan har sett med egna ögon. Ditt budskap ska få plats i en enda mening. Vad gör ni, och från när?|사실인 걸 말씀하시면 돼요. 사람들은 웬만한 건 다 용서하지만, 자기 눈으로 이미 본 걸 말로 덮으려는 경영자는 용서하지 않아요. 메시지는 한 문장에 들어가야 합니다. 무엇을 하시고, 언제부터인가요?
+Holm|B1|Vi sänker priset på femtio basvaror från och med måndag.|월요일부터 기본 품목 50가지 가격을 내립니다.
+Jonas|B1|Bra. Säg det först, säg det tidigt och säg det igen i slutet.|좋아요. 그걸 먼저 말하고, 일찍 말하고, 마지막에 한 번 더 말하세요.
+Elin|B1|Jonas, har du en minut? Ute i korridoren.|요나스, 잠깐 시간 있어? 복도에서. (쉰 개 품목의 최종 가격표를 들고 온 엘린이 대기실 문가에서, 휴대폰을 손에 쥔 채)
+Jonas|A2|Visst. Anders, läs listan en gång till. Jag är strax tillbaka.|그래. 안데르스 씨, 목록 한 번 더 읽어 보세요. 금방 올게요.
+Elin|B2|Linus Falk sitter i studion i kväll. Jag såg honom i entrén. Och det finns något som jag borde ha berättat för en månad sedan.|리누스 팔크가 오늘 밤 스튜디오에 나와. 입구에서 봤어. 그리고 한 달 전에 말했어야 하는 게 있어. (복도, 형광등 아래)
+Jonas|A2|Vad då?|뭔데?
+Elin|B2|Han ringde mig samma kväll som artikeln kom. Han visste att vi jobbar för Nära Mat och frågade om vi hade sett marginalerna. Jag sa ingenting – men jag sa inte heller något till er.|기사 나온 그날 밤에 나한테 전화했어. 우리가 Nära Mat 일 하는 걸 알고 있었고, 마진 봤냐고 물었어. 난 아무 말도 안 했어. 근데 너희한테도 아무 말 안 했지.
+Jonas|B2|En hel månad, Elin? Och du sa ingenting när vi satt med Holm i fredags och pratade om pressen?|한 달 내내, 엘린? 지난 금요일에 홀름이랑 언론 대응 얘기할 때도 아무 말 안 했고?
+Elin|C1|Jag var rädd att det skulle se ut som om jag hade läckt, och jag ville inte att Holm skulle sluta lita på oss mitt i analysen. Siffrorna ljuger inte, men de kan tiga – och det kan tydligen jag också.|내가 흘린 것처럼 보일까 봐 겁났어. 그리고 분석 한가운데서 홀름이 우리를 못 믿게 되는 게 싫었고. 숫자는 거짓말하지 않아, 하지만 침묵할 순 있지. 나도 그럴 수 있나 봐.
+Jonas|B2|Okej. Du har inte gjort något fel mot kunden, men du borde ha sagt det till mig. Det tar vi i morgon. Nu måste Holm få veta det – av dig, och kort.|알았어. 고객한테 잘못한 건 없어. 하지만 나한텐 말했어야지. 그건 내일 얘기하자. 지금은 홀름이 알아야 해. 네 입으로, 짧게.
+Elin|B2|Anders, en sak innan du går in. Linus Falk ringde mig i januari. Jag svarade inte på någon fråga, men han vet att vi jobbar för er. Om han tar upp det, säg som det är.|안데르스 씨, 들어가시기 전에 하나만요. 리누스 팔크가 1월에 저한테 전화했어요. 어떤 질문에도 대답하지 않았지만, 저희가 귀사 일을 한다는 건 알고 있어요. 그 얘기를 꺼내면 있는 그대로 말씀하세요. (대기실로 돌아와 홀름 앞에 쪼그려 앉으며)
+Holm|B1|Ni har alltså också hållit något för er själva. Precis som vi.|그러니까 여러분도 뭔가를 혼자 품고 있었군요. 우리처럼요. (잠시 엘린을 보다가, 쓴웃음을 짓는다)
+Elin|B1|Ja. Det var fel av mig. Lycka till i kväll – jag tittar från kontoret.|네. 제 잘못이었어요. 오늘 밤 잘하세요. 저는 사무실에서 볼게요. (리누스와 마주치지 않으려고 뒷문 쪽 계단으로 향한다)
+Producenten|A2|Anders Holm? Två minuter kvar. Följ med mig, är du snäll.|안데르스 홀름 씨? 2분 남았습니다. 저를 따라오세요. (헤드셋을 쓴 프로듀서가 문을 연다)
+# 장면 5 — Norrström Partners 회의실 "Strömmen", 저녁 8시
+Amir|A2|Det börjar! Elin, skynda dig!|시작해요! 엘린, 빨리요! (화상회의 화면에 생방송을 띄워 놓았다. 테이블엔 시나몬롤 한 봉지)
+Elin|B1|Jag kommer, jag kommer. Tunnelbanan stod still vid Rådmansgatan. Var är Gunilla?|가, 가. 지하철이 로드만스가탄에서 멈춰 섰었어. 군닐라는? (외투도 벗지 않은 채 뛰어 들어오며)
+Sofia|B2|Hon står längst bak. Hon påstår att hon inte vill göra oss nervösa, men jag tror att hon är minst lika nervös själv.|맨 뒤에 서 계셔. 우리 긴장시키기 싫으시다는데, 내 생각엔 본인도 우리만큼 긴장하신 것 같아. (문가에 팔짱을 끼고 선 군닐라를 눈짓으로 가리키며)
+Programledaren|B1|I kväll har vi med oss Anders Holm, vd för Nära Mat, och Linus Falk på Stockholms-Kuriren. Linus, du har en fråga.|오늘 밤 Nära Mat의 안데르스 홀름 대표와 스톡홀름스쿠리렌의 리누스 팔크 기자가 함께합니다. 리누스 씨, 질문이 있으시죠. (TV 화면 속)
+Linus|B2|Nära Mats bruttomarginal steg från 22,8 till 24,1 procent, samtidigt som kunderna fick betala runt tjugo procent mer för maten. Har ni tjänat pengar på kundernas oro?|Nära Mat의 매출총이익률은 22.8%에서 24.1%로 올랐습니다. 같은 기간 고객들은 식료품에 20% 안팎을 더 내야 했고요. 고객들의 불안으로 돈을 버신 겁니까? (TV 화면 속)
+Holm|C1|Ja, på vissa varor har vi det. Vi har inte gjort fel i varje enskilt beslut, men summan av besluten blev fel. Därför sänker vi priset på femtio basvaror från och med måndag – just de varor som ni handlar varje vecka.|네, 일부 품목에서는 그렇습니다. 개별 결정 하나하나가 틀린 건 아니었지만, 그 결정들의 합이 틀렸던 겁니다. 그래서 월요일부터 기본 품목 50가지 가격을 내립니다. 바로 여러분이 매주 사시는 그 품목들입니다. (TV 화면 속, 홀름이 카메라를 똑바로 본다)
+Amir|A2|Han sa ja! Han sa faktiskt ja!|그렇다고 했어요! 진짜 그렇다고 했어요!
+Sofia|B1|Och han sa meningen direkt. Jonas måste vara nöjd.|그리고 그 문장을 바로 말했어. 요나스 엄청 뿌듯하겠다.
+Linus|B2|Det är ett ovanligt ärligt svar. Hur ska tittarna kunna veta att priserna inte går upp igen om tre månader?|보기 드물게 솔직한 답변이네요. 석 달 뒤에 가격이 다시 오르지 않으리라는 걸 시청자들은 어떻게 알 수 있습니까? (TV 화면 속)
+Holm|B2|Vi kommer att publicera listan med alla femtio varor och deras priser på vår webbplats varje månad. Gå in och granska oss – och håll oss ansvariga om vi inte håller vad vi lovar.|50개 품목 전체 목록과 가격을 매달 저희 웹사이트에 공개하겠습니다. 들어가서 저희를 검증하시고, 약속을 지키지 않으면 책임을 물어 주십시오. (TV 화면 속)
+Elin|B1|Det där stod inte i manuset.|저건 원고에 없었는데. (노란 노트를 내려놓으며)
+Amir|A2|Bättre än manuset. Vill du ha en bulle? Jag köpte dem i dag.|원고보다 낫네요. 시나몬롤 드실래요? 오늘 제가 사 왔어요.
+Elin|B1|Tack. … Oj. Ett sms från Linus: ”Bra svar. Någon har lärt honom att svara på frågan. Jag gissar att det var ni.”|고마워. …어머. 리누스한테서 문자 왔어. "좋은 답변이었어요. 누군가 그분께 질문에 답하는 법을 가르쳤네요. 아마 여러분이겠죠." (방송이 광고로 넘어가는 순간, 엘린의 휴대폰 화면이 켜진다)
+Sofia|B1|Ska du svara honom?|답장할 거야?
+Gunilla|C1|Inte i kväll, Elin. Ett sms som kommer en halvtimme efter sändningsstart förtjänar att få vänta till i morgon. Bra jobbat. Och nu har jag ett uppdrag som ingen annan vill ta.|오늘 밤은 하지 마, 엘린. 방송 시작 30분 만에 오는 문자는 내일까지 기다리게 해도 돼. 잘했어. 그리고 이제 아무도 안 맡으려는 일이 하나 있어. (문가에서 천천히 걸어 나와, 테이블 위에 서류철 하나를 내려놓는다. 표지에 "Payvik")
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Jag är jättenervös.** | 엄청 긴장돼요. | *jätte-* 는 구어 강조 접두사: *jättebra, jättegott, jättetrött*. 붙여 쓴다 |
+| `A2` | **Spela den igen.** | 다시 틀어 주세요. | *spela upp* = (녹음·영상을) 재생하다. *Får jag spela upp något?* (뭘 하나 틀어 드려도 될까요?) |
+| `B1` | **Vi sänker priset på femtio basvaror från och med måndag.** | 월요일부터 기본 품목 50가지 가격을 내립니다. | *från och med* (*fr.o.m.*) = ~부터(그날 포함). 반대는 *till och med* (*t.o.m.*) = ~까지. 현재형으로 확정된 미래 표현 |
+| `B1` | **Säg det först, säg det tidigt och säg det igen i slutet.** | 그걸 먼저 말하고, 일찍 말하고, 마지막에 한 번 더 말하세요. | 미디어 훈련의 기본 원칙. 명령형 *säg* (*säga*) 반복으로 리듬을 만든다 |
+| `B1` | **Det där stod inte i manuset.** | 저건 원고에 없었는데. | 글에 '쓰여 있다'는 *stå*: *Det står i tidningen.* *manus* (원고·대본)는 ett-명사, 정관사형 *manuset* |
+| `B2` | **Förtroende är svårare att bygga upp igen än marginaler.** | 신뢰는 마진보다 되살리기가 어렵습니다. | *bygga upp igen* = 다시 쌓아 올리다. 형용사 비교급 + *att* 부정사: *X är svårare att…än Y* |
+| `B2` | **Med all respekt – …** | 외람되지만… | 반론 앞의 공손한 완충어. 실제로는 꽤 강한 반대가 뒤따른다는 신호 |
+| `B2` | **Hon har gett dig mandat, inte en garanti.** | 의장은 보증이 아니라 권한을 준 거예요. | *ge någon mandat* = 권한을 위임하다. *mandat* 은 무관사로 자주 쓰인다(*få mandat att…*) |
+| `C1` | **Vi har inte gjort fel i varje enskilt beslut, men summan av besluten blev fel.** | 개별 결정 하나하나가 틀린 건 아니었지만, 그 결정들의 합이 틀렸던 겁니다. | 책임을 인정하면서 범위를 정확히 긋는 경영자 화법. *varje enskilt* = 하나하나의, 개별적인 |
+| `C1` | **Man märker inte när man slutar lyssna – man märker bara att det har blivit tyst.** | 듣기를 멈출 때는 모릅니다. 그저 조용해졌다는 것만 알게 되죠. | 일반 주어 *man* 의 대구. *märka* (알아채다) + *när* / *att* 절의 대비 |
+
+## 현안 메모
+- **20% 안팎의 식료품 물가** — 스웨덴 통계청(SCB)의 소비자물가 통계에서 식료품·비알코올 음료 가격 상승률은 2022년 내내 가파르게 올라 2023년 초 전년 대비 20% 안팎에 이르렀고, 봄 무렵 정점을 찍었다. 수십 년 만의 상승 폭이었다. 에너지·사료·비료·포장재 비용 상승과 약한 크로나가 원인으로 꼽혔지만, 소매 체인들이 비용 상승분보다 가격을 더 올린 것 아니냐는 의혹도 함께 커졌다.
+- **집중된 시장과 마진 논쟁** — 스웨덴 식료품 소매시장은 ICA, Axfood, Coop 세 그룹이 대부분(80% 안팎)을 차지하는 집중도 높은 시장이다. 물가가 정치 쟁점이 되자 체인들의 마진을 조사하라는 요구가 커졌고, 정부는 2023년 경쟁청(*Konkurrensverket*)에 식품 공급망의 가격 형성과 경쟁 상황을 분석하라는 과제를 맡겼다. 업계는 영업이익률이 몇 퍼센트에 불과하다고 반박했다 — 이 화의 홀름처럼.
+- **가격 동결·인하 캠페인** — 2023년 여러 체인이 일부 기본 품목의 가격 동결(*prisfrysning*)이나 인하를 앞세운 캠페인을 내걸었고, 소비자들은 가격 비교 앱과 할인 전단지로 체인을 갈아탔다. 저가 체인과 자체 브랜드(EMV)의 점유율이 늘어난 것도 이 시기의 특징이다. Nära Mat, 「Kvällsfrågan」, 그리고 이 화의 모든 숫자는 가상이다.
+
+## 비즈니스 메모
+- **이해관계자 맵(intressentkarta)** — 이해관계자를 '조직에 대한 힘'과 '이 사안에 대한 관심·영향' 두 축으로 나눠 2×2 격자에 배치한다(멘델로우 매트릭스). 힘과 관심이 모두 큰 쪽(주주·이사회)은 "긴밀히 관리", 힘은 작지만 영향은 큰 쪽(고객·직원)은 "계속 알리기"가 기본 처방이다. 하지만 요나스가 보여 주듯 이 배치는 고정되어 있지 않다. 흩어진 고객도 언론이 붙으면 오른쪽 위 구석으로 순식간에 올라오고, 매장 직원은 힘이 없어도 모든 메시지를 실제로 전달하는 '마지막 1미터'다.
+- **한 문장 메시지** — 위기 커뮤니케이션의 핵심 메시지는 한 문장에 "무엇을 하는가, 언제부터"가 들어가야 한다. 질문을 받으면 먼저 질문에 답하고(브리지 전에 답), 메시지를 일찍 말하고, 끝에 다시 말한다. 홀름의 첫 리허설처럼 질문받지 않은 원인(전기요금·운송비)부터 설명하면 시청자에게는 '변명'으로 들린다. 숫자로는 순비용 약 5,500만 크로나(영업이익 약 4억 7천만의 10% 남짓) 대 고객 이탈 비용 2억 남짓 — 이 비교가 메시지 뒤에 서 있어야 한 문장이 버틴다.
+
+## 다음 화 예고 — BankID
+2023년 3월 6일 월요일. 군닐라가 내려놓은 서류철의 주인은 쇠데르말름의 핀테크 Payvik이다. 결제와 후불결제로 빠르게 큰 회사에 금융감독원(FI)의 서한이 날아왔고, 창업자 올리버 샌드베리는 영어 섞인 스타트업 스웨덴어로 성장 지표만 이야기한다. 고객센터 헤드셋을 쓴 아미르는 하루 종일 "은행 직원이라고 했어요"라는 노인들의 전화를 듣고, 준법감시인 마리는 FI의 질의서에 답할 사람이 자기 하나뿐이라고 털어놓는다. 요나스는 창업자에게 "성장이 통제보다 빨랐다"고 말할 방법을 찾고 — 그날 밤, 아들 러브에게 전화를 건다.
