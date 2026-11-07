@@ -1,0 +1,162 @@
+@title 1부 10화 — Elchocken
+@subtitle (전기요금 쇼크)
+@meta 날짜|2023년 5월 2일 화요일(노동절 다음 날), 오전 9시 ~ 저녁 7시 반 / 장면 5는 5월 3일 수요일 오전 8시 반
+@meta 장소|순드뷔베리 Klarström Energi 본사 6층 회의실 → 같은 건물 1층 고객센터(kundtjänst) → 4층 프로젝트룸 → 쿵스홀멘, 엘린의 집 부엌 → 다음 날 아침 Norrström 회의실 "Strömmen"
+@meta 등장인물|**Elin Bergqvist** (엘린 베리크비스트, 34, 시니어 매니저) · **Jonas Ekholm** (요나스 에크홀름, 41, 프린시플) · **Amir Nouri** (아미르 누리, 27, 애널리스트) · **Sofia Mäkinen** (소피아 매키넨, 30, 변화관리 컨설턴트) · **Sara Nyström** (사라 뉘스트룀, 47, Klarström Energi CEO, 전력 트레이더 출신) · **Tove Sjöberg** (토베 셰베리, 44, Klarström 고객센터장) · **Daniel** (다니엘, 엘린의 남편, 중학교 수학 교사) · **Maja** (마야, 2, 엘린의 딸) · 녹음 속 목소리: 고객 **Gösta**(예스타), **Kristina**(크리스티나), **Mehdi**(메흐디), 상담원 **Hampus**(함푸스)
+@meta 이번 화의 도구|고객 이탈(churn) 코호트 분석 — 가입 시기·계약 유형·고객센터 문의 여부로 고객을 묶어 잔존율을 비교하고, 교란 변수(고지서 금액)를 통제한 뒤, 해지 설문과 무작위 대조 테스트로 가설을 검증
+@meta 스웨덴 현안|네 개의 전력 가격구역(elområde 1~4)과 남북 가격 격차 · 2022~23년 겨울의 기록적 전기요금과 대륙 가스 위기의 전이 · 사회보험청이 지급한 가계 전기요금 지원금(elstöd) · 변동요금·시간별 요금·고정요금 논쟁과 이해하기 어려운 두 장짜리 고지서
+@intro **지난 이야기** — Ankarbanken의 Payvik 인수 실사에서 아미르는 사라진 2022년 11월 로그의 비밀을 찾았다. 매주 금요일, 개인 계좌 412개에서 9,500크로나씩, 하닝에의 같은 주소를 쓰는 회사 다섯 곳으로. 올리버는 "기술적 오류"라고 했고, 군닐라는 단어 하나하나는 사실인 '조심스러운 문구'를 내밀었다. 그러나 보고서 4.7절에는 팀의 문단이 한 글자도 바뀌지 않고 들어갔다. 서명은 미뤄졌고, Ankarbanken의 가을 전략 프로젝트는 다른 회사로 갔다. 지하 펍의 돌계단 위에서 군닐라가 말했다. "이번엔 너희가 이겼어. 그 대가가 뭐였는지 생각해 봐."
+@intro 3주 뒤. Ankarbanken은 Payvik의 2022년 전체에 대한 독립 포렌식 조사를 다른 회사에 맡겼고, 아미르는 시몬의 문자에 아직 답하지 못했다. 군닐라는 그 뒤로 요나스와 엘린에게 말을 아꼈다. 그리고 4월 말, 서류 하나를 건넸다. "숫자 하나로 싸울 일은 없는 건이야." 순드뷔베리의 전력 소매업체 Klarström Energi — 1996년 전력시장 자유화 직후 생긴 중견 회사로, 20년 넘게 같은 슬로건을 써 왔다. "El som du förstår." (이해할 수 있는 전기.) 기록적인 겨울이 지나고, 그 회사의 고객 셋 중 하나가 떠났다.
+# 장면 1 — 순드뷔베리, Klarström Energi 본사 6층 회의실, 오전 9시
+Sara|B2|Välkomna till Sundbyberg! Ursäkta röran – vi har just slagit ihop två avdelningar på samma våning för att spara in på hyran.|순드뷔베리에 오신 걸 환영해요! 어수선해서 죄송해요. 임대료를 아끼려고 두 부서를 한 층으로 막 합쳤거든요. (창밖으로 순드뷔베리 광장과 지나가는 트램. 벽에는 색이 바랜 슬로건 "El som du förstår")
+Jonas|B1|Det gör ingenting. Hur var första maj? Var du ute och demonstrerade?|괜찮습니다. 노동절은 어떠셨어요? 시위하러 나가셨어요?
+Sara|A2|Nej, jag sov. För första gången sedan i höstas.|아뇨, 잤어요. 작년 가을 이후 처음으로요.
+Elin|B1|Vi har läst styrelsens uppdragsbeskrivning. Men vi vill gärna höra det med dina egna ord.|이사회의 과업 설명서는 읽었어요. 그래도 대표님 말로 직접 듣고 싶어요.
+Sara|C1|Med mina egna ord, då. I oktober hade vi 240 000 hushållskunder, i slutet av mars 168 000. Vi har tappat trettio procent av kundstocken på ett halvår – och huvuddelen försvann under tre veckor i januari, som om någon hade dragit ur en propp.|제 말로 하자면 이래요. 10월에 가정 고객이 24만이었는데, 3월 말엔 16만 8천이었어요. 반년 만에 고객 기반의 30%를 잃었죠. 그리고 대부분이 1월의 3주 동안 빠져나갔어요. 누가 마개를 뽑아 버린 것처럼요.
+Amir|B1|Sjuttiotvåtusen kunder. Vet ni vart de tog vägen?|7만 2천 명이네요. 어디로 갔는지 아십니까?
+Sara|B1|Till konkurrenterna, förstås. Flera av dem lockar med fast pris och ingen månadsavgift första året.|경쟁사로 갔죠, 당연히. 여러 곳이 고정요금에 첫해 월 기본료 면제로 고객을 끌어가요.
+Sofia|B2|Innan vi pratar om konkurrenterna – kan du förklara vad som egentligen hände i vintras? Jag misstänker att jag inte är den enda här som aldrig riktigt har förstått varför elen blev så dyr.|경쟁사 얘기 전에, 지난겨울에 실제로 무슨 일이 있었는지 설명해 주실 수 있어요? 왜 전기가 그렇게 비싸졌는지 제대로 이해 못 한 사람이 여기 저 혼자만은 아닐 것 같아서요.
+Sara|C1|Gärna. Sedan 2011 är Sverige indelat i fyra elområden. Det mesta av vattenkraften finns i norr, medan förbrukningen till stor del finns i söder, och stamnätet räcker inte till för att föra över allt. När ledningarna är fulla delas marknaden upp, och då kan priset i Malmö bli tio gånger högre än i Luleå under samma timme.|물론이죠. 스웨덴은 2011년부터 네 개의 전력 가격구역으로 나뉘어 있어요. 수력발전은 대부분 북쪽에 있는데 소비는 상당 부분 남쪽에서 일어나고, 기간 송전망(stamnätet)으로는 그걸 다 실어 나를 수가 없어요. 송전선이 꽉 차면 시장이 쪼개지고, 그러면 같은 시간에 말뫼 가격이 룰레오의 열 배가 될 수도 있죠.
+Jonas|B1|Och Stockholm ligger i trean, alltså elområde tre.|그리고 스톡홀름은 3번, 그러니까 3구역에 있고요.
+Sara|C1|Just det. Och söderut är vi sammankopplade med Tyskland, Polen och Baltikum. När Ryssland strypte gasleveranserna till Europa i fjol sköt priserna på kontinenten i höjden, och de priserna läckte in i södra Sverige – i synnerhet när det var kallt och vindstilla och flera kärnkraftsreaktorer stod still för revision.|맞아요. 그리고 남쪽으로는 독일, 폴란드, 발트 3국과 연결돼 있어요. 작년에 러시아가 유럽행 가스 공급을 조이자 대륙의 가격이 치솟았고, 그 가격이 스웨덴 남부로 새어 들어왔죠. 특히 춥고 바람이 없는 데다 원자로 여러 기가 정비로 멈춰 있을 때요.
+Elin|B2|Och hur sätts priset rent praktiskt? Jag vill förstå vad era kunder egentligen betalar för.|그럼 가격은 실제로 어떻게 정해져요? 고객들이 정확히 뭘 위해 돈을 내는 건지 알고 싶어요.
+Sara|B2|Varje dag före lunch lämnar producenter och elhandlare sina bud på Nord Pool för nästa dygn, timme för timme. Det dyraste kraftverket som behövs för att möta efterfrågan sätter priset för alla. Det är spotpriset.|매일 점심 전에 발전사와 전력 소매업체들이 다음 날 전력에 대해 시간 단위로 노드풀(Nord Pool)에 입찰을 내요. 수요를 맞추는 데 필요한 발전소 중 가장 비싼 곳이 모두의 가격을 정하고요. 그게 현물 가격(spotpris)이에요.
+Amir|B2|Så om det behövs ett gaskraftverk i Tyskland för att täcka efterfrågan, är det det som bestämmer priset i Västerås också?|그러면 수요를 채우는 데 독일의 가스발전소가 필요하면, 그게 베스테로스 가격까지 정한다는 겁니까? (엘린 쪽을 힐끗 본다 — 엘린의 고향이다)
+Sara|C1|Inte direkt, men i praktiken ofta, ja. Så länge det finns ledig kapacitet i kablarna jämnas priserna ut, och då importerar vi kontinentens prisnivå. Det kallas marginalprissättning. Den är effektiv, men den är förbaskat svår att förklara för någon som just har öppnat sin faktura.|직접은 아니지만 실제로는 자주 그렇죠. 케이블에 여유 용량이 있는 한 가격은 평준화되고, 그러면 대륙의 가격 수준을 그대로 수입하는 셈이에요. 그걸 한계가격 결정(marginalprissättning)이라고 해요. 효율적이긴 한데, 방금 고지서를 연 사람한테 설명하기는 지독하게 어렵죠.
+Jonas|B1|Hur många av era kunder hade rörligt pris i vintras?|지난겨울에 고객 중 몇 퍼센트가 변동요금이었어요?
+Sara|B2|Ungefär 78 procent hade rörligt månadspris, tolv procent timpris och bara tio procent fast pris. Med rörligt pris betalar kunden månadens genomsnittliga spotpris plus vårt påslag på 4,9 öre per kilowattimme och en månadsavgift på 45 kronor.|약 78%가 월 변동요금, 12%가 시간별 요금, 고정요금은 10%뿐이었어요. 변동요금이면 고객은 그 달의 평균 현물 가격에 저희 마진(påslag) kWh당 4.9외레, 그리고 월 기본료 45크로나를 내요.
+Elin|B2|Och de med fast pris – hur skyddar ni er själva? Om ni lovar ett pris i två år måste ni ju köpa elen i förväg.|그럼 고정요금 고객은요? 회사는 어떻게 자기를 보호하세요? 2년 동안 가격을 약속하면 전기를 미리 사 둬야 하잖아요.
+Sara|C1|Vi prissäkrar på terminsmarknaden hos Nasdaq – terminer på systempriset och så kallade EPAD-kontrakt för skillnaden mellan systempriset och elområde tre. Problemet i fjol var att börsen krävde allt högre säkerheter. Som mest fick vi ställa nästan fyra gånger så mycket som året innan, och det band upp nästan hela vår kassa.|나스닥 선물시장에서 가격 헤지를 해요. 시스템 가격 선물, 그리고 시스템 가격과 3구역의 차이를 메우는 이른바 EPAD 계약으로요. 작년엔 거래소가 담보를 점점 더 많이 요구한 게 문제였어요. 많을 땐 전년도의 거의 네 배를 맡겨야 했고, 그게 저희 현금을 거의 다 묶어 버렸죠.
+Sofia|A2|Fyra gånger så mycket?|네 배나요?
+Sara|B2|Ja. Vi klarade oss tack vare ett lån från ägarna, men ett par mindre elhandlare gick i konkurs. Inte för att de hade dåliga kunder, utan för att kassan tog slut.|네. 저흰 주주 대출 덕에 버텼지만, 작은 소매업체 몇 곳은 파산했어요. 고객이 나빠서가 아니라 현금이 바닥나서요.
+Jonas|B2|Så vad vill du att vi gör? Styrelsen skriver ”en produktstrategi inför nästa vinter”. Det kan betyda nästan vad som helst.|그래서 저희가 뭘 하길 원하세요? 이사회는 "다음 겨울을 대비한 상품 전략"이라고 써 놨는데, 그건 거의 뭐든 될 수 있잖아요.
+Sara|B2|Jag vill vinna tillbaka kunderna. Mitt förslag heter ”Vinterlöftet”: fast pris på 1,29 kronor per kilowattimme i tolv månader från den första november, och ingen månadsavgift. Vi går ut stort i augusti.|고객을 되찾고 싶어요. 제 안은 '겨울 약속(Vinterlöftet)'이에요. 11월 1일부터 12개월간 kWh당 1.29크로나 고정요금, 월 기본료 없음. 8월에 대대적으로 내보낼 거예요.
+Elin|C1|Då hänger allt på vad det kostar att prissäkra den volymen i dag. Ligger terminspriset för vintern över 1,29 är det ett löfte som ni själva får bekosta – och ju fler kunder som tackar ja, desto större blir förlusten.|그럼 모든 건 그 물량을 지금 헤지하는 데 얼마가 드느냐에 달렸어요. 겨울 선물 가격이 1.29를 넘으면, 그건 회사가 스스로 값을 치러야 하는 약속이에요. 그리고 수락하는 고객이 많을수록 손실도 커지고요.
+Sara|B1|Den ligger runt 1,55 med områdesdifferensen, exklusive moms. Jag vet. Det blir en förlust det första året.|구역 차액까지 넣으면 1.55 정도예요, 부가세 별도로. 알아요. 첫해엔 손실이 나죠.
+Elin|B2|Om femtiotusen hushåll tackar ja och var och en förbrukar niotusen kilowattimmar om året, blir det 26 öre gånger 450 miljoner kilowattimmar – närmare 120 miljoner kronor. Om jag har läst er årsredovisning rätt är det två års rörelseresultat.|5만 가구가 수락하고 가구마다 연 9천 kWh를 쓴다면, 26외레 곱하기 4억 5천만 kWh, 거의 1억 2천만 크로나예요. 제가 연차보고서를 제대로 읽었다면, 영업이익 2년 치고요. (노란 노트에 계산을 적는다)
+Sara|C1|Jag vet hur det låter. Men det kostar oss sex–sjuhundra kronor att värva tillbaka en kund som har lämnat, och varje kund vi förlorar tar med sig flera tusen kronor i framtida marginaler. Gör vi ingenting stort riskerar vi att krympa tills vi är för små för att överleva.|어떻게 들릴지 알아요. 하지만 떠난 고객 한 명을 다시 데려오는 데 600~700크로나가 들고, 잃는 고객 한 명 한 명이 앞으로의 마진 수천 크로나를 들고 나가요. 뭔가 크게 하지 않으면, 살아남기엔 너무 작아질 때까지 쪼그라들 위험이 있어요.
+Jonas|B2|Då föreslår jag att vi börjar i andra änden. Innan vi bestämmer hur ni ska vinna tillbaka kunderna vill jag veta varför de gick – det är frågan bakom frågan. Får vi lyssna på samtal i er kundtjänst?|그럼 반대쪽 끝에서 시작하자고 제안할게요. 고객을 어떻게 되찾을지 정하기 전에, 왜 떠났는지 알고 싶어요. 그게 질문 뒤의 질문이에요. 고객센터 통화를 들어 봐도 될까요? (벽의 바랜 슬로건 "El som du förstår"를 잠깐 바라본다)
+# 장면 2 — 같은 건물 1층, Klarström 고객센터, 오전 11시
+Tove|B1|Här sitter vi. Sextio medarbetare i vintras, fyrtiotvå i dag. Ta på er hörlurarna, så spelar jag upp några samtal från januari.|여기가 저희 자리예요. 지난겨울엔 60명, 지금은 42명이에요. 헤드폰 쓰세요, 1월 통화 몇 개 틀어 드릴게요. (칸막이 책상들. 벽 모니터에 "대기 0통 · 평균 대기 2분")
+Sofia|B1|Hur många samtal fick ni under vintern, ungefär?|겨울 동안 통화가 대략 몇 건이나 왔어요?
+Tove|B2|Från oktober till mars tog vi emot runt 410 000 samtal – mer än tre gånger så många som en normal vinter. Som värst var kötiden sjuttio minuter.|10월부터 3월까지 41만 건쯤 받았어요. 평년 겨울의 세 배가 넘어요. 최악일 땐 대기 시간이 70분이었고요.
+Amir|A2|Sjuttio minuter? Sjukt.|70분이요? 미쳤다. (소피아에게 작게)
+Tove|B1|Ja. Lyssna nu. Det här samtalet spelades in den sextonde januari, mitt i rusningen.|네. 이제 들어 보세요. 이 통화는 1월 16일, 한창 몰릴 때 녹음된 거예요.
+Gösta|A2|Hej. Jag heter Gösta Lind, jag bor i Tumba. Jag förstår inte min faktura.|안녕하세요. 툼바에 사는 예스타 린드인데요. 고지서를 이해 못 하겠어요. (녹음 — 70대 남성의 느린 목소리)
+Hampus|A2|Hej Gösta. Vad är det som är oklart?|안녕하세요, 예스타 님. 어떤 부분이 이해가 안 되세요? (녹음 — 상담원 함푸스)
+Gösta|B1|Elräkningen var på fyra tusen i januari. I december var den på två tusen. Men det har ju varit mildare nu i januari! Hur kan det bli så?|1월 전기요금이 4천 크로나였어요. 12월엔 2천이었고요. 근데 이번 1월은 더 따뜻했잖아요! 어떻게 그럴 수가 있어요?
+Hampus|B1|Fakturan som du fick i januari gäller din förbrukning i december. Och i december var spotpriset väldigt högt.|1월에 받으신 고지서는 12월 사용량에 대한 거예요. 그리고 12월엔 현물 가격이 아주 높았어요.
+Gösta|A2|Men jag betalar väl för januari?|그래도 1월 거를 내는 거 아니에요?
+Hampus|B1|Nej, du betalar i efterskott. Januari kommer på fakturan i februari.|아니요, 후불이세요. 1월 사용분은 2월 고지서에 나와요.
+Gösta|A2|Det har ingen sagt till mig. På trettio år.|그런 말 아무도 안 해 줬어요. 30년 동안.
+Tove|B1|Han hade varit kund hos oss i elva år. Han sa upp avtalet samma eftermiddag.|저희 고객으로 11년 계셨던 분이에요. 그날 오후에 계약을 해지하셨어요. (녹음을 멈춘다)
+Elin|B2|Han var inte ens särskilt arg. Han var förvirrad – och det är en helt annan sak.|화가 난 것도 아니었네요. 혼란스러웠던 거죠. 그건 완전히 다른 문제예요.
+Tove|B1|Precis. Vi trodde att alla ringde för att skälla på oss. Men lyssna på nästa.|맞아요. 저흰 다들 저희한테 따지려고 전화한다고 생각했어요. 근데 다음 거 들어 보세요.
+Kristina|B1|Hej, jag har fått två fakturor, en från er och en från nätbolaget. Vilken av dem är elen? Och var är mitt elstöd? Grannen har redan fått sitt.|안녕하세요, 고지서가 두 장 왔어요. 하나는 거기서, 하나는 배전회사에서요. 어느 게 전기 요금이에요? 그리고 제 전기요금 지원금은 어디 있어요? 옆집은 벌써 받았던데. (녹음 — 30대 여성, 뒤에서 아이가 운다)
+Hampus|B2|Båda gäller el. Vi säljer själva elen, och nätbolaget tar betalt för att den transporteras till ditt hus. Elstödet betalas ut av Försäkringskassan, inte av oss, så det syns inte på någon av fakturorna.|둘 다 전기예요. 저희는 전기 자체를 팔고, 배전회사는 그 전기를 댁까지 실어 나르는 값을 받아요. 지원금은 저희가 아니라 사회보험청(Försäkringskassan)이 지급해서, 어느 고지서에도 안 나와요.
+Kristina|A2|Försäkringskassan? Varför då?|사회보험청이요? 왜요? (토베가 녹음을 멈춘다)
+Sofia|B1|Hon låter inte arg heller. Hon låter som någon som har gått vilse.|이분도 화난 목소리가 아니네요. 길을 잃은 사람 같아요.
+Tove|B2|Det är det vanligaste. Jag lät två medarbetare koda tvåtusen inspelade samtal från januari. I sex av tio sa kunden någon variant av ”jag förstår inte”, medan bara vart femte samtal var riktigt argt.|그게 제일 흔해요. 직원 두 명한테 1월 녹음 통화 2천 건을 분류하게 했거든요. 열 건 중 여섯 건에서 고객이 어떤 식으로든 "이해가 안 된다"고 했고, 정말 화난 통화는 다섯 건 중 한 건뿐이었어요.
+Jonas|B2|Sex av tio. Den siffran hade jag inte väntat mig. Vad gjorde ni med den?|열 중 여섯이라. 그 숫자는 예상 못 했네요. 그걸로 뭘 하셨어요?
+Tove|B2|Ingenting, ärligt talat. Vi hade fullt upp med att svara i telefon. Och Sara tolkar allt som en prisfråga, för det är så hon tänker – hon kommer från tradingen.|솔직히 아무것도요. 전화 받기도 바빴어요. 그리고 사라 대표님은 모든 걸 가격 문제로 해석해요. 원래 그렇게 생각하는 분이거든요. 트레이딩 출신이라.
+Amir|B1|Har ni något samtal med en kund som faktiskt bytte till en konkurrent?|실제로 경쟁사로 옮긴 고객 통화도 있습니까?
+Tove|A2|Ja. Det här. Han ringde för att säga upp sitt avtal.|네. 이거요. 해지하려고 전화한 분이에요.
+Mehdi|B1|Jag har jämfört på nätet. Ett annat bolag lovar fast pris och ingen avgift. Jag vet inte om det är billigare, men då vet jag i alla fall vad det kostar.|인터넷에서 비교해 봤어요. 다른 회사가 고정요금에 기본료 없다고 하더라고요. 그게 더 싼지는 모르겠어요. 그래도 그러면 적어도 얼마 나오는지는 알잖아요. (녹음 — 40대 남성, 차분하다)
+Elin|C1|”Jag vet inte om det är billigare.” Han är alltså beredd att betala mer för att slippa osäkerheten. Det är inte en kund som jagar lägsta pris – det är en kund som vill ha förutsägbarhet.|"그게 더 싼지는 모르겠다." 그러니까 불확실성을 피하려고 돈을 더 낼 각오가 돼 있다는 거예요. 최저가를 쫓는 고객이 아니라, 예측 가능성을 원하는 고객이죠.
+Sofia|C1|Och ingen av dem lämnade er för att medarbetaren var otrevlig. Tvärtom – de lämnade efter att någon hade förklarat allt helt korrekt. Korrekt är uppenbarligen inte detsamma som begripligt.|그리고 상담원이 불친절해서 떠난 사람은 아무도 없어요. 오히려 누군가 모든 걸 완벽하게 정확히 설명해 준 뒤에 떠났죠. 정확하다는 게 이해하기 쉽다는 것과 같지는 않은가 봐요.
+# 장면 3 — Klarström 4층 프로젝트룸, 오후 2시
+Amir|B1|Okej, jag har fått kunddata för alla hushåll sedan 2018. Jag har delat in dem i kohorter – efter när de blev kunder, vilket avtal de har och om de har ringt kundtjänst.|자, 2018년 이후 모든 가정 고객 데이터를 받았어요. 코호트로 나눴어요. 언제 고객이 됐는지, 어떤 계약인지, 고객센터에 전화했는지로요. (노트북을 벽 화면에 연결한다)
+Jonas|A2|Bra. Visa det enkelt.|좋아. 쉽게 보여 줘.
+Amir|B2|Det här är en kohortanalys. Varje rad är en grupp kunder som började samma år, och varje kolumn visar hur stor andel av dem som fortfarande är kvar. Kolla raden för 2021.|이게 코호트 분석이에요. 각 행은 같은 해에 가입한 고객 그룹이고, 각 열은 그중 몇 퍼센트가 아직 남아 있는지 보여 줘요. 2021년 행 보세요.
+Elin|B1|Den rasar i januari. Vad är det som skiljer just de kunderna från de andra?|1월에 폭락하네. 그 고객들은 다른 고객들이랑 뭐가 다른데?
+Amir|B2|De värvades via jämförelsesajter med rabatt det första året. Av dem har 44 procent lämnat. Bland kunder som har varit kvar i mer än fem år är det bara fjorton procent.|가격 비교 사이트에서 첫해 할인으로 데려온 고객들이에요. 그중 44%가 떠났어요. 5년 넘게 남아 있던 고객 중에선 14%뿐이고요.
+Sofia|B1|Så de nya gick först. Det är väl inte så konstigt?|그러니까 신규 고객이 먼저 떠났네. 그건 별로 이상하지 않잖아?
+Amir|B2|Nej, det är väntat. Men nu kommer det intressanta: jag delade också upp alla efter om de hade ringt om fakturan mellan december och februari.|응, 예상대로야. 근데 이제부터가 재밌어. 12월에서 2월 사이에 고지서 때문에 전화했는지로도 다 나눠 봤거든.
+Jonas|A2|Och?|그래서?
+Amir|B2|De som ringde minst en gång lämnade i 46 procent av fallen. De som aldrig ringde: nitton procent. Och nästan alla som gick sa upp avtalet inom tio dagar efter att decemberfakturan hade kommit.|한 번이라도 전화한 고객은 46%가 떠났어요. 한 번도 안 한 고객은 19%. 그리고 떠난 사람 거의 전부가 12월분 고지서가 도착하고 열흘 안에 해지했어요.
+Elin|C1|Vänta. Det kan lika gärna betyda att de som fick de högsta fakturorna både ringde och lämnade. Samtalet behöver inte vara orsaken – det kan vara ett symtom. Korrelation är inte detsamma som kausalitet.|잠깐. 그건 고지서가 제일 많이 나온 사람들이 전화도 하고 떠나기도 했다는 뜻일 수도 있어. 통화가 원인이 아니라 증상일 수도 있다고. 상관관계가 인과관계는 아니니까.
+Amir|B2|Jag tänkte samma sak, så jag jämförde kunder med ungefär samma förbrukning och samma fakturabelopp. Skillnaden finns kvar: de som ringde lämnade ungefär dubbelt så ofta.|저도 같은 생각을 해서, 사용량이랑 청구 금액이 비슷한 고객끼리 비교해 봤어요. 차이는 그대로예요. 전화한 고객이 거의 두 배 더 자주 떠났어요.
+Jonas|B1|Så du har kontrollerat för hur stor fakturan var?|그러니까 고지서 금액 크기를 통제하고 본 거야?
+Amir|B1|Ja. Jag tänkte att någon skulle fråga det, så jag gjorde det före lunch.|네. 누가 물어볼 것 같아서 점심 전에 해 놨어요.
+Elin|B1|Mycket bra. Vart gick de, då?|아주 좋아. 그럼 어디로 갔어?
+Amir|B2|Klarström skickar en enkät till alla som säger upp sitt avtal, och nästan tiotusen har svarat. Jag jämförde de nya elhandlarnas påslag och avgifter i januari med Klarströms. 64 procent gick till ett bolag som var lika dyrt eller dyrare.|Klarström은 해지하는 고객 모두에게 설문을 보내는데, 거의 만 명이 답했어요. 그 사람들이 옮겨 간 회사들의 1월 마진·기본료를 Klarström이랑 비교했더니, 64%가 똑같이 비싸거나 더 비싼 회사로 갔어요.
+Sofia|B1|Så de betalar mer någon annanstans – och är ändå nöjdare?|그러니까 다른 데서 돈을 더 내면서 더 만족한다고?
+Amir|B1|I enkäten var det vanligaste svaret ”Jag vill veta vad jag betalar”. ”Lägre pris” kom först på tredje plats.|설문에서 제일 많은 답이 "내가 얼마 내는지 알고 싶다"였어. "더 싼 가격"은 3위에 그쳤고.
+Jonas|A2|Och vad kom på andra plats?|그럼 2위는?
+Amir|B1|”Fakturan är för krånglig.” Nästan med samma ord som i Toves samtal.|"고지서가 너무 복잡하다." 토베 씨 통화에서 들은 거랑 거의 같은 말이에요.
+Sara|B1|Hur går det? Tove säger att ni har suttit med hörlurar hela förmiddagen.|어떻게 돼 가요? 토베 말이 오전 내내 헤드폰 끼고 계셨다던데. (문을 열고 들어온다. 손에 커피잔)
+Elin|B2|Vi har en preliminär bild, och den stämmer inte riktigt med din. Amir, ta det från början.|잠정적인 그림이 나왔는데, 대표님 생각과는 좀 달라요. 아미르, 처음부터 설명해 드려.
+Amir|B2|Gärna. Av de kunder som har sagt upp sina avtal sedan oktober gick närmare två tredjedelar till en elhandlare som var minst lika dyr som Klarström. Dessutom var risken att lämna dubbelt så hög för dem som hade ringt om fakturan – även när beloppet var detsamma.|네. 10월 이후 계약을 해지한 고객 중 3분의 2 가까이가 Klarström만큼 비싸거나 더 비싼 회사로 갔습니다. 게다가 고지서 때문에 전화한 고객은 금액이 같아도 떠날 위험이 두 배 높았습니다. (고객 앞의 또박또박한 말투로 바뀐다)
+Sara|B2|Det kan inte stämma. Konkurrenterna har ju sänkt priserna hela vintern.|그럴 리가요. 경쟁사들이 겨울 내내 가격을 내렸잖아요.
+Jonas|C1|Några har sänkt priserna, ja. Men det era kunder köpte av dem var inte i första hand ett lägre pris, utan en känsla av kontroll. Ett fast pris är ett pris som man kan förstå – och det är exakt vad ni själva har haft på väggen i tjugo år.|내린 곳도 있죠. 하지만 고객들이 거기서 산 건 일차적으로 더 낮은 가격이 아니라 통제감이었어요. 고정요금은 이해할 수 있는 가격이니까요. 그리고 그건 정확히 대표님 회사가 20년 동안 벽에 붙여 놓은 말이고요. (복도 벽의 "El som du förstår"를 가리킨다)
+Sara|A2|Visa mig siffrorna.|숫자 보여 주세요.
+Amir|B1|Här är enkätsvaren och kohorterna. Alla siffror kommer från era egna system.|여기 설문 응답과 코호트입니다. 숫자는 전부 귀사 시스템에서 나온 겁니다.
+Sara|B2|Låt mig se om jag har förstått. De flesta kunder lämnade oss inte för priset, utan för att de inte förstod fakturan. Och jag har ägnat ett halvår åt att planera en priskampanj.|제가 제대로 이해했는지 볼게요. 대부분의 고객이 가격 때문이 아니라 고지서를 이해하지 못해서 저희를 떠났다. 그런데 저는 반년 동안 가격 캠페인을 준비했고요. (한참 화면을 넘기다가, 천천히)
+# 장면 4 — 쿵스홀멘, 엘린의 집 부엌, 저녁 7시
+Daniel|A2|Hej! Maten är klar om tio minuter. Hur var det i Sundbyberg?|왔어! 밥 10분이면 돼. 순드뷔베리는 어땠어? (마야는 유아용 의자에서 크레용으로 말을 그리고 있다)
+Elin|B2|Bra, tror jag. Vi satt hela dagen och lyssnade på kunder som inte begrep sina elfakturor, och jag tror att vi har hittat något.|좋았던 것 같아. 하루 종일 전기 고지서를 이해 못 하는 고객들 통화를 들었는데, 뭔가 찾은 것 같아.
+Maja|A2|Mamma, titta! En häst.|엄마, 봐! 말이야.
+Elin|A2|Vad fin! Vad heter den?|예쁘다! 이름이 뭐야?
+Maja|A2|Kanelbulle.|시나몬롤.
+Daniel|B1|Apropå fakturor – vår elräkning kom i dag. Den ligger på kylskåpet. Jag har inte vågat öppna den.|고지서 얘기가 나와서 말인데, 우리 전기요금 고지서 오늘 왔어. 냉장고 위에 있어. 무서워서 아직 못 열었어.
+Elin|B1|Ge hit. Det här är ju mitt jobb nu. Det tar två minuter.|이리 줘. 이게 이제 내 일이잖아. 2분이면 돼.
+Daniel|B1|Det säger du alltid. Förra gången du sa två minuter höll vi på med en bokhylla i tre timmar.|맨날 그 소리. 지난번에 2분이라고 했을 때 책장 하나로 세 시간 씨름했잖아. (휴대폰 스톱워치를 켠다)
+Elin|B1|Okej … Här står ”spotpris, månadsmedel”, ”påslag”, ”elcertifikat”, ”fast avgift” … Vänta. Vad är ett påslag?|좋아… 여기 "현물 가격, 월평균", "påslag", "전력 인증서", "고정 요금"… 잠깐. påslag가 뭐지?
+Daniel|B1|Frågar du mig? Du är ju civilekonom. Jag är mattelärare.|나한테 묻는 거야? 경영학 석사는 당신이잖아. 난 수학 선생이고.
+Elin|B2|Jag tror att det är elhandlarens marginal per kilowattimme ovanpå spotpriset. Men det står inte vad det är, bara att det är sex öre. Och varför betalar vi för elcertifikat? Vi har aldrig köpt något certifikat.|전력 소매업체가 현물 가격 위에 kWh당 얹는 마진인 것 같아. 근데 그게 뭔지는 안 쓰여 있고, 6외레라는 것만 있어. 그리고 전력 인증서는 왜 내는 거야? 우리 인증서 같은 거 산 적 없는데.
+Daniel|B2|Och här är en faktura till, från nätbolaget, med energiskatt, elöverföring och en fast nätavgift. Varför i hela friden får vi två?|그리고 여기 한 장 더 있어, 배전회사에서. 에너지세, 송전 요금, 고정 망 사용료. 대체 왜 두 장이 오는 거야?
+Elin|B2|För att elen och elnätet är två olika saker. Man kan välja vem man köper elen av, men inte vem som äger ledningarna hit. Nätet är ett monopol.|전기랑 전력망은 별개니까. 전기를 누구한테 살지는 고를 수 있지만, 여기까지 오는 전선을 누가 소유할지는 못 골라. 전력망은 독점이야.
+Daniel|A2|Nu har det gått fyra minuter.|벌써 4분 지났어.
+Elin|A2|Tyst. Jag räknar.|조용히 해. 계산 중이야. (노란 노트를 꺼내 적기 시작한다. 그러다 자기도 모르게 웃음이 터진다)
+Maja|A2|Mamma räknar!|엄마 계산해!
+Daniel|B1|Det säger hon varje gång du tar fram den gula boken.|당신이 노란 노트 꺼낼 때마다 쟤가 저 말 해.
+Elin|B2|Okej. Vi använde 290 kilowattimmar i december och betalade ungefär elva hundra kronor allt som allt. Av det bestämmer elhandlaren själv bara över ungefär sjuttio kronor – påslaget och avgiften. Resten är spotpris, nät, skatt och moms.|됐어. 우리 12월에 290kWh 쓰고 다 합쳐서 1,100크로나쯤 냈어. 그중에 소매업체가 스스로 정하는 건 70크로나 정도뿐이야. 마진이랑 기본료. 나머지는 현물 가격, 망 요금, 세금, 부가세고.
+Maja|A2|Pappa, var bor elen?|아빠, 전기는 어디 살아?
+Daniel|B1|Långt bort i norr, vid stora älvar. Vi bor i elområde tre, så vi betalar mer än de i norr.|저 멀리 북쪽, 큰 강가에 살아. 우린 3구역에 살아서 북쪽 사람들보다 더 내. (마야에게 말하다가 뒷말은 엘린을 보며)
+Elin|B2|Fast det stämmer bara när ledningarna söderut är fulla. Vissa timmar kostar elen lika mycket i Luleå som här. Och det står ingenstans på fakturan.|근데 그건 남쪽으로 가는 송전선이 꽉 찼을 때만 맞아. 어떤 시간엔 룰레오나 여기나 전기값이 똑같아. 그리고 그런 건 고지서 어디에도 안 쓰여 있고.
+Daniel|C1|Det är rätt avslöjande, faktiskt. En civilekonom som räknar på miljardbolag om dagarna behöver en kvart och en anteckningsbok för att tyda sin egen elräkning.|꽤 시사적인데, 사실. 낮엔 수십억짜리 회사를 계산하는 경영학 석사가, 자기 집 전기 고지서 하나 해독하는 데 15분이랑 노트 한 권이 필요하다니. (스톱워치를 멈춘다. 14분 52초)
+Elin|C1|Du har rätt, och det är kanske hela poängen. Om problemet inte är priset utan att ingen begriper fakturan, då är det inte en rabatt för hundratjugo miljoner som Klarström behöver, utan en faktura som en trött förälder kan läsa klockan sju en tisdagskväll.|당신 말이 맞아. 어쩌면 그게 핵심일지도. 문제가 가격이 아니라 아무도 고지서를 못 알아본다는 거라면, Klarström에 필요한 건 1억 2천만짜리 할인이 아니라, 지친 부모가 화요일 저녁 7시에 읽을 수 있는 고지서야. (웃음을 그치고 노트에 크게 쓴다. "BEGRIPLIGHET")
+# 장면 5 — 다음 날, Norrström 회의실 "Strömmen", 5월 3일 수요일 오전 8시 반
+Amir|B1|God morgon! Jag köpte kanelbullar på vägen. Och jag svarade äntligen Simon i går kväll.|좋은 아침이에요! 오는 길에 시나몬롤 사 왔어요. 그리고 어젯밤에 드디어 시몬한테 답장했어요.
+Sofia|A2|Vad skrev du?|뭐라고 썼어?
+Amir|B1|”Jag kan inte prata om jobbet. Men jag finns här.” Han skickade en tumme upp. Det är väl ett bra tecken?|"일 얘기는 못 해. 그래도 난 여기 있어." 엄지척 보내더라. 좋은 신호겠지?
+Jonas|B1|Det är en början. Okej – Elin, du skrev i natt att du hade en ny hypotes.|시작은 된 거지. 자, 엘린. 어젯밤에 새 가설이 있다고 문자 보냈잖아.
+Elin|B2|Den kom vid köksbordet. Jag är civilekonom, och jag behövde en kvart och min gula anteckningsbok för att förstå vår egen elräkning. Daniel tog tid.|부엌 식탁에서 나왔어. 나 경영학 석사인데, 우리 집 전기 고지서 이해하는 데 15분이랑 노란 노트가 필요했어. 다니엘이 시간 쟀고.
+Sofia|B2|Så hypotesen är att Klarström inte har ett prisproblem, utan ett begriplighetsproblem?|그러니까 가설은 Klarström의 문제가 가격이 아니라 이해 가능성이라는 거네?
+Jonas|C1|Ja, och den är farligare för oss än för dem. Sara köpte våra siffror i går, men hon har redan sålt in Vinterlöftet hos halva styrelsen. Om vi ska få dem att byta spår räcker det inte att ha rätt – vi måste kunna visa det.|응. 그리고 그 가설은 저쪽보다 우리한테 더 위험해. 사라는 어제 우리 숫자를 받아들였지만, '겨울 약속'은 이미 이사회 절반한테 팔아 놨어. 그 사람들 방향을 바꾸게 하려면 옳은 것만으론 부족해. 보여 줄 수 있어야 해.
+Amir|B2|Då testar vi det. Vi skickar en ny, enkel faktura till tiotusen slumpvis utvalda kunder i juni och jämför med en kontrollgrupp: samtal till kundtjänst, uppsägningar och nöjdhet.|그럼 테스트해요. 6월에 무작위로 뽑은 고객 만 명한테 새로 만든 간단한 고지서를 보내고 대조군이랑 비교하는 거예요. 고객센터 통화, 해지, 만족도로요.
+Elin|C1|Och parallellt räknar vi på vad en begriplig produkt skulle kosta: ett fast pris som faktiskt går att prissäkra, en faktura på en enda sida och ett sms när timpriset drar iväg. Gissningsvis en bråkdel av Vinterlöftet – och utan att binda upp kassan.|그리고 동시에 이해하기 쉬운 상품의 비용을 계산하는 거야. 실제로 헤지 가능한 고정요금, 딱 한 장짜리 고지서, 시간별 가격이 치솟으면 보내는 문자. 짐작건대 '겨울 약속'의 몇 분의 일이고, 현금도 묶이지 않아.
+Sara|B2|God morgon. Tove skickade mig era anteckningar i går kväll, och jag har läst dem två gånger – en gång som vd och en gång som kund.|좋은 아침이에요. 토베가 어젯밤에 메모를 보내 줘서 두 번 읽었어요. 한 번은 CEO로, 한 번은 고객으로. (화상회의 화면 속 사라. 순드뷔베리의 사무실)
+Jonas|C1|Då vet du redan vad vi tänker säga till styrelsen. I en marknad där priset ändras varje timme blir begriplighet en konkurrensfördel.|그럼 저희가 이사회에 뭐라고 할지 이미 아시겠네요. 가격이 매시간 바뀌는 시장에서는, 이해하기 쉽다는 것 자체가 경쟁우위가 됩니다.
+Sara|C1|Jag köper halva. Jag vill se ert test innan jag river upp Vinterlöftet. Men det finns en sak till som styrelsen vill att ni tittar på, och den handlar inte om hushållen. Industrin i norr – stålverk, batterifabriker, serverhallar – vill teckna elavtal på tio, femton år, och någon kommer att sälja den elen till dem. Frågan är om det ska vara vi.|절반은 받아들일게요. '겨울 약속'을 접기 전에 테스트를 보고 싶어요. 그런데 이사회가 봐 달라는 게 하나 더 있어요. 가정 고객 얘기가 아니에요. 북쪽 산업체들, 제철소, 배터리 공장, 데이터센터가 10년, 15년짜리 전력 계약을 맺으려고 해요. 누군가는 그 전기를 팔 거고요. 문제는 그게 저희여야 하느냐죠.
+Amir|B1|Ni menar långa elavtal med industrin, så kallade PPA:er? Det kan vi börja modellera här.|산업체와의 장기 전력 계약, 이른바 PPA 말씀이시죠? 그건 여기서 모델링부터 시작할 수 있습니다.
+Elin|B2|Vi har redan data om nätkapacitet, förbrukningsprognoser och vilka projekt som har fått tillstånd. Vi kan ha en första marknadsmodell klar om två veckor.|송전망 용량, 수요 전망, 인허가 받은 프로젝트 데이터는 이미 있어요. 2주면 첫 시장 모델을 만들 수 있어요.
+Sara|B1|Nej. Om ni vill förstå elen måste ni åka dit den kommer ifrån. Norrut.|아뇨. 전기를 이해하고 싶으면 전기가 오는 곳으로 가 봐야 해요. 북쪽으로. (화면이 꺼진다. 요나스가 창밖의 노르스트룀 강을 오래 바라본다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Elräkningen var på fyra tusen i januari.** | 1월 전기요금이 4천 크로나였어. | *vara på* + 금액 = (청구서·금액이) ~이다. *räkningen var på 500 kronor*. *elräkning* = *el* + *räkning*(청구서) 합성어 |
+| `A2` | **Det har ingen sagt till mig.** | 그런 말 아무도 안 해 줬어요. | 목적어 *det* 를 문두에 두면 V2에 따라 *har* 가 둘째 자리, 주어 *ingen* 은 그 뒤. *säga till någon* = ~에게 말해 주다 |
+| `B1` | **Vi bor i elområde tre, så vi betalar mer än de i norr.** | 우린 3구역에 살아서 북쪽 사람들보다 더 내. | *så* (그래서) 뒤는 평서 어순 그대로(*så vi betalar*). *de i norr* = 북쪽 사람들. 서수가 아니라 기수로 *elområde tre* |
+| `B1` | **Du betalar i efterskott.** | 후불이세요. | *i efterskott* = 사후에(후불로) ↔ *i förskott* = 미리(선불로). 스웨덴 전기·통신 요금은 대부분 후불 |
+| `B1` | **Vad är ett påslag?** | påslag가 뭐지? | *ett påslag* = 가산금·마진(*slå på* '얹다'에서). 전기요금에선 소매업체가 현물 가격 위에 kWh당 붙이는 금액 |
+| `B2` | **De flesta kunder lämnade oss inte för priset, utan för att de inte förstod fakturan.** | 대부분의 고객이 가격 때문이 아니라 고지서를 이해하지 못해서 떠났어요. | *inte A, utan B* = A가 아니라 B. 앞은 명사구 *för priset*, 뒤는 절 *för att de …* 로 바뀌는 것에 주의. *de flesta* + 미지정 복수(*kunder*) |
+| `B2` | **Varför i hela friden får vi två?** | 대체 왜 두 장이 오는 거야? | *i hela friden* = 대체, 도대체(놀람·짜증을 담은 강조). 비슷한 말 *i all världen* |
+| `B2` | **Samtalet behöver inte vara orsaken – det kan vara ett symtom.** | 통화가 원인이 아니라 증상일 수도 있어. | *behöver inte* = ~일 필요는 없다(꼭 ~인 건 아니다). 엘린은 이어 *Korrelation är inte detsamma som kausalitet.* 로 상관과 인과를 구분 |
+| `C1` | **I en marknad där priset ändras varje timme blir begriplighet en konkurrensfördel.** | 가격이 매시간 바뀌는 시장에서는, 이해하기 쉽다는 것 자체가 경쟁우위가 됩니다. | 장소 부사구가 길게 앞에 나와도 V2 유지(*… blir begriplighet*). *begriplighet* = 이해 가능성(*begriplig* + *-het*) |
+| `C1` | **Ligger terminspriset för vintern över 1,29 är det ett löfte som ni själva får bekosta.** | 겨울 선물 가격이 1.29를 넘으면, 그건 회사가 스스로 값을 치러야 하는 약속이에요. | *om* 없이 동사를 앞세운 조건절(*Ligger …* = *Om … ligger*) — 문어·격식체에서 흔하다. *bekosta* = 비용을 대다 |
+
+## 현안 메모
+- **네 개의 전력 가격구역(elområde)** — 스웨덴은 **2011년 11월 1일**부터 전력 도매시장을 북쪽에서 남쪽으로 1구역(룰레오), 2구역(순스발), 3구역(스톡홀름), 4구역(말뫼)으로 나눴다. 수력발전은 주로 북부에, 소비는 남부에 몰려 있는데 남북을 잇는 기간 송전망(stamnätet)의 용량이 모자라기 때문이다. 송전선에 여유가 있을 때는 구역 가격이 같아지고, 막히면(병목, flaskhals) 남부 가격이 크게 오른다. 남부는 덴마크·독일·폴란드·발트 3국과 연결돼 있어 대륙의 가격 수준을 더 쉽게 받아들인다.
+- **2022~23년 겨울의 전기요금 쇼크** — 러시아의 우크라이나 침공 이후 유럽행 가스 공급이 줄면서 대륙의 전기 도매가격이 치솟았고, 그 영향이 스웨덴 남부(3·4구역)로 번졌다. 2022년 늦여름과 12월에는 남부 구역의 월평균 현물 가격이 kWh당 2크로나를 넘나들 만큼 올랐고, 일부 원자로의 정비·고장 정지가 겹쳤다. 월 변동요금 계약 고객은 한 달 늦게 오는 고지서로 충격을 받았다. 같은 시기 선물시장의 담보 요구가 급증해 전력회사들의 유동성 문제가 불거졌다.
+- **전기요금 지원금(elstöd)** — 정부는 높은 전기요금에 대한 보상으로 가계 지원금을 결정했고, 2023년 2월 사회보험청(**Försäkringskassan**)이 3·4구역 가구에 과거 사용량을 기준으로 자동 지급했다. 재원은 국가 송전망 운영자 Svenska kraftnät가 구역 간 가격차로 얻는 혼잡 수입(**flaskhalsintäkter**)이었다. 지원금이 전력회사 고지서가 아닌 별도 경로로 들어왔기 때문에, 극 중 크리스티나처럼 "내 지원금은 어디 있냐"며 전력회사에 전화하는 혼란도 생겼다.
+- **두 장의 고지서** — 스웨덴 가정은 전기를 사는 **전력 판매사(elhandlare)** 는 자유롭게 고를 수 있지만, 집까지 전기를 보내는 **배전망 회사(elnätsbolag)** 는 지역 독점이라 고를 수 없다(에너지시장감독청 Energimarknadsinspektionen이 요금을 감독). 그래서 고지서가 보통 두 장이다. 판매사 쪽엔 현물 가격·마진(påslag)·전력 인증서(elcertifikat) 비용·월 기본료가, 배전 쪽엔 고정 망 사용료·송전 요금·에너지세가 붙고, 양쪽 모두 부가세 25%가 더해진다. 극 중 Klarström·모든 숫자와 인물은 가상이다.
+
+## 비즈니스 메모
+- **코호트 분석(kohortanalys)** — 고객을 '같은 시점에 같은 조건으로 시작한 집단'으로 묶어, 시간이 지나며 얼마나 남는지(잔존율)를 행·열 표로 비교한다. 이탈률 평균 하나로는 보이지 않는 차이(할인으로 데려온 2021년 신규 고객 44% vs 5년 이상 고객 14%)가 드러난다. 핵심은 엘린의 질문처럼 **상관을 인과로 착각하지 않는 것** — 고지서 금액 같은 교란 변수를 통제하고(비슷한 금액끼리 비교), 해지 설문으로 '왜'를 듣고, 마지막엔 무작위 대조 테스트(새 고지서 1만 명 vs 대조군)로 가설을 검증한다.
+- **가격 가설 vs 이해 가능성 가설** — 고객이 떠나면 경영진은 흔히 가격부터 내린다. 그러나 떠난 고객의 64%가 같은 값이거나 더 비싼 곳으로 갔다면, 그들이 산 것은 '싼 전기'가 아니라 '예측 가능한 전기'다. 할인(1억 2천만 크로나)보다 한 장짜리 고지서와 헤지 가능한 고정요금이 더 싸고 더 효과적일 수 있다.
+
+## 다음 화 예고 — Norrut
+2023년 5월 22일 월요일, 룰레오 공항. 사라의 한마디에 팀은 정말로 북쪽으로 날아간다. Klarström이 북부 산업체를 상대로 한 장기 전력계약(PPA) 사업에 뛰어들어야 하는지 직접 확인하기 위해서다. 보덴의 화석연료 없는 철강 공장 건설 현장은 상상보다 거대하지만, 시청 공무원은 고개를 젓는다. "Företagen hittar ingenjörer, men ingenjörerna hittar ingen bostad." 그리고 요나스는 일정에 없던 길로 렌터카를 몬다 — 도시 전체가 옮겨 가고 있는 고향 키루나, 철거된 옛 동네, 옛 하키 친구 토미, 그리고 어머니 잉리드의 부엌으로. "Här låg mitt gamla hus."
