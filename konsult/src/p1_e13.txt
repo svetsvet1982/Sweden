@@ -1,0 +1,161 @@
+@title 1부 13화 — Bruket
+@subtitle (공장)
+@meta 날짜|2023년 8월 14일 월요일, 오전 6시 45분 ~ 밤 10시 반 (여름휴가가 끝난 첫날)
+@meta 장소|E18·66번 국도 위 렌터카 → 할셰 Hallberg Bruk 본관 3층 회의실 (창밖으로 정문의 쇠망치 동상) → 단조장·가공동 4번 홀 → 호숫가의 할베리 저택(herrgården) → 할셰 여관 Hallsjö Gästgivaregård 1층 라운지
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 41, 프린시플) · **Elin Bergqvist** (엘린 베리크비스트, 34, 시니어 매니저) · **Amir Nouri** (아미르 누리, 27, 애널리스트) · **Sofia Mäkinen** (소피아 매키넨, 30, 변화관리 컨설턴트) · **Peter Hallberg** (페테르 할베리, 46, Hallberg Bruk CEO) · **Kjell Wiberg** (셸 비베리, 61, 공장장 platschef) · **Leif Mattsson** (레이프 마트손, 63, 4번 라인 CNC 선반공) · **Margareta "Greta" Hallberg** (마르가레타 "그레타" 할베리, 72, 4대째 오너·이사회 의장)
+@meta 이번 화의 도구|수주 잔고(orderstock)·고객 집중도 분석 — 매출을 고객별로 쪼개 한 고객에 얼마나 기대고 있는지 보고(최대 고객 27%, 내연기관 관련 40%), 수주 잔고를 고객별·납기 연도별로 펼쳐 "고객이 실제로 약속한 미래"가 어디서 끝나는지 확인한다. 과거의 예측 기간·계약 만기·견적 요청(RFQ) 시점과 비교하면 '일시적 둔화'와 '떠나는 고객'이 구별된다
+@meta 스웨덴 현안|자동차·트럭 산업의 전동화 — EU의 2035년 신차 무배출 규정과 대형 트럭 CO2 감축안(2023년 2월 제안)으로 크랭크축·변속기 같은 내연기관 부품 수요가 줄어든다 · 기준금리 3.75%·크로나 약세·전기와 원자재 비용 상승 · 베리슬라겐 공장 도시(bruksort)의 역사 — 철강 위기 이후에도 마을 전체가 회사 하나에 기대어 산다
+@intro **지난 이야기** — Klarström 이사회는 "답을 달라"고 했지만, 엘린과 요나스는 불확실성을 권고안에 담았다. 풍력단지에는 600만 크로나짜리 옵션, 원전 컨소시엄에는 옵서버 자리, 나머지는 완충 자금. 엘린은 헨리크의 이해충돌을 이사회 전에 고객에게 직접 털어놓았고, 군닐라는 "5월에 말했어야 할 사람은 나였다"고 인정했다. 하지 전 강변 피카에서 엘린은 10월부터 석 달 육아휴직을 선언했다 — 그 순간 군닐라의 전화. "베리슬라겐의 한 가문. 150년 된 공장. 그리고 그들은 시간이 다 떨어졌어."
+@intro 8월 14일 월요일, 여름휴가가 끝난 첫날. 네 사람은 새벽에 렌터카를 타고 서쪽으로 향한다. 목적지는 인구 1만 1천 명의 공장 도시 할셰(Hallsjö), 그리고 1871년 대장장이 안데르스 할베리가 호숫가에 세운 Hallberg Bruk — 직원 약 900명, 연 매출 31억 크로나, 영업이익률은 2.1%까지 떨어졌다. CEO 페테르 할베리는 컨설턴트가 필요 없다고 하고, 그를 건너뛰어 팀을 부른 사람은 그의 어머니이자 이사회 의장인 그레타다. 오늘 하루는 질문을 모으는 날이다. 그런데 질문은 생각보다 빨리 답을 내놓는다.
+# 장면 1 — E18에서 66번 국도로, 렌터카 안, 오전 6시 45분
+Sofia|A2|Vem vill ha en kanelbulle? Jag köpte sex stycken.|시나몬롤 먹을 사람? 여섯 개 샀어. (렌터카 뒷좌석에서 종이봉투를 흔든다. 운전은 요나스, 조수석엔 엘린)
+Jonas|A2|Jag tar en. Jag kör, så jag behöver socker.|나 하나. 운전하니까 당이 필요해.
+Amir|B2|Asså, hur långt är det kvar? Jag har redan läst allt som går att hitta om Hallberg, inklusive årsredovisningarna för de senaste tio åren.|그러니까, 얼마나 남았어요? 할베리에 대해 찾을 수 있는 건 벌써 다 읽었어요. 최근 10년 치 연차보고서까지요.
+Elin|B1|Två timmar, ungefär. Vi tar E18 till Västerås och sedan väg 66 norrut in i Bergslagen.|두 시간쯤. E18로 베스테로스까지 가서, 66번 국도로 북쪽, 베리슬라겐으로 들어가.
+Sofia|B1|Västerås – är det inte där du har vuxit upp, Elin?|베스테로스면 엘린이 자란 데 아니야?
+Elin|B2|Jo. Pappa var verkstadsarbetare i trettio år, så hela min barndom handlade om vilka fabriker som skulle läggas ner härnäst.|맞아. 아빠가 30년 동안 공장 노동자였어. 그래서 어릴 때 내내 다음엔 어느 공장이 문 닫느냐는 얘기뿐이었지.
+Amir|B1|Vad är Bergslagen egentligen? Är det ett landskap?|베리슬라겐이 정확히 뭐예요? 지방 이름이에요?
+Elin|B2|Nej, det är varken ett län eller ett landskap. Det är ett område där man har brutit malm och gjort järn sedan medeltiden – delar av Västmanland, Örebro län och Dalarna.|아니, 주(län)도 지방(landskap)도 아니야. 중세부터 광석을 캐고 철을 만들던 지역이야. 베스트만란드, 외레브로주, 달라르나에 걸쳐 있어.
+Jonas|C1|Och överallt låg ett bruk: en masugn vid forsen, en herrgård där brukspatronen bodde och en bruksgata med arbetarbostäder. Orten fanns till för företaget – inte tvärtom.|그리고 곳곳에 '브룩(bruk)'이 있었지. 급류 옆 용광로, 공장주가 사는 저택, 노동자 주택이 늘어선 공장 거리. 마을이 회사를 위해 존재했던 거야. 그 반대가 아니라.
+Amir|B1|Lite som Kiruna, där hela staden byggdes kring gruvan?|도시 전체가 광산을 중심으로 지어진 키루나랑 좀 비슷하네요?
+Jonas|B1|Precis som Kiruna. Om bruket går bra, går orten bra. Om bruket hostar, får hela orten feber.|키루나랑 똑같지. 공장이 잘 되면 마을도 잘 되고, 공장이 기침하면 마을 전체가 열이 나.
+Sofia|B2|Och på sjuttiotalet hostade hela Bergslagen. Mammas kusiner kom hit från Finland för jobbens skull, och tio år senare fick de leta efter nya.|그리고 70년대엔 베리슬라겐 전체가 기침을 했지. 엄마 사촌들이 일자리 때문에 핀란드에서 이리로 왔는데, 10년 뒤엔 새 일자리를 찾아야 했대.
+Elin|C1|Stålkrisen. När staten 1978 slog ihop de stora stålverken till SSAB var det i praktiken ett erkännande av att branschen inte längre kunde bära sig själv, och sedan stängdes gruvor och bruk på löpande band. Gruvan i Grängesberg lades ner 1989.|철강 위기. 1978년에 국가가 큰 제철소들을 합쳐 SSAB를 만든 건, 사실상 업계가 더는 혼자 버틸 수 없다고 인정한 거였어. 그다음엔 광산과 공장이 줄줄이 문을 닫았고. 그렝에스베리 광산은 1989년에 폐쇄됐어.
+Amir|B1|Men Hallberg överlevde. Varför?|그런데 할베리는 살아남았잖아요. 왜요?
+Jonas|B2|Det är en av frågorna vi ska ställa i dag. Gunilla säger att de slutade göra järn redan på sextiotalet och började smida och bearbeta detaljer i stället.|그게 오늘 우리가 던질 질문 중 하나야. 군닐라 말로는 60년대에 이미 철 만드는 걸 그만두고, 대신 부품을 단조하고 가공하기 시작했대.
+Sofia|A2|Elin, du är så tyst. Är allt bra?|엘린, 너무 조용하다. 괜찮아?
+Elin|B2|Jag har fortfarande inte pratat med Gunilla om oktober. Hon har varit på semester i fyra veckor, och jag ville inte ta det över telefon.|아직도 10월 일로 군닐라랑 얘기 못 했어. 4주 동안 휴가였고, 전화로 꺼내고 싶진 않았거든.
+Jonas|B1|Projektet tar ungefär sex veckor. Du hinner bli klar innan föräldraledigheten börjar.|프로젝트는 6주 정도야. 육아휴직 시작 전에 충분히 끝나.
+Elin|B2|Det har jag hört förut. Från mig själv, faktiskt – varje gång.|그 말 예전에도 들었어. 사실은 나 자신한테서. 매번.
+Amir|A2|Titta! Vad är det där?|저기 봐요! 저건 뭐예요? (창밖, 자작나무 숲 사이로 이끼 낀 돌탑)
+Jonas|B1|En gammal masugn. Här finns det hundratals sådana – de flesta har inte varit tända på över hundra år.|옛 용광로야. 여기엔 저런 게 수백 개 있어. 대부분 백 년 넘게 불을 피운 적이 없지.
+Sofia|A2|Sista kanelbullen? Ingen? Då tar jag den.|마지막 시나몬롤? 아무도? 그럼 내가 먹는다. (규칙 ③ — 다음 피카는 소피아 차례)
+# 장면 2 — Hallberg Bruk 본관 3층 회의실, 오전 9시 반
+Peter|B2|Välkomna till Hallsjö. Jag ska vara ärlig från början: det var inte jag som ville att ni skulle komma hit.|할셰에 오신 걸 환영합니다. 처음부터 솔직히 말씀드리죠. 여러분이 여기 오길 원한 건 제가 아니었습니다. (짙은 남색 재킷, 넥타이 없음. 창밖으로 정문의 쇠망치 동상)
+Jonas|B1|Det vet vi. Tack för att du tar emot oss ändå.|알고 있습니다. 그래도 맞아 주셔서 감사합니다.
+Peter|C1|Min mor tror att vi befinner oss i en kris. Det vi ser är en tillfällig efterfrågedämpning som drabbar hela fordonsbranschen – kunderna byggde helt enkelt upp för stora lager under pandemin och betar nu av dem.|어머니는 우리가 위기에 처해 있다고 생각하세요. 지금 보이는 건 자동차 업계 전체를 덮친 일시적인 수요 둔화입니다. 고객사들이 팬데믹 동안 재고를 너무 많이 쌓아 뒀다가 지금 그걸 소진하고 있는 것뿐이에요.
+Elin|B1|Hur mycket har orderingången minskat i år?|올해 수주는 얼마나 줄었나요?
+Peter|B2|Fjorton procent under första halvåret. Men vi har sett liknande dippar förut, och de har alltid vänt inom ett år.|상반기에 14%요. 하지만 비슷한 하락은 전에도 겪었고, 늘 1년 안에 반등했습니다.
+Amir|B2|Vet ni hur stor del av minskningen som kommer från kunderna inom fordon och hur mycket som kommer från gruvutrustning och hydraulik?|감소분 중 얼마가 자동차 쪽 고객에서 오고, 얼마가 광산장비·유압 쪽에서 오는지 아세요?
+Peter|B2|Den uppdelningen har vi inte gjort. Vi tittar på helheten. Hydrauliken går för övrigt riktigt bra – skogsmaskiner, byggmaskiner.|그렇게 나눠 보진 않았습니다. 전체를 보니까요. 그나저나 유압 쪽은 꽤 잘 됩니다. 임업 기계, 건설 기계.
+Jonas|B1|Hur länge har Rheinfeld varit er kund?|라인펠트는 얼마나 오래된 고객인가요?
+Peter|B2|Sedan 1994. Vi gör vevaxlar och kugghjulsämnen till deras lastbilsmotorer och växellådor. De är vår största kund, ungefär en fjärdedel av omsättningen.|1994년부터요. 그쪽 트럭 엔진과 변속기에 들어가는 크랭크축과 기어 소재를 만듭니다. 최대 고객이고, 매출의 4분의 1 정도예요.
+Elin|B1|Tjugosju procent i fjol, enligt årsredovisningen. Det är 840 miljoner av 3,1 miljarder.|연차보고서로는 작년에 27%예요. 31억 중 8억 4천만이죠. (노란 노트를 펼친다)
+Peter|A2|Ungefär, ja.|대략 그렇죠.
+Sofia|B1|Och de andra kunderna inom fordon?|그럼 자동차 쪽 다른 고객들은요?
+Peter|B1|En tysk biltillverkare och en motortillverkare. Tillsammans ungefär tretton procent.|독일 완성차 업체 한 곳, 엔진 제조사 한 곳이요. 합쳐서 13% 정도입니다.
+Amir|B2|Så fyrtio procent av omsättningen hänger alltså på förbränningsmotorn.|그러니까 매출의 40%가 내연기관에 달려 있는 거네요.
+Peter|B2|Fyrtio procent som har varit stabila i trettio år. Jag förstår inte riktigt vad ni vill säga.|30년 동안 안정적이었던 40%죠. 무슨 말씀을 하시려는 건지 잘 모르겠네요.
+Jonas|C1|Vi vill inte säga någonting ännu. Men alla tre kunderna har offentligt sagt att de ska elektrifiera, och en elmotor har varken vevaxel eller en växellåda med tolv växlar.|아직 아무 말도 하려는 게 아닙니다. 다만 그 세 고객 모두 전동화하겠다고 공개적으로 밝혔고, 전기 모터엔 크랭크축도 12단 변속기도 없죠.
+Peter|B2|Elektrifieringen av tunga lastbilar kommer att ta decennier. Batterierna är för tunga och laddinfrastrukturen finns inte. Diesel kommer att finnas kvar länge.|대형 트럭 전동화는 수십 년이 걸릴 겁니다. 배터리는 너무 무겁고 충전 인프라는 없어요. 디젤은 오래 남을 겁니다.
+Elin|C1|Kanske. Men EU-kommissionen föreslog i februari att utsläppen från nya tunga lastbilar ska minska med 45 procent till 2030 och med 90 procent till 2040. Era kunder planerar efter det förslaget, oavsett vad någon av oss tror om batterier.|그럴 수도요. 하지만 EU 집행위원회는 2월에, 신규 대형 트럭 배출량을 2030년까지 45%, 2040년까지 90% 줄이자고 제안했어요. 고객사들은 배터리에 대해 우리 중 누가 어떻게 생각하든 그 제안에 맞춰 계획을 세웁니다.
+Peter|C1|Jag har förhandlat med Rheinfeld i femton år, och jag hade gärna sett att min mor frågade mig innan hon anlitade konsulter från Stockholm för att tala om för mig vad min egen kund planerar.|저는 15년 동안 라인펠트와 협상해 왔습니다. 어머니가 스톡홀름 컨설턴트를 불러 제 고객이 뭘 계획하는지 저한테 알려 주게 하기 전에, 저한테 먼저 물어봐 주셨으면 좋았겠네요.
+Sofia|B1|Hur menar du då? Känner du dig överkörd?|무슨 뜻이세요? 무시당했다고 느끼세요?
+Peter|B1|Jag menar att jag är vd här. Inte ni.|제가 여기 대표라는 뜻입니다. 여러분이 아니라.
+Jonas|B2|Det är helt riktigt. Vi fattar inga beslut. Men du ska inte behöva läsa något om ditt eget bolag i en rapport som du inte har fått se först.|전적으로 맞는 말씀입니다. 저희는 아무 결정도 하지 않습니다. 그리고 대표님이 먼저 보지 못한 보고서에서 자기 회사 얘기를 읽게 되는 일은 없을 겁니다.
+Amir|B2|För att kunna göra det behöver vi orderstocken uppdelad per kund och leveransår – helst orderraderna direkt ur affärssystemet, inte en sammanställning.|그러려면 고객별·납기 연도별로 나눈 수주 잔고가 필요합니다. 가능하면 요약표 말고 ERP 시스템에서 바로 뽑은 주문 행 데이터로요.
+Peter|B2|Åsa på ekonomi kan ta fram en sammanställning. Rådata är bara brus – ni kommer att dra fel slutsatser.|재무팀 오사가 요약표를 뽑아 드릴 수 있어요. 원데이터는 그냥 소음입니다. 잘못된 결론을 내리실 거예요.
+Elin|C1|En sammanställning är alltid någons tolkning. Om vi ska kunna stå för våra slutsatser inför styrelsen, måste vi kunna visa hur vi kom fram till dem – rad för rad.|요약표는 언제나 누군가의 해석이에요. 이사회 앞에서 저희 결론을 책임지려면, 어떻게 그 결론에 이르렀는지 한 줄 한 줄 보여 드릴 수 있어야 합니다.
+Peter|A2|Rad för rad. Visst.|한 줄 한 줄이라. 그러시죠. (어깨를 으쓱한다)
+Jonas|B1|När skickade Rheinfeld sin senaste offertförfrågan?|라인펠트가 마지막으로 견적 요청서(RFQ)를 보낸 게 언제였죠?
+Peter|B2|För den nuvarande motorgenerationen kom den 2016, alltså tre år innan serieproduktionen drog i gång.|현재 엔진 세대 건이라면 2016년에 왔습니다. 양산이 시작되기 3년 전이었죠.
+Elin|B2|Och ert ramavtal med dem löper ut i slutet av 2026. Borde inte förfrågan för nästa generation ha kommit vid det här laget?|그리고 그쪽과의 기본 공급계약(ramavtal)은 2026년 말에 끝나죠. 다음 세대 견적 요청이 지금쯤은 왔어야 하지 않나요?
+Peter|C1|Den kommer. De har genomgått en omorganisation. Dessutom fick styrelsen en fullständig genomgång i juni, och där framgick det tydligt att marginalerna kommer att stabiliseras redan under hösten.|올 겁니다. 그쪽이 조직 개편을 겪었거든요. 게다가 6월에 이사회가 전체 보고를 받았고, 거기서 마진이 이번 가을이면 안정된다는 게 분명히 드러났습니다.
+Elin|B1|Då vill vi gärna se materialet från juni också.|그럼 6월 자료도 꼭 보고 싶네요. (노트에 "juni" 라고 적고 밑줄을 긋는다)
+Peter|B1|Kjell, vår platschef, visar er runt i eftermiddag och kan ta fram leveransplanerna. Själv har jag ett möte i Västerås.|오후엔 공장장 셸이 안내해 드리고 납품 계획표도 뽑아 드릴 겁니다. 저는 베스테로스에서 회의가 있어서요.
+Jonas|B2|Tack, Peter. En sista fråga bara: vad skulle få dig att ändra uppfattning?|고마워요, 페테르 대표님. 마지막으로 하나만요. 무엇이 대표님 생각을 바꿀 수 있을까요?
+Peter|B1|Riktiga siffror. Inte bilder från någon som har varit här i tre timmar.|진짜 숫자요. 여기 온 지 세 시간 된 사람의 슬라이드 말고요. (일어서며 휴대폰을 집어 든다)
+# 장면 3 — 단조장 입구에서 가공동 4번 홀로, 오후 2시 40분
+Kjell|A2|Hörselskydd och skyddsglasögon, tack. I smedjan är det högt.|귀마개랑 보안경 부탁해요. 단조장은 시끄러워요. (흰 안전모, 작업복 가슴에 "Kjell — Platschef")
+Amir|A2|Var är masugnen?|용광로는 어디 있어요?
+Kjell|B1|Den släcktes 1962. I dag köper vi stålet och formar det. Smedjan är där borta, och här i hall fyra bearbetar vi detaljerna.|1962년에 불을 껐어요. 지금은 강철을 사 와서 성형합니다. 단조장은 저쪽이고, 여기 4번 홀에서 부품을 가공해요.
+Sofia|B1|Det är mycket tystare här än jag trodde. Och väldigt rent.|여긴 생각보다 훨씬 조용하네요. 아주 깨끗하고요.
+Kjell|B2|Det är precisionsarbete. En vevaxel till en lastbilsmotor får inte avvika mer än en hundradels millimeter. Det klarar inte vem som helst.|정밀 작업이거든요. 트럭 엔진용 크랭크축은 100분의 1밀리미터 넘게 어긋나면 안 돼요. 아무나 할 수 있는 일이 아니죠.
+Jonas|A2|Får vi hälsa?|인사드려도 될까요? (CNC 선반 앞의 백발 작업자를 눈짓하며)
+Leif|A2|Leif. Välkomna.|레이프요. 어서 와요. (장갑을 벗고 악수한다)
+Amir|A2|Hur länge har du jobbat här?|여기서 일하신 지 얼마나 되셨어요?
+Leif|B1|Fyrtiofyra år i september. Jag började som nittonåring, samma vecka som min pappa gick i pension härifrån.|9월이면 44년이요. 열아홉에 들어왔어요. 아버지가 여기서 은퇴하신 바로 그 주에.
+Sofia|B1|Och vad gör du nu, mer exakt?|지금은 정확히 어떤 일을 하세요?
+Leif|B2|Jag kör linje fyra – vevaxlarna till Rheinfeld. Maskinen mäter själv numera, men när den låter fel så hör jag det innan datorn märker något.|4번 라인을 돌려요. 라인펠트 크랭크축이요. 요즘은 기계가 알아서 측정하지만, 소리가 이상하면 컴퓨터가 알아채기 전에 내가 먼저 들어요.
+Jonas|B2|Det är det vi kallar erfarenhet. Och den syns inte i någon balansräkning, hur noga man än letar.|그걸 경험이라고 하죠. 아무리 꼼꼼히 찾아봐도 대차대조표 어디에도 안 나오는 거.
+Leif|B1|Nej. Och om tre år går den i pension tillsammans med mig.|그렇죠. 그리고 3년 뒤엔 나랑 같이 은퇴하고요. (씩 웃고 다시 장갑을 낀다)
+Elin|B1|Hur många av era operatörer är över sextio?|기계 운영자 중 60세 넘은 분이 몇 명이나 되나요? (셸에게)
+Kjell|C1|På linje fyra nästan hälften. Och rekryteringen är ett elände: ungdomarna söker sig inte längre till industriprogrammet, och de få som går ut därifrån lockas till Västerås, där det finns både jobb och lägenheter.|4번 라인은 거의 절반이요. 채용은 그야말로 골칫거리예요. 젊은 애들은 이제 직업고 산업 과정에 지원을 안 하고, 거기서 졸업하는 몇 안 되는 애들은 일자리도 아파트도 있는 베스테로스로 빠져나가요.
+Amir|B1|Hur viktigt är bruket för orten, egentligen?|공장이 이 마을에서 차지하는 비중은 실제로 얼마나 돼요?
+Kjell|B1|Nästan halva Hallsjö jobbar på bruket eller hos någon underleverantör. Vi är niohundra här inne, och runt omkring finns ett fyrtiotal småföretag.|할셰 주민 거의 절반이 공장이나 하청업체에서 일해요. 여기 안에만 900명이고, 주변에 소기업이 마흔 곳쯤 있어요.
+Sofia|B2|Och om linje fyra försvann – vad skulle hända med Leif och de andra?|그런데 4번 라인이 없어진다면, 레이프 씨나 다른 분들은 어떻게 될까요?
+Kjell|B2|Det är inte en fråga jag svarar på ute i hallen. Fråga Peter. Eller Lena på facket – hon kommer att vilja träffa er ändå.|그건 작업장 한복판에서 답할 질문이 아니에요. 페테르 대표한테 물어보세요. 아니면 노조의 레나한테요. 어차피 여러분을 만나고 싶어 할 거예요.
+Leif|A2|Nu är det tre.|이제 세 시네요. (사이렌이 길게 울린다 — 교대 시간. 작업자들이 하나둘 장갑을 벗는다)
+Jonas|C1|Det är märkligt: en siren som de flesta skulle uppfatta som ett larm betyder här att allt är som det ska.|이상하죠. 대부분 사람들한텐 경보처럼 들릴 사이렌이, 여기선 모든 게 제대로라는 뜻이니까요.
+Kjell|B2|Precis. Den dag den tystnar förstår alla att något är fel. Och Amir – planeringen har lagt leveransplanerna per kund på ett USB-minne åt dig, som Peter bad om.|바로 그거예요. 저게 멈추는 날엔 다들 뭔가 잘못됐다는 걸 알죠. 아, 아미르 씨. 생산계획팀이 고객별 납품 계획표를 USB에 담아 뒀어요. 페테르 대표가 부탁한 대로요.
+# 장면 4 — 호숫가의 할베리 저택, 저녁 6시
+Greta|A2|Kom in, kom in. Ni behöver inte ta av er skorna.|들어와요, 들어와요. 신발은 안 벗어도 돼요. (호숫가의 노란 목조 저택. 일흔둘, 꼿꼿한 등, 은발을 단정히 묶었다)
+Sofia|A2|Vilket fint hus! Och vilken utsikt.|정말 멋진 집이에요! 경치도요.
+Greta|B1|Huset byggdes 1874, tre år efter bruket. Anders Hallberg ville kunna se smedjan från sitt skrivbord, och det kan man faktiskt fortfarande.|이 집은 1874년, 공장보다 3년 뒤에 지어졌어요. 안데르스 할베리는 책상에서 대장간이 보이길 원했죠. 실제로 지금도 보여요.
+Amir|B1|Var han er farfars far?|그분이 증조할아버지세요?
+Greta|B1|Ja. Han var smed. Släggan vid grinden är hans – han smidde den själv 1871.|네. 대장장이였어요. 정문의 쇠망치가 그분 거예요. 1871년에 손수 벼린 거죠.
+Jonas|B2|Gunilla berättade att du tog över efter din far 1984. Det kan inte ha varit en enkel tid att vara brukspatron.|군닐라 말로는 1984년에 아버님 뒤를 이으셨다고요. 공장주로 지내기 쉬운 시절은 아니었겠어요.
+Greta|C1|Det var ingen tid alls för en kvinna att vara brukspatron. Styrelsen ville sälja till staten, banken ville se en man i ledningen, och min far trodde att jag skulle ge upp efter ett år. Jag stannade i nästan fyrtio.|여자가 공장주가 되기엔 아예 시절이 아니었죠. 이사회는 국가에 팔고 싶어 했고, 은행은 경영진에서 남자를 보고 싶어 했고, 아버지는 내가 1년이면 포기할 거라 생각했어요. 나는 40년 가까이 버텼고요.
+Elin|B1|Och sedan 2016 har Peter varit vd.|그리고 2016년부터는 페테르 씨가 대표시고요.
+Greta|B1|Ja. Själv sitter jag kvar som ordförande. Kanske för länge, säger en del.|네. 나는 의장으로 남아 있죠. 너무 오래라고 말하는 사람들도 있고요.
+Sofia|B1|Vad säger du själv?|본인은 어떻게 생각하세요?
+Greta|C1|Jag säger att ingen annan i familjen ville sitta på den här stolen när det blåste, och att man inte lämnar ifrån sig rodret bara för att någon tycker att man har stått där länge. Ta en kaka, förresten – jag har bakat sju sorter.|가족 중 누구도 바람 불 때 이 의자에 앉으려 하지 않았다고, 그리고 누가 오래 섰다고 한다고 해서 키를 넘기는 건 아니라고 말하죠. 그나저나 과자 드세요. 일곱 가지 구웠어요. (은쟁반 위 일곱 종류의 과자 — 베리슬라겐식 피카)
+Amir|A2|Tack! De här är jättegoda.|감사합니다! 이거 진짜 맛있어요.
+Greta|B2|Ni var på bruket i dag. Vad såg ni? Inte i siffrorna – siffrorna har jag läst. Vad såg ni?|오늘 공장에 다녀왔죠. 뭘 봤어요? 숫자 말고요. 숫자는 나도 읽었어요. 뭘 봤어요?
+Sofia|B2|En man som hör att en maskin låter fel innan datorn gör det. Och som går i pension om tre år utan att någon har lärt sig det han kan.|기계 소리가 이상하다는 걸 컴퓨터보다 먼저 듣는 사람이요. 그리고 그분이 아는 걸 아무도 배우지 못한 채 3년 뒤에 은퇴한다는 것.
+Greta|A2|Leif Mattsson.|레이프 마트손이군요.
+Jonas|B1|Känner du honom?|그분을 아세요?
+Greta|C1|Jag känner alla som har jobbat här i mer än tio år, och de flesta av deras föräldrar. Det är därför jag har bett er komma. Ni ska se människorna bakom siffrorna – men ni får inte låta dem skymma siffrorna heller.|여기서 10년 넘게 일한 사람은 다 알아요. 그 부모들도 대부분 알고요. 그래서 여러분을 부른 거예요. 숫자 뒤의 사람들을 봐야 해요. 하지만 그 사람들 때문에 숫자가 가려지게 둬서도 안 되고요.
+Elin|B2|Då ska jag säga en siffra. Nettoskulden är 1,4 miljarder och rörelseresultatet före avskrivningar runt 410 miljoner. Det är 3,4 gånger. Taket i ert låneavtal med Mälarbanken är 3,5.|그럼 숫자 하나 말씀드릴게요. 순차입금이 14억, 감가상각 전 영업이익(EBITDA)이 4억 1천만쯤이에요. 3.4배죠. Mälarbanken 대출 약정의 상한은 3.5배고요.
+Greta|B1|Det vet jag. Peter säger att marginalen vänder i höst.|알아요. 페테르는 이번 가을에 마진이 돌아선다고 하더군요.
+Elin|C1|Kanske. Men skulle ni förlora Rheinfeld utan att kunna ersätta volymen, försvinner ungefär hälften av det resultatet – och då talar vi inte längre om 3,4 gånger, utan om närmare sju.|그럴 수도요. 하지만 만약 라인펠트를 잃고 그 물량을 메우지 못하면, 그 이익의 절반쯤이 사라져요. 그러면 더는 3.4배가 아니라 7배 가까운 얘기가 되죠.
+Amir|B2|Det är därför vi behöver orderstocken. Den visar vad kunderna faktiskt har förbundit sig att köpa – inte vad vi hoppas att de ska göra.|그래서 수주 잔고가 필요한 거예요. 그건 우리가 바라는 게 아니라, 고객들이 실제로 사겠다고 약속한 걸 보여 주니까요.
+Greta|A2|Har ni fått den?|받았어요?
+Amir|B1|Ja, i eftermiddag. Jag har inte hunnit titta på den än.|네, 오늘 오후에요. 아직 볼 시간이 없었어요.
+Jonas|B2|Får jag fråga en sak, Greta? Varför ringde du Gunilla i stället för att prata med Peter?|하나 여쭤봐도 될까요, 그레타 씨? 왜 페테르 씨와 얘기하는 대신 군닐라에게 전화하셨어요?
+Greta|C1|Därför att Peter är min son, och en mor är antingen den sista som ser att hennes barn inte räcker till – eller den första, och då är hon den som minst av allt vill se det.|페테르는 내 아들이니까요. 엄마란 자식이 감당하지 못한다는 걸 가장 늦게 알아차리거나, 아니면 가장 먼저 알아차리죠. 그럴 땐 그걸 누구보다 보고 싶지 않은 사람이 되고요.
+Sofia|B2|Det låter som om du redan anar svaret, men inte vill vara den som säger det högt.|이미 답을 짐작하고 계시는데, 그걸 소리 내어 말하는 사람이 되고 싶진 않으신 것처럼 들려요.
+Greta|C1|Ett bruk är aldrig bara ett företag; det är skolan, ishallen och anledningen till att folk stannar. Bruket byggde ishallen 1967, Jonas. Om det här går fel är det inte bara Peter som förlorar.|공장은 결코 회사만이 아니에요. 학교이고, 아이스링크이고, 사람들이 이곳에 남는 이유죠. 아이스링크는 1967년에 공장이 지었어요, 요나스 씨. 이게 잘못되면 잃는 건 페테르만이 아니에요. (창밖 호수 건너, 공장 굴뚝 위로 해가 진다)
+# 장면 5 — Hallsjö Gästgivaregård 1층 라운지, 밤 10시 반
+Amir|B1|Kan ni komma hit en sekund? Jag måste visa er en grej. Det är sjukt.|잠깐 이리 와 볼래요? 보여 줄 게 있어요. 이거 진짜 말도 안 돼요. (낡은 가죽 소파, 노트북 화면에 막대그래프)
+Sofia|A2|Nu? Klockan är halv elva.|지금? 10시 반이야. (잠옷 위에 카디건을 걸치고 내려온다)
+Amir|B2|Det här är orderstocken från Kjells USB-minne. Varje stapel är ett leveransår, och färgerna är kunderna. Det mörkblå är Rheinfeld.|셸 씨 USB에 있던 수주 잔고예요. 막대 하나가 납기 연도 하나고, 색깔은 고객이에요. 진한 파란색이 라인펠트요.
+Jonas|A2|Och sedan?|그래서?
+Amir|B2|2024: 780 miljoner. 2025: 560. 2026: 230. Och sedan 2027: nio miljoner – och det är reservdelar. Vår största kund har i stort sett inte lagt några order efter 2026.|2024년 7억 8천만. 2025년 5억 6천만. 2026년 2억 3천만. 그리고 2027년엔 900만. 그것도 예비 부품이에요. 최대 고객이 2026년 이후로는 사실상 주문을 하나도 안 넣었어요.
+Elin|B2|Det behöver inte betyda något. Lastbilstillverkare brukar inte lägga fasta order tre år i förväg.|그게 꼭 무슨 의미가 있는 건 아니야. 트럭 회사들이 3년 앞까지 확정 주문을 넣진 않잖아.
+Amir|C1|Det tänkte jag också, så jag jämförde med hur det såg ut 2019. Då låg Rheinfelds prognoser inne fyra år framåt, ända till 2023. Nu tar allt slut på exakt samma datum som ramavtalet – som om någon hade dragit ett streck.|저도 그렇게 생각해서 2019년 상황이랑 비교해 봤어요. 그땐 라인펠트 예측 물량이 4년 앞, 2023년까지 들어와 있었어요. 지금은 전부 기본 계약 만기랑 정확히 같은 날짜에 끝나요. 누가 선을 그어 버린 것처럼.
+Jonas|C1|Och ingen offertförfrågan för nästa generation. Det här är ingen konjunkturdipp, det är en kund som redan har fattat sitt beslut men ännu inte har funnit det mödan värt att meddela sin leverantör.|그리고 다음 세대 견적 요청도 없고. 이건 경기 둔화가 아니야. 이미 결정을 내려 놓고 아직 공급업체에 알릴 필요도 못 느낀 고객이지.
+Sofia|B2|Eller som har sagt det – fast till någon som valde att inte föra det vidare.|아니면 말은 했는데, 그걸 들은 누군가가 전하지 않기로 했거나.
+Elin|C1|Siffrorna ljuger inte, men de kan tiga. Peter påstod att styrelsen fick hela bilden i juni, och innan vi drar några slutsatser om honom vill jag se exakt vilken bild det var.|숫자는 거짓말하지 않아. 하지만 침묵할 순 있지. 페테르는 6월에 이사회가 전체 그림을 받았다고 했어. 그 사람에 대해 무슨 결론을 내리기 전에, 그게 정확히 어떤 그림이었는지 보고 싶어. (노란 노트에 적는다 — "Juni: styrelsematerial?")
+Amir|B1|Borde vi inte visa grafen för Peter redan i morgon bitti?|내일 아침에 바로 페테르 대표한테 이 그래프를 보여 줘야 하지 않을까요?
+Jonas|B1|Inte än. Först vill jag veta vad han redan vet.|아직. 먼저 그 사람이 이미 뭘 알고 있는지 알고 싶어. (휴대폰이 울린다. 화면에 "Greta Hallberg")
+Greta|A2|Jonas? Det är Greta. Förlåt att jag ringer så sent.|요나스 씨? 그레타예요. 늦게 전화해서 미안해요.
+Jonas|A2|Ingen fara. Vi är vakna.|괜찮아요. 아직 다들 깨어 있어요. (스피커폰으로 바꾼다)
+Greta|B1|Min son säger att allt är under kontroll. Jag vill att ni tar reda på om han ljuger.|제 아들은 다 통제되고 있다고 해요. 그 애가 거짓말하는지 알아봐 주세요. (전화가 끊긴다. 화면 속 진한 파란 막대가 2026년에서 뚝 끊겨 있다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Hur länge har du jobbat här?** | 여기서 일하신 지 얼마나 되셨어요? | 현장 인터뷰의 첫 질문. *har jobbat* (현재완료) + *hur länge* = 지금까지 계속된 기간. 답은 *i 44 år* 또는 *sedan 1979* |
+| `A2` | **Ni behöver inte ta av er skorna.** | 신발은 안 벗어도 돼요. | 스웨덴 가정에선 현관에서 신발을 벗는 게 기본이라 주인이 먼저 이렇게 말해 준다. *ta av sig* (재귀동사) → *ni … er* |
+| `B1` | **Nästan halva Hallsjö jobbar på bruket eller hos någon underleverantör.** | 할셰 주민 거의 절반이 공장이나 하청업체에서 일해요. | *halva* + 지명 = 그 마을 사람 절반. 직장은 *på bruket*, 사람·회사 '곁'은 *hos någon* |
+| `B1` | **Om bruket hostar, får hela orten feber.** | 공장이 기침하면 마을 전체가 열이 나. | 조건절이 앞에 오면 주절은 동사가 먼저(V2): *får hela orten*. 단일 고용주 마을을 설명하는 비유 |
+| `B1` | **Min son säger att allt är under kontroll. Jag vill att ni tar reda på om han ljuger.** | 제 아들은 다 통제되고 있다고 해요. 그 애가 거짓말하는지 알아봐 주세요. | *ta reda på* = 알아내다, 조사하다. 간접의문은 *om* (~인지): *om han ljuger* |
+| `B2` | **Vår största kund har i stort sett inte lagt några order efter 2026.** | 최대 고객이 2026년 이후로는 사실상 주문을 하나도 안 넣었어요. | *i stort sett* = 대체로, 사실상. *lägga en order* = 주문을 넣다. *inte … några* = 하나도 ~않다 |
+| `B2` | **Den visar vad kunderna faktiskt har förbundit sig att köpa – inte vad vi hoppas att de ska göra.** | 그건 우리가 바라는 게 아니라 고객이 실제로 사겠다고 약속한 걸 보여 줘요. | *förbinda sig att* = ~하기로 (구속력 있게) 약속하다. 수주 잔고와 '희망 매출'을 구분하는 말 |
+| `B2` | **Det var inte jag som ville att ni skulle komma hit.** | 여러분이 여기 오길 원한 건 제가 아니었습니다. | 분열문 *det var … som* 으로 '내가 아니다'를 강조. 공손하지만 분명한 거리 두기 |
+| `C1` | **Ett bruk är aldrig bara ett företag; det är skolan, ishallen och anledningen till att folk stannar.** | 공장은 결코 회사만이 아니에요. 학교이고, 아이스링크이고, 사람들이 이곳에 남는 이유죠. | 세미콜론으로 주장과 풀이를 잇는 문어적 구조. *anledningen till att* + 절 = ~하는 이유 |
+| `C1` | **Skulle ni förlora Rheinfeld utan att kunna ersätta volymen, försvinner ungefär hälften av det resultatet.** | 만약 라인펠트를 잃으면 그 이익의 절반쯤이 사라져요. | *om* 없이 *skulle* 를 앞세운 가정 조건절 — 회의·보고서에서 쓰는 격식체. 주절도 동사가 먼저 |
+
+## 현안 메모
+- **자동차·트럭의 전동화와 부품 산업** — EU는 2023년 3월, 2035년부터 신규 승용차·소형 승합차의 CO2 배출을 0으로 하는 규정을 최종 채택했다. 대형 트럭에 대해서는 집행위원회가 2023년 2월 신차 배출을 2019년 대비 2030년 45%, 2035년 65%, 2040년 90% 줄이는 안을 제안했다(2024년 최종 채택). 스웨덴의 대형 트럭 제조사들도 2022년부터 전기 대형 트럭 양산을 시작하는 등 전동화를 서두르고 있다. 전기 구동계에는 크랭크축·캠축·피스톤·다단 변속기가 없거나 훨씬 단순해, 이런 부품을 만드는 하청업체는 시장 자체가 줄어드는 상황을 맞는다.
+- **비용의 삼중고** — 리크스방크는 2022년 초 0%였던 기준금리를 2023년 6월 3.75%까지 올렸고(9월에 4%), 변동금리 대출이 많은 제조업체의 이자 부담이 급증했다. 크로나는 2023년 여름 유로당 12크로나 가까이 떨어져 수출 매출에는 도움이 되지만 수입 원자재·설비 값은 올랐다. 베리슬라겐이 속한 전력 3구역은 2022년 기록적인 전기요금을 겪었고, 열처리·단조처럼 전기를 많이 쓰는 공정은 그 충격을 그대로 받았다.
+- **베리슬라겐과 공장 도시(bruksort)** — 베리슬라겐은 행정구역이 아니라 중세부터 광석 채굴과 제철로 이어진 베스트만란드·외레브로주·달라르나 일대의 지역이다. '브룩(bruk)'은 용광로·대장간을 중심으로 공장주(brukspatron)의 저택, 노동자 주택, 학교와 교회까지 회사가 만든 마을을 말한다. 1970년대 철강 위기로 1978년 국가가 대형 제철소들을 합쳐 SSAB를 세웠고, 이후 많은 광산과 공장이 문을 닫았다(그렝에스베리 광산은 1989년 폐쇄). 지금도 많은 공장 도시가 회사 하나에 고용과 세수를 크게 기대고 있다. 극 중 할셰, Hallberg Bruk, 라인펠트는 모두 가상이다.
+
+## 비즈니스 메모
+- **고객 집중도 분석** — 매출을 고객별로 나눠 상위 고객의 비중을 본다. Hallberg는 최대 고객 하나가 27%(8억 4천만), 내연기관 관련 세 고객이 40%다. 비중 자체보다 중요한 건 "그 고객이 떠나면 무엇이 깨지는가"다. 엘린은 이를 대출 약정으로 번역했다 — 라인펠트 물량이 메워지지 않으면 EBITDA가 약 4억 1천만에서 2억 안팎으로 줄고, 순차입금/EBITDA는 3.4배(상한 3.5배)에서 7배 가까이로 뛴다.
+- **수주 잔고(orderstock) 분석** — 요약표가 아니라 주문 행(orderrader)을 고객별·납기 연도별로 펼쳐, 확정 주문과 예측 물량이 어디서 끝나는지 본다. 그 끝을 ① 과거의 예측 기간(2019년엔 4년 앞까지) ② 계약 만기(2026년 말) ③ 다음 세대 견적 요청(지난번엔 양산 3년 전) 시점과 비교하면, 잔고가 줄어드는 이유가 '고객의 재고 조정'인지 '고객이 이미 떠나기로 한 것'인지 구별된다.
+
+## 다음 화 예고 — Golvet
+2023년 8월 24일 목요일, 새벽 6시 교대. 소피아와 아미르는 용접공과 선반공들 사이로 녹음기를 들고 들어간다. "Jag börjar klockan sex varje morgon." IF Metall 사업장 위원장 레나 요한손은 컨설턴트를 "해고 명단을 만드는 사람들"이라 부르며 팔짱을 끼고, 요나스는 공장 식당의 커피 한 잔과 하키 이야기로 겨우 대화를 튼다. 생산기술 사무실의 젊은 엔지니어 라제시는 아무도 쓰지 않는 센서 데이터를 혼자 모으고 있다. 그리고 엘린은 마침내 6월 이사회 자료를 손에 넣는다 — 그 숫자는 그녀의 노란 노트와 맞지 않는다.

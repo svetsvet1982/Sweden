@@ -127,7 +127,7 @@ Gunilla|C1|Nej. Det var jag som borde ha sagt det till Klarström redan i maj. E
 Sofia|A2|Regel nummer två, Gunilla. Inga kunder på fika.|규칙 2번이에요, 군닐라 씨. 피카 중엔 고객 얘기 금지예요.
 Gunilla|B2|Då får ni ursäkta mig, för jag ringer om en ny kund. Margareta Hallberg ringde mig i morse. Vi har känt varandra sedan nittiotalet.|그럼 양해해 줘. 새 고객 일로 전화한 거니까. 오늘 아침 마르가레타 할베리가 전화했어. 90년대부터 아는 사이야.
 Amir|B1|Hallberg? Vad är det för bolag?|할베리요? 어떤 회사예요?
-Gunilla|B2|Hallberg Bruk i Hallsjö. Specialstål och hydraulikdetaljer, omkring niohundra anställda. Hennes son Peter är vd, och han anser inte att de behöver några konsulter.|할셰의 Hallberg Bruk. 특수강이랑 유압 부품, 직원은 900명쯤. 아들 피터가 CEO인데, 컨설턴트 따윈 필요 없다는 입장이야.
+Gunilla|B2|Hallberg Bruk i Hallsjö. Specialstål och hydraulikdetaljer, omkring niohundra anställda. Hennes son Peter är vd, och han anser inte att de behöver några konsulter.|할셰의 Hallberg Bruk. 특수강이랑 유압 부품, 직원은 900명쯤. 아들 페테르가 CEO인데, 컨설턴트 따윈 필요 없다는 입장이야.
 Jonas|B1|Och vad tycker hon själv?|그럼 그분 본인은 어떻게 생각하는데?
 Gunilla|C1|Att deras största kund håller på att ställa om till elfordon, och att ingen i ledningen vill säga högt vad det betyder. Ni börjar efter semestern, den fjortonde augusti. Elin, jag vet att du har planer i höst. Det pratar vi om.|최대 고객이 전기차로 전환하고 있는데, 경영진 누구도 그게 무슨 뜻인지 소리 내어 말하려 하지 않는다는 거. 휴가 끝나고 8월 14일에 시작해. 엘린, 가을에 계획 있는 거 알아. 그건 따로 얘기하자. (엘린이 노란 노트를 꽉 쥔다)
 Elin|B2|Det gör vi. Men varför just vi, efter Payvik?|그러자. 근데 Payvik 일도 있었는데, 왜 하필 우리야?
@@ -159,4 +159,4 @@ Gunilla|B2|För att hon bad om konsulter som vågar säga obekväma saker till e
 - **실물옵션(real options) 사고** — 불확실성이 크고 시간이 지나면 정보가 풀리는(지자체 표결, 원전 투자 결정) 투자에서는, 지금 전부 거는 것보다 작은 비용으로 **나중에 결정할 권리**를 사는 게 가치가 있다. 600만 크로나의 옵션 프리미엄은 지자체 거부라는 최악의 경우 손실을 1억 8천만에서 600만으로 묶고, 원전 옵서버 자리는 표값 없이 정보를 산다. 반대로 라르스의 반론처럼 기다림에도 비용(진입 기회 상실)이 있으므로, 옵션의 값은 늘 그 비용과 비교해야 한다.
 
 ## 다음 화 예고 — Bruket
-2023년 8월 14일 월요일, 휴가가 끝난 첫날. 네 사람은 E18을 타고 베리슬라겐으로 향한다. 숲과 호수 사이로 옛 제련소의 굴뚝들이 지나가고, 할셰에 닿으면 150년 된 Hallberg Bruk가 마을 한가운데 서 있다. CEO 피터 할베리는 "일시적인 수요 둔화일 뿐"이라며 컨설턴트들을 귀찮아하고, 공장 바닥에서는 머리가 하얗게 센 숙련공들이 0.01밀리미터를 다툰다. 저녁, 4대째 오너 그레타는 팀을 저택으로 불러 말한다. "Ett bruk är aldrig bara ett företag." 그리고 그날 밤 숙소에서, 아미르의 노트북 위 수주 잔고 그래프가 2026년에서 뚝 끊긴다.
+2023년 8월 14일 월요일, 휴가가 끝난 첫날. 네 사람은 E18을 타고 베리슬라겐으로 향한다. 숲과 호수 사이로 옛 제련소의 굴뚝들이 지나가고, 할셰에 닿으면 150년 된 Hallberg Bruk가 마을 한가운데 서 있다. CEO 페테르 할베리는 "일시적인 수요 둔화일 뿐"이라며 컨설턴트들을 귀찮아하고, 공장 바닥에서는 머리가 하얗게 센 숙련공들이 0.01밀리미터를 다툰다. 저녁, 4대째 오너 그레타는 팀을 저택으로 불러 말한다. "Ett bruk är aldrig bara ett företag." 그리고 그날 밤 숙소에서, 아미르의 노트북 위 수주 잔고 그래프가 2026년에서 뚝 끊긴다.
