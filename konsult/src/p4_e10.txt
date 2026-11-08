@@ -1,0 +1,162 @@
+@title 4부 10화 — Sommartalet
+@subtitle (여름 연설)
+@meta 날짜|2026년 7월 13일 월요일 ~ 15일 수요일 (연설문 집필 주간) · 8월 2일 일요일 저녁 (마지막 리허설)
+@meta 장소|외레브로 동쪽 옐마렌 호숫가, 안니카 부부의 여름 별장(sommarstuga) 부엌과 부두 (13일 아침) → 별장 베란다 (13일 오전 11시) → 외레브로 대학병원 중환자실 복도와 직원 휴게실 (14일 화요일 오후 2시) → 새벽의 부두 (15일 수요일 새벽 5시 반) → 같은 부두, 마지막 리허설 (8월 2일 일요일 저녁)
+@meta 등장인물|**Annika Strand** (안니카 스트란드, 49, 당 대표, 전 중환자실 간호사) · **Sofia Mäkinen** (소피아 매키넨, 33, 미디어 훈련·연설문) · **Jonas Ekholm** (요나스 에크홀름, 44, 수석 전략가) · **Per Strand** (페르 스트란드, 53, 안니카의 남편, 외레브로 문화학교 바이올린 교사 — 가상 인물) · **Ylva Granlund** (일바 그란룬드, 57, 외레브로 대학병원 중환자실 간호사 31년째, 안니카의 옛 동료 — 가상 인물) · **Elin Bergqvist** (엘린 베리크비스트, 37, 정책·예산·리스크 — 마지막 전화)
+@meta 이번 화의 도구|연설 구조 — 이야기·문제·해법·요청 (Story–Problem–Solution–Ask). 청중이 한 사람의 이야기로 들어와(이야기), 그 사람이 왜 힘든지 알고(문제), 무엇이 바뀔지 듣고(해법), 마지막에 자기가 할 일을 하나 받아 간다(요청). 이번 화의 질문 뒤의 질문은 "어떤 이야기를 쓸까"가 아니라 "이 연설은 누구의 이야기인가"
+@meta 스웨덴 현안|복지 현장 인력난 — 간호사·돌봄 인력의 이직과 부족, 팬데믹 이후의 소진(utmattning). 2020년 봄 중환자 병상을 급히 늘리며 버틴 의료 현장, 그 뒤 일을 줄이거나 떠난 사람들, 특히 부족한 전문 간호사(중환자·마취·수술)
+@intro **지난 이야기** — 6월 말 알메달렌. 헨리크가 내민 로비스트 만찬 초대장은 '사진 한 장'의 함정이었다. 엘린은 확률과 결과를 곱해 두 개의 나쁜 답을 보여 주었고, 요나스는 세 번째 답을 냈다. "대화엔 예, 방엔 아니오." 만찬 한 시간 전, 카페 안뜰에 즉석 세미나 'Vem betalar för elen?'이 열렸고, 만찬 명단 열 명 중 네 명이 그 안뜰로 왔다. 이튿날 아침 안니카는 공원 가장자리의 빌린 나무 상자 위에서 7분 12초를 말했고, 처음으로 문장 한가운데에서 박수가 터졌다. 헨리크는 떠나며 말했다. "게임하는 법을 배웠군, 요나스. 하지만 난 이 게임을 더 오래 했어."
+@intro 6월 말 여론조사는 3.3%. 8월 8일 토요일, 안니카는 외레브로 스토르토리에트에서 선거 막판 국면을 여는 '여름 연설'을 한다. 7월 둘째 주, 소피아는 옐마렌 호숫가에 있는 안니카 부부의 빨간 여름 별장에 일주일 동안 짐을 푼다. 요나스는 월요일에 와서 마당의 작은 손님 오두막(friggebod)에서 이틀을 묵기로 했다. 비스뷔의 7분 12초는 즉흥이었다. 이번엔 처음부터 끝까지 써야 한다 — 그리고 요나스의 첫 초고는, 안니카가 6년 동안 아무에게도 꺼내지 않은 2020년 봄에서 시작한다.
+# 장면 1 — 옐마렌 호숫가, 안니카 부부의 여름 별장, 7월 13일 월요일 아침 7시
+Per|A2|God morgon! Kaffet är klart. Vill du ha mjölk?|좋은 아침이에요! 커피 다 됐어요. 우유 넣을래요? (7월 13일 월요일 아침 7시. 옐마렌 호숫가, 흰 모서리를 두른 빨간 별장의 부엌. 창밖으로 부두와 잔잔한 호수. 페르 스트란드, 53, 안니카의 남편이 소피아에게 잔을 내민다)
+Sofia|A2|Ja, lite mjölk, tack. Är det alltid så här tyst här ute?|네, 조금만요, 고마워요. 여긴 늘 이렇게 조용해요?
+Per|B1|Bara på morgonen. Vid tio börjar grannen klippa gräset, och han klipper i två timmar varje dag.|아침에만요. 10시쯤 되면 이웃이 잔디를 깎기 시작하는데, 매일 두 시간씩 깎아요.
+Annika|A2|God morgon. Har du sovit gott, Sofia?|좋은 아침이에요. 잘 잤어요, 소피아 씨? (페르의 낡은 털 스웨터를 걸치고 부엌으로 들어온다)
+Sofia|A2|Jättegott. Det var så ljust att jag vaknade klockan fyra, men sedan somnade jag om.|정말 잘 잤어요. 너무 밝아서 4시에 깼는데, 다시 잠들었어요.
+Per|B1|Det finns knäckebröd, ost och gurka på bordet. Och leverpastej, om du vågar.|식탁에 크네케브뢰드랑 치즈, 오이 있어요. 간 파테도 있고요. 용기가 있다면.
+Sofia|B1|Min mamma i Eskilstuna köper exakt samma knäckebröd. Hon säger att det är det enda svenska som finländare litar på.|에스킬스투나에 계신 우리 엄마도 똑같은 크네케브뢰드를 사요. 핀란드 사람이 믿는 스웨덴 물건은 그거 하나뿐이래요.
+Annika|A2|Ska vi bada först? Vattnet är arton grader.|먼저 수영할까요? 물이 18도예요.
+Sofia|B1|Arton grader är ingenting. Min morbror badar i en vak i isen varje januari.|18도는 아무것도 아니에요. 우리 외삼촌은 매년 1월에 얼음 구멍에서 수영해요.
+Per|B1|Då är du välkommen hit i januari. Annika går bara i när det är över tjugo.|그럼 1월에 놀러 와요. 안니카는 20도 넘어야 들어가거든요.
+Annika|A2|Det är inte sant! Nitton räcker.|거짓말! 19도면 충분해.
+Per|A2|Jag stannar här och diskar. Någon måste ju.|난 여기서 설거지할게. 누군가는 해야지.
+Sofia|B1|Okej, det var kallare än jag trodde. Men nu är jag vaken!|좋아요, 생각보다 차갑네요. 그래도 이제 잠은 확 깼어요! (부두 끝. 소피아가 먼저 뛰어들었다가 숨을 몰아쉬며 떠오른다. 안니카는 사다리로 천천히 내려간다)
+Annika|B1|Här brukar jag tänka bäst. I vattnet kan ingen ringa mig.|저는 여기서 생각이 제일 잘 돼요. 물속에선 아무도 전화를 못 하니까.
+Sofia|B2|Bra, för den här veckan ska vi göra precis det: tänka, inte svara. Talet hålls den åttonde augusti på Stortorget i Örebro, och det är talet som ska öppna valrörelsens sista veckor för oss.|좋아요. 이번 주에 우리가 할 게 딱 그거니까요. 대답하지 말고 생각하기. 연설은 8월 8일 외레브로 스토르토리에트에서 해요. 우리한테 선거전 마지막 몇 주를 여는 연설이고요.
+Annika|B1|Hur långt ska det vara? I Visby pratade jag sju minuter och tolv sekunder.|얼마나 길어야 해요? 비스뷔에선 7분 12초 말했잖아요.
+Sofia|B2|Tolv minuter den här gången, inte mer. Det är fem veckor kvar till valet när du står där, och folk ska kunna minnas en enda mening när de går hem.|이번엔 12분, 그 이상은 안 돼요. 대표님이 거기 설 때면 선거까지 5주가 남아요. 사람들이 집에 갈 때 문장 하나는 기억할 수 있어야 해요.
+Annika|B2|En mening. Jag har skrivit tal i tjugo år, och de har alltid haft minst tio viktiga meningar.|문장 하나라. 20년 동안 연설문을 써 왔는데, 늘 중요한 문장이 적어도 열 개는 있었어요.
+Sofia|B1|Det är därför vi har en hel vecka. Jonas kommer vid elva med de första utkasten.|그래서 일주일을 통째로 잡은 거예요. 요나스 씨가 11시에 첫 초고들을 들고 와요.
+Annika|A2|Ska vi ta en kopp kaffe till innan han kommer?|그 사람 오기 전에 커피 한 잔 더 할까요?
+Per|B1|Det finns mer kaffe! Och jag har bakat bullar, men de blev inte så snygga.|커피 더 있어요! 빵도 구웠는데, 모양이 좀 별로예요. (부엌 창문으로 고개를 내밀고)
+Sofia|A2|Bullar är aldrig fula. De är bara olika.|빵은 절대 못생기지 않았어요. 그냥 저마다 다를 뿐이죠.
+Annika|B2|Per har bakat varje gång jag har haft något svårt framför mig. Första gången var när jag skulle ta studenten, och bullarna har inte blivit snyggare sedan dess.|페르는 저한테 어려운 일이 닥칠 때마다 빵을 구웠어요. 처음이 제 고등학교 졸업 때였는데, 빵 모양은 그때부터 하나도 안 나아졌어요.
+Per|B1|Det hörde jag! Bullarna blir bättre när ingen tittar.|다 들었어! 빵은 아무도 안 볼 때 더 잘 구워진다고.
+Sofia|C1|Det är faktiskt en ganska bra beskrivning av hur man skriver tal också – det mesta av arbetet görs där ingen ser det, och ingen ska märka hur mycket som har strukits.|그거 사실 연설문 쓰는 법에 대한 꽤 좋은 설명이기도 해요. 일의 대부분은 아무도 안 보는 데서 하고, 얼마나 많이 지웠는지는 아무도 눈치채면 안 되거든요.
+# 장면 2 — 별장 베란다, 같은 날 오전 11시 20분
+Jonas|B1|Hej! Förlåt att jag är sen. Det var kö vid Arboga, och Love ringde om en trasig cykel.|안녕하세요! 늦어서 미안해요. 아르보가 근처에서 막혔고, 러브가 자전거 고장 났다고 전화해서요. (오전 11시 20분. 베란다. 요나스가 출력한 원고 뭉치와 테이크아웃 커피를 들고 계단을 올라온다)
+Per|A2|Välkommen. Kaffe? Bullarna är slut, tyvärr.|어서 와요. 커피? 빵은 아쉽게도 다 떨어졌어요.
+Jonas|B2|Jag har med mig tre utkast. Alla bygger på samma struktur: berättelse, problem, lösning och uppmaning. Story, problem, solution, ask.|초고 세 개 가져왔어요. 다 같은 구조예요. 이야기, 문제, 해법, 요청. 스토리, 프라블럼, 솔루션, 애스크.
+Sofia|B1|Vi säger berättelse, problem, lösning och uppmaning. Annika ska inte låta som en konsult.|이야기, 문제, 해법, 요청이라고 해요. 안니카 씨가 컨설턴트처럼 들리면 안 되니까요.
+Jonas|B2|Utkast ett börjar så här: "Våren 2020. Klockan tre på natten håller jag upp en surfplatta framför en man i respirator, så att hans dotter kan säga hej då."|초고 1은 이렇게 시작해요. "2020년 봄. 새벽 3시, 저는 인공호흡기를 단 남자 앞에 태블릿을 들고 서 있습니다. 그의 딸이 작별 인사를 할 수 있도록."
+Annika|B1|Nej. Det där vill jag inte.|아니요. 그건 싫어요. (커피 잔을 내려놓는다)
+Jonas|B2|Hör på mig först. När Amir testade klippen från Visby stannade folk kvar längst vid just sjuksköterskedelen. Det är där människor känner igen dig, och det är där vi behöver en känslopunkt.|일단 들어 봐요. 아미르가 비스뷔 클립들을 테스트해 봤더니, 사람들이 제일 오래 머문 게 바로 간호사 대목이었어요. 사람들이 대표님을 알아보는 데가 거기예요. 감동 포인트가 필요한 데도 거기고요.
+Annika|B1|Jag vill inte använda patienterna för att vinna röster.|환자들을 표 얻는 데 이용하고 싶지 않아요.
+Jonas|C1|Jag förstår det, och jag skulle inte föreslå det om jag inte trodde att det var sant. Men ett tal utan en enda människa i blir ett budgetdokument med applådpauser.|이해해요. 그리고 그게 진짜라고 믿지 않았다면 제안하지도 않았을 거예요. 하지만 사람이 한 명도 안 나오는 연설은 박수 칠 틈이 끼워진 예산 문서가 돼요.
+Sofia|B2|Det handlar inte om huruvida berättelsen är sann. Frågan är vems den är. Mannen i respiratorn har aldrig sagt ja till att bli en del av en valrörelse.|이야기가 진짜냐 아니냐의 문제가 아니에요. 그게 누구의 이야기냐가 문제죠. 인공호흡기를 단 그 남자는 선거운동의 일부가 되겠다고 한 적이 없어요.
+Jonas|B2|Han har inget namn i talet. Ingen kommer att kunna känna igen honom.|연설에 이름은 안 나와. 아무도 그 사람을 알아볼 수 없을 거야.
+Annika|B2|Hans dotter skulle känna igen honom. Hon kanske sitter på Stortorget den åttonde augusti.|그분 딸은 알아볼 거예요. 8월 8일에 스토르토리에트에 앉아 있을지도 모르고요.
+Jonas|B1|Okej. Där har du rätt. Utkast ett åker ut.|알겠어요. 그 말이 맞아요. 초고 1은 뺍니다. (첫 장에 볼펜으로 크게 X를 긋는다)
+Sofia|B2|Utkast två är mitt. Det börjar direkt med problemet: "I nästan varje region i Sverige saknas det specialistsjuksköterskor."|초고 2는 제 거예요. 바로 문제로 시작해요. "스웨덴의 거의 모든 광역 지역에서 전문 간호사가 부족합니다."
+Annika|B1|Det är sant, men det låter som en rapport från Socialstyrelsen.|맞는 말인데, 보건복지청 보고서처럼 들려요.
+Sofia|B1|Ja. Jag läste det högt för mig själv i bilen och somnade nästan.|네. 차 안에서 혼자 소리 내서 읽다가 거의 잠들 뻔했어요.
+Per|B1|Jag hörde det från köket. Jag somnade också, och jag stod upp och diskade.|부엌에서 들었어요. 나도 잠들 뻔했어요. 서서 설거지하고 있었는데도.
+Jonas|C1|Där har vi problemet i ett nötskal. Siffror utan människor somnar man till, och människor utan siffror tror ingen på när de väl har kommit hem från torget.|거기 문제가 한마디로 다 들어 있네요. 사람 없는 숫자엔 잠이 오고, 숫자 없는 사람은 광장에서 집에 돌아가는 순간 아무도 안 믿어요.
+Sofia|B2|Utkast tre försöker göra båda. Annika berättar om sitt första nattpass, och sedan kommer siffrorna.|초고 3은 둘 다 하려고 해요. 안니카 씨가 첫 야간 근무 얘기를 하고, 그다음에 숫자가 나와요.
+Annika|B2|Och då handlar talet om mig igen. Jag, jag, jag – och sist en siffra som ska bevisa att jag hade rätt.|그럼 연설이 또 제 얘기가 되잖아요. 나, 나, 나. 그리고 마지막에 제가 옳았다는 걸 증명할 숫자 하나.
+Jonas|B1|Men det är du som står på lådan. Folk vill veta vem du är.|그래도 상자 위에 서는 건 대표님이에요. 사람들은 대표님이 누군지 알고 싶어 해요.
+Annika|C1|Det vet de redan. I tre veckor efter Visby har jag fått mejl från människor som tackar mig för något jag gjorde för sex år sedan. Ingen av dem frågar vad jag tänker göra nu.|그건 벌써 알아요. 비스뷔 이후 3주 동안 제가 6년 전에 한 일 때문에 고맙다는 메일을 받았어요. 그런데 이제 뭘 할 거냐고 묻는 사람은 한 명도 없었어요.
+Sofia|B2|Det är en viktig varningssignal. Om publiken bara minns din bakgrund har talet misslyckats med det enda det ska göra – att få dem att rösta.|그거 중요한 경고 신호예요. 청중이 대표님의 이력만 기억한다면, 그 연설은 해야 할 단 하나의 일에 실패한 거예요. 사람들이 투표하게 만드는 일이요.
+Jonas|B2|Så vad är frågan bakom frågan? Det är inte vilken berättelse vi ska välja, utan vems berättelse det här talet egentligen är.|그럼 질문 뒤의 질문은 뭘까요? 어떤 이야기를 고르느냐가 아니라, 이 연설이 사실 누구의 이야기냐는 거예요.
+Annika|B1|Jag vet inte. Men jag vet var jag kan fråga.|모르겠어요. 하지만 어디 가서 물어보면 될지는 알아요.
+Sofia|B1|Var då?|어딘데요?
+Annika|B2|På universitetssjukhuset i Örebro. Ylva, som jag jobbade natt efter natt med våren 2020, är fortfarande kvar på IVA. Jag ringer henne i kväll.|외레브로 대학병원이요. 2020년 봄에 저랑 밤마다 같이 일한 일바가 아직 중환자실에 있어요. 오늘 저녁에 전화할게요.
+Jonas|B1|Får jag följa med? Jag lovar att inte säga något.|저도 따라가도 돼요? 아무 말도 안 하겠다고 약속할게요.
+Annika|A2|Du? Inte säga något?|요나스 씨가요? 아무 말도 안 한다고요?
+Sofia|C1|Han får följa med på ett villkor: att han lämnar utkasten i bilen. Vi åker dit för att lyssna, inte för att leta efter en känslopunkt.|조건 하나만 지키면 따라와도 돼요. 초고는 차에 두고 내릴 것. 우린 들으러 가는 거지, 감동 포인트 찾으러 가는 게 아니에요.
+# 장면 3 — 외레브로 대학병원, 중환자실 복도와 직원 휴게실, 7월 14일 화요일 오후 2시
+Ylva|A2|Annika! Du ser ut som en politiker. Var är dina träskor?|안니카! 완전 정치인 같네. 네 나막신은 어디 갔어? (7월 14일 화요일 오후 2시. 외레브로 대학병원 중환자실 출입문 앞. 파란 근무복에 목걸이 출입증, 일바 그란룬드, 57)
+Annika|B1|I en kartong i källaren. Ylva, det här är Sofia och Jonas. De hjälper mig med talet.|지하실 상자 속에. 일바, 이쪽은 소피아 씨랑 요나스 씨야. 연설 준비를 도와주고 있어.
+Ylva|B2|Jag vet vilka de är. Jag såg dig på tv i maj, när du inte kunde svara på frågan om pengarna. Jag satt i personalrummet och skrek åt skärmen.|누군지 알아. 5월에 TV에서 너 봤어, 돈 얘기 질문에 대답 못 했을 때. 휴게실에 앉아서 화면에 대고 소리 질렀다니까.
+Jonas|B1|Det gjorde vi också. Tack för att du tar emot oss.|저희도 그랬어요. 만나 주셔서 감사해요.
+Ylva|B2|Jag har en halvtimme. In i patientsalarna går vi inte, men korridoren och personalrummet kan jag visa. Det var där det hände, våren 2020.|30분 있어요. 병실엔 안 들어가지만, 복도랑 휴게실은 보여 드릴 수 있어요. 2020년 봄에 일이 벌어진 데가 거기니까.
+Sofia|B1|Vad hände här då? Berätta bara det du vill.|그때 여기서 무슨 일이 있었어요? 하고 싶은 얘기만 해 주세요.
+Ylva|C1|Allt hände på en gång. Vi gick från tio vårdplatser till tjugotvå på några veckor. Uppvaket blev intensivvårdsavdelning, operationssjuksköterskor lärde sig sköta respiratorer på två dagar, och vi som hade jobbat i trettio år fick plötsligt handleda halva sjukhuset.|모든 게 한꺼번에 일어났죠. 몇 주 만에 병상이 열 개에서 스물두 개가 됐어요. 회복실이 중환자실이 됐고, 수술실 간호사들은 이틀 만에 인공호흡기 다루는 법을 배웠고, 30년 일한 우리는 갑자기 병원 절반을 가르치게 됐어요. (복도를 걸으며. 벽에는 손 소독제 거치대와 빈 액자 고리 하나)
+Annika|B2|Och jag kom tillbaka. Jag hade inte jobbat på avdelningen på fyra år, men min legitimation var kvar och ni behövde händer.|그리고 내가 돌아왔지. 4년 동안 병동에서 일을 안 했지만 면허는 남아 있었고, 너희는 일손이 필요했으니까.
+Ylva|B2|Tolv veckor. Du kom i mars och gick i juni. Jag minns det, för du tog med dig en hel låda kanelbullar första natten.|12주. 3월에 와서 6월에 갔지. 기억해. 첫날 밤에 시나몬롤을 한 상자 가득 들고 왔잖아.
+Jonas|B2|Hur var det att jobba med henne? Ärligt talat.|대표님이랑 일하는 건 어땠어요? 솔직하게요.
+Ylva|B1|Hon pratade för mycket. Men hon var aldrig rädd för att stanna kvar en timme extra.|말이 너무 많았죠. 그래도 한 시간 더 남는 걸 겁낸 적은 한 번도 없었어요.
+Annika|B2|Det var inte så modigt som det låter. Hemma satt jag ju ändå bara och följde smittkurvorna på nätet.|그렇게 용감한 것도 아니었어. 집에 있었어도 어차피 인터넷으로 감염 곡선만 쳐다보고 있었을 테니까.
+Ylva|C1|Det var just därför vi behövde dig. De som satt hemma och följde kurvorna kunde inte hjälpa oss – och de flesta som kunde hjälpa var redan så trötta att de inte orkade läsa dem.|바로 그래서 네가 필요했던 거야. 집에서 곡선을 보는 사람들은 우릴 도울 수 없었고, 도울 수 있는 사람들은 대부분 너무 지쳐서 그걸 읽을 기운도 없었으니까.
+Sofia|B2|Vad var det svåraste? Det som syntes på tv, eller något helt annat?|제일 힘들었던 건 뭐였어요? TV에 나온 것들이요, 아니면 전혀 다른 거요?
+Ylva|B2|Att anhöriga inte fick komma in. Vi höll upp surfplattor så att barn kunde säga hej då till sina föräldrar. Visiret immade igen, och man kunde inte torka sig i ögonen.|가족들이 못 들어온 거요. 우린 태블릿을 들어 올려서 자식들이 부모한테 작별 인사를 하게 했어요. 안면 보호대엔 김이 서리고, 눈물을 닦을 수도 없었죠.
+Jonas|B1|Det var den bilden jag ville ha i talet.|제가 연설에 넣고 싶었던 게 그 장면이었어요. (작게)
+Ylva|B2|Jag vet. Alla vill ha den bilden. Det satt en affisch med texten "Våra hjältar" här i korridoren i två år.|알아요. 다들 그 장면을 원해요. 여기 복도에 '우리의 영웅들'이라고 쓴 포스터가 2년 동안 붙어 있었어요. (빈 액자 고리를 가리킨다)
+Annika|B2|Jag minns den affischen. Var är den nu?|그 포스터 기억나. 지금은 어디 있어?
+Ylva|C1|Någon tog ner den när den andra lönerevisionen efter pandemin var klar. Ingen sa något, men alla förstod. Man kan inte gärna hänga upp en hjälte på väggen och sedan förklara för henne att det inte finns pengar till en till på natten.|팬데믹 뒤 두 번째 임금 협상이 끝났을 때 누가 떼어 갔어. 아무도 아무 말 안 했지만 다들 알았지. 영웅을 벽에 걸어 놓고, 그 영웅한테 밤에 한 명 더 둘 돈은 없다고 설명할 순 없잖아.
+Sofia|B2|Hur många av dem som jobbade här våren 2020 är kvar i dag?|2020년 봄에 여기서 일한 분들 중 지금 몇 명이나 남아 있어요?
+Ylva|B2|Av de sexton i mitt nattlag är sju borta. Två har gått i pension, två jobbar på ett läkemedelsföretag, en blev skolsköterska, en flyttade till Norge – och Kerstin jobbar i en blomsteraffär.|제 야간 팀 열여섯 명 중에 일곱 명이 떠났어요. 둘은 은퇴했고, 둘은 제약 회사에서 일하고, 하나는 학교 보건 교사가 됐고, 하나는 노르웨이로 갔고, 그리고 셰르스틴은 꽃집에서 일해요.
+Annika|B1|Kerstin? Hon som lärde mig att sätta artärnålar?|셰르스틴? 나한테 동맥관 잡는 거 가르쳐 준 그 셰르스틴?
+Ylva|B2|Hon blev sjukskriven för utmattningssyndrom hösten 2021 och kom aldrig tillbaka. Hon säger att blommorna i alla fall inte dör på hennes pass.|2021년 가을에 탈진 증후군으로 병가 내고 다시는 안 돌아왔어. 그래도 꽃은 자기 근무 시간에 죽지 않는대.
+Jonas|C1|Det är en mening som säger mer om vården än hela vårt valmanifest. Men den är hennes, inte vår – och jag börjar förstå att det är just den skillnaden som är hela poängen.|그 한 문장이 우리 선거 공약집 전체보다 의료에 대해 더 많은 걸 말해 주네요. 그런데 그건 그분 문장이지 우리 게 아니에요. 그리고 바로 그 차이가 핵심이라는 걸 이제 좀 알 것 같아요.
+Ylva|B2|Och själv jobbar jag åttio procent nu. Inte för att jag vill ha mer fritid, utan för att jag annars inte orkar fram till pensionen.|그리고 저도 지금은 80%만 일해요. 쉬는 시간이 더 갖고 싶어서가 아니라, 안 그러면 은퇴할 때까지 못 버틸 것 같아서요.
+Annika|B1|Varför har du aldrig sagt något? Vi har ju ätit middag flera gånger sedan dess.|왜 한 번도 말 안 했어? 그 뒤로 저녁도 몇 번이나 같이 먹었잖아.
+Ylva|C1|För att du var politiker, Annika, och jag ville ha kvar min vän. Du kom tillbaka i tolv veckor, och sedan gick du igen. Vi stannade. Det är inget fel i det du gjorde – men det är inte samma sak.|넌 정치인이었으니까, 안니카. 그리고 난 내 친구를 잃고 싶지 않았어. 넌 12주 동안 돌아왔다가 다시 떠났지. 우린 남았고. 네가 한 일이 잘못됐다는 게 아니야. 그냥 같은 일이 아니라는 거지.
+Sofia|B2|Det här talet ska inte handla om dig, utan om dem som fortfarande står kvar där.|이 연설은 대표님이 아니라 아직 거기 남아 있는 사람들에 관한 것이어야 해요. (안니카에게 조용히)
+Annika|B1|Ylva, får jag säga ditt namn i talet?|일바, 연설에서 네 이름 말해도 돼?
+Ylva|C1|Bara om du säger att jag är kvar. Inte att jag var en hjälte för sex år sedan, utan att jag fortfarande står här på tisdagsnätterna – och att vi fortfarande är för få.|내가 아직 여기 있다고 말할 거면. 6년 전에 영웅이었다는 게 아니라, 지금도 화요일 밤마다 여기 서 있다고. 그리고 우린 여전히 너무 적다고.
+# 장면 4 — 새벽의 부두, 7월 15일 수요일 새벽 5시 반
+Sofia|B1|Har du suttit här hela natten? Klockan är halv sex.|밤새 여기 앉아 있었어요? 5시 반이에요. (7월 15일 수요일 새벽 5시 반. 호수 위로 물안개. 부두 끝에 페르의 스웨터를 입은 안니카가 무릎에 노트를 올려놓고 앉아 있다. 소피아가 커피 두 잔을 들고 내려온다)
+Annika|B2|Sedan två. Jag kunde inte sova efter Ylva, så jag tog ett block och gick ner hit. Jag har strukit allt utom en sida.|2시부터요. 일바 만나고 나서 잠이 안 와서 노트 하나 들고 내려왔어요. 한 장만 남기고 다 지웠어요.
+Sofia|B2|Läs den för mig. Inte som ett tal – läs den som om du berättade det för Per.|읽어 줘요. 연설처럼 말고, 페르 씨한테 얘기하듯이요.
+Annika|C1|"I natt, när ni sover, står Ylva i en korridor på universitetssjukhuset här i Örebro. Hon har arbetat på intensiven i trettioett år. I dag arbetar hon åttio procent, eftersom hon annars inte orkar fram till pensionen."|"오늘 밤, 여러분이 잠든 사이에도 일바는 이곳 외레브로 대학병원의 한 복도에 서 있습니다. 중환자실에서 31년을 일했습니다. 지금은 80%만 일합니다. 그러지 않으면 은퇴할 때까지 버틸 수 없기 때문입니다."
+Sofia|B2|Bra. Inte ett enda "jag" på tre meningar. Fortsätt.|좋아요. 세 문장에 '저'가 한 번도 없어요. 계속해요.
+Annika|C1|"Våren 2020 kallade vi dem hjältar. Vi applåderade dem från balkongerna, och sedan lät vi dem gå sönder i det tysta. Av de sexton i Ylvas nattlag är sju borta i dag."|"2020년 봄, 우리는 그들을 영웅이라 불렀습니다. 우리는 발코니에서 그들에게 박수를 쳤고, 그런 다음 그들이 조용히 부서지도록 내버려 두었습니다. 일바의 야간 팀 열여섯 명 가운데 일곱 명이 지금은 없습니다."
+Sofia|C1|Där. Den meningen kommer folk att ta med sig hem. Den pekar inte ut någon särskild, och just därför kan alla känna sig träffade – också vi som stod på balkongerna.|거기요. 그 문장은 사람들이 집에 가져갈 거예요. 누구 한 사람을 지목하지 않아요. 바로 그래서 모두가 찔리는 거죠. 발코니에 서 있던 우리까지요.
+Jonas|B2|Jag hörde den sista meningen från stigen. Får jag sätta mig, eller stör jag?|마지막 문장 오솔길에서 들었어요. 앉아도 돼요, 아니면 방해되나요? (손님 오두막에서 후드티 차림으로 내려온 요나스)
+Annika|B2|Sätt dig. Men du får inte säga ordet "känslopunkt".|앉아요. 대신 '감동 포인트'라는 말은 하면 안 돼요.
+Jonas|C1|Jag lovar. Jag tänkte faktiskt säga motsatsen: i måndags ville jag låna en patients sista minuter, och i dag har du skrivit något som inte lånar någonting av någon.|약속할게요. 사실 정반대 얘기를 하려던 참이에요. 그저께 저는 한 환자의 마지막 몇 분을 빌려 오려고 했는데, 오늘 대표님은 누구한테서도 아무것도 빌리지 않은 글을 썼어요.
+Sofia|C1|Nu har vi berättelsen och problemet. Men ett tal som stannar där blir en klagosång, hur vacker den än är. Vad är lösningen, Annika?|이제 이야기와 문제는 있어요. 하지만 거기서 멈추는 연설은 아무리 아름다워도 넋두리가 돼요. 해법은 뭐예요, 안니카 씨?
+Annika|C1|"Vi kommer inte att lova att allt blir bra. Vi lovar en sak: klockan tre på natten ska det finnas en till på avdelningen. Det kostar ungefär tre miljarder kronor om året. Det är mycket pengar. Men fråga vilken sjukhuschef som helst vad det kostar att ersätta en intensivvårdssjuksköterska som har gått."|"모든 게 좋아질 거라고 약속하지 않겠습니다. 한 가지만 약속합니다. 새벽 3시, 병동에 한 사람이 더 있게 하겠습니다. 1년에 약 30억 크로나가 듭니다. 큰돈입니다. 하지만 아무 병원장에게나 물어보십시오. 떠나 버린 중환자실 간호사 한 명을 대신할 사람을 구하는 데 얼마가 드는지."
+Jonas|B2|Elins siffra, och rätt siffra den här gången. Tre komma en miljarder. Säg "ungefär tre", så har du marginal om någon räknar efter.|엘린의 숫자네요. 이번엔 맞는 숫자고요. 31억. '약 30억'이라고 하면 누가 다시 계산해도 여유가 있어요.
+Annika|C1|Jag har skrivit tre komma ett på handen sedan maj. Den här gången tänker jag inte glömma vilken siffra som hör till vilket löfte.|5월부터 손등에 3,1을 써 왔어요. 이번엔 어느 숫자가 어느 약속에 붙는지 잊지 않을 거예요.
+Sofia|C1|Återstår uppmaningen. Det är där de flesta tal tappar modet – man har byggt upp hela berättelsen och vågar sedan inte be om någonting.|남은 건 요청이에요. 대부분의 연설이 거기서 용기를 잃어요. 이야기를 다 쌓아 놓고, 막상 아무것도 부탁하지 못하는 거죠.
+Annika|B2|Jag vill inte avsluta med "rösta på oss". Det har jag sagt i tjugo år, och det har aldrig fungerat.|'저희에게 투표해 주십시오'로 끝내고 싶지 않아요. 20년 동안 그 말을 했는데 한 번도 통한 적이 없어요.
+Jonas|C1|Då ber du om något annat än rösten. Be dem tänka på en enda person som står kvar – en sjuksköterska, en undersköterska, en busschaufför – och fråga vad den personen skulle behöva för att orka ett år till.|그럼 표 말고 다른 걸 부탁해요. 아직 남아 있는 딱 한 사람을 떠올려 달라고 해요. 간호사든, 요양보호사든, 버스 기사든. 그리고 그 사람이 1년 더 버티려면 뭐가 필요할지 물어보는 거예요.
+Annika|C1|"Tänk på någon du känner som fortfarande står kvar. Hon behöver inte era applåder. Hon behöver att ni går och röstar den trettonde september, som om det vore hennes nattpass det gällde."|"아직 남아 있는, 여러분이 아는 누군가를 떠올려 보십시오. 그 사람에게 필요한 건 여러분의 박수가 아닙니다. 9월 13일에 투표하러 가 주는 것입니다. 그것이 그 사람의 야간 근무가 걸린 일인 것처럼."
+Sofia|B2|Det är bättre än något av de tre utkasten. Och det tog dig en natt, inte en vecka.|초고 세 개 중 어느 것보다 나아요. 그리고 일주일이 아니라 하룻밤 걸렸네요.
+Annika|C1|Det tog mig sex år, Sofia. Jag har bara inte vågat skriva ner det förrän nu – för då måste jag erkänna att jag också var en av dem som gick.|6년 걸렸어요, 소피아 씨. 지금까지 적을 용기가 없었을 뿐이에요. 적으면 저도 떠난 사람 중 하나였다는 걸 인정해야 하니까요.
+Jonas|B2|Du gick för att försöka ändra det som fick Ylva att gå ner till åttio procent. Det är inte samma sak som att ge upp.|대표님은 일바 씨를 80%로 줄이게 만든 그걸 바꿔 보려고 떠난 거예요. 포기한 거랑은 달라요.
+Annika|C1|Kanske inte. Men om jag säger det från scenen låter det som ett försvarstal. Jag låter Ylva vara kvar i talet och tar själv ett steg tillbaka – det är det enda sätt jag kan stå där med gott samvete.|그럴지도요. 하지만 그걸 무대에서 말하면 변명처럼 들려요. 일바는 연설 속에 남겨 두고 저는 한 발 물러설게요. 그래야만 떳떳하게 거기 설 수 있어요.
+Sofia|C1|Då har talet äntligen hittat sin huvudperson. Och det är första gången på sju månader som jag inte behöver stryka ett enda ord av det du har skrivit.|그럼 이 연설은 드디어 주인공을 찾았네요. 그리고 7개월 만에 처음으로, 대표님이 쓴 글에서 한 단어도 지울 필요가 없어요.
+# 장면 5 — 같은 부두, 마지막 리허설, 8월 2일 일요일 저녁 7시 반
+Per|A2|Var ska jag sitta? Här på båthuset?|나 어디 앉으면 돼요? 여기 보트 창고 위?
+Sofia|A2|Ja, där. Sista gången i kväll. Är du redo, Annika?|네, 거기요. 오늘 밤이 마지막이에요. 준비됐어요, 안니카 씨? (8월 2일 일요일 저녁 7시 반. 2주 반 만에 다시 별장. 연설까지 엿새. 부두 끝에 안니카, 보트 창고 지붕 아래에 페르, 계단에 요나스)
+Annika|B1|Ja. Inga kort i kväll, bara en sida – och den kan jag utantill.|네. 오늘 밤엔 카드 없어요. 한 장뿐이고, 그건 외웠어요.
+Jonas|B2|Den senaste mätningen kom i fredags: tre komma sex. Det är det högsta vi har haft på hela året, och talet har inte ens hållits än.|금요일에 최신 조사가 나왔어요. 3.6%. 올해 들어 최고예요. 연설은 아직 하지도 않았는데.
+Per|A2|Jag är redo. I kväll är jag ett helt torg.|난 준비됐어. 오늘 밤엔 내가 광장 하나 전체야. (광장 torg는 ett-명사 — ett helt torg)
+Annika|C1|"… Tänk på någon du känner som fortfarande står kvar. Hon behöver inte era applåder. Hon behöver er röst den trettonde september – som om det vore hennes nattpass det gällde. Tack."|"… 아직 남아 있는, 여러분이 아는 누군가를 떠올려 보십시오. 그 사람에게 필요한 건 여러분의 박수가 아닙니다. 9월 13일, 여러분의 표입니다. 그것이 그 사람의 야간 근무가 걸린 일인 것처럼. 고맙습니다." (11분 40초. 호수 위로 저녁 해. 아무도 박수를 치지 않는다. 몇 초의 정적)
+Sofia|B2|Elva minuter och fyrtio sekunder – under tolv för första gången. Per, du har hört alla versioner. Vad tyckte du?|11분 40초. 처음으로 12분 안에 들어왔어요. 페르 씨, 모든 버전을 다 들으셨잖아요. 어땠어요?
+Per|B2|Du lät som när du kom hem efter ett nattpass och berättade vem som hade klarat sig. Det har jag inte hört på sex år.|야간 근무 끝나고 집에 와서 누가 살아났는지 얘기해 주던 그때 목소리 같았어. 그 목소리, 6년 동안 못 들었어.
+Annika|C1|Det är det finaste du kunde ha sagt. Och det värsta – för nu vet jag hur länge jag har låtit som någon annan.|당신이 할 수 있는 가장 아름다운 말이야. 그리고 가장 아픈 말이고. 내가 얼마나 오랫동안 다른 사람처럼 말해 왔는지 이제 알겠으니까. (그때 부두 위에 엎어 둔 안니카의 휴대폰이 진동한다)
+Jonas|B2|Din telefon. Det är Elin – kvart i tio en söndagskväll. Hon brukar aldrig ringa så här dags.|대표님 전화요. 엘린이에요. 일요일 밤 9시 45분인데. 이 시간엔 절대 전화 안 하는 사람이에요. (화면을 보고 휴대폰을 건넨다)
+Annika|A2|Hej, Elin. Är allt bra?|안녕하세요, 엘린 씨. 별일 없죠?
+Elin|B1|Annika, jag har hittat något i bokföringen. Vi måste ses i morgon. Utan Ulf.|안니카 씨, 회계에서 뭔가 찾았어요. 내일 만나요. 울프 씨 빼고요. (스피커 너머 엘린의 목소리 뒤로 종이 넘기는 소리. 안니카는 일어서지 못한다. 요나스가 계단에서 천천히 일어선다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Ska vi bada först?** | 먼저 수영할까? | *ska vi …?* = "~할까?" 하고 같이 하자고 제안하는 가장 흔한 방식. *bada* 는 '목욕하다'만이 아니라 바다·호수에서 '수영하러 들어가다'. 운동으로서의 수영은 *simma* |
+| `A2` | **I kväll är jag ett helt torg.** | 오늘 밤엔 내가 광장 하나 전체야. | *torg* 는 ett-명사 → 형용사도 *helt*(*ett helt torg*, en-명사면 *en hel stad*). 시간 부사로 시작해 V2 어순 *är jag* |
+| `B1` | **Jag vill inte använda patienterna för att vinna röster.** | 환자들을 표 얻는 데 이용하고 싶지 않아요. | *för att* + 부정사 = 목적("~하려고"). *använda* 는 '사용하다'와 '이용해 먹다' 둘 다 된다 — 맥락으로 구별 |
+| `B1` | **Där har du rätt.** | 그 말이 맞아요. | *ha rätt* = 옳다(*vara rätt* 가 아님). 장소 부사 *där* 를 앞에 두면 "그 점에선"이라는 양보의 뉘앙스가 생긴다. 반대는 *ha fel* |
+| `B2` | **Det här talet ska inte handla om dig, utan om dem som fortfarande står kvar där.** | 이 연설은 당신이 아니라 아직 거기 남아 있는 사람들에 관한 것이어야 해요. | *handla om* = ~에 관한 것이다. *inte X, utan Y* 대비. 전치사 뒤 대명사는 목적격 *dem*, 관계절 *som* 이 이어진다. *stå kvar* = 그 자리에 계속 남아 있다 |
+| `B2` | **Hon blev sjukskriven för utmattningssyndrom.** | 그녀는 탈진 증후군으로 병가를 받았어. | *bli sjukskriven* = (의사 소견으로) 병가 처리되다 — 수동형 분사. 병명 앞 전치사는 *för*. 일상어 *utbränd*(번아웃된)보다 공식적인 진단명 |
+| `B2` | **Vad var det svåraste?** | 제일 힘들었던 건 뭐였어요? | 최상급 명사형 *det svåraste* = 가장 어려운 것. 인터뷰에서 열린 질문의 기본형. 소피아식 경청 화법 — 답을 유도하지 않는다 |
+| `C1` | **Vi applåderade dem från balkongerna, och sedan lät vi dem gå sönder i det tysta.** | 우리는 발코니에서 그들에게 박수를 쳤고, 그런 다음 그들이 조용히 부서지도록 내버려 두었습니다. | *låta + 목적어 + 부정사* = ~하도록 내버려 두다. *sedan* 뒤 V2 어순 *lät vi*. *gå sönder* 는 원래 물건이 '고장 나다' — 사람에게 쓰면 강한 은유. *i det tysta* = 남몰래, 소리 없이 |
+| `C1` | **Ett tal som stannar där blir en klagosång, hur vacker den än är.** | 거기서 멈추는 연설은 아무리 아름다워도 넋두리가 돼요. | *hur + 형용사 + 주어 + än + 동사* = "아무리 ~해도"(양보). *klagosång* = 비가(悲歌), 넋두리. 연설 비평의 문어적 표현 |
+| `C1` | **… som om det vore hennes nattpass det gällde.** | 그것이 그 사람의 야간 근무가 걸린 일인 것처럼. | *som om* + 접속법 과거 *vore*(= *var*)로 가정. *det gäller X* = X가 걸린 문제다 — 분열문으로 *hennes nattpass* 를 강조 |
+
+## 현안 메모
+- **2020년 봄의 중환자실** — 코로나19 1차 유행 때 스웨덴의 광역 지역(region)들은 수술 일정을 미루고 회복실·수술실을 중환자 병상으로 바꾸며, 평소 전국 약 500개 수준이던 중환자 병상을 한때 두 배가량으로 늘렸다. 수술·마취 간호사와 다른 과 인력이 급히 재배치되고, 전직 간호사들이 다시 현장에 불려 나왔다. 감염 확산을 막기 위해 병원과 요양 시설 방문이 크게 제한되면서, 많은 가족이 태블릿 화면으로 마지막 인사를 했다. 정부가 꾸린 코로나 위원회(Coronakommissionen)는 2022년 최종 보고서에서 노인 돌봄의 구조적 약점과 초기 대응의 문제를 지적했다.
+- **전문 간호사 부족** — 보건복지청(Socialstyrelsen)이 해마다 내는 인력 수급 평가에서 거의 모든 광역 지역이 전문 간호사, 특히 중환자·마취·수술 간호사의 부족을 보고한다. 간호사 면허를 가진 사람이 의료 밖 직종으로 옮기거나 근무 시간을 줄이는 문제, 야간·교대 근무의 부담, 비싼 인력 파견 업체(hyrpersonal) 의존이 함께 논의된다.
+- **소진과 병가** — 스웨덴에서는 스트레스 관련 질환을 중심으로 한 정신과 진단이 병가의 가장 흔한 원인이며, 의료·돌봄 분야에서 일하는 여성이 특히 많이 영향을 받는다. *utmattningssyndrom*(탈진 증후군)은 장기간의 스트레스 뒤에 오는 진단명으로, 회복에 몇 달에서 몇 년이 걸리기도 한다.
+- 이번 화의 병동 숫자(병상 10 → 22, 야간 팀 16명 중 7명 이직), 인물(일바·셰르스틴·페르), '우리의 영웅들' 포스터는 모두 가상이다. 공약 비용 연 약 31억 크로나는 이 드라마 속 엘린의 계산(7화)이다.
+
+## 비즈니스 메모
+- **이야기·문제·해법·요청 (Story–Problem–Solution–Ask)** — 설득형 연설과 피치의 기본 뼈대. ① **이야기**: 청중이 들어올 문을 한 사람의 구체적인 장면으로 연다 ② **문제**: 그 사람의 상황이 왜 개인의 불운이 아니라 구조의 문제인지 보여 준다 ③ **해법**: 무엇이 얼마의 비용으로 바뀌는지 하나만, 정확하게 ④ **요청**: 청중이 오늘 집에 가서 할 수 있는 일 하나. 흔한 실패는 두 가지다 — 이야기에서 감정만 빌려 오고 문제로 넘어가지 못하는 것, 그리고 다 쌓아 놓고 마지막에 아무것도 요청하지 못하는 것.
+- **"이 이야기는 누구의 것인가"** — 이야기를 고를 때의 첫 질문은 "효과가 있나"가 아니라 "말할 권리가 누구에게 있나"다. 남의 가장 아픈 순간을 빌린 이야기는 들키는 순간 메시지 전체를 무너뜨린다. 그 사람의 허락을, 그 사람이 정한 조건으로 받는 것(일바: "내가 아직 여기 있다고 말할 거면")이 진정성의 최소 조건이다.
+
+## 다음 화 예고 — Kassaskåpet
+**4부 11화.** 8월 3일 월요일 아침, 쿵스홀멘 당사의 좁은 재무실. 엘린의 노란 노트에는 1월부터 이어 온 기부금 점검의 줄이 빼곡하다. 서로 다른 이름으로 들어온 여러 건의 '소액 기부'가 하나의 출처로 이어진다. "Vem har gett pengarna?" 30년 동안 당의 금고를 지켜 온 울프는 기준선만 넘으면 선거 끝나고 정리하면 된다고 말하고, 마티아스는 덮자고 하고, 요나스는 지지율로 타이밍을 계산한다. 그리고 엘린은 3부의 자신에게로 돌아간다. "Vi granskar oss själva först." 전화기 너머 베르틸은 1991년, 자신이 침묵했던 값을 이야기한다.
