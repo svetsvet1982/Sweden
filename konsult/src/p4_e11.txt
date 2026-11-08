@@ -1,0 +1,162 @@
+@title 4부 11화 — Kassaskåpet
+@subtitle (금고)
+@meta 날짜|2026년 8월 3일 월요일 ~ 5일 수요일 · 8월 6일 목요일 아침
+@meta 장소|쿵스홀멘 당사 2층 재무실 (3일 월요일 아침 8시) → 같은 재무실, 울프와의 대면 (3일 오후 2시) → 호른스가탄 클라르쉰 사무실, 비상 회의 (4일 화요일 오전 9시) → 같은 사무실, 베르틸의 전화 (4일 밤 9시 10분) → 당사 '큰 방' 기자회견 (5일 수요일 오전 11시) → 당사 부엌 (6일 목요일 아침)
+@meta 등장인물|**Elin Bergqvist** (엘린 베리크비스트, 37, 정책·예산·리스크) · **Annika Strand** (안니카 스트란드, 49, 당 대표) · **Jonas Ekholm** (요나스 에크홀름, 44, 수석 전략가) · **Ulf Brandt** (울프 브란트, 61, 당 재무 담당 — 창당 때부터 금고를 맡아 옴) · **Mattias Öberg** (마티아스 외베리, 56, 사무총장) · **Bertil Ljung** (베르틸 류웅, 68, Klarsyn 고문 — 전화) · **Linus Falk** (리누스 팔크, 41, 『Stockholms-Kuriren』 기자) · **Johanna Sjöblom** (요한나 셰블롬, 30대, 라디오 기자 — 가상 인물)
+@meta 이번 화의 도구|자진 공개 (Proaktiv transparens) — "나쁜 소식은 직접, 한 번에, 전부." 숨길 수 있느냐가 아니라 '언젠가 반드시 드러날 일을 누가, 언제, 어떤 문장으로 먼저 말하느냐'를 정하는 기술. 이번 화의 질문 뒤의 질문은 "이걸 덮을 수 있나"가 아니라 "우리가 알고 있던 날수를 나중에 어떻게 설명할 건가"
+@meta 스웨덴 현안|정당 재정 투명성 — 정당 재정 투명성법(lag om insyn i finansiering av partier)에 따라 정당은 해마다 수입을 캄마르콜레기에트(Kammarkollegiet)에 신고하고, 같은 기부자에게서 1년 동안 일정액 이상을 받으면 기부자의 신원을 밝혀야 한다. 익명 기부는 원칙적으로 금지된다. 기준선 바로 아래로 '쪼갠' 기부는 이 제도의 허점이자 감시의 대상
+@intro **지난 이야기** — 7월 중순, 옐마렌 호숫가의 여름 별장. 요나스의 첫 초고는 2020년 봄 인공호흡기를 단 환자의 마지막 몇 분으로 시작했지만, 안니카는 고개를 저었다. "환자들을 표 얻는 데 이용하고 싶지 않아요." 외레브로 대학병원 중환자실 복도에서 옛 동료 일바는 '우리의 영웅들' 포스터가 떼어진 빈 고리를 가리켰고, 야간 팀 열여섯 명 중 일곱 명이 떠났다고 말했다. 새벽의 부두에서 안니카는 '저'가 거의 없는 한 장을 썼다. "우리는 발코니에서 그들에게 박수를 쳤고, 그런 다음 그들이 조용히 부서지도록 내버려 두었습니다." 8월 2일 일요일 밤, 마지막 리허설은 11분 40초. 그리고 밤 9시 45분, 엘린의 전화. "회계에서 뭔가 찾았어요. 내일 만나요. 울프 빼고."
+@intro 7월 31일 발표된 여론조사는 3.6% — 올해 최고치다. 8월 8일 토요일 외레브로 스토르토리에트의 여름 연설까지 닷새, 8월 26일 사전투표 시작까지 3주. 1월에 서명한 위임서 6조는 분명하다. 옹호할 수 없는 것을 찾으면 48시간 안에 안니카에게 먼저 알리고, 그다음 당은 대응을, 클라르쉰은 남을지를 정한다. 엘린은 4월부터 매달 기부금을 한 줄씩 점검해 왔다. 재무실 구석에는 창당 때 중고로 산 녹색 금고가 있고, 그 열쇠는 8년 동안 울프의 열쇠 꾸러미에만 달려 있었다.
+# 장면 1 — 쿵스홀멘 당사 2층 재무실, 8월 3일 월요일 아침 8시
+Annika|A2|Hej. Jag har inte sovit. Vad har du hittat?|안녕하세요. 한숨도 못 잤어요. 뭘 찾은 거예요? (8월 3일 월요일 아침 8시. 당사 2층 복도 끝의 좁은 재무실. 울프의 책상 위엔 분기별로 꽂힌 바인더, 창가엔 말라 가는 제라늄, 구석엔 녹색 칠이 벗겨진 낡은 금고. 엘린이 노트북과 노란 노트를 펼쳐 놓고 기다린다. 울프는 오후 2시에 출근한다)
+Elin|B1|Sätt dig först. Jonas är på väg upp med kaffe. Jag vill bara säga det en gång.|먼저 앉으세요. 요나스가 커피 들고 올라오는 중이에요. 한 번만 말하고 싶어서요.
+Jonas|A2|Tre koppar. Svart, svart och med mjölk.|세 잔. 블랙, 블랙, 그리고 우유 넣은 거. (계단을 올라와 발로 문을 밀어 연다)
+Elin|B2|Sedan april går jag igenom alla bidrag varje månad, som det står i uppdragsbrevet. I går kväll tog jag juli. Den tjugofjärde juli kom det elva Swishbetalningar på exakt samma belopp inom fyrtio minuter.|4월부터 위임서에 적힌 대로 매달 기부금을 전부 점검하고 있어요. 어젯밤에 7월 걸 봤어요. 7월 24일에 정확히 같은 금액의 스위시 송금이 40분 안에 열한 건 들어왔어요.
+Annika|B1|Elva personer som gav samtidigt? Det kan väl hända efter ett bra klipp?|열한 명이 동시에 기부했다고요? 반응 좋은 클립 하나 나가면 그럴 수도 있지 않아요?
+Elin|B2|Det trodde jag också. Men beloppet var tvåtusen niohundra kronor varje gång. Inte hundra, inte femhundra – tvåtusen niohundra.|저도 그렇게 생각했어요. 그런데 금액이 매번 2,900크로나였어요. 100도 아니고 500도 아니고, 2,900.
+Jonas|B1|Det är en konstig summa. Ingen ger tvåtusen niohundra av sig själv.|이상한 금액이네. 자기 돈으로 2,900을 딱 맞춰 내는 사람은 없지.
+Elin|C1|Nej, och det är just det, Annika. Enligt lagen om insyn i finansiering av partier ska bidrag från samma givare redovisas med givarens identitet om de under ett år sammanlagt överstiger fem procent av ett prisbasbelopp. I år ligger den gränsen strax under tretusen kronor.|네, 바로 그거예요, 안니카 씨. 정당 재정 투명성법에 따르면, 같은 기부자에게서 1년 동안 받은 기부금이 합쳐서 물가기준액(prisbasbelopp)의 5%를 넘으면 기부자의 신원과 함께 신고해야 해요. 올해 그 기준선이 3천 크로나 바로 아래예요.
+Annika|B1|Så tvåtusen niohundra är … precis under gränsen.|그러니까 2,900은… 기준선 바로 아래네요.
+Elin|B2|Precis under. Då gick jag bakåt i hela året. Från den andra mars till den tjugofjärde juli har det kommit sextiofyra sådana bidrag, alltid från olika namn. Var för sig drunknade de bland vanliga småbidrag – det var först i juli som de kom samtidigt.|바로 아래요. 그래서 올해 전체를 거슬러 올라가 봤어요. 3월 2일부터 7월 24일까지 이런 기부가 예순네 건 들어왔어요. 늘 다른 이름으로요. 하나씩 놓고 보면 평범한 소액 기부들 사이에 묻혀 있었어요. 한꺼번에 들어온 건 7월이 처음이었고요.
+Jonas|B1|Sextiofyra gånger tvåtusen niohundra. Hur mycket blir det?|64 곱하기 2,900. 얼마야?
+Elin|A2|Hundraåttiofemtusen sexhundra.|18만 5,600. (노란 노트를 보지도 않고)
+Annika|B2|Det är mycket pengar för oss, men det är ingen förmögenhet. Varför skulle någon göra sig så mycket besvär för det?|우리한텐 큰돈이지만 재산이라 할 정도는 아니잖아요. 누가 그거 때문에 그렇게까지 수고를 해요?
+Elin|B2|För att man inte syns. Varje bidrag för sig är helt lagligt och hamnar inte med namn i någon redovisning. Bidragen är uppdelade så att inget av dem ska behöva redovisas.|안 보이려고요. 기부 하나하나는 완전히 합법이고, 어떤 신고서에도 이름이 안 올라가요. 기부금이 하나도 신고할 필요가 없도록 쪼개져 있어요.
+Annika|A2|Vem har gett pengarna?|누가 돈을 줬어요?
+Elin|B2|Det står inte på betalningarna. Men jag sökte på namnen i öppna källor. Av de sextiofyra personerna jobbar minst fyrtioen på Hellsing Bygg eller på något av deras dotterbolag.|송금 내역엔 안 나와요. 그런데 공개된 자료에서 이름들을 찾아봤어요. 64명 중 적어도 마흔한 명이 Hellsing Bygg이나 그 자회사에서 일해요.
+Jonas|B1|Hellsing. Var inte han med på middagen i Visby?|헬싱. 그 사람 비스뷔 만찬에 있지 않았어?
+Elin|B2|Rikard Hellsing stod på gästlistan till middagen som Henrik bjöd in oss till. Jag skrev ner namnet i juni, för att jag inte gillade känslan.|리카르드 헬싱은 헨리크가 우릴 초대한 그 만찬 손님 명단에 있었어. 6월에 이름을 적어 뒀거든. 느낌이 별로여서.
+Jonas|B2|Men att anställda på samma företag ger pengar till samma parti är inte förbjudet. Det kan vara en chef som har pratat varmt om oss på en personalfest.|그래도 같은 회사 직원들이 같은 정당에 돈을 내는 게 금지된 건 아니잖아. 회식 자리에서 어떤 상사가 우리 칭찬을 했을 수도 있고.
+Elin|B1|Det trodde jag också, i ungefär tio minuter. Sedan hittade jag det här mejlet.|나도 그렇게 생각했어, 한 10분쯤. 그러다 이 메일을 찾았지. (노트북 화면을 두 사람 쪽으로 돌린다)
+Annika|B1|"Hej, kan jag få ett kvitto på mitt bidrag? Jobbet betalar tillbaka. Mvh Oskar." Vem är Oskar?|"안녕하세요, 제 기부금 영수증 받을 수 있을까요? 회사에서 돌려준대요. 오스카르 드림." 오스카르가 누구예요? (소리 내어 읽는다)
+Elin|B2|En snickare i Västerås, tjugotre år, anställd på ett av Hellsings dotterbolag. Mejlet kom till partiets allmänna adress den tjugofemte juli. Och det besvarades samma dag.|베스테로스의 목수, 스물세 살, 헬싱 자회사 한 곳 직원이에요. 메일은 7월 25일에 당 대표 메일 주소로 왔어요. 그리고 같은 날 답장이 갔고요.
+Annika|B1|Av vem?|누가 답했는데요?
+Elin|B1|"Kvitto bifogas. Vänliga hälsningar, Ulf."|"영수증 첨부합니다. 안녕히 계세요, 울프." (화면 속 답장을 가리킨다. 아무도 말이 없다)
+Jonas|C1|Då är det inte längre en fråga om sextiofyra småbidrag. Om arbetsgivaren betalar tillbaka är det i praktiken ett enda bidrag från ett enda företag, bara förklätt till sextiofyra olika givare.|그럼 이건 더 이상 소액 기부 예순네 건의 문제가 아니네요. 고용주가 돈을 돌려준다면, 사실상 한 회사가 낸 기부 하나예요. 서로 다른 기부자 예순네 명으로 변장했을 뿐이고.
+Elin|C1|Exakt. Och om det stämmer har vi en givare som borde ha redovisats med namn – och kanske ett bidrag där den verkliga givaren medvetet har dolts. Hur Kammarkollegiet bedömer det vet jag inte. Jag är inte jurist, och jag tänker inte låtsas vara det.|맞아. 그게 사실이라면 이름과 함께 신고됐어야 할 기부자가 한 명 있는 거고, 어쩌면 진짜 기부자를 일부러 숨긴 기부일 수도 있어. 캄마르콜레기에트가 그걸 어떻게 판단할지는 몰라. 난 법률가가 아니고, 그런 척할 생각도 없어.
+Annika|B2|Har Ulf vetat om det här hela tiden? Han har varit med sedan första dagen. Han lånade ut sin egen bil till valrörelsen 2018.|울프가 이걸 처음부터 알고 있었던 거예요? 그 사람은 첫날부터 함께였어요. 2018년 선거 땐 자기 차까지 빌려줬고요.
+Elin|B2|Det vet jag inte heller. Jag vet bara vad som står i bokföringen och i det här mejlet. Det är därför jag ville prata med dig först, utan honom – precis som vi skrev i punkt sex.|그것도 몰라요. 제가 아는 건 장부에 적힌 것과 이 메일 내용뿐이에요. 그래서 울프 씨 없이 대표님과 먼저 얘기하고 싶었던 거예요. 6조에 적은 그대로요.
+Jonas|B2|Du har sagt det till Annika inom ett dygn. Nu är det partiet som ska bestämma vad det gör – och vi som ska bestämma om vi stannar.|안니카 씨한테는 하루 안에 말했어. 이제 뭘 할지는 당이 정할 차례고, 우리가 남을지는 우리가 정할 차례야.
+Annika|C1|Då vill jag höra Ulf själv innan jag tror någonting. Han förtjänar att få förklara sig, och jag förtjänar att höra det från honom och inte från en kolumn i ett kalkylark.|그럼 뭔가 믿기 전에 울프한테 직접 듣고 싶어요. 그 사람은 해명할 기회를 가질 자격이 있고, 저도 그걸 스프레드시트 한 칸이 아니라 그 사람 입으로 들을 자격이 있어요.
+# 장면 2 — 같은 재무실, 울프와의 대면, 8월 3일 오후 2시
+Ulf|A2|Hej allihop. Varför sitter ni i mitt rum?|다들 안녕하세요. 왜 내 방에 앉아 있어요? (오후 2시. 반팔 셔츠에 선글라스를 이마에 올린 울프 브란트, 61. 휴가 끝의 그을린 얼굴, 손에는 아내가 싸 준 계피빵 봉지)
+Annika|B1|Sätt dig, Ulf. Elin har gått igenom bidragen för juli, och vi har några frågor.|앉아, 울프. 엘린 씨가 7월 기부금을 점검했는데, 물어볼 게 좀 있어.
+Ulf|B1|Juli? Det var en bra månad. Efter Visby kom det pengar som aldrig förr.|7월? 좋은 달이었지. 비스뷔 이후로 돈이 전례 없이 들어왔어.
+Elin|B2|Det stämmer. Men sextiofyra av bidragen sedan mars är på exakt tvåtusen niohundra kronor, och minst fyrtioen av givarna jobbar inom Hellsing Bygg.|맞아요. 그런데 3월 이후 기부금 중 예순네 건이 정확히 2,900크로나이고, 기부자 중 적어도 마흔한 명이 Hellsing Bygg 계열에서 일해요.
+Ulf|B1|Byggarbetare får väl rösta på oss också? Ska vi kontrollera vem folk jobbar för nu?|건설 노동자도 우리 찍을 수 있는 거 아니에요? 이제 사람들이 어디서 일하는지까지 확인해야 해요?
+Elin|B1|Nej. Men det här mejlet besvarade du den tjugofemte juli.|아니요. 그런데 이 메일에 7월 25일에 답하셨죠. (노트북을 돌린다)
+Ulf|A2|Det där … det är bara ett kvitto.|그건… 그냥 영수증이에요. (화면을 한참 들여다본다)
+Jonas|B1|Det står "Jobbet betalar tillbaka". Läste du det innan du svarade?|"회사에서 돌려준대요"라고 써 있어요. 답하기 전에 읽으셨어요?
+Ulf|A2|Jag läser allt, Jonas. Det är mitt jobb.|난 다 읽어요, 요나스 씨. 그게 내 일이니까.
+Annika|B1|Då vet du alltså vad det betyder. Ulf, vad har hänt?|그럼 그게 무슨 뜻인지도 알겠네. 울프, 무슨 일이야?
+Ulf|B2|I slutet av februari ringde Rikard Hellsing. Han sa att han gillade det du sa om att saker ska fungera, och att han ville stötta oss, men inte hamna i tidningen.|2월 말에 리카르드 헬싱이 전화했어. 네가 '제대로 돌아가야 한다'고 한 말이 좋다고, 우릴 돕고 싶은데 신문엔 나오고 싶지 않다고.
+Elin|B1|Och vad svarade du?|그래서 뭐라고 답하셨어요?
+Ulf|B2|Jag sa som det är: att bidrag under gränsen inte redovisas med namn. Det är ingen hemlighet. Det står på Kammarkollegiets webbplats.|있는 그대로 말했어요. 기준선 아래 기부금은 이름이 신고되지 않는다고. 비밀도 아니에요. 캄마르콜레기에트 홈페이지에 다 나와 있다고요.
+Jonas|B2|Det som står där är hur gränsen fungerar. Inte hur man delar upp ett stort bidrag så att det hamnar under den.|거기 나와 있는 건 기준선이 어떻게 작동하느냐예요. 큰 기부금을 어떻게 쪼개서 그 밑으로 넣느냐가 아니라.
+Ulf|B2|Jag har aldrig sagt åt honom att dela upp något! Vad han gör med sina anställda är hans sak.|난 그 사람한테 뭘 쪼개라고 한 적 없어요! 자기 직원들이랑 뭘 하든 그 사람 일이지.
+Elin|C1|Men när en av dem skriver att arbetsgivaren betalar tillbaka, och du skickar ett kvitto samma dag, då går det inte längre att säga att man inte visste. Från och med den tjugofemte juli visste du.|하지만 그중 한 명이 회사가 돈을 돌려준다고 썼는데 같은 날 영수증을 보내셨다면, 몰랐다고는 더 이상 말할 수 없어요. 적어도 7월 25일부터는 알고 계셨던 거예요.
+Ulf|B1|Jag tänkte att vi tar det efter valet.|선거 끝나고 처리하자고 생각했어요.
+Annika|A2|Efter valet?|선거 끝나고?
+Ulf|C1|Annika, jag har varit kassör i trettio år. Först i bandyklubben i Sala, sedan i bostadsrättsföreningen och sedan 2018 här. Jag vet hur det är att inte ha pengar. Vi har inte haft råd med en enda tv-reklam på åtta år.|안니카, 난 30년 동안 회계를 맡아 왔어. 처음엔 살라 반디 클럽, 그다음엔 주택조합, 그리고 2018년부터는 여기. 돈이 없다는 게 어떤 건지 알아. 우린 8년 동안 TV 광고 한 편 낼 형편이 안 됐어.
+Jonas|B2|Det vet vi. Det är därför Elin har räknat på varje krona sedan januari.|알아요. 그래서 엘린이 1월부터 1크로나 하나까지 다 계산해 온 거고요.
+Ulf|B2|Om vi hamnar över fyra procent kan vi städa upp i lugn och ro. Om vi hamnar under spelar det ingen roll vad som står i bokföringen.|4%를 넘으면 차분하게 정리하면 돼. 못 넘으면 장부에 뭐라고 적혀 있든 상관없고.
+Elin|B2|Det spelar roll för dem som har gett oss sina röster. Och för de sextiofyra som har fått sina namn använda.|우리한테 표를 준 사람들한텐 상관있어요. 그리고 자기 이름이 이용된 예순네 명한테도요.
+Ulf|B1|Ingen har blivit lurad. Alla fick tillbaka sina pengar.|아무도 속은 사람 없어요. 다들 돈을 돌려받았잖아요.
+Jonas|B2|Det är just det som är problemet, Ulf. Om alla fick tillbaka sina pengar var det inte deras pengar.|바로 그게 문제예요, 울프 씨. 다들 돈을 돌려받았다면, 그건 그 사람들 돈이 아니었던 거예요.
+Ulf|B1|Rikard har aldrig bett om något i gengäld. Inte en enda gång.|리카르드는 대가로 뭘 요구한 적 없어요. 단 한 번도.
+Elin|C1|Inte än. Men Hellsing Bygg har ett planärende för ett industriområde i en kommun där två av våra ledamöter sitter i den nämnd som ska ta ställning till det. Det räcker för att det ska se ut som ett köp, vad det än var.|아직은요. 그런데 Hellsing Bygg은 한 지자체에 산업단지 계획 건이 걸려 있어요. 그걸 심의할 위원회에 우리 당 의원 두 명이 앉아 있는 곳이에요. 실제로 뭐였든, 매수처럼 보이기엔 그걸로 충분해요.
+Ulf|A2|Det visste jag inte.|그건 몰랐어. (작게)
+Annika|B2|Jag tror dig, Ulf. Men jag vet inte om någon annan kommer att göra det.|난 믿어, 울프. 하지만 다른 사람들도 믿어 줄지는 모르겠어.
+Ulf|B1|Vad tänker ni göra? Gå till tidningarna?|어떻게 할 건데? 신문사에 갈 거야?
+Annika|B2|Jag vet inte än. Men jag vill att du lämnar över nycklarna till kassaskåpet och inloggningarna till banken i dag, innan du går hem.|아직 몰라. 하지만 오늘 집에 가기 전에 금고 열쇠랑 은행 로그인 정보는 넘겨줘. (울프가 열쇠 꾸러미에서 작은 열쇠 하나를 빼 책상 위에 놓는다. 계피빵 봉지는 그대로 남는다)
+# 장면 3 — 호른스가탄 클라르쉰 사무실, 비상 회의, 8월 4일 화요일 오전 9시
+Mattias|B1|Så det här är Klarsyn. Jag trodde att det skulle vara större.|여기가 클라르쉰이군요. 더 클 줄 알았는데. (8월 4일 화요일 오전 9시. 호른스가탄의 옛 액자 가게. 커피 머신 밑에 행주. 마티아스가 처음으로 이곳에 왔다. 회색 카디건 대신 반팔 셔츠. 안니카, 엘린, 요나스가 작은 회의 탁자에 둘러앉아 있다)
+Jonas|A2|Vi också. Kaffe? Maskinen läcker lite.|저희도요. 커피 드릴까요? 기계가 좀 새요.
+Mattias|C1|Ingen kaffe, tack. Låt mig säga det rakt ut, så slipper vi låtsas: vi betalar tillbaka pengarna i tysthet, Ulf går i pension av hälsoskäl efter valet, och vi skärper rutinerna. Ingen utanför det här rummet behöver veta något.|커피는 됐어요. 돌려 말하지 않을게요. 그래야 서로 모르는 척할 필요가 없으니까. 돈은 조용히 돌려주고, 울프는 선거 뒤에 건강상 이유로 은퇴하고, 절차는 강화하는 거예요. 이 방 밖의 누구도 알 필요 없어요.
+Elin|B2|Sextiofyra personer vet redan att de har fått pengar tillbaka. Och Rikard Hellsing vet varför han gav dem.|예순네 명은 이미 돈을 돌려받았다는 걸 알아요. 그리고 리카르드 헬싱은 자기가 왜 그 돈을 줬는지 알고요.
+Mattias|B2|Byggjobbare ringer inte till Stockholms-Kuriren. De har annat att göra.|건설 노동자들은 『스톡홀름스 쿠리렌』에 전화 안 해요. 다들 할 일이 있다고요.
+Elin|C1|Ingen behöver ringa. Förr eller senare granskar någon våra konton – en revisor, Kammarkollegiet eller en journalist efter valet – och då hittar de samma sextiofyra rader som jag hittade en söndagskväll.|아무도 전화할 필요 없어요. 조만간 누군가 우리 계좌를 들여다볼 거예요. 회계감사인이든, 캄마르콜레기에트든, 선거 뒤의 기자든. 그럼 제가 일요일 밤에 찾은 그 예순네 줄을 똑같이 찾겠죠.
+Jonas|B2|Jag har gjort en enkel kalkyl i natt. Får jag visa den innan vi bestämmer något?|어젯밤에 간단한 계산을 해 봤어요. 뭘 정하기 전에 보여 드려도 될까요?
+Annika|A2|Visa.|보여 줘요.
+Jonas|C1|Vi ligger på tre komma sex. Om vi tiger och det läcker i september, mitt i förtidsröstningen, tror jag att vi faller under tre procent. Jag sätter risken för en läcka före valet till minst sextio procent – sextiofyra namn, ett mejl och ett byggbolag med konkurrenter är ingen hemlighet, det är en tidsinställd bomb.|지금 3.6%예요. 입 다물고 있다가 9월에, 사전투표 한복판에 새어 나가면 3% 밑으로 떨어질 거라고 봐요. 선거 전에 새어 나갈 위험은 적어도 60%로 잡았어요. 이름 예순네 개, 메일 한 통, 경쟁사가 있는 건설 회사 — 이건 비밀이 아니라 시한폭탄이에요. (화이트보드에 두 갈래 나무를 그린다)
+Mattias|B1|Och om vi berättar själva?|그럼 우리가 직접 말하면요?
+Jonas|B2|Då faller vi direkt, kanske till tre komma två eller tre komma tre. Men vi faller i augusti och inte i september, och vi har fem veckor på oss att visa vad vi gjorde åt det.|그럼 바로 떨어지죠. 3.2나 3.3쯤까지. 하지만 9월이 아니라 8월에 떨어지는 거고, 우리가 그걸 어떻게 처리했는지 보여 줄 시간이 5주 있어요.
+Elin|B1|Det här måste vi berätta själva.|이건 우리가 직접 말해야 해요.
+Jonas|B2|Jag håller med. Men frågan är när. Talet på Stortorget är på lördag. Om vi går ut i morgon handlar lördagens rubriker om Ulf, inte om Ylva.|동의해. 문제는 언제냐야. 스토르토리에트 연설이 토요일이야. 내일 발표하면 토요일 헤드라인은 일바가 아니라 울프 얘기가 돼.
+Mattias|B2|Då ställer vi in talet. Eller skjuter upp det en vecka. Ingen minns ett tal som hölls mitt i en skandal.|그럼 연설을 취소해요. 아니면 일주일 미루든가. 스캔들 한복판에 한 연설은 아무도 기억 안 해요.
+Jonas|C1|Eller så håller vi talet på lördag som planerat och går ut med det här på måndag. Då får talet sina rubriker, och vi har fortfarande två veckor kvar innan förtidsröstningen öppnar den tjugosjätte augusti.|아니면 토요일 연설은 예정대로 하고 이건 월요일에 발표하는 거예요. 그럼 연설은 연설대로 헤드라인을 받고, 8월 26일 사전투표가 시작되기 전까지 여전히 2주가 남아요.
+Elin|C1|Då står Annika på Stortorget och pratar om dem som står kvar, och bär på ett kassaskåp som vi redan har öppnat. Om det kommer ut senare att vi visste i fem dagar är det inte Ulfs skandal längre. Då är det hennes.|그럼 안니카 씨는 우리가 이미 열어 본 금고를 짊어진 채 스토르토리에트에 서서 남아 있는 사람들 얘기를 하게 돼. 우리가 닷새 동안 알고 있었다는 게 나중에 밝혀지면, 그땐 더 이상 울프 씨의 스캔들이 아니야. 안니카 씨의 스캔들이지.
+Mattias|B2|Ni konsulter pratar om sanning som om den vore gratis. Jag är den som fick ringa åtta anställda efter förra valet.|당신들 컨설턴트는 진실이 공짜인 것처럼 말하네요. 지난 선거 뒤에 직원 여덟 명한테 전화해야 했던 건 나예요.
+Annika|B1|Jag vet, Mattias. Jag vet vad de samtalen kostade dig.|알아, 마티아스. 그 전화들이 너한테 어떤 대가였는지 알아.
+Mattias|C1|Då vet du också vad jag lovade dem som fick stanna: att det aldrig skulle hända igen. Om vi hamnar under spärren igen på grund av hundraåttiofemtusen kronor från en byggare, då har jag svikit dem två gånger.|그럼 내가 남게 된 사람들한테 뭘 약속했는지도 알겠네. 다시는 그런 일 없을 거라고. 건설업자한테 받은 18만 5천 크로나 때문에 또 기준선 밑으로 떨어지면, 난 그 사람들을 두 번 배신하는 거야.
+Elin|B2|Och om vi tar oss in tack vare pengar som vi visste var fel – vad har du lovat dem då?|그리고 잘못된 줄 알면서 받은 돈 덕분에 들어간다면, 그땐 그 사람들한테 뭘 약속한 셈이 되는 거죠?
+Mattias|B1|Det är lätt för dig att säga. Du har ett eget företag att gå tillbaka till.|당신은 말하기 쉽죠. 돌아갈 자기 회사가 있으니까.
+Elin|C1|Ja, och det företaget har en regel som står i uppdragsbrevet, det du läste rad för rad i januari. Hittar vi något vi inte kan försvara, bestämmer partiet hur det ska hanteras, och vi bestämmer om vi stannar. Det är inget hot, Mattias. Vi granskar oss själva först – det var hela poängen med att ni tog in oss.|네, 그리고 그 회사엔 위임서에 적힌 규칙이 있어요. 사무총장님이 1월에 한 줄 한 줄 읽으신 그 위임서요. 우리가 옹호할 수 없는 걸 찾으면, 당은 그걸 어떻게 처리할지 정하고 우리는 남을지 정한다. 위협이 아니에요, 마티아스 씨. 우리 자신부터 감사한다 — 당이 우리를 들인 이유가 애초에 그거였잖아요.
+Annika|B2|Jag fattar beslutet själv, i kväll. Men innan dess vill jag höra en människa till, en som inte har någon röst i det här partiet.|결정은 제가 직접, 오늘 밤에 할게요. 하지만 그 전에 한 사람 얘기를 더 듣고 싶어요. 이 당에서 아무 표결권도 없는 사람이요.
+Jonas|B1|Vem då?|누구요?
+Annika|C1|Bertil. Han är den ende jag känner som vet hur det känns att ha hållit tyst om något – och hur länge den känslan sitter i.|베르틸 씨요. 뭔가에 대해 입을 다물어 본 게 어떤 건지, 그리고 그 느낌이 얼마나 오래 남는지 아는 사람은 제가 아는 사람 중에 그분뿐이에요.
+# 장면 4 — 같은 사무실, 베르틸의 전화, 8월 4일 밤 9시 10분
+Elin|A2|Hej, Bertil. Det är Elin. Är det för sent?|안녕하세요, 베르틸 씨. 엘린이에요. 너무 늦었나요? (같은 날 밤 9시 10분. 클라르쉰. 유리창 너머로 호른스가탄의 여름밤. 탁자 위 엘린의 휴대폰은 스피커 모드. 안니카와 요나스가 둘러앉아 있다. 엘린은 오후에 다니엘에게 "오늘 늦어, 돈 문제, 집 문제 아님"이라고 문자를 보내 두었다)
+Bertil|B1|Jag sa ju att jag svarar efter tio också. Klockan är bara tio över nio. Vad har hänt?|10시 넘어서도 받는다고 하지 않았나. 이제 겨우 9시 10분이야. 무슨 일인가? (수화기 너머 클래식 라디오 소리가 작아진다)
+Elin|B1|Annika och Jonas sitter här. Vi har hittat något i partiets bokföring, och Annika ska bestämma i kväll vad hon gör.|안니카 씨랑 요나스도 여기 있어요. 당 장부에서 뭔가를 찾았는데, 안니카 씨가 오늘 밤 어떻게 할지 정해야 해요.
+Annika|B2|God kväll, Bertil. Jag ska inte be dig om råd om juridiken. Jag vill bara veta vad det kostade dig att vara tyst 1991.|안녕하세요, 베르틸 씨. 법적인 조언을 구하려는 건 아니에요. 그냥 1991년에 침묵한 게 베르틸 씨한테 어떤 대가였는지 알고 싶어요.
+Bertil|C1|Det kostade mig ingenting 1991. Det är det som är det förrädiska. Jag skrev under, ingen frågade, och i ett helt år var allt som vanligt. Notan kom först 1992, och den betalades av andra än jag.|1991년엔 아무 대가도 없었어요. 그게 바로 교활한 점이지요. 서명했고, 아무도 묻지 않았고, 꼬박 1년 동안 모든 게 평소와 같았어요. 청구서는 1992년에야 왔고, 그걸 치른 건 내가 아닌 다른 사람들이었어요.
+Jonas|A2|Vilka då?|누구였는데요?
+Bertil|C1|Sparare, anställda, folk som förlorade jobbet när banken föll. Jag har aldrig vetat vad de hette. Det är kanske det värsta: tystnaden skickar aldrig räkningen till den som teg.|예금자들, 직원들, 은행이 무너질 때 일자리를 잃은 사람들. 그 사람들 이름은 끝내 몰랐네. 어쩌면 그게 제일 나쁜 건지도 모르지. 침묵은 청구서를 결코 침묵한 사람한테 보내지 않는다는 것.
+Annika|B2|Mattias säger att om vi berättar nu hamnar vi under spärren igen. Han kan ha rätt.|마티아스는 지금 말하면 우리가 또 기준선 밑으로 떨어질 거래요. 그 사람 말이 맞을 수도 있어요.
+Bertil|C1|Han kan mycket väl ha rätt. Jag har aldrig påstått att det lönar sig att göra rätt – bara att notan aldrig blir lägre av att man väntar på den.|그 사람 말이 충분히 맞을 수도 있어요. 옳은 일을 하면 득이 된다고 주장한 적은 없어요. 다만 기다린다고 청구서 금액이 줄어드는 일은 없다고 했을 뿐이지요.
+Elin|B1|Det sa du till oss i december också. Om kassaskåpet.|12월에도 그렇게 말씀하셨어요. 금고 얘기요.
+Bertil|C1|Varje organisation har ett kassaskåp som ingen har öppnat på länge. Ni har öppnat ert. Nu återstår bara frågan om ni stänger dörren igen och hoppas att ingen såg er, eller om ni ställer ut det mitt på torget.|어느 조직에나 오랫동안 아무도 열지 않은 금고가 있네. 자네들은 자네들 걸 열었어. 이제 남은 질문은 하나뿐이지. 문을 다시 닫고 아무도 못 봤기를 바랄 건가, 아니면 그걸 광장 한복판에 내놓을 건가.
+Jonas|B2|Mitt på torget. Det är ju bokstavligen där hon ska stå på lördag.|광장 한복판이라. 대표님이 토요일에 서야 할 데가 말 그대로 거기네요.
+Bertil|B1|Då vet du var du ska börja, Annika. Med det ni själva har hittat – innan någon annan hittar det.|그럼 어디서 시작해야 할지 아시겠네요, 안니카 씨. 직접 찾은 것부터. 다른 누가 찾기 전에.
+Annika|C1|Då gör vi så här. I morgon klockan elva håller vi en presskonferens i stora rummet på partikansliet. Vi berättar allt på en gång, vi betalar tillbaka pengarna, och talet på lördag blir av precis som det är skrivet.|그럼 이렇게 해요. 내일 오전 11시에 당사 '큰 방'에서 기자회견을 열어요. 한 번에 전부 말하고, 돈은 돌려주고, 토요일 연설은 써 놓은 그대로 해요.
+Elin|B2|Då ringer jag Kammarkollegiet när de öppnar i morgon bitti och berättar själv innan vi går ut. Vi frågar hur de vill att vi redovisar det – vi gissar inte.|그럼 내일 아침 문 열자마자 제가 캄마르콜레기에트에 전화해서 발표 전에 직접 알릴게요. 어떻게 신고하길 원하는지 물어볼 거예요. 짐작하지 않고요.
+# 장면 5 — 당사 '큰 방' 기자회견, 8월 5일 수요일 오전 11시 → 이튿날 아침 부엌
+Jonas|B1|Välkomna, allihop. Annika Strand läser ett kort uttalande, och sedan tar vi frågor så länge ni har några.|모두 와 주셔서 감사합니다. 안니카 스트란드 대표가 짧은 성명을 읽고, 그다음엔 질문이 있는 한 계속 받겠습니다. (8월 5일 수요일 오전 11시. 당사 '큰 방'. 멀쩡한 의자 여덟 개엔 기자들, 나머지 여섯 명은 벽에 기대 선다. 2018년 지도 앞에 남색 재킷의 안니카. 창가 쪽에 엘린과 팔짱 낀 마티아스)
+Annika|C1|I söndags kväll fick jag veta att partiet sedan mars har tagit emot sextiofyra bidrag på exakt samma belopp, och att mycket talar för att pengarna i själva verket kommer från ett och samma byggföretag, Hellsing Bygg. Bidragen låg strax under den gräns där givaren ska redovisas med namn. Vi har informerat bolaget i morse.|지난 일요일 저녁, 저는 우리 당이 3월부터 정확히 같은 금액의 기부금 예순네 건을 받았고, 그 돈이 실제로는 한 건설 회사, Hellsing Bygg에서 나왔을 가능성이 크다는 사실을 알게 됐습니다. 기부금은 기부자 이름을 신고해야 하는 기준선 바로 아래였습니다. 오늘 아침 해당 회사에 이 사실을 알렸습니다.
+Johanna|A2|Hur mycket pengar handlar det om?|금액은 얼마입니까?
+Annika|C1|Hundraåttiofemtusen sexhundra kronor. Partiet kommer att återbetala samtliga bidrag och redovisa hela underlaget för allmänheten. Vi har i morse själva informerat Kammarkollegiet, och vi kommer att följa deras bedömning, vad den än blir.|18만 5,600크로나입니다. 당은 해당 기부금 전액을 반환하고 모든 근거 자료를 공개하겠습니다. 오늘 아침 저희가 직접 캄마르콜레기에트에 알렸고, 그 판단이 어떻게 나오든 따르겠습니다.
+Linus|B2|Linus Falk, Stockholms-Kuriren. När fick du veta det här, och varför har ni väntat till i dag?|『스톡홀름스 쿠리렌』의 리누스 팔크입니다. 언제 이 사실을 아셨고, 왜 오늘까지 기다리셨습니까?
+Annika|B2|I söndags kväll, kvart i tio. I måndags kontrollerade vi uppgifterna, och i går bestämde vi oss. Vi ville vara säkra på att det stämde innan vi sa det.|일요일 밤 9시 45분입니다. 월요일에 사실관계를 확인했고, 어제 결정했습니다. 말하기 전에 그게 맞는지 확실히 하고 싶었습니다.
+Linus|B2|Kände partiets kassör till upplägget, och i så fall sedan när?|당 재무 담당자는 이 구조를 알고 있었습니까? 그렇다면 언제부터입니까?
+Annika|C1|Ulf Brandt svarade den tjugofemte juli på ett mejl där en givare skrev att arbetsgivaren betalade tillbaka bidraget. Han har i dag lämnat sitt uppdrag som kassör. Det var hans eget beslut, och jag har inte bett honom stanna.|울프 브란트는 7월 25일, 한 기부자가 회사가 기부금을 돌려준다고 쓴 메일에 답장했습니다. 그는 오늘 재무 담당직에서 물러났습니다. 본인의 결정이었고, 저는 그에게 남아 달라고 하지 않았습니다.
+Johanna|B2|Anser du att partiet har brutit mot lagen om insyn i finansiering av partier?|당이 정당 재정 투명성법을 어겼다고 보십니까?
+Annika|B2|Det är Kammarkollegiet som avgör det, inte jag. Men pengarna kom in i fem månader utan att vi reagerade, och det tar jag ansvar för.|그건 제가 아니라 캄마르콜레기에트가 판단할 일입니다. 하지만 그 돈이 다섯 달 동안 들어오는 사이 저희는 아무 반응도 하지 않았고, 그 책임은 제가 지겠습니다.
+Linus|B1|Till vem betalar ni tillbaka? Till givarna eller till byggföretaget?|누구에게 돌려줍니까? 기부자들입니까, 건설 회사입니까?
+Elin|C1|Det är en bra fråga, och vi har ställt den till Kammarkollegiet. Tills vi har fått deras besked står hela beloppet på ett separat konto som partiet inte rör. Hur det slutligen ska hanteras beror bland annat på om bidragen bedöms som ett enda bidrag från bolaget.|좋은 질문이고, 저희도 캄마르콜레기에트에 같은 질문을 했습니다. 답을 받을 때까지 금액 전부는 당이 손대지 않는 별도 계좌에 둡니다. 최종적으로 어떻게 처리할지는 무엇보다 이 기부금들이 회사 한 곳의 단일 기부로 판단되느냐에 달려 있습니다. (안니카가 고개를 끄덕여 엘린에게 넘긴다)
+Johanna|A2|Blir sommartalet av på lördag?|토요일 여름 연설은 예정대로 합니까?
+Annika|B2|Ja. På lördag står jag på Stortorget i Örebro, som planerat. Talet handlar om dem som fortfarande står kvar i vården, inte om oss, och det ändrar jag inte på.|네. 토요일에 예정대로 외레브로 스토르토리에트에 섭니다. 연설은 아직 의료 현장에 남아 있는 사람들에 관한 것이지 우리에 관한 것이 아니고, 그건 바꾸지 않겠습니다.
+Linus|A2|En sista fråga. Ångrar du något?|마지막 질문입니다. 후회하는 게 있습니까?
+Annika|C1|Att jag aldrig frågade varför det plötsligt kom så mycket pengar under månader när vi inte hade gjort något särskilt. Det är en fråga som jag borde ha ställt själv, i stället för att låta någon annan ställa den åt mig en söndagskväll.|별다른 일도 안 한 달들에 왜 갑자기 그렇게 많은 돈이 들어왔는지 한 번도 묻지 않은 것입니다. 제가 직접 했어야 할 질문이었습니다. 일요일 밤에 다른 사람이 대신 묻게 둘 게 아니라.
+Mattias|A2|Har du sett mätningen?|조사 결과 봤어요? (이튿날, 8월 6일 목요일 아침 7시 반. 당사 부엌. 목요일이라 엘린은 없다. 마티아스가 휴대폰과 빵집 봉지를 들고 들어온다. 요나스는 커피를 내리는 중, 안니카는 문간에 서 있다)
+Jonas|B1|Ja. Tre komma två. Ungefär som jag räknade med.|네. 3.2%. 대충 제가 계산한 대로예요.
+Annika|B2|Fyra tiondelar på en dag. Men vi har fem veckor kvar, och för första gången finns det ingenting gömt i kassaskåpet.|하루 만에 0.4%포인트. 하지만 5주가 남았고, 처음으로 금고 안에 숨겨진 게 하나도 없어요. (손등에 볼펜으로 쓴 '3,1'이 아직 남아 있다)
+Mattias|B1|Grattis. Ni har gjort rätt. Och vi hamnar utanför riksdagen igen.|축하해요. 옳은 일을 했군요. 그리고 우린 또 의회 밖에 남겠죠. (봉지에서 시나몬롤을 하나 꺼내 문다. 아직 점심 전이다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Vem har gett pengarna?** | 누가 돈을 줬어요? | 의문사 *vem* 이 주어일 때는 그대로 *vem har …* (도치 없음). *ge – gav – gett/givit*: 완료형은 *har gett*. 감사·취재의 가장 기본적인 질문 |
+| `A2` | **Blir sommartalet av på lördag?** | 토요일 여름 연설은 예정대로 해요? | *bli av* = (계획된 일이) 실제로 열리다, 성사되다. 부정은 *Det blev inte av* (결국 안 했다). *ställa in* (취소하다), *skjuta upp* (미루다)와 함께 기억 |
+| `B1` | **Det här måste vi berätta själva.** | 이건 우리가 직접 말해야 해요. | 목적어 *det här* 를 문두로 올린 강조 어순 → V2에 따라 *måste vi*. *själva* 는 복수 주어에 맞춘 형태(단수 *själv*) — "남이 아니라 우리 스스로" |
+| `B1` | **Jag tänkte att vi tar det efter valet.** | 선거 끝나고 처리하자고 생각했어요. | *ta det* = (문제를) 다루다, 처리하다. 과거 *tänkte* 뒤 종속절에 현재형 *tar* 를 쓰는 구어체 — 당시의 '계획'을 그대로 옮기는 느낌 |
+| `B2` | **Bidragen är uppdelade så att inget av dem ska behöva redovisas.** | 기부금이 하나도 신고할 필요가 없도록 쪼개져 있어요. | *vara uppdelad* = 나뉘어 있다(상태 수동). *så att* = ~하도록(목적·결과). *inget av dem* (그중 하나도 ~않다)이 종속절 주어. *behöva + 부정사*, *redovisas* 는 s-수동 |
+| `B2` | **Om alla fick tillbaka sina pengar var det inte deras pengar.** | 다들 돈을 돌려받았다면, 그건 그 사람들 돈이 아니었던 거예요. | *om* 조건절이 앞에 오면 주절은 동사부터: *var det*. 재귀 소유 *sina*(주어 *alla* 의 것) vs *deras*(주어 *det* 와 다른 사람들의 것)의 구별이 핵심 |
+| `C1` | **Låt mig säga det rakt ut, så slipper vi låtsas.** | 돌려 말하지 않을게요. 그래야 서로 모르는 척할 필요가 없으니까. | *säga rakt ut* = 직설적으로 말하다. *slippa* = (하기 싫은 일을) 안 해도 되다 — 한국어로 한 단어로 옮기기 어려운 스웨덴어다운 동사. 회의에서 본론을 꺼낼 때 |
+| `C1` | **Tystnaden skickar aldrig räkningen till den som teg.** | 침묵은 청구서를 결코 침묵한 사람한테 보내지 않는다. | *tiga – teg – tigit* (불규칙 동사). *den som* = ~하는 사람. 추상명사 *tystnaden* 을 주어로 세운 의인화 — 베르틸식 격언 문체 |
+| `C1` | **Partiet kommer att återbetala samtliga bidrag och redovisa hela underlaget för allmänheten.** | 당은 해당 기부금 전액을 반환하고 모든 근거 자료를 공개하겠습니다. | 공식 성명의 미래 *kommer att* (약속·예정). *samtliga* = '전부'의 격식형(*alla* 보다 문어적). *underlag* = 근거 자료, *redovisa för allmänheten* = 대중에게 공개·설명하다 |
+| `C1` | **… och vi kommer att följa deras bedömning, vad den än blir.** | 그 판단이 어떻게 나오든 따르겠습니다. | *vad … än* = "무엇이 ~하든"(양보). *vem du än är*, *hur det än går* 처럼 의문사 + *än*. *bedömning* 은 관청의 '판단·평가'를 가리키는 중립적 단어 |
+
+## 현안 메모
+- **정당 재정 투명성법(lag om insyn i finansiering av partier)** — 2018년부터 시행된 법으로, 그 전의 더 느슨한 규정을 대체했다. 국회·광역·기초의회(및 유럽의회) 선거에 나서는 정당과 그 소속 조직, 그리고 일정한 경우 후보 개인이 받는 수입을 공개하도록 한다. 정당은 해마다 수입 내역서(intäktsredovisning)를 감독 기관인 **캄마르콜레기에트(Kammarkollegiet)** 에 제출하고, 캄마르콜레기에트는 이를 누구나 볼 수 있게 공개한다. 제출 기한·양식 같은 세부 사항은 개정될 수 있으므로 실제로는 캄마르콜레기에트의 최신 안내를 확인해야 한다.
+- **기부자 신원 공개 기준** — 같은 기부자에게서 한 회계연도에 받은 기부금이 합쳐서 **물가기준액(prisbasbelopp)의 5%** 를 넘으면, 금액과 함께 기부자의 신원을 신고해야 한다. 물가기준액은 해마다 정해지므로 기준 금액도 매년 조금씩 달라지며, 최근에는 대략 3천 크로나 안팎이다. 기준이 '건별'이 아니라 '같은 기부자의 1년 합계'라는 점이 중요하다 — 한 사람이 여러 번 나눠 내도 합산된다. 이번 화처럼 한 회사가 여러 사람의 이름을 빌려 돈을 넣었다면 실제 기부자가 누구인지가 쟁점이 되며, 그 판단은 개별 사안의 사실관계에 달려 있다.
+- **익명 기부와 제재** — 정당은 원칙적으로 익명 기부를 받을 수 없다(소액 등 일부 예외가 있다). 받은 기부의 기부자를 확인할 수 없으면 돌려주거나 다른 방식으로 처리해야 하며, 금지된 기부를 받거나 신고를 제대로 하지 않으면 캄마르콜레기에트가 제재금(sanktionsavgift 등)을 부과할 수 있다. 이 드라마에서는 법적 결론을 내리지 않고, 인물들이 "캄마르콜레기에트가 판단한다"며 직접 문의하는 것으로 처리했다.
+- 이번 화의 Hellsing Bygg, 리카르드 헬싱, 예순네 건·2,900크로나·18만 5,600크로나, 계획 심의 건, 여론조사 수치(3.6% → 3.2%)는 모두 가상이다. 실존 정당·기업·정치인과는 관계가 없다.
+
+## 비즈니스 메모
+- **자진 공개 (Proaktiv transparens)** — 위기 커뮤니케이션의 원칙 "나쁜 소식은 직접, 한 번에, 전부(själv, en gång, allt)". ① **직접**: 기자가 아니라 당사자가 먼저 말해야 이야기의 첫 문장을 정할 수 있다 ② **한 번에**: 조금씩 흘리면 매번 새 헤드라인이 된다 — 금액, 출처, 책임자, 조치를 한 성명에 담는다 ③ **전부**: 나중에 드러나는 한 줄이 앞서 한 말 전체를 거짓으로 만든다. 그리고 판단할 권한이 없는 것(위법 여부)은 판단하지 않고, 판단할 기관에 먼저 묻는다.
+- **타이밍의 기댓값** — 요나스의 계산처럼 '덮기'의 비용은 (유출 확률 × 늦은 유출의 피해)로, '공개'의 비용은 (지금의 확실한 하락 − 회복할 시간)으로 비교할 수 있다. 하지만 엘린이 지적하듯 지연에는 숫자로 잡히지 않는 비용이 하나 더 있다 — "알고 있던 날수". 늦게 공개할수록 문제는 원래 잘못한 사람에게서 그걸 알고도 기다린 사람에게로 옮겨 간다.
+
+## 다음 화 예고 — Stödrösterna
+**4부 12화.** 8월 하순. 자진 공개 뒤 3.2%까지 떨어졌던 지지율은, 신뢰 지표가 오르면서 다시 움직이기 시작한다. 그리고 발표된 숫자는 3.8%. 환호와 불안이 동시에 '큰 방'을 채운다. 기준선까지 0.2%포인트. 한 대형 정당의 전략가 카밀라가 카페에서 비공식적으로 다가온다. 자기 지지자들의 표를 '빌려줄' 수 있다고, 대신 선거 뒤에 자기 쪽 총리 후보를 지지해 달라고. 아미르는 의석을 계산하고, 요나스는 그게 수학적으로 이득이라고 말하지만, 엘린과 노라는 "다리 놓는 정당"이 무엇을 파는 것인지 묻는다. "Om vi hamnar på 3,9 procent försvinner varenda röst vi har fått." 그리고 8월 26일, 사전투표소의 문이 열린다. "Har du förtidsröstat?"
