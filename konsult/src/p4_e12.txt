@@ -1,0 +1,162 @@
+@title 4부 12화 — Stödrösterna
+@subtitle (지지표)
+@meta 날짜|2026년 8월 20일 목요일 ~ 26일 수요일 (사전투표 첫날)
+@meta 장소|쿵스홀멘 당사 '큰 방' (20일 목요일 아침 7시 25분) → 노르말름의 작은 카페, 한 대형 정당 사무처에서 한 블록 (24일 월요일 아침 9시) → 호른스가탄 클라르쉰 '데이터 룸' (24일 오후 2시) → 당사 '큰 방' (25일 화요일 저녁 7시) → 쿵스홀멘의 한 도서관 사전투표소 앞 (26일 수요일 아침)
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 44, 수석 전략가) · **Elin Bergqvist** (엘린 베리크비스트, 37, 정책·예산·리스크) · **Amir Nouri** (아미르 누리, 30, 디지털·데이터) · **Nora Hassan** (노라 하산, 26, 청년·교외 동원) · **Annika Strand** (안니카 스트란드, 49, 당 대표) · **Mattias Öberg** (마티아스 외베리, 56, 사무총장) · **Camilla** (카밀라, 40대 중반, 한 대형 정당의 선거 전략가 — 가상 인물, 당명은 밝히지 않음) · **Solveig** (솔베이그, 70대, 쿵스홀멘 주민 — 가상 인물)
+@meta 이번 화의 도구|연합 수학 (Mandatmatematik) — 기준선을 넘을 때와 못 넘을 때 의석이 블록별로 어떻게 달라지는지 시나리오로 계산하고, 여론조사의 오차를 확률로 바꿔 '얻는 것'과 '잃는 것'을 같은 저울에 올리는 기술. 이번 화의 질문 뒤의 질문은 "지지표로 4%를 넘을 수 있나"가 아니라 "그렇게 받은 의석은 누구의 것이 되나"
+@meta 스웨덴 현안|지지표(stödröster)와 사전투표(förtidsröstning) — 블록 정치의 계산 때문에 큰 정당 지지자 일부가 4% 기준선 근처의 작은 정당에 표를 '빌려주는' 현상, 그리고 선거일 18일 전(2026년 8월 26일)부터 전국 어느 사전투표소에서나 할 수 있는 사전투표
+@intro **지난 이야기** — 8월 3일 아침, 엘린은 2,900크로나짜리 기부금 예순네 건, 합계 18만 5,600크로나가 한 건설 회사 Hellsing Bygg으로 이어진다는 것을 보여 주었다. "회사에서 돌려준대요"라는 메일에 울프는 같은 날 영수증을 보냈다. 마티아스는 덮자고 했고, 요나스는 타이밍을 계산했고, 베르틸은 전화로 말했다. "침묵은 청구서를 결코 침묵한 사람한테 보내지 않는다." 8월 5일 기자회견에서 안니카는 전액 반환과 근거 자료 공개를 약속했고, 울프는 재무 담당직에서 물러났다. 이튿날 조사는 3.2%. 마티아스는 점심 전에 시나몬롤을 먹으며 말했다. "축하해요. 옳은 일을 했군요. 그리고 우린 또 의회 밖에 남겠죠."
+@intro 8월 8일 토요일, 안니카는 외레브로 스토르토리에트에서 원고를 한 줄도 고치지 않고 여름 연설을 했다. 11분 52초. 일바는 광장 뒤편에 서서 들었다. 18만 5,600크로나는 여전히 당이 손대지 않는 별도 계좌에 있고, 캄마르콜레기에트의 답은 아직 오지 않았다. 선거일 9월 13일까지 3주 남짓, 사전투표가 시작되는 8월 26일 수요일까지는 엿새. 8월 20일 목요일 아침 7시 30분, 새 여론조사가 발표된다.
+# 장면 1 — 쿵스홀멘 당사 '큰 방', 8월 20일 목요일 아침 7시 25분
+Amir|A2|Fem minuter kvar. Alla lägger ifrån sig mobilerna, okej?|5분 남았어요. 다들 휴대폰 내려놔요, 알았죠? (8월 20일 목요일 아침 7시 25분. 당사 '큰 방'. 2018년 지도 옆 화이트보드 필름에 아미르가 그어 놓은 빨간 4% 선, 그 아래 지난 조사의 점 두 개: 3.6, 3.2. 노라가 크루아상 봉지를, 마티아스가 커피 보온병을 들고 있다. 요나스는 창가에, 안니카는 문간에 서 있다. 목요일이라 엘린은 집에 있다)
+Nora|A2|Varför då? Det är ju bara en siffra.|왜? 그냥 숫자 하나잖아.
+Amir|B1|För att jag vill se era ansikten när den kommer. Jag har väntat på det här sedan mars.|숫자 나올 때 다들 표정을 보고 싶으니까. 3월부터 이거 기다렸단 말이야.
+Mattias|B1|Siffror kommer och går. Den förra var tre komma två, och då var det ingen som ville se mitt ansikte.|숫자는 왔다 가는 거예요. 지난번엔 3.2였는데, 그땐 아무도 내 표정 보고 싶어 하지 않던데요.
+Annika|A2|Jag ville det. Du såg arg ut.|난 보고 싶었어. 너 화난 얼굴이었잖아.
+Jonas|B1|Mätningar efter en kris brukar komma i två vågor. Först straffet, sedan frågan om man skötte det bra. Det är den andra vågen vi mäter i dag.|위기 뒤의 조사는 보통 두 번의 물결로 와요. 먼저 벌, 그다음엔 그걸 잘 처리했느냐는 질문. 오늘 재는 건 두 번째 물결이에요.
+Amir|A2|Nu! Den är ute.|지금! 나왔어요. (휴대폰 화면을 들여다본다. 잠깐 아무 말이 없다)
+Nora|A2|Och? Säg något, Amir!|그래서? 뭐라고 좀 해, 아미르!
+Amir|A2|Tre komma åtta.|3.8.
+Annika|A2|Säg det igen.|다시 말해 봐요.
+Amir|B1|Tre komma åtta procent. Det är vår högsta siffra sedan valet 2022. Och felmarginalen når upp över fyra.|3.8%요. 2022년 선거 이후 최고치예요. 그리고 오차 범위가 4% 위까지 걸쳐 있어요. (노라가 소리를 지르고, 안니카는 두 손으로 입을 가린다)
+Mattias|B1|Herregud. Ge mig en kanelbulle. Nej, vänta – det är långt kvar till lunch.|맙소사. 시나몬롤 하나 줘요. 아니, 잠깐 — 점심까진 한참 남았지.
+Nora|A2|Ta två. Jag säger inget.|두 개 드세요. 아무 말 안 할게요. (봉지를 내민다)
+Jonas|B2|Elin måste få veta. Det är torsdag och hon är ledig, men jag tror inte att hon räknar ett samtal om tre komma åtta som arbete.|엘린한테 알려야죠. 목요일이라 쉬는 날이지만, 3.8% 얘기하는 전화를 일로 칠 것 같진 않아요. (스피커폰으로 전화를 건다)
+Elin|A2|Hej! Jag har redan sett den. Maja, inte fingrarna i mjölken!|안녕! 나도 벌써 봤어. 마야, 우유에 손가락 넣지 마! (스피커폰 너머로 숟가락 소리와 마야의 웃음소리)
+Annika|B1|Elin, är det sant? Det var ju du som lärde mig att aldrig tro på en enda mätning.|엘린 씨, 진짜예요? 조사 하나만 믿지 말라고 가르쳐 준 게 엘린 씨잖아요.
+Elin|B2|Det gäller fortfarande. Urvalet är ungefär tvåtusen personer, så felmarginalen är nästan en procentenhet åt båda hållen. Vi kan lika gärna ligga på tre komma noll som på fyra komma sex.|그건 여전히 유효해요. 표본이 2천 명쯤이라 오차 범위가 위아래로 거의 1%포인트예요. 실제로는 3.0일 수도 있고 4.6일 수도 있어요.
+Mattias|B1|Typiskt revisorer. Man får aldrig glädjas i mer än tio sekunder.|감사인들은 꼭 저래요. 10초 이상 기뻐하게 놔두질 않아.
+Elin|B1|Ni får glädjas hela förmiddagen. Det gör jag också, med en sked i handen.|오전 내내 기뻐하셔도 돼요. 저도 기뻐하고 있어요, 숟가락 들고.
+Amir|B2|Det intressanta är inte bara siffran. Andelen som säger att de har "stort förtroende" för Annika har gått från elva till sjutton procent sedan presskonferensen.|흥미로운 건 숫자만이 아니에요. 안니카 씨를 '크게 신뢰한다'는 응답이 기자회견 이후 11%에서 17%로 올랐어요.
+Jonas|B2|Det är den andra vågen. Folk straffade oss för att vi hade ett problem och belönade oss för att vi berättade om det själva.|그게 두 번째 물결이에요. 사람들은 문제가 있었다고 우리를 벌하고, 그걸 스스로 말했다고 상을 준 거예요.
+Annika|B2|Och för att talet blev av. På Stortorget kom folk fram efteråt och pratade om Ylva, inte om Ulf.|그리고 연설을 했으니까요. 스토르토리에트에서 사람들이 끝나고 다가와서 울프가 아니라 일바 얘기를 했어요.
+Nora|B2|Men tre komma åtta är också farligt. Nu börjar alla räkna på oss, och de som räknar vill sällan oss väl.|근데 3.8은 위험하기도 해요. 이제 다들 우리를 계산에 넣기 시작할 거고, 계산하는 사람들은 대개 우리 잘되길 바라지 않거든요.
+Mattias|B2|Hon har rätt. 2022 låg vi på tre komma nio i en mätning i augusti. Sedan sa alla att en röst på oss var en bortkastad röst.|노라 말이 맞아요. 2022년에도 8월 조사 하나에서 3.9가 나왔어요. 그러고 나서 다들 우리 찍는 건 사표라고 했죠.
+Elin|C1|Det är just det som gör mig nervös. Två tiondelar under spärren är det mest utsatta läget i en valrörelse: nära nog för att alla ska räkna på oss, men inte nära nog för att någon ska behöva ta hänsyn till oss.|바로 그게 날 불안하게 해요. 기준선에서 0.2포인트 아래는 선거전에서 가장 취약한 자리예요. 다들 우리를 계산에 넣을 만큼은 가깝지만, 누구도 우리를 신경 써야 할 만큼 가깝지는 않은 자리.
+Jonas|C1|Eller det mest eftertraktade. Tre komma åtta betyder att vi plötsligt är värda något för någon annan – och det är sällan gratis att vara värd något.|아니면 가장 탐나는 자리든가. 3.8이란 건 갑자기 우리가 다른 누군가에게 값어치가 생겼다는 뜻이야. 그리고 값어치가 있다는 건 대개 공짜가 아니지.
+Annika|C1|Då gläds vi i tio minuter till, och sedan gör vi det vi gjorde i går: ringer folk, knackar dörr och låtsas att spärren inte finns.|그럼 10분만 더 기뻐하고, 어제 하던 일을 해요. 전화하고, 문 두드리고, 기준선이 없는 척하는 거예요. (마티아스가 시나몬롤을 반으로 갈라 반쪽을 노라에게 돌려준다)
+Jonas|B1|"Grattis till tre komma åtta. Kaffe på måndag? Jag tror att vi har en del gemensamma intressen. /C." Det är ett nummer som jag inte har sparat.|"3.8 축하해요. 월요일에 커피 어때요? 우리 공통 관심사가 좀 있는 것 같아요. /C." 저장 안 된 번호예요. (그때 요나스의 휴대폰이 울린다. 문자를 소리 내어 읽는다)
+# 장면 2 — 노르말름의 작은 카페, 8월 24일 월요일 아침 9시
+Camilla|A2|Två? Jag bjöd bara in en.|두 분이요? 한 분만 초대했는데요. (8월 24일 월요일 아침 9시. 노르말름의 작은 카페, 한 대형 정당 사무처에서 한 블록 떨어진 곳. 창가 구석 자리. 카밀라, 40대 중반, 회색 블레이저. 휴대폰은 화면을 아래로 엎어 두었다. 요나스와 엘린이 함께 들어온다)
+Elin|B1|Vi har en regel på vår byrå: vi träffar aldrig någon ensamma. Det är inget personligt.|저희 회사엔 규칙이 있어요. 누구도 혼자서는 안 만나요. 개인적인 건 아니에요.
+Camilla|B2|Det är klokt. Själv tar jag inga möten längre utan någon som antecknar. Fast i dag hade jag hoppats att ingen skulle anteckna någonting.|현명하네요. 저도 받아 적는 사람 없이는 회의를 안 해요. 다만 오늘만큼은 아무도 아무것도 안 적었으면 했는데요.
+Elin|B1|Då lägger jag undan anteckningsboken. Men jag kommer att komma ihåg allt.|그럼 노트는 치울게요. 하지만 전부 기억할 거예요. (노란 노트를 덮어 가방에 넣는다)
+Jonas|B1|Du skrev att vi har en del gemensamma intressen. Vilka då?|공통 관심사가 좀 있다고 쓰셨죠. 어떤 거요?
+Camilla|C1|Låt mig börja med det uppenbara. Ni ligger på tre komma åtta, och ingen i det här landet vill se en kvarts miljon röster kastas bort tre veckor före ett val. Allra minst ni.|뻔한 것부터 말할게요. 당신들은 3.8%에 있고, 선거 3주 전에 이 나라에서 25만 표가 버려지는 걸 보고 싶은 사람은 아무도 없어요. 당신들이 제일 그렇겠죠.
+Elin|B2|Det låter omtänksamt. Men ditt parti har väl inget att vinna på att våra väljares röster räknas?|배려처럼 들리네요. 하지만 당신 당은 우리 유권자들 표가 계산되는 데서 얻을 게 없지 않나요?
+Camilla|C1|Det beror på vad rösterna leder till. En röst på er som räknas blir ett mandat i riksdagen, och mandat brukar så småningom hamna någonstans – i en budget, i en omröstning, i talmansrundan.|그 표가 어디로 이어지느냐에 달렸죠. 계산되는 당신들 표는 의회의 의석이 되고, 의석은 결국 어딘가에 놓이게 마련이에요. 예산안에, 표결에, 의장 협의에.
+Jonas|B2|Och du vill veta var våra mandat hamnar innan det ens finns några.|그리고 아직 생기지도 않은 우리 의석이 어디 놓일지 미리 알고 싶으신 거군요.
+Camilla|C1|Jag vill ingenting. Jag dricker kaffe med två kloka människor som har tagit sig igenom en augusti som de flesta partier inte hade överlevt, och det med hedern i behåll.|저는 아무것도 원하지 않아요. 대부분의 정당이라면 살아남지 못했을 8월을 명예를 지킨 채 넘긴 현명한 두 분과 커피를 마시고 있을 뿐이에요.
+Elin|A2|Okej. Vi dricker kaffe.|좋아요. 커피 마시죠.
+Camilla|C1|Hypotetiskt, då. Det har hänt förr, i flera val, att väljare som i grunden sympatiserar med ett större parti lägger sin röst på ett mindre, för att det mindre partiet ska klara spärren. Det kallas stödröster, och det är fullt lagligt – varje väljare bestämmer själv.|그럼 가정으로 말해 볼게요. 예전에도 여러 선거에서 있었던 일이에요. 기본적으로 큰 정당에 호감을 가진 유권자들이 작은 정당이 기준선을 넘도록 그 작은 정당에 표를 주는 거요. 지지표라고 하죠. 완전히 합법이에요. 유권자 한 사람 한 사람이 스스로 정하는 거니까요.
+Jonas|B2|Men väljare gör det sällan av sig själva. Det brukar vara någon som talar om för dem att det är en bra idé.|하지만 유권자가 그걸 스스로 하는 경우는 드물죠. 보통 누군가 그게 좋은 생각이라고 알려 주잖아요.
+Camilla|C1|Ingen behöver säga det rakt ut. Det räcker att man slutar säga motsatsen. Om våra företrädare under tre veckor slutar kalla en röst på er för bortkastad, och om en och annan lokalpolitiker säger att Annika Strand är en klok kvinna – då förstår väljarna.|대놓고 말할 필요는 없어요. 반대 말을 멈추는 것만으로 충분하죠. 3주 동안 우리 쪽 사람들이 당신들한테 주는 표를 사표라고 부르지 않고, 지역 정치인 몇 명이 안니카 스트란드는 현명한 사람이라고 말해 준다면 — 유권자들은 알아들어요.
+Elin|B2|Och vad är det vi ska förstå? Vad vill ni ha i gengäld?|그럼 우리는 뭘 알아들어야 하죠? 그 대가로 뭘 원하시는데요?
+Camilla|C1|I gengäld? Jag har inte bett om någonting. Men det vore naturligt, efter valet, att ett parti som har fått hjälp av våra väljare inte ställer sig i vägen för den statsministerkandidat som de väljarna vill se.|대가요? 아무것도 부탁하지 않았는데요. 하지만 선거 뒤에, 우리 유권자들의 도움을 받은 정당이 그 유권자들이 원하는 총리 후보의 앞길을 막지 않는 건 자연스러운 일이겠죠.
+Jonas|B2|Så när talmannen frågar ska Annika nämna er kandidat.|그러니까 의장이 물으면 안니카 씨가 당신들 후보 이름을 대야 한다는 거군요.
+Camilla|B2|Eller åtminstone inte rösta nej. Ni vet hur negativ parlamentarism fungerar. Man behöver inte älska en statsministerkandidat för att låta bli att rösta emot.|아니면 적어도 반대표만 안 던지면 되고요. 소극적 의회주의가 어떻게 돌아가는지 아시잖아요. 총리 후보를 사랑해야만 반대표를 참을 수 있는 건 아니에요.
+Elin|B1|Kan vi få det på papper?|그걸 문서로 받을 수 있을까요?
+Camilla|B2|Nej. Det finns inget papper, och det kommer aldrig att finnas något. Det är hela poängen med ett samtal över en kopp kaffe.|아니요. 문서는 없고, 앞으로도 없을 거예요. 커피 한 잔 놓고 하는 대화의 요점이 바로 그거죠.
+Elin|C1|Då förstår du kanske vårt problem. Annika har byggt hela valrörelsen på att vi säger saker högt och i förväg. Ett löfte som bara finns på ett kafé på Norrmalm är precis den sortens politik som hon säger att hon står emot.|그럼 우리 문제를 이해하시겠네요. 안니카 씨는 이번 선거전 전체를 우리가 무언가를 큰 소리로, 미리 말한다는 데 걸었어요. 노르말름 카페 안에만 존재하는 약속은 바로 그녀가 맞선다고 말해 온 그런 정치예요.
+Camilla|C1|Med all respekt, Elin: idealism är en lyx för partier över fyra procent. Den som ligger under spärren har råd med principer först när den har tagit sig in.|외람되지만, 엘린 씨. 이상주의는 4%를 넘는 정당들의 사치예요. 기준선 아래에 있는 쪽은 일단 들어간 뒤에야 원칙을 감당할 수 있죠.
+Jonas|B2|Och om vi säger nej? Börjar era företrädare då prata om bortkastade röster igen?|그럼 우리가 거절하면요? 그땐 당신 쪽 사람들이 다시 사표 얘기를 시작하나요?
+Camilla|B2|Jag kan inte styra vad tvåhundra kommunpolitiker skriver på Facebook. Men jag kan, ibland, låta bli att uppmuntra dem.|지방 정치인 이백 명이 페이스북에 뭐라고 쓰는지 제가 통제할 순 없어요. 하지만 가끔은 부추기지 않을 수는 있죠.
+Elin|C1|Så tystnaden har ett pris, men det står ingenstans. Det är en ovanligt elegant form av påtryckning.|그러니까 침묵엔 가격이 있는데, 어디에도 적혀 있지 않다는 거네요. 보기 드물게 우아한 형태의 압력이에요.
+Camilla|B1|Kalla det vad du vill. Jag kallar det politik.|원하는 대로 부르세요. 저는 정치라고 불러요. (커피잔을 내려놓고 미소 짓는다)
+Jonas|B1|Hur lång tid har vi på oss?|저희한테 시간이 얼마나 있죠?
+Camilla|B2|Förtidsröstningen öppnar på onsdag. Om något ska hinna fram till dem som röstar tidigt behöver jag ett svar senast tisdag kväll.|사전투표가 수요일에 시작돼요. 일찍 투표하는 사람들한테 뭔가 닿게 하려면, 늦어도 화요일 저녁까진 답을 주셔야 해요.
+Elin|C1|Vi återkommer. Men räkna inte med att svaret kommer över en kopp kaffe. Säger Annika ja, kommer hon att säga det offentligt – och säger hon nej, gör hon förmodligen likadant.|다시 연락드릴게요. 하지만 답이 커피 한 잔 놓고 오리라 기대하진 마세요. 안니카 씨가 '예'라고 하면 공개적으로 말할 거고, '아니요'라고 해도 아마 똑같이 할 거예요.
+Camilla|B1|Då hoppas jag att hon tänker länge. Kaffet är betalt. Ha en fin dag.|그럼 오래 생각하시길 바라요. 커피값은 계산했어요. 좋은 하루 보내세요. (일어나 블레이저를 걸치고 나간다. 엘린은 자기 커피값 39크로나를 동전으로 세어 접시 위에 놓는다)
+# 장면 3 — 호른스가탄 클라르쉰 '데이터 룸', 8월 24일 오후 2시
+Amir|B1|Välkomna till datarummet. Tv:n är fortfarande lånad, så rör inte sladden.|데이터 룸에 오신 걸 환영해요. TV는 아직 빌린 거니까 케이블 건드리지 마세요. (같은 날 오후 2시. 클라르쉰 뒷방, 문에 붙은 'DATARUMMET' 종이. 빌린 TV 화면에 의석 막대 두 개가 떠 있다. 노라는 링케뷔에서 막 도착해 운동화 차림으로 서 있다)
+Nora|A2|Jag rör ingenting. Vad betyder de där staplarna?|아무것도 안 건드려. 저 막대들은 뭐야?
+Amir|B2|Det är riksdagen. Trehundrafyrtionio mandat, och man behöver hundrasjuttiofem för egen majoritet. Jag har lagt in ett snitt av de senaste mätningarna och fördelat mandaten som Valmyndigheten gör, enligt den jämkade uddatalsmetoden.|의회야. 349석이고, 단독 과반은 175석. 최근 조사들 평균을 넣고 선관위(Valmyndigheten)가 하는 대로 수정 홀수 제수 방식(jämkade uddatalsmetoden)으로 의석을 나눴어.
+Jonas|B1|Börja med det värsta. Vad händer om vi hamnar på tre komma nio?|최악부터 시작하자. 우리가 3.9에 머무르면 어떻게 돼?
+Amir|B2|Då får vi noll mandat. Våra röster räknas inte alls i fördelningen, och de fjorton platser vi annars skulle ha fått fördelas mellan de andra partierna. I min simulering hamnar Camillas sida då på 174 och den andra sidan på 175.|그럼 0석이에요. 우리 표는 의석 배분에서 아예 계산이 안 되고, 원래 우리가 받았을 14석은 다른 정당들 사이에 나뉘어요. 제 시뮬레이션에선 그럼 카밀라 쪽이 174석, 다른 쪽이 175석이 돼요.
+Elin|B2|Och om vi kommer in med fyra komma noll – hur ser det ut då, mandat för mandat?|그럼 4.0으로 들어가면? 의석 하나하나 따지면 어떻게 돼?
+Amir|B2|Då får vi fjorton mandat, Camillas sida får 167 och den andra sidan 168. Ingen har egen majoritet, och vi sitter i mitten med fjorton röster som ingen kan räkna bort.|그럼 우리가 14석, 카밀라 쪽 167석, 다른 쪽 168석이에요. 아무도 과반이 없고, 우리는 누구도 빼고 계산할 수 없는 14표를 들고 한가운데 앉는 거죠.
+Nora|B2|Så det är därför hon vill bjuda er på kaffe. Hon är inte intresserad av oss, hon är intresserad av fjorton stolar.|그래서 그 사람이 커피를 사겠다고 한 거네요. 우리한테 관심 있는 게 아니라 의자 열네 개에 관심 있는 거예요.
+Jonas|B2|Precis. Om vi kommer in och lovar henne vårt stöd hamnar hennes sida på 181. Om vi inte kommer in hamnar den på 174, och då har den andra sidan egen majoritet. Hon behöver oss över spärren – men bara om vi står på hennes sida när vi kommer dit.|바로 그거야. 우리가 들어가서 지지를 약속하면 그쪽은 181석이 돼. 우리가 못 들어가면 174석이고, 그럼 다른 쪽이 단독 과반이야. 그 사람한텐 우리가 기준선을 넘는 게 필요해. 단, 들어갔을 때 자기편에 서 있을 경우에만.
+Elin|B1|Hur många röster är en tiondels procent?|0.1%가 몇 표야?
+Amir|B1|Ungefär sex och ett halvt tusen, om valdeltagandet blir som 2022. Från tre komma åtta till fyra komma noll är det alltså runt tretton tusen röster.|2022년만큼 투표하면 6,500표쯤이에요. 그러니까 3.8에서 4.0까지는 1만 3천 표 정도예요.
+Nora|A2|Tretton tusen. Det är ju ingenting.|1만 3천. 별거 아니네.
+Amir|B1|Färre än det bor i Kumla. Mattias räknar alltid i Kumla.|쿰라 인구보다 적어. 마티아스 씨는 맨날 쿰라로 계산하잖아.
+Jonas|B2|Och Camillas parti har mer än en miljon väljare. Det räcker att drygt en procent av dem stödröstar på oss.|그리고 카밀라네 당은 유권자가 백만 명이 넘어. 그중 1%를 조금 넘는 사람들만 우리한테 지지표를 줘도 충분해.
+Elin|B2|Om. Men du räknar bara på det vi får. Vad förlorar vi om det blir känt att vi har lovat bort vårt stöd i förväg?|'만약'이지. 근데 넌 우리가 얻는 것만 계산하잖아. 우리가 미리 지지를 약속해 버렸다는 게 알려지면 뭘 잃는데?
+Amir|B2|Det har jag faktiskt testat. I panelen frågade jag våra nuvarande sympatisörer om de skulle rösta på oss även om vi gick in i ett block före valet. Trettioen procent svarar att de då skulle tänka om.|그거 사실 테스트해 봤어요. 패널에서 지금 우리 지지자들한테, 우리가 선거 전에 한 블록에 들어가도 우릴 찍을 거냐고 물었어요. 31%가 그럼 다시 생각해 보겠다고 답했어요.
+Nora|B1|Trettioen procent! Det är nästan en tredjedel.|31%! 거의 3분의 1이네.
+Jonas|B2|Att tänka om är inte samma sak som att lämna. Säg att hälften av dem verkligen går – då tappar vi sex tiondelar. Men om fem procent av Camillas väljare stödröstar på oss blir det runt sextiotusen röster, nästan en hel procentenhet.|다시 생각한다는 게 떠난다는 건 아니야. 그중 절반이 실제로 떠난다고 치자. 그럼 0.6포인트를 잃어. 하지만 카밀라 쪽 유권자 5%가 우리한테 지지표를 주면 6만 표쯤이야. 거의 1%포인트지.
+Elin|B1|Tre komma åtta, minus sex tiondelar, plus nio tiondelar. Fyra komma ett.|3.8, 빼기 0.6, 더하기 0.9. 4.1. (노란 노트에 손으로 계산한다)
+Amir|B2|Med osäkerheten inräknad ser det ut så här: utan någon överenskommelse har vi ungefär en chans på tre att ta oss över spärren. Med Camillas väljare och förlusterna inräknade blir det ungefär sex på tio.|불확실성까지 넣으면 이렇게 돼요. 아무 합의 없으면 기준선을 넘을 확률이 대략 3분의 1. 카밀라 쪽 유권자에 우리가 잡은 손실까지 넣으면 대략 10분의 6.
+Jonas|C1|Det är skillnaden mellan att troligen hamna utanför och att troligen komma in. Jag tycker inte om det heller, men som strateg vore det tjänstefel av mig att inte säga det högt.|그게 '아마 밖에 남는다'와 '아마 들어간다'의 차이야. 나도 맘에 안 들어. 하지만 전략가로서 이걸 소리 내어 말하지 않는다면 직무 유기겠지.
+Elin|C1|Och fyra gånger av tio hamnar vi ändå under spärren. Då har vi inte bara förlorat – då har vi sålt det enda som skiljer oss från alla andra, och fått ingenting för det.|그리고 열 번 중 네 번은 그래도 기준선 밑이야. 그럼 그냥 진 게 아니야. 우릴 다른 모두와 구별해 주는 유일한 걸 팔아 버리고, 그 대가로 아무것도 못 받은 거지.
+Nora|C1|Och det är inte bara siffror som försvinner. I Husby och Tensta har folk i trettio år fått höra att deras röst är en vara som byts bort inne i stan efter valet. Gör vi det här bekräftar vi det, och då kan jag inte gå tillbaka till Fadumo och säga något annat.|그리고 사라지는 건 숫자만이 아니에요. 후스뷔랑 텐스타 사람들은 30년 동안 자기 표가 선거 뒤에 시내에서 거래되는 물건이라는 말을 들어 왔어요. 우리가 이걸 하면 그 말이 맞다고 확인해 주는 거예요. 그럼 전 파두모 씨한테 돌아가서 다른 말을 할 수가 없어요.
+Jonas|B2|Men om vi inte kommer in kan vi inte göra något alls för Fadumo. Fjorton mandat är fjorton röster i varje budgetomröstning.|하지만 못 들어가면 파두모 씨를 위해 아무것도 못 해. 14석은 모든 예산 표결에서 14표야.
+Nora|B2|Jag vet. Men om vi kommer in som någon annans stödparti är det inte våra fjorton röster längre. Då är de Camillas.|알아요. 하지만 남의 지지 정당으로 들어가면 그건 더 이상 우리 14표가 아니에요. 카밀라 씨 거죠.
+Amir|B2|Det finns en sak till. Spärren har en bakdörr: tolv procent i en enskild valkrets. Men den hjälper inte oss – vår bästa valkrets är Örebro län med sju komma ett.|하나 더 있어요. 기준선엔 뒷문이 하나 있어요. 한 선거구에서 12%. 그런데 우리한텐 소용없어요. 우리가 제일 강한 선거구가 외레브로 레엔인데 7.1%예요.
+Elin|B2|Då vet vi vad det handlar om: fyra procent i hela landet eller ingenting. Jag sammanfattar båda alternativen på en sida till Annika i kväll.|그럼 뭐가 걸린 건지 알겠네. 전국 4% 아니면 아무것도 없어. 오늘 밤 두 선택지를 한 장으로 정리해서 안니카 씨한테 줄게.
+Jonas|C1|Skriv båda lika ärligt. Om hon väljer mitt förslag vill jag att det beror på siffrorna och inte på att jag råkar vara den som pratar bäst i rummet.|둘 다 똑같이 솔직하게 써. 안니카 씨가 내 안을 고른다면, 그게 숫자 때문이었으면 해. 내가 어쩌다 방에서 말을 제일 잘하는 사람이라서가 아니라.
+Elin|B1|Det har jag aldrig behövt oroa mig för. Jag skriver bättre än du pratar.|그건 걱정해 본 적 없어. 내가 쓰는 게 네가 말하는 것보다 나으니까.
+Amir|A2|Ni låter som mina föräldrar.|두 분 꼭 우리 엄마 아빠 같아요. (노라가 웃음을 참지 못한다)
+# 장면 4 — 당사 '큰 방', 8월 25일 화요일 저녁 7시
+Annika|B1|Jag har läst din sida tre gånger, Elin. Den är rättvis mot båda förslagen, och det gör det svårare.|엘린 씨가 쓴 한 장, 세 번 읽었어요. 두 안 모두에 공정해요. 그래서 더 어려워요. (8월 25일 화요일 저녁 7시. 당사 '큰 방'. 화이트보드 필름에 아미르의 숫자 두 개: '1/3'과 '6/10'. 열린 창으로 안뜰에서 누가 자전거를 묶는 소리. 안니카가 엘린의 A4 한 장을 들고 있다. 요나스, 엘린, 노라, 마티아스가 둘러앉아 있다)
+Mattias|B2|För en gångs skull håller jag med konsulten. Om det finns ett sätt att ta sig in, och det är lagligt, så tycker jag att vi ska ta det. Jag har stått i en hyrd lokal med en tårta som det stod fyra på.|이번만큼은 저도 컨설턴트 말에 동의해요. 들어갈 방법이 있고 그게 합법이라면 잡아야 한다고 봐요. 난 '4'가 꽂힌 케이크를 들고 빌린 홀에 서 있어 본 사람이에요.
+Elin|B2|Det är lagligt. Det är inte det som är frågan. Frågan är vad Annika kan säga till väljarna den dag talmannen ringer.|합법이에요. 그게 문제가 아니에요. 문제는 의장이 전화하는 날 안니카 씨가 유권자들한테 뭐라고 말할 수 있느냐예요.
+Jonas|C1|Jag har lagt fram förslaget, så låt mig också säga vad det kostar. Vi skulle gå till val som ett parti som säger sig bygga broar, fast vi redan i hemlighet har lagt ut en väg till den ena stranden.|제안을 내놓은 건 저니까, 그 비용도 제가 말할게요. 우린 다리를 놓는다고 말하는 정당으로 선거에 나가면서, 이미 한쪽 강변으로 몰래 길을 깔아 둔 셈이 돼요.
+Nora|C1|Och folk kommer att märka det. Kanske inte i september, men i oktober, när någon frågar varför våra fjorton röster alltid råkar hamna på samma sida – och då har vi inget svar som inte låter som en ursäkt.|그리고 사람들은 눈치챌 거예요. 9월엔 아닐지 몰라도, 10월에 누가 왜 우리 14표는 늘 공교롭게 같은 쪽에 가 있냐고 물을 때요. 그땐 변명처럼 안 들리는 답이 하나도 없을 거예요.
+Annika|C1|I åtta år har jag sagt att vi inte tillhör något block. Om jag nu, tre veckor före valet, säljer det på ett kafé för några tiotusen stödröster, så var det aldrig sant. Då var det bara ett pris som vi väntade på att någon skulle bjuda.|8년 동안 저는 우리가 어느 블록에도 속하지 않는다고 말해 왔어요. 그런데 지금, 선거 3주 전에, 카페에서 지지표 몇만 장에 그걸 판다면 그건 처음부터 사실이 아니었던 거예요. 누군가 값을 불러 주기를 기다리던 가격이었을 뿐이죠.
+Mattias|B1|Och om vi hamnar på tre komma nio?|그럼 3.9에 머무르면?
+Annika|B2|Då hamnar vi på tre komma nio. Och då vet jag att varje röst vi fick var en röst på oss och inte en lånad.|그럼 3.9인 거지. 그리고 그때 난 우리가 받은 표 하나하나가 빌린 표가 아니라 우리를 찍은 표였다는 걸 알 거야.
+Elin|B2|Det är ingen liten sak, Annika. Om vi hamnar på 3,9 procent försvinner varenda röst vi har fått.|그건 작은 일이 아니에요, 안니카 씨. 3.9%에 머무르면 우리가 받은 표가 한 표도 남김없이 사라져요.
+Annika|C1|Jag vet. Och jag vill att vi säger det till väljarna precis så rakt. Vi ska inte låtsas att spärren inte finns – vi ska be om rösterna med öppna ögon.|알아요. 그리고 그걸 유권자들한테 바로 그렇게 똑바로 말했으면 해요. 기준선이 없는 척하지 말고, 눈을 뜨고 표를 부탁하는 거예요.
+Jonas|B1|Så svaret till Camilla är nej.|그러니까 카밀라한테 줄 답은 '아니요'네요.
+Annika|B1|Svaret till alla är nej. Vi lovar inte någon av sidorna något före valet.|모두에게 주는 답이 '아니요'예요. 선거 전엔 어느 쪽에도 약속하지 않아요.
+Mattias|B2|Den andra sidan kommer också att höra av sig. De har räknat på samma staplar som Amir.|다른 쪽도 연락해 올 거야. 그쪽도 아미르랑 같은 막대를 계산해 봤을 테니까.
+Annika|C1|Då får de samma svar, med samma ord. Det enda vi lovar före valet är det som står i manifestet: fem saker som ska fungera. Och att vi efter valet förhandlar om dem öppet, med alla som vill, och berättar vad vi fick och vad vi gav.|그럼 그쪽도 같은 답을, 같은 말로 받겠지. 선거 전에 우리가 약속하는 건 공약집에 있는 것뿐이야. 제대로 돌아가야 할 다섯 가지. 그리고 선거 뒤엔 그걸 놓고 원하는 모두와 공개적으로 협상하고, 우리가 뭘 얻고 뭘 줬는지 말하겠다는 것.
+Nora|B2|Men då behöver vi en mening som säger det. Något som folk kan säga till varandra i kön till röstningslokalen.|그럼 그걸 말해 주는 문장이 하나 필요해요. 사람들이 투표소 앞 줄에서 서로한테 할 수 있는 말이요.
+Jonas|C1|Camilla gav oss den faktiskt, utan att mena det. Hela hennes erbjudande gick ut på att låna ut röster. Vi kan vända på det.|사실 카밀라가 의도치 않게 그 문장을 줬어요. 그 사람 제안은 처음부터 끝까지 표를 빌려주는 얘기였잖아요. 그걸 뒤집으면 돼요.
+Annika|C1|Låna oss inte din röst – ge den till oss för att du tror på det vi vill göra.|당신의 표를 빌려주지 마세요. 우리가 하려는 일을 믿기 때문에 주세요. (잠시 아무도 말이 없다. 안니카가 일어나 같은 문장을 화이트보드 필름에 직접 쓴다)
+Elin|C1|Och den säger något som ingen annan kan säga i år: att den som röstar på oss vet att rösten inte redan är utlovad till någon.|게다가 그 문장은 올해 아무도 못 하는 말을 해요. 우리를 찍는 사람은 그 표가 이미 누군가에게 약속돼 있지 않다는 걸 안다는 거요.
+Mattias|B2|Jag tycker fortfarande att ni är galna. Men det är en bra mening. Skriv upp den innan hon hinner göra den längre.|난 여전히 당신들이 제정신이 아니라고 생각해요. 그래도 좋은 문장이네. 대표가 그걸 더 길게 만들기 전에 적어 둬요.
+Jonas|B1|"Tack för kaffet. Svaret är nej – till alla sidor. Vi säger det offentligt i morgon." Skickat.|"커피 고마웠습니다. 답은 '아니요'입니다. 어느 쪽에든. 내일 공개적으로 말하겠습니다." 보냈어요. (휴대폰으로 문자를 쓰며 소리 내어 읽는다. 1분 뒤 답장이 온다. "Jag frågade aldrig någonting. /C" — 난 아무것도 물은 적 없어요)
+# 장면 5 — 쿵스홀멘의 한 도서관 사전투표소 앞, 8월 26일 수요일 아침
+Nora|A2|God morgon! Har du förtidsröstat?|안녕하세요! 사전투표 하셨어요? (8월 26일 수요일 아침. 쿵스홀멘의 한 도서관, 사전투표 첫날. 문 앞에 벌써 열 명 남짓 줄이 서 있다. 각 당의 자원봉사자들이 문 밖에서 투표용지를 나눠 주고, 노란 조끼의 노라도 그중 하나다. 안니카는 아침 7시 라디오 인터뷰에서 어느 쪽과도 사전 약속을 하지 않겠다고 밝혔다)
+Solveig|B1|Inte än. Jag röstar alltid första dagen, innan det blir trångt. Vad är det du delar ut?|아직요. 난 늘 첫날에 해요, 붐비기 전에. 뭘 나눠 주는 거예요? (70대, 장바구니 카트를 끈 쿵스홀멘 주민)
+Nora|B1|Valsedlar från Brobyggarna. Men där inne tar du vilka du vill, bakom en skärm. Ingen ser vad du väljer.|브로비가르나 투표용지요. 그래도 안에서는 칸막이 뒤에서 원하시는 걸 고르시면 돼요. 뭘 고르시는지 아무도 못 봐요.
+Solveig|B2|Jag hörde er partiledare på radion i morse. "Låna oss inte din röst." Det har jag aldrig hört en politiker säga förut.|오늘 아침 라디오에서 당신네 대표 말을 들었어요. "당신의 표를 빌려주지 마세요." 정치인이 그런 말 하는 건 처음 들어 봤어요.
+Annika|A2|Tack. Det betyder mycket.|고맙습니다. 큰 힘이 돼요. (줄 뒤쪽에서 신분증을 손에 든 안니카가 돌아본다. 주민 등록은 외레브로지만, 사전투표는 전국 어느 사전투표소에서나 할 수 있다)
+Solveig|A2|Oj! Står du också i kön?|어머! 당신도 줄 서 있어요?
+Annika|B1|Alla står i samma kö. Röstkort och legitimation, och sedan tre valsedlar: en gul, en blå och en vit.|다들 같은 줄에 서요. 투표 카드랑 신분증, 그다음엔 투표용지 세 장이요. 노란 것, 파란 것, 하얀 것.
+Elin|B2|Jag röstar också i dag, så att söndagen den trettonde bara handlar om att vänta. Maja tror att röstningslokalen är ett bibliotek där man inte får låna någonting.|저도 오늘 투표해요. 13일 일요일엔 기다리기만 하면 되게요. 마야는 투표소가 아무것도 못 빌리는 도서관인 줄 알아요. (수요일. 엘린은 출근 전에 들렀다)
+Nora|B1|Mina volontärer står utanför sex röstningslokaler i Järva från klockan tio. Jag åker dit så fort Annika har röstat.|제 자원봉사자들이 10시부터 야르바 사전투표소 여섯 곳 앞에 서요. 안니카 씨 투표 끝나는 대로 저도 그리로 가요.
+Elin|C1|Det är den finaste sortens valarbete: att se till att folk röstar, och sedan inte fråga på vad.|그게 가장 멋진 종류의 선거 운동이야. 사람들이 투표하게 하고, 그다음엔 뭘 찍었는지 묻지 않는 것.
+Nora|B2|Regel tre, Elin. Vi skriver aldrig ner hur någon tänker rösta, och det gäller i synnerhet de dagar då det faktiskt händer.|규칙 셋이에요, 엘린 씨. 누가 어떻게 투표할지는 절대 적지 않아요. 그리고 그건 실제로 투표하는 날에 특히 그래요.
+Amir|A2|"Daniyal förtidsröstade idag. Första gången. Han skickade en selfie."|(문자) "다니얄이 오늘 사전투표 했어요. 처음으로. 셀카 보냈어요." (정오 무렵, 팀 단체방에 아미르의 문자. 사진 속 다니얄은 알뷔의 사전투표소 문 밖에서 신분증을 든 채 웃고 있다. 칸막이 안이 아니라, 문 밖에서)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Har du förtidsröstat?** | 사전투표 했어요? | *förtidsrösta* (사전투표하다)의 완료형. 명사는 *förtidsröstning*, 사전투표소는 *röstningslokal*, 선거일 투표소는 *vallokal*. 선거철 인사처럼 쓰인다 |
+| `A2` | **Står du också i kön?** | 당신도 줄 서 있어요? | *stå i kö* = 줄을 서다. 정관사형 *kön* (그 줄). 스웨덴의 번호표 문화(*ta en kölapp*)와 함께 기억 |
+| `B1` | **Vi lovar inte någon av sidorna något före valet.** | 선거 전엔 어느 쪽에도 약속하지 않아요. | *lova någon något* = 누구에게 무엇을 약속하다(간접목적어 + 직접목적어). *inte någon … något* 는 *ingen … ingenting* 보다 또렷하고 강조하는 느낌. *sidorna* = 양쪽(블록) |
+| `B1` | **Hur lång tid har vi på oss?** | 우리한테 시간이 얼마나 있어요? | *ha tid på sig* = (어떤 일에 쓸) 시간이 있다. 재귀형 *på oss / på dig*. 마감을 확인하는 가장 자연스러운 질문 |
+| `B1` | **Kan vi få det på papper?** | 그걸 문서로 받을 수 있을까요? | *på papper* = 문서로, 서면으로. *svart på vitt* (흑백으로 = 확실한 글로)도 같은 뜻의 관용구 |
+| `B2` | **Om vi hamnar på 3,9 procent försvinner varenda röst vi har fått.** | 3.9%에 머무르면 우리가 받은 표가 한 표도 남김없이 사라져요. | *hamna på* = (결과적으로) ~에 이르다. *om* 조건절이 앞에 와서 주절은 동사부터(*försvinner*). *varenda* = *varje* 의 강조형(하나도 빠짐없이). 관계사 *som* 생략: *röst (som) vi har fått* |
+| `B2` | **Att tänka om är inte samma sak som att lämna.** | 다시 생각한다는 게 떠난다는 건 아니에요. | *tänka om* = 생각을 바꾸다, 재고하다(*om* 에 강세). *att* 부정사구를 주어로 세운 문장. *samma sak som* = ~와 같은 것 |
+| `C1` | **Ingen behöver säga det rakt ut. Det räcker att man slutar säga motsatsen.** | 대놓고 말할 필요는 없어요. 반대 말을 멈추는 것만으로 충분하죠. | 정치권의 '말하지 않고 말하기'. *det räcker att …* = ~이면 충분하다. *sluta + 부정사*(*att* 생략 가능). *motsatsen* = 그 반대 |
+| `C1` | **Med all respekt: idealism är en lyx för partier över fyra procent.** | 외람되지만, 이상주의는 4%를 넘는 정당들의 사치예요. | *med all respekt* 는 반대 의견 앞에 붙이는 완충어 — 실제로는 "이제 불편한 말 할게요"라는 신호. *en lyx för* = ~에게나 허락된 사치 |
+| `C1` | **Låna oss inte din röst – ge den till oss för att du tror på det vi vill göra.** | 당신의 표를 빌려주지 마세요. 우리가 하려는 일을 믿기 때문에 주세요. | 명령문의 부정 *låna … inte* (부정어는 동사 뒤, 대명사 목적어 *oss* 뒤). *låna* 는 '빌려주다/빌리다' 둘 다 — 여기서는 *låna ut* 의 뜻. 대조 구조(*låna – ge*)로 만든 슬로건 문장 |
+
+## 현안 메모
+- **지지표(stödröster)** — 스웨덴은 전국 득표 4%(또는 한 선거구 12%)를 넘어야 의석을 받는다. 블록 정치에서는 작은 우군 정당이 기준선 밑으로 떨어지면 그 표가 의석으로 바뀌지 못해 블록 전체가 손해를 본다. 그래서 큰 정당 지지자 일부가 같은 편의 작은 정당이 기준선을 넘도록 그 당에 표를 주는 일이 생기는데, 이를 '지지표'라 부른다. 과거 여러 총선에서 작은 정당들이 이런 표로 기준선을 넘었다는 분석이 나왔고, 큰 정당 쪽은 표를 잃을 수 있어 공개적으로 권하는 것을 대개 꺼린다. 어느 당을 찍을지는 비밀투표로 유권자 각자가 정하며, 지지표 자체는 완전히 합법적인 투표 행위다.
+- **기준선 아래의 표** — 4%에 못 미친 정당(12%를 넘은 선거구도 없는 경우)의 표는 의석 배분에서 빠지고, 349석은 기준선을 넘은 정당들 사이에서만 나뉜다. 배분은 수정 홀수 제수 방식(*jämkade uddatalsmetoden*, 첫 제수 1.2)으로 하며, 선거구 고정 의석 310석과 전국 비례를 맞추는 조정 의석 39석으로 이루어진다. 그래서 3.9%와 4.0%의 차이는 0.1%포인트가 아니라 '0석과 약 14석'의 차이가 되고, 블록 간 과반(175석) 계산까지 바꿀 수 있다.
+- **사전투표(förtidsröstning)** — 2026년 총선·광역·기초의회 선거일은 9월 13일 일요일이고, 사전투표는 선거일 18일 전인 **8월 26일 수요일**부터 할 수 있다. 사는 곳과 상관없이 전국 어느 사전투표소(도서관·주민센터·쇼핑센터 등)에서나 투표할 수 있으며, 신분증이 필요하고 우편으로 받은 투표 카드(*röstkort*)를 가져가야 한다. 투표용지는 총선이 노란색, 광역의회가 파란색, 기초의회가 흰색이다. 2022년 선거부터 투표용지는 칸막이로 가린 곳에 놓여 다른 사람이 누가 어떤 용지를 집는지 볼 수 없다. 정당 자원봉사자들은 투표소 밖에서만 용지를 나눠 준다.
+- **소극적 의회주의와 의장 협의** — 선거 뒤 의장(*talman*)이 각 당 대표와 협의(*talmansrunda*)해 총리 후보를 제안하고, 의회 과반(175석)이 반대하지 않으면 총리가 선출된다. 그래서 작은 정당에게는 '찬성'뿐 아니라 '반대하지 않기'(기권)도 협상 카드가 된다. 이번 화의 카밀라와 그녀의 당, 여론조사 수치(3.8%, 신뢰 11→17%), 의석 시뮬레이션(167·168·174·175·181석), 패널 결과(31%)는 모두 가상이며, 실존 정당·블록과는 관계가 없다.
+
+## 비즈니스 메모
+- **연합 수학 (Mandatmatematik)** — ① 시나리오를 나눈다: 기준선 통과(14석) vs 미통과(0석), 그리고 각 경우 블록별 의석과 과반 여부 ② 여론조사를 확률로 바꾼다: 표본 2,000명에서 3.8%의 표준오차는 약 0.43%포인트(√(0.038×0.962/2000)), 95% 오차 범위는 약 ±0.84%포인트 — 단순 계산으로 4%를 넘을 확률은 약 3분의 1, 평균이 4.1%로 올라가면 약 10분의 6이 된다(실제로는 조사 방식의 체계적 오차가 더해져 더 불확실하다) ③ 얻는 것과 잃는 것을 같은 단위로: 아미르의 패널(31%가 '다시 생각')처럼 결정이 기존 지지층에 주는 손실도 숫자로 넣는다.
+- **숫자가 다 말해 주지 않는 것** — 확률이 3분의 1에서 10분의 6으로 오르는 건 큰 차이지만, 엘린이 지적했듯 '열 번 중 네 번'은 여전히 실패한다. 그리고 그 실패에는 계산되지 않는 비용 — 팔아 버린 정체성 — 이 붙는다. 좋은 시나리오 분석은 최선의 답을 정해 주는 게 아니라, 결정하는 사람이 무엇을 걸고 있는지 한 장에 정직하게 보여 주는 것이다.
+
+## 다음 화 예고 — Slutdebatten
+**4부 13화.** 9월 10일 목요일 밤, 선거 사흘 전. 마지막 조사는 3.9%. 기준선까지 0.1%포인트. 최종 당 대표 토론을 하루 앞둔 호텔 방에서 엘린은 안니카와 숫자 열 개를 외운다. 이번엔 숫자가 아니라 '숫자의 의미'를. "Kom ihåg: siffran betyder något för någon." 소피아가 주문하는 건 단 하나, 마지막 30초. 5월의 "Det … vet jag faktiskt inte."를 기억하는 스튜디오에서, 상대 대표들이 서로 다투는 틈에 안니카는 끼어들 수 있을까. 그리고 진행자의 마지막 질문. "Vem stöder ni som statsminister?" "Du klarar det."
