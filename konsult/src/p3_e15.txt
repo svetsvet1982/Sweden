@@ -1,0 +1,162 @@
+@title 3부 15화 — Rapporten
+@subtitle (보고서)
+@meta 날짜|2025년 12월 9일 화요일 저녁 ~ 12월 10일 수요일 밤
+@meta 장소|쇠르비켄 시청 본회의장 (12월 9일 화요일 저녁 6시 40분) → 쇠데르말름 호른스가탄, 새 유리를 끼운 Klarsyn 사무실 (12월 10일 수요일 아침 7시 반) → 예르데트, SVT 방송국 출연자 대기실 (같은 날 저녁 8시 20분) → 알뷔 광장 옆 청소년 센터 (같은 날 저녁 8시 반) → SVT 정문 앞 (밤 10시 10분)
+@meta 등장인물|**Elin Bergqvist** (엘린 베리크비스트, 36, Klarsyn 공동대표 — 감사 총괄) · **Jonas Ekholm** (요나스 에크홀름, 43, Klarsyn 공동대표 — 대외·조사) · **Amir Nouri** (아미르 누리, 29, Klarsyn 데이터·포렌식 분석가) · **Karin Wedin** (카린 베딘, 55, 쇠르비켄 시 감사위원장) · **Göran Ahl** (예란 알, 68, 감사위원회 부위원장) · **Agneta Svärd** (아그네타 스베르드, 쇠르비켄 시의회 의장) · **Jörgen Wallin** (예르겐 발린, 58, 쇠르비켄 집행위원장, 다수파) · **Kristian Brodin** (크리스티안 브로딘, 다수파 시의원) · **Linus Falk** (리누스 팔크, 40, 『Stockholms-Kuriren』 기자) · **Moa** (모아, SVT 「Kvällsfrågan」 프로듀서) · **Annika Strand** (안니카 스트란드, 49, 원외 정당 Brobyggarna 대표, 외레브로 출신 전 중환자실 간호사·전 시의원) · **Daniyal Nouri** (다니얄 누리, 18, 아미르의 동생) · **Hodan** (호단, 47, 알뷔 청소년 센터 지도사) · **Jesper Wikman** (예스페르 비크만, 지역 담당 경찰관) · 유리 기술자
+@meta 이번 화의 도구|보고서 구조 — 피라미드 원칙의 감사판. ① 결론을 맨 앞에(“충분한 내부통제를 보장하지 못했다”) ② 근거는 숫자 두세 개로(변경 계약 12건·연 1,150만 / 확인된 방문 61% 대 97%) ③ 권고는 실행할 수 있는 단위로(다섯 가지) ④ 응답 요구 — 무엇을, 누가, 언제까지. '확인함'만 적힌 답은 돌려보낸다. 그리고 맨 뒤에는 보고서를 쓴 사람들 자신에 대한 부록
+@meta 스웨덴 현안|복지범죄 대응과 정치 — 범죄조직이 재가요양·개인 지원 같은 복지 부문에 침투해 공공 자금을 빼내는 문제가 2026년 총선을 앞두고 주요 쟁점이 되었다. 지자체의 승인·점검 강화, 기관 간 정보 공유 확대, 그리고 SNS로 10대를 범죄에 끌어들이는 갱단 모집 대응이 함께 논의되고 있다
+@intro **지난 이야기** — 12월 2일 새벽, 호른스가탄 사무실의 유리창이 포석 하나에 무너졌다. 그날 저녁 베르틸은 마침내 서류가방을 열었다. 1991년 3월 14일, 서른두 살의 그는 자기 작업 문서가 12억의 충당금이 필요하다고 말하는데도 크론방켄의 적정 감사보고서에 서명했고, 은행감독원에 보내려던 편지는 우표까지 붙인 채 부치지 않았다. 팀은 자기 자신을 감사했다 — 기자에게 진 빚, 금고 속 두바이 주소, 무급 야간 분석, 전 직장, 어린 시절의 인연. 엘린은 베르틸을 용서하지 않고 '선택'했다. 조건은 하나, 보고서에서 절대 그를 감싸지 말 것. 노란 노트의 새 쪽 맨 위에는 'BILAGA 3 — OBEROENDE OCH JÄV', 첫 줄에는 '1991-03-14'.
+@intro 일주일 뒤, 12월 9일 화요일 저녁. 쇠르비켄 시의회가 통학버스와 재가요양 사건을 묶은 감사인들의 종합 보고서를 다룬다. 보고서는 140쪽, 그중 41쪽이 부록 3이다. 카린 베딘은 지난 목요일 누구보다 먼저 보고서를 받아 읽었고, 오늘 저녁 6시에 모두에게 공개됐다. 외스트라 렌켄 보고서는 금요일, Vallby 보고서는 18일이 마감이다. 그리고 알뷔에서는, 11월 20일 이후 아무도 다니얄에게 그 메시지에 관해 묻지 않았다.
+# 장면 1 — 쇠르비켄 시청 본회의장, 12월 9일 화요일 저녁 6시 40분
+Agneta|B1|Vi går vidare till ärende fjorton på dagordningen: revisorernas samlade rapport om skolskjutsar och hemtjänst. Revisorernas ordförande, Karin Wedin, har ordet.|의사일정 14번 안건으로 넘어가겠습니다. 통학버스와 재가요양에 관한 감사인들의 종합 보고서입니다. 감사위원장 카린 베딘 위원께 발언권을 드리겠습니다. (12월 9일 화요일 저녁 6시 40분. 쇠르비켄 시청 본회의장. 의원 49명, 방청석에는 기자 몇 명과 시민 스무 명 남짓. 웹 생중계 카메라의 빨간 불. 엘린과 요나스는 방청석 맨 뒷줄에 앉아 있다)
+Karin|C1|Tack, ordförande. Ledamöter, åhörare och ni som följer oss på webben. Jag börjar med slutsatsen, eftersom det är den ni behöver: utbildningsnämnden och socialnämnden har under flera år inte säkerställt en tillräcklig intern kontroll, och kommunen har betalat för tjänster som ingen har kunnat visa att den har fått.|감사합니다, 의장님. 의원 여러분, 방청객 여러분, 그리고 웹으로 지켜보시는 분들. 결론부터 말씀드리겠습니다. 여러분께 필요한 게 결론이니까요. 교육위원회와 사회복지위원회는 여러 해 동안 충분한 내부통제를 보장하지 못했고, 시는 받았다는 걸 아무도 입증하지 못한 서비스에 돈을 냈습니다. (연단에서 원고를 한 번도 내려다보지 않는다)
+Jonas|A2|Slutsatsen först. Bra.|결론 먼저. 좋네. (엘린에게 속삭인다)
+Elin|B1|Det var hennes egen idé. Hon sa att ingen i salen lyssnar efter sidan tre.|카린 본인 생각이었어. 이 회의장에선 3쪽 넘어가면 아무도 안 듣는대.
+Karin|B2|Först skolskjutsarna. Mellan 2021 och 2024 tecknade förvaltningen tolv ändringsavtal med samma bussbolag, vart och ett strax under den gräns där en chef måste skriva under. Tillsammans kostar de 11,5 miljoner kronor om året – nästan hela den ökning som ingen hade kunnat förklara.|먼저 통학버스입니다. 2021년부터 2024년까지 행정부는 같은 버스 회사와 변경 계약 12건을 맺었습니다. 하나하나가 관리자 서명이 필요한 한도 바로 아래였습니다. 합치면 연 1,150만 크로나. 아무도 설명하지 못했던 증가분의 거의 전부입니다.
+Agneta|A2|Tystnad i salen, tack.|장내 정숙해 주십시오. (여당 쪽 의석에서 웅성거림)
+Karin|B2|Sedan hemtjänsten. Under årets första kvartal kunde vi bara bekräfta 61 procent av de besök som ett privat bolag hade rapporterat, mot 97 procent i kommunens egen hemtjänst. Vid över 3 100 rapporterade besök öppnades ingen dörr alls, enligt de digitala låsen.|다음은 재가요양입니다. 올해 1분기에 한 민간 회사가 보고한 방문 가운데 저희가 확인할 수 있었던 건 61퍼센트뿐이었습니다. 시 직영 재가요양은 97퍼센트입니다. 보고된 방문 3,100건 이상에서는 디지털 도어락 기록상 문이 아예 열리지 않았습니다.
+Jonas|B1|Hon säger ”kunde bekräfta”. Det är exakt dina ord.|'확인할 수 있었던'이래. 딱 네가 쓴 말이야.
+Karin|B2|Det mest anmärkningsvärda är inte att fusket skedde, utan att ingen kontroll upptäckte det. Avtalen låg i kommunens eget diarium, och uppgifterna från låsen fanns i kommunens egna system. Ingen jämförde dem med fakturorna.|가장 주목할 점은 부정이 있었다는 게 아니라, 어떤 통제도 그걸 발견하지 못했다는 겁니다. 계약서는 시의 문서 등록부에 있었고, 도어락 기록은 시의 시스템에 있었습니다. 아무도 그걸 청구서와 맞춰 보지 않았습니다.
+Elin|B2|Där sa hon ”fusket”. Det ordet står ingenstans i vår rapport.|방금 '부정'이라고 했어. 그 단어는 우리 보고서 어디에도 없는데.
+Jonas|B2|Hon är förtroendevald, Elin. Hon får dra slutsatser som vi inte får skriva. Det är så systemet är byggt.|카린은 선출직이야, 엘린. 우리가 쓰면 안 되는 결론도 카린은 내릴 수 있어. 제도가 원래 그렇게 생겼잖아.
+Karin|C1|Utbildningsnämnden fick vår delrapport i juni. Ändå har ändringsavtalen fortsatt att betalas varje månad, utan att nämnden har prövat ett enda av dem. Revisorerna har därför i dag enhälligt beslutat att redan nu meddela fullmäktige vilken bedömning vi kommer att göra i revisionsberättelsen för 2025.|교육위원회는 6월에 저희 중간 보고를 받았습니다. 그런데도 변경 계약 대금은 매달 지급됐고, 위원회는 그중 단 한 건도 검토하지 않았습니다. 그래서 감사인들은 오늘 만장일치로, 2025년도 감사보고서에서 내릴 판단을 지금 의회에 미리 알리기로 결정했습니다.
+Göran|B1|Säg meningen, Karin. Precis som vi skrev den.|그 문장을 말해요, 카린. 우리가 쓴 그대로. (감사인석에서 낮은 목소리로. 예란 알이 팔짱을 풀고 있다)
+Karin|B1|Revisorerna föreslår att ansvarsfrihet inte beviljas. Det gäller utbildningsnämnden och dess ledamöter. Mot socialnämnden riktar vi en anmärkning.|감사인들은 책임 면제를 승인하지 말 것을 제안합니다. 교육위원회와 그 위원들에 대해서입니다. 사회복지위원회에 대해서는 지적(anmärkning)을 하겠습니다. (회의장이 조용해진다. 방청석의 기자 둘이 동시에 노트북을 두드린다)
+Agneta|B1|Tack. Då öppnar jag för debatt. Först på talarlistan står kommunstyrelsens ordförande, Jörgen Wallin.|감사합니다. 그럼 토론을 시작하겠습니다. 첫 발언자는 집행위원장 예르겐 발린 의원입니다.
+Jörgen|C1|Ordförande. Låt mig börja med att tacka revisorerna för ett grundligt arbete. Men jag vill också påminna fullmäktige om att socialnämnden återkallade bolagets godkännande dagen efter revisorernas skrivelse i juni, och att kommunstyrelsen i oktober inrättade en ny kontrollenhet med tre tjänster. Rapporten beskriver alltså till stor del ett problem som redan är åtgärdat.|의장님. 먼저 철저한 작업을 해 주신 감사인들께 감사드립니다. 하지만 의회에 상기시켜 드리고 싶은 게 있습니다. 사회복지위원회는 6월 감사인들의 서면이 나온 바로 다음 날 그 회사의 승인을 취소했고, 집행위원회는 10월에 세 명 규모의 새 통제 부서를 만들었습니다. 그러니까 이 보고서는 상당 부분 이미 조치된 문제를 다루고 있는 겁니다.
+Karin|B2|Replik. Det stämmer, och det står på sidan 22. Socialnämnden agerade snabbt när den väl fick veta. Vår fråga är en annan: varför visste den ingenting i tre år?|반론하겠습니다. 맞습니다. 22쪽에 나와 있습니다. 사회복지위원회는 알게 되자 빠르게 움직였습니다. 저희 질문은 다른 겁니다. 왜 3년 동안 아무것도 몰랐느냐는 거죠.
+Jörgen|C1|Jag noterar att revisorernas ordförande tillhör oppositionen, och jag hoppas att fullmäktige kan hålla isär granskning och valrörelse. Det är nio månader kvar till valet, och jag misstänker att den här rapporten kommer att citeras i varenda valfolder i kommunen.|감사위원장이 야당 소속이라는 점을 짚어 두겠습니다. 의회가 감사와 선거운동을 구분해 주기를 바랍니다. 선거까지 아홉 달 남았고, 이 보고서는 아마 시내의 모든 선거 홍보물에 인용될 겁니다.
+Göran|B2|Jag tillhör inte oppositionen, och jag röstade för varenda rad. Det var för övrigt jag som tyckte att konsulterna var för dyra.|난 야당 아닙니다. 그리고 한 줄도 빠짐없이 찬성했어요. 덧붙이자면, 컨설턴트들이 너무 비싸다고 한 사람도 나였고요. (발언권 없이 자리에서 큰 소리로. 여기저기서 웃음)
+Agneta|A2|Göran Ahl, du har inte ordet.|예란 알 감사인님, 발언권이 없습니다. (그러나 입가가 살짝 올라가 있다)
+Kristian|B2|Ordförande, jag har en fråga om trovärdighet. På sidan 41 står det att revisorernas sakkunniga rådgivare skrev under en ren revisionsberättelse för en bank som gick omkull 1991. Varför ska vi lita på en granskning där en sådan person har varit med?|의장님, 신뢰성에 관해 질문이 있습니다. 41쪽에 따르면 감사인들의 전문 고문이 1991년에 무너진 은행의 적정 감사보고서에 서명했다고 돼 있습니다. 그런 사람이 참여한 감사를 우리가 왜 믿어야 합니까? (여당 의원 크리스티안 브로딘. 보고서 부록을 펼쳐 들고 있다)
+Jonas|B1|Där kom den. Han har i alla fall läst bilagan.|나왔네. 그래도 부록은 읽었나 봐.
+Karin|C1|Ni vet det för att vi har skrivit det. Ingen har avslöjat någonting för er i kväll. Vår rådgivare har själv skrivit den delen, med årtal och belopp, och skrivit under den. Jag har suttit i den här salen i tolv år, och jag har aldrig sett en nämnd göra detsamma med sina egna misstag.|그걸 아시는 건 저희가 적었기 때문입니다. 오늘 밤 누가 여러분께 폭로한 게 아닙니다. 저희 고문이 그 부분을 직접 썼습니다. 연도와 금액까지 넣어서요. 그리고 서명했습니다. 저는 이 회의장에 12년을 앉아 있었지만, 어느 위원회가 자기 실수를 그렇게 적는 건 한 번도 본 적이 없습니다.
+Agneta|B1|Revisorernas ordförande ber att den sakkunniga får svara på en faktafråga. Har fullmäktige något att invända? Då får Elin Bergqvist ordet. Kort, tack.|감사위원장이 전문 보조인에게 사실 관계 질문에 답할 기회를 달라고 요청했습니다. 이의 있습니까? 그럼 엘린 베리크비스트 씨께 발언권을 드립니다. 짧게 부탁드립니다.
+Elin|C1|Tack. Från och med den här rapporten innehåller allt vi lämnar en bilaga om våra egna relationer, tidigare uppdrag och misstag. Syftet är att ni ska kunna bedöma vår granskning med samma information som vi har om oss själva. Ingenting i bilagan ändrar en enda siffra i rapporten – men ni har rätt att veta vem som har räknat fram dem.|감사합니다. 이 보고서부터 저희가 내는 모든 보고서에는 저희 자신의 관계, 과거 의뢰, 실수에 관한 부록이 들어갑니다. 저희가 저희 자신에 대해 아는 것과 같은 정보를 가지고 저희 감사를 판단하시라는 취지입니다. 부록의 어떤 내용도 보고서의 숫자 하나 바꾸지 않습니다. 하지만 그 숫자를 누가 계산했는지는 아실 권리가 있습니다. (방청석 맨 뒤에서 일어선다. 목소리가 생각보다 잘 울린다)
+Kristian|A2|Tack. Jag har inga fler frågor.|감사합니다. 더 질문 없습니다. (앉는다)
+Karin|C1|Vi lämnar fem rekommendationer, och vi begär att båda nämnderna svarar skriftligt senast den 31 mars. Ett svar ska innehålla vad som ska göras, vem som ansvarar och när det ska vara klart. Ett svar som bara säger ”noterat” kommer vi att skicka tillbaka.|저희는 권고 다섯 가지를 드리며, 두 위원회 모두 3월 31일까지 서면으로 답변해 주실 것을 요청합니다. 답변에는 무엇을 할지, 누가 책임질지, 언제까지 마칠지가 들어가야 합니다. '확인함(noterat)'이라고만 적힌 답변은 돌려보내겠습니다.
+Agneta|B2|Fullmäktige beslutar att lägga rapporten till handlingarna och att remittera den till utbildningsnämnden och socialnämnden för yttrande. Vi tar en paus på tio minuter.|의회는 보고서를 접수하고, 교육위원회와 사회복지위원회에 회부해 의견을 듣기로 의결합니다. 10분간 정회하겠습니다. (의사봉 소리)
+Jonas|A2|Karin! Det var riktigt bra.|카린! 정말 잘하셨어요. (복도. 자판기 커피 냄새)
+Karin|B2|Mina knän skakade hela tiden. Men jag fick läsa rapporten först, i torsdags, precis som ni lovade – och nu har alla den. Jörgen bad mig förresten hälsa att han har ”noterat” den.|무릎이 내내 떨렸어요. 그래도 약속하신 대로 지난 목요일에 제가 제일 먼저 읽었어요. 이제 다들 갖고 있고요. 참, 예르겐이 보고서를 '확인했다'고 전해 달래요. (처음으로 웃는다)
+# 장면 2 — 쇠데르말름 호른스가탄, 새 유리를 끼운 Klarsyn 사무실, 12월 10일 수요일 아침 7시 반
+Glasmästaren|A2|Så där. Nytt glas. Akta, det är kallt.|자, 됐습니다. 새 유리예요. 조심하세요, 차가워요. (12월 10일 수요일 아침 7시 반. 유리 기술자가 마지막 고무 몰딩을 눌러 끼운다. 합판은 인도에 기대 세워져 있다. 새 유리에는 자국 하나 없다. 요나스의 손에 커피)
+Jonas|A2|Tack. Det ser nästan för rent ut.|고마워요. 너무 깨끗해서 좀 이상하네요.
+Glasmästaren|B1|Ska ni inte ha ert namn på rutan? Folk brukar vilja ha det i guld.|유리에 회사 이름 안 넣으세요? 다들 금색으로 넣고 싶어 하던데.
+Jonas|B1|Inte än. Förra gången någon skrev något på vårt fönster var det inte vi.|아직요. 지난번에 우리 창문에 뭘 쓴 건 우리가 아니었거든요.
+Amir|B1|Jonas! Har du sett Kuriren? Hela förstasidan!|요나스! 쿠리렌 봤어요? 1면 전체예요! (종이 신문 세 부를 들고 뛰어 들어온다. 1면에 쇠르비켄 시청 사진과 큰 제목)
+Jonas|B2|”Kommunen betalade – ingen kontrollerade.” Linus har skrivit fyra sidor, och han nämner oss inte förrän på sidan sex, där han beskriver metoden.|'시는 돈을 냈고, 아무도 확인하지 않았다.' 리누스가 네 면이나 썼네. 그리고 우리 얘기는 6면에서 방법론 설명할 때 처음 나와.
+Elin|B2|Bra. Rapporten är kommunens, inte vår. Ju längre bak i tidningen vi står, desto bättre har vi gjort vårt jobb.|좋아. 보고서는 시의 것이지 우리 것이 아니야. 신문 뒤쪽에 나올수록 우리가 일을 잘한 거야. (자전거 헬멧을 벗으며 들어온다)
+Amir|B1|Telefonen har ringt nitton gånger sedan sju. Jag skriver upp alla på tavlan: vem, när och vad de vill.|7시부터 전화가 열아홉 번 왔어요. 화이트보드에 전부 적고 있어요. 누가, 언제, 뭘 원하는지. (화이트보드에 줄을 그은 표. '19'에 동그라미)
+Elin|A2|Vilka har ringt?|누가 전화했는데?
+Amir|B2|Fyra journalister, två revisorer från andra kommuner som vill ha samma granskning, en advokat som företräder Sörbuss och en kvällstidning som frågar om Bertil. De har haft en artikel ute sedan klockan sex: ”Granskarnas rådgivare godkände kraschbank”.|기자 넷, 같은 감사를 받고 싶다는 다른 시의 감사인 둘, Sörbuss를 대리하는 변호사 하나, 그리고 베르틸에 대해 묻는 석간지 하나요. 거기는 아침 6시부터 기사를 걸어 놨어요. '감사인들의 고문, 무너진 은행에 적정 의견'.
+Jonas|B2|Där kom Henriks mening. Den kom bara ett dygn för sent.|헨리크의 문장이 도착했네. 딱 하루 늦게.
+Elin|C1|Vi vet inte att det är Henrik, och det tänker vi inte påstå heller. Vi vet bara att någon har gett en tidning något som vi själva publicerade i går klockan sex. Det är ingen avslöjande artikel, Jonas, det är ett referat av vår egen bilaga.|헨리크라는 건 우리가 몰라. 그렇다고 주장할 생각도 없고. 우리가 아는 건, 누군가 어제 6시에 우리가 직접 공개한 걸 한 신문에 건넸다는 것뿐이야. 그건 폭로 기사가 아니야, 요나스. 우리 부록 요약이지.
+Amir|A2|Hon ringer igen. Reportern. Nu.|또 전화 왔어요. 그 기자요. 지금요.
+Elin|B2|Elin Bergqvist. Ja, det stämmer. Allt står i bilaga 3, på sidan 41: datum, belopp och hans egen underskrift. Nej, vi har ingenting att tillägga. Det är han som har skrivit det, inte vi.|엘린 베리크비스트입니다. 네, 맞아요. 전부 부록 3, 41쪽에 있어요. 날짜, 금액, 그리고 본인 서명까지요. 아니요, 덧붙일 건 없어요. 그걸 쓴 건 그분 본인이지 저희가 아니에요. (40초 만에 끊는다)
+Jonas|B2|Det var det kortaste samtal med en journalist som jag har hört dig ha. Och det effektivaste.|네가 기자랑 하는 통화 중에 제일 짧았어. 그리고 제일 효과적이었고.
+Elin|B2|Det fanns inget mer att säga. Ingrid Ohlsson sa samma sak förra onsdagen när jag berättade för henne: ”Bra. Då vet jag vad jag har.” Sofia sitter hos henne hela dagen med Vallby.|더 할 말이 없었어. 지난주 수요일에 잉그리드 올손한테 말했을 때도 똑같이 그러더라. "좋아요. 그럼 내가 뭘 갖고 있는지 알겠네요." 소피아는 오늘 하루 종일 거기서 Vallby 일 하고 있어.
+Linus|B1|Får man komma in, eller är det fortfarande avspärrat?|들어가도 돼요, 아니면 아직 통제선 쳐져 있어요? (리누스 팔크. 테이크아웃 커피 세 잔. 새 유리창을 손가락으로 한 번 두드려 본다)
+Jonas|A2|Kom in. Nytt glas, samma kaffemaskin.|들어와요. 유리는 새것, 커피 머신은 그대로예요.
+Linus|C1|Jag ska vara ärlig, eftersom ni uppenbarligen har bestämt er för att vara det. I måndags fick jag ett kuvert utan avsändare: en kopia av vår egen artikel från februari 1992 och en lapp där det stod ”Fråga Klarsyn vem de har som rådgivare”. Jag ringde Bertil samma kväll.|솔직하게 말할게요. 여러분도 솔직하기로 작정한 것 같으니까요. 월요일에 보낸 사람 없는 봉투를 받았어요. 1992년 2월 우리 신문 기사 사본이랑 쪽지 한 장. 'Klarsyn한테 고문이 누군지 물어보라.' 그날 밤 베르틸한테 전화했어요.
+Amir|A2|Vad sa han?|뭐라고 하셨어요?
+Linus|B2|Han sa: ”Läs bilaga 3 i morgon klockan sex. Har du fler frågor efter det, svarar jag på varenda en.” Ingen källa har någonsin bett mig att vänta på en bilaga.|이렇게 말하더군요. "내일 6시에 부록 3을 읽게. 그 뒤에도 질문이 있으면 하나도 빠짐없이 답하지." 부록을 기다리라고 한 취재원은 처음이었어요.
+Elin|B2|Och kvällstidningen fick samma kuvert men väntade inte. Nu står det en rad längst ner i deras artikel: ”Uppgifterna framgår av rapportens egen bilaga.”|그 석간지도 같은 봉투를 받았는데 안 기다린 거네요. 이제 그 기사 맨 밑에 한 줄이 붙었어요. '이 내용은 보고서 자체 부록에 나와 있다.' (휴대전화로 기사를 끝까지 내려 보여 준다)
+Linus|C1|Det är det värsta som kan hända ett avslöjande – att det visar sig vara ett citat. Men jag hittade en sak till i er bilaga: ”Jonas Ekholm bad i oktober 2025 en journalist att skjuta upp en publicering. Journalisten gjorde det. Ingen motprestation har lämnats.” Det är första gången jag står i en jävsbilaga.|폭로에 일어날 수 있는 최악의 일이죠. 알고 보니 인용이었다는 거. 그런데 부록에서 하나 더 찾았어요. '요나스 에크홀름은 2025년 10월 한 기자에게 보도를 미뤄 달라고 부탁했다. 기자는 그렇게 했다. 대가는 제공되지 않았다.' 이해충돌 부록에 내가 나오는 건 처음이네요.
+Jonas|B1|Är vi kvitt nu, då?|그럼 이제 빚 갚은 거예요?
+Linus|B2|Nej. Nu är vi dokumenterade. Det är bättre, för då kan ingen av oss låtsas något annat i efterhand.|아니요. 이제 기록이 된 거죠. 그게 더 나아요. 나중에 우리 둘 다 딴소리 못 하니까. (커피 한 잔을 요나스 책상에 내려놓고 나간다)
+Amir|B1|Femtio! Det femtionde samtalet var från SVT. Kvällsfrågan vill ha Karin och dig i studion i kväll, Elin. Klockan nio.|쉰 통! 쉰 번째 전화가 SVT였어요. 「Kvällsfrågan」에서 오늘 밤 카린이랑 엘린을 스튜디오에 모시고 싶대요. 9시요. (화이트보드에 '50'을 쓰고 동그라미를 친다. 오전 11시)
+Elin|B2|Jag ställer upp på ett villkor: att jag bara svarar på det som står i rapporten. Inga partier, inga vallöften, ingen skuld. Vill de ha en debatt får de bjuda in politiker.|조건 하나 걸고 나갈게. 보고서에 적힌 것만 답한다는 거. 정당 얘기도, 선거 공약도, 누구 탓도 없이. 토론을 원하면 정치인을 부르라고 해.
+Amir|B1|Jag kan inte följa med er. Daniyal skrev precis: ”Kan du komma till fritidsgården i kväll? Polisen är där på onsdagar.” Han har aldrig skrivit först.|저는 같이 못 가요. 다니얄이 방금 문자했어요. "오늘 저녁에 청소년 센터 올 수 있어? 수요일마다 경찰이 와." 걔가 먼저 문자한 적은 한 번도 없었어요. (휴대전화를 내려다본 채 한참 서 있다)
+# 장면 3 — 예르데트, SVT 방송국 출연자 대기실, 같은 날 저녁 8시 20분
+Moa|B1|Välkomna till Kvällsfrågan. Ni är med efter den första debatten, ungefär kvart över nio. Ni har fyra minuter tillsammans, och sminkrummet ligger till vänster.|「Kvällsfrågan」에 오신 걸 환영해요. 첫 번째 토론 다음 순서고, 9시 15분쯤이에요. 두 분 합쳐서 4분이고, 분장실은 왼쪽이에요. (12월 10일 수요일 저녁 8시 20분. 예르데트의 SVT 방송국, 출연자 대기실. 소파 두 개, 생수병, 과일 바구니, 벽에는 생방송 모니터. 프로듀서 모아가 헤드셋을 목에 걸고 있다)
+Karin|A2|Fyra minuter? För hundrafyrtio sidor?|4분이요? 140쪽짜리에?
+Moa|B2|Det är två minuter mer än de flesta får. Programledaren börjar med en fråga till dig, Karin, och tar sedan en om metoden med Elin. Kort och tydligt, och inga siffror med decimaler.|대부분 받는 것보다 2분 더 많은 거예요. 진행자가 카린 씨한테 먼저 하나 묻고, 그다음에 엘린 씨한테 방법론에 대해 하나 물을 거예요. 짧고 분명하게요. 소수점 있는 숫자는 빼고요.
+Elin|B2|Då säger jag ”drygt sextio procent” i stället för ”sextioen”. Det gör ont, men jag överlever.|그럼 '61퍼센트' 대신 '60퍼센트 남짓'이라고 할게요. 아프지만 살아남을 거예요.
+Jonas|C1|I hockey säger man att det sällan är det första skottet som avgör, utan returen. Säg en sak, och säg den två gånger. Det är andra gången som tittarna minns.|하키에서는 첫 슛보다 리바운드가 승부를 가르는 경우가 많다고 해. 한 가지만 말하고, 그걸 두 번 말해. 시청자가 기억하는 건 두 번째야.
+Karin|C1|Jag har fått tre samtal i dag från partivänner som vill att jag ska säga att majoriteten har misslyckats. Jag tänker inte säga det. Revisionen tillhör fullmäktige, inte mitt parti, och den dag jag glömmer det borde jag lämna uppdraget.|오늘 같은 당 사람들한테서 전화를 세 통 받았어요. 다수파가 실패했다고 말해 달래요. 그 말은 안 할 거예요. 감사는 의회 것이지 우리 당 것이 아니에요. 그걸 잊는 날엔 이 자리를 내놔야 해요.
+Elin|B1|Ett sms från Henrik. ”Läste bilaga 3. Du lär dig fort, Elin. /H”|헨리크한테서 문자 왔어. "부록 3 읽었어. 빨리 배우는군, 엘린. /H" (휴대전화 화면을 요나스 쪽으로 돌린다)
+Jonas|B2|Närmare ett erkännande än så kommer vi inte. Han skulle aldrig skriva ”jag skickade kuvertet”.|자백에 그보다 더 가까운 건 못 받을 거야. '내가 봉투 보냈어'라고는 절대 안 쓸 사람이니까.
+Elin|C1|Och vi kommer aldrig att kräva det av honom. Han får skicka hur många kuvert han vill – så länge vi själva redan har skrivit det som ligger i dem, är det bara gammal post.|그리고 우린 절대 그걸 요구하지 않을 거야. 봉투는 얼마든지 보내라고 해. 그 안에 든 걸 우리가 이미 써 놨으면, 그건 그냥 지난 우편물이야.
+Annika|B1|Ursäkta, är det här rummet för den andra debatten? Jag har fått tre olika besked i korridoren.|실례합니다, 여기가 두 번째 토론 대기실인가요? 복도에서 세 사람이 다 다른 데를 알려 줘서요. (쉰 살 가까운 여성. 짙은 남색 재킷, 고무줄로 묶은 메모 카드 한 뭉치. 목에 건 출입증에 'Annika Strand – Brobyggarna')
+Moa|A2|Ja, här. Sätt dig. Du är på halv tio.|네, 여기예요. 앉으세요. 9시 반 순서예요.
+Annika|C1|Karin Wedin? Jag såg dig i fullmäktige i går, på webben. Jag satt själv åtta år i kommunfullmäktige i Örebro, och jag har aldrig tidigare hört en revisor börja med slutsatsen och sluta med ett datum.|카린 베딘 씨죠? 어제 의회 중계를 웹으로 봤어요. 저도 외레브로 시의회에 8년 있었는데, 감사인이 결론으로 시작해서 날짜로 끝내는 건 처음 들었어요.
+Karin|B1|Tack. Det här är Elin Bergqvist. Det är hennes team som har skrivit rapporten.|고마워요. 이쪽은 엘린 베리크비스트 씨예요. 보고서를 쓴 게 이분 팀이에요.
+Annika|C1|Jag vet. Jag har läst er rapport tre gånger, och det är första gången på länge som jag inte har kunnat hitta en enda brasklapp.|알아요. 보고서를 세 번 읽었어요. 면책용 단서 조항 하나 찾지 못한 건 정말 오랜만이에요. (엘린에게 손을 내민다. 악수가 단단하다)
+Elin|B2|Det finns förbehåll i den. På sidan nio skriver vi vad vi inte kunde kontrollera.|단서는 있어요. 9쪽에 저희가 확인하지 못한 것들을 적었어요.
+Annika|C1|Ett förbehåll är inte en brasklapp. Ett förbehåll talar om vad man inte vet; en brasklapp skyddar den som skriver. Jag har läst hundratals tjänsteskrivelser där det viktigaste stod i en bisats på sidan arton. Hos er står det i första meningen.|단서와 면책 조항은 달라요. 단서는 뭘 모르는지 말해 주고, 면책 조항은 쓰는 사람을 지켜 주죠. 가장 중요한 내용이 18쪽 종속절에 숨어 있는 행정 보고서를 수백 개 읽었어요. 여러분 보고서에선 그게 첫 문장에 있어요.
+Jonas|B1|Du är Brobyggarna, eller hur? Ni fick 3,7 procent i förra valet.|브로비가르나 대표시죠? 지난 선거에서 3.7퍼센트 받으셨고요.
+Annika|C1|Tre komma sju. Knappt tjugo tusen röster från fyra procent. Jag har slutat räkna hur många som har sagt att de skulle ha röstat på oss om de bara hade trott att vi skulle klara spärren.|3.7. 4퍼센트까지 2만 표가 조금 안 모자랐죠. 우리가 기준선을 넘을 줄 알았으면 우리를 찍었을 거라는 사람이 몇 명이었는지, 이젠 세지도 않아요.
+Jonas|B2|Och vad tänker du säga om välfärdsbrott i kväll, om du får en fråga?|그럼 오늘 밤 복지범죄에 대해 질문받으면 뭐라고 하실 거예요?
+Annika|C1|Jag tänkte börja med att jag arbetade som intensivvårdssjuksköterska i femton år och har sett vad det innebär när pengar som skulle ha gått till vården försvinner, och sedan tänkte jag ta upp tre förslag – kontrollen innan ett företag godkänns, informationsutbytet mellan myndigheterna och … ja, och sedan personalen, förstås, för utan personal blir ingen kontroll gjord, och det är ju det som …|먼저 제가 15년 동안 중환자실 간호사로 일하면서 의료에 가야 할 돈이 사라지는 게 어떤 건지 봤다는 얘기부터 하고, 그다음에 제안 세 가지를 말하려고요. 회사를 승인하기 전의 점검, 기관 간 정보 공유, 그리고… 네, 그리고 당연히 인력이요. 사람이 없으면 아무 점검도 안 되니까요. 그게 바로… (카드를 한 장씩 넘긴다. 일곱 장째)
+Moa|B1|Annika, du har ungefär trettio sekunder per svar. Programledaren avbryter, och hon är snabb.|안니카 씨, 답변당 30초 정도예요. 진행자가 끊을 거고, 빨라요.
+Annika|B1|Trettio sekunder. Då får jag väl stryka sjuksköterskan.|30초요. 그럼 간호사 얘기는 빼야겠네요.
+Jonas|C1|Stryk förslagen i stället och behåll sjuksköterskan. Ingen tittare minns tre förslag klockan halv tio en onsdag, men alla minns en människa som har stått vid en säng och sett något försvinna.|오히려 제안을 빼고 간호사를 남기세요. 수요일 밤 9시 반에 제안 세 개를 기억하는 시청자는 없어요. 하지만 병상 옆에 서서 뭔가 사라지는 걸 본 사람은 다들 기억해요.
+Annika|B2|Det där låter som något en konsult skulle säga.|그거 컨설턴트가 할 법한 말 같은데요.
+Jonas|B2|Jag var konsult i många år. Numera granskar jag folk som har lyssnat på konsulter. Jag vet inte vilket som är värst.|오랫동안 컨설턴트였어요. 요즘은 컨설턴트 말을 들은 사람들을 감사하고요. 뭐가 더 나쁜지는 모르겠네요.
+Elin|B2|Han har tyvärr rätt. Det händer oftare än jag erkänner offentligt.|안타깝게도 이 사람 말이 맞아요. 제가 공개적으로 인정하는 것보다 자주 그래요.
+Moa|B1|Karin och Elin, nu är det dags. Mikrofonerna sätter vi på kavajslaget.|카린 씨, 엘린 씨, 이제 시간이에요. 마이크는 재킷 깃에 달아 드릴게요.
+Karin|B2|Kom, Elin. Fyra minuter. Drygt sextio procent, och inga decimaler.|가요, 엘린. 4분. 60퍼센트 남짓. 소수점은 없이. (안니카는 카드를 다시 고무줄로 묶는다. 맨 위 카드에 큰 글씨로 '15 år IVA')
+# 장면 4 — 알뷔 광장 옆 청소년 센터, 같은 날 저녁 8시 반
+Hodan|A2|Amir Nouri! Titta på dig. Du har blivit gammal.|아미르 누리! 너 좀 봐. 많이 늙었다. (같은 시각, 저녁 8시 반. 알뷔 광장 옆 청소년 센터. 탁구대, 팝콘 냄새, 대형 화면에서 축구 게임 소리. 20년째 이곳 지도사인 호단이 접수대에서 일어선다)
+Amir|B1|Hej, Hodan. Du har inte förändrats ett dugg. Är han här?|안녕하세요, 호단. 하나도 안 변하셨네요. 걔 여기 있어요?
+Hodan|B1|Han sitter där inne med polisen. Han kom redan klockan fyra och har väntat sedan dess. Jag har aldrig sett honom komma i tid någonstans.|안쪽 방에 경찰이랑 있어. 4시에 벌써 와서 그때부터 기다렸어. 걔가 어디든 제시간에 오는 거 처음 봤다.
+Amir|B2|Han skrev till mig i förmiddags. Han har aldrig hört av sig först förut, så jag läste meddelandet tre gånger innan jag förstod att det var på riktigt.|오전에 저한테 문자했어요. 걔가 먼저 연락한 적이 한 번도 없어서, 진짜인 걸 알기까지 세 번이나 읽었어요.
+Daniyal|A2|Du är sen. Sätt dig.|늦었어. 앉아. (작은 회의실. 다니얄이 휴대전화를 두 손으로 쥐고 있다. 맞은편에 제복 차림의 경찰관)
+Jesper|B1|Jesper Wikman, områdespolis. Jag är här varje onsdag. Din bror har berättat lite, men han ville vänta på dig.|예스페르 비크만이에요, 이 지역 담당 경찰관이고요. 매주 수요일에 여기 와요. 동생분이 조금 얘기했는데, 형을 기다리고 싶다고 해서요.
+Daniyal|B2|Jag har sparat allt. Det första meddelandet kom den tjugonde november: ”fem tusen, en adress, en grej, Fittja”. Sedan dess har det kommit sju till, från tre olika konton.|전부 저장해 놨어요. 첫 메시지는 11월 20일에 왔어요. '5천, 주소 하나, 물건 하나, 피티아.' 그 뒤로 일곱 개가 더 왔어요. 계정 세 개에서요.
+Jesper|B1|Får jag titta? Du behöver inte lämna ifrån dig telefonen. Jag fotograferar bara skärmen.|봐도 될까요? 휴대전화를 넘길 필요는 없어요. 화면만 사진 찍을게요.
+Amir|B1|Sju till? Varför sa du ingenting?|일곱 개 더? 왜 말 안 했어?
+Daniyal|B2|Du frågade aldrig. Och när du väl frågade i november sa du ”det är så det börjar”, som om jag redan hade gjort det.|형이 안 물어봤잖아. 11월에 겨우 물어봤을 때도 '다 그렇게 시작하는 거야'라고 했잖아. 내가 벌써 한 것처럼.
+Amir|B2|Du har rätt. Jag var så rädd att jag pratade med dig som om du var ett ärende och inte min bror. Förlåt.|네 말이 맞아. 너무 무서워서 너를 동생이 아니라 사건처럼 대했어. 미안해.
+Jesper|B2|Det senaste kom i söndags: ”Du har fortfarande inte svarat. Vi glömmer inte.” Det räknar jag som ett hot, och jag kopplar anmälan till den som gjordes i Flemingsberg i juni.|마지막 건 일요일에 왔네요. '아직도 답이 없네. 우린 안 잊어.' 이건 협박으로 봐요. 그리고 6월에 플레밍스베리에서 접수된 신고와 연결해 둘게요.
+Daniyal|B1|Vet du varför jag kom hit i dag och inte i november? Fråga mig.|내가 왜 11월이 아니라 오늘 여기 왔는지 알아? 물어봐.
+Amir|A2|Okej. Varför i dag?|알았어. 왜 오늘이야?
+Daniyal|B2|En kille från Hallunda greps i Fittja den tjugoförsta, på kvällen. Han är femton. Han hade ett paket. Alla i skolan pratar om det. Det var min adress, bror. Det var mitt paket.|할룬다에 사는 애 하나가 21일 저녁에 피티아에서 잡혔어. 열다섯 살이야. 소포를 갖고 있었대. 학교에서 다들 그 얘기야. 그게 내 주소였어, 형. 내 소포였다고.
+Hodan|B2|Jag känner hans mamma. Hon har inte sovit ordentligt sedan dess, och hon frågar mig varje dag vad hon borde ha sett.|그 애 엄마를 알아. 그 뒤로 제대로 못 자. 매일 나한테 자기가 뭘 봤어야 했냐고 물어. (차 세 잔을 쟁반에 받쳐 들고 들어온다)
+Amir|B1|Det kunde ha varit du.|그게 너였을 수도 있었어.
+Daniyal|B2|Nej, det är det jag menar. Det kunde inte ha varit jag, för jag svarade inte. Men jag sa ingenting heller, och då tog de nästa. Någon som var femton.|아니, 내 말이 그거야. 나일 수는 없었어. 난 답을 안 했으니까. 근데 아무 말도 안 했잖아. 그러니까 걔들이 다음 사람을 데려간 거야. 열다섯 살짜리를.
+Jesper|C1|Jag kan inte kommentera ett enskilt gripande. Men det du säger nu är precis det vi behöver höra, och det är också det svåraste att säga. De som rekryterar räknar med att den som säger nej ändå håller tyst. Varje gång någon inte gör det blir deras metod lite dyrare.|특정 체포 건에 대해서는 말할 수 없어요. 하지만 지금 하는 말이 바로 우리가 들어야 하는 말이고, 가장 하기 어려운 말이기도 해요. 모집하는 쪽은 거절한 사람도 결국 입을 다물 거라고 계산해요. 누군가 입을 다물지 않을 때마다 그들의 방식이 조금씩 비싸지는 거죠.
+Daniyal|A2|Blir det en rättegång?|재판까지 가요?
+Jesper|B2|Det vet jag inte än. Jag lovar ingenting om utgången, men jag lovar att du får veta vad som händer med anmälan, och du får ett nummer att ringa om något händer.|아직 몰라요. 결과는 약속 못 해요. 하지만 신고가 어떻게 되는지는 알려 드릴 거고, 무슨 일이 생기면 걸 수 있는 번호를 드릴게요. (명함 뒤에 번호를 적는다)
+Daniyal|B1|Okej. Kan vi gå nu? Jag har teoriprov på fredag och har inte pluggat.|알았어요. 이제 가도 돼요? 금요일에 운전면허 필기시험인데 공부를 하나도 안 했어요.
+Amir|A2|Daniyal. Jag är stolt över dig.|다니얄. 네가 자랑스러워.
+Daniyal|B1|Säg inte sånt här inne. Hodan hör allt.|여기서 그런 말 하지 마. 호단이 다 들어.
+Hodan|B2|Jag har hört det förut. Din bror satt på samma stol när han var femton och sa att han skulle bli ingenjör. Ingen trodde på honom, utom din mamma.|전에도 들어 봤어. 네 형이 열다섯 살 때 바로 그 의자에 앉아서 엔지니어가 되겠다고 했거든. 아무도 안 믿었지. 너희 엄마만 빼고.
+Amir|B1|Mamma vet fortfarande ingenting. Ska vi berätta i kväll? Tillsammans?|엄마는 아직 아무것도 몰라. 오늘 밤에 말할까? 같이?
+Daniyal|B2|Ja. Men jag börjar, annars gör du en presentation med punktlistor. Och knäpp upp kavajen. Du ser ut som en banktjänsteman.|응. 근데 내가 먼저 말할게. 안 그러면 형은 글머리표 달린 발표를 할 거야. 그리고 재킷 단추 좀 풀어. 은행원 같아.
+Amir|B1|Det är sjätte gången i år som någon säger det. Jag börjar tro på det.|올해 그 말 들은 게 여섯 번째야. 이제 믿기 시작했어. (단추를 푼다. 다니얄이 처음으로 웃는다. 형제는 나란히 광장을 가로질러 집으로 걷는다)
+# 장면 5 — 예르데트, SVT 정문 앞, 같은 날 밤 10시 10분
+Elin|B2|Fyra minuter, och jag sa ”drygt sextio procent” två gånger. Säg att det räckte, Jonas.|4분 동안 '60퍼센트 남짓'을 두 번 말했어. 충분했다고 말해 줘, 요나스. (밤 10시 10분. SVT 정문 앞. 진눈깨비. 엘린의 귀밑에 분장 파우더가 아직 남아 있다. 카린은 먼저 택시를 탔다)
+Jonas|B2|Det räckte. Annika däremot fick tre frågor och hann svara på ungefär en och en halv.|충분했어. 반면에 안니카는 질문 세 개를 받고 한 개 반쯤 대답했지.
+Annika|C1|Jag hörde det, och du har rätt. Jag behöll sjuksköterskan, precis som du sa, men sedan försökte jag ändå få in alla tre förslagen, och programledaren avbröt mig mitt i det andra. Det var ungefär som att lägga om ett förband med tumvantar på.|들었어요. 그리고 맞는 말이에요. 말씀대로 간호사 얘기는 남겼는데, 그래도 제안 세 개를 다 넣으려다가 두 번째 중간에 진행자가 끊었어요. 벙어리장갑 끼고 붕대를 갈아 감는 것 같았어요. (뒤에서 나타난다. 코트 깃을 세우고, 메모 카드 뭉치를 주머니에 쑤셔 넣는다)
+Elin|B2|Du var bättre än du tror. Du var den enda i panelen som pratade om dem som aldrig fick sina besök, och inte bara om dem som fuskade.|생각보다 잘하셨어요. 패널 중에 부정을 저지른 사람들 말고, 방문을 끝내 받지 못한 사람들 얘기를 한 건 안니카 씨뿐이었어요.
+Jonas|B1|Det där lät nästan som en fråga, Annika. Vad är frågan bakom frågan?|방금 그거 거의 질문처럼 들렸어요, 안니카 씨. 질문 뒤의 질문이 뭐예요?
+Annika|C1|Vänliga ord vinner inga val, Elin. Jag behöver människor som säger det ovänliga till mig innan tittarna gör det – och som skriver ner sina egna svagheter i en bilaga. Frågan bakom frågan får ni när jag själv vågar ställa den. Här är mitt kort. Ring inte mig. Jag ringer er.|친절한 말로는 선거 못 이겨요, 엘린 씨. 저한테 필요한 건 시청자보다 먼저 불친절한 말을 해 줄 사람들이에요. 그리고 자기 약점을 부록에 적는 사람들이요. 질문 뒤의 질문은 제가 그걸 물을 용기가 생기면 드릴게요. 여기 제 명함이에요. 전화하지 마세요. 제가 할게요. (명함을 엘린의 손에 쥐여 주고 진눈깨비 속으로 걸어간다. 하얀 명함에 다리 모양 로고 하나)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Jag är stolt över dig.** | 네가 자랑스러워. | *vara stolt över* + 사람/일 = ~을 자랑스러워하다. 전치사는 *över*(*på* 아님). 형용사 *stolt* 는 주어가 복수면 *stolta* |
+| `A2` | **Du är sen. Sätt dig.** | 늦었어. 앉아. | *vara sen* = 늦다(*komma för sent* 와 비교). *sätta sig* 는 재귀동사 — 명령형 *Sätt dig!*, 여럿에게는 *Sätt er!* |
+| `B1` | **Revisorerna föreslår att ansvarsfrihet inte beviljas.** | 감사인들은 책임 면제를 승인하지 말 것을 제안합니다. | *att* 종속절이라 *inte* 가 동사 앞(*inte beviljas*). *beviljas* 는 -s 수동태(승인되다). 관청·의회 문체의 고정 문장 |
+| `B1` | **Är vi kvitt nu, då?** | 그럼 이제 빚 갚은 거예요? | *vara kvitt* = 셈이 끝나다, 비기다. 문장 끝 *då* 는 '그럼'처럼 앞의 말을 받아 묻는 구어 |
+| `B1` | **Ju längre bak i tidningen vi står, desto bättre har vi gjort vårt jobb.** | 신문 뒤쪽에 나올수록 우리가 일을 잘한 거야. | *ju … desto* = ~할수록 더 ~. *ju* 절은 종속절 어순(*vi står*), *desto* 절은 도치(*har vi gjort*) |
+| `B2` | **Det mest anmärkningsvärda är inte att fusket skedde, utan att ingen kontroll upptäckte det.** | 가장 주목할 점은 부정이 있었다는 게 아니라, 어떤 통제도 그걸 발견하지 못했다는 거예요. | *inte … utan* = ~가 아니라 ~. *det mest anmärkningsvärda* 는 최상급 명사화(한정형 -a). *ske – skedde* = 일어나다 |
+| `B2` | **Nu är vi dokumenterade.** | 이제 기록이 된 거죠. | 과거분사 복수 *dokumenterade*. '갚았다(kvitt)' 대신 '기록됐다'로 관계를 다시 정의하는 대답 — 기자와 취재원 사이의 거리 두기 |
+| `C1` | **Jag har läst er rapport tre gånger, och det är första gången på länge som jag inte har kunnat hitta en enda brasklapp.** | 보고서를 세 번 읽었어요. 면책용 단서 조항 하나 찾지 못한 건 정말 오랜만이에요. | *brasklapp* = 책임을 피하려고 끼워 넣는 단서(16세기 브라스크 주교의 일화에서). *det är första gången som* + 종속절(*inte* 가 *har* 앞) |
+| `C1` | **Revisionen tillhör fullmäktige, inte mitt parti.** | 감사는 의회 것이지 우리 당 것이 아니에요. | *tillhöra* = ~에 속하다(전치사 없이 목적어). 스웨덴 지자체 감사인은 의회가 선출하고 의회에 보고한다는 원칙을 한 문장으로 |
+| `C1` | **De som rekryterar räknar med att den som säger nej ändå håller tyst.** | 모집하는 쪽은 거절한 사람도 결국 입을 다물 거라고 계산해요. | *räkna med att* = ~을 전제로 하다, 기대하다. *den som* 이 두 번(복수 *de som* / 단수 *den som*). *hålla tyst* = 입을 다물다 |
+
+## 현안 메모
+- **복지범죄(välfärdsbrott)** — 재가요양, 개인 지원(assistans), 각종 수당처럼 공공 자금이 민간 공급자를 거쳐 나가는 분야에서, 범죄조직이 바지사장을 세운 회사로 허위 청구를 하는 문제다. 정부 위원회인 '복지 시스템의 정확한 지급을 위한 위원회'(Delegationen för korrekta utbetalningar från välfärdssystemen)는 2020년 복지 시스템의 부정확한 지급을 연간 약 180억 크로나로 추산했다. 2024년 9월에는 부정 지급을 막기 위한 새 기관 지급청(Utbetalningsmyndigheten)이 출범했다.
+- **지자체의 통제** — 많은 지자체가 선택의 자유 체계(LOV)로 민간 재가요양 업체를 승인하고, 보고된 수행 시간에 따라 돈을 낸다. 승인 전 현장 점검, 대표·이사 교체 감시, 도어락·방문 기록과 청구서 대조 같은 통제를 얼마나 하느냐는 지자체마다 다르다. 국가 차원에서는 기관 간 정보 공유를 넓히고 비밀유지 규정의 예외를 늘리는 개정이 잇따라 논의·도입되고 있다.
+- **SNS를 통한 청소년 모집** — 경찰은 범죄 네트워크가 메신저·SNS로 10대에게 돈을 제시하며 운반·폭력 같은 '일'을 맡기는 방식('våld som tjänst', 용역형 폭력)을 경고해 왔다. 청소년을 범죄에 끌어들이는 행위에 대한 처벌 강화와 예방 정책이 2026년 총선의 안전 쟁점과 맞물려 있다. 경찰은 위협이나 모집 메시지를 받으면 답하거나 차단하지 말고 캡처해 신고할 것을 권한다.
+- **책임 면제(ansvarsfrihet)** — 지방자치법에 따라 선출직 감사인은 매년 봄 감사보고서에서 각 위원회의 책임 면제 여부를 의회에 제안하고, 의회는 이듬해 6월 말까지 결정한다. 거부되면 의회는 해당 위원의 직을 거둘 수 있고 손해배상 청구도 할 수 있다. 실제 거부는 드물고, 그보다 가벼운 비판인 '지적(anmärkning)'이 더 흔하다. 이번 화처럼 12월에 미리 판단을 알리는 건 이례적이지만, 감사인은 연중 언제든 의회에 보고할 수 있다. (쇠르비켄, 등장 정치인, Brobyggarna는 모두 가상이다.)
+
+## 비즈니스 메모
+- **피라미드 원칙의 감사판** — 결론 → 근거 → 권고 → 응답 요구. 카린의 발표는 첫 문장에 결론("충분한 내부통제를 보장하지 못했다")을 놓고, 근거는 숫자 두세 개(변경 계약 12건·연 1,150만, 확인된 방문 61% 대 97%)로 줄였다. 권고는 실행 단위로 다섯 가지, 마지막에 응답 요구가 온다. 듣는 사람이 3쪽에서 멈춰도 결론은 이미 전달돼 있다.
+- **응답 요구(svarskrav)** — 권고만 있고 응답 요구가 없는 보고서는 '확인함'으로 끝난다. 좋은 응답 요구는 세 가지를 묻는다: 무엇을 할 것인가, 누가 책임지는가, 언제까지 끝내는가. 그리고 기한(3월 31일)을 정해, 그 답이 다음 감사의 출발점이 되게 한다.
+
+## 다음 화 예고 — Samtalet
+**3부 16화.** 12월 13일 토요일, 루시아의 날. 호른스가탄의 새 유리창 너머로 사프란 빵과 촛불, 그리고 한 해 결산. 쇠르비켄, Lärkan, Sjöglimten, Mälarvik, Nordvik, 외스트라 렌켄, Vallby — 노란 노트의 'DET VI INTE VILL HITTA'는 일곱 쪽이 되었다. 그때 엘린의 휴대전화가 울린다. 화면에는 명함의 그 번호. "Vi ligger på 2,9 procent. Jag behöver er." 감사인이 정당의 전략가가 된다는 건 독립성의 끝일까. 베르틸은 늘 하던 대로 묻는다. 무엇을 찾고 싶지 않으냐고.
