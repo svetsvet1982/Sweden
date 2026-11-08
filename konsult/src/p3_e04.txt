@@ -1,0 +1,161 @@
+@title 3부 4화 — Hemtjänsten
+@subtitle (재가요양)
+@meta 날짜|2025년 5월 27일 화요일 (쇠르비켄 의뢰 5주째, 재가요양 추가 의뢰 첫날)
+@meta 장소|쇠데르말름 호른스가탄, Klarsyn 사무실 (오전 8시 반 ~ 11시) → 쇠르비켄 중심가 스토르가탄 14번지 2층, Omsorg Plus Sörviken AB 사무실 앞 계단참 (오후 1시 15분) → 쇠르비켄 린드베겐 7번지 4층, 군나르 홀름그렌의 아파트 (오후 3시)
+@meta 등장인물|**Sofia Mäkinen** (소피아 매키넨, 32, 이날부터 Klarsyn — 인터뷰·내부고발자 보호) · **Jonas Ekholm** (요나스 에크홀름, 43, Klarsyn 공동대표 — 대외·조사) · **Elin Bergqvist** (엘린 베리크비스트, 36, Klarsyn 공동대표 — 감사 총괄) · **Amir Nouri** (아미르 누리, 29, Klarsyn 데이터·포렌식 분석가) · **Pia Lindén** (피아 린덴, 61, 스토르가탄 14번지 1층 꽃집 주인) · **Gunnar Holmgren** (군나르 홀름그렌, 88, Omsorg Plus 재가요양 이용자, 전 『Sörvikens Tidning』 식자공)
+@meta 이번 화의 도구|데이터 매칭(registerkörning) — 서로 다른 곳에서 따로 만들어진 기록을 같은 열쇠(사람·장소·시간)로 맞대어, 현실에서 불가능한 조합을 찾는다. 이번 화의 세 기록: ① 공급자가 스스로 보고한 방문 시간(=청구 근거) ② 시가 설치한 디지털 도어락의 열림 기록 ③ 승인 당시 제출된 직원 명단. 결과는 '일치 / 다른 사람·다른 시간 / 기록 없음'으로 나누고, 비교 기준(시 직영 재가요양의 일치율)과 오차 원인(도어락 없는 집, 열어 둔 문)을 함께 적는다
+@meta 스웨덴 현안|복지범죄(välfärdsbrott)와 재가요양(hemtjänst) — 많은 지자체가 선택제도법(LOV, lagen om valfrihetssystem)에 따라 승인한 민간 공급자에게 이용자가 고르게 하고, 공급자가 보고한 '수행 시간'만큼 돈을 지급한다. 2019년부터 민간 재가요양에는 보건복지감독청(IVO)의 허가가 필요하지만, 실제 방문이 이루어졌는지 점검하는 것은 지자체의 몫이다. 허위 근무시간 청구와 범죄조직의 복지 부문 침투가 잇따라 드러나면서 정부와 지자체가 대응을 강화하고 있다
+@intro **지난 이야기** — 5월 6일, 쇠르비켄 시 조달 담당 토비아스 룬드는 시나몬롤과 USB 스틱을 들고 Klarsyn을 맞았다. 그러나 2018년 평가표의 숨김 열에서 14% 싼 세 번째 입찰서가 '시청 반경 5km 차고지' 요건 하나로 탈락한 흔적이 나왔고, 엘린은 '추가 노선' 변경 계약 열두 건이 모두 토비아스 혼자 서명할 수 있는 한도 100만 크로나 바로 밑에서 멈춘 것을 찾아냈다. 베르틸은 말했다. "한 번은 우연, 두 번은 습관, 열두 번은 방법." Sörbuss 차고 앞에서 아미르가 센 버스는 목록상 26대가 아니라 19대였다. 오소가탄의 바에서 기자 리누스 팔크는 행정부 안의 익명 제보자 이야기를 꺼냈고, 요나스는 아무것도 주지 않았다. 그날 저녁, 토비아스 룬드가 사직했다. 사유는 한 줄. "Personliga skäl."
+@intro 12일 뒤, 5월 27일 화요일 아침. 통학버스 두 번째 요청서의 답은 아직 오지 않았다. 지난 목요일 카린 베딘이 전화로 새 의뢰를 예고했고, 어젯밤 감사위원회가 그것을 결정했다. 그리고 오늘, 할셰에서 아홉 달을 보낸 소피아가 호른스가탄의 문을 연다. 유리창에는 여전히 'RAMAR & GLAS' 자국, 커피 머신 밑에는 여전히 행주.
+# 장면 1 — 호른스가탄, Klarsyn 사무실, 5월 27일 화요일 오전 8시 반
+Sofia|A2|Hej! Är det här Klarsyn? Det står ju fortfarande "Ramar & Glas" på fönstret.|안녕하세요! 여기가 Klarsyn 맞아요? 유리창엔 아직 '액자와 유리'라고 쓰여 있네요. (5월 27일 화요일 오전 8시 반. 문이 열리고 소피아가 커다란 종이 상자를 안고 들어온다. 상자 위엔 빵집 봉투가 얹혀 있다)
+Jonas|A2|Sofia! Välkommen hem. Ställ ner lådan, den ser tung ut.|소피아! 돌아온 걸 환영해. 상자 내려놔, 무거워 보인다.
+Sofia|B1|Mest pärmar. Och korvapuusti – finska kanelbullar. Jag bakade dem hos min kusin i går kväll.|대부분 서류철이에요. 그리고 코르바푸스티, 핀란드식 시나몬롤이요. 어젯밤에 사촌 집에서 구웠어요.
+Amir|B1|Vänta, jag har också köpt kanelbullar. Det var ju min tur – jag åt den sista den första april.|잠깐, 나도 시나몬롤 사 왔는데. 내 차례였거든. 4월 1일에 마지막 거 내가 먹었으니까. (책상 위의 다른 봉투를 가리킨다)
+Sofia|B1|Regel nummer tre gäller alltså fortfarande. Bra. Då har vi två sorters bullar och ingen kund som vi får prata om.|규칙 3번이 아직 살아 있구나. 좋아. 그럼 롤은 두 종류, 얘기해도 되는 고객은 하나도 없고.
+Elin|B1|Regel nummer två bryter vi nog redan i dag, är jag rädd. Kaffe? Maskinen läcker, men kaffet är gott.|규칙 2번은 오늘 바로 깨질 것 같은데. 커피? 기계가 새긴 하는데 커피는 맛있어.
+Sofia|A2|Ja, gärna. Var ska jag sitta?|네, 주세요. 저는 어디 앉아요?
+Jonas|B1|Vid fönstret. Vi köpte ett skrivbord till i går, och Elin sa att det skulle ta tio minuter att bygga.|창가. 어제 책상을 하나 더 샀어. 엘린이 조립하는 데 10분이면 된다고 했지.
+Elin|A2|Det tog en timme. Det är bättre än förra gången.|한 시간 걸렸어. 지난번보단 낫잖아.
+Sofia|B2|Kjell hälsar, förresten. Han har klarat nästan två månader som tillförordnad vd, och nu ringer han mig bara två gånger om dagen.|그런데 셸이 안부 전해 달래요. 대표이사 대행으로 거의 두 달을 버텼고, 이제 저한테 전화는 하루에 두 번밖에 안 해요.
+Jonas|B2|Bara två? Då är han redo. Men du – är du säker på att du vill byta niohundra anställda mot fyra personer och en kaffemaskin som läcker?|두 번밖에? 그럼 준비된 거네. 그런데 너, 정말 직원 900명을 네 사람이랑 물 새는 커피 머신하고 바꾸고 싶은 거 맞아?
+Sofia|B2|Det är därför jag kommer. I Hallsjö blev jag den som höll ordning på alla andra. Här vill jag lyssna på människor igen – på riktigt.|그래서 오는 거예요. 할셰에선 남들 다 챙기는 사람이 돼 버렸어요. 여기선 다시 사람들 말을 듣고 싶어요. 진짜로요.
+Amir|B1|Och du får en egen mugg. Inte den blå – den blå är Jonas mugg, och den rör man inte.|그리고 너 전용 머그도 있어. 파란 거 말고. 파란 건 요나스 형 거고, 그건 건드리면 안 돼. (선반의 'JONAS' 머그 옆에 새 하얀 머그가 놓여 있다)
+Elin|B2|Formaliteterna först: du är anställd från och med i dag, på samma villkor som Amir. Tidrapport varje dag, och inget arbete som inte går att visa upp i efterhand.|형식적인 것부터. 오늘부로 채용이야. 아미르랑 같은 조건으로. 시간 기록은 매일, 그리고 나중에 보여 줄 수 없는 일은 하나도 하지 않기.
+Sofia|B1|Det låter som du. Har ni ett uppdrag åt mig, eller ska jag bara äta bullar?|딱 엘린 씨답네요. 저한테 줄 일은 있어요, 아니면 롤만 먹으면 돼요?
+Jonas|B2|Karin Wedin ringde i torsdags. Revisorerna i Sörviken vill att vi tar ett uppdrag till: hur kommunen betalar och följer upp de privata hemtjänstföretagen.|카린 베딘이 지난 목요일에 전화했어. 쇠르비켄 감사인들이 의뢰를 하나 더 맡아 달래. 시가 민간 재가요양 업체에 돈을 어떻게 주고, 어떻게 점검하는지.
+Elin|B2|Revisorerna fattade beslutet i går kväll. Fast pris 240 000 kronor, med ett tak på 270 000, och Karin vill ha en första lägesbild före midsommar – alltså om knappt fyra veckor.|감사위원회가 어젯밤에 결정했어. 고정가 24만 크로나, 상한 27만. 그리고 카린은 하지 전에 첫 현황 보고를 원해. 그러니까 4주도 안 남았다는 얘기지.
+Sofia|B1|Varför just hemtjänsten? Har det hänt något?|왜 하필 재가요양이에요? 무슨 일 있었어요?
+Jonas|B2|En biståndshandläggare skrev till sin chef i april att flera äldre säger att ingen kommer. Chefen svarade att utföraren rapporterar alla besök som utförda.|4월에 한 복지 판정관(biståndshandläggare)이 상사한테 메일을 썼어. 여러 어르신이 아무도 안 온다고 하신다고. 상사는 공급자가 방문을 전부 수행했다고 보고하고 있다고 답했고.
+Amir|B1|Och kommunen betalar för det som utföraren rapporterar. 468 kronor i timmen.|그리고 시는 공급자가 보고한 만큼 돈을 줘요. 시간당 468크로나.
+Sofia|A2|Och bussarna, då? Är ni klara med dem?|그럼 버스는요? 그건 끝났어요?
+Elin|B2|Långt ifrån. Tobias Lund har slutat, och svaret på vår andra begäran ska komma på fredag – dagen efter Kristi himmelsfärd. Vi får se.|한참 멀었어. 토비아스 룬드는 그만뒀고, 두 번째 요청서 답은 금요일에 오기로 돼 있어. 예수승천일 다음 날. 두고 봐야지.
+Jonas|C1|Det finns förstås en viss ironi i att regel fem på vår nej-lista – ingen kund får stå för mer än en tredjedel av intäkterna – i dag skulle diskvalificera vår enda kund.|물론 좀 아이러니하긴 하지. 우리 거절 목록 5번, 한 고객이 매출의 3분의 1을 넘으면 안 된다는 규칙대로라면, 지금은 우리 유일한 고객이 탈락이니까.
+Elin|C1|Regeln gäller från och med första bokslutet, och något bokslut har vi inte gjort än. Fram till dess får vi leva med att vara något mindre oberoende än vi skulle önska.|그 규칙은 첫 결산부터 적용이야. 결산은 아직 한 번도 안 했고. 그때까진 우리가 바라는 것보다 조금 덜 독립적인 상태로 사는 수밖에.
+Jonas|A2|Nog om pengar. Amir, du har fått filerna från kommunen. Visa oss.|돈 얘긴 그만. 아미르, 시에서 파일 받았지. 보여 줘.
+# 장면 2 — 호른스가탄, Klarsyn 사무실, 같은 날 오전 10시
+Amir|B2|Asså, vi har tre källor. Ett: Omsorg Plus egna tidsrapporter, alltså det som de fakturerar. Två: loggarna från de digitala låsen hemma hos brukarna. Tre: personallistan som bolaget lämnade in när det godkändes.|그러니까, 출처가 세 개예요. 하나, Omsorg Plus가 직접 낸 시간 보고, 즉 청구한 내역. 둘, 이용자 집에 달린 디지털 도어락 기록. 셋, 회사가 승인받을 때 낸 직원 명단. (오전 10시. 넷이 아미르의 모니터 앞에 모여 있다. 화면엔 색이 다른 세 개의 표)
+Sofia|B1|Digitala lås? Hur fungerar det?|디지털 도어락? 그게 어떻게 되는 건데?
+Amir|B2|Kommunen har satt in lås som man öppnar med en app. Varje anställd har en egen behörighet, och varje gång någon öppnar en dörr sparas tiden och id-numret. Typ som ett passerkort.|시가 앱으로 여는 도어락을 설치했어. 직원마다 개인 권한이 있고, 누가 문을 열 때마다 시간이랑 ID 번호가 저장돼. 출입 카드 같은 거지.
+Elin|B2|Och de uppgifterna omfattas av socialtjänstsekretess. Vi arbetar med pseudonymer – brukare 001, 002 och så vidare. Namn tar vi fram bara när vi måste.|그리고 그 정보는 사회복지 비밀 유지 대상이야. 우린 가명으로 작업해. 이용자 001, 002, 이런 식으로. 이름은 꼭 필요할 때만 꺼내.
+Jonas|B1|Bra. Vad har du jämfört, Amir?|좋아. 뭘 비교했어, 아미르?
+Amir|B2|Första kvartalet i år, och bara brukare som har digitalt lås. Omsorg Plus rapporterade 18 940 besök, nästan 16 700 timmar. Kommunen betalade ut 7,8 miljoner kronor.|올해 1분기, 디지털 도어락이 있는 이용자만요. Omsorg Plus가 방문 18,940건, 거의 16,700시간을 보고했어요. 시는 780만 크로나를 지급했고요.
+Sofia|A2|På tre månader?|석 달 만에?
+Amir|B1|Ja. Men bara 11 630 av besöken stämmer med låsloggen – samma person, samma dörr, ungefär samma tid. Det är 61 procent.|응. 그런데 그중 11,630건만 도어락 기록이랑 맞아. 같은 사람, 같은 문, 거의 같은 시간. 61퍼센트야.
+Jonas|B1|Och hur ser det ut för kommunens egen hemtjänst?|그럼 시 직영 재가요양은 어때?
+Amir|B1|97 procent. Resten är oftast tomma batterier eller någon som har glömt mobilen.|97퍼센트요. 나머지는 대개 배터리가 나갔거나 누가 휴대폰을 두고 온 거고요.
+Elin|B2|Och de 39 procenten som inte stämmer hos Omsorg Plus?|그럼 Omsorg Plus에서 안 맞는 39퍼센트는?
+Amir|B2|4 210 besök där dörren öppnades, men av någon annan än den som rapporterade besöket, eller långt från den rapporterade tiden. Och 3 100 besök där ingen öppnade dörren över huvud taget.|문은 열렸는데 방문을 보고한 사람이 아닌 다른 사람이 열었거나, 보고한 시간과 한참 떨어진 경우가 4,210건. 그리고 아예 아무도 문을 열지 않은 방문이 3,100건이요.
+Sofia|C1|Innan vi drar några slutsatser: kan det inte finnas helt oskyldiga förklaringar? Någon brukare har kanske kvar en vanlig nyckel, eller låter dörren stå olåst för att hon inte orkar gå och öppna.|결론 내리기 전에요, 전혀 악의 없는 설명이 있을 수도 있지 않아요? 어떤 이용자는 아직 보통 열쇠를 갖고 있을 수도 있고, 문 열러 나갈 기운이 없어서 아예 문을 안 잠가 두실 수도 있잖아요.
+Amir|B2|Därför har jag tagit bort de nio brukare av 148 som inte har något digitalt lås. Men du har rätt – en olåst dörr syns inte i loggen. Det är en felkälla, och den står i min metodbeskrivning.|그래서 148명 중에 디지털 도어락이 없는 아홉 명은 뺐어. 그래도 네 말이 맞아. 안 잠근 문은 기록에 안 남아. 그건 오차 원인이고, 내 방법론 설명에 적어 놨어.
+Jonas|B1|Okej. Och det som du ringde mig om i går kväll?|좋아. 그럼 어젯밤에 나한테 전화했던 그건?
+Amir|B1|Medarbetare 0417. Enligt systemet var hon hos tre brukare samtidigt.|직원 0417이요. 시스템상으로 그녀는 이용자 세 명의 집에 동시에 있었어요.
+Elin|B1|Hur många gånger, och vilka tider?|몇 번이나? 몇 시에?
+Amir|B2|Elva morgnar i mars, alltid mellan halv åtta och kvart över åtta. Tre adresser som ligger ett par kilometer från varandra. Och i låsloggen har 0417 bara öppnat en av dörrarna.|3월에 열한 번의 아침이요. 늘 7시 반부터 8시 15분 사이. 서로 몇 킬로미터씩 떨어진 주소 세 곳. 그리고 도어락 기록에선 0417이 그중 한 집 문만 열었어요.
+Sofia|B2|Så någon var hos en av dem. Och de andra två satt och väntade på någon som aldrig kom?|그러니까 누군가 한 집엔 갔다는 거네. 나머지 두 집은 끝내 오지 않는 사람을 앉아서 기다렸고?
+Amir|B1|Det vet jag inte. Jag vet bara vad som står i filerna. Och sedan har vi 0388.|그건 몰라. 난 파일에 적힌 것만 알아. 그리고 0388도 있어.
+Jonas|A2|Vem är det?|그건 누군데?
+Amir|B2|En annan medarbetare. Den fjortonde februari rapporterade hon besök i sammanlagt 26 timmar. På ett enda dygn.|다른 직원이요. 2월 14일에 방문 시간을 합계 26시간 보고했어요. 단 하루 동안에.
+Sofia|B1|På alla hjärtans dag. Hon jobbade alltså fler timmar än dygnet har.|밸런타인데이에. 하루에 있는 시간보다 더 많이 일했다는 거네.
+Elin|C1|Eller så har någon rapporterat i hennes namn. Ett id-nummer är ingen människa, bara en inloggning – och en inloggning kan lånas ut, säljas eller stjälas.|아니면 누가 그 사람 이름으로 보고했거나. ID 번호는 사람이 아니야. 로그인일 뿐이지. 그리고 로그인은 빌려줄 수도, 팔 수도, 훔칠 수도 있어.
+Jonas|B2|Det står mer i din sammanfattning: elva av de 71 på personallistan har inte öppnat en enda dörr på tre månader.|요약본에 더 있네. 직원 명단 71명 중 11명은 석 달 동안 문을 단 한 번도 안 열었다.
+Amir|B1|Ja. De finns på papperet och i tidsrapporterna, men inte vid någon dörr.|네. 서류에도 있고 시간 보고에도 있는데, 어느 문 앞에도 없어요.
+Sofia|B2|Det är inte bara skattepengar som försvinner – det är omsorg som aldrig blir av.|사라지는 건 세금만이 아니에요. 결코 제공되지 않은 돌봄이죠. (조용히. 손에 든 코르바푸스티를 내려놓는다)
+Elin|B2|Precis. Och därför måste vi vara försiktiga med beloppen. De 3 100 besöken utan öppning motsvarar ungefär 2 640 timmar, alltså 1,2 miljoner kronor på ett kvartal.|맞아. 그래서 금액은 조심해야 해. 문이 안 열린 방문 3,100건은 대략 2,640시간이야. 한 분기에 120만 크로나. (노란 노트에 손으로 계산한다. 2,640 × 468)
+Jonas|C1|Fem miljoner om året, om mönstret håller i sig. Men det är väl ingen förlust som vi kan påstå, utan snarare ett belopp som ingen kan verifiera?|패턴이 계속되면 1년에 500만이네. 그런데 그건 우리가 손실이라고 주장할 수 있는 게 아니라, 오히려 아무도 검증할 수 없는 금액이잖아?
+Elin|C1|Exakt. Vi skriver aldrig att pengarna har förskingrats; vi skriver att kommunen har betalat för tid som den inte kan visa att den har fått.|바로 그거야. 우린 절대 돈이 횡령됐다고 쓰지 않아. 시가 받았다고 입증할 수 없는 시간에 대해 돈을 냈다고 쓰지.
+Sofia|B2|Men om loggarna har funnits hela tiden, hur kommer det sig att ingen på kommunen har jämfört dem med fakturorna?|그런데 기록이 내내 있었다면, 어떻게 시에서 아무도 그걸 청구서랑 비교해 보지 않았을까요?
+Amir|C1|Loggarna förvaltas av en annan avdelning, och uppföljningen har bara kontrollerat att fakturorna överensstämmer med utförarens egna rapporter – vilket de förstås alltid gör, eftersom det är samma siffror.|기록은 다른 부서가 관리하고, 사후 점검은 청구서가 공급자 자체 보고와 일치하는지만 확인했어. 당연히 늘 일치하지. 같은 숫자니까.
+Elin|C1|Kontrollen förutsatte att utföraren var hederlig; därav dess blinda fläck.|통제는 공급자가 정직하다는 걸 전제로 했던 거야. 그래서 사각지대가 생긴 거고.
+Jonas|C1|Vad är frågan bakom frågan, då? Inte hur mycket som saknas, utan varför kommunen har byggt ett valfrihetssystem där den enda som kontrollerar utföraren är utföraren själv.|그럼 질문 뒤의 질문은 뭘까? 얼마가 비느냐가 아니라, 왜 시는 공급자를 점검하는 유일한 사람이 공급자 자신인 선택 제도를 만들었느냐.
+Sofia|B2|Och ingen har frågat de äldre själva. Jag ringde biståndsenheten i morse innan jag kom hit. Tre brukare har sagt ja till ett samtal, och den första kan träffa oss klockan tre i dag.|그리고 아무도 어르신들 본인한테 묻지 않았어요. 오늘 아침 여기 오기 전에 복지 판정과에 전화했어요. 이용자 세 분이 면담에 동의하셨고, 첫 번째 분은 오늘 3시에 만날 수 있대요. (모두가 소피아를 본다. 요나스가 말없이 차 열쇠를 집는다)
+# 장면 3 — 쇠르비켄 스토르가탄 14번지 2층, Omsorg Plus Sörviken AB 사무실 앞, 오후 1시 15분
+Amir|A2|Här är det. Omsorg Plus Sörviken AB, andra våningen.|여기예요. Omsorg Plus Sörviken AB, 2층. (오후 1시 15분. 쇠르비켄 중심가의 낡은 상가 건물. 1층은 꽃집. 2층 복도 끝 철문에 A4 용지 한 장이 테이프로 붙어 있다)
+Elin|B1|Enligt lappen har kontoret öppet vardagar mellan nio och fyra. Det är tisdag, och klockan är kvart över ett.|쪽지에는 평일 9시부터 4시까지 연다고 돼 있네. 오늘은 화요일이고, 지금은 1시 15분이고.
+Amir|A2|Jag knackar igen. ... Nej. Ingen.|다시 두드려 볼게요. …아니요. 아무도 없어요.
+Elin|B2|Vi har inte bokat något möte, så de är inte skyldiga att vara här. Men en utförare som kommunen har godkänt ska gå att nå under kontorstid. Det står i förfrågningsunderlaget.|약속을 잡은 건 아니니까 여기 있을 의무는 없어. 하지만 시가 승인한 공급자는 업무 시간에 연락이 돼야 해. 공고 문서에 그렇게 돼 있어.
+Amir|B2|Jag ringer numret på lappen. ... Röstbrevlådan är full. Precis som i fredags och i går.|쪽지에 있는 번호로 걸어 볼게요. …음성사서함이 꽉 찼대요. 지난 금요일이랑 어제랑 똑같이.
+Pia|A2|Söker ni dem? Det är aldrig någon där.|그 사람들 찾아요? 거긴 아무도 없어요. (계단으로 물 양동이 두 개를 든 60대 여자가 올라온다. 앞치마에 흙이 묻어 있다)
+Elin|A2|Aldrig? Hej, förresten. Jag heter Elin.|한 번도요? 아, 안녕하세요. 엘린이라고 해요.
+Pia|B1|Pia. Jag har blomsteraffären på bottenvåningen och ställer mina hinkar här uppe. På två år har jag sett den där dörren öppen kanske tre gånger.|피아예요. 1층에서 꽃집을 하는데, 양동이를 여기 위층에 둬요. 2년 동안 저 문이 열린 걸 본 게 세 번쯤 될까.
+Amir|B1|Vet du vem som brukar komma när den väl är öppen?|그럼 열릴 때는 보통 누가 오는지 아세요?
+Pia|B1|En ung kille. Han hämtar posten på måndagar och kör iväg i en vit bil. Han hälsar aldrig.|젊은 남자애요. 월요일마다 우편물을 가져가서는 흰 차를 타고 가 버려요. 인사 한 번 안 하고.
+Elin|B2|Och personalen? Ett hemtjänstföretag med sjuttio anställda måste väl ha något ställe där folk hämtar nycklar, byter om och får sina scheman.|그럼 직원들은요? 직원이 일흔 명인 재가요양 업체라면 사람들이 열쇠 받고, 옷 갈아입고, 근무표 받는 곳이 어딘가 있어야 하잖아요.
+Pia|B2|Det har jag också undrat. Ibland står det några tjejer i arbetskläder vid busshållplatsen tidigt på morgonen. De tittar i mobilen och väntar på en bil.|저도 그게 궁금했어요. 가끔 이른 아침에 버스 정류장에 작업복 입은 여자애들 몇이 서 있어요. 휴대폰을 들여다보면서 차를 기다리고요.
+Amir|B1|Man kan se in genom brevinkastet. ... Massor av post. Och en stol. Det är allt.|우편함 틈으로 안이 보여요. …우편물이 산더미예요. 그리고 의자 하나. 그게 다예요. (쪼그려 앉아 우편함 덮개를 손끝으로 살짝 든다)
+Elin|C1|Titta gärna, men rör ingenting. Vi har inget mandat att granska bolaget; vi granskar hur kommunen har följt upp det. Det vi ser från trapphuset är en iakttagelse, inget mer.|보는 건 괜찮은데 아무것도 건드리지 마. 우린 이 회사를 감사할 권한이 없어. 시가 이 회사를 어떻게 점검했는지를 감사하는 거야. 계단에서 보이는 건 관찰일 뿐, 그 이상은 아니야. (아미르가 손을 뗀다. 덮개가 탁 닫힌다)
+Pia|B1|Är ni från kommunen? Det är på tiden att någon kommer hit.|시에서 나왔어요? 누가 올 때가 되긴 했죠.
+Elin|B2|Inte riktigt. Vi arbetar åt kommunens revisorer. Har någon från kommunen varit här, vad du vet?|정확히는 아니에요. 시 감사인들을 위해 일해요. 아시는 한에서, 시에서 여기 누가 온 적이 있나요?
+Pia|A2|Nej. Aldrig. Ni är de första.|아니요. 한 번도요. 당신들이 처음이에요.
+Amir|B2|Elin, enligt en kreditupplysningssajt bytte bolaget vd i februari – tredje gången på två år. Och styrelsen består av en enda person, samma som vd:n. Namnen syns bara om man betalar.|엘린 씨, 신용정보 사이트를 보니까 이 회사가 2월에 대표를 바꿨어요. 2년 동안 세 번째예요. 그리고 이사회는 딱 한 명, 대표랑 같은 사람이에요. 이름은 돈을 내야 보여요.
+Elin|B1|Beställ ett registreringsbevis med historik från Bolagsverket. Alla namn, inte bara det senaste.|회사등기청(Bolagsverket)에 이력 포함 등기부 등본을 신청해. 모든 이름, 최근 것만 말고.
+Amir|B1|Okej, jag beställer det direkt i mobilen.|네, 휴대폰으로 바로 신청할게요.
+Pia|B2|Får jag fråga en sak? Min mamma har hemtjänst här i Sörviken. Hon säger att det kommer en ny person varje gång, och att ingen hinner dricka en kopp kaffe med henne.|하나 물어봐도 될까요? 우리 엄마가 여기 쇠르비켄에서 재가요양을 받아요. 엄마 말이 매번 새로운 사람이 오고, 같이 커피 한 잔 마실 시간이 있는 사람이 아무도 없대요.
+Elin|C1|Det kan jag tyvärr inte uttala mig om, och uppgifter om enskilda kan vi inte ta emot här i trappan. Men det finns en klagomålsfunktion hos kommunen – och vi har bett att få läsa allt som har kommit in om hemtjänsten.|안타깝지만 그에 대해선 제가 말씀드릴 수가 없어요. 그리고 개인에 관한 정보를 여기 계단에서 받을 수도 없고요. 하지만 시에 민원 창구가 있어요. 그리고 저희가 재가요양에 관해 들어온 민원은 전부 읽게 해 달라고 요청해 뒀어요.
+Pia|B2|Jag förstår. Ni får inte prata, och vi som bor här får inte veta. Så är det väl med det mesta nuförtiden.|알겠어요. 당신들은 말하면 안 되고, 여기 사는 우리는 알면 안 되고. 요즘엔 다 그런가 봐요. (양동이를 들고 계단을 내려간다)
+Amir|C1|Beställningen är gjord; registreringsbeviset kommer som pdf inom en timme. Och medan vi stod här räknade jag på en sak: kommunen betalade Omsorg Plus 31 miljoner kronor förra året, för en verksamhet vars enda synliga spår är en stol och en hög med post.|신청했어요. 등본은 한 시간 안에 PDF로 온대요. 그리고 여기 서 있는 동안 하나 계산해 봤는데요, 작년에 시가 Omsorg Plus에 3,100만 크로나를 줬어요. 눈에 보이는 흔적이라곤 의자 하나랑 우편물 더미뿐인 사업에요.
+Elin|C1|Skriv det inte så i rapporten. Ett tomt kontor bevisar inte att omsorgen uteblev – men det väcker frågan om kommunen någonsin har besökt den utförare som den godkände.|보고서엔 그렇게 쓰지 마. 빈 사무실이 돌봄이 없었다는 걸 증명하진 않아. 하지만 시가 자기가 승인한 공급자를 한 번이라도 찾아가 봤는지, 그 질문은 남지. (노란 노트에 적는다. '서면 질의 — 승인 전·후 현장 방문 기록?')
+# 장면 4 — 쇠르비켄 린드베겐 7번지 4층, 군나르 홀름그렌의 아파트, 오후 3시
+Gunnar|A2|Kom in, kom in. Ta inte av er skorna, golvet är kallt ändå.|들어와요, 들어와. 신발은 벗지 마요. 어차피 바닥이 차니까. (오후 3시. 문에는 디지털 도어락. 지팡이를 짚은 마른 노인이 문을 연다. 현관에 신문 더미가 가지런히 쌓여 있다)
+Sofia|B1|Tack för att du ville träffa oss, Gunnar. Jag heter Sofia, och det här är Jonas. Handläggaren har väl berättat varför vi kommer?|만나 주셔서 감사해요, 군나르 씨. 저는 소피아고, 이쪽은 요나스예요. 판정관이 저희가 왜 오는지 말씀드렸죠?
+Gunnar|C1|Hon sa att ni granskar kommunen på revisorernas uppdrag. Det var minsann på tiden – på min tid hade tidningen skickat ut en reporter för länge sedan. Kaffe? Klockan är ju tre.|감사인들 의뢰로 시를 조사한다더군요. 진작 했어야지. 내 때 같았으면 신문사가 벌써 기자를 보냈을 거요. 커피? 3시잖아요.
+Jonas|A2|Gärna. Kan jag hjälpa till?|좋죠. 도와드릴까요?
+Gunnar|B1|Nej då. Kaffe kan jag fortfarande koka. Det är strumporna som är svåra.|아니, 됐어요. 커피는 아직 끓일 줄 알아요. 어려운 건 양말이지. (주전자에 물을 받는다. 손이 조금 떨린다)
+Sofia|B2|Innan vi börjar vill jag säga en sak: det är helt frivilligt att prata med oss, och det påverkar inte din hemtjänst på något sätt. Om du vill att vi går, så går vi.|시작하기 전에 하나 말씀드릴게요. 저희와 이야기하시는 건 전적으로 자유고, 재가요양 서비스엔 어떤 영향도 없어요. 저희가 가길 원하시면 바로 갈게요.
+Gunnar|B2|Jag är åttioåtta år gammal. Jag är inte rädd för någon längre – möjligen för trappan.|난 여든여덟이에요. 이제 무서운 사람은 없어요. 계단이라면 몰라도.
+Sofia|B1|Berätta om en vanlig morgon. Vad händer när du vaknar?|평범한 아침 얘기를 해 주세요. 일어나시면 어떻게 돼요?
+Gunnar|B2|Jag vaknar klockan sex, som jag har gjort i hela mitt liv – på tidningen började vi klockan sju. Sedan ligger jag och väntar. Enligt beslutet ska någon komma halv åtta och hjälpa mig med strumporna, frukosten och tabletterna.|6시에 깨요. 평생 그랬지. 신문사는 7시에 시작했으니까. 그다음엔 누워서 기다려요. 결정서대로라면 7시 반에 누가 와서 양말이랑 아침이랑 약을 도와줘야 하고.
+Sofia|A2|Vem kom hit i morse?|오늘 아침엔 누가 왔어요?
+Gunnar|B2|I morse kom en flicka med mörkt hår. Henne hade jag aldrig sett förut. Hon var snäll, men hon hade bråttom – hon var här en kvart, kanske.|오늘 아침엔 머리가 검은 아가씨가 왔어요. 처음 보는 얼굴이었고. 친절했는데 바빴어요. 15분쯤 있었나.
+Sofia|B1|Hur menar du då, att du aldrig hade sett henne?|처음 보셨다는 건, 무슨 뜻이에요?
+Gunnar|C1|Vem som kommer? Det vet jag aldrig. Det är en ny varje gång. Signe och jag hade samma brevbärare i tjugo år, men de som tvättar min rygg vet jag inte ens vad de heter.|누가 오냐고요? 그건 나도 몰라요. 매번 새로운 사람이야. 시녜랑 나는 20년 동안 같은 우편배달부를 봤는데, 내 등을 씻겨 주는 사람들은 이름도 몰라요.
+Jonas|B1|Signe – var det din fru?|시녜는, 부인이셨어요?
+Gunnar|B2|I femtiotvå år. Hon dog 2019, och sedan dess har jag haft hemtjänst – först två gånger i veckan, nu morgon och kväll varje dag.|52년 동안. 2019년에 갔어요. 그 뒤로 재가요양을 받지요. 처음엔 일주일에 두 번, 지금은 날마다 아침저녁으로.
+Sofia|B2|Jag ser att du har en kalender på köksdörren, och att du har skrivit något på varje dag.|부엌문에 달력이 걸려 있네요. 날마다 뭔가 적어 두셨고요. (약국에서 나눠 주는 벽걸이 달력. 칸마다 작고 반듯한 글씨)
+Gunnar|C1|Jag var sättare på Sörvikens Tidning i fyrtio år. Där lär man sig att inte lita på något som inte står svart på vitt. Så jag skriver upp vem som kommer och hur länge de stannar – eller ett frågetecken, om de inte säger vad de heter.|쇠르비켄 신문에서 40년 동안 식자공이었어요. 거기선 글자로 박혀 있지 않은 건 믿지 말라는 걸 배우지. 그래서 누가 와서 얼마나 있다 갔는지 적어요. 이름을 말 안 하면 물음표를 치고.
+Jonas|B2|Och vad betyder "INGEN" med stora bokstäver? Det står på flera dagar i maj.|그럼 대문자로 쓴 'INGEN(아무도)'은 뭐예요? 5월에 여러 날 적혀 있네요.
+Gunnar|B2|Att ingen kom. Då ringde jag numret på lappen, men där svarade ingen heller. Till slut åt jag frukost utan tabletterna.|아무도 안 왔다는 거지. 그럼 쪽지에 있는 번호로 전화를 거는데, 거기도 아무도 안 받아요. 결국 약 없이 아침을 먹었지.
+Sofia|B2|Det måste ha varit otäckt. Får jag fotografera kalendern? Bilden stannar hos oss och omfattas av sekretess, och du får gärna säga nej.|많이 불안하셨겠어요. 달력 사진을 찍어도 될까요? 사진은 저희만 갖고 있고 비밀 유지 대상이에요. 싫으시면 거절하셔도 돼요.
+Gunnar|C1|Fotografera du. Det är det första jag har skrivit sedan Signe dog som någon faktiskt vill läsa – och det säger väl en hel del om både mig och kommunen.|찍어요. 시녜가 가고 나서 내가 쓴 것 중에 누가 정말로 읽고 싶어 하는 건 그게 처음이네. 그게 나에 대해서도, 시에 대해서도 꽤 많은 걸 말해 주는 거겠지. (소피아가 휴대폰으로 5월 한 장을 찍는다. 5월 6일, 13일, 20일 칸에 'INGEN')
+Jonas|B2|Får jag fråga om något som inte står i kalendern? När någon väl kommer – hinner ni prata, eller handlar det bara om strumpor och tabletter?|달력에 없는 걸 하나 여쭤봐도 될까요? 누가 오긴 오면, 이야기 나눌 시간은 있어요? 아니면 양말이랑 약뿐이에요?
+Gunnar|C1|De är vänliga, de flesta. Men de tittar på klockan i mobilen hela tiden, som om någon annan räknade minuterna åt dem. Ensamheten är inte värst på natten, ska ni veta. Den är värst halv åtta, när man har hört hissen och ingen ringer på.|대부분 친절해요. 그런데 다들 휴대폰 시계를 계속 봐요. 누가 대신 분을 세고 있기라도 한 것처럼. 알아 둬요, 외로움은 밤에 제일 심한 게 아니에요. 7시 반이 제일 심하지. 엘리베이터 소리를 들었는데 아무도 초인종을 안 누를 때.
+Sofia|B2|Tack. Det tar jag med mig. Finns det något som jag borde ha frågat om, men som jag inte har frågat?|감사해요. 그 말씀은 꼭 가지고 갈게요. 제가 여쭤봤어야 했는데 안 여쭤본 게 있을까요?
+Gunnar|C1|Ja. Jag sa nyss att jag inte är rädd för någon, och det var inte helt sant. Ni borde ha frågat varför jag aldrig har klagat. Jag var rädd att de skulle sluta komma helt – en dålig hemtjänst är trots allt bättre än ingen alls.|있지. 아까 무서운 사람이 없다고 했는데, 그게 다 사실은 아니었어요. 왜 한 번도 불평을 안 했냐고 물었어야지. 아예 안 올까 봐 무서웠어요. 나쁜 재가요양이라도 아예 없는 것보단 나으니까.
+Jonas|B2|Min pappa hette också Gunnar. Han var gruvarbetare i Kiruna i trettioåtta år, och han hade aldrig släppt in en främling som inte ens sa vad hon hette.|저희 아버지 성함도 군나르였어요. 키루나에서 38년 동안 광부였죠. 이름도 말 안 하는 낯선 사람은 절대 집에 들이지 않으셨을 거예요.
+Gunnar|C1|Då förstår du vad jag menar. Kom tillbaka när ni är klara; jag vill läsa rapporten innan den hamnar i tidningen. Fyrtio år av korrektur sitter kvar i fingrarna, så felen hittar jag.|그럼 내 말 알아듣겠구먼. 다 끝나면 다시 와요. 신문에 나기 전에 보고서를 읽고 싶으니까. 40년 동안 교정을 봤더니 아직 손가락이 기억해요. 틀린 데는 내가 찾아 주지.
+Sofia|B2|Vi kommer tillbaka, det lovar jag. Rapporten blir en allmän handling, så du kommer att kunna läsa den. Och om något blir sämre efter vårt besök vill jag att du ringer mig, vilken tid som helst. Här är mitt nummer.|꼭 다시 올게요, 약속해요. 보고서는 공개 문서가 되니까 읽으실 수 있을 거예요. 그리고 저희가 다녀간 뒤로 뭔가 나빠지면 언제든 저한테 전화 주세요. 여기 제 번호예요. (명함 뒷면에 휴대폰 번호를 큼직하게 적어 달력 옆에 꽂는다)
+Jonas|C1|Den tjugonde maj står det "INGEN" i hans kalender. Om Amirs fil säger att någon var där i fyrtiofem minuter den morgonen, har vi för första gången en avvikelse med ett ansikte.|5월 20일 그분 달력엔 'INGEN'이라고 쓰여 있어. 아미르 파일에 그날 아침 누가 45분 동안 거기 있었다고 나오면, 처음으로 얼굴이 있는 이상 사항이 생기는 거야. (오후 3시 50분. 계단을 내려가며)
+Sofia|C1|Ett ansikte som vi ska skydda, inte visa upp. Gunnar ska aldrig behöva bli "brukare 112" i en tidningsartikel – och han ska inte heller få betala för att han öppnade dörren för oss.|우리가 지켜야 할 얼굴이지, 내보일 얼굴이 아니에요. 군나르 씨가 신문 기사 속 '이용자 112'가 되는 일은 절대 없어야 해요. 우리한테 문을 열어 줬다는 이유로 대가를 치르셔서도 안 되고요.
+Jonas|B1|Det är Amir. ... Hej, du är på högtalare. Sofia är här också.|아미르다. …어, 스피커폰이야. 소피아도 같이 있어. (1층 현관 앞. 휴대폰이 울린다)
+Amir|B2|Registreringsbeviset har kommit. Jag har gått igenom alla namn sedan bolaget bildades 2021. Den nuvarande vd:n tillträdde i februari, är född 2002 och har en adress i Botkyrka.|등본 왔어요. 2021년 회사 설립 이후 이름을 전부 훑어봤어요. 현 대표는 2월에 취임했고, 2002년생이고, 주소가 보트셰르카예요.
+Sofia|B1|2002? Han är ju bara tjugotvå, tjugotre år. Har han någon erfarenhet av omsorg?|2002년생? 겨우 스물둘, 스물셋이잖아. 돌봄 일 해 본 적은 있대?
+Jonas|A2|Amir? Är du kvar?|아미르? 듣고 있어? (수화기 너머가 조용하다. 차 한 대가 천천히 지나간다)
+Amir|B1|Jag känner honom. Kevin. Vi gick i samma skola i Alby.|이 사람 알아요. 케빈. 알뷔에서 같은 학교 다녔어요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Vem kom hit i morse?** | 오늘 아침엔 누가 왔어요? | *i morse* = 오늘 아침(이미 지난 아침). 아직 오지 않은 아침은 *i morgon bitti*(내일 아침). *hit* 는 방향(이리로), *här* 는 위치(여기) — *kom hit* 이지 ✗*kom här* 가 아니다 |
+| `A2` | **Ta inte av er skorna.** | 신발 벗지 마세요. | *ta av sig* = 벗다(재귀) ↔ *ta på sig* 입다·신다. 상대가 여럿이라 재귀대명사도 *er*. 스웨덴에선 집에서 신발을 벗는 게 기본이라, 이 말은 특별한 배려다 |
+| `B1` | **Enligt systemet var hon hos tre brukare samtidigt.** | 시스템상으로 그녀는 이용자 세 명의 집에 동시에 있었어요. | *enligt* + 출처 = ~에 따르면(뒤에 바로 V2: *enligt systemet var hon*). *hos* = ~의 집에, ~에게(프랑스어 *chez*). *brukare* = 복지 서비스 이용자(행정 용어) |
+| `B1` | **Det låter som du.** | 딱 너답다. | *låta som* = ~처럼 들리다. 사람을 넣으면 "그 사람이 할 법한 말"이라는 뜻. 반대로 *Det låter inte likt dig* (너답지 않다) |
+| `B2` | **Det är inte bara skattepengar som försvinner – det är omsorg som aldrig blir av.** | 사라지는 건 세금만이 아니에요. 결코 제공되지 않은 돌봄이죠. | 강조 구문 *Det är X som…* 두 번 반복. *bli av* = (계획한 일이) 실제로 이루어지다 — *Resan blev aldrig av.* (여행은 끝내 못 갔다) |
+| `B2` | **Hur kommer det sig att ingen har jämfört dem?** | 어떻게 아무도 그걸 비교하지 않았을까요? | *Hur kommer det sig att…* = 어째서 ~인가. *varför* 보다 부드럽고 궁금함이 담긴다. *att* 절은 종속절이라 부정어·부사가 동사 앞: *att ingen har…* |
+| `B2` | **Det är på tiden att någon kommer hit.** | 누가 올 때가 됐죠. | *det är på tiden* = (진작 했어야 할 일에) 이제야 때가 됐다. 감탄형 *Det var minsann på tiden!* (정말 진작 했어야지!) — 군나르의 말 |
+| `C1` | **Kontrollen förutsatte att utföraren var hederlig; därav dess blinda fläck.** | 통제는 공급자가 정직하다는 전제 위에 있었다. 그래서 사각지대가 생겼다. | *förutsätta* = 전제하다. *därav* = 그로부터, 그 때문에(문어) — 동사 없이 명사만 이어 붙인다. *dess* 는 사물·기관의 소유격(*kontrollens*) |
+| `C1` | **Vi skriver aldrig att pengarna har förskingrats; vi skriver att kommunen har betalat för tid som den inte kan visa att den har fått.** | 우린 돈이 횡령됐다고 쓰지 않아. 시가 받았다고 입증할 수 없는 시간에 대해 돈을 냈다고 쓰지. | *förskingra* = 횡령하다(s-수동 *har förskingrats*). 관계절 안에 *att* 절이 또 들어가는 구조 *tid som den inte kan visa att den har fått* — 감사 보고서의 신중한 문체 |
+| `C1` | **Ensamheten är inte värst på natten, ska ni veta.** | 알아 둬요, 외로움은 밤에 제일 심한 게 아니에요. | *värst* = 가장 나쁜(*dålig – värre – värst*). 문장 끝의 *ska du/ni veta* = "알아 둬", 말에 무게를 싣는 구어적 덧붙임 |
+
+## 현안 메모
+- **재가요양과 선택제도(LOV)** — 스웨덴에서 집에 살면서 돌봄을 받는 노인은 약 23만~24만 명으로, 특별 주거(요양원) 거주자보다 훨씬 많다(사회청 Socialstyrelsen 통계). 지자체의 복지 판정관(biståndshandläggare)이 사회서비스법에 따라 필요를 판정해 '아침 45분, 저녁 30분, 주 2회 샤워'처럼 결정(biståndsbeslut)을 내리면, 선택제도법(LOV, 2008:962)을 도입한 지자체에서는 이용자가 승인된 공급자 가운데 하나를 고른다. 대가는 대개 공급자가 보고한 **수행 시간(utförd tid)** 에 시간당 단가를 곱해 지급한다. 경쟁 입찰이 아니라 "조건을 갖추면 누구나 승인"이라는 구조라, 진입은 쉽고 사후 점검이 핵심이 된다.
+- **허가와 감독의 이중 구조** — 2019년 1월부터 민간 재가요양 공급자는 보건복지감독청(IVO)의 허가를 받아야 한다. 그러나 개별 방문이 실제로 이루어졌는지, 지급한 돈만큼 돌봄이 제공됐는지를 확인할 책임은 돈을 내는 지자체에 있다. 지방자치법(kommunallagen) 10장은 지자체가 민간에 맡긴 업무를 **점검하고 후속 관리(kontrollera och följa upp)** 하도록 정하고 있고, 지자체 감사인은 바로 이 점검이 충분했는지를 본다.
+- **복지범죄(välfärdsbrott)** — 재가요양·개인 활동지원(personlig assistans) 등에서 허위 근무시간 청구, 존재하지 않는 직원, 빌려준 로그인, 바지사장을 내세운 회사가 반복 적발되면서, 경찰과 경제범죄청은 범죄조직이 복지 재원을 수익원으로 삼고 있다고 경고해 왔다. 정부 위원회는 2020년 무렵 복지 제도 전반의 잘못된 지급을 연간 약 180억 크로나로 추산했고, 2024년에는 잘못된 지급을 막기 위한 새 기관 **지급청(Utbetalningsmyndigheten)** 이 출범했다. 여러 지자체가 공급자 승인 취소, 현장 점검, 출입·근무 기록 대조를 강화하고 있다.
+- **디지털 도어락과 비밀 유지** — 많은 지자체가 이용자 집에 앱으로 여는 도어락('열쇠 없는 재가요양')을 설치해, 열쇠 분실 위험을 줄이는 동시에 '누가 언제 문을 열었는지' 기록을 남긴다. 이 기록과 이용자 정보는 공공접근·비밀보호법(OSL) 26장의 **사회복지 비밀(socialtjänstsekretess)** 대상이며, 감사인과 그 보조인에게 넘어간 뒤에도 비밀 보호가 이어진다. 그래서 Klarsyn은 가명(brukare 001…)으로 분석하고, 면담은 판정관을 통해 동의를 받은 이용자와만 한다.
+
+## 비즈니스 메모
+- **데이터 매칭(registerkörning)** — 서로 독립적으로 만들어진 기록을 같은 열쇠로 맞대는 기법이다. 핵심은 ① **어느 쪽도 상대를 고칠 수 없는 기록**을 고르는 것(공급자의 자체 보고 vs 시가 관리하는 도어락), ② 결과를 '일치 / 부분 불일치 / 기록 없음'으로 나누는 것, ③ **비교 기준**을 두는 것(시 직영 97% vs Omsorg Plus 61%), ④ 오차 원인을 먼저 적는 것(도어락 없는 9명 제외, 안 잠근 문은 기록에 안 남음)이다. 이번 화의 숫자 — 1분기 18,940건 중 일치 11,630건, 다른 사람·다른 시간 4,210건, 기록 없음 3,100건(약 2,640시간, 약 120만 크로나) — 와 '동시에 세 집'(0417), '하루 26시간'(0388)은 모두 가상이다.
+- **'손실'이 아니라 '검증 불가 금액'** — 매칭 결과는 곧바로 피해액이 되지 않는다. 엘린의 문장처럼 "시가 받았다고 입증할 수 없는 시간에 대해 돈을 냈다"고 쓰는 것이 감사의 표준 문체다. 숫자는 질문 목록을 만들고, 답은 사람(군나르의 달력)과 서면 질의가 채운다. 서로 다른 출처가 같은 날을 가리킬 때 — 시스템의 45분 방문과 달력의 'INGEN' — 비로소 이상 사항에 '얼굴'이 생긴다.
+
+## 다음 화 예고 — Målvakterna
+**3부 5화.** 6월 4일 수요일, 알뷔 광장. 아미르는 아무에게도 말하지 않고 혼자 지하철 빨간 노선을 탄다. 벤치에 앉은 케빈은 스물셋, 운동복 차림으로 웃는다. "Jag skrev bara på ett papper." 서명 한 번에 2만 크로나, 회사가 무슨 일을 하는지는 모른다. 호른스가탄의 화이트보드에서는 소유 구조도가 자라난다. 회사 다섯 곳, 대표는 하나, 진짜 주인은 어디에도 없다. 그날 밤, 다니얄의 휴대전화에 낯선 계정의 메시지가 뜬다. "형한테 그만하라고 전해." 엘린은 처음으로 안전 규칙을 쓰고, 경제범죄청에 넘길 서류를 묶는다. "우리는 경찰이 아니야." 그리고 다음 날 아침, 사무실 유리창에 누군가 써 놓은 글씨.
