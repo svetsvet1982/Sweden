@@ -121,6 +121,11 @@
 | [konsult/part4_sparren.md](konsult/part4_sparren.md) | 4부 *Spärren* (기준선) — 정치 컨설팅·2026 총선, 16화 기획 |
 | [konsult/issues.md](konsult/issues.md) | 반영한 스웨덴 현안 색인 |
 
+## Frågan bakom frågan — PDF
+- [konsult/pdf/Frågan_전체.pdf](konsult/pdf/Frågan_전체.pdf) — 바이블 + 64화 전체 (893쪽)
+- 부별: [1부](konsult/pdf/Frågan_1부.pdf) · [2부](konsult/pdf/Frågan_2부.pdf) · [3부](konsult/pdf/Frågan_3부.pdf) · [4부](konsult/pdf/Frågan_4부.pdf)
+- 다시 만들기: `python3 konsult/tools/build_pdf.py` (Noto CJK 폰트, `pip install markdown playwright`, Chromium 필요)
+
 ## Frågan bakom frågan — 대본 목차 (64화 전체 완성)
 
 - 형식: 화당 120턴, 레벨 태그 A2·B1·B2·C1, 스웨덴어 + 한국어 번역, 이번 화의 표현·현안 메모·비즈니스 메모
