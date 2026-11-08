@@ -1,0 +1,161 @@
+@title 4부 7화 — Debatten
+@subtitle (토론)
+@meta 날짜|2026년 5월 6일 수요일 ~ 8일 금요일
+@meta 장소|쿵스홀멘 당사 '큰 방', 모의 토론 (6일 수요일 오후 2시) → 예르데트의 SVT 방송국, 분장실과 출연자 대기실 (7일 목요일 저녁 7시) → 「Kvällsfrågan」 토론 스튜디오와 옆방 모니터실 (저녁 8시 생방송) → 스튜디오에서 쿵스홀멘으로 가는 택시 (밤 9시 5분) → 당사 '큰 방' (8일 금요일 아침 7시 40분)
+@meta 등장인물|**Annika Strand** (안니카 스트란드, 49, 당 대표) · **Sofia Mäkinen** (소피아 매키넨, 33, 미디어 훈련·연설문) · **Jonas Ekholm** (요나스 에크홀름, 44, 수석 전략가) · **Elin Bergqvist** (엘린 베리크비스트, 37, 정책·예산·리스크 — 목요일은 마야의 날, 집에서 시청·전화) · **Amir Nouri** (아미르 누리, 30, 디지털·데이터) · **Mattias Öberg** (마티아스 외베리, 56, 사무총장) · **Lotta** (로타, 50대, SVT 분장사) · **Viktor** (빅토르, 30대, 정부 블록 한 정당의 공보 비서 — 가상 인물, 당명 없음) · **Karolina Wahl** (카롤리나 발, 「Kvällsfrågan」 진행자 — 가상 인물) · **Regeringsföreträdaren** (정부 블록 한 정당의 의료 정책 대변인 — 이름 없는 가상 인물) · **Oppositionsföreträdaren** (야당 블록 한 정당의 의료 정책 대변인 — 이름 없는 가상 인물)
+@meta 이번 화의 도구|미디어 트레이닝 — 브리징(ABC: Acknowledge, Bridge, Communicate). 질문을 인정하고(Bekräfta), 다리를 놓고(Bro), 내 메시지를 말한다(Budskap). 단, 다리는 내가 아는 땅 위에만 놓을 수 있다 — 답을 모르는 질문에서 브리징은 회피로 들린다
+@meta 스웨덴 현안|의료 대기열(vårdköer) — 법정 의료 보장(vårdgaranti) '0-3-90-90' 기한을 넘겨 기다리는 환자들 · 의료를 책임지는 21개 광역(region)의 재정 적자 · 병상 부족과 환자 타 병동 배치(utlokalisering), 야간 인력난
+@intro **지난 이야기** — 4월, 노르보텐. 보덴 타운홀에서 '전국에 더 고른 전기요금'은 "결국 북쪽이 더 내라는 거냐"는 역풍을 맞았고, 안니카는 공개적으로 "제가 틀렸다"고 말한 뒤 엘린의 세 줄을 새 입장으로 삼았다. 순록 목축인 언테에게는 모든 협의가 서면 '영수증'으로 끝나게 하겠다고 약속했다. 그리고 키루나에서 요나스는 어머니 잉리드에게서 아버지 군나르의 바인더를 넘겨받았다. 편지 마흔두 통. "이제 네 아빠처럼 말하는구나. 그 사람도 모두를 설득할 수 있다고 믿었지."
+@intro 4월 여론조사 3.4%. 처음으로 3%대 중반이다. 그리고 SVT 「Kvällsfrågan」이 연락해 왔다. 원외 정당으로는 처음으로 45분짜리 의료 토론 전체에 초대한다는 것. 지난 12월 같은 스튜디오에서 4분 만에 진행자에게 말이 끊겼던 안니카에게는 설욕전이다. 소피아는 이틀 동안 '큰 방'을 토론장으로 바꾼다. 화이트보드 필름에는 세 글자만 적혀 있다. A – B – C.
+# 장면 1 — 쿵스홀멘 당사 '큰 방', 모의 토론, 5월 6일 수요일 오후 2시
+Sofia|B1|Okej, vi kör en gång till från början. Annika, du står här. Jonas och Mattias är dina motståndare, och jag är programledare.|오케이, 처음부터 한 번 더 할게요. 안니카 씨는 여기 서세요. 요나스 씨랑 마티아스 씨가 상대 토론자고, 제가 진행자예요. (5월 6일 수요일 오후 2시. 당사 '큰 방'. 2018년 지도 옆 화이트보드 필름에 소피아가 크게 써 두었다. A – B – C. 의자 여덟 개가 반원으로 놓여 있고, 아미르가 휴대폰으로 연습을 찍는다 — 당사 밖으로는 나가지 않는 영상)
+Mattias|B2|Jag spelar gärna oppositionen. Jag har suttit i fler debatter än ni har sett, och jag vet precis hur man avbryter någon.|야당 역은 기꺼이 할게요. 여러분이 본 것보다 많은 토론에 앉아 봤고, 남의 말 끊는 법은 정확히 알아요.
+Annika|A2|Jag är redo. Tror jag.|준비됐어요. 아마도요.
+Sofia|B2|Kom ihåg ABC. Acknowledge, bridge, communicate. Du bekräftar frågan, du bygger en bro, och sedan säger du ditt budskap.|ABC 기억하세요. 인정하고, 다리 놓고, 전달하기. 질문을 인정하고, 다리를 놓고, 그다음에 내 메시지를 말하는 거예요.
+Jonas|B1|En bro. Det borde ett parti som heter Brobyggarna klara.|다리라. '다리 놓는 사람들'이라는 당이면 그 정도는 해내야죠.
+Sofia|C1|Första frågan. Annika Strand, väntetiderna i vården har ökat i flera år, trots att staten har skjutit till miljarder. Varför ska väljarna tro att ett parti som aldrig har suttit i riksdagen skulle lyckas där andra har misslyckats?|첫 질문입니다. 안니카 스트란드 대표님, 국가가 수십억 크로나를 투입했는데도 의료 대기 시간은 몇 년째 늘고 있습니다. 다른 이들이 실패한 곳에서, 한 번도 의회에 들어가 본 적 없는 정당이 성공할 거라고 유권자들이 왜 믿어야 합니까? (진행자 목소리로)
+Annika|C1|Ja, alltså, det är en fråga som jag har brottats med ända sedan jag började på IVA i Örebro, och jag tror att man måste förstå att det finns väldigt många orsaker, bland annat bemanningen, men också hur regionerna styrs och finansieras, och dessutom …|네, 그러니까, 그건 제가 외레브로 중환자실에서 일을 시작한 뒤로 줄곧 씨름해 온 질문인데요, 원인이 정말 많다는 걸 이해해야 한다고 생각해요. 무엇보다 인력 배치가 있고, 광역 지자체가 어떻게 운영되고 재원을 마련하는지도 있고, 게다가…
+Mattias|B1|Ursäkta, men nu har du pratat i fyrtio sekunder och inte sagt någonting.|실례지만, 지금 40초째 말하면서 아무 말도 안 했어. (상대 토론자 역. 일부러 목소리를 높인다)
+Annika|B1|Får jag avsluta min mening?|제 말 끝내도 될까요?
+Sofia|B2|Bra! Det där var rätt sätt att ta tillbaka ordet: lugnt, och utan att höja rösten. Men svaret var för långt. Tre meningar, inte tolv.|좋아요! 그게 발언권을 되찾는 올바른 방법이에요. 차분하게, 목소리 높이지 않고. 근데 답이 너무 길었어요. 열두 문장 말고 세 문장.
+Elin|B1|Fyrtiotre sekunder. Jag tog tid.|43초요. 제가 쟀어요. (노란 노트에 숫자를 적는다)
+Sofia|B2|Försök igen, och börja med "Bra fråga, men det viktiga är …". Det ger dig två sekunder att tänka, och tittarna märker ingenting.|다시 해 봐요. "좋은 질문입니다만, 중요한 건…"으로 시작하세요. 그러면 생각할 시간이 2초 생기고, 시청자는 아무것도 눈치 못 채요.
+Annika|B2|Bra fråga, men det viktiga är att det finns personal. Klockan tre på natten ska det finnas en till på avdelningen. Det är vårt första löfte.|좋은 질문입니다만, 중요한 건 인력이 있느냐입니다. 새벽 3시에 병동에 한 명이 더 있어야 합니다. 그게 저희의 첫 번째 약속입니다.
+Jonas|C1|Fint sagt, men regeringen har redan skjutit till miljarder i riktade statsbidrag till regionerna. Varför ska man rösta på ett parti som inte ens sitter i riksdagen för att få något som redan pågår?|좋은 말씀입니다만, 정부는 이미 광역 지자체들에 수십억 크로나의 목적 지정 국고 보조금을 투입했습니다. 이미 진행 중인 일을 얻자고 왜 의회에 의석도 없는 정당에 투표해야 합니까? (정부 블록 토론자 역)
+Annika|B2|Det är en viktig fråga, men det som verkligen avgör för patienterna är … att det finns någon där när de behöver det. Pengar som aldrig når nattskiftet hjälper ingen.|중요한 질문입니다만, 환자들에게 정말 결정적인 건… 필요할 때 거기 누군가가 있느냐입니다. 야간 근무까지 가 닿지 못하는 돈은 아무도 돕지 못합니다.
+Sofia|A2|Ja! Precis så.|네! 바로 그거예요.
+Mattias|B2|Men vad kostar det, då? Det är det första en programledare kommer att fråga, och det är det enda klippet de kommer att visa.|그럼 그건 얼마 드는데요? 진행자가 제일 먼저 물을 게 그거고, 방송에서 내보낼 클립도 그거 하나뿐일 거예요. (역할에서 빠져나와 팔짱을 낀다)
+Annika|B1|Elin? Vad säger jag då?|엘린 씨? 그럼 저는 뭐라고 해요?
+Elin|C1|Nattbemanningen kostar omkring 3,1 miljarder kronor om året. Kalkylen bygger på ungefär 2 400 avdelningar och boenden, och eftersom varje natt året runt kräver ungefär två heltidstjänster blir det cirka 4 800 tjänster, var och en för runt 650 000 kronor inklusive arbetsgivaravgifter.|야간 인력은 1년에 약 31억 크로나예요. 계산 근거는 병동과 요양 시설 약 2,400곳이고, 1년 내내 매일 밤을 채우려면 정규직이 대략 두 명씩 필요하니까 약 4,800자리, 한 자리당 사용자 부담금 포함 약 65만 크로나예요.
+Annika|B1|Två heltidstjänster för en enda natt? Det förstår jag inte.|하룻밤에 정규직 두 명이요? 그건 이해가 안 돼요.
+Elin|B2|Inte för en natt, utan för alla nätter. Ingen jobbar 365 nätter om året, och det är därför siffran blir större än man tror.|하룻밤이 아니라 모든 밤이요. 1년에 365일 밤을 일하는 사람은 없잖아요. 그래서 숫자가 생각보다 커지는 거예요.
+Sofia|B2|Och där tappade vi henne. Ser ni? Hon tittar ner i papperet och slutar prata till väljarna.|그리고 바로 거기서 안니카 씨를 놓쳤어요. 보여요? 종이를 내려다보고, 유권자한테 말하는 걸 멈췄잖아요.
+Amir|B1|Jag har det på film, om ni vill se er själva.|영상에 다 찍혔어요. 직접 보고 싶으시면요.
+Elin|C1|Då föreslår jag att vi stryker siffrorna från korten. En felaktig siffra i direktsändning är värre än ingen siffra alls. Om hon får frågan svarar hon att kalkylen finns på vår hemsida, rad för rad.|그럼 카드에서 숫자를 빼자고 제안할게. 생방송에서 틀린 숫자 하나는 숫자가 아예 없는 것보다 나빠. 질문을 받으면, 계산은 저희 홈페이지에 한 줄 한 줄 다 있다고 답하면 돼. (요나스와 소피아 쪽을 보며)
+Jonas|B2|Är du säker? Siffror är ditt område, inte mitt. Men en partiledare som inte kan sina egna kostnader …|확실해? 숫자는 네 영역이지 내 영역은 아니지만. 그래도 자기 공약 비용도 모르는 당 대표라니…
+Elin|B2|Jag är säker på att hon inte hinner lära sig fyrtio siffror till i morgon kväll. En tanke per andetag, eller hur, Sofia?|내일 저녁까지 숫자 마흔 개를 외울 시간이 없다는 건 확실해. 한 숨에 한 생각, 맞지, 소피아?
+Sofia|C1|Det är min regel, ja. Men jag har aldrig påstått att den gäller siffror, och jag är inte säker på att man kan andas sig förbi en kostnadsfråga.|제 규칙 맞아요. 근데 숫자에도 적용된다고 주장한 적은 없어요. 그리고 비용 질문을 숨 고르기로 넘길 수 있을지는 잘 모르겠어요.
+Annika|B1|Okej. Hemsidan, rad för rad. Det ska jag komma ihåg.|알겠어요. 홈페이지, 한 줄 한 줄. 그건 기억할게요. (메모 카드 한 장에서 숫자들을 줄로 긋는다)
+Mattias|B2|I min erfarenhet frågar de alltid om pengarna. Alltid. Men gör som ni vill – det är ni som är konsulterna.|제 경험으론 그 사람들은 늘 돈을 물어요. 늘요. 하지만 좋을 대로 하세요. 컨설턴트는 여러분이니까.
+Elin|B1|I morgon är det torsdag, så jag är hemma med Maja. Men jag tittar, och mobilen är på hela kvällen.|내일은 목요일이라 마야랑 집에 있어요. 그래도 볼게요. 휴대폰은 저녁 내내 켜 둘게요.
+# 장면 2 — 예르데트의 SVT 방송국, 분장실과 출연자 대기실, 5월 7일 목요일 저녁 7시
+Lotta|A2|Hej! Sätt dig här. Är du nervös?|안녕하세요! 여기 앉으세요. 긴장돼요? (5월 7일 목요일 저녁 7시. 분장실. 거울 둘레에 전구가 줄지어 있다. 분장사 로타가 퍼프를 든다)
+Annika|A2|Lite. Det är min första stora debatt.|조금요. 제 첫 큰 토론이거든요.
+Lotta|A2|Alla är nervösa här. Blunda, nu kommer pudret.|여기선 다들 긴장해요. 눈 감으세요, 이제 파우더 들어가요.
+Sofia|B1|Annika, en sak till. När du sitter i studion ska du inte titta på mig och inte på skärmarna. Titta på den som pratar med dig, eller …|안니카 씨, 하나 더요. 스튜디오에 앉으면 저도 보지 말고 화면도 보지 마세요. 안니카 씨한테 말하는 사람을 보거나, 아니면…
+Annika|A2|Eller?|아니면요?
+Sofia|A2|Titta in i kameran. När du pratar till väljarna, titta in i kameran.|카메라를 봐요. 유권자한테 말할 땐 카메라를 봐요.
+Jonas|B2|Och om någon avbryter dig, så låt dem hålla på i två sekunder. Sedan tar du tillbaka ordet, lugnt. Den som höjer rösten först förlorar.|그리고 누가 말을 끊으면 2초는 그냥 하게 둬요. 그다음에 차분하게 발언권을 되찾는 거예요. 먼저 목소리를 높이는 쪽이 져요. (문간에 기대어)
+Annika|B1|Det sa min avdelningschef också, fast det handlade om läkare.|우리 병동 과장님도 그렇게 말했어요. 의사들 얘기였지만요.
+Lotta|A2|Så där. Klar. Du ser jättebra ut.|자, 됐어요. 정말 멋져 보여요.
+Amir|B1|Jonas, kolla. Folk har redan börjat skriva om debatten, och den har inte ens börjat.|요나스 씨, 이거 봐요. 토론 시작도 안 했는데 벌써 사람들이 토론 얘기를 쓰기 시작했어요. (출연자 대기실. 소파 두 개, 생수병, 과일 바구니, 벽에 생방송 모니터. 아미르가 노트북을 무릎에 올려놓고 있다)
+Jonas|B1|Vad skriver de?|뭐라고 쓰는데?
+Amir|B2|Mest "vem är hon?" och "varför är ett parti utanför riksdagen med?". Men det är bra. Nyfikenhet är bättre än tystnad.|대부분 "저 사람 누구야?"랑 "원외 정당이 왜 나와?"예요. 근데 좋은 거예요. 호기심이 침묵보다 낫잖아요.
+Viktor|B1|Hej, Viktor heter jag. Jag är pressekreterare åt en av dem som du ska debattera mot i kväll.|안녕하세요, 빅토르라고 합니다. 오늘 밤 토론하실 상대 중 한 분의 공보 비서예요. (정장 차림의 30대 남자가 들어와 손을 내민다. 안니카에게, 그다음 요나스에게)
+Jonas|A2|Jonas Ekholm. Trevligt.|요나스 에크홀름입니다. 반가워요.
+Viktor|B2|Ni har gjort ett imponerande jobb. Från 2,7 till 3,4 på två månader. Hur mycket av det är Norrbotten, och hur mycket är tur?|대단한 일을 하셨더라고요. 두 달 만에 2.7에서 3.4라니. 그중 얼마가 노르보텐 덕이고, 얼마가 운이에요?
+Jonas|B2|Om jag visste det skulle jag inte berätta det för en pressekreterare fem minuter före sändning.|그걸 안다 해도 방송 5분 전에 공보 비서한테 말하진 않겠죠.
+Viktor|C1|Rimligt. Jag vill bara säga att vi har förberett oss på er också. Det brukar vara de små partierna som får de svåraste sifferfrågorna, eftersom alla vet att ni inte har något kansli som räknar åt er.|일리 있네요. 그냥 저희도 여러분을 준비했다는 말씀만 드리고 싶었어요. 제일 까다로운 숫자 질문은 대개 작은 정당들이 받거든요. 대신 계산해 줄 사무처가 없다는 걸 다들 아니까요.
+Sofia|B1|Tack för omtanken, Viktor. Vi klarar oss.|걱정해 줘서 고마워요, 빅토르 씨. 저흰 괜찮아요. (웃지 않고)
+Viktor|A2|Lycka till. Jag menar det.|행운을 빌어요. 진심으로요. (나간다)
+Annika|B2|Var det där ett hot eller en artighet?|방금 그거 협박이에요, 예의예요?
+Jonas|B2|Bådadera. I den här branschen är det ofta samma sak.|둘 다요. 이 바닥에선 그게 같은 거일 때가 많아요.
+Amir|C1|Han ville att du skulle gå in i studion med huvudet fullt av siffror i stället för ditt budskap. Det är ett klassiskt grepp: man planterar en oro och låter motståndaren göra resten själv.|안니카 씨가 메시지 대신 숫자로 머리를 가득 채운 채 스튜디오에 들어가길 바란 거예요. 고전적인 수법이죠. 불안을 하나 심어 놓고, 나머지는 상대가 알아서 하게 두는 거예요.
+Karolina|C1|Hej, Annika. Karolina Wahl. Välkommen tillbaka till Kvällsfrågan. Förra gången hann du knappt säga tre meningar innan jag avbröt dig, så i kväll har vi gett dig hela debatten – vilket är både en ära och en risk.|안녕하세요, 안니카 씨. 카롤리나 발이에요. 「Kvällsfrågan」에 다시 오신 걸 환영해요. 지난번엔 세 문장도 채 못 하셨는데 제가 끊었죠. 그래서 오늘은 토론 전체를 드렸어요. 영광이기도 하고 위험이기도 하죠. (진행자가 대본을 든 채 문을 연다)
+Annika|B1|Det är jag glad för. Den här gången ska jag fatta mig kort.|그건 기쁘네요. 이번엔 짧게 말할게요.
+Karolina|B2|Du får inleda med trettio sekunder. Och en sak till: jag kommer att fråga om kostnader. Det gör jag med alla, så det är inget personligt.|처음에 30초 발언을 하시게 돼요. 그리고 하나 더. 비용에 대해 물을 거예요. 모든 분께 다 묻는 거니까 개인적인 건 아니에요.
+Annika|C1|Det förstår jag, och det är rimligt. Ett parti som vill in i riksdagen får räkna med att granskas som om det redan satt där.|알겠어요. 당연한 일이고요. 의회에 들어가려는 정당이라면 이미 들어가 있는 것처럼 검증받을 각오를 해야죠.
+Sofia|B2|Hon varnade dig. Det betyder att hon respekterar dig. Andas nu: fyra sekunder in, fyra sekunder ut.|진행자가 미리 경고해 줬잖아요. 안니카 씨를 존중한다는 뜻이에요. 이제 숨 쉬어요. 4초 들이쉬고, 4초 내쉬고. (카롤리나가 나간 뒤)
+Annika|C1|Vet ni vad jag tänker på? Min första natt med eget ansvar på IVA. Jag var tjugofyra och så rädd att jag räknade plattorna i taket. Sedan gick larmet, och då fanns det inte längre tid att vara rädd.|제가 무슨 생각 하는지 알아요? 중환자실에서 처음 혼자 책임을 맡았던 밤이요. 스물넷이었는데, 너무 무서워서 천장 타일을 셌어요. 그러다 경보가 울렸고, 그때부턴 무서워할 시간이 없었어요.
+Jonas|B2|Det är exakt den känslan du ska ta med dig in i studion. Larmet går klockan åtta.|그게 바로 스튜디오에 가지고 들어가야 할 느낌이에요. 경보는 8시에 울려요.
+Amir|B1|Lycka till! Vi sitter i rummet bredvid och håller koll på allt.|행운을 빌어요! 저희 옆방에서 다 지켜보고 있을게요.
+# 장면 3 — 「Kvällsfrågan」 토론 스튜디오와 옆방 모니터실, 저녁 8시 생방송
+Karolina|B2|God kväll och välkomna till Kvällsfrågan. I kväll handlar det om vårdköerna. Med oss har vi en företrädare för ett av regeringspartierna, en för ett av oppositionspartierna och, för första gången i en hel debatt här, ett parti utanför riksdagen: Brobyggarna och Annika Strand.|안녕하십니까, 「Kvällsfrågan」입니다. 오늘 밤 주제는 의료 대기열입니다. 정부 블록 정당 한 곳의 대표, 야당 블록 정당 한 곳의 대표, 그리고 이 프로그램 토론 전체에 원외 정당이 함께하는 건 처음입니다. 브로비가르나의 안니카 스트란드 대표입니다. (저녁 8시 정각. 반원형 탁자, 토론자 세 명, 방청석 40석. 빨간 불이 들어온 카메라 세 대)
+Annika|C1|Jag var sjuksköterska i femton år, och jag vet hur det låter när en patient har väntat för länge: det blir tyst. I Sverige finns det en vårdgaranti som säger att man ska få träffa en specialist inom 90 dagar. För väldigt många gäller den bara på papperet. Vi vill inte ha fler garantier. Vi vill att det ska fungera.|저는 15년 동안 간호사였습니다. 환자가 너무 오래 기다리면 어떤 소리가 나는지 압니다. 조용해집니다. 스웨덴에는 90일 안에 전문의를 만날 수 있어야 한다는 의료 보장이 있습니다. 너무나 많은 분들에게 그건 서류상으로만 존재합니다. 저희는 보장을 더 만들고 싶지 않습니다. 제대로 돌아가길 원합니다. (카메라를 본다. 28초)
+Karolina|C1|Tack. Till regeringssidan: om de riktade statsbidragen verkligen har nått fram, varför är det då så få patienter som märker någon skillnad?|감사합니다. 정부 측에 묻겠습니다. 목적 지정 보조금이 정말 현장에 닿았다면, 왜 차이를 느끼는 환자는 그렇게 적습니까?
+Regeringsföreträdaren|C1|Vi har tillfört regionerna miljardbelopp i riktade statsbidrag för att korta köerna, och i flera regioner ser vi nu att utvecklingen har vänt. Men hälso- och sjukvården är regionernas ansvar, och man kan inte styra varje sjukhus från Rosenbad.|저희는 대기열을 줄이기 위해 광역 지자체들에 수십억 크로나의 목적 지정 국고 보조금을 투입했고, 여러 광역에서 이제 흐름이 바뀌는 게 보입니다. 하지만 보건의료는 광역 지자체의 책임이고, 로센바드(정부 청사)에서 모든 병원을 운영할 수는 없습니다.
+Oppositionsföreträdaren|B2|Problemet är att många regioner har gått med underskott de senaste åren. När man ger riktade pengar med ena handen och låter kostnaderna skena med den andra blir det inga kortare köer, bara fler rapporter.|문제는 최근 몇 년간 많은 광역 지자체가 적자를 냈다는 겁니다. 한 손으로는 목적 지정 예산을 주고 다른 손으로는 비용이 폭주하게 내버려 두면, 대기열은 안 줄고 보고서만 늘어납니다.
+Karolina|B1|Annika Strand, vem av dem har rätt?|안니카 스트란드 대표님, 두 분 중 누가 맞습니까?
+Annika|B2|Båda har rätt om pengarna, och båda missar natten. På många sjukhus finns det för få vårdplatser och för lite personal, och då hamnar patienter på fel avdelning. Det kallas utlokalisering, och det är där misstagen händer.|두 분 다 돈에 대해선 맞고, 두 분 다 밤을 놓치고 있습니다. 많은 병원에 병상이 너무 적고 인력이 너무 부족해서 환자들이 엉뚱한 병동으로 갑니다. 그걸 타 병동 배치라고 하는데, 실수가 일어나는 게 바로 거기입니다.
+Regeringsföreträdaren|B2|Det låter sympatiskt, men vad har ni egentligen för förslag? Ni sitter inte ens i riksdagen.|듣기엔 좋습니다만, 실제로 무슨 안이 있습니까? 의회에 의석도 없으시잖아요.
+Annika|B2|Det stämmer, och därför sitter jag här och inte i riksdagen och skyller på någon annan. Vårt förslag är enkelt: klockan tre på natten ska det finnas en till.|맞습니다. 그래서 저는 의회에서 남 탓을 하는 대신 여기 앉아 있습니다. 저희 안은 간단합니다. 새벽 3시에 한 명이 더 있어야 한다는 겁니다. (방청석에서 웃음 몇 번)
+Oppositionsföreträdaren|B1|Men det är ju personal som saknas, inte viljan! Var ska ni hitta alla de här människorna, mitt i natten …|하지만 모자란 건 인력이지 의지가 아니잖아요! 그 많은 사람을 어디서 찾겠다는 겁니까, 그것도 한밤중에…
+Annika|B1|Får jag avsluta min mening?|제 말 끝내도 될까요? (목소리를 높이지 않는다. 2초를 기다린 뒤)
+Oppositionsföreträdaren|A2|Varsågod.|하시죠.
+Annika|C1|Tack. Personalen finns, men många har gått ner i tid eller slutat för att de inte orkar med nätterna. Varje sjuksköterska som går ner på deltid för att överleva sina nattpass är en sjuksköterska som vi redan har utbildat. Vi behöver inte hitta nya. Vi behöver få dem vi har att stanna.|감사합니다. 인력은 있습니다. 하지만 밤을 감당하지 못해서 근무 시간을 줄이거나 그만둔 사람이 많습니다. 야간 근무를 버텨 내려고 시간제로 옮기는 간호사 한 명 한 명이, 우리가 이미 교육해 놓은 간호사입니다. 새 사람을 찾을 필요가 없습니다. 있는 사람들이 남게 하면 됩니다.
+Karolina|C1|Vi går vidare till primärvården, där kön i själva verket börjar redan i telefonen. Hur många av er i publiken har under det senaste året suttit i telefonkö till en vårdcentral och sedan fått höra att alla tider är bokade?|1차 의료로 넘어가겠습니다. 사실 대기열은 전화에서부터 시작되죠. 방청석에서 지난 1년 동안 보건소 전화 대기를 하다가 예약이 다 찼다는 말을 들어 보신 분이 몇 분이나 되십니까? (방청석 거의 절반이 손을 든다)
+Regeringsföreträdaren|B2|Det är just därför vi vill skärpa vårdgarantin i primärvården. Man ska få en bedömning snabbare, och man ska veta vem som är ens läkare.|바로 그래서 저희는 1차 의료의 의료 보장을 강화하려는 겁니다. 더 빨리 진단을 받아야 하고, 내 담당 의사가 누구인지 알아야 합니다.
+Annika|B2|Det är en viktig fråga, men det som verkligen avgör för patienterna är … att någon svarar när de ringer. En garanti som man inte når på telefon är ingen garanti.|중요한 질문입니다만, 환자들에게 정말 결정적인 건… 전화했을 때 누군가가 받느냐입니다. 전화로 닿을 수 없는 보장은 보장이 아닙니다. (카메라를 본다)
+Oppositionsföreträdaren|C1|Med all respekt, det är lätt att säga att någon ska svara när man aldrig har behövt lägga en regionbudget. När pengarna inte räcker är det sällan cheferna man sparar på först, utan just de där telefontimmarna.|외람되지만, 광역 예산을 한 번도 짜 본 적 없는 사람이 누군가 전화를 받아야 한다고 말하긴 쉽습니다. 돈이 모자라면 먼저 줄이는 건 관리자 자리가 아니라 바로 그 전화 응대 시간입니다.
+Karolina|B2|Vi har gått en kvart nu. Annika Strand, jag vill gärna stanna vid ert eget löfte, eftersom det är det ni har gått till val på.|이제 15분이 지났습니다. 안니카 스트란드 대표님, 이번 선거에서 내건 공약이니만큼 그 공약 얘기를 좀 더 해 보고 싶습니다.
+Jonas|A2|Hon är bra. Hon är riktigt bra.|잘한다. 진짜 잘해. (옆방 모니터실. 요나스가 소피아에게 속삭인다. 아미르는 노트북으로 실시간 반응을 본다)
+Karolina|B2|Ni lovar en till på natten på varje vårdavdelning och varje äldreboende. Vad kostar det löftet per år?|여러분은 모든 병동과 모든 요양원에 밤에 한 명을 더 두겠다고 약속하셨습니다. 그 공약은 1년에 얼마가 듭니까?
+Annika|B1|Det kostar … sju miljarder kronor om året.|그건… 1년에 70억 크로나가 듭니다.
+Karolina|C1|Sju miljarder är, enligt er egen hemsida, vad alla fem vallöften kostar tillsammans. Jag frågade om nattbemanningen. Vad kostar just den?|70억은 여러분 홈페이지에 따르면 다섯 개 공약을 모두 합친 비용입니다. 저는 야간 인력에 대해 여쭸습니다. 그것 하나는 얼마입니까?
+Annika|A2|Det … vet jag faktiskt inte.|그건… 사실 모르겠습니다. (3초. 스튜디오가 조용하다)
+Regeringsföreträdaren|C1|Där har vi det. Om man inte vet vad ens egna löften kostar är det inga löften, utan förhoppningar. Och när förhoppningarna inte går ihop är det patienterna som får betala.|바로 그겁니다. 자기 공약이 얼마 드는지 모른다면 그건 공약이 아니라 희망 사항입니다. 그리고 희망 사항이 맞아떨어지지 않으면 그 값을 치르는 건 환자들입니다.
+Oppositionsföreträdaren|B2|Jag måste hålla med, för en gångs skull. Väljarna förtjänar siffror, inte bara känslor.|이번만큼은 동의할 수밖에 없네요. 유권자들은 감정만이 아니라 숫자를 들을 자격이 있습니다.
+Annika|B2|Kalkylen finns på vår hemsida, rad för rad, och den har granskats av …|계산은 저희 홈페이지에 한 줄 한 줄 다 있고, 검토도…
+Karolina|B1|Men tittarna sitter här i kväll, inte på er hemsida. Vi måste tyvärr gå vidare.|하지만 시청자들은 오늘 밤 홈페이지가 아니라 여기 앉아 계십니다. 유감스럽지만 넘어가야겠습니다.
+Sofia|A2|Andas, Annika. Andas.|숨 쉬어요, 안니카 씨. 숨 쉬어요. (모니터실. 화면을 향해 혼잣말처럼)
+Annika|C1|Jag har ett slutord, och det är ingen siffra. Klockan tre i natt ligger någon på en avdelning någonstans i Sverige och väntar på att någon ska komma. Det är för den människans skull jag står här, och det är den människan jag kommer att räkna med – på alla sätt.|마지막으로 한 말씀 드리겠습니다. 숫자가 아닙니다. 오늘 밤 새벽 3시에, 스웨덴 어딘가의 병동에 누군가가 누워서 누가 와 주길 기다릴 겁니다. 제가 여기 서 있는 건 그 사람 때문이고, 제가 셈에 넣을 사람도 그 사람입니다. 모든 의미에서요. (8시 45분. 토론 마지막 발언)
+Amir|B1|Klippet är redan ute. Någon har lagt upp de där tre sekunderna.|클립이 벌써 올라왔어요. 누가 그 3초를 올렸어요. (모니터실. 노트북 화면을 요나스 쪽으로 돌린다)
+# 장면 4 — 쿵스홀멘으로 가는 택시, 밤 9시 5분 → 당사 '큰 방', 5월 8일 금요일 아침
+Sofia|B1|Hur många, Amir? Säg det nu, så slipper vi fråga hela vägen.|몇 회야, 아미르? 지금 말해. 그래야 가는 내내 안 묻지. (밤 9시 5분. 예르데트에서 쿵스홀멘으로 가는 택시. 조수석에 요나스, 뒷좌석에 안니카와 소피아와 아미르. 창밖으로 스트란드베겐의 불빛)
+Amir|B1|Femtiotusen visningar. Nej, vänta – sjuttiotusen.|5만 회. 아니, 잠깐, 7만.
+Annika|A2|Sluta. Jag vill inte höra.|그만해요. 듣고 싶지 않아요.
+Jonas|B2|Amir, säg siffran en gång i halvtimmen, inte varje minut. Annika, du var bäst i studion i femton minuter. Det är bara det som ingen kommer att minnas i morgon.|아미르, 숫자는 30분에 한 번만 말해, 매분 말고. 안니카 씨, 15분 동안은 스튜디오에서 제일 잘했어요. 내일 아무도 기억 못 할 게 그것뿐이라서 문제지만.
+Annika|B2|Men alla kommer att minnas tre sekunder av tystnad. Jag har sett sådana klipp förut. Jag har själv skrattat åt dem.|하지만 3초의 침묵은 다들 기억하겠죠. 그런 클립 전에도 봤어요. 저도 보면서 웃었고요.
+Sofia|B2|Jag tränade dig på att bygga broar, men inte på vad man gör när bron rasar mitt på. Det är mitt fel också.|다리 놓는 건 훈련시켰는데, 다리가 한가운데서 무너질 때 어떻게 하는지는 안 가르쳤어요. 제 잘못이기도 해요.
+Amir|B2|Folk delar det med texten "Hon vet inte vad hennes egna löften kostar". Det är nästan ordagrant vad regeringssidan sa i studion, och klippet låg ute inom fyra minuter. Någon hade förberett sig.|사람들이 "자기 공약이 얼마 드는지도 모른다"는 문구를 달아서 퍼뜨려요. 정부 측 토론자가 스튜디오에서 한 말이랑 거의 토씨 하나 안 틀리고 같고, 클립은 4분 안에 올라왔어요. 누군가 준비하고 있었던 거예요.
+Jonas|B2|Viktor. Han sa ju rakt ut att de hade förberett sig på oss, och vi tog det som en artighet.|빅토르. 우릴 준비했다고 대놓고 말했잖아. 그런데 우린 그걸 인사치레로 들었고.
+Elin|C1|Annika, det är Elin. Det var jag som strök siffrorna från korten i går. Du gjorde precis det jag bad dig om, och mitt råd höll inte. Jag borde ha lärt dig en enda siffra – den som alla visste att de skulle fråga om.|안니카 씨, 엘린이에요. 어제 카드에서 숫자를 뺀 건 저예요. 안니카 씨는 제가 부탁한 대로 정확히 했고, 제 조언이 틀린 거예요. 숫자 딱 하나는 가르쳐 드렸어야 했어요. 다들 물을 거라고 알고 있던 그 숫자요. (안니카의 휴대폰, 스피커폰. 엘린의 목소리 뒤로 식기세척기 돌아가는 소리)
+Annika|C1|Elin, du var inte ens här i kväll, och ingen kunde ha förutsett att jag skulle blanda ihop en del med helheten. Det här är inte ditt fel.|엘린 씨, 오늘 밤엔 여기 있지도 않았잖아요. 제가 부분이랑 전체를 헷갈릴 거라곤 아무도 예상 못 했어요. 이건 엘린 씨 잘못이 아니에요.
+Elin|B2|Just det. Jag var inte där, och jag hade intalat mig att det inte spelade någon roll. Tre komma en miljarder. Det var allt du behövde.|바로 그거예요. 전 거기 없었고, 그게 상관없다고 저 자신을 달랬어요. 31억. 필요했던 건 그것뿐이었는데.
+Jonas|B2|Elin, sluta. Det här har ingenting med torsdagar att göra. Du fattade ett rimligt beslut, och det blev fel. Det är två olika saker.|엘린, 그만해. 이건 목요일이랑 아무 상관 없어. 넌 합리적인 결정을 내렸고, 그게 틀렸던 거야. 그 둘은 다른 거야.
+Elin|B1|Daniel står bredvid mig med stoppuret. Jag sa att det skulle ta två minuter.|다니엘이 스톱워치 들고 옆에 서 있어요. 2분이면 된다고 했거든요.
+Amir|B1|Dina två minuter är tjugo för oss andra. Daniel kan lika gärna stänga av det.|선배의 2분은 남들한텐 20분이잖아요. 다니엘 씨는 그냥 꺼도 돼요.
+Annika|C1|Lyssna nu, allihop. Jag vill inte att någon skriver ett pressmeddelande i kväll – ingen kommentar från en presstalesperson, inga diagram, inga förklaringar. I morgon bitti spelar jag in något själv, med min egen telefon. En enda tagning.|이제 다들 들어요. 오늘 밤엔 아무도 보도자료 쓰지 마요. 대변인 논평도, 도표도, 해명도 없어요. 내일 아침 일찍 제가 직접 뭔가 찍을게요. 제 휴대폰으로. 딱 한 번에.
+Sofia|B2|Utan manus? Annika, det är just i sådana lägen som man behöver ett manus.|대본 없이요? 안니카 씨, 바로 이런 때 대본이 필요한 거예요.
+Annika|B2|Nej. Det var när manuset tog slut i kväll som jag frös. Jag tänker inte gömma mig bakom ett nytt.|아니요. 오늘 밤 대본이 떨어졌을 때 제가 얼어붙은 거예요. 새 대본 뒤에 숨진 않을 거예요.
+Elin|B1|Då vill jag bara att du kan siffran. Bara den. Tre komma ett.|그럼 숫자 하나만 알고 있어 줘요. 그거 하나만. 3.1.
+Annika|A2|Tre komma ett. Jag skriver den på handen.|3.1. 손에 써 둘게요. (가방에서 볼펜을 꺼내 손등에 쓴다)
+Amir|B2|Ska jag svara på klippet under tiden? Jag kan lägga upp hela kalkylen som en tråd, punkt för punkt, och visa att ni faktiskt har räknat.|그동안 제가 클립에 대응할까요? 계산 전체를 스레드로 올릴 수 있어요. 항목별로요. 실제로 계산을 했다는 걸 보여 주는 거죠.
+Jonas|C1|Nej. Om vi svarar på ett klipp med ett kalkylark i kväll säger vi att problemet var siffran. Problemet var att hon frös, och det kan bara hon själv svara på. Det gör hon i morgon.|아니. 오늘 밤 클립에 스프레드시트로 대응하면, 문제가 숫자였다고 말하는 셈이야. 문제는 안니카 씨가 얼어붙은 거였고, 거기엔 본인만 답할 수 있어. 그건 내일 할 거고.
+Mattias|B2|Hon var här före sex. När jag låste upp klockan sju satt hon redan på trappan med telefonen i handen och väntade på att ljuset skulle bli bättre.|6시 전에 와 있었어요. 제가 7시에 문을 열었을 땐 벌써 계단에 앉아서, 휴대폰을 손에 쥐고 빛이 좋아지길 기다리고 있더라고요. (이튿날, 5월 8일 금요일 아침 7시 40분. 당사 '큰 방'. 마티아스가 회색 카디건 차림으로 커피를 따른다. 요나스가 막 들어온다)
+Amir|B1|Hon lade upp den klockan sju på sitt eget konto. En minut och tolv sekunder, ingen text, ingen musik. Lyssna.|7시에 자기 계정에 올렸어요. 1분 12초, 자막도 음악도 없어요. 들어 봐요. (노트북을 돌린다)
+Annika|C1|Hej. Det här är Annika Strand. Jag gjorde fel i går kväll, och jag tänker inte låtsas något annat. Jag fick en enkel fråga och kunde inte svaret. Nattbemanningen kostar 3,1 miljarder kronor om året, och hela vårt program kostar sju. Det borde jag ha vetat. Men jag vet en sak till: klockan tre i natt var jag vaken, och någonstans satt en undersköterska vaken av helt andra skäl. Det är för henne jag fortsätter.|안녕하세요. 안니카 스트란드입니다. 어젯밤 제가 틀렸습니다. 다른 척하지 않겠습니다. 쉬운 질문을 받았는데 답을 몰랐습니다. 야간 인력은 1년에 31억 크로나가 들고, 저희 공약 전체는 70억이 듭니다. 그건 알고 있었어야 했습니다. 하지만 하나는 더 압니다. 오늘 새벽 3시에 저는 깨어 있었고, 어딘가에선 한 요양보호사가 전혀 다른 이유로 깨어 있었습니다. 제가 계속하는 건 그 사람 때문입니다. (노트북 화면. 당사 부엌, 직접 든 휴대폰. 남색 재킷이 아니라 회색 스웨터. 손등에 볼펜으로 쓴 '3,1'이 화면에 잠깐 보인다)
+Mattias|C1|I tjugo år har jag sett partiledare be om ursäkt på ett sätt som får det att låta som om någon annan har gjort fel. Det här är första gången jag tror på en av dem.|20년 동안 당 대표들이 사과하는 걸 봤는데, 다들 꼭 남이 잘못한 것처럼 들리게 사과하더라고요. 그중 한 사람을 믿게 된 건 이번이 처음이에요.
+Jonas|B1|Var är hon nu?|지금 어디 계세요?
+Mattias|B1|I köket. Hon äter en kanelbulle före lunch, och jag har inte sagt någonting.|부엌에요. 점심 전에 시나몬롤을 먹고 있어요. 전 아무 말도 안 했고요.
+Amir|B2|Jonas, kolla. Fyrahundratusen visningar på fyrtio minuter, och nästan alla kommentarer är positiva. Folk skriver att de aldrig har hört en politiker säga "jag gjorde fel" utan att skylla på någon annan.|요나스 씨, 이거 봐요. 40분 만에 40만 회고, 댓글은 거의 다 긍정적이에요. 정치인이 남 탓 없이 "제가 틀렸다"고 하는 건 처음 들어 본대요.
+Jonas|B1|Och hur mycket hade debattklippet efter samma tid?|토론 클립은 같은 시간에 얼마였는데?
+Amir|B1|Femhundratusen på en timme. Den här … den går bättre än debatten.|한 시간에 50만이었어요. 이거… 토론보다 반응이 좋아요. (화면 속 숫자가 또 바뀐다. 부엌에서 안니카가 시나몬롤을 든 채 문간에 나타난다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Titta in i kameran.** | 카메라를 봐요. | *titta på* 는 '~을 보다', *titta in i* 는 '~ 안을 들여다보다'. 렌즈 '속'을 보라는 뜻이라 *in i* 를 쓴다. 명령형은 동사 원형에서 *-a* 를 그대로 둔 *titta* |
+| `A2` | **Det … vet jag faktiskt inte.** | 그건… 사실 모르겠습니다. | 목적어 *det* 이 문두에 오면 V2로 *vet jag*. *faktiskt* 는 '사실은'이지만, 토론에서 이 말이 나오면 '준비가 안 됐다'로 들린다 |
+| `B1` | **Får jag avsluta min mening?** | 제 말 끝내도 될까요? | *få* = 허락받다. 의문문 *Får jag …?* 는 공손한 허락 구하기. 목소리를 높이지 않고 말해야 효과가 있다 |
+| `B1` | **Bra fråga, men det viktiga är …** | 좋은 질문입니다만, 중요한 건… | 형용사의 명사적 용법 *det viktiga* = 중요한 것(한정형 어미 *-a*). 브리징의 가장 짧은 다리 |
+| `B2` | **Det är en viktig fråga, men det som verkligen avgör för patienterna är …** | 중요한 질문이지만, 환자들에게 정말 결정적인 건… | *det som …* = ~하는 것(관계절). *avgöra för någon* = ~에게 결정적이다. 질문을 인정(A)하고 *men* 으로 다리(B)를 놓은 뒤 메시지(C)로 간다 |
+| `B2` | **Den som höjer rösten först förlorar.** | 먼저 목소리를 높이는 쪽이 져요. | *den som …* = ~하는 사람(일반화). 주어 자리가 관계절로 길어져도 동사 *förlorar* 는 제자리. 속담처럼 쓰는 일반 진술 |
+| `B2` | **Du fattade ett rimligt beslut, och det blev fel.** | 넌 합리적인 결정을 내렸고, 그게 틀렸던 거야. | *fatta ett beslut* = 결정을 내리다(*ta ett beslut* 도 가능). *rimlig* = 합리적인, 타당한 — ett-명사 앞이라 *rimligt*. 과정과 결과를 나누는 위로의 말 |
+| `C1` | **Jag gjorde fel i går kväll, och jag tänker inte låtsas något annat.** | 어젯밤 제가 틀렸습니다. 다른 척하지 않겠습니다. | *göra fel* = 잘못하다, 틀리다. *tänka + 동사원형* = ~할 작정이다(*tänker inte* = ~하지 않겠다). *låtsas något annat* = 달리 꾸미다 — *låtsas* 는 형태가 -s로 끝나는 디포넌트 동사 |
+| `C1` | **Om man inte vet vad ens egna löften kostar är det inga löften, utan förhoppningar.** | 자기 공약이 얼마 드는지 모른다면 그건 공약이 아니라 희망 사항입니다. | *man* 의 소유격은 *ens*. *ens egna löften* — 소유격 뒤 형용사는 한정형 *egna*. 조건절이 앞에 오면 주절은 동사부터(*är det*). *inte X utan Y* = X가 아니라 Y |
+| `C1` | **Det var när manuset tog slut som jag frös.** | 대본이 떨어졌을 때 제가 얼어붙은 거예요. | 분열문 *Det var när … som …* 로 '바로 그때'를 강조. *ta slut* = 바닥나다. *frysa* 의 과거형 *frös* — '얼다'에서 '얼어붙다(굳다)'로 |
+
+## 현안 메모
+- **의료 보장(vårdgaranti) '0-3-90-90'** — 스웨덴 보건의료법이 정한 최대 대기 기한. 당일(0일) 1차 의료와 연락이 닿고, 3일 안에 의료인의 진단 평가를 받고(2019년부터 '의사 진료'에서 '의료 전문 인력의 평가'로 바뀜), 전문의 첫 진료는 의뢰 후 90일 안에, 결정된 치료·수술은 90일 안에 받아야 한다. 2005년 지자체 간 합의로 시작해 2010년 법으로 정해졌다. 전국 대기 시간 통계(Väntetider i vården)를 보면 해마다 광역마다 차이가 크지만, 전문의 첫 진료나 수술을 90일 넘게 기다리는 환자의 비율은 많은 광역에서 높게 유지되어 왔다.
+- **광역(region)의 책임과 재정** — 보건의료는 21개 광역 지자체가 책임지고 주로 광역 소득세로 재원을 마련한다. 국가는 목적 지정 보조금(riktade statsbidrag)과 일반 보조금으로 지원한다. 2023~2024년에는 인플레이션, 연금 비용, 인건비 상승으로 많은 광역이 적자를 냈고, 인력 감축과 채용 동결을 발표한 곳도 있다. 의료 책임을 국가가 맡아야 하는지 검토하는 정부 조사도 진행되었다. 대기열을 두고는 '돈을 더 넣어야 한다'와 '조직과 인력 운영이 문제다'라는 논쟁이 반복된다.
+- **병상 부족과 야간 인력** — 스웨덴은 인구 대비 병상 수가 EU에서 가장 적은 나라 중 하나다. 병상이 모자라면 환자가 전문 병동이 아닌 다른 병동에 배치되고(utlokalisering), 정원을 넘긴 환자(överbeläggning)가 생긴다. 간호사 부족은 '절대 숫자'보다 소진으로 인한 이직·시간제 전환의 문제라는 지적이 많고, 특히 야간·주말 근무가 기피된다.
+- 이번 화의 토론 프로그램 진행자, 토론자, 공보 비서, Brobyggarna의 공약과 비용(야간 인력 연 31억, 5대 공약 연 70억)은 모두 가상이다. 토론자들은 특정 실존 정당을 대표하지 않는다.
+
+## 비즈니스 메모
+- **브리징(ABC: Acknowledge, Bridge, Communicate)** — 미디어 트레이닝의 기본 기술. ① 질문을 인정한다("중요한 질문입니다"), ② 다리 문장을 놓는다("하지만 환자들에게 정말 결정적인 건…"), ③ 준비한 핵심 메시지를 말한다. 시청자가 질문을 피했다고 느끼지 않도록 인정은 진심이어야 하고, 다리는 짧아야 한다. 그러나 브리징에는 한계가 있다. 상대가 '사실'을 물을 때, 그리고 그 답을 모를 때 다리는 회피로 들린다. 그래서 미디어 트레이닝은 늘 '반드시 물을 질문 세 개와 그 답'을 외우는 일과 함께 간다.
+- **실수 이후의 대응** — 위기 커뮤니케이션의 원칙은 '빨리, 스스로, 전부'다. 남 탓 없이 잘못을 인정하고, 바로잡은 사실을 말하고, 다시 메시지로 돌아간다. 안니카의 1분 12초 영상은 그 세 단계를 대본 없이 해냈다. 요나스가 스프레드시트 대응을 막은 이유도 같다. 클립의 문제를 '숫자'로 정의하면 숫자 싸움이 되고, '태도'로 정의하면 본인만 답할 수 있다.
+
+## 다음 화 예고 — Deepfaken
+**4부 8화.** 5월 25일 새벽 3시, 아미르의 전화가 울린다. 텔레그램과 X에서 음성 파일 하나가 퍼지고 있다. 교외 주민들을 깔보는 안니카의 목소리. "Det är inte min röst." 그런데 너무 진짜 같다. 그 목소리는 1분 12초짜리 사과 영상에서 배운 것이다. 무시할 것인가, 반박할 것인가, 역공할 것인가. "Om vi dementerar för tidigt ger vi lögnen en större publik." 심리방위청(MPF)과의 화상 회의, 아미르의 봇 네트워크 추적, 그리고 리누스의 약속. 48시간의 싸움이 시작된다.
