@@ -1,0 +1,162 @@
+@title 2부 12화 — Konkursen
+@subtitle (파산)
+@meta 날짜|2024년 11월 22일 금요일 아침 9시 20분 ~ 12월 2일 월요일 저녁 7시 10분 (취임 418~428일째. 노스볼트가 미국에서 챕터 11 회생 절차를 신청한 다음 날부터)
+@meta 장소|스톡홀름 쿵스홀멘, 할베리 브루크 본사 — 할셰 재무팀과 화상 연결 (11월 22일 금요일) → 할셰, 옛 사장실 (11월 25일 월요일) → 셸레프테오, Nordpress Automation 작업장 — 하청업체 모임 (11월 27일 수요일 저녁) → 할셰, 본관 이사회실 — 임시 이사회 (12월 2일 월요일 오후) → 스톡홀름행 저녁 열차 (같은 날 밤)
+@meta 등장인물|**Elin Bergqvist** (엘린 베리크비스트, 34, 재무 책임자 ekonomichef) · **Jonas Ekholm** (요나스 에크홀름, 41, 대표이사 VD) · **Åsa** (오사, 회계팀장, 22년 근속) · **Hanna Lindqvist** (한나 린드크비스트, 31, 매출채권·여신 담당) · **Håkan Sandström** (호칸 산드스트룀, 61, 할베리의 외부 감사인 auktoriserad revisor, 외레브로의 회계법인 Revisionsbyrån Bergslagen, 2009년부터 담당 — 전화) · **Tord Lundmark** (토르드 룬드마르크, 58, 셸레프테오의 설비 업체 Nordpress Automation AB 창업자·대표, 직원 46명) · **Pia Wikström** (피아 비크스트룀, 49, Wikströms Svets & Montage 대표, 직원 9명) · **Jesper Holmgren** (예스페르 홀름그렌, 31, Holmgrens El 대표, 전기 기사 6명) · **Margareta "Greta" Hallberg** (마르가레타 '그레타' 할베리, 72, 이사회 의장) · **Carl-Johan Hallberg** (칼-요한 할베리, 51, 부의장) · **Margit Lönn** (마르기트 뢴, 64, 독립이사, 전 공인회계사) · **Torbjörn Ek** (토르비엔 에크, 독립이사) · **Peter Hallberg** (페테르 할베리, 46, 전 대표이사, 이사) · **Lena Johansson** (레나 요한손, 52, IF Metall 지부장·노동자 이사) · **Kent Persson** (켄트 페르손, 58, 용접공·노동자 이사) · **Malin Hedberg** (말린 헤드베리, 『Hallsjö Allehanda』 기자 — 전화) · **Daniel** (다니엘, 엘린의 남편, 수학 교사 — 전화) · **Maja** (마야, 세 살, 엘린의 딸 — 전화)
+@meta 이번 화의 도구|신용 리스크 노출 분석 — 한 고객에게 걸린 돈을 매출채권만이 아니라 그 고객 전용 재고, 내년 수주잔고, 그리고 '고객의 고객'에 대한 의존도까지 한 장에 모은다. 결제일 증가, 최종 고객의 감원, 사라진 신용보험 같은 조기 경보 신호를 되짚는다. 그리고 손상차손(nedskrivning) 판단 — 회수 시나리오에 확률을 매겨 기대 회수액을 구하고, 25%·70%·100% 상각안이 약정 지표(순부채/EBITDA)에 각각 무엇을 하는지 계산한 뒤, '감사인이 받아 줄 숫자'와 '사실에 가장 가까운 숫자' 사이에서 고른다
+@meta 스웨덴 현안|노스볼트 위기 — 2024년 9월 스웨덴 내 약 1,600명 감원과 셸레프테오 공장 증설 중단 발표, 11월 21일 미국 텍사스 연방파산법원에 챕터 11 회생 절차 신청(현금 약 3,000만 달러 — 약 1주일분, 신규 운영자금 2억 4,500만 달러 확보) · 셸레프테오 지역 중소 하청업체의 미수금과 감원 · 스웨덴 기업회생(företagsrekonstruktion)과 미국 챕터 11의 차이 · 북부 녹색 산업 붐에 대한 회의론
+@intro **지난 이야기** — 열처리 공장의 15년짜리 '발전소 계약'(킬로와트시당 16외레)이 12월 31일에 끝난다. 엘린은 베스테로스에서 베리슬라겐스 크라프트와 맞서 풍력단지 횔로센의 전기를 10년 동안 46외레에 사는 장기 전력구매계약(PPA)을 따냈다. 인수자가 와도 해지할 수 없는, '회사를 따라가는' 계약이다. 룰레오의 녹색강철 시범 공장 폴라르스톨에서 두 사람은 녹색 프리미엄을 누가 낼지를 두고 부딪쳤고, 그날 밤 보덴 가는 언덕에서 오로라를 봤다. 다음 날 새벽 6시 5분, 호텔 로비에서 비행기 모드를 끈 엘린의 휴대폰에 뉴스 알림 하나가 떠 있었다. "Northvolt har ansökt om rekonstruktion i USA."
+@intro 엘린은 룰레오발 첫 비행기를 타고 알란다에 내려 곧장 쿵스홀멘 본사로 왔다. 금요일, 원래는 마야와 보내는 날이다. 할베리는 노스볼트에 직접 물건을 판 적이 없다. 하지만 셸레프테오의 설비 업체 Nordpress Automation이 노스볼트 공장에 넣는 프레스 라인과 리프트 장비에는 할베리의 유압 실린더가 들어간다. 2022년 3월 페테르가 서명한 3년짜리 기본계약이다. 엘린은 10월에 이 고객을 감시 목록에 올려 두었다. 그걸로 충분했는지, 오늘 아침 숫자가 답할 것이다.
+# 장면 1 — 스톡홀름 쿵스홀멘, 할베리 브루크 본사, 11월 22일 금요일 아침 9시 20분
+Elin|A2|Hör ni mig? Bra. Då börjar vi direkt.|들려요? 좋아요. 그럼 바로 시작해요. (쿵스홀멘 본사, 방 두 칸짜리 사무실. 엘린의 여행 가방이 아직 문 옆에 서 있다. 화면 속에 할셰 재무팀의 오사와 한나. 요나스는 창가에 서서 종이컵 커피를 들고 있다. 둘 다 잠을 거의 못 잤다)
+Åsa|B1|Vi har sett nyheterna. Hanna har tagit fram allt som rör Nordpress sedan klockan sju.|뉴스 봤어요. 한나가 7시부터 노르드프레스 관련 자료는 전부 뽑아 놨어요.
+Jonas|B1|Förklara för mig igen varför Northvolt är vårt problem. Vi har aldrig sålt en enda skruv till dem.|노스볼트가 왜 우리 문제인지 다시 설명해 줘. 우린 거기에 나사 하나 판 적 없잖아.
+Elin|B2|Inte direkt. Men Nordpress i Skellefteå bygger presslinjer och lyftutrustning till Northvolts fabrik, och i nästan varje maskin sitter våra cylindrar. Ungefär sjuttio procent av deras omsättning kommer från Northvolt.|직접은 아니지. 그런데 셸레프테오의 노르드프레스가 노스볼트 공장에 프레스 라인이랑 리프트 장비를 만들어 넣고, 거의 모든 기계에 우리 실린더가 들어가. 그 회사 매출의 70%쯤이 노스볼트에서 나와.
+Jonas|A2|Och Nordpress betalar oss?|그럼 노르드프레스가 우리한테 돈을 내는 거고?
+Elin|A2|Hanna. Hur mycket är de skyldiga oss?|한나 씨. 우리한테 얼마를 빚졌죠?
+Hanna|B1|28,6 miljoner kronor, inklusive moms. Drygt elva av dem är mer än trettio dagar sena – fakturorna från september och oktober.|2,860만 크로나요, 부가세 포함해서요. 그중 1,100만 남짓이 30일 넘게 밀렸어요. 9월하고 10월 송장이요.
+Jonas|A2|Tjugoåtta miljoner? Från en enda kund?|2,800만? 고객 하나한테서?
+Åsa|B2|De betalade alltid inom trettio dagar fram till i somras. Efter Northvolts varsel i september blev det sjuttio, och i oktober slutade de svara på påminnelser.|지난여름까지는 늘 30일 안에 냈어요. 9월에 노스볼트 감원 통보가 나온 뒤로 70일이 됐고, 10월엔 독촉에 답도 안 했어요.
+Elin|B2|Jag satte dem på bevakningslistan i oktober och stoppade alla leveranser över kreditgränsen. Men jag krävde inte förskott. Det borde jag ha gjort.|10월에 감시 목록에 올리고, 신용 한도를 넘는 출하는 전부 막았어. 그런데 선불은 요구 안 했어. 그랬어야 했는데.
+Jonas|B1|Det var inte bara ditt beslut. Mats ville inte förlora orderboken.|네 결정만은 아니었잖아. 마츠가 수주를 잃기 싫어했지.
+Hanna|B1|Och det finns mer. Vi har 62 färdiga cylindrar i lagret, gjorda efter deras ritningar.|그리고 더 있어요. 창고에 그 회사 도면대로 만든 완성 실린더가 62개 있어요.
+Åsa|B2|Lager och pågående arbete blir 3,4 miljoner till självkostnadspris, och det mesta går inte att sälja vidare utan att bearbetas om.|재고랑 재공품 합쳐서 원가로 340만이에요. 대부분은 다시 가공하지 않으면 다른 데 팔 수도 없고요.
+Elin|B2|Och orderboken för nästa år? Ramavtalet sträcker sig till december 2025.|내년 수주잔고는요? 기본계약이 2025년 12월까지잖아요.
+Hanna|B1|48 miljoner i beställningar för 2025. Allt är kopplat till Northvolts utbyggnad, den som pausades i höstas.|2025년분 주문이 4,800만이에요. 전부 노스볼트 증설이랑 연결된 거예요. 가을에 중단된 그거요.
+Jonas|B2|Den kan vi alltså räkna bort. Vad står det egentligen i nyheten? Läs högt.|그건 빼고 계산해야겠네. 뉴스엔 정확히 뭐라고 나와? 소리 내서 읽어 줘.
+Elin|B2|Northvolt har ansökt om rekonstruktion enligt kapitel 11 i den amerikanska konkurslagen, vid en domstol i Texas. Bolaget har omkring 30 miljoner dollar i kassan, vilket räcker ungefär en vecka, och har säkrat 245 miljoner dollar i ny finansiering för att kunna fortsätta driften.|"노스볼트가 미국 파산법 챕터 11에 따른 회생 절차를 텍사스의 한 법원에 신청했다. 회사의 현금은 약 3,000만 달러로 일주일 남짓 버틸 수 있는 규모이며, 운영을 이어 가기 위해 2억 4,500만 달러의 신규 자금을 확보했다." (휴대폰 화면을 읽는다)
+Jonas|B1|Rekonstruktion låter ändå bättre än konkurs.|그래도 회생이 파산보다는 낫게 들리네.
+Elin|C1|För Northvolt, kanske. Men i ett amerikanskt kapitel 11 fryses alla gamla skulder, medan det som levereras efter ansökan betalas först. Allt som Nordpress levererade innan dess hamnar längst bak i kön – bland tusentals andra fordringsägare, i en domstol i Houston.|노스볼트한텐 그럴지도. 그런데 미국 챕터 11에선 옛날 빚은 전부 동결되고, 신청 이후에 들어온 납품은 먼저 지급돼. 노르드프레스가 그 전에 납품한 건 전부 줄 맨 뒤로 가는 거야. 수천 명의 다른 채권자들 틈에서, 휴스턴의 한 법원에서.
+Åsa|B2|Och om Nordpress inte får betalt av Northvolt kan de inte betala oss. Det är samma kö, bara ett steg längre ner.|그리고 노르드프레스가 노스볼트한테서 돈을 못 받으면 우리한테도 못 내죠. 같은 줄이에요. 한 칸 더 아래일 뿐이고.
+Jonas|B1|Har du ringt Mikael?|미카엘한테 전화했어?
+Elin|B1|Jag ringer honom klockan tio. Han ska höra det från mig, inte från tidningen.|10시에 할 거야. 신문이 아니라 나한테서 들어야지.
+Hanna|A2|Ska jag ringa Nordpress igen?|노르드프레스에 다시 전화해 볼까요?
+Elin|C1|Ja, men be inte om pengar i dag. Fråga hur de mår och vad de själva vet. Folk som är rädda säger mer på en fredag än på en måndag, när advokaterna har hunnit kopplas in.|네, 그런데 오늘은 돈 얘기는 하지 마요. 어떻게 지내는지, 그쪽은 뭘 알고 있는지만 물어봐요. 겁먹은 사람들은 변호사들이 끼어들기 전인 금요일에, 월요일보다 더 많은 걸 말해요.
+Jonas|B2|Och en sak till: det är fredag, din lediga dag, och du har inte varit hemma sedan i torsdags morse. Vet Daniel att du sitter här?|그리고 하나 더. 오늘 금요일이야. 네 쉬는 날. 그리고 너 어제 새벽부터 집에 못 갔잖아. 다니엘은 너 여기 있는 거 알아? (엘린은 대답 대신 휴대폰을 뒤집어 책상에 내려놓는다)
+# 장면 2 — 할셰, 옛 사장실, 11월 25일 월요일 아침 8시 반
+Håkan|B2|Jag har läst ert underlag. Nordpress är skyldiga er 22,9 miljoner exklusive moms, och deras största kund har just ansökt om kapitel 11. Att fordran behöver skrivas ned är uppenbart – frågan är hur mycket.|보내 주신 자료 읽었습니다. 노르드프레스가 부가세 빼고 2,290만을 빚지고 있고, 그 회사 최대 고객이 막 챕터 11을 신청했죠. 채권을 상각해야 한다는 건 분명합니다. 문제는 얼마나냐는 거죠. (월요일 아침, 할셰 옛 사장실. 화이트보드에는 아직 'LYSSNA · LÄRA · LEDA'. 책상 위 스피커폰에서 외레브로의 감사인 호칸 산드스트룀의 목소리. 2009년부터 매년 할베리 감사보고서에 서명해 온 사람이다)
+Elin|B1|Vi måste skriva ned fordran redan i det här kvartalet.|이번 분기에 매출채권을 상각해야 해요.
+Håkan|B1|Det håller jag med om. Hur mycket föreslår ni?|그 점엔 동의합니다. 얼마를 제안하시죠?
+Elin|C1|Jag har räknat på tre scenarier. Ett: Northvolt tar sig igenom rekonstruktionen och Nordpress betalar allt – tjugo procents sannolikhet. Två: Nordpress går i egen rekonstruktion och betalar kanske en fjärdedel – fyrtio procent. Tre: Nordpress går i konkurs och vi får i stort sett ingenting – fyrtio procent. Det sannolikhetsvägda värdet blir ungefär trettio procent av fordran.|시나리오 세 개로 계산했어요. 하나, 노스볼트가 회생에 성공하고 노르드프레스가 전액을 낸다. 확률 20%. 둘, 노르드프레스도 회생 절차에 들어가서 4분의 1쯤 낸다. 40%. 셋, 노르드프레스가 파산하고 우린 사실상 한 푼도 못 받는다. 40%. 확률 가중 회수액은 채권의 30% 정도예요. (노란 노트에 표 세 줄)
+Jonas|B2|Och därför vill du skriva ned sjuttio procent. Jag tycker att tjugofem räcker så länge vi inte vet mer. Nordpress har betalat varje faktura i två år.|그래서 넌 70%를 상각하자는 거고. 난 더 알게 될 때까지는 25%면 충분하다고 봐. 노르드프레스는 2년 동안 송장 하나 안 빼고 다 냈어.
+Håkan|C1|Båda bedömningarna går att försvara. Det är ledningens uppskattning, och så länge den är rimlig och väl dokumenterad brukar vi inte ha några invändningar. Tjugofem procent med en utförlig motivering skulle jag kunna godta.|두 판단 모두 방어 가능합니다. 이건 경영진의 추정이고, 합리적이고 문서화가 잘돼 있으면 저희는 보통 이의를 달지 않아요. 근거를 자세히 붙인 25%라면 저는 받아들일 수 있습니다.
+Elin|B2|Jag frågade inte vad du kan godta, Håkan. Jag frågade vad du tror att vi får tillbaka.|호칸 씨가 뭘 받아들일 수 있는지 물은 게 아니에요. 우리가 얼마를 돌려받을 거라고 생각하시는지 물었어요.
+Håkan|B2|Det är inte revisorns uppgift att gissa. Vi granskar ert underlag; vi gör inte bedömningen åt er.|추측하는 건 감사인의 일이 아닙니다. 저희는 회사 자료를 검토하는 거지, 판단을 대신해 드리는 게 아니에요.
+Elin|A2|Okej. Tack, Håkan. Vi hörs.|알겠어요. 고마워요, 호칸 씨. 또 연락해요. (통화를 끊는다)
+Jonas|B1|Han sa att tjugofem går bra. Varför räcker inte det för dig?|25%면 괜찮다잖아. 왜 넌 그걸로 안 돼?
+Elin|C1|För att en revisor som säger att något går att försvara inte har sagt att det är sant. Peters 61 miljoner gick också att försvara – och revisorn hade inga invändningar då heller.|방어 가능하다고 말하는 감사인은 그게 사실이라고 말한 게 아니니까. 페테르의 6,100만도 방어 가능했어. 그때도 감사인은 아무 이의가 없었고.
+Jonas|B2|Det här är inte samma sak. Peter gömde en kostnad som kom tillbaka varje månad. En kund som går under är en engångshändelse.|이건 같은 게 아니야. 페테르는 매달 돌아오는 비용을 숨겼어. 고객 하나가 망하는 건 한 번 일어나는 일이고.
+Elin|C1|Förra hösten lovade jag mig själv att aldrig mer kalla något för en engångspost, och jag tänker inte bryta det löftet bara för att det råkar passa oss.|작년 가을에 나 자신한테 약속했어. 다시는 뭘 '일회성 항목'이라고 부르지 않겠다고. 그게 지금 우리한테 마침 편하다고 그 약속을 깰 생각은 없어.
+Jonas|B2|Lyssna på mig först. Vad händer när det står i tidningen att Hallberg skriver ned 23 miljoner på grund av Northvolt? Nordvärn läser det. Carver läser det. Henrik läser det – och han börjar räkna samma dag.|일단 내 말 들어 봐. 할베리가 노스볼트 때문에 2,300만을 상각한다고 신문에 나면 어떻게 될까? Nordvärn이 읽어. 카버가 읽어. 헨리크가 읽어. 그리고 그 사람은 그날 바로 계산을 시작하겠지.
+Elin|B1|Han räknar ändå. Han har alltid kunnat våra siffror utantill.|어차피 계산해. 그 사람은 늘 우리 숫자를 외우고 있었잖아.
+Jonas|C1|Ja, och därför ska vi inte ge honom en rubrik. I dag ser vi ut som ett bolag som har klarat banken, strejken, hackarna och ett bud. Jag vill inte att vi ska se ut som Skellefteås nästa offer bara för att vi var för ivriga att straffa oss själva.|그래, 그러니까 헤드라인을 갖다 바치지 말자는 거야. 지금 우린 은행, 파업, 해커, 인수 제안까지 다 버텨 낸 회사로 보여. 우리가 우리 자신을 벌주는 데 너무 열심이었다는 이유로 셸레프테오의 다음 희생자처럼 보이고 싶진 않아.
+Elin|B2|Då tar vi siffrorna. Före i fredags pekade vi på 3,17 vid årsskiftet. Med din nedskrivning blir det 3,22, med min 3,33 – lagret inräknat. Båda ligger under 3,5.|그럼 숫자로 가자. 지난 금요일 전엔 연말 지표가 3.17로 예상됐어. 네 상각안이면 3.22, 내 안이면 재고까지 넣어서 3.33. 둘 다 3.5 아래야.
+Jonas|B1|Så det spelar ingen roll för banken. Varför inte ta den mindre, då?|그럼 은행한텐 상관없네. 그럼 작은 쪽으로 하면 되잖아?
+Elin|B2|Just därför. Om den större inte bryter mot något finns det ingen anledning att välja den mindre – annat än att den ser bättre ut.|바로 그래서야. 큰 쪽도 아무것도 위반하지 않는다면, 작은 쪽을 고를 이유가 없어. 보기 좋다는 것 말고는.
+Jonas|C1|Att se bra ut är ingen fåfänga när varenda kund och varenda bank i landet just nu letar efter nästa dominobricka som ska falla. Förtroende är också en tillgång, även om det inte står i din balansräkning.|이 나라의 모든 고객과 모든 은행이 다음에 쓰러질 도미노를 찾고 있는 지금, 보기 좋은 건 허영이 아니야. 신뢰도 자산이야. 네 대차대조표엔 안 나와도.
+Elin|C1|Och den tillgången kan man bara förbruka en gång. Säg att vi skriver ned tjugofem procent i november och att Nordpress går i konkurs i januari. Då kommer vi tillbaka till Mikael med resten mitt i bokslutet, och i stället för en dålig nyhet har vi två – plus frågan om varför vi inte sa det direkt.|그리고 그 자산은 딱 한 번만 쓸 수 있어. 11월에 25%를 상각했는데 1월에 노르드프레스가 파산한다고 쳐. 그럼 우린 결산 한복판에 나머지를 들고 미카엘한테 다시 가야 해. 나쁜 소식이 하나가 아니라 둘이 되는 거야. 왜 처음부터 말 안 했냐는 질문까지 덤으로.
+Jonas|B1|Du låter säker på att Nordpress går under.|너 노르드프레스가 망할 거라고 확신하는 것처럼 들려.
+Elin|B2|Jag är inte säker på någonting. Men ingen av de små leverantörerna där uppe har fått betalt sedan oktober, och de har inga miljardlån att omförhandla – de har en checkkredit och ett hus.|난 아무것도 확신 못 해. 그런데 거기 위쪽의 작은 납품업체들은 10월부터 아무도 돈을 못 받았어. 그리고 그 사람들한텐 재협상할 수십억짜리 대출 같은 건 없어. 당좌대출 하나랑 집 한 채가 있을 뿐이지.
+Jonas|A2|Har du varit där?|거기 가 봤어?
+Elin|B1|I Skellefteå? Nej. Har du?|셸레프테오? 아니. 너는?
+Jonas|B2|Inte jag heller. Tord Lundmark mejlade i går kväll. Han samlar sina underleverantörer i verkstaden på onsdag och bad oss komma – som fordringsägare, men också som kolleger, skrev han.|나도 아니야. 토르드 룬드마르크가 어젯밤에 메일을 보냈어. 수요일에 자기 작업장에 하청업체들을 모은대. 우리도 와 달라고. 채권자로서, 그리고 같은 업계 사람으로서, 라고 썼더라.
+Elin|B2|Onsdag är en kontorsdag. Jag kan ta första planet upp och vara hemma igen till kvällen.|수요일은 사무실 근무일이야. 첫 비행기로 올라갔다가 저녁까지 집에 돌아올 수 있어.
+Jonas|C1|Då gör vi så här: vi bestämmer ingen siffra förrän vi har sett dem i ögonen. Och vad vi än kommer fram till får styrelsen se båda alternativen på måndag.|그럼 이렇게 하자. 그 사람들 눈을 보기 전까진 숫자를 정하지 않는 거야. 그리고 결론이 어떻게 나든, 월요일 이사회엔 두 안을 다 보여 주고.
+Elin|B2|Det går jag med på. Men jag säger det redan nu, så att du inte blir förvånad: det är bättre att ta smällen nu än att låtsas att pengarna kommer.|그건 좋아. 그런데 나중에 놀라지 않게 지금 말해 둘게. 돈이 올 것처럼 구는 것보다 지금 충격을 받는 게 나아.
+Jonas|B1|Jag vet. Det är därför jag vill ha med dig.|알아. 그래서 너랑 같이 가려는 거야.
+# 장면 3 — 셸레프테오 공단, Nordpress Automation 작업장, 11월 27일 수요일 저녁 5시
+Tord|A2|Välkomna! Ta kaffe och en bit paj. Västerbottensost, förstås.|어서 오세요! 커피랑 파이 한 조각 드세요. 당연히 베스테르보텐 치즈 파이죠. (셸레프테오 공단의 작업장. 반쯤 조립된 프레스 라인이 방수포에 덮여 있다. 접이식 의자 서른 개쯤, 작업복 차림의 사장들. 바깥은 영하 9도, 이미 캄캄하다. 토르드 룬드마르크, 쉰여덟, 손이 크다)
+Elin|A2|Tack. Det luktar gott.|고맙습니다. 냄새 좋네요.
+Tord|B1|Min fru bakade tre i går kväll. Hon kunde ändå inte sova.|아내가 어젯밤에 세 판 구웠어요. 어차피 잠을 못 잤거든요.
+Jonas|B1|Hur många är ni här i kväll?|오늘 저녁엔 몇 분이나 오셨어요?
+Tord|B2|Trettioett företag. Tillsammans har vi ungefär fyrahundra anställda, och de flesta av oss har levererat till Northvolt sedan 2019, direkt eller via någon annan.|31개 회사요. 다 합치면 직원이 400명쯤이고, 대부분 2019년부터 노스볼트에 납품해 왔어요. 직접이든, 누구를 거쳐서든.
+Pia|B1|Ni kommer från Hallberg? Bruket i Bergslagen?|할베리에서 오셨어요? 베리슬라겐에 있는 그 공장?
+Elin|A2|Ja. Jag heter Elin och är ekonomichef.|네. 엘린이에요. 재무 책임자예요.
+Pia|B1|Pia Wikström, Wikströms Svets & Montage. Vi är nio – eller vi var nio. På fredag varslar jag fyra.|피아 비크스트룀이에요. 비크스트룀 용접·조립. 우린 아홉 명이에요. 아니, 아홉 명이었죠. 금요일에 넷한테 감원 통보를 해요.
+Jonas|B1|Fyra av nio. Det är nästan hälften.|아홉 중 넷이요. 거의 절반이네요.
+Pia|B2|Jag har känt dem sedan de gick i skolan. En av dem är min systerson. Northvolt är skyldiga oss 1,8 miljoner, och det är mer än hela vårt eget kapital.|그 애들 학교 다닐 때부터 알았어요. 하나는 제 조카고요. 노스볼트가 우리한테 180만을 빚졌는데, 그게 우리 자기자본 전부보다 많아요.
+Jesper|B2|Jag har pantsatt huset. Banken krävde säkerhet för checkkrediten i våras, och då verkade det inte särskilt riskabelt – Northvolt hade ju precis fått miljarder i nya lån.|전 집을 담보로 잡혔어요. 봄에 은행이 당좌대출 담보를 요구했는데, 그땐 별로 위험해 보이지 않았거든요. 노스볼트가 막 수십억짜리 새 대출을 받았을 때였으니까요.
+Elin|B1|Hur gammal är du, om jag får fråga?|실례지만 몇 살이세요?
+Jesper|A2|Trettioett. Vi har två barn. Jag har inte sett dem vakna sedan i oktober.|서른하나요. 애가 둘이에요. 10월부터 애들 깨어 있는 걸 못 봤어요.
+Tord|B2|Jesper har sex elektriker. Han startade firman 2020, när alla sa att Skellefteå skulle bli Sveriges nya Kiruna – fast med batterier i stället för malm.|예스페르는 전기 기사가 여섯이에요. 2020년에 회사를 차렸죠. 다들 셸레프테오가 스웨덴의 새 키루나가 될 거라고 할 때요. 광석 대신 배터리로요.
+Jonas|C1|Jag växte upp i Kiruna. Där vet man att en stad som byggs kring ett enda företag får leva med dess humör, i goda år som i dåliga.|전 키루나에서 자랐어요. 거기선 다들 알아요. 회사 하나를 중심으로 세워진 도시는 좋은 해든 나쁜 해든 그 회사 기분에 맞춰 살아야 한다는 걸.
+Pia|B2|Det visste vi också. Men när politiker, kommunen och bankerna säger att framtiden finns här – vem är man då att tacka nej till en order?|우리도 알았어요. 그런데 정치인이고 시청이고 은행이고 다들 미래가 여기 있다고 하는데, 내가 뭐라고 주문을 거절하겠어요?
+Elin|B1|Vad har ni fått för information från Northvolt sedan i torsdags?|지난 목요일 이후로 노스볼트에서 어떤 정보를 받으셨어요?
+Tord|B2|Ett mejl på engelska från en advokatbyrå i Texas. Vi ska anmäla våra fordringar till domstolen där och vänta. Leveranser efter ansökan ska betalas, skriver de. Det gamla får vi se.|텍사스의 법무법인에서 영어로 된 메일 한 통이요. 거기 법원에 채권을 신고하고 기다리래요. 신청 이후 납품분은 지급된다고 쓰여 있어요. 옛날 건, 두고 봐야죠.
+Jesper|A2|Jag kan inte ens läsa det ordentligt.|전 그것도 제대로 못 읽어요.
+Elin|B2|Jag kan hjälpa er med det. I princip står det att gamla fakturor fryses och att ni får vänta på en plan som kan ta månader. Skicka mejlet till mig.|그건 제가 도와드릴 수 있어요. 요컨대 옛날 송장은 동결되고, 몇 달이 걸릴 수도 있는 계획안을 기다려야 한다는 내용이에요. 그 메일 저한테 보내 주세요. (명함 뒷면에 메일 주소를 적어 건넨다)
+Tord|B1|Och nu till det ni egentligen kom för. Får jag prata med er två ensamma en stund?|이제 두 분이 정말 온 이유 얘기를 하죠. 잠깐 두 분하고만 얘기할 수 있을까요?
+Jonas|B1|Självklart. Det var därför vi kom.|물론이죠. 그러려고 왔어요. (작업장 구석의 유리 칸막이 사무실. 벽에 노스볼트 공장 준공식 사진과 직원 단체 사진)
+Tord|B2|Jag tänker inte ljuga för er. Banken sa upp vår checkkredit i går. På fredag ansöker vi om företagsrekonstruktion vid tingsrätten här i Skellefteå.|거짓말할 생각은 없어요. 어제 은행이 우리 당좌대출을 해지했어요. 금요일에 여기 셸레프테오 지방법원에 기업회생을 신청할 거예요.
+Elin|B2|Vad betyder en rekonstruktion i praktiken för de 28 miljoner ni är skyldiga oss?|회생 절차가 실제로 저희 2,800만에는 어떤 의미예요?
+Tord|C1|Att ni ska räkna med att få väldigt lite, och sent. Northvolt är skyldiga oss 41 miljoner, och de pengarna sitter fast i Texas. Jag kan be om ursäkt, men jag kan inte lova något – och jag vill inte att ni går härifrån och tror något annat.|아주 조금, 그것도 늦게 받을 거라고 생각하셔야 한다는 뜻이에요. 노스볼트가 우리한테 4,100만을 빚졌고, 그 돈은 텍사스에 묶여 있어요. 사과는 할 수 있지만 약속은 못 해요. 그리고 두 분이 여기서 나가면서 다른 걸 믿게 두고 싶지 않아요.
+Jonas|B2|Tack för att du säger det rakt ut. Det är fler än du som borde göra det.|솔직하게 말해 줘서 고마워요. 그래야 할 사람이 당신만은 아닐 텐데요.
+Tord|C1|Två av dem där ute har inte berättat för sina anställda än, och en har inte ens vågat berätta för sin bank. Jag förstår dem – men dåliga nyheter blir inte mindre av att man ruvar på dem, bara dyrare.|저 밖에 있는 사람 중 둘은 아직 직원들한테 말을 안 했어요. 한 명은 은행한테도 말할 엄두를 못 냈고요. 이해는 해요. 하지만 나쁜 소식은 품고 있는다고 작아지지 않아요. 비싸질 뿐이죠. (엘린이 노란 노트의 '70%'에 줄을 긋는다)
+Pia|B1|Förlåt att jag stör, Tord. Bara en sak: journalisten från Stockholm, han som var här i går – han frågade om Hallberg.|방해해서 미안해요, 토르드. 하나만요. 어제 왔던 스톡홀름 기자 있잖아요. 할베리에 대해 물었어요. (문틈으로 고개를 내민다)
+Jonas|A2|Vad hette han?|이름이 뭐였어요?
+Pia|B1|Falk. Från Stockholms-Kuriren. Han skrev ner allt.|팔크요. 스톡홀름스-쿠리렌. 전부 받아 적더라고요. (요나스와 엘린이 눈을 마주친다)
+# 장면 4 — 할셰, 본관 이사회실 — 임시 이사회, 12월 2일 월요일 오후 1시
+Greta|B1|Jag förklarar mötet öppnat. Vi har en enda punkt: Nordpress. Elin, varsågod.|개회를 선언합니다. 안건은 하나예요. 노르드프레스. 엘린, 시작하세요. (본관 이사회실. 벽에 역대 사장 초상화. 그레타는 휠체어에 앉아 상석에, 비르기타는 복도에서 기다린다. 이사 일곱 명이 모두 출석. 페테르는 창가 끝자리)
+Elin|C1|I fredags ansökte Nordpress om företagsrekonstruktion vid Skellefteå tingsrätt. Ledningen föreslår att vi skriver ned hela kundfordran, 22,9 miljoner exklusive moms, samt de 62 specialcylindrarna i lagret, 3,4 miljoner. Sammanlagt 26,3 miljoner, som belastar november.|지난 금요일 노르드프레스가 셸레프테오 지방법원에 기업회생을 신청했습니다. 경영진은 매출채권 전액, 부가세 제외 2,290만과 창고에 있는 특수 실린더 62개, 340만을 상각할 것을 제안합니다. 합계 2,630만이고, 11월 실적에 반영됩니다.
+Carl-Johan|B2|Hela? I underlaget från förra veckan fanns två alternativ, tjugofem och sjuttio procent.|전액이요? 지난주 자료엔 25%와 70%, 두 안이 있었잖아요.
+Jonas|C1|Tjugofem var mitt förslag, och jag drar tillbaka det. Jag har suttit i en verkstad i Skellefteå med trettio företagare som väntar på pengar som aldrig kommer, och jag har ingen lust att bli den trettioförste som låtsas att de är på väg.|25%는 제 제안이었고, 철회합니다. 셸레프테오의 한 작업장에서, 끝내 오지 않을 돈을 기다리는 사장 서른 명과 앉아 있다 왔습니다. 그 돈이 오고 있는 척하는 서른한 번째 사람이 될 생각은 없어요.
+Margit|C1|Får jag ställa revisorns fråga, eftersom han inte ställde den själv? Håkan Sandström godtog tjugofem procent. Varför vill ledningen gå längre än revisorn kräver?|감사인이 스스로 하지 않은 질문을 제가 대신 해도 될까요? 호칸 산드스트룀은 25%를 받아들였어요. 경영진은 왜 감사인이 요구하는 것보다 더 나가려는 거죠?
+Elin|C1|För att revisorn prövar om vår bedömning är rimlig, inte om den är riktig. När Nordpress själva säger att vi ska räkna med väldigt lite, och sent, finns det inget scenario kvar där fordran är värd det vi har bokfört. Kommer det in pengar senare tar vi upp dem som en intäkt – en glad överraskning, inte något vi har sopat under mattan.|감사인은 우리 판단이 합리적인지를 보지, 맞는지를 보지 않으니까요. 노르드프레스 스스로 아주 조금, 늦게 받을 거라 생각하라고 했어요. 그렇다면 채권이 장부 금액만큼의 가치가 있는 시나리오는 하나도 남지 않습니다. 나중에 돈이 들어오면 수익으로 잡겠습니다. 카펫 밑에 쓸어 넣은 무언가가 아니라, 반가운 깜짝 소식으로요.
+Torbjörn|B1|Vad betyder det för nyckeltalet vid årsskiftet?|연말 지표엔 어떤 영향이 있죠?
+Elin|B2|Det går från 3,17 till 3,39. Fortfarande under gränsen på 3,5, men med mindre marginal än jag skulle vilja. Mikael Stål fick siffrorna i fredags, samma dag som Nordpress ansökte.|3.17에서 3.39로 갑니다. 여전히 상한 3.5 아래지만, 제가 원하는 것보다 여유가 적어요. 미카엘 스톨은 지난 금요일, 노르드프레스가 신청한 그날 숫자를 받았습니다.
+Peter|B2|Ett bolag som förlorar 26 miljoner på en enda kund har en ledning som inte förstår kreditrisk. Det kommer aktieägarna att fråga om.|고객 하나 때문에 2,600만을 날리는 회사는 신용 리스크를 모르는 경영진을 둔 회사예요. 주주들이 그걸 물을 겁니다.
+Elin|C1|Det är en rimlig fråga, och en del av svaret finns i ramavtalet från mars 2022. Det skrev du under, samma år som du sa upp kreditförsäkringen för att spara 1,9 miljoner om året. Resten av svaret är mitt: jag satte Nordpress på bevakning i oktober, men jag borde ha krävt förskott. Det ansvaret tar jag.|합리적인 질문이에요. 그리고 답의 일부는 2022년 3월의 기본계약서에 있습니다. 그 계약서엔 당신이 서명했죠. 연 190만을 아끼려고 신용보험을 해지한 바로 그해에요. 나머지 답은 제 몫입니다. 10월에 노르드프레스를 감시 목록에 올렸지만, 선불을 요구했어야 했어요. 그 책임은 제가 집니다.
+Peter|B2|Jag förstår. Så nu är det mitt fel igen – väldigt bekvämt för en ledning som har haft ett år på sig.|알겠어요. 그러니까 또 내 탓이군요. 1년이나 시간이 있었던 경영진한텐 아주 편리하겠네요.
+Greta|A2|Peter. Låt henne prata klart.|페테르. 끝까지 말하게 둬.
+Lena|B1|Jag har en annan fråga. Fjorton av våra står vid Nordpress-cylindrarna. Vad händer med dem i januari?|저는 다른 걸 묻고 싶어요. 우리 사람 열넷이 노르드프레스 실린더 라인에 서 있어요. 그 사람들은 1월에 어떻게 되죠?
+Jonas|B2|Ingen av dem varslas. Varg 6 ökar takten från januari, och Kjell behöver precis de händerna i cylinderfabriken. Det har jag lovat skriftligt, och jag säger det till dem själv klockan tre.|아무도 감원 통보 안 받습니다. 바르그 6이 1월부터 생산 속도를 올리고, 셸은 실린더 공장에 바로 그 손들이 필요해요. 서면으로 약속했고, 3시에 제가 직접 말하겠습니다.
+Kent|B1|Vid sirenen? Innan pressmeddelandet går ut?|사이렌 울릴 때요? 보도자료 나가기 전에요?
+Jonas|B2|Klockan tre får personalen höra det i matsalen. Klockan fyra går pressmeddelandet ut, och samtidigt får alla aktieägare ett brev. Linus Falk har redan frågat om oss i Skellefteå – ingen här ska behöva läsa om det i Kuriren först.|3시에 직원들이 식당에서 먼저 듣습니다. 4시에 보도자료가 나가고, 같은 시각에 모든 주주에게 서한이 갑니다. 리누스 팔크가 이미 셸레프테오에서 우리에 대해 물었어요. 여기 누구도 쿠리렌에서 먼저 읽는 일은 없어야 합니다.
+Torbjörn|C1|Jag förstår principen, men det finns ett värde i att välja tidpunkt. Hade vi väntat till bokslutskommunikén i februari kunde vi ha presenterat nedskrivningen tillsammans med Nordvärns första leveranser och ett starkare fjärde kvartal.|원칙은 이해합니다. 하지만 시점을 고르는 데도 가치가 있어요. 2월 연간 실적 발표까지 기다렸다면, 상각을 Nordvärn 첫 납품, 더 나은 4분기 실적과 함께 발표할 수 있었을 겁니다.
+Elin|C1|Förtroende på kapitalmarknaden byggs av att man redovisar dåliga nyheter lika snabbt som goda. Om vi bara berättar när det passar oss kommer ingen att tro på oss när vi väl har goda nyheter.|자본시장의 신뢰는 나쁜 소식을 좋은 소식만큼 빨리 공시하는 데서 쌓여요. 우리한테 편할 때만 말한다면, 정작 좋은 소식이 생겼을 때 아무도 우릴 믿지 않을 겁니다.
+Carl-Johan|B2|Vi är inte börsnoterade, Elin. Vilken kapitalmarknad är det du pratar om?|우린 상장사가 아니에요, 엘린. 대체 어떤 자본시장 얘기를 하는 거죠?
+Elin|B2|Banken som har lånat ut 1,4 miljarder till oss, de 38 procent av aktierna som familjen inte äger och varje köpare som en dag kommer att sitta med våra siffror. Det är vår kapitalmarknad – och alla har gott minne.|우리한테 14억을 빌려준 은행, 가문이 갖고 있지 않은 38%의 주식, 그리고 언젠가 우리 숫자를 들여다보게 될 모든 인수 희망자요. 그게 우리 자본시장이에요. 그리고 다들 기억력이 좋죠.
+Greta|C1|1992 … skrev jag under en personlig borgen, eftersom banken inte längre trodde på våra siffror. Jag satte mitt hem i pant. Ge dem siffror som de kan tro på … så slipper nästa ordförande göra samma sak.|1992년에… 나는 개인 보증서에 서명했어요. 은행이 더는 우리 숫자를 믿지 않았으니까. 내 집을 담보로 잡혔죠. 그들이 믿을 수 있는 숫자를 줘요… 그래야 다음 의장은 같은 일을 안 해도 돼요. (천천히, 한 단어씩. 방 안이 조용해진다)
+Margit|B2|Jag yrkar bifall till ledningens förslag – och att Torbjörns synpunkt om tidpunkten förs till protokollet.|경영진 제안에 찬성을 제의합니다. 그리고 시점에 관한 토르비엔 이사의 의견을 의사록에 기재해 주세요.
+Greta|B1|Någon emot? … Peter avstår. Då är beslutet fattat.|반대하는 분? … 페테르는 기권. 그럼 의결됐습니다. (왼손으로 의사봉을 내려놓는다)
+Malin|B2|Malin Hedberg, Hallsjö Allehanda. Jag har ert pressmeddelande framför mig, och min fråga är enkel: är det här allt, eller kommer det fler nedskrivningar?|할셰 알레한다의 말린 헤드베리예요. 보도자료 지금 보고 있는데요, 질문은 간단해요. 이게 전부인가요, 아니면 상각이 더 나올까요? (오후 4시 7분, 사장실 앞 복도. 3시 사이렌 때 요나스는 식당에서 직원들에게 먼저 말했다. 질문 열한 개, 고성은 없었다)
+Jonas|C1|Det här är allt vi vet i dag. Skulle vi få veta mer kommer du att få höra det lika snabbt – det är hela poängen med att gå ut nu i stället för i februari.|오늘 저희가 아는 건 이게 전부예요. 뭔가 더 알게 되면 똑같이 빨리 듣게 되실 겁니다. 2월이 아니라 지금 발표하는 이유가 바로 그거예요.
+# 장면 5 — 스톡홀름행 저녁 열차, 같은 날 밤 7시 10분
+Elin|A2|Hej, det är jag. Sover hon?|여보세요, 나야. 마야 자? (할셰발 스톡홀름행 열차. 창밖은 새카맣다. 맞은편에서 요나스가 헤드폰을 끼고 노트북을 본다. 내일 쿵스홀멘 회의가 있고, 러브가 집에 있다)
+Daniel|A2|Nej. Hon vägrar. Hon vill visa dig något.|아니. 안 자겠대. 너한테 뭐 보여 주고 싶대.
+Maja|A2|Mamma! Jag har ritat en norrskenshäst!|엄마! 나 오로라 말 그렸어! (영상통화 화면에 크레용 그림이 너무 가까이 들이밀어진다)
+Elin|A2|Vad fin den är! Är den grön?|진짜 예쁘다! 초록색이야?
+Daniel|B1|Grön och lila. Jag läste om er på Allehandas sajt. Ni berättade allt, va?|초록이랑 보라. 알레한다 사이트에서 너희 기사 읽었어. 다 말했더라? (마야가 그림을 들고 뛰어가고, 다니엘 얼굴이 화면에 들어온다)
+Elin|B2|Allt vi vet. I Skellefteå träffade jag en kille på trettioett som inte har sett sina barn vakna sedan oktober, och han tror att han gör det för deras skull. Jag tänkte på dig hela vägen hem.|아는 건 전부. 셸레프테오에서 서른한 살짜리 사람을 만났어. 10월부터 애들 깨어 있는 걸 못 봤대. 그러면서 그게 애들을 위해서라고 믿고 있어. 돌아오는 내내 네 생각 했어.
+Daniel|B1|Jag har också varit orättvis. Ditt jobb är viktigt. Jag vill bara att Maja också får ha dig ibland.|나도 불공평했어. 네 일은 중요해. 그냥 마야도 가끔은 엄마랑 있었으면 하는 거야.
+Elin|B1|Från januari är torsdag och fredag lediga på riktigt. Åsa skriver under, och Mikael får ringa henne.|1월부터 목요일, 금요일은 진짜로 쉬어. 결재는 오사가 하고, 미카엘은 오사한테 전화하면 돼.
+Daniel|B1|Det tror jag på när jag ser det. Men jag vill gärna se det.|그건 보면 믿을게. 그래도 꼭 보고 싶다. (웃는다. 2주 만에 처음 보는 웃음이다)
+Jonas|B1|Elin. Mats har skickat ett mejl. Rubriken: "Carver Hydraulics: Flytta produktionen till Ohio – annars säger vi upp avtalet."|엘린. 마츠가 메일을 보냈어. 제목이… "카버 하이드롤릭스: 생산을 오하이오로 옮기든지, 아니면 계약 해지." (엘린이 통화를 끊자마자 요나스가 헤드폰을 벗고 노트북 화면을 돌린다. 열차가 어둠 속 작은 역을 지나친다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Hur mycket är de skyldiga oss?** | 우리한테 얼마를 빚졌죠? | *vara skyldig någon något* = 누구에게 무엇을 빚지다. 주어가 회사여도 구어에서는 복수 *de*로 받는 일이 많다(*Nordpress är skyldiga oss…*). 반대 방향은 *Vi är skyldiga dem…* |
+| `A2` | **Låt henne prata klart.** | 끝까지 말하게 둬. | *låta* + 목적어 + 동사원형 = ~가 …하게 두다. *prata klart* = 말을 끝까지 하다(*äta klart*, *läsa klart*처럼 *klart*가 '완료'를 더한다) |
+| `B1` | **Vi måste skriva ned fordran redan i det här kvartalet.** | 이번 분기에 매출채권을 상각해야 해요. | *skriva ned* = (장부가를) 낮추다, 상각하다. 명사는 *nedskrivning*. *fordran* = 채권(복수 *fordringar*). *redan* = 벌써, 미루지 않고 |
+| `B1` | **Det tror jag på när jag ser det.** | 그건 보면 믿을게. | 목적어 *det*을 문장 앞으로 빼서 V2 어순(*tror jag*). *tro på* = ~를 믿다. 다정한 회의를 표현하는 일상 관용구 |
+| `B2` | **Det är bättre att ta smällen nu än att låtsas att pengarna kommer.** | 돈이 올 것처럼 굴기보다 지금 충격을 받는 게 나아요. | *ta smällen* = 충격(타격)을 감수하다. *det är bättre att … än att …* 로 두 부정사를 비교. *låtsas* = ~인 척하다(형태는 -s로 끝나지만 능동 의미의 동사) |
+| `B2` | **Det är inte revisorns uppgift att gissa.** | 추측하는 건 감사인의 일이 아닙니다. | *det är (inte) någons uppgift att* + 부정사 = ~하는 것은 누구의 임무다(아니다). 책임 범위를 긋는 관청·전문가 화법. 3부의 질문을 예고하는 문장 |
+| `B2` | **Tack för att du säger det rakt ut.** | 솔직하게 말해 줘서 고마워요. | *tack för att* + 절 = ~해 줘서 고맙다. *rakt ut* = 돌려 말하지 않고 곧장. 비슷한 말 *säga som det är* |
+| `C1` | **Förtroende på kapitalmarknaden byggs av att man redovisar dåliga nyheter lika snabbt som goda.** | 자본시장의 신뢰는 나쁜 소식을 좋은 소식만큼 빨리 공시하는 데서 쌓여요. | s-수동태 *byggs av att* + 절 = ~하는 것으로 쌓인다. *redovisa* = 보고하다·공시하다(회계의 *redovisning*). *lika … som* = ~만큼 … |
+| `C1` | **Dåliga nyheter blir inte mindre av att man ruvar på dem, bara dyrare.** | 나쁜 소식은 품고 있는다고 작아지지 않아요. 비싸질 뿐이죠. | *ruva på något* = (알을 품듯) 무언가를 혼자 끌어안고 있다. *bli … av att* = ~함으로써 …해지다. 끝의 *bara dyrare*가 반전 |
+| `C1` | **Revisorn prövar om vår bedömning är rimlig, inte om den är riktig.** | 감사인은 우리 판단이 합리적인지를 보지, 맞는지를 보지 않아요. | *rimlig*(합리적인, 그럴듯한) ↔ *riktig*(맞는, 옳은)의 대조. *pröva om* = ~인지 검토하다. 감사의 '합리적 확신'의 한계를 한 문장에 담았다 |
+
+## 현안 메모
+- **노스볼트의 챕터 11** — 2016년 설립된 배터리 기업 노스볼트는 셸레프테오의 대형 공장 Northvolt Ett를 중심으로 유럽 배터리 산업의 기대주로 꼽혔다. 그러나 생산 수율 문제와 주문 감소 속에 2024년 9월 스웨덴에서 약 1,600명 감원과 Ett 증설 중단을 발표했고, 2024년 11월 21일 미국 텍사스 남부 연방파산법원에 챕터 11 회생 절차를 신청했다. 신청 당시 현금은 약 3,000만 달러(약 1주일 운영분)였고, 절차 중 운영을 위해 2억 4,500만 달러의 신규 자금(DIP 금융)을 확보했다. 이 화는 그 직후를 다룬다. 이후 회생은 실패해 노스볼트는 2025년 3월 스웨덴에서 파산을 신청했다.
+- **챕터 11과 스웨덴 기업회생** — 미국 챕터 11에서는 신청과 동시에 '자동 정지(automatic stay)'가 걸려 채권자가 기존 채권을 회수할 수 없고, 신청 이후의 거래는 운영비로 우선 변제된다. 기존 무담보 채권자는 법원에 채권을 신고하고 회생 계획을 기다려야 한다. 스웨덴의 기업회생(*företagsrekonstruktion*)은 지방법원(*tingsrätt*)이 회생관리인을 선임하고, 그동안 채권자의 강제집행을 막아 회사가 사업을 이어 가며 채무 조정을 시도하는 제도다(2022년 EU 지침에 맞춰 새 법으로 개편). 파산(*konkurs*)은 회사를 청산해 채권자에게 나누는 절차로, 둘은 전혀 다르다. 노르드프레스는 가상의 회사다.
+- **셸레프테오의 하청업체들** — 노스볼트에 납품하던 지역 중소기업들은 미국 법원의 영어 서류와 씨름하며 채권 신고를 해야 했고, 감원과 유동성 위기가 이어졌다. 한 대형 고객에 매출 대부분을 기대는 '공장 도시'의 구조적 위험은 베리슬라겐의 오랜 경험(bruksort)이나 키루나의 광산 도시 역사와 겹쳐 보인다. 이 화의 사장들과 숫자는 모두 가상이다.
+- **녹색 산업 붐에 대한 회의** — 노스볼트 위기는 노르보텐·베스테르보텐의 녹색 전환 대형 투자 전체에 대한 질문으로 번졌다. 자금 조달 비용, 아시아 경쟁, 정부 지원의 역할을 둘러싼 논쟁이 커졌고, 투자자들은 11화의 마리아 말처럼 '녹색' 옆에 '수익성'을 요구하기 시작했다.
+
+## 비즈니스 메모
+- **신용 리스크 노출 분석 — 고객 하나에 걸린 돈을 한 장에** — 엘린의 표는 네 줄이다. ① 매출채권 2,860만(부가세 포함, 그중 30일 초과 1,100만+) ② 그 고객 전용 재고·재공품 340만 ③ 2025년 수주잔고 4,800만(공헌이익 기준으로 계산) ④ '고객의 고객' 의존도 — 노르드프레스 매출의 70%가 노스볼트. 경보 신호는 미리 있었다. 결제일이 30일에서 70일로 늘었고, 최종 고객이 대규모 감원을 발표했으며, 회사는 2022년에 신용보험을 해지한 상태였다. 감시 목록과 한도 관리만으로는 이미 나간 물건을 지킬 수 없다. 신호가 켜졌을 때 선불·보증·신용보험 같은 '다음 출하의 조건'을 바꾸는 것이 실무의 핵심이다.
+- **손상차손 판단 — '받아 줄 숫자'와 '맞는 숫자'** — 기대 회수액은 시나리오별 회수율 × 확률의 합이다(100%×0.2 + 25%×0.4 + 0%×0.4 = 30%). 감사인은 경영진 추정이 '합리적 범위' 안에 있는지를 검토하므로 25%도 통과할 수 있지만, 채무자가 직접 "거의 못 받는다"고 말한 순간 회수 시나리오의 근거가 사라진다. 그래서 엘린은 100% 상각을 택하고, 나중에 회수되면 수익으로 잡는다. 부가세는 손실이 '추정(befarad)'일 때가 아니라 회생·파산 등으로 '확정(konstaterad)'됐을 때 돌려받을 수 있으므로, 손익 영향은 부가세를 뺀 금액(2,290만 + 재고 340만 = 2,630만)으로 계산한다. 약정 지표는 3.17에서 3.39로 — 위반은 아니지만, 다음 충격을 흡수할 여유는 그만큼 줄었다.
+
+## 다음 화 예고 — Tullarna
+**2부 13화.** 2025년 2월. 카버 하이드롤릭스의 메일은 엄포가 아니었다. 오하이오에서 화상회의에 나타난 톰 카버는 영어와 스웨덴어를 섞어 가며 최후통첩을 되풀이한다. 관세를 피하려면 미국에서 만들라는 것이다. 엘린은 관세율별로 세 가지 시나리오를 계산한다. "Om tullen blir 25 procent förlorar vi hela marginalen." 노조 사무실에서 레나는 화를 숨기지 않는다. "Det är inte rättvist." 요나스는 조립과 단조를 나누는 절충안을 들고 두 번째 화상회의에 들어간다. 그리고 쇠데르의 부엌에서, 러브가 처음으로 아버지의 일을 묻는다.
