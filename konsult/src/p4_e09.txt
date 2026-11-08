@@ -1,0 +1,162 @@
+@title 4부 9화 — Almedalen
+@subtitle (알메달렌)
+@meta 날짜|2026년 6월 22일 월요일 ~ 24일 수요일 (알메달렌 주간 중)
+@meta 장소|고틀란드 비스뷔 — 항구에서 스토라 토리에트까지 (22일 오전) → 항구 앞 노천 바 (22일 오후 4시) → 성벽 밖 그로보, 당원의 연립주택 부엌 (23일 화요일 아침) → 스토라 토리에트 옆 카페 안뜰, 즉석 세미나 (23일 저녁 7시) → 알메달렌 공원 가장자리 잔디밭 (24일 수요일 아침 8시 반)
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 44, 수석 전략가) · **Elin Bergqvist** (엘린 베리크비스트, 37, 정책·예산·리스크) · **Sofia Mäkinen** (소피아 매키넨, 33, 미디어 훈련·연설문) · **Annika Strand** (안니카 스트란드, 49, 당 대표) · **Henrik Rosenstam** (헨리크 로센스탐, 48, Rosenstam Advisory 대표, 이제 '반대편' 컨설턴트) · **Kasia Nowak** (카타지나 '카샤' 노바크, 24, 청년 조직 자원봉사자, 외레브로 간호조무사 과정 — 가상 인물) · **Fredrik Almlöf** (프레드리크 알믈뢰프, 58, 에너지 업계 단체 Nordisk Kraftallians 대표 — 가상 인물·가상 단체) · **Malin Persson** (말린 페르손, 41, 회슬레홀름 빵집 주인, 스코네 지구 대의원) · **Linus Falk** (리누스 팔크, 41, *Stockholms-Kuriren* 기자)
+@meta 이번 화의 도구|어젠다 세팅 (Dagordningsmakt) — "남의 무대 대신 우리 무대". 엘린의 위험 계산(확률 × 결과)으로 두 개의 나쁜 답(가면 사진, 안 가면 '산업계를 피하는 당')을 확인한 뒤, 대화가 열리는 장소와 조건을 우리가 정해 세 번째 답을 만든다
+@meta 스웨덴 현안|알메달렌 주간(Almedalsveckan)과 로비 문화 — 정당 대표 연설 옆에서 기업·단체·로비스트가 수천 개의 행사를 여는 '정치의 박람회' · 남부 전기요금과 새 원전 건설의 위험 분담 논쟁
+@intro **지난 이야기** — 5월 25일 새벽, 안니카가 교외 주민들을 깔보는 듯한 42초짜리 가짜 음성이 퍼졌다. 사과 영상의 목소리를 학습한 딥페이크였다. 팀은 위기 대응 매트릭스로 '입을 열 문턱'을 미리 정해 두고 기다렸고, 심리방위청 분석관은 자기 기관이 할 수 없는 일을 하나하나 꼽아 주었다. 흐름을 바꾼 건 링케뷔의 마흐무드와 텐스타의 라이야가 스스로 찍어 올린 영상이었다. "그 목소리는 그 사람이 아니에요." 그리고 수요일 밤, 아미르는 요나스에게만 말했다. 네트워크에서 가장 오래된 계정의 첫 팔로워들 가운데 Rosenstam Advisory의 회사 계정이 있다고.
+@intro 한 달 뒤. 안니카는 하지 전 주에 약속대로 카메라 없이 링케뷔에 가서 마흐무드에게 귤값을 치렀다. 5월 여론조사는 3.0%. 하지가 지나자 엘린과 다니엘은 '풀이 과정이 보이게' 다시 계산했고, 알메달렌에는 사흘이 배정되었다. 6월 22일 월요일, 브로뷔가르나는 처음으로 알메달렌 주간의 비스뷔에 내린다. 원내 정당이 아니니 정당의 날도 공원 무대도 없다. 예산은 배삯을 포함해 6만 크로나. 그리고 요나스는 그 회사 이름을 아직 아무에게도 — 엘린에게도 — 말하지 않았다.
+# 장면 1 — 고틀란드 비스뷔 항구 → 스토라 토리에트, 6월 22일 월요일 오전 10시 40분
+Sofia|A2|Där är den! Ringmuren. Har ni varit i Visby förut?|저기 있어요! 성벽이요. 다들 비스뷔 와 본 적 있어요? (6월 22일 월요일 오전 10시 40분. 고틀란드 비스뷔 항구. 뉘네스함에서 세 시간 남짓 배를 타고 온 팀이 부두로 내린다. 자전거 대여소, 로고가 찍힌 천 가방, 목에 건 이름표들. 그 너머로 중세 성벽이 도시를 감싸고 있다)
+Annika|A2|En gång, på semester. Det regnade hela veckan.|한 번요, 휴가로. 일주일 내내 비가 왔어요.
+Jonas|B1|Jag var här på ett träningsläger när jag var sexton. Vi sprang runt muren varje morgon klockan sex.|저는 열여섯 살 때 전지훈련으로 왔었어요. 매일 아침 6시에 성벽을 따라 한 바퀴씩 뛰었죠.
+Elin|B1|Jag har varit här tre gånger, alla med Norrström. Då betalade kunden hotellet.|저는 세 번 와 봤어요. 전부 노르스트룀 시절에요. 그땐 고객이 호텔비를 냈죠.
+Sofia|B2|Och den här gången bor vi gratis i en medlems radhus i Gråbo, utanför muren – tre sovrum, en katt och en lapp om att vattna tomaterna.|이번엔 성벽 밖 그로보에 있는 당원 연립주택에서 공짜로 지내요. 침실 셋, 고양이 한 마리, 그리고 토마토에 물 주라는 쪽지 한 장.
+Elin|B2|Ulf godkände sextiotusen kronor för hela veckan, färjan inräknad. Han kallade det ändå slöseri.|울프 씨가 배삯 포함해서 일주일 전체에 6만 크로나를 승인했어요. 그러면서도 낭비라고 하더라고요.
+Jonas|B1|Det är billigare än en enda helsida i en tidning. Och här kommer journalisterna till oss, inte tvärtom.|신문 전면 광고 한 번보다 싸잖아요. 그리고 여기선 기자들이 우리한테 와요. 반대가 아니라.
+Annika|A2|Titta. Alla har en tygpåse.|저것 봐요. 다들 천 가방을 들고 있어요.
+Sofia|B1|Det är Almedalens uniform: tygpåse, namnbricka och en kaffe som någon annan har betalat.|그게 알메달렌 교복이에요. 천 가방, 이름표, 그리고 남이 계산한 커피 한 잔.
+Kasia|A2|Hej! Ursäkta, är ni från Brobyggarna? Jag heter Kasia och jag är volontär. Nora skickade mig.|안녕하세요! 실례지만 브로뷔가르나 분들이세요? 저는 카샤고, 자원봉사자예요. 노라 씨가 보냈어요. (노란 조끼를 입은 젊은 여자가 손을 흔들며 달려온다. 카타지나 '카샤' 노바크, 24)
+Annika|A2|Hej, Kasia! Vad roligt. Var kommer du ifrån?|안녕, 카샤! 반가워. 어디서 왔어?
+Kasia|B1|Från Gdańsk från början, men nu bor jag i Örebro. Jag pluggar till undersköterska på komvux, så jag har hört dig prata om nattskiften.|원래는 그단스크에서요. 지금은 외레브로에 살아요. 성인교육원에서 간호조무사 공부를 하고 있어서, 대표님이 야간 근무 얘기하시는 거 들었어요.
+Annika|C1|Då vet du mer om nattskiften än de flesta som kommer att tala om vården här i veckan – och de är fler än man skulle kunna tro.|그럼 이번 주에 여기서 의료를 두고 떠들 사람들 대부분보다 네가 야간 근무를 더 잘 알겠네. 그리고 그런 사람들, 생각보다 훨씬 많아.
+Kasia|A2|Vilken seminarium går du på i dag?|오늘 어느 세미나 가요? (소피아에게. 휴대폰의 알메달렌 일정 앱을 내민다)
+Sofia|A2|Vilket seminarium går du på? Det heter ett seminarium. Men bra fråga!|"Vilket seminarium går du på?" 세미나는 ett-명사야. 그래도 좋은 질문이야!
+Kasia|B1|Ett seminarium. Ett! Jag tror att alla viktiga ord på svenska är ett-ord: ett parti, ett möte, ett beslut.|Ett seminarium. Ett! 스웨덴어에서 중요한 단어는 다 ett-명사인 것 같아요. ett parti, ett möte, ett beslut.
+Sofia|B1|Men det heter en budget, en debatt och en middag. Det finns ingen logik, tyvärr. Man får lära sig dem ett ord i taget.|근데 en budget, en debatt, en middag이야. 안타깝게도 논리는 없어. 한 단어씩 외우는 수밖에.
+Elin|B2|Apropå seminarier: appen listar flera tusen evenemang den här veckan. Vi har inga egna och ingen partidag, eftersom vi inte sitter i riksdagen.|세미나 얘기가 나와서 말인데, 앱에 이번 주 행사가 몇천 개나 올라와 있어요. 우린 자체 행사도 없고 정당의 날도 없어요. 원내 정당이 아니니까요.
+Jonas|B2|Därför ska vi inte försöka synas överallt. Vi väljer en fråga och en kväll, och resten av tiden lyssnar vi.|그러니까 모든 데 얼굴을 내밀려고 하면 안 돼요. 질문 하나, 저녁 하나를 고르고, 나머지 시간엔 듣는 거예요.
+Annika|B1|Kan vi börja med att äta? Jag har inte ätit något sedan Nynäshamn.|일단 뭘 좀 먹으면 안 될까요? 뉘네스함 이후로 아무것도 못 먹었어요.
+Kasia|A2|Saffranspannkaka! Med salmbärssylt och grädde. Det säger alla.|사프란 팬케이크요! 살름베르 잼이랑 크림 얹어서요. 다들 그렇게 말해요. (고틀란드 명물. 사프란을 넣어 오븐에 구운 쌀 팬케이크에 듀베리 잼과 휘핑크림)
+Sofia|B2|Okej, femton minuter vid Stora torget. Sedan har Annika tre möten, en radiointervju och en panel om vårdpersonal klockan två – på någon annans seminarium. Ett seminarium, Kasia.|좋아요, 스토라 토리에트에서 15분. 그다음 안니카 씨는 미팅 세 개, 라디오 인터뷰 하나, 그리고 2시에 돌봄 인력 패널이 있어요. 남의 세미나에서요. Ett seminarium이야, 카샤.
+Jonas|C1|Det här är en marknadsplats där alla säljer samma vara: uppmärksamhet. Den som försöker vara med på allt blir till slut bara en namnbricka bland tusen andra.|여긴 모두가 같은 물건을 파는 시장이에요. 관심이라는 물건이요. 모든 데 끼려는 사람은 결국 이름표 천 개 중 하나가 될 뿐이죠.
+Elin|B1|Daniel och jag räknade om efter midsommar, med uträkning. Jag stannar till onsdag kväll och tar första färjan hem på torsdag.|다니엘이랑 하지 지나고 다시 계산했어. 풀이 과정까지 써서. 수요일 저녁까지 있다가 목요일 첫 배로 집에 가. (요나스에게 작게. 노란 노트 맨 뒷장에 다니엘의 글씨로 쓴 '계산서'가 끼워져 있다)
+Annika|C1|Jag har sett Almedalen på tv i tjugo år och alltid trott att det var politikens finrum. På nära håll liknar det mer en mässa där ingen har stängt sin monter på en vecka.|20년 동안 TV로 알메달렌을 보면서 늘 정치의 응접실이라고 생각했어요. 가까이서 보니 일주일째 아무도 부스를 닫지 않은 박람회에 더 가깝네요.
+# 장면 2 — 비스뷔 항구 앞 노천 바, 같은 날 오후 4시
+Henrik|B1|Jonas Ekholm med tygpåse. Jag trodde aldrig att jag skulle få se den dagen.|천 가방 든 요나스 에크홀름이라. 그런 날을 보게 될 줄은 몰랐네. (오후 4시. 항구 앞 노천 바. 리넨 셔츠, 머리 위로 올린 선글라스, 로제 와인 잔. 헨리크 로센스탐, 48. 요나스가 걸음을 멈춘다)
+Jonas|A2|Henrik. Sedan i höstas, va?|헨리크. 작년 가을 이후 처음이지?
+Henrik|B2|Sedan du och Elin lärde er läsa bilagor. Sätt dig. Rosé? Den är gratis – en bank bjuder, tror jag, eller ett försäkringsbolag. Man slutar fråga efter första dagen.|너랑 엘린이 부록 읽는 법을 배운 이후로. 앉아. 로제? 공짜야. 은행이 내는 것 같던데, 아니면 보험사던가. 첫날 지나면 묻지도 않게 돼.
+Jonas|B1|Jag tar vatten, tack. Vem jobbar du för den här veckan?|난 물 마실게. 이번 주엔 누구 일 해?
+Henrik|B2|Rosenstam Advisory har ett par uppdragsgivare på andra sidan. Mina klienter föredrar diskretion – det borde en granskare kunna uppskatta.|Rosenstam Advisory는 반대편에 고객이 몇 있어. 내 고객들은 조용한 걸 좋아하거든. 감사인이라면 그 정도는 이해하겠지. (회사 이름이 나오자 요나스의 손이 주머니 속 휴대폰으로 간다. 아미르가 저장해 둔 스크린숏. 요나스는 아직 아무에게도 말하지 않았다)
+Jonas|B2|"Andra sidan." Det är ett intressant uttryck från någon som alltid har sagt att det bara finns kunder.|'반대편'이라. 세상엔 고객밖에 없다고 늘 말하던 사람치곤 흥미로운 표현이네.
+Henrik|C1|Det finns fortfarande bara kunder. Skillnaden är att kunderna i politiken betalar med något som är dyrare än pengar, nämligen tid som aldrig kommer tillbaka. Hur många veckor har ni kvar nu?|여전히 고객밖에 없어. 다른 점은, 정치에선 고객이 돈보다 비싼 걸로 값을 치른다는 거지. 다시는 돌아오지 않는 시간으로. 너희 이제 몇 주 남았지?
+Jonas|B2|Knappt tolv. Och vi låg på tre procent i den senaste mätningen, men det vet du redan. Vad vill du, Henrik?|열두 주 조금 못 돼. 그리고 지난 조사에서 3%였어. 근데 그건 이미 알잖아. 원하는 게 뭐야, 헨리크?
+Henrik|B2|Jag såg hur ni hanterade ljudfilen i maj. Snyggt. Grannarna, de tjugofyra sekunderna på trappan. Någon hos er har förstått hur det här fungerar.|5월에 너희가 그 음성 파일 처리하는 거 봤어. 깔끔하더라. 이웃들, 계단 앞 24초. 너희 쪽에 이게 어떻게 돌아가는지 아는 사람이 있더군.
+Jonas|C1|Det är intressant att du följde det så noga. De flesta konsulter jag känner skulle inte ens slösa en blick på ett parti som ligger under spärren.|그걸 그렇게 꼼꼼히 지켜봤다니 흥미롭네. 내가 아는 컨설턴트들은 대부분 기준선 아래 정당엔 눈길 한 번 아까워하거든. (헨리크의 얼굴을 본다. 헨리크는 잔만 천천히 돌린다)
+Henrik|C1|Jag följer allt som kan avgöra vem som får bilda regering. Ett parti på fyra komma noll kan väga tyngre än ett på tjugo, om det hamnar på rätt ställe. Det är inte sentimentalitet, Jonas. Det är aritmetik.|누가 정부를 꾸리게 될지 좌우할 수 있는 건 다 지켜봐. 4.0%짜리 정당도 제자리에만 떨어지면 20%짜리보다 무거울 수 있어. 감상이 아니야, 요나스. 산수지.
+Jonas|C1|Så det är av ren aritmetik som du sitter här vid hamnen med ett glas rosé och väntar på att jag ska gå förbi.|그러니까 순전히 산수 때문에 항구에 로제 한 잔 놓고 앉아서 내가 지나가길 기다리고 있었다는 거네.
+Henrik|B2|Jag väntar inte på någon. Men när du ändå är här: Nordisk Kraftallians har en middag i morgon kväll. Tio personer, ett gammalt packhus på Strandgatan, bra fisk. De skulle gärna träffa Annika.|난 누굴 기다리지 않아. 근데 기왕 왔으니 말인데, 노르딕 크라프트알리안스가 내일 저녁에 만찬을 해. 열 명, 스트란드가탄의 오래된 창고 건물, 생선 요리가 좋아. 안니카를 꼭 만나고 싶어 하더라. (가상의 에너지 업계 단체)
+Jonas|B2|Kraftalliansen. Det är kärnkraftsbolagen och några av de stora industrierna, eller hur? Vad vill de prata om?|크라프트알리안스. 원자력 회사들이랑 대형 산업체 몇 곳이지? 무슨 얘길 하고 싶은데?
+Henrik|B2|Planerbar kraft, elpriserna i södra Sverige, tillståndsprocesser. Allt det som ert parti har tre fina meningar om men ingen plan för. Se det som en win-win, Jonas – två timmar, en quick win.|계획 가능한 전력, 남부 스웨덴 전기요금, 인허가 절차. 너희 당이 근사한 문장 세 개는 있는데 계획은 없는 그 모든 것. 윈윈이라고 생각해, 요나스. 두 시간, 퀵 윈 하나.
+Jonas|C1|Du har sålt quick wins till mig i åratal, Henrik. Varje gång har någon annan fått betala notan efteråt – oftast någon som inte ens satt vid bordet.|넌 몇 년 동안 나한테 퀵 윈을 팔았어, 헨리크. 그리고 매번 나중에 다른 누군가가 청구서를 받았지. 대개는 그 테이블에 앉아 있지도 않았던 사람이.
+Henrik|C1|Och varje gång har du låtsats att du inte behöver näringslivet. Ett parti som vill in i riksdagen kan inte bara prata med undersköterskor och renskötare. Förr eller senare måste ni prata med dem som faktiskt bygger kraftverken.|그리고 넌 매번 재계 따윈 필요 없는 척했지. 의회에 들어가려는 정당이 간호조무사랑 순록 목축인하고만 얘기할 순 없어. 언젠가는 실제로 발전소를 짓는 사람들하고 얘기해야 해.
+Jonas|B2|Vi pratar med alla. Frågan är bara var, och vem som får lyssna.|우린 모두와 얘기해. 문제는 어디서, 그리고 누가 들을 수 있느냐지.
+Henrik|B2|Fråga Annika. Om jag har förstått saken rätt är det hon som bestämmer – och du som får förklara det efteråt.|안니카한테 물어봐. 내가 제대로 이해했다면 결정은 그 사람이 하고, 설명은 나중에 네가 하는 거잖아.
+Annika|A2|Vad är det jag bestämmer?|제가 뭘 결정하는데요? (안니카가 사프란 팬케이크 종이 접시를 들고 다가온다. 몇 걸음 뒤에 소피아와 카샤)
+Henrik|B1|Annika Strand. Henrik Rosenstam. Jag har hört mycket om dig – mest bra saker, faktiskt.|안니카 스트란드 대표님. 헨리크 로센스탐입니다. 말씀 많이 들었어요. 대부분 좋은 얘기였어요, 사실은.
+Annika|B1|Faktiskt? Det ordet har jag lärt mig att vara försiktig med.|'사실은'요? 그 단어는 조심하는 법을 배웠어요. (토론 때의 "faktiskt", 그리고 딥페이크가 흉내 낸 그 "faktiskt")
+Henrik|B2|Klokt. Här är inbjudan. I morgon klockan åtta. Inga journalister, ingen agenda – bara ett samtal mellan vuxna människor.|현명하시네요. 여기 초대장이에요. 내일 8시. 기자 없고, 안건 없고, 그냥 어른들끼리의 대화예요. (두꺼운 크림색 카드를 내민다)
+Annika|B1|Tack. Ingen har bjudit oss på något i Visby förut – förutom gratis kaffe.|감사해요. 비스뷔에서 저희한테 뭘 대접하겠다는 분은 처음이에요. 공짜 커피 빼고요.
+Henrik|C1|Det är just det som är poängen. När ni väl har passerat spärren kommer alla att vilja bjuda er. Då kan det vara bra att ha suttit vid ett sådant bord en gång innan det gäller på riktigt.|바로 그게 요점이에요. 일단 기준선을 넘으면 다들 대표님을 초대하려 할 거예요. 그땐 진짜 판이 벌어지기 전에 그런 테이블에 한 번쯤 앉아 본 게 도움이 될 겁니다.
+Jonas|B1|Vi hör av oss i morgon förmiddag.|내일 오전에 연락할게.
+Henrik|C1|Gör det. Men låt inte din strateg bestämma åt dig, Annika. Han har en tendens att förvandla varje middag till en hockeymatch.|그래. 그런데 안니카 씨, 전략가가 대신 결정하게 두진 마세요. 이 사람은 모든 저녁 식사를 하키 경기로 만드는 버릇이 있거든요.
+Annika|B2|Jonas gör sitt jobb. Men jag läser inbjudan själv, och sedan bestämmer jag.|요나스 씨는 자기 일을 하는 거예요. 하지만 초대장은 제가 직접 읽고, 결정도 제가 해요.
+Henrik|A2|Självklart. Trevlig kväll.|물론이죠. 좋은 저녁 되세요. (잔을 비우고 일어나, 세워 둔 자전거들 사이로 사라진다)
+Jonas|C1|Han erbjöd dig inte en middag, Annika. Han erbjöd dig ett rum – och den som äger rummet äger också berättelsen om vad som sades där.|저 사람이 제안한 건 저녁 식사가 아니에요, 안니카 씨. 방이에요. 그리고 방을 가진 사람이 거기서 무슨 말이 오갔는지에 대한 이야기까지 가져요.
+# 장면 3 — 성벽 밖 그로보, 당원의 연립주택 부엌, 6월 23일 화요일 아침 7시 반
+Elin|B1|Jag har läst inbjudan tre gånger nu. Det här är ingen vanlig middag.|초대장을 세 번 읽었어요. 이건 평범한 저녁 식사가 아니에요. (6월 23일 화요일 아침 7시 반. 그로보, 당원의 연립주택 부엌. 식탁 위에 크림색 카드, 노란 노트, 커피 네 잔. 고양이가 창턱의 토마토 화분 옆에 누워 있다)
+Annika|B2|Varför inte? Det står ju bara "middag och samtal", och Henrik lovade att det inte skulle vara några journalister där.|왜요? '만찬과 대화'라고만 써 있잖아요. 헨리크 씨도 기자는 없을 거라고 약속했고요.
+Elin|B2|Vänd på kortet. Värd är Nordisk Kraftallians, men kommunikationen sköts av en pr-byrå som heter Kustlinje. Jag har gått igenom deras konton från förra årets Almedalen.|카드 뒤집어 보세요. 주최는 노르딕 크라프트알리안스인데, 홍보는 쿠스트리녜라는 PR 회사가 맡아요. 작년 알메달렌 때 그 회사 계정들을 다 훑어봤어요. (가상의 PR 회사)
+Sofia|B1|Och vad lade de upp förra året?|그래서 작년엔 뭘 올렸어요?
+Elin|B2|Samma middag, samma packhus. Morgonen efter kom tolv bilder, en på varje gäst, med namn och parti i bildtexten. Ingen av politikerna verkar ha vetat om det i förväg.|같은 만찬, 같은 창고 건물. 다음 날 아침에 사진이 열두 장 올라왔어. 손님 한 명당 한 장씩, 사진 설명엔 이름이랑 정당까지. 정치인들은 아무도 미리 몰랐던 것 같고.
+Jonas|C1|Så fotografen är redan bokad, och bildtexterna är förmodligen skrivna innan förrätten ens har serverats.|그러니까 사진사는 벌써 예약돼 있고, 사진 설명은 아마 전채가 나오기도 전에 다 써 놨겠네.
+Elin|B2|Och gästlistan. Utöver kraftbolagen sitter där en byggherre, Rikard Hellsing från Hellsing Bygg. Han vill bygga industriområden nära nya kraftverk och behöver ändrade tillståndsregler.|그리고 손님 명단. 전력 회사들 말고 건설 개발업자도 한 명 있어. 헬싱 뷔그의 리카르드 헬싱. 새 발전소 근처에 산업 단지를 짓고 싶어 하고, 그러려면 인허가 규정이 바뀌어야 해. (가상 인물·가상 회사. 엘린이 노란 노트에 이름을 적는다)
+Annika|B1|Men jag har ju inte lovat dem någonting. Kan man inte bara äta och lyssna?|그래도 저는 그 사람들한테 아무것도 약속 안 했잖아요. 그냥 먹고 듣기만 하면 안 돼요?
+Elin|C1|Jo, men bilden frågar inte vad du sa. Den visar bara vem du satt bredvid, och i en valrörelse räcker det för att någon annan ska skriva resten av berättelsen åt dig.|되죠. 그런데 사진은 대표님이 무슨 말을 했는지 묻지 않아요. 누구 옆에 앉았는지만 보여 주죠. 그리고 선거철엔 그걸로 충분해요. 나머지 이야기는 다른 누군가가 대신 써 주니까요.
+Sofia|B1|Tänk på rubriken: "Brobyggarna – lobbyisternas nya bro." Den skriver sig själv.|헤드라인을 생각해 보세요. '브로뷔가르나 — 로비스트들의 새 다리.' 저절로 써지잖아요.
+Annika|A2|Usch. Den är faktiskt bra.|으. 그거 진짜 잘 지었네요.
+Elin|B2|Jag räknar som jag alltid gör: sannolikhet gånger konsekvens. Sannolikheten att det tas en bild är nästan hundra procent. Konsekvensen beror på vem som sprider den, och när.|늘 하던 대로 계산해 봤어요. 확률 곱하기 결과. 사진이 찍힐 확률은 거의 100%예요. 결과는 누가, 언제 그걸 퍼뜨리느냐에 달렸고요.
+Jonas|B1|Och i värsta fall? Vad händer då?|최악의 경우엔? 그럼 어떻게 되는데?
+Elin|B2|En bild från fel middag kan förstöra ett halvårs arbete. Allt vi har sagt om att det ska fungera för vanligt folk – borta på en morgon.|잘못된 저녁 자리 사진 한 장이 반년의 일을 망칠 수 있어. 평범한 사람들한테 제대로 돌아가게 하겠다고 한 말 전부, 하루아침에 날아가.
+Annika|B2|Men om vi tackar nej ser det ut som att vi är rädda för industrin. Henrik sa ju att vi måste prata med dem som bygger kraftverken.|그렇지만 거절하면 우리가 산업계를 겁내는 것처럼 보이잖아요. 헨리크 씨 말대로 발전소 짓는 사람들하고도 얘기는 해야 하고요.
+Elin|B2|Det finns en sak till. Om någon annan bjuder partiledningen på en dyr middag kan det i värsta fall räknas som ett bidrag som ska redovisas. Den diskussionen vill jag inte ha med Ulf i augusti.|하나 더 있어요. 다른 누군가가 당 지도부한테 비싼 저녁을 대접하면, 최악의 경우 신고해야 하는 기부로 볼 수도 있어요. 8월에 울프 씨랑 그런 논쟁은 하고 싶지 않아요.
+Sofia|B1|Så vi kan inte gå. Men vi kan inte heller säga nej.|그러니까 갈 수도 없고, 거절할 수도 없네요.
+Jonas|C1|Det är precis där Henrik vill ha oss: mellan två dåliga svar. Men det finns ett tredje. Vi säger ja till samtalet och nej till rummet.|헨리크가 우리를 두고 싶어 하는 데가 바로 거기예요. 나쁜 답 두 개 사이. 하지만 세 번째 답이 있어요. 대화엔 '예', 방엔 '아니오'라고 하는 거예요.
+Annika|B1|Vad menar du? Att vi bjuder in dem i stället?|무슨 뜻이에요? 우리가 대신 그 사람들을 초대하자는 거예요?
+Jonas|B2|Precis. Vi ordnar ett eget seminarium i kväll klockan sju, en timme före deras middag. Öppet för alla, med journalister, och vi bjuder in Kraftalliansen till panelen. Det kallas dagordningsmakt: vi bestämmer var samtalet förs.|바로 그거예요. 오늘 저녁 7시, 그쪽 만찬 한 시간 전에 우리 세미나를 열어요. 누구나 올 수 있고 기자도 오고, 크라프트알리안스를 패널로 초대하는 거죠. 이걸 의제 설정력이라고 해요. 대화가 어디서 열릴지를 우리가 정하는 거예요.
+Sofia|B2|Det är omöjligt. Programmet stängde för flera veckor sedan, och varenda tält i stan är bokat.|그건 불가능해요. 공식 일정 등록은 몇 주 전에 마감됐고, 시내 텐트는 하나도 빠짐없이 예약돼 있어요.
+Jonas|B1|Inte varenda gård. Kasia säger att caféet vid Stora torget har en innergård som står tom på kvällarna.|안뜰까지 다 찬 건 아니야. 카샤가 그러는데 스토라 토리에트 옆 카페에 저녁마다 비어 있는 안뜰이 있대.
+Elin|B2|Om de tackar ja får vi samtalet i ett öppet rum. Om de tackar nej har de själva visat vilket rum de föredrar. Båda utfallen kan vi leva med.|그쪽이 수락하면 열린 공간에서 대화하는 거고, 거절하면 자기들이 어떤 방을 더 좋아하는지 스스로 보여 준 거죠. 어느 쪽이든 감당할 수 있어요.
+Annika|C1|Och om Henrik frågar varför jag inte kom, svarar jag honom själv: jag äter gärna med vem som helst, men jag tänker inte föra samtal om folks elräkningar där väljarna inte får höra vad som sägs.|그리고 헨리크 씨가 왜 안 왔냐고 물으면 제가 직접 대답할게요. 누구하고든 기꺼이 밥은 먹겠지만, 사람들 전기요금에 관한 대화를 유권자들이 들을 수 없는 데서 하진 않겠다고요.
+Sofia|A2|Okej. Jag gör en affisch. Kasia får dela ut den.|알겠어요. 포스터 만들게요. 카샤가 나눠 주면 되겠네요.
+# 장면 4 — 스토라 토리에트 옆 카페 안뜰, 즉석 세미나 'Vem betalar för elen?', 화요일 저녁 7시
+Kasia|A2|Sofia! Det kommer folk. Jag har räknat till åttiotvå.|소피아 씨! 사람들이 와요. 여든둘까지 셌어요. (저녁 7시. 카페 안뜰. 빌려 온 의자 예순 개, 그 뒤로 서 있는 사람들. 손으로 쓴 포스터: 'VEM BETALAR FÖR ELEN? Öppet för alla. Kaffe 0 kr.' 오전 11시에 안니카가 헨리크의 초대에 공개 답장을 올린 지 여덟 시간)
+Sofia|B1|Och vi har sextio stolar. Det är det bästa problemet jag har haft på hela året.|그리고 의자는 예순 개. 올해 들어 내가 겪은 문제 중에 제일 좋은 문제야.
+Annika|B2|Välkomna allihop. Vi hade inte planerat det här seminariet i går, och det märks – stolarna är lånade och kaffet är bryggt i ett kök på andra sidan torget.|모두 환영합니다. 어제만 해도 이 세미나는 계획에 없었어요. 티가 나죠. 의자는 빌린 거고, 커피는 광장 건너편 부엌에서 내렸어요.
+Fredrik|B2|Tack för inbjudan. Jag ska vara ärlig: vi hade bjudit Annika på middag i kväll, och nu sitter jag plötsligt i en panel. Men jag tar gärna debatten.|초대 감사합니다. 솔직히 말씀드리죠. 오늘 저녁엔 저희가 안니카 대표님을 만찬에 초대했었는데, 어쩌다 보니 제가 패널석에 앉아 있네요. 그래도 토론은 기꺼이 하겠습니다. (프레드리크 알믈뢰프, 58, 노르딕 크라프트알리안스 대표. 넥타이를 풀어 주머니에 넣는다 — 가상 인물)
+Annika|C1|Och jag kommer gärna på middag en annan gång. Men om vi ska prata med näringslivet gör vi det i öppna rum, inte bakom stängda dörrar i en ringmur.|저도 다음에 기꺼이 저녁 먹으러 갈게요. 하지만 재계와 이야기하려면 성벽 안 닫힌 문 뒤가 아니라 열린 공간에서 하겠습니다. (군데군데 박수가 나온다)
+Fredrik|C1|Rimligt. Då säger jag det öppet: södra Sverige behöver mer planerbar kraft, och ingen kommer att bygga ett kärnkraftverk för flera tiotals miljarder utan att staten delar risken. Frågan är inte om någon ska betala, utan hur risken fördelas.|합리적이네요. 그럼 공개적으로 말하죠. 남부 스웨덴엔 계획 가능한 전력이 더 필요합니다. 그리고 국가가 위험을 나눠 지지 않는데 수백억 크로나짜리 원전을 지을 사람은 없습니다. 문제는 누가 내느냐가 아니라 위험을 어떻게 나누느냐입니다.
+Sofia|B1|Det låter som kvällens rubrik. Elin, du har räknat på det?|오늘 밤의 헤드라인 같네요. 엘린 씨, 계산해 봤죠?
+Elin|B2|Ett räkneexempel, inte en officiell kalkyl. Om bygget blir dyrare och tar längre tid, vilket stora byggen ofta gör, eller om elpriset hamnar under kalkylen, får skattebetalarna bära en del av förlusten. Det kan vara värt det – men då ska det stå i budgeten, inte i en fotnot.|계산 예시일 뿐이고, 공식 추산은 아니에요. 공사비가 늘고 공기가 길어지면, 큰 공사는 흔히 그렇죠, 아니면 전기요금이 계산보다 낮아지면 손실의 일부는 납세자가 떠안게 돼요. 그럴 가치가 있을 수도 있어요. 하지만 그렇다면 각주가 아니라 예산에 적혀 있어야 해요.
+Fredrik|B2|Och vad är alternativet? Vindkraft som står still när det är tjugo minusgrader? Fråga industrin i Norrbotten vad de tycker om leveranssäkerhet.|그럼 대안이 뭡니까? 영하 20도에 멈춰 서는 풍력? 노르보텐 산업계에 공급 안정성을 어떻게 생각하는지 물어보세요.
+Annika|B2|Vi har frågat dem. Jag var i Luleå i april. De sa varken "kärnkraft" eller "vind". De sa: "Ge oss ett datum när ledningen är klar."|물어봤어요. 4월에 룰레오에 갔었거든요. 그분들은 '원자력'이라고도 '풍력'이라고도 안 했어요. 이렇게 말했죠. "송전선이 언제 완공되는지 날짜를 주세요."
+Malin|B1|Får jag säga något härifrån? Malin Persson, Hässleholm. Jag har ett bageri, och i vintras var min elräkning högre än min hyra.|여기서 한마디 해도 될까요? 회슬레홀름의 말린 페르손이에요. 빵집을 하는데, 지난겨울엔 전기요금이 월세보다 많이 나왔어요. (서 있는 사람들 사이에서 손이 올라간다. 2월 평의회의 스코네 대의원)
+Fredrik|B2|Och det är precis därför vi behöver mer kraft i söder. Så länge den saknas sätts ditt pris i stor utsträckning av vad som händer i Tyskland och Danmark.|바로 그래서 남부에 전력이 더 필요한 겁니다. 그게 없는 한 사장님 가게 전기요금은 상당 부분 독일과 덴마크 사정에 따라 정해지니까요.
+Malin|B2|Kanske. Men det jag hör är att ni vill att staten ska ta risken och att jag ska ta räkningen. Jag håller inte med – och jag är inte säker på att jag håller med Annika heller.|그럴 수도 있죠. 그런데 제 귀엔 위험은 국가가 지고 청구서는 제가 받으라는 소리로 들려요. 동의 못 해요. 그리고 안니카 대표 말에도 동의하는지 잘 모르겠어요.
+Annika|C1|Malin, du sa samma sak till mig i februari, och det är bra att du fortfarande säger det. Vårt svar är inte en teknik utan tre meningar: norr ska inte betala mer för att söder ska betala mindre, skillnaden ska byggas bort med ny produktion och nya ledningar i söder, och flaskhalsintäkterna ska gå tillbaka till elnätet.|말린 씨, 2월에도 저한테 똑같은 말 했죠. 아직도 그렇게 말해 줘서 다행이에요. 저희 답은 특정 기술이 아니라 세 문장이에요. 남부가 덜 내도록 북부가 더 내는 일은 없다. 격차는 남부의 새 발전과 새 송전선으로 없앤다. 그리고 혼잡 수입은 전력망으로 돌려보낸다.
+Linus|B2|Linus Falk, Stockholms-Kuriren. En fråga till Annika Strand: ni var bjudna på Kraftalliansens middag i kväll. Går ni dit efteråt?|『스톡홀름스-쿠리렌』의 리누스 팔크입니다. 안니카 스트란드 대표께 질문 하나요. 오늘 저녁 크라프트알리안스 만찬에 초대받으셨죠. 끝나고 거기 가십니까?
+Annika|B1|Nej. Jag sitter här i stället, och alla som var bjudna på middagen är välkomna hit. Det finns kaffe kvar.|아니요. 대신 여기 앉아 있어요. 만찬에 초대받은 분들은 누구든 여기 오셔도 돼요. 커피도 남았고요.
+Linus|C1|Så ni flyttade middagen till en innergård för att slippa en bild – och fick en bättre bild på köpet?|그러니까 사진 한 장을 피하려고 만찬을 안뜰로 옮기셨고, 덤으로 더 좋은 사진을 얻으신 거군요?
+Jonas|B2|Det får du gärna skriva, Linus. Men skriv också att Kraftalliansen kom och svarade på frågor i en timme. Det är mer än man brukar få se i Visby.|그렇게 쓰셔도 돼요, 리누스 씨. 그런데 크라프트알리안스가 와서 한 시간 동안 질문에 답했다는 것도 써 주세요. 비스뷔에서 보통 보기 힘든 장면이잖아요.
+Fredrik|B2|Det tar jag som en komplimang. Och jag menar det: det här var ett bättre samtal än de vi brukar ha över en piggvar.|칭찬으로 받겠습니다. 진심이에요. 저희가 보통 터봇 요리 앞에서 나누는 대화보다 이게 더 나았습니다.
+Henrik|B1|Fredrik, middagen börjar om tjugo minuter. Fisken väntar inte.|프레드리크, 만찬 20분 뒤에 시작이야. 생선은 안 기다려 줘. (안뜰 뒤쪽 아치 아래. 처음부터 거기 서 있던 헨리크)
+Fredrik|B1|Jag kommer, Henrik. Fem minuter till. Damen från Hässleholm har inte fått sitt svar än.|갈게, 헨리크. 5분만 더. 회슬레홀름에서 오신 분이 아직 답을 못 들으셨어.
+Malin|A2|Nej. Det har jag inte.|네. 아직 못 들었어요.
+Sofia|C1|Då avslutar vi där – med en fråga som ingen här framme kunde besvara fullt ut. Det är kanske det ärligaste som har hänt i Almedalen i år.|그럼 여기서 마치죠. 여기 앞에 앉은 누구도 끝까지 대답하지 못한 질문으로요. 어쩌면 올해 알메달렌에서 있었던 일 중 가장 정직한 순간일지도 몰라요.
+Elin|B2|Jag har räknat. Av tio gäster på middagslistan satt fyra här i kväll, och två av dem ställde frågor. Kustlinjes bilder i kväll kommer att ha tomma stolar.|세어 봤어. 만찬 명단 열 명 중 네 명이 오늘 여기 앉아 있었고, 그중 두 명은 질문까지 했어. 오늘 밤 쿠스트리녜 사진엔 빈 의자가 찍히겠지. (요나스 옆에서 작게)
+Jonas|C1|Henrik ville att vi skulle spela på hans bana. I kväll fick han se oss spela på vår – och det är den enda bana där vi någonsin kommer att ha hemmafördel.|헨리크는 우리가 자기 링크에서 뛰길 바랐어. 오늘 밤엔 우리가 우리 링크에서 뛰는 걸 봤지. 그리고 우리가 홈 어드밴티지를 가질 수 있는 링크는 거기뿐이야.
+# 장면 5 — 알메달렌 공원 가장자리 잔디밭, 6월 24일 수요일 아침 8시 반
+Sofia|A2|Sju minuter. Inte åtta. Jag håller upp handen vid sex.|7분이에요. 8분 아니고요. 6분에 손 들게요. (6월 24일 수요일 아침 8시 반. 알메달렌 공원 가장자리 잔디밭. 공식 무대도, 공식 일정도 아니다. 카페에서 빌린 나무 상자 하나와 휴대용 스피커. 백오십 명쯤이 모였다)
+Annika|B1|Jag har inga kort i dag. Bara tre ord på handen.|오늘은 카드 없어요. 손등에 세 단어만. (손등에 볼펜으로 'Jag är här.')
+Jonas|B1|1968 stod ett ungt statsråd på ett lastbilsflak här och talade. Allt det här började med ett flak. Du har en trälåda. Det räcker.|1968년에 젊은 장관 하나가 여기서 트럭 짐칸에 올라가 연설했어요. 이 모든 게 짐칸 하나에서 시작됐죠. 대표님한텐 나무 상자가 있잖아요. 그거면 충분해요.
+Annika|C1|God morgon. Vi har ingen egen dag här i Almedalen, för vi sitter inte i riksdagen. Vi har sju minuter, en lånad trälåda och er. I går kväll satt en bagare från Hässleholm och en lobbyist från kraftindustrin på samma gård och pratade om samma elräkning. Det är så jag vill att politik ska se ut.|좋은 아침입니다. 저희는 원내 정당이 아니라서 여기 알메달렌에 저희 날이 없습니다. 있는 건 7분, 빌린 나무 상자 하나, 그리고 여러분입니다. 어젯밤 회슬레홀름의 제빵사와 전력 업계 로비스트가 같은 안뜰에 앉아 같은 전기요금 얘기를 했습니다. 저는 정치가 그런 모습이었으면 합니다. (나무 상자 위에 올라선다)
+Kasia|A2|Titta. Folk stannar på cyklarna.|봐요. 사람들이 자전거를 세워요. (소피아에게 작게)
+Annika|C1|Jag var sjuksköterska i femton år. Klockan tre på natten frågar ingen patient vilket block man tillhör. Patienten frågar bara: är du här? Jag är här. Jag går inte. Och jag tänker inte låta någon annan bestämma i vilket rum jag får säga det.|저는 15년 동안 간호사였습니다. 새벽 3시에 어느 블록 소속이냐고 묻는 환자는 없습니다. 환자는 이것만 묻습니다. 거기 있어요? 저는 여기 있습니다. 가지 않습니다. 그리고 그 말을 어느 방에서 해도 되는지, 다른 누가 정하게 두지 않겠습니다. (연설 5분째. 문장 중간에 박수가 터진다)
+Elin|B2|Hör ni? De applåderar mitt i en mening. Det har aldrig hänt oss förut.|들려요? 문장 중간에 박수를 쳐요. 우리한텐 처음 있는 일이에요.
+Sofia|B1|Amir skriver från Stockholm: "Klippet med applåden: fyrtiotusen visningar på tjugo minuter. Första gången folk klappar i våra klipp."|아미르가 스톡홀름에서 문자 보냈어요. "박수 클립, 20분 만에 4만 회. 사람들이 우리 클립에서 박수 치는 건 처음이에요." (연설이 끝나고 20분 뒤)
+Annika|B2|Sju minuter och tolv sekunder. Jag såg din hand, Sofia, men jag ville inte sluta mitt i en mening när folk applåderade.|7분 12초. 소피아 씨 손 봤어요. 그래도 사람들이 박수 치는데 문장 한가운데서 끊고 싶지 않았어요.
+Henrik|B2|Snyggt, Jonas. Seminariet i går, trälådan i dag. Fredrik kom till middagen fyrtio minuter för sent och pratade om en bagare hela kvällen.|깔끔하네, 요나스. 어제는 세미나, 오늘은 나무 상자. 프레드리크는 만찬에 40분 늦게 와서 저녁 내내 제빵사 얘기만 하더라. (잔디밭 끝, 커피 컵을 든 헨리크가 다가온다)
+Jonas|B2|Och bilderna från middagen? Jag har letat i morse men inte hittat några.|그럼 만찬 사진은? 아침에 찾아봤는데 하나도 없던데.
+Henrik|B1|Det blev inga bilder. Halva bordet var tomt, och Kustlinje tyckte inte att det var värt det.|사진은 없어. 테이블 절반이 비어서, 쿠스트리녜가 올릴 가치가 없다고 봤지.
+Elin|C1|Inga bilder alls? Då har Kustlinje betalat för den dyraste middag som ingen någonsin kommer att få se. Det är nästan poetiskt.|사진이 한 장도 없다고? 그럼 쿠스트리녜는 아무도 영영 못 볼 가장 비싼 저녁값을 낸 거네. 거의 시적이야.
+Jonas|B2|Henrik. Det finns en sak som jag skulle vilja fråga dig om. Men inte här, och inte i dag.|헨리크. 너한테 묻고 싶은 게 하나 있어. 근데 여기선 말고. 오늘도 말고. (주머니 속 휴대폰. 엘린이 요나스를 쳐다본다. 엘린은 아직 아무것도 모른다)
+Henrik|B2|Ni har lärt er spela, Jonas. Men jag har spelat det här spelet längre.|게임하는 법을 배웠군, 요나스. 하지만 난 이 게임을 더 오래 했어. (선글라스를 내리고 돌아선다. 성벽 쪽으로 멀어지는 리넨 셔츠. 요나스는 그 등을 끝까지 바라본다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Vilket seminarium går du på?** (← *Vilken seminarium …*) | 어느 세미나 가요? | *seminarium* 은 ett-명사라 의문사도 *vilket*. en-명사면 *vilken*(*vilken middag*), 복수면 *vilka*. 성(性)은 규칙보다 단어마다 외우는 게 지름길 — *ett parti, ett möte* vs *en budget, en debatt* |
+| `A2` | **Titta. Alla har en tygpåse.** | 저것 봐요. 다들 천 가방을 들고 있어요. | *titta* 단독 명령형 = "봐!". *alla* (모두) + 단수 *har* — 스웨덴어 동사는 인칭·수에 따라 변하지 않는다 |
+| `B1` | **Det här är ingen vanlig middag.** | 이건 평범한 저녁 식사가 아니야. | *ingen* = *inte en*. en-명사 앞 *ingen*, ett-명사 앞 *inget*(*inget vanligt seminarium*), 복수 앞 *inga*. 형용사도 함께 일치 |
+| `B1` | **Vi hör av oss i morgon förmiddag.** | 내일 오전에 연락할게. | *höra av sig* = 연락하다(재귀). 확답을 미루는 정중한 비즈니스 표현. *i morgon förmiddag* 처럼 시간 부사를 겹쳐 쓴다 |
+| `B2` | **En bild från fel middag kan förstöra ett halvårs arbete.** | 잘못된 저녁 자리 사진 한 장이 반년의 일을 망칠 수 있어. | *fel* 은 형용사처럼 명사 앞에 오지만 변하지 않는다(*fel middag, fel ställe*). *ett halvårs arbete* — 소유격 -s가 기간을 나타낸다(*en veckas semester*) |
+| `B2` | **Båda utfallen kan vi leva med.** | 어느 쪽이든 감당할 수 있어요. | 목적어를 문두로 보내 강조(V2: *kan* 이 둘째 자리). 전치사 *med* 은 문장 끝에 남는다. *utfall* = 결과, 경우 |
+| `B2` | **Ni har lärt er spela, Jonas. Men jag har spelat det här spelet längre.** | 게임하는 법을 배웠군, 요나스. 하지만 난 이 게임을 더 오래 했어. | *lära sig* + 부정사(*att* 생략 가능). 재귀대명사는 주어에 맞춰 *er*. *spela spelet* 처럼 같은 어근을 겹쳐 쓴 수사 |
+| `C1` | **Om vi ska prata med näringslivet gör vi det i öppna rum, inte bakom stängda dörrar i en ringmur.** | 재계와 이야기하려면 성벽 안 닫힌 문 뒤가 아니라 열린 공간에서 하겠습니다. | 조건절 뒤 주절은 동사부터(*gör vi*). *näringslivet* = 재계·산업계(정해진 형태로 집합적으로 쓴다). *X, inte Y* 대비로 원칙을 선언하는 정치 화법 |
+| `C1` | **Vi säger ja till samtalet och nej till rummet.** | 대화엔 '예', 방엔 '아니오'라고 해요. | *säga ja/nej till något*. 같은 구조를 반복한 대구(對句)로 '세 번째 답'을 한 문장에 담는다 |
+| `C1` | **Den som äger rummet äger också berättelsen om vad som sades där.** | 방을 가진 사람이 거기서 무슨 말이 오갔는지에 대한 이야기까지 가져요. | *den som …* = ~하는 사람(일반 주어). 간접의문문 *vad som sades* — 의문사가 주어일 때 *som* 이 필요하다. *sades* 는 *sägas*(수동)의 과거 |
+
+## 현안 메모
+- **알메달렌 주간(Almedalsveckan)** — 고틀란드 비스뷔의 알메달렌 공원 일대에서 해마다 6월 말에서 7월 초 사이(최근 몇 년은 대체로 6월 말 한 주)에 열리는 정치 주간이다. 정확한 날짜는 해마다 주관하는 고틀란드 광역지자체(Region Gotland)가 발표한다. 1968년, 당시 교육부 장관이던 올로프 팔메가 트럭 짐칸에 올라 즉흥 연설을 한 것이 시작으로 알려져 있다. 이후 정당뿐 아니라 기업·노조·단체·관청·로비스트가 수천 개의 세미나와 행사를 여는 '정치의 박람회'가 되었고, 대부분의 행사는 누구나 무료로 들을 수 있다. 비스뷔는 13세기 성벽(약 3.4km)이 거의 그대로 남은 한자 도시로 1995년 유네스코 세계유산에 올랐고, 본토 뉘네스함에서 배로 세 시간 남짓 걸린다.
+- **정당의 날과 대표 연설** — 전통적으로 원내 정당들이 하루씩 '정당의 날'을 받아 공원 무대에서 대표 연설을 한다(일정 배정 방식은 해마다 조금씩 바뀌어 왔다). 원외 정당은 이 공식 순서 밖에서 따로 행사를 열어야 한다. 총선이 있는 해에는 언론의 관심이 특히 높아, 연설 한 구절이 그 주의 헤드라인이 되기도 한다.
+- **로비 문화와 투명성** — 알메달렌은 '로비스트들의 주간'이라는 비판도 받는다. 기업이 비용을 대는 만찬·파티에서 정치인과 업계가 비공개로 만나기 때문이다. 스웨덴에는 EU 의회 같은 의무적 로비 등록부가 없고(도입 여부는 오래 논의되어 왔다), 장관·고위 공무원이 퇴임 후 로비 업계로 옮길 때 일정 기간 제한하는 규정(karensregler)이 2018년부터 있다. 정당 재정 투명성법은 정당이 받는 기부를 공개하도록 하며, 돈뿐 아니라 일정한 물품·서비스 형태의 기부도 대상이 될 수 있다.
+- **남부 전기요금과 원전 위험 분담** — 스웨덴은 2011년부터 네 개의 가격구역(SE1~SE4)으로 나뉘어, 발전 설비가 부족하고 유럽 대륙 시장과 강하게 연결된 남부(특히 SE4)의 요금이 높게 오르내린다. 새 원전 건설 비용을 국가가 대출·가격 보장 등으로 얼마나 나눠 질지는 실제 스웨덴 정치의 큰 쟁점이다. 이번 화의 단체 Nordisk Kraftallians, PR 회사 Kustlinje, Hellsing Bygg, 등장인물과 숫자는 모두 가상이며, 이 드라마는 이 논쟁에서 어떤 실존 정당의 입장도 대변하거나 특정하지 않는다.
+
+## 비즈니스 메모
+- **어젠다 세팅(Dagordningsmakt)** — 무엇을 말하느냐만큼 *어디서, 누구 앞에서, 누구의 조건으로* 말하느냐가 메시지를 결정한다. 상대가 차려 놓은 무대(초대, 질문의 틀, 장소)에 오르면 결과물 — 사진, 헤드라인, 회의록 — 의 편집권도 상대에게 있다. 그래서 초대를 받으면 "예/아니오"보다 먼저 "이 대화를 우리 무대로 옮길 수 있나?"를 묻는다. 거절하지 않고 장소를 바꾸면, 상대는 수락하든 거절하든 우리가 짠 이야기 안에서 움직이게 된다.
+- **확률 × 결과로 '두 개의 나쁜 답' 찾기** — 엘린의 계산은 결정을 내려 주지 않는다. 대신 두 선택지가 모두 나쁘다는 걸 숫자로 보여 준다. 좋은 전략은 종종 그 지점, 곧 '둘 중 덜 나쁜 것'을 고르기 전에 질문 자체를 다시 짜는 데서 나온다. 질문 뒤의 질문은 "갈까 말까"가 아니라 "누가 그 방을 소유하는가"였다.
+
+## 다음 화 예고 — Sommartalet
+**4부 10화.** 7월 중순, 외레브로 근교의 호숫가 여름 별장. 크네케브뢰드, 커피, 그리고 차가운 호수. "Ska vi bada först?" 소피아와 안니카는 일주일 동안 8월 선거 국면을 열 여름 연설을 쓴다. 비스뷔의 7분 12초는 시작일 뿐 — 이번엔 처음부터 끝까지 그녀의 연설이어야 한다. 요나스는 2020년 봄 중환자실의 기억을 '감동 포인트'로 넣자고 하지만, 안니카는 고개를 젓는다. "Jag vill inte använda patienterna för att vinna röster." 그리고 외레브로 대학병원의 옛 병동에서, 아직 그곳에 남아 있는 옛 동료 일바가 기다린다.
