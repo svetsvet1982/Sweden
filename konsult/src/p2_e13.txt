@@ -1,0 +1,163 @@
+@title 2부 13화 — Tullarna
+@subtitle (관세)
+@meta 날짜|2025년 2월 10일 월요일 오후 3시 반 ~ 2월 24일 월요일 아침 7시 15분 (취임 498~512일째. 미국 대통령이 철강·알루미늄 25% 관세를 예고한 다음 날부터)
+@meta 장소|할셰, 옛 사장실 — 오하이오와 화상회의 (2월 10일 월요일 오후) → 같은 방, 엘린의 시나리오 분석 (같은 날 저녁) → 할셰, IF Metall 지부 사무실 (2월 11일 화요일 새벽) → 할셰 시청 3층 회의실 — 2차 화상회의 (2월 17일 월요일 오후) → 스톡홀름 쇠데르, 요나스의 부엌 (2월 19일 수요일 밤) → 할셰 사장실 (2월 24일 월요일 아침)
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 41, 대표이사 VD) · **Elin Bergqvist** (엘린 베리크비스트, 34, 재무 책임자 ekonomichef) · **Mats Granberg** (마츠 그란베리, 56, 영업이사 försäljningsdirektör) · **Tom Carver** (톰 카버, 57, 미국 오하이오 데이턴 외곽의 가족 기업 Carver Hydraulics 3대째 CEO, 직원 약 300명 — 어머니가 베름란드 출신이라 스웨덴어를 하지만 영어가 자주 섞인다. 1986년 여름 열아홉 살 때 할베리 단조장에서 실습했다 — 화상) · **Lena Johansson** (레나 요한손, 52, IF Metall 지부장·노동자 이사) · **Kent Persson** (켄트 페르손, 58, 용접공·노동자 이사) · **Per-Olof Nyman** (페르-울로프 뉘만, 61, 할셰 시 집행위원장 kommunstyrelsens ordförande) · **Love Ekholm** (러브 에크홀름, 17, 요나스의 아들)
+@meta 이번 화의 도구|시나리오 플래닝 — 미래를 하나로 예측하지 않고, 관세율 0%·10%·25%라는 세 가지 미래를 나란히 놓은 뒤 각 대응안(전면 이전·관세 분담·고객 교체)이 어느 미래에서 무너지는지를 본다. 목표는 '맞히는 것'이 아니라 모든 미래에서 버티는 결정(robust decision)을 찾는 것. 그리고 공급망 리쇼어링 분석 — 제품의 가치를 단계별로 쪼개(단조·가공 60% / 조립·시험·현지 조달 부품 40%) 어느 단계를 옮겨야 고객의 요구와 관세 부담이 동시에 줄어드는지, 투자액이 약정 지표에 무엇을 하는지 계산한다
+@meta 스웨덴 현안|미국의 관세 정책 — 2025년 1월 20일 트럼프 2기 취임과 '미국 우선 통상정책' 각서, 2월 1일 캐나다·멕시코 25%·중국 10% 관세 행정명령(캐나다·멕시코분은 2월 3일 30일 유예), 2월 10일 철강 25%·알루미늄 25% 관세 포고(3월 12일 발효, EU 포함 국가별 예외 폐지), 2월 13일 '상호 관세' 검토 각서 · EU에 대한 관세 예고 · 통상정책은 EU 권한이라 스웨덴은 단독으로 협상할 수 없다는 점 · 수출 의존 제조업의 '생산 현지화' 압박
+@intro **지난 이야기** — 셸레프테오의 설비 업체 노르드프레스가 노스볼트의 챕터 11 여파로 기업회생을 신청했다. 요나스는 매출채권의 25%만 상각하자고 했지만, 하청업체 사장들의 작업장에 다녀온 뒤 자기 안을 거둬들였다. 이사회는 엘린의 제안대로 2,630만 크로나 전액 상각을 의결했고, 연말 지표 예상은 3.17에서 3.39로 올라갔다. 요나스는 사이렌이 울릴 때 식당에서 직원들에게 먼저 알렸고, 한 시간 뒤 보도자료가 나갔다. 돌아오는 열차에서 엘린은 다니엘과 화해의 첫걸음을 뗐다. 1월부터 목요일과 금요일은 진짜로 쉬겠다고. 그리고 요나스가 마츠의 메일 제목을 읽었다. "Carver Hydraulics: Flytta produktionen till Ohio – annars säger vi upp avtalet."
+@intro 그 메일은 미국 대선 한 달 뒤에 왔다. 톰 카버는 고객들이 "관세 노출"을 묻기 시작했다고 썼고, 12월과 1월 내내 마츠와 톰 사이에 메일이 오갔다. 1월 20일 새 대통령이 취임했고, 2월 1일에는 캐나다와 멕시코, 중국에 대한 관세 명령이 나왔다. 지난 목요일, 엘린이 쉬는 날에 카버의 공식 서한이 도착했다. 그리고 어제 일요일, 미국 대통령은 전용기 안에서 모든 철강과 알루미늄에 25% 관세를 매기겠다고 말했다. 카버 하이드롤릭스는 1998년부터 할베리의 유압 실린더를 사 온, 이 공장의 가장 큰 수출 고객이다.
+# 장면 1 — 할셰, 옛 사장실 — 오하이오와 화상회의, 2월 10일 월요일 오후 3시 반
+Mats|B1|Han är uppkopplad nu. Ska jag släppa in honom, eller vill ni ha en minut till?|이제 접속했어요. 들어오게 할까요, 아니면 1분 더 드릴까요? (2월 10일 월요일 오후 3시 반, 할셰 옛 사장실. 창밖엔 눈이 내린다. 대형 화면 구석에 오하이오 시각 '9:30 AM'. 마츠 그란베리가 노트북을 조작하고, 요나스와 엘린이 책상 양쪽에 앉아 있다)
+Jonas|A2|Släpp in honom. Vi kör.|들어오게 해요. 시작하죠.
+Tom|B1|Good morning – eller god eftermiddag hos er. Jonas, Elin, Mats. Tack för att ni tar det här med så kort varsel.|좋은 아침… 아니, 거긴 오후죠. 요나스, 엘린, 마츠. 갑자기 연락했는데 시간 내줘서 고마워요. (톰 카버, 쉰일곱. 데이턴 외곽 공장의 사무실. 뒤 벽에 성조기와 빛바랜 흑백 사진 한 장 — 할셰 정문의 쇠망치 앞에 선 앳된 청년)
+Jonas|B2|Det är självklart, Tom. Carver har varit kund hos oss sedan 1998 – för ett sådant samtal hittar man alltid tid.|당연하죠, 톰. 카버는 1998년부터 우리 고객인데요. 이런 통화엔 언제든 시간을 내죠.
+Tom|C1|Och jag stod vid er smedja redan sommaren 1986, som nittonåring. Greta lärde mig att man aldrig ringer en kund med dåliga nyheter på en fredag, eftersom han då får ruva på dem hela helgen. Så jag ringer på en måndag.|그리고 난 1986년 여름, 열아홉 살 때 이미 당신네 단조장 옆에 서 있었어요. 그레타가 가르쳐 줬죠. 고객한테 나쁜 소식은 절대 금요일에 전화하지 말라고. 그러면 주말 내내 그걸 끌어안고 있어야 하니까. 그래서 월요일에 전화하는 겁니다.
+Elin|B1|Vi har läst ditt mejl från december och brevet från i torsdags. Jag läste det först i morse, på tåget.|12월 메일이랑 지난 목요일 편지 읽었어요. 전 오늘 아침 기차에서야 읽었지만요. (요나스가 엘린을 힐끗 본다. 목요일은 엘린이 쉬는 날이다)
+Tom|B2|Then you know the situation. I går kväll sa presidenten på Air Force One att det blir tjugofem procents tull på allt stål och aluminium, och att han ska meddela det redan i dag.|그럼 상황은 아시겠네요. 어젯밤 대통령이 에어포스원에서 말했어요. 모든 철강과 알루미늄에 25% 관세를 매기겠다고, 그리고 오늘 당장 발표하겠다고.
+Mats|B1|Men våra cylindrar är ju inte stål. Det är färdiga produkter.|하지만 우리 실린더는 철강이 아니잖아요. 완제품이에요.
+Tom|C1|Not yet, Mats. I dag gäller det stål, förra veckan gällde det Kanada och Mexiko, och den som tror att Europa går fri har inte lyssnat på vad som sägs i Washington. Mina kunder läser samma nyheter som jag.|아직은요, 마츠. 오늘은 철강이고, 지난주엔 캐나다와 멕시코였어요. 유럽은 무사할 거라고 믿는 사람은 워싱턴에서 무슨 말이 나오는지 안 들은 거예요. 내 고객들도 나랑 같은 뉴스를 읽어요.
+Jonas|B2|Vad säger dina kunder, rent konkret? Jag vill förstå vad det är de faktiskt är rädda för.|고객들이 구체적으로 뭐라고 하는데요? 그 사람들이 정말로 뭘 두려워하는지 알고 싶어요.
+Tom|B2|Tre av mina fem största kunder har skickat samma fråga: what is your tariff exposure? De vill ha cylindrar som är "tariff-proof", och ärligt talat är en cylinder från Sverige inte det längre.|내 5대 고객 중 셋이 똑같은 질문을 보냈어요. "관세 노출이 얼마나 되느냐?" '관세에 끄떡없는' 실린더를 원해요. 그리고 솔직히, 스웨덴산 실린더는 이제 그렇지 않죠.
+Elin|C1|I dag betalar ni knappt någon tull alls på våra cylindrar. Det du beskriver är ett hot, inte ett beslut – och jag har svårt att se varför ett samarbete på tjugosju år ska offras för något som ännu inte har hänt.|지금은 우리 실린더에 관세를 거의 안 내시잖아요. 말씀하시는 건 위협이지 결정이 아니에요. 그리고 아직 일어나지도 않은 일 때문에 27년 된 협력 관계를 버려야 하는 이유를 전 잘 모르겠어요.
+Tom|C1|Elin, i mitt land är skillnaden mellan ett hot och ett beslut numera ungefär en helg. Jag kan inte driva ett familjeföretag med trehundra anställda i förhoppning om att någon i Washington ska ändra sig.|엘린, 우리나라에선 요즘 위협과 결정의 차이가 대략 주말 하나예요. 직원 300명짜리 가족 회사를, 워싱턴의 누군가가 마음을 바꾸길 바라면서 운영할 순 없어요.
+Jonas|B1|Så vad är det du vill att vi ska göra? Säg det rakt ut.|그래서 우리가 뭘 하길 바라는 거예요? 솔직하게 말해 줘요.
+Tom|B2|Det står i brevet. Flytta produktionen av våra cylindrar hit till Ohio senast i slutet av 2026. Annars säger vi upp leveransavtalet den första mars, med tolv månaders uppsägningstid.|편지에 썼어요. 우리 실린더 생산을 늦어도 2026년 말까지 이곳 오하이오로 옮기세요. 아니면 3월 1일에 공급계약을 해지하겠습니다. 해지 예고 기간 12개월로요.
+Mats|A2|Den första mars? Det är om tre veckor.|3월 1일이요? 3주 뒤잖아요.
+Tom|B1|I know. Jag har en styrelse också, Mats. Den sammanträder den tjugoåttonde.|알아요. 나한테도 이사회가 있어요, 마츠. 28일에 열리죠.
+Elin|B2|Hur stor del av era inköp från Europa handlar det om? Och är vi den enda leverantören som ni ställer det här kravet på?|유럽에서 사시는 물량 중 어느 정도가 해당되나요? 그리고 이런 요구를 받는 공급업체가 우리뿐인가요?
+Tom|B2|Ni är den största. Vi köper för ungefär tjugofyra miljoner dollar om året av er, och en tysk leverantör har redan lovat att bygga en fabrik i South Carolina.|당신들이 제일 커요. 연간 약 2,400만 달러어치를 사고 있죠. 그리고 독일 공급업체 하나는 이미 사우스캐롤라이나에 공장을 짓겠다고 약속했어요.
+Jonas|C1|Tom, ge oss två veckor. Vi kommer tillbaka med ett förslag som tar dina kunders oro på fullt allvar, utan att det förutsätter att vi monterar ned halva Hallsjö.|톰, 2주만 줘요. 고객들의 걱정을 정말 진지하게 다루는 제안을 들고 다시 올게요. 할셰 절반을 뜯어내는 걸 전제로 하지 않는 제안으로요.
+Tom|B1|En vecka. Måndag nästa vecka, samma tid. And Jonas – det här är inte personligt.|일주일. 다음 주 월요일, 같은 시간. 그리고 요나스, 이건 개인적인 게 아니에요.
+Jonas|C1|Det vet jag. Men för dem som har svarvat dina kolvstänger i tjugo år kommer det att kännas väldigt personligt, och det tänker jag säga till dig nästa måndag också.|알아요. 하지만 당신네 피스톤 로드를 20년 동안 깎아 온 사람들한텐 아주 개인적으로 느껴질 거예요. 그 얘긴 다음 주 월요일에도 할 겁니다.
+Tom|A2|Fair enough. Hälsa Greta.|그럴 만하네요. 그레타한테 안부 전해 줘요. (화면이 꺼진다)
+Mats|B2|Jag har sagt det sedan december: business is business. Vill de ha det i Ohio får vi bygga i Ohio, annars gör tyskarna det.|12월부터 말했잖아요. 비즈니스는 비즈니스예요. 오하이오에서 원하면 오하이오에 지어야죠. 안 그러면 독일 사람들이 할 거예요.
+Elin|B2|Innan vi bygger någonting någonstans vill jag räkna på det ordentligt. Ge mig tre timmar, så har ni alternativen på tavlan.|어디에 뭘 짓기 전에 제대로 계산부터 할래요. 세 시간만 주세요. 그럼 대안들을 화이트보드에 올려 둘게요.
+# 장면 2 — 같은 방, 엘린의 시나리오 분석, 같은 날 저녁 6시 45분
+Jonas|A2|Tre timmar, sa du. Nu har det gått tre och en kvart.|세 시간이라며. 세 시간 15분 지났어. (저녁 6시 45분. 창밖은 캄캄하다. 화이트보드의 'LYSSNA · LÄRA · LEDA' 옆에 새로 그린 표. 엘린의 여행 가방이 문 옆에 서 있다. 스톡홀름행 열차는 8시 10분)
+Elin|A2|Jag sa ungefär. Sätt dig.|대충이라고 했잖아. 앉아.
+Mats|B1|Jag har tagit med kaffe. Och siffrorna från affärssystemet.|커피 가져왔어요. 영업 시스템 숫자도요.
+Elin|B2|Bra. Först grunden. Carver köper för ungefär 260 miljoner kronor om året, med dollarn på knappt elva kronor. Det är drygt åtta procent av vår omsättning, och täckningsbidraget ligger runt tjugo procent – alltså ungefär 52 miljoner.|좋아요. 우선 기본부터. 카버는 연간 약 2억 6,000만 크로나를 사요. 달러가 11크로나 조금 안 되는 걸로 치면요. 우리 매출의 8% 남짓이고, 공헌이익률이 20% 안팎이니까 약 5,200만이에요. (화이트보드에 'CARVER 260 MSEK / TB 52 MSEK')
+Jonas|B1|Och hur många jobb hänger på Carver här i Hallsjö?|그리고 여기 할셰에서 일자리 몇 개가 카버에 걸려 있어요?
+Mats|B1|Ungefär 110. Trettio i smedjan, fyrtiofem i bearbetningen och trettiofem i montering och provning.|약 110개요. 단조장 30, 가공 45, 조립·시험 35.
+Elin|B2|Sedan tullarna. Jag har inte försökt gissa vad presidenten kommer att göra. Jag har räknat på tre nivåer – noll, tio och tjugofem procent – och tre sätt att svara på dem.|그다음 관세. 대통령이 뭘 할지 맞히려고 하진 않았어. 세 가지 수준으로 계산했어. 0, 10, 25%. 그리고 거기에 대응하는 방법 세 가지.
+Jonas|B1|Det är alltså ingen prognos.|그러니까 예측은 아니라는 거네.
+Elin|C1|Nej. Scenarioplanering handlar inte om att gissa rätt om framtiden, utan om att se vilka beslut som håller i flera framtider samtidigt. Ett beslut som bara fungerar om vi har gissat rätt är det farligaste som finns.|아니. 시나리오 플래닝은 미래를 맞히는 게 아니라, 여러 미래에서 동시에 버티는 결정이 뭔지 보는 거야. 우리가 제대로 맞혔을 때만 통하는 결정이 세상에서 제일 위험해.
+Mats|B1|Okej. Börja med Toms förslag: att flytta allt.|좋아요. 톰 제안부터 해요. 전부 옮기는 거.
+Elin|B2|Alternativ ett: en egen fabrik i Ohio. Lokaler, maskiner, provbänkar och personal – ungefär 240 miljoner kronor, och det tar minst arton månader innan den första cylindern rullar ut.|안 1. 오하이오에 자체 공장. 건물, 기계, 시험대, 인력까지 약 2억 4,000만 크로나. 첫 실린더가 나오기까지 최소 18개월.
+Jonas|B2|240 miljoner. Det är långt över gränsen på tio miljoner, där banken måste godkänna i förväg.|2억 4,000만. 은행이 사전 승인해야 하는 1,000만 한도를 한참 넘네.
+Elin|C1|Det är värre än så. Om vi lånar till det stiger nettoskulden så mycket att nyckeltalet går från 3,39 till nästan fyra. Vi skulle bryta mot kovenanten innan grunden ens var gjuten – och då är det inte Mikael som bestämmer längre.|그보다 더 나빠. 그걸 빌려서 하면 순부채가 너무 늘어서 지표가 3.39에서 거의 4가 돼. 기초 공사도 하기 전에 약정을 위반하는 거고, 그러면 결정하는 사람은 더 이상 미카엘이 아니야.
+Mats|B2|Men om tullen blir tjugofem procent är det väl ändå det enda som fungerar?|그래도 관세가 25%가 되면 그게 유일하게 통하는 방법 아니에요?
+Elin|C1|Inte ens då, faktiskt. Med amerikanska lönekostnader och en volym som inte räcker för att fylla en egen fabrik landar marginalen på tio procent i bästa fall – och då har Hallsjö ändå förlorat 110 jobb.|그때도 아니에요, 사실은. 미국 인건비에, 공장 하나를 채우기엔 모자란 물량이면 마진은 잘해야 10%에 떨어져요. 그러고도 할셰는 일자리 110개를 잃은 뒤고요.
+Jonas|A2|Nästa.|다음.
+Elin|B2|Alternativ två: vi stannar här och delar tullen med Carver, hälften var. Vid tio procent kostar det oss 13 miljoner om året, vid tjugofem procent 32.|안 2. 여기 남고 관세를 카버와 반반 나눈다. 10%면 우리 부담이 연 1,300만, 25%면 3,200만.
+Mats|B2|Och om Tom vägrar dela? Om han kräver att vi står för hela tullen själva, för att han vet att vi inte har råd att förlora honom?|톰이 나누기 싫다면요? 우리가 잃을 여유가 없다는 걸 알고, 관세 전부를 우리더러 떠안으라고 하면요?
+Elin|B1|Om tullen blir 25 procent förlorar vi hela marginalen.|관세가 25%가 되면 마진이 전부 사라져요.
+Jonas|A2|Hela? Alla 52 miljoner?|전부? 5,200만 전부?
+Elin|B2|Mer än så. Tjugofem procent av 260 miljoner är 65 miljoner. Då säljer vi till Carver med förlust, och varje cylinder vi skickar till Ohio kostar oss pengar.|그 이상이야. 2억 6,000만의 25%면 6,500만이야. 카버에 손해 보고 파는 거지. 오하이오로 보내는 실린더 하나하나가 우리 돈을 까먹는 거고.
+Mats|B1|Och det tredje alternativet? Att vi helt enkelt säger nej?|세 번째 안은요? 그냥 싫다고 하는 거요?
+Elin|B2|Ja. Vi tackar nej och ersätter Carver med andra kunder. Nordvärn ökar, och det finns europeiska kunder som vill ha kortare leveranstider. Men det tar ett och ett halvt år, och det första året tappar vi ungefär 35 miljoner i täckningsbidrag.|네. 거절하고 카버를 다른 고객들로 대체해요. Nordvärn 물량이 늘고, 납기를 줄이고 싶어 하는 유럽 고객들도 있어요. 하지만 1년 반은 걸리고, 첫해엔 공헌이익이 약 3,500만 줄어요.
+Jonas|C1|Nordvärn kan inte täppa till hela hålet, och det är ingen slump: vi har själva satt taket för försvarsaffärerna vid femton procent av omsättningen.|Nordvärn으론 구멍을 다 못 메워. 그것도 우연이 아니지. 방산은 매출의 15%까지라고 우리가 스스로 상한을 정했으니까.
+Mats|B2|Och de europeiska kunderna är inga säkra kort heller. Blir det handelskrig får tyska lastbilstillverkare också ta smällen, och när ingen vet vad som gäller om tre månader bygger ingen lager.|그리고 유럽 고객들도 확실한 카드가 아니에요. 무역 전쟁이 나면 독일 트럭 제조사들도 타격을 받아요. 석 달 뒤에 뭐가 어떻게 될지 아무도 모르는데 누가 재고를 쌓겠어요.
+Elin|C1|Precis. Därför har jag lagt sannolikheterna åt sidan i kväll. Alla tre alternativen är dåliga i minst en framtid: att flytta allt är dyrt om tullen aldrig kommer, att dela är förödande om den blir hög, och att byta kund kostar oss mest just när vi har minst marginal.|맞아요. 그래서 오늘 밤엔 확률은 옆으로 치워 뒀어요. 세 안 모두 적어도 한 미래에선 나빠요. 전부 옮기는 건 관세가 끝내 안 오면 비싸고, 나누는 건 관세가 높으면 치명적이고, 고객을 바꾸는 건 여유가 제일 없을 때 제일 큰 비용을 치르게 하죠.
+Jonas|B2|Så vi letar alltså efter ett fjärde alternativ, som ingen av oss har kommit på än.|그러니까 아직 아무도 생각 못 한 네 번째 안을 찾는 거네.
+Elin|C1|Vi letar efter det Tom faktiskt behöver, vilket inte nödvändigtvis är detsamma som det han ber om. Han behöver ingen fabrik; han behöver kunna stå inför sina kunder och säga att cylindrarna är byggda i Amerika.|톰이 실제로 필요한 걸 찾는 거지. 그게 꼭 그 사람이 요구하는 것과 같진 않아. 그 사람한테 필요한 건 공장이 아니야. 고객들 앞에서 실린더가 미국에서 만들어졌다고 말할 수 있는 거지.
+Jonas|C1|Vad är frågan bakom frågan? Den handlar inte om var vi tillverkar, utan om var värdet uppstår – och vem som får se det hända.|질문 뒤의 질문이 뭐지? 어디서 만드느냐가 아니야. 가치가 어디서 생기느냐, 그리고 그게 생기는 걸 누가 보느냐지.
+Elin|A2|Mitt tåg går om tjugo minuter. Nu får du fortsätta.|내 기차 20분 뒤에 떠. 이제 네가 이어서 해. (노란 노트를 덮고 가방을 든다. 요나스는 화이트보드 앞에 남아 표 옆에 큼직하게 '4'를 쓴다)
+# 장면 3 — 할셰, IF Metall 지부 사무실, 2월 11일 화요일 새벽 6시 50분
+Lena|B1|Stäng dörren. Är det sant att Carver vill flytta våra jobb till Ohio?|문 닫아요. 카버가 우리 일자리를 오하이오로 옮기려 한다는 게 사실이에요? (화요일 새벽 6시 50분, 지부 사무실. 레나는 외투도 안 벗었다. 켄트 페르손이 창가에 서 있다. 요나스 손엔 용접장에서 쓰던 'JONAS' 파란 머그. 레나 머그 옆 고리는 비어 있다)
+Jonas|B2|Jag hade tänkt berätta det för dig klockan sju, innan skiftet började. Vem har du hört det av?|7시에, 교대 시작 전에 말하려고 했어요. 누구한테 들었어요?
+Kent|B1|Halva matsalen visste det i går kväll. Någon från säljavdelningen pratade i kassakön på Konsum.|어젯밤에 식당 사람 절반이 알았어요. 영업부 누가 콘숨(동네 마트) 계산대 줄에서 떠들었대요.
+Lena|B2|Du lovade att vi skulle få veta saker samtidigt som styrelsen. Nu får jag veta dem samtidigt som kassörskan på Konsum.|이사회랑 같은 때에 알려 주겠다고 약속했잖아요. 이젠 콘숨 계산원이랑 같은 때에 알게 되네요.
+Jonas|B2|Du har rätt, och det är mitt ansvar. Men styrelsen vet inte heller något ännu. Carver ringde i går eftermiddag, och vi har inte bestämt någonting.|맞아요. 그리고 그건 제 책임이에요. 하지만 이사회도 아직 아무것도 몰라요. 카버가 어제 오후에 전화했고, 우린 아무것도 정하지 않았어요.
+Lena|A2|Hur många?|몇 명이에요?
+Jonas|B2|Om vi gjorde precis som Carver vill: ungefär 110. Men jag har ingen tanke på att göra som Carver vill.|카버가 원하는 대로 그대로 하면 110명쯤이요. 하지만 카버가 원하는 대로 할 생각은 전혀 없어요.
+Kent|B1|Hundratio. Det är fler än hela smedjan 1993.|110명. 1993년 단조 공장 전체보다 많네요.
+Lena|B2|I natt skrev han under, din president. Tjugofem procent på stål och aluminium från den tolfte mars, inga undantag. Jag läste det klockan fyra, när jag ändå inte kunde sova.|어젯밤에 서명했더라고요, 당신네 대통령. 3월 12일부터 철강하고 알루미늄에 25%, 예외 없음. 새벽 4시에 읽었어요. 어차피 잠이 안 와서.
+Jonas|B1|Han är inte min president. Och våra cylindrar omfattas inte – inte än.|내 대통령 아니에요. 그리고 우리 실린더는 해당 안 돼요. 아직은.
+Lena|B2|"Inte än." Vet du hur många gånger jag har hört det i den här byggnaden? Inte än, sa de om härdverkstaden. Inte än, sa de om friformssmedjan.|"아직은." 이 건물에서 그 말 몇 번 들었는지 알아요? 아직은, 열처리 작업장 때도 그랬어요. 아직은, 자유단조 공장 때도 그랬고요.
+Jonas|C1|Jag förstår att mitt ord inte väger särskilt tungt i dag. Men jag har ingen avsikt att flytta smedjan, och jag vill hellre att du hjälper mig att hitta en väg som inte gör det än att du får rätt om mig.|오늘 제 말이 별로 무게가 없다는 거 알아요. 하지만 단조장을 옮길 생각은 없어요. 그리고 당신이 나에 대해 옳았다는 게 증명되는 것보다, 그러지 않는 길을 찾게 도와주는 쪽이 저는 훨씬 좋아요.
+Lena|B1|Hjälpa dig? Du sitter på ett varmt kontor och räknar. Vi står vid maskinerna.|당신을 도우라고요? 당신은 따뜻한 사무실에 앉아서 계산하잖아요. 우린 기계 앞에 서 있고요.
+Kent|A2|Lena. Andas.|레나. 숨 좀 쉬어.
+Lena|A2|Jag andas, Kent. Det är inte rättvist.|숨 쉬고 있어, 켄트. 이건 불공평해.
+Jonas|B1|Nej, det är det inte. Ni har inte gjort något fel. Ni har levererat i tid i tjugosju år.|네, 불공평해요. 여러분은 잘못한 게 없어요. 27년 동안 납기를 지켰어요.
+Lena|C1|Och i Washington sitter någon som aldrig har satt sin fot här och beslutar att vår kolvstång ska bli dyrare för att den råkar vara svensk. Min pappa förlorade jobbet för att någon på ett kontor räknade. Nu räknar de på andra sidan Atlanten.|그리고 워싱턴엔 여기 발 한번 디뎌 본 적 없는 누군가가 앉아서, 우리 피스톤 로드가 하필 스웨덴산이라는 이유로 더 비싸져야 한다고 정해요. 우리 아빠는 사무실의 누군가가 계산해서 일자리를 잃었어요. 이번엔 대서양 건너편에서 계산하네요.
+Kent|B1|Och Greta? Vet hon om det, eller får hon också läsa det i Allehanda?|그레타는요? 알고 있어요, 아니면 그분도 알레한다에서 읽어야 해요?
+Jonas|B2|Jag ringer henne direkt efter det här. Ni är de första som får höra det, även om det tyvärr inte kändes så.|이거 끝나고 바로 전화할 거예요. 여러분이 제일 먼저 듣는 거예요. 안타깝게도 그렇게 느껴지진 않았겠지만.
+Lena|B2|Då ska du höra det från mig först också: skickar ni maskinerna till Ohio får ni skicka oss också. Jag menar allvar. Jag har pass.|그럼 당신도 나한테서 먼저 들어요. 기계를 오하이오로 보내면 우리도 보내요. 진심이에요. 나 여권 있어요.
+Jonas|B1|Det tror jag gärna. Du skulle ta över hela Ohio på en vecka.|믿고말고요. 당신이면 일주일 만에 오하이오 전체를 접수할 거예요.
+Kent|A2|Det skulle hon. Fråga Robin.|그럴 거예요. 로빈한테 물어봐요.
+Lena|B2|Skämta inte bort det här, Jonas. Kommer du med ett förslag vill jag se siffrorna innan Carver gör det. Inte samtidigt. Innan.|이걸 농담으로 넘기지 마요, 요나스. 제안을 들고 오면, 카버보다 먼저 숫자를 보고 싶어요. 같이가 아니라. 먼저.
+Jonas|B2|Du får dem på fredag. Och om jag föreslår att något ska flyttas, ska ingen här förlora jobbet på grund av det. Det lovar jag inte Carver – det lovar jag dig.|금요일에 드릴게요. 그리고 제가 뭔가를 옮기자고 제안한다면, 그것 때문에 여기서 일자리를 잃는 사람은 없을 거예요. 이건 카버한테 하는 약속이 아니라 당신한테 하는 약속이에요.
+Lena|B1|Ett löfte är ett löfte, brukar du säga. Ta din mugg och gå.|약속은 약속이라고 당신 늘 그러죠. 머그 들고 가요. (요나스가 머그를 들고 나간다. 레나는 문이 닫힐 때까지 그를 보지 않는다)
+# 장면 4 — 할셰 시청 3층 회의실 — 2차 화상회의, 2월 17일 월요일 오후 3시 20분
+Nyman|C1|Låt mig vara tydlig från början: en kommun kan inte göra någonting åt amerikanska tullar. Handelspolitiken ligger hos EU, och inte ens regeringen kan förhandla på egen hand – vad man än tycker om det.|처음부터 분명히 해 두죠. 지자체는 미국 관세에 대해 아무것도 할 수 없어요. 통상 정책은 EU 소관이고, 정부조차 혼자서는 협상 못 합니다. 그걸 어떻게 생각하든 간에요. (2월 17일 월요일 오후 3시 20분, 1960년대 벽돌 시청 3층. 창밖으로 공장 굴뚝과 얼어붙은 호수. 뉘만 앞에 커피 보온병. 엘린의 노트북이 대형 화면에 연결돼 있다)
+Jonas|B1|Det vet jag. Jag ber dig inte om tullar. Jag ber dig om tio minuter med Tom Carver.|알아요. 관세를 부탁하는 게 아니에요. 톰 카버와 10분만 같이 있어 달라는 거예요.
+Nyman|A2|Varför jag?|왜 저예요?
+Jonas|B2|För att hans största oro inte är tullen. Den är att hälften av våra smeder och svetsare går i pension inom tio år. Han mejlade i fredags och frågade vem som ska svarva hans kolvstänger 2035.|그 사람의 가장 큰 걱정은 관세가 아니라서요. 우리 대장장이랑 용접공 절반이 10년 안에 은퇴한다는 거예요. 지난 금요일에 메일로, 2035년엔 누가 자기 피스톤 로드를 깎겠느냐고 물었어요.
+Nyman|B2|Det kan jag svara på. Det är ju precis vad vi skrev under i höstas, och det står jag för även om oppositionen inte gillar det.|그건 답할 수 있죠. 바로 지난가을 우리가 서명한 거잖아요. 야당이 마음에 안 들어 해도 저는 그 약속을 지킵니다.
+Elin|B1|Han ansluter om två minuter. Lena fick samma siffror i fredags, före honom.|2분 뒤에 접속해요. 레나는 같은 숫자를 지난 금요일에 받았어요. 톰보다 먼저.
+Tom|B1|Hej igen. Jag ser att ni har tagit med en ny person.|다시 안녕하세요. 새 얼굴을 데려오셨네요.
+Nyman|B2|Per-Olof Nyman, kommunstyrelsens ordförande i Hallsjö. Jonas säger att du undrar vem som ska jobba på bruket om tio år. Det undrar jag också – varje dag.|페르-울로프 뉘만, 할셰 시 집행위원장입니다. 10년 뒤에 공장에서 누가 일할지 궁금해하신다고 요나스가 그러더군요. 저도 궁금해요. 매일.
+Tom|A2|Och vad är svaret?|그래서 답은요?
+Nyman|B2|Kommunen har lovat att hålla industritekniska programmet öppet i tre antagningar, oavsett hur många som söker. I januari började tjugo vuxna utbilda sig till svetsare och CNC-operatörer, och alla som klarar provanställningen får jobb på bruket.|시는 지원자 수와 상관없이 산업기술과를 세 번의 신입 모집 동안 유지하기로 약속했습니다. 1월엔 성인 20명이 용접공과 CNC 기사 교육을 시작했고, 수습을 통과하는 사람은 모두 공장에 취업합니다.
+Tom|B2|Good. Det är mer än jag får av mitt eget county. Men det löser inte mitt problem med tullen.|좋네요. 우리 카운티에서 받는 것보다 낫군요. 하지만 그걸로 내 관세 문제가 풀리진 않아요.
+Jonas|B2|Nej, men det här gör det, åtminstone delvis. Vi bygger en monteringsenhet i din fabrik i Ohio – fjorton personer, anställda på plats, med egna provbänkar. Där monteras och provtrycks varje cylinder innan den går vidare till dina kunder.|네, 하지만 이건 풀어요. 적어도 일부는요. 오하이오 당신 공장 안에 조립 거점을 만들겠습니다. 현지 채용 14명, 시험대도 따로 갖추고요. 모든 실린더가 거기서 조립되고 압력 시험을 거친 다음 고객에게 갑니다.
+Tom|B1|Och resten av cylindern? Var görs den?|그럼 실린더의 나머지는요? 어디서 만들어요?
+Jonas|B2|Vi kan montera i Ohio, men smidet och kunnandet stannar i Hallsjö.|조립은 오하이오에서 할 수 있어요. 하지만 단조와 노하우는 할셰에 남습니다.
+Elin|C1|I siffror: kolvstänger, cylinderrör och smidda gavlar står för ungefär sextio procent av värdet. Packningar, slangar, lack och provning köps och görs i USA. Om tullen kommer läggs den alltså bara på komponenterna – och den delar vi lika, med ett tak för vår andel och en klausul om omförhandling om reglerna ändras.|숫자로 말씀드리면, 피스톤 로드, 실린더 튜브, 단조 엔드캡이 가치의 약 60%예요. 패킹, 호스, 도장, 시험은 미국에서 사고 미국에서 합니다. 그러니까 관세가 오면 부품에만 붙고, 그 몫은 반반 나눕니다. 우리 몫엔 상한을 두고, 규칙이 바뀌면 재협상하는 조항도 넣고요.
+Tom|B1|Vid tjugofem procent – vad kostar det er?|25%일 때 당신들한텐 얼마가 들죠?
+Elin|C1|Knappt 20 miljoner kronor om året, i stället för 65. Vid tio procent knappt åtta. Och kommer tullen aldrig får dina kunder sex veckors kortare leveranstid och service på plats. Det är ett beslut som håller i alla tre framtiderna, vilket är mer än något av de andra alternativen kan sägas göra.|연 2,000만 크로나가 조금 안 돼요. 6,500만이 아니라요. 10%면 800만이 조금 안 되고요. 그리고 관세가 끝내 안 오면, 고객들은 납기가 6주 짧아지고 현장 서비스를 받아요. 세 가지 미래 모두에서 버티는 결정이에요. 다른 어떤 안도 그렇다고는 말할 수 없죠.
+Tom|C1|I torsdags skrev presidenten under ett memorandum om så kallade ömsesidiga tullar, där till och med er moms ska vägas in. Och om de i Washington bestämmer sig för att en svensk kolvstång också är en stålprodukt – vad händer då med er kalkyl?|지난 목요일 대통령이 이른바 '상호 관세'에 관한 각서에 서명했어요. 거기선 당신네 부가가치세까지 따져 보겠다고 하죠. 그리고 워싱턴에서 스웨덴산 피스톤 로드도 철강 제품이라고 정해 버리면요? 그럼 당신들 계산은 어떻게 되죠?
+Jonas|C1|Då sitter vi i samma båt som alla andra, och då är det bättre att sitta där med en partner som redan har visat att den levererar. Protektionism drabbar sällan dem som beslutar om den, utan dem som står vid maskinerna. Hos dig lika mycket som hos oss.|그럼 우린 다른 모두와 같은 배를 타는 거고, 그럴 땐 이미 납품으로 증명한 파트너와 같이 타는 게 나아요. 보호무역은 그걸 결정하는 사람보다 기계 앞에 선 사람들을 덮치죠. 우리 쪽만큼이나 당신 쪽에서도요.
+Tom|B2|My guys in Dayton skulle hålla med dig. Vad kostar monteringsenheten, och vem betalar?|데이턴의 우리 직원들도 당신 말에 동의하겠네요. 조립 거점은 얼마고, 누가 내죠?
+Elin|B2|Trettioåtta miljoner kronor, och det betalar vi. Banken måste godkänna det, så jag pratade med Mikael Stål i morse. Han säger ja om du skriver under en förlängning av avtalet till 2030.|3,800만 크로나, 저희가 냅니다. 은행 승인이 필요해서 오늘 아침 미카엘 스톨과 통화했어요. 당신이 계약을 2030년까지 연장하는 데 서명하면 승인하겠대요.
+Tom|B1|2030. Ni är inte blyga, ni svenskar.|2030년. 스웨덴 사람들, 수줍음은 없군요.
+Jonas|B1|Vi har lärt oss av en amerikan som stod vid vår smedja 1986.|1986년에 우리 단조장 옆에 서 있던 미국 사람한테서 배웠죠.
+Tom|B2|Okay. Jag tar det till min styrelse den tjugoåttonde och skickar ingen uppsägning innan dess. Säger de ja skriver vi en avsiktsförklaring i mars. Och Jonas – hälsa Greta att hon hade rätt om måndagar.|좋아요. 28일 이사회에 올리고, 그 전엔 해지 통보를 보내지 않겠습니다. 이사회가 승인하면 3월에 의향서를 쓰죠. 그리고 요나스, 그레타한테 월요일 얘기는 그분이 옳았다고 전해 줘요. (화면이 꺼진다)
+Nyman|A2|Var det allt? Tio minuter, sa du.|이게 다예요? 10분이라더니. (뉘만이 시계를 보고 웃으며 보온병 뚜껑을 닫는다. 25분이 지났다)
+# 장면 5 — 스톡홀름 쇠데르, 요나스의 부엌, 2월 19일 수요일 밤 9시 반
+Love|A2|Pappa, ditt företag var på nyheterna.|아빠, 아빠 회사 뉴스에 나왔어. (수요일 밤 9시 반, 쇠데르의 요나스 집 부엌. 요나스가 막 기차에서 내려 들어왔다. 식탁 위에 러브의 노트북. 냄비엔 렌틸콩 수프 — 러브가 끓였다)
+Jonas|A2|Jaså? Var då? Allehanda?|그래? 어디에? 알레한다?
+Love|B1|Nej, Kuriren. "Bergslagsbruk pressas av Trumps tullar." Det är en bild på hammaren vid grinden. Ali skickade den.|아니, 쿠리렌. "베리슬라겐의 공장, 트럼프 관세에 압박." 정문 쇠망치 사진도 있어. 알리가 보내 줬어.
+Jonas|B1|Har du läst hela artikeln? Det brukar du inte göra med sådant.|기사 전부 읽었어? 너 그런 거 보통 안 읽잖아.
+Love|B1|Ja. Vi har handelskriget i samhällskunskapen just nu. Läraren säger att det är amerikanerna själva som betalar tullarna. Stämmer det?|응. 지금 사회 시간에 무역 전쟁 하거든. 선생님이 관세는 미국 사람들이 직접 낸대. 맞아?
+Jonas|C1|Formellt, ja: det är företaget som importerar som betalar tullen. Men sedan försöker alla vältra över notan på någon annan – på kunden, på leverantören, på någon som inte ens sitter med vid bordet.|형식적으론 맞아. 수입하는 회사가 관세를 내. 그런데 그다음엔 다들 그 청구서를 남한테 떠넘기려고 해. 고객한테, 공급업체한테, 테이블에 앉아 있지도 않은 누군가한테.
+Love|B1|Som Lena? Hon var med i artikeln. Hon sa att det inte är rättvist.|레나 같은? 기사에 나왔던데. 불공평하다고 했어.
+Jonas|B1|Hon har rätt. Men i måndags kanske vi hittade en lösning. Om Carver säger ja behöver ingen förlora jobbet.|레나 말이 맞아. 그런데 월요일에 해결책을 찾았을지도 몰라. 카버가 승인하면 아무도 일자리를 잃을 필요가 없어.
+Love|A2|Kan jag följa med till Hallsjö någon gång? Jag vill se smedjan.|나도 언젠가 할셰에 같이 가도 돼? 단조장 보고 싶어.
+Jonas|B1|På påsklovet. Jag lovar. Farfar skulle ha gillat att du frågar.|부활절 방학에. 약속할게. 할아버지가 네가 이런 거 묻는 거 좋아하셨을 거야. (러브가 수프를 두 그릇 뜬다. 요나스는 한참 아무 말 없이 먹는다)
+Love|A2|Ett löfte är ett löfte, va?|약속은 약속이지?
+# 장면 6 — 할셰, 사장실, 2월 24일 월요일 아침 7시 15분
+Jonas|A2|God morgon, Lena. Vill du ha kaffe?|좋은 아침이에요, 레나. 커피 줄까요? (2월 24일 월요일 아침 7시 15분, 할셰 사장실. 요나스는 방금 첫 기차로 도착해 외투도 아직 걸지 않았다. 레나가 노크 없이 들어온다. 한 손으로 외투 안쪽을 누르고 있다)
+Lena|B1|Nej. Inte i dag. Är det någon annan här på kontorsvåningen?|아니요. 오늘은 됐어요. 이 층에 다른 사람 있어요?
+Jonas|A2|Nej. Vad har hänt?|아니요. 무슨 일이에요?
+Lena|B1|Jonas. Det finns något du måste se. Men du har inte fått det av mig.|요나스. 당신이 꼭 봐야 할 게 있어요. 하지만 나한테서 받은 걸로 하면 안 돼요. (레나가 뒤돌아 사장실 문을 닫는다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Det är inte rättvist.** | 불공평해요. | *rättvis* = 공정한(명사 *rättvisa* = 정의, 공정). 주어 *det* + *är* + 형용사 중성형(-t). 반대는 *orättvis*(형용사) / *orättvisa*(명사) |
+| `A2` | **Ta din mugg och gå.** | 머그 들고 가요. | 명령형 두 개를 *och*로 잇는 짧은 축객령. 명령형은 동사 어간 그대로(*ta*, *gå*). *din* = 공성 명사 *mugg*에 맞춘 소유대명사 |
+| `B1` | **Om tullen blir 25 procent förlorar vi hela marginalen.** | 관세가 25%가 되면 마진이 전부 사라져요. | *om*-조건절이 앞에 오면 주절은 동사부터(*förlorar vi*) — V2 어순. *tull* = 관세(*tullen* 한정형), *hela* + 한정형 명사 = ~ 전부 |
+| `B1` | **Vem har du hört det av?** | 누구한테 들었어요? | *höra något av någon* = 누구에게서 무엇을 듣다. 의문사 *vem*이 앞으로 나오고 전치사 *av*는 문장 끝에 남는다(전치사 좌초) |
+| `B2` | **Vi kan montera i Ohio, men smidet och kunnandet stannar i Hallsjö.** | 조립은 오하이오에서 할 수 있어요. 하지만 단조와 노하우는 할셰에 남습니다. | *smide* = 단조(동사 *smida*), *kunnande* = 노하우·숙련(동사 *kunna*에서 온 명사). *stanna* = 남다, 머무르다. 협상에서 '줄 것'과 '지킬 것'을 한 문장에 가르는 구조 |
+| `B2` | **Skickar ni maskinerna till Ohio får ni skicka oss också.** | 기계를 오하이오로 보내면 우리도 보내요. | *om* 없이 동사를 문장 맨 앞에 두어 조건을 나타내는 구어체 조건문(*Skickar ni… = Om ni skickar…*). 주절도 동사부터(*får ni*) |
+| `B2` | **Skämta inte bort det här.** | 이걸 농담으로 넘기지 마요. | 동사 + *bort* = ~해서 없애 버리다(*skämta bort*, *prata bort*, *sova bort dagen*). 명령형 부정은 동사 바로 뒤에 *inte* |
+| `C1` | **Protektionism drabbar sällan dem som beslutar om den, utan dem som står vid maskinerna.** | 보호무역은 그걸 결정하는 사람보다 기계 앞에 선 사람들을 덮치죠. | *drabba* = (재난·불이익이) 닥치다, 덮치다. *inte/sällan A, utan B* = A가 아니라 B. *den*은 *protektionism*(공성)을 받는다. *dem som* = ~하는 사람들(목적격) |
+| `C1` | **Scenarioplanering handlar inte om att gissa rätt om framtiden, utan om att se vilka beslut som håller i flera framtider samtidigt.** | 시나리오 플래닝은 미래를 맞히는 게 아니라, 여러 미래에서 동시에 버티는 결정이 뭔지 보는 거야. | *handla om* = ~에 관한 것이다. 간접의문문에서 주어를 묻는 *vilka*에는 *som*이 필요하다(*vilka beslut som håller*). *hålla* = 버티다, 유효하다 |
+| `C1` | **Alla försöker vältra över notan på någon annan.** | 다들 그 청구서를 남한테 떠넘기려고 해요. | *vältra över något på någon* = (책임·비용을) 남에게 굴려 넘기다, 전가하다. *notan* = 계산서(*nota*의 한정형). 관세 '귀착(incidence)'을 일상어로 말하는 표현 |
+
+## 현안 메모
+- **2025년 초 미국의 관세 공세** — 2025년 1월 20일 취임한 트럼프 대통령은 첫날 '미국 우선 통상정책(America First Trade Policy)' 각서로 무역 적자와 교역 상대국의 관행을 검토하라고 지시했다. 2월 1일에는 국제긴급경제권한법(IEEPA)을 근거로 캐나다·멕시코산 수입품에 25%, 중국산에 10% 관세를 부과하는 행정명령에 서명했고, 캐나다·멕시코분은 2월 3일 30일간 유예됐다(중국분은 2월 4일 발효). 같은 시기 대통령은 EU도 관세 대상이 될 것이라고 거듭 말했다. 이 화는 그 위협이 아직 '예고'였던 2월을 다룬다.
+- **철강·알루미늄 관세와 '상호 관세' 각서** — 2월 9일 대통령은 전용기에서 모든 철강·알루미늄 수입품에 25% 관세를 매기겠다고 밝혔고, 2월 10일 무역확장법 232조에 근거한 포고에 서명했다. 철강 25%를 복원하고 알루미늄을 10%에서 25%로 올리며, EU가 2021년 합의로 얻었던 관세할당(TRQ)을 포함한 국가별 예외를 없애는 내용으로 3월 12일 발효 예정이었다. 2월 13일에는 각국의 관세·비관세 장벽(부가가치세 포함)을 검토해 '상호 관세'를 설계하라는 각서가 나왔다. 이 화 이후의 일이지만, 4월 2일 이른바 '해방의 날(Liberation Day)'에 거의 모든 교역국을 대상으로 한 광범위한 관세가 발표됐다.
+- **스웨덴과 EU 통상정책** — 통상정책은 EU의 배타적 권한이라 스웨덴은 미국과 따로 관세 협상을 할 수 없다. 협상과 보복 조치는 EU 집행위원회가 맡고, 스웨덴 정부는 EU 안에서 입장을 낸다(스웨덴 통상청 Kommerskollegium이 영향 분석을 한다). EU는 2018년 철강 관세에 맞서 마련한 보복 관세의 적용을 2025년 3월 31일까지 유예해 둔 상태였다. 미국은 노르웨이·독일과 함께 스웨덴의 가장 큰 수출 시장 중 하나이고, 기계·차량·의약품·철강 제품 수출 기업이 많은 스웨덴 제조업에 관세 불확실성은 곧 투자 보류와 '현지 생산' 압박으로 이어졌다.
+- **관세는 누가 내나** — 관세는 수입국 세관에 수입자가 낸다. 러브의 선생님 말이 형식적으로는 맞다. 하지만 실제 부담(귀착)은 가격 협상을 통해 수입자·최종 소비자·수출자 사이에 나뉜다. 카버가 할베리에 '관세 분담'이나 '현지 생산'을 요구하는 것이 바로 그 전가 과정이다. 카버 하이드롤릭스, 톰 카버, 독일 공급업체의 미국 공장 계획과 모든 숫자는 가상이다.
+
+## 비즈니스 메모
+- **시나리오 플래닝 — '맞히기'가 아니라 '버티기'** — 엘린은 관세율을 예측하지 않고 0%·10%·25%라는 세 미래와 세 대응안을 3×3 표에 놓았다. 전면 이전(투자 2억 4,000만, 18개월, 약정 지표 3.39 → 약 4.0으로 약정 위반)은 관세가 끝내 안 오면 비싸고, 관세 반반 분담(연 1,300만~3,200만)은 관세가 높으면 치명적이며, 고객 교체(첫해 공헌이익 −3,500만)는 여유가 가장 적을 때 가장 큰 비용을 부른다. 어느 칸에서도 무너지지 않는 네 번째 안 — 오하이오 조립 거점(투자 3,800만, 25%일 때 부담 약 2,000만, 0%일 때도 납기 6주 단축과 현장 서비스라는 이익) — 이 '강건한 결정(robust decision)'이다. 실무에서는 이런 결정을 '후회 없는 선택(no-regret move)'이라고도 부른다.
+- **리쇼어링 분석 — 무엇을 옮길지 가치사슬로 쪼개기** — 실린더 가격의 약 60%는 단조·가공 부품(피스톤 로드, 실린더 튜브, 엔드캡), 40%는 조립·시험·현지 조달 부품이다. 부품만 수출하면 관세는 부품의 과세가격에만 붙어 과세 기준이 40% 줄고, 고객이 원하는 '미국에서 조립·시험'도 충족된다. 다만 원산지 표시는 별개다. 미국 연방거래위원회(FTC) 기준에서 'Made in USA'는 '전부 또는 거의 전부' 미국산이어야 해서, 이런 구조라면 보통 'Assembled in USA' 같은 표기를 쓴다. 그래서 엘린은 계약에 '규칙이 바뀌면 재협상' 조항과 할베리 분담분의 상한을 넣는다. 관세 품목 분류(철강 파생제품이냐 아니냐)는 정책 하나로 바뀔 수 있기 때문이다.
+
+## 다음 화 예고 — Visslaren
+**2부 14화.** 2025년 2월 말. 레나가 닫은 사장실 문 뒤에서 나온 것은 서류 몇 장과 한 사람의 이름이었다. 밤의 공장 뒤 주차장, 영업팀 직원 안데르스가 떨리는 손으로 송장 묶음을 내민다. "Jag är rädd." 페테르 시절 영업팀이 중앙아시아의 한 중개사를 거쳐 유압 부품을 러시아로 보냈다는 정황. 그리고 아미르가 화면에 띄운 주소 — 6화에서 세 번 나왔던 두바이의 그 주소다. 변호사는 "조용히 정리하는 방법"을 권하고, 엘린은 자진 신고를 주장한다. "Om vi själva anmäler det här står vi starkare än om någon annan gör det åt oss." 그때 요나스의 휴대폰이 울린다. 리누스 팔크다.
