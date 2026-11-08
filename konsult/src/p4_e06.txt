@@ -1,0 +1,161 @@
+@title 4부 6화 — Norrland
+@subtitle (노를란드)
+@meta 날짜|2026년 4월 17일 금요일 ~ 19일 일요일
+@meta 장소|룰레오 항구, Polarstål 녹색강철 시범 공장 (17일 금요일 오전 10시) → 보덴 민중회관(Folkets hus) 강당의 타운홀 (18일 토요일 오전 11시) → 요크모크 서쪽, 순록 겨울 방목지 (19일 일요일 오전 9시) → 키루나, 옛 시가지 터의 울타리 앞 (같은 날 오후 6시 반) → 키루나 새 시내, 잉리드의 아파트 부엌 (밤 9시)
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 44, 수석 전략가) · **Elin Bergqvist** (엘린 베리크비스트, 37, 정책·예산·리스크 — 토요일 첫 비행기로 합류) · **Annika Strand** (안니카 스트란드, 49, 당 대표) · **Birgitta Lantto** (비르기타 란토, 59, 노르보텐 지구 위원장) · **Maria Lindh** (마리아 린드, 46, 녹색강철 기업 Polarstål CEO) · **Tomas Alatalo** (토마스 알라탈로, 52, 보덴의 전기 기사) · **Sanna Kuoksu** (산나 쿠옥수, 34, 순데르뷔 병원 간호사) · **Eino** (에이노, 79, 은퇴한 수력발전소 건설 노동자) · **Ánte** (언테, 57, 사미 순록 목축인) · **Ingrid Ekholm** (잉리드 에크홀름, 71, 요나스의 어머니) · 영상통화: **Love** (러브, 18, 요나스의 아들)
+@meta 이번 화의 도구|지역 맞춤 메시지(Lokal förankring) — 같은 정책, 다른 이야기. 한 문장이 그 지역에서 '누구의 비용'으로 들리는지 먼저 묻고, 원칙은 그대로 둔 채 그 지역의 손익 언어로 다시 쓴다. 단, 고쳐 쓴 문장은 말뫼에서도 보덴에서도 똑같이 지킬 수 있어야 한다
+@meta 스웨덴 현안|남북 전기요금 격차 — 2011년부터 네 개의 가격구역(elområde), 북부 1·2구역은 싸고 남부 3·4구역은 비싸다 · 노르보텐의 녹색 산업 붐과 주택·인력 부족 · 풍력·광산 개발과 사미 순록 목축권의 충돌, 2022년 사미 협의법 · 광산 때문에 도심을 통째로 옮기는 키루나 도시 이전(stadsflytten)
+@intro **지난 이야기** — 3월 14일, 노라 하산의 조건대로 카메라도 기자도 없이 안니카는 야르바의 문을 두드렸다. 문 64개, 열린 문 23개, 2분 넘은 대화 14개. 가장 많이 들은 말은 범죄가 아니라 "아무도 다시 전화하지 않는다"였다. 텐스타의 파두모에게 안니카는 약속했다. 결과가 어떻든 선거 후 가을에, 카메라 없이 다시 오겠다고. 그날 밤 알뷔에서 아미르는 동생 다니얄의 휴대폰에 낯선 번호의 '주말 일자리' 메시지가 와 있는 것을 보았다. "별거 아니야, 형." 답장하지 않겠다는 약속은 끝내 듣지 못했다.
+@intro 한 달 뒤. 안니카는 1월에 룰레오 당원들에게 한 약속, 그리고 2월 평의회에서 비르기타 란토와 나눈 말을 지키러 북쪽으로 간다. 2부에서 할베리 브루크와 거래를 텄던 녹색강철 회사 Polarstål이 첫 방문지다. 엘린은 이번에도 금요일을 비운다. 하지까지 목요일과 금요일은 마야의 날이다. 그녀는 토요일 첫 비행기로 올라온다. 그리고 일정표의 마지막 줄은 요나스가 직접 적었다. 일요일 저녁, 키루나. 잉리드.
+# 장면 1 — 룰레오 항구, Polarstål 시범 공장, 4월 17일 금요일 오전 10시
+Birgitta|B1|Välkomna till Luleå. Ni har klätt er för april i Stockholm, ser jag. Här betyder april minus åtta och is på fjärden.|룰레오에 오신 걸 환영해요. 스톡홀름의 4월 옷차림으로 오셨네요. 여기서 4월은 영하 8도에 만(灣)이 꽁꽁 언 달이에요. (4월 17일 금요일 오전 10시. 룰레오 항구, Polarstål 시범 공장 정문 앞. 바다는 아직 하얗게 얼어 있다. 노르보텐 지구 위원장 비르기타 란토가 차 문을 닫는다)
+Annika|A2|Det är så kallt! Jag har tre tröjor på mig.|너무 추워요! 스웨터를 세 겹이나 입었는데.
+Maria|A2|Här är det kallt men elen är billig. Det är därför vi är här. Kom in.|여긴 춥지만 전기는 싸요. 우리가 여기 있는 이유죠. 들어오세요. (Polarstål CEO 마리아 린드가 안전모 세 개를 들고 나온다)
+Jonas|B1|Maria Lindh. Senast vi sågs satt jag på andra sidan bordet för Hallberg Bruk. Nu kommer jag med ett parti i stället.|마리아 린드. 지난번에 만났을 땐 제가 할베리 브루크 쪽에 앉아 있었죠. 이번엔 대신 정당을 데리고 왔어요.
+Maria|B2|Och Hallberg köper fortfarande av oss, om du undrar. Kjell ringer varje kvartal och klagar på priset, och sedan beställer han lika mycket igen.|그리고 할베리는 아직도 우리한테서 사요, 궁금할까 봐. 셸이 분기마다 전화해서 가격 불평을 하고는, 또 같은 양을 주문해요.
+Annika|B1|Hur många jobbar här i dag?|지금 여기서 몇 명이 일해요? (안전모를 쓰고 제어실 쪽으로 걷는다)
+Maria|B2|Sextioåtta här i hamnen. När den stora anläggningen står klar 2029 behöver vi fyrahundra, men vi har redan svårt att fylla de tjänster vi har.|여기 항구에 68명이요. 큰 공장이 2029년에 다 지어지면 400명이 필요한데, 지금 있는 자리도 벌써 채우기가 어려워요.
+Jonas|B1|Är det lönen? Eller är det något annat?|월급 때문이에요? 아니면 다른 거예요?
+Maria|C1|Lönen är det inget fel på. Det är bostäderna. I fjol tackade elva ingenjörer nej i sista stund, eftersom de inte hittade någonstans att bo, och två av dem som faktiskt kom bor fortfarande i husvagn i väntan på en hyresrätt.|월급은 문제없어요. 집이에요. 작년에 엔지니어 열한 명이 살 곳을 못 찾아서 마지막 순간에 입사를 포기했어요. 그리고 실제로 온 사람 중 둘은 임대 아파트를 기다리면서 아직도 캠핑카에서 살아요.
+Birgitta|B2|Och det är inte bara ingenjörer. Sjukhuset i Sunderbyn saknar sjuksköterskor, och i Boden har skolorna fler barn än lärarna hinner med.|그리고 엔지니어만이 아니에요. 순데르뷔 병원은 간호사가 모자라고, 보덴 학교들은 교사들이 감당할 수 있는 것보다 아이가 더 많아요.
+Annika|B2|Så de nya jobben kommer, men samhället som ska bära dem kommer inte lika fort. Det känner jag igen från sjukvården.|그러니까 새 일자리는 오는데, 그걸 떠받칠 사회는 그만큼 빨리 안 오는 거네요. 의료 현장에서 많이 보던 거예요.
+Maria|B1|Precis. Och så elen. Får jag visa er siffran som håller mig vaken på nätterna?|바로 그거예요. 그리고 전기. 제가 밤잠을 못 자게 하는 숫자를 보여 드려도 될까요? (제어실 벽면 화면 앞에 선다)
+Jonas|A2|Visa.|보여 줘요.
+Maria|B2|Den nya anläggningen kommer att använda ungefär niohundra gigawattimmar om året. Varje öre per kilowattimme blir alltså nio miljoner kronor om året för oss.|새 공장은 1년에 약 900기가와트시를 쓸 거예요. 그러니까 킬로와트시당 1외레가 우리한텐 1년에 900만 크로나예요.
+Annika|B1|Och i dag är priset lägre här än i söder?|그리고 지금은 여기가 남쪽보다 가격이 낮고요?
+Maria|C1|Elområde ett har nästan alltid legat lägst sedan indelningen 2011, ofta tillsammans med tvåan. Det är just den skillnaden som gör att man väljer att bygga i Luleå i stället för i Rotterdam. Tar man bort den, tar man bort skälet till att vi finns här.|1구역은 2011년에 구역이 나뉜 뒤로 거의 늘 가장 쌌어요. 2구역이랑 같이일 때가 많았지만요. 로테르담 대신 룰레오에 짓기로 하는 건 바로 그 차이 때문이에요. 그 차이를 없애면, 우리가 여기 있는 이유를 없애는 거예요.
+Jonas|B2|Annika, det här är meningen du ska ha i huvudet i morgon i Boden. I ert program står det "ett jämnare elpris i hela landet".|안니카 씨, 이게 내일 보덴에서 머릿속에 넣고 가야 할 문장이에요. 당 강령엔 '전국에 더 고른 전기요금'이라고 적혀 있잖아요.
+Annika|B2|Det har stått där sedan 2018. Ingen har någonsin klagat på den punkten. Folk i Skåne tycker att det är rättvist.|2018년부터 적혀 있던 거예요. 그 항목에 불만을 말한 사람은 한 번도 없었어요. 스코네 사람들은 공평하다고 생각하고요.
+Birgitta|B1|Folk i Skåne, ja. Har någon frågat folk i Boden?|스코네 사람들은 그렇겠죠. 보덴 사람들한테 물어본 사람은 있어요?
+Annika|A2|Nej. Inte vad jag vet.|아니요. 제가 아는 한은요.
+Jonas|C1|Det är samma politik, men två olika berättelser. I Malmö hör man "äntligen ska någon göra något åt min elräkning". Här kan samma mening låta som "nu ska de ta det enda vi har som är billigare än i Stockholm".|같은 정책인데 이야기는 두 개예요. 말뫼에선 '드디어 누가 내 전기 고지서를 어떻게 해 주는구나'로 들려요. 여기선 같은 문장이 '이제 우리가 가진 것 중에 스톡홀름보다 싼 유일한 걸 가져가겠구나'로 들릴 수 있어요.
+Maria|C1|Och det handlar inte bara om oss som företag. Människorna här har betalat för vattenkraften i hundra år – med sin mark, sina forsar och byar som hamnade under vatten – och de har sällan fått något tillbaka.|그리고 회사인 우리만의 문제가 아니에요. 여기 사람들은 백 년 동안 수력발전 값을 치렀어요. 자기 땅으로, 급류로, 물에 잠긴 마을로요. 그리고 돌려받은 건 거의 없죠.
+Annika|B1|Vad skulle du säga, om du var jag?|당신이 저라면 뭐라고 하겠어요?
+Maria|B2|Att ni inte tänker sänka priset i söder genom att höja det här. Och att ni vet hur lång tid en elnätsanslutning tar. Vi väntade i sex år på vår.|남쪽 가격을 여기 가격을 올려서 내리진 않겠다고요. 그리고 전력망 연결에 시간이 얼마나 걸리는지 안다고요. 우린 6년을 기다렸어요.
+Jonas|B1|Elin kommer med första planet i morgon. Hon kommer att vilja se de där siffrorna.|엘린이 내일 첫 비행기로 와요. 그 숫자들 보고 싶어 할 거예요.
+Birgitta|B1|Varför kom hon inte i dag? Hon var ju med i Västerås.|왜 오늘은 안 왔어요? 베스테로스엔 왔었잖아요.
+Jonas|B2|Torsdagar och fredagar är hennes dotters fram till midsommar. Det är det enda löftet i den här kampanjen som väger tyngre än våra.|하지까지 목요일과 금요일은 딸의 날이에요. 이 캠페인에서 우리 약속보다 무거운 유일한 약속이죠.
+Maria|A2|Bra. Hälsa henne från mig.|좋네요. 제 안부 전해 주세요.
+# 장면 2 — 보덴 민중회관(Folkets hus) 강당, 4월 18일 토요일 오전 11시
+Birgitta|B1|Välkomna allihop. Vi har en och en halv timme, och Annika har lovat att prata högst tio minuter. Sedan är det er tur.|다들 어서 오세요. 한 시간 반 있어요. 안니카는 10분 넘게 말하지 않겠다고 약속했어요. 그다음엔 여러분 차례예요. (토요일 오전 11시. 보덴 민중회관 강당. 접이식 의자 80개 중 70개쯤이 찼다. 맨 뒷줄에 엘린이 노란 노트를 펴고 앉아 있다. 첫 비행기로 왔다)
+Annika|B2|Tack, Birgitta. Jag ska hålla tiden. Vi har ett förslag som har funnits i vårt program sedan 2018: ett jämnare elpris i hela landet, så att det inte ska spela någon roll var i Sverige man bor.|고마워요, 비르기타. 시간 지킬게요. 저희 강령에 2018년부터 들어 있는 안이 하나 있어요. 전국에 더 고른 전기요금. 스웨덴 어디에 살든 상관없도록요.
+Tomas|B1|Ursäkta, men jämnare åt vilket håll? Uppåt eller nedåt?|죄송한데, 고르게라는 게 어느 쪽으로요? 위로요, 아래로요? (셋째 줄, 작업복 차림의 남자가 손을 든다)
+Annika|B2|Tanken är att hushållen i söder inte ska behöva betala tre gånger så mycket som ni under en kall vinter.|남쪽 가정들이 추운 겨울에 여러분보다 세 배를 내지 않아도 되게 하자는 거예요.
+Tomas|C1|Då säger jag det rakt ut: ni vill att vi ska betala mer, så att Skåne kan betala mindre. Vi har älven full av dammar, kraftledningar genom skogen och snart vindkraftverk på varje höjd – och nu ska vi dessutom dela med oss av det enda som faktiskt var billigare här.|그럼 대놓고 말할게요. 스코네가 덜 내도록 우리더러 더 내라는 거잖아요. 우린 강에 댐이 가득하고, 숲을 가로지르는 송전선에, 곧 언덕마다 풍력발전기까지 서요. 그런데 이제 여기가 실제로 더 쌌던 유일한 것까지 나눠 쓰자고요. (몇몇이 박수를 친다)
+Annika|B1|Nej, så är det inte tänkt. Det handlar om rättvisa.|아니요, 그런 뜻이 아니에요. 공정함의 문제예요.
+Tomas|B1|Rättvisa för vem? Det är vi som bor här som får betala priset.|누구를 위한 공정함인데요? 대가를 치르는 건 여기 사는 우리예요.
+Sanna|B2|Och jag vill lägga till en sak. Jag är sjuksköterska och pendlar till Sunderbyn. Billig el hjälper inte när det inte finns någon lägenhet att ha den i.|그리고 하나 덧붙이고 싶어요. 저는 간호사고 순데르뷔로 출퇴근해요. 전기가 싸도, 그 전기를 쓸 아파트가 없으면 소용없어요. (앞줄의 젊은 여자)
+Annika|B2|Är du sjuksköterska? Jag jobbade femton år på IVA i Örebro, så jag vet precis hur det är när …|간호사세요? 저는 외레브로 중환자실에서 15년 일했어요. 그러니까 그게 어떤 건지 정확히 알아요, 그러니까…
+Sanna|B1|Med all respekt: det här handlar inte om dig.|실례지만, 이건 당신 얘기가 아니에요.
+Eino|B2|Jag var med och byggde ett av kraftverken uppe i älven i slutet av sextiotalet. Då sa de i Stockholm att det här var Sveriges framtid. Och det var det. Men framtiden flyttade söderut, längs ledningarna.|저는 60년대 말에 강 위쪽 발전소 하나를 짓는 데 참여했어요. 그때 스톡홀름에선 이게 스웨덴의 미래라고 했죠. 맞는 말이었어요. 그런데 미래는 송전선을 따라 남쪽으로 이사 갔어요. (뒷줄, 지팡이를 짚은 노인이 천천히 일어선다)
+Birgitta|A2|Vi tar tio minuters paus. Det finns kaffe.|10분 쉬어요. 커피 있어요.
+Annika|B2|Det där gick inte bra. Jag har sagt exakt samma mening i Malmö och fått applåder. Här är det som om jag hade förolämpat dem.|방금 그거 잘 안 됐어요. 말뫼에서 똑같은 문장으로 박수를 받았는데. 여기선 제가 모욕이라도 한 것 같아요. (복도, 커피 보온병 옆)
+Jonas|C1|Du har inte förolämpat dem, men du har svarat på en fråga som ingen här har ställt. Tomas frågade inte om rättvisa. Han frågade vem som ska bära kostnaden, och frågan bakom frågan är: räknar ni med oss, eller bara med vår el?|모욕한 건 아니에요. 다만 여기 아무도 묻지 않은 질문에 답했어요. 토마스는 공정함을 물은 게 아니에요. 비용을 누가 지느냐를 물었죠. 그리고 그 질문 뒤의 질문은 이거예요. 당신들은 우리를 셈에 넣느냐, 아니면 우리 전기만 넣느냐.
+Elin|B2|Jag har skrivit om punkten. Tre rader. Den kostar inte en krona i statsbudgeten, och den håller i en tv-debatt.|그 항목 다시 썼어요. 세 줄이에요. 국가 예산에서 1크로나도 안 들고, TV 토론에서도 버텨요. (노란 노트를 펼쳐 내민다)
+Annika|A2|Läs. Snälla.|읽어 줘요. 제발.
+Elin|C1|Ett: Ingen i norr ska betala mer för att någon i söder ska betala mindre. Två: Skillnaden ska byggas bort med ny produktion och nya ledningar där elen saknas, alltså i södra Sverige, inte genom att flytta priset. Tre: Flaskhalsintäkterna ska gå till elnätet och lägre nätavgifter i hela landet – också här, där ledningarna står.|하나. 남쪽 누군가가 덜 내게 하려고 북쪽 사람이 더 내는 일은 없어야 한다. 둘. 차이는 가격을 옮겨서가 아니라, 전기가 모자란 곳, 그러니까 남부 스웨덴에 새 발전 설비와 새 송전선을 지어서 없앤다. 셋. 혼잡 수입은 전국의 전력망과 망 이용료 인하에 쓴다. 송전선이 서 있는 이곳에도.
+Annika|B1|Flaskhalsintäkterna? Förklara det så att jag kan säga det på tio sekunder.|혼잡 수입이요? 제가 10초 안에 말할 수 있게 설명해 줘요.
+Elin|C1|När priset skiljer sig mellan två elområden får Svenska kraftnät in pengar på skillnaden, så kallade flaskhalsintäkter. Krisåret 2022 rörde det sig om tiotals miljarder kronor, och enligt EU:s regler ska de i första hand gå till att bygga ut nätet. Vi säger bara: glöm inte nätet här uppe.|두 가격구역 사이에 가격이 다르면, 그 차이만큼 스벤스카 크라프트네트(국가 송전망 공사)에 돈이 들어와요. 이른바 혼잡 수입이에요. 위기였던 2022년엔 수백억 크로나 규모였고, EU 규칙상 그 돈은 우선 전력망 확충에 써야 해요. 우리는 그저 이렇게 말하는 거예요. 여기 북쪽 망도 잊지 말라고.
+Jonas|B2|Och det viktigaste: du säger inte "rättvisa" en enda gång. Du säger vad som inte ska hända dem.|그리고 제일 중요한 거. '공정함'이란 말은 한 번도 하지 마요. 이 사람들한테 무슨 일이 일어나지 않을지를 말해요.
+Annika|C1|Det betyder att vi har haft en punkt i vårt program i åtta år som vi aldrig har prövat på dem som den handlar om. Det är inte särskilt smickrande för ett parti som kallar sig Brobyggarna.|그 말은, 우리가 8년 동안 강령에 항목 하나를 두고 있으면서 정작 그 항목이 다루는 사람들한테는 한 번도 시험해 본 적이 없다는 거네요. '다리 놓는 사람들'이라고 자칭하는 당으로선 썩 자랑할 일이 아니에요.
+Birgitta|B1|Pausen är slut. Vill du börja om, Annika?|쉬는 시간 끝났어요. 다시 시작할래요, 안니카?
+Annika|C1|Jag vill börja med att säga att jag hade fel. Jag kom hit för att förklara en punkt som vi skrev i Stockholm, och efter en halvtimme med er förstår jag att vi aldrig frågade er. Så här lyder den från och med i dag.|먼저 제가 틀렸다는 말씀부터 드릴게요. 저는 스톡홀름에서 쓴 항목 하나를 설명하러 여기 왔는데, 여러분과 30분을 보내고 나서야 우리가 한 번도 여러분께 묻지 않았다는 걸 알았어요. 오늘부터 그 항목은 이렇게 바뀝니다. (강당. 엘린의 노트를 보지 않고 세 줄을 또박또박 말한다. 한 숨에 한 생각)
+Tomas|B2|"Ingen i norr ska betala mer." Det skriver jag upp. Och om ni bryter det löftet efter valet?|'북쪽에선 아무도 더 내지 않는다.' 적어 둘게요. 그럼 선거 끝나고 그 약속 깨면요?
+Annika|B2|Då har du det på papper, med mitt namn under. Birgitta får skicka det till lokaltidningen redan i dag.|그럼 그게 종이로 당신 손에 있는 거죠. 밑에 제 이름이 적힌 채로요. 비르기타가 오늘 바로 지역 신문에 보내도 돼요.
+Sanna|B1|Och bostäderna, då? Det var inte med bland de tre raderna.|그럼 집은요? 세 줄 안엔 없었잖아요.
+Elin|C1|Nej, och det ska jag inte sticka under stol med. Bostäder åt dem som ska ta de nya jobben kräver statliga kreditgarantier och kommunal planering, och det har jag inte räknat på än. Jag lovar inte en siffra som jag inte kan försvara, men jag lovar att komma tillbaka med en.|네, 없어요. 그걸 숨길 생각은 없어요. 새 일자리를 채울 사람들의 집에는 국가 신용보증과 지자체 계획이 필요한데, 그건 아직 계산하지 못했어요. 방어할 수 없는 숫자는 약속하지 않겠지만, 숫자를 들고 다시 오겠다는 건 약속할게요. (뒷줄에서 일어선다)
+Eino|B1|Hon räknar i alla fall. Det är mer än de flesta gör.|저 사람은 적어도 계산은 하네. 대부분은 그것도 안 하는데.
+Jonas|A2|Det tar vi som beröm.|칭찬으로 받을게요.
+Birgitta|B2|Det är första gången på åtta år som någon från partiledningen ändrar sig mitt under ett möte i Norrbotten. Jag vet inte om det var modigt eller dumt, men folk kommer att prata om det.|당 지도부 누군가가 노르보텐에서 회의 도중에 생각을 바꾼 건 8년 만에 처음이에요. 용감한 건지 멍청한 건지 모르겠지만, 사람들 입에는 오르내리겠네요. (모임이 끝나고, 접이식 의자를 접으며)
+# 장면 3 — 요크모크 서쪽, 순록 겨울 방목지, 4월 19일 일요일 오전 9시
+Ánte|A2|Bures! Ni hittade hit. Ställ bilen där, annars springer renarna.|부레스! 잘 찾아왔네요. 차는 거기 세워요. 안 그러면 순록들이 달아나요. (4월 19일 일요일 오전 9시. 요크모크 서쪽, 소나무 숲 사이 눈 덮인 방목지. 스노모빌 옆에서 순록 목축인 언테가 손을 든다. 숲 가장자리에 회색 순록 수십 마리. 'Bures'는 사미어 인사말)
+Annika|A2|Hej, Ánte. Tack för att vi fick komma.|안녕하세요, 언테 씨. 오게 해 주셔서 고마워요.
+Ánte|B1|Birgitta ringde och sa att ni lyssnar nu för tiden. Vi får se. Vill ni ha kaffe? Jag har eld där borta.|비르기타가 전화해서 당신들이 요즘엔 듣는다고 하더군요. 두고 보죠. 커피 할래요? 저쪽에 불 피워 놨어요.
+Elin|B1|Gärna. Hur många renar är det här?|좋아요. 여기 순록이 몇 마리예요? (모닥불 옆. 언테가 나무 잔(kåsa)에 커피를 따라 준다)
+Ánte|B2|Man frågar inte en renskötare hur många renar han har. Det är som att fråga dig hur mycket du har på banken.|순록 목축인한테 순록이 몇 마리냐고 묻는 거 아니에요. 당신한테 은행에 얼마 있냐고 묻는 거랑 같아요. (웃는다)
+Elin|B1|Förlåt, det visste jag inte. Då frågar jag något annat: hur har vintern varit?|죄송해요, 몰랐어요. 그럼 다른 걸 물을게요. 겨울은 어땠어요?
+Ánte|C1|Dålig. I januari kom det regn på snön, och sedan frös allt till en isskorpa. Renarna kommer inte ner till laven genom isen, så vi har fått stödutfodra med pellets sedan februari. Det har kostat oss över trehundratusen kronor, och det är inte så renskötsel är tänkt att fungera.|나빴죠. 1월에 눈 위로 비가 왔고, 그다음에 전부 얼어서 얼음 껍질이 됐어요. 순록들이 얼음을 뚫고 지의류까지 못 내려가요. 그래서 2월부터 사료 펠릿을 줘야 했어요. 30만 크로나 넘게 들었고, 순록 목축은 원래 그렇게 돌아가는 게 아니에요.
+Jonas|B1|Är det klimatet? Det pratade ingen om i Kiruna när jag var liten.|기후 때문이에요? 제가 어릴 때 키루나에선 아무도 그런 얘기 안 했는데.
+Ánte|B2|Det är klimatet, och det är allt annat samtidigt. Varje gång det blir sämre för renarna på ett ställe flyttar vi till ett annat. Men de andra ställena blir färre för varje år.|기후죠. 그리고 동시에 나머지 전부고요. 한 곳이 순록한테 나빠지면 다른 곳으로 옮겨요. 그런데 그 다른 곳들이 해마다 줄어요.
+Annika|B1|Vad är det som tar platserna?|그 자리를 뭐가 가져가는데요?
+Ánte|B2|Kom, jag ska visa er. Ser ni höjden bortom sjön? Där går vår flyttled mot kalvningslandet i maj. Där vill ett bolag bygga fyrtio vindkraftverk.|이리 와요, 보여 줄게요. 호수 너머 저 언덕 보여요? 저기로 5월에 새끼 낳는 땅으로 가는 우리 이동로가 지나가요. 저기에 한 회사가 풍력발전기 40기를 짓고 싶어 해요.
+Elin|B2|Vad händer med renarna om verken byggs? Finns det forskning på det?|발전기들이 지어지면 순록들은 어떻게 돼요? 그에 대한 연구가 있어요?
+Ánte|C1|Det finns flera studier som visar att renarna undviker områdena kring verken, särskilt när de är i drift, och att de ogärna passerar mellan dem. Det är inte marken under fyrtio verk som vi förlorar, utan ett helt pussel av betesmarker som inte längre hänger ihop.|발전기 주변, 특히 돌아가고 있을 때는 순록들이 그 일대를 피하고, 그 사이로 잘 지나가려 하지 않는다는 연구가 여럿 있어요. 우리가 잃는 건 발전기 40기 밑의 땅이 아니라, 더는 이어지지 않는 방목지라는 퍼즐 전체예요.
+Jonas|B1|Men har ni inte rätt att säga nej? Ni har ju renskötselrätten.|그래도 거절할 권리가 있지 않아요? 순록 목축권이 있잖아요.
+Ánte|C1|Renskötselrätten bygger på urminnes hävd. Den är äldre än de flesta lagar i det här landet, och Högsta domstolen har bekräftat det mer än en gång – Girjasdomen 2020 är den som alla känner till. Men en rätt att finnas till är inte samma sak som en rätt att säga nej.|순록 목축권은 '태고의 점유', 그러니까 기억할 수 없을 만큼 오래된 사용에 기초해요. 이 나라 대부분의 법보다 오래됐고, 대법원이 한 번 넘게 확인했어요. 2020년 기리아스 판결은 다들 알죠. 하지만 존재할 권리가 거절할 권리랑 같은 건 아니에요.
+Annika|B2|Men sedan 2022 finns det ju en lag om konsultation. Staten, regionerna och kommunerna måste fråga er innan de fattar beslut som kan få särskild betydelse för samerna.|그래도 2022년부터는 협의에 관한 법이 있잖아요. 국가와 광역·기초 지자체는 사미족에게 특별히 중요할 수 있는 결정을 내리기 전에 여러분께 물어야 하고요.
+Ánte|B2|De måste fråga. De behöver inte lyssna. I fjol satt jag på fem samråd om samma projekt, och varje gång var kartan redan ritad.|물어야 하죠. 들을 필요는 없고요. 작년에 같은 사업으로 협의 자리에 다섯 번 앉았어요. 매번 지도는 이미 그려져 있었어요.
+Elin|C1|Och om jag har förstått rätt är det två olika saker: bolagets samråd enligt miljöbalken och statens skyldighet att konsultera er. Ingen av dem ger er veto, och även om konsultationen ska dokumenteras behöver ingen förklara vad ert svar faktiskt ändrade.|그리고 제가 제대로 이해했다면 그건 서로 다른 두 가지예요. 환경법전에 따른 회사의 협의, 그리고 여러분과 협의해야 하는 국가의 의무. 어느 쪽도 거부권을 주진 않고, 협의 내용을 기록으로 남겨야 하긴 해도 여러분의 답이 실제로 무엇을 바꿨는지 설명할 의무는 아무에게도 없죠.
+Ánte|C1|Du har läst på. Det är mer än man kan säga om de flesta som kommer hit med en karta från Stockholm och ett pressmeddelande som redan är skrivet.|공부를 해 왔네요. 스톡홀름에서 그린 지도랑 이미 써 놓은 보도자료를 들고 여기 오는 사람들 대부분은 그렇지 않은데.
+Jonas|B2|Men vindkraften behövs ju också. Utan ny el blir det ingen grön industri i Luleå, och det var precis det som Maria visade oss i fredags.|그래도 풍력도 필요하잖아요. 새 전기가 없으면 룰레오의 녹색 산업도 없어요. 금요일에 마리아가 우리한테 보여 준 게 바로 그거였고요.
+Ánte|B2|Jag är inte emot vindkraft. Jag är emot att det alltid är vår mark som är tom på kartan. Den gröna omställningen får inte bli ännu ett sätt att ta mark från samerna.|저 풍력 반대 안 해요. 지도에서 비어 있는 땅이 늘 우리 땅이라는 데 반대하는 거예요. 녹색 전환이 사미족에게서 땅을 빼앗는 또 하나의 방식이 되어선 안 돼요.
+Annika|B1|Vad skulle du vilja att vi lovade?|우리가 뭘 약속하길 바라요?
+Ánte|B2|Ingenting. Alla lovar. Gruvan i Gállok fick klartecken 2022, efter att samebyarna hade protesterat i tio år. Jag vill veta vad ni gör när det kostar er något.|아무것도요. 다들 약속해요. 갈록 광산은 사미 마을들이 10년 동안 반대한 끝에 2022년에 허가가 났어요. 전 당신들이 대가를 치러야 할 때 뭘 하는지 알고 싶어요.
+Annika|C1|Då säger jag så här, och jag säger det inte för att det låter bra: om vi kommer in i riksdagen ska vi kräva att varje konsultation avslutas med ett skriftligt svar om vad som ändrades och varför – innan kartan ritas, inte efter. Det är inget veto. Men det är ett kvitto.|그럼 이렇게 말할게요. 듣기 좋으라고 하는 말 아니에요. 우리가 의회에 들어가면, 모든 협의가 무엇이 왜 바뀌었는지에 대한 서면 답변으로 끝나도록 요구하겠습니다. 지도가 그려진 뒤가 아니라 그려지기 전에요. 거부권은 아니에요. 하지만 영수증이죠.
+Ánte|B1|Ett kvitto. Det har ingen erbjudit förut.|영수증이라. 그건 아무도 제안한 적 없네요.
+Elin|B2|Det kostar nästan ingenting i budgeten. Det kostar tid och prestige, och det är därför ingen har gjort det.|예산은 거의 안 들어요. 시간과 체면이 들죠. 그래서 아무도 안 한 거예요.
+Jonas|B2|Jag är från Kiruna. Min pappa jobbade i gruvan i trettioåtta år. Jag har alltid tänkt på stadsflytten som vår förlust.|저는 키루나 출신이에요. 아버지가 광산에서 38년 일하셨어요. 전 도시 이전을 늘 우리가 잃은 것으로만 생각했어요.
+Ánte|C1|Det var det också. Men gruvan och den nya staden skar av flyttlederna för samebyarna runt Kiruna, och ingen byggde någon ny stadskärna åt renarna. Det är det jag menar: alla förluster syns inte på samma karta.|그것도 맞아요. 하지만 광산과 새 도시는 키루나 주변 사미 마을들의 이동로를 끊었고, 순록들한테 새 도심을 지어 준 사람은 없었어요. 제 말이 그거예요. 모든 상실이 같은 지도에 보이진 않는다는 거.
+Jonas|A2|Det hade jag inte tänkt på.|그건 생각 못 해 봤어요.
+Ánte|B2|Nej, det brukar man inte. Åk till din mamma nu – Birgitta sa att hon väntar. Och kom tillbaka i maj, när kalvarna föds, om ni fortfarande vill lyssna.|그렇죠, 보통은 못 하죠. 이제 어머니한테 가 봐요. 기다리신다고 비르기타가 그러더군요. 그리고 5월에 새끼들이 태어날 때 다시 와요. 그때도 듣고 싶다면요.
+# 장면 4 — 키루나, 옛 시가지 터 → 잉리드의 아파트 부엌, 4월 19일 일요일 오후 6시 반
+Elin|B1|Planet går tjugo över åtta. Annika och jag tar en taxi härifrån. Är du säker på att du vill stanna?|비행기가 8시 20분이야. 안니카 씨랑 난 여기서 택시 탈게. 정말 남을 거야? (일요일 오후 6시 반. 키루나. 옛 시가지가 있던 자리, 높은 철망 울타리 앞. 해는 아직 산등성이 위에 있다. 울타리 너머엔 눈 덮인 빈 땅과 헐린 건물의 기초만 남아 있다)
+Jonas|B1|Ja. Mamma har bäddat i gästrummet. Hon säger att det är första gången på tjugo år som jag sover över.|응. 엄마가 손님방에 잠자리 봐 놨대. 내가 자고 가는 게 20년 만에 처음이래.
+Annika|B2|Tack för helgen, Jonas. Jag har lärt mig mer på tre dagar än på åtta år av motioner om Norrland.|이번 주말 고마워요, 요나스. 노를란드에 관한 8년 치 당대회 안건보다 사흘 동안 더 많이 배웠어요.
+Ingrid|A2|Är det hon? Partiledaren?|저 사람이니? 당 대표? (잉리드가 털모자를 눌러쓰고 울타리 쪽으로 걸어온다)
+Annika|A2|Hej! Jag heter Annika. Jonas har berättat om dig.|안녕하세요! 안니카예요. 요나스가 어머님 얘기 많이 했어요.
+Ingrid|B1|Det tror jag inte på. Han berättar ingenting. Men du får gärna komma tillbaka och äta renskav nästa gång.|그건 안 믿어요. 얘는 아무 얘기도 안 하거든. 그래도 다음엔 와서 순록 고기 먹고 가요.
+Elin|B1|Vi ses på tisdag. Och Jonas – ring om det är något.|화요일에 봐. 그리고 요나스, 무슨 일 있으면 전화해. (택시가 온다. 엘린과 안니카가 떠난다)
+Ingrid|B2|Där var det. Ser du stenen? Huset stod till vänster om den, och altanen vette mot väster, för pappa ville ha kvällssolen.|저기였어. 바위 보이지? 집은 그 왼쪽에 있었고, 테라스는 서쪽을 향해 있었어. 아빠가 저녁 해를 원해서.
+Jonas|B1|Jag minns. Jag satt där och slipade skridskorna med honom.|기억나. 거기 앉아서 아빠랑 스케이트 날을 갈았어.
+Ingrid|C1|I augusti flyttade de kyrkan. Den rullade fem kilometer på två dagar, så långsamt att man fick stanna och vänta in den, och halva stan gick bakom. Folk grät och filmade på samma gång.|8월에 교회를 옮겼어. 이틀 동안 5킬로미터를 굴러갔는데, 어찌나 느린지 걷다가 멈춰서 기다려야 했어. 동네 사람 절반이 그 뒤를 따라 걸었지. 다들 울면서 동시에 영상을 찍더라.
+Jonas|B2|Jag såg det på nyheterna. Jag tänkte ringa dig, men det var mitt i Lärkangranskningen.|뉴스로 봤어. 엄마한테 전화하려고 했는데, 라르칸 감사가 한창일 때였어.
+Ingrid|A2|Det är alltid mitt i något.|늘 뭔가가 한창이지.
+Jonas|C1|Det är sant, och jag skäms över det. Men varför fick kyrkan följa med, medan vårt hus revs? Jag har alltid intalat mig att det helt enkelt var för gammalt och för vanligt för att vara värt besväret.|맞아, 그래서 부끄러워. 그런데 왜 교회는 따라가고 우리 집은 헐렸을까? 난 늘 그냥 너무 낡고 너무 평범해서 옮길 가치가 없었던 거라고 나 자신을 달랬어.
+Ingrid|C1|Det var det de sa. Kyrkan och ett tjugotal kulturhistoriska byggnader fick följa med, resten löstes in och revs. Men din pappa trodde in i det sista att det gick att ändra. Han gick på vartenda informationsmöte i sex år.|그게 그 사람들이 한 말이야. 교회랑 문화사적 건물 스무 채 남짓은 따라갔고, 나머지는 보상하고 사들여서 헐었지. 그런데 네 아빠는 마지막까지 그걸 바꿀 수 있다고 믿었어. 6년 동안 설명회란 설명회엔 다 갔어.
+Jonas|B1|Pappa? På möten? Han hatade möten.|아빠가? 회의에? 회의라면 질색했잖아.
+Ingrid|B2|Han hatade att förlora ännu mer. Han skrev brev till kommunen och till bolaget, och han knackade på hos grannarna för att få dem att skriva under. Fyrtiotvå brev. Jag har dem kvar.|지는 걸 더 질색했지. 시청이랑 회사에 편지를 쓰고, 이웃집 문을 두드리면서 서명해 달라고 했어. 편지 마흔두 통. 아직 갖고 있어.
+Jonas|B2|Varför har ingen berättat det för mig?|왜 아무도 나한테 말 안 해 줬어?
+Ingrid|B2|Du ringde på söndagarna och frågade om vädret. Kom, nu går vi hem. Jag har något åt dig.|넌 일요일마다 전화해서 날씨만 물었잖아. 가자, 이제 집에 가. 너 줄 게 있어.
+Jonas|A2|Pärmen?|바인더?
+Ingrid|B1|Pärmen. Den har stått i garderoben länge nog.|바인더. 옷장에 있을 만큼 있었어. (밤 9시. 새 시내, 잉리드의 아파트 부엌. 창밖으로 새 시청 건물. 군나르가 자작나무로 짠 식탁 위에 두툼한 파란 바인더 하나와 카페오스트를 넣은 커피 두 잔)
+Jonas|B2|Det är ju bara jag. Juniormatcher, distriktslaget, knät … Vänta. Längst bak ligger det något annat.|그냥 나잖아. 주니어 경기, 지역 대표팀, 무릎… 잠깐. 맨 뒤에 다른 게 있네.
+Ingrid|C1|Hans brev. Han sparade en kopia av vartenda ett, eftersom han inte litade på att kommunen skulle göra det – och när jag frågade efter dem för några år sedan hittade de mycket riktigt bara hälften.|그 사람 편지야. 한 통도 빠짐없이 사본을 남겼어. 시청이 보관할 거라곤 안 믿었거든. 그리고 몇 년 전에 내가 그 편지들을 찾아 달라고 했더니, 아니나 다를까 절반밖에 못 찾더라.
+Jonas|C1|"Vi begär inte att gruvan ska stå still. Vi begär att ni räknar med oss som bor här, och inte bara med malmen under oss." Det är ju precis vad Tomas sa i Boden i går. Fast tio år tidigare.|"우리는 광산이 멈추길 요구하지 않습니다. 우리 발밑의 광석만이 아니라 여기 사는 우리도 셈에 넣어 달라고 요구하는 것입니다." 이거 어제 보덴에서 토마스가 한 말이랑 똑같잖아. 십 년 앞서서. (편지를 소리 내어 읽는다)
+Ingrid|B2|Han förlorade. Huset löstes in, och två år efter att han dog revs det. Han hann aldrig flytta.|그 사람은 졌어. 집은 보상받고 넘어갔고, 그 사람 죽고 2년 뒤에 헐렸어. 이사는 끝내 못 했지.
+Jonas|C1|Man kan flytta en stad, men man kan inte flytta de minnen som människor har byggt upp där under ett helt liv.|도시는 옮길 수 있어도, 사람들이 평생 거기서 쌓은 기억은 옮길 수 없어.
+Ingrid|B1|Det var fint sagt. Vem ska säga det?|멋지게 말하네. 그거 누가 말할 건데?
+Jonas|B2|Förlåt. Jag hörde själv hur det lät. Det var en mening till Annika, och den var din.|미안. 나도 들었어, 어떻게 들렸는지. 안니카 씨한테 줄 문장이었고, 그건 엄마 거였는데.
+Ingrid|B2|Ta den, du. Men ta den inte ifrån mig. Det är skillnad.|가져가. 근데 나한테서 빼앗아 가진 마. 그건 다른 거야.
+Love|A2|Pappa? Har du hittat farfars pärm?|아빠? 할아버지 바인더 찾았어? (요나스의 휴대폰이 울린다. 영상통화 화면에 러브)
+Jonas|C1|Ja. Och farfar var inte bara gruvarbetare, Love. Han trodde att man kunde ändra ett beslut som redan var fattat, bara man skrev tillräckligt många brev och knackade på tillräckligt många dörrar. Det är precis det vi försöker göra nu, i hela landet: få norr och söder, samebyarna och industrin att …|응. 그리고 할아버지는 그냥 광부가 아니었어, 러브. 이미 내려진 결정도 편지를 충분히 쓰고 문을 충분히 두드리면 바꿀 수 있다고 믿은 사람이었어. 그게 바로 지금 우리가 온 나라에서 하려는 거야. 북쪽과 남쪽, 사미 마을들과 산업을 함께…
+Love|A2|Okej. Coolt. Hej, farmor!|오케이. 멋지다. 안녕, 할머니!
+Ingrid|B2|Du pratar som din pappa nu, Jonas. Han trodde också att man kunde övertyga alla.|이제 네 아빠처럼 말하는구나, 요나스. 그 사람도 모두를 설득할 수 있다고 믿었지. (화면 속 러브에게 손을 흔들고, 천천히 바인더를 덮는다. 창밖 키루나의 4월 하늘은 밤 9시에도 아직 파랗다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Här är det kallt men elen är billig.** | 여긴 춥지만 전기는 싸요. | 장소 부사 *här* 가 문두에 와서 V2로 동사 *är* 가 둘째 자리, 주어 *det* 은 그 뒤. *elen* 은 *el*(전기, en-명사)의 한정형 — 일반적인 '전기'를 말할 때도 한정형을 자주 쓴다 |
+| `A2` | **Ställ bilen där.** | 차는 거기 세워요. | *ställa* = (세워) 두다. 차는 *parkera* 도 되지만 일상에선 *ställa bilen* 이 자연스럽다. 눕혀 두면 *lägga*, 세워 두면 *ställa*, 앉히면 *sätta* |
+| `B1` | **Det är vi som bor här som får betala priset.** | 대가를 치르는 건 여기 사는 우리예요. | 분열문 *Det är X som …* 로 '바로 우리'를 강조. *vi som bor här* 안에 관계절 *som* 이 하나 더 있다. *betala priset* = 대가를 치르다(비유) |
+| `B1` | **Man frågar inte en renskötare hur många renar han har.** | 순록 목축인한테 순록이 몇 마리냐고 묻는 거 아니에요. | 일반 주어 *man* + 현재형으로 '~하는 법이 아니다'라는 관습을 말한다. 간접의문문 *hur många renar han har* 는 평서문 어순(주어 + 동사) |
+| `B2` | **Den gröna omställningen får inte bli ännu ett sätt att ta mark från samerna.** | 녹색 전환이 사미족에게서 땅을 빼앗는 또 하나의 방식이 되어선 안 돼요. | *får inte* = ~해서는 안 된다(금지). *ännu ett sätt* = 또 하나의 방식(*ännu en/ett* = 또 하나의). *omställning* = 전환, *den gröna omställningen* 은 뉴스의 고정 표현 |
+| `B2` | **Ingen i norr ska betala mer för att någon i söder ska betala mindre.** | 남쪽 누군가가 덜 내게 하려고 북쪽 사람이 더 내는 일은 없어야 한다. | *ingen … ska* = 아무도 ~해선 안 된다(원칙 선언). *för att + 절* 은 목적('~하도록'). *mer* 와 *mindre*, *norr* 와 *söder* 를 맞세운 대구 — 공약 문장의 전형 |
+| `B2` | **Ta den, du. Men ta den inte ifrån mig.** | 가져가. 근데 나한테서 빼앗아 가진 마. | *ta* 와 *ta ifrån någon*(누구에게서 빼앗다)의 차이. 명령문 끝의 *du* 는 친근한 강조. 부정 *inte* 는 목적어 대명사 *den* 뒤 |
+| `C1` | **Man kan flytta en stad, men man kan inte flytta de minnen som människor har byggt upp där under ett helt liv.** | 도시는 옮길 수 있어도, 사람들이 평생 거기서 쌓은 기억은 옮길 수 없어요. | 같은 구조(*man kan (inte) flytta …*)를 반복하는 대구. *de minnen som …* — 관계절이 뒤따르는 한정 명사는 *de* + 비한정형(*minnen*). *bygga upp* = 쌓아 올리다 |
+| `C1` | **Det ska jag inte sticka under stol med.** | 그걸 숨길 생각은 없어요. | 관용구 *sticka under stol med något* = 무언가를 감추다. 목적어 *det* 을 문두에 놓고 V2로 *ska jag*. 공식 토론에서 약점을 먼저 인정할 때 쓰는 말 |
+| `C1` | **Renskötselrätten bygger på urminnes hävd.** | 순록 목축권은 '태고의 점유'에 기초해요. | *urminnes hävd* = 기억할 수 없을 만큼 오래 이어진 사용으로 생긴 권리(법률 용어). *bygga på* = ~에 기초하다. *renskötsel* = 순록 목축(*ren* 순록 + *skötsel* 돌봄) |
+
+## 현안 메모
+- **전력 가격구역(elområde)** — 스웨덴은 2011년 11월 1일부터 네 개의 가격구역으로 나뉘었다(SE1 룰레오, SE2 순스발, SE3 스톡홀름, SE4 말뫼). 수력·풍력 발전은 북부에 많고 소비는 남부에 많은데, 남북을 잇는 송전 용량에 한계(병목)가 있어 구역마다 가격이 달라진다. 2022년 에너지 위기 때 남부 가격이 폭등하면서 격차가 크게 벌어졌다. 이 가격 차이에서 국가 송전망 공사 스벤스카 크라프트네트(Svenska kraftnät)가 거두는 혼잡 수입(flaskhalsintäkter)은 2022년 수백억 크로나에 이르렀고, EU 규칙상 주로 송전망 확충과 망 이용료 인하에 쓰여야 한다(그 일부가 가계 전기요금 지원에 쓰이기도 했다). '전국 단일 가격'을 요구하는 남부의 목소리와, 싼 전기를 산업 유치의 무기로 보는 북부의 목소리가 맞선다.
+- **노르보텐의 녹색 산업 붐** — 룰레오·보덴 일대에는 수소로 철을 만드는 화석연료 없는 철강 등 대형 프로젝트가 몰렸지만, 주택·의료·교육 인력과 전력망 연결 속도가 따라가지 못한다. 이번 화의 Polarstål과 그 숫자(직원 68명, 연 900GWh, 망 연결 6년 대기)는 가상이다.
+- **사미 순록 목축권과 녹색 전환** — 사미는 스웨덴·노르웨이·핀란드·러시아에 걸쳐 사는 선주민이며, 스웨덴에서 순록 목축은 사미 마을(sameby) 구성원의 권리다. 이 권리는 '태고의 점유(urminnes hävd)'에 기초하며 순록목축법(rennäringslagen)으로 규율된다. 2020년 대법원의 기리아스(Girjas) 판결은 한 사미 마을에 소형 수렵·낚시 허가 독점권을 인정했다. 2022년 3월부터는 국가·광역·기초 지자체가 사미에게 특별히 중요한 결정을 내리기 전에 사미 의회(Sametinget)·사미 마을 등과 협의해야 하는 법이 시행됐지만, 거부권은 없다. 풍력 단지·광산·송전선이 방목지와 이동로를 끊는다는 문제, 요크모크 근처 갈록(Gállok) 철광산이 오랜 반대 끝에 2022년 정부 허가를 받은 일, 비가 눈 위에서 얼어 순록이 지의류를 못 먹게 되는 기후 변화가 겹쳐 있다.
+- **키루나 도시 이전(stadsflytten)** — LKAB의 키루나바라 철광산이 도시 아래로 깊이 파 들어가면서 지반이 변형되자, 2000년대 초 도심을 동쪽으로 약 3km 옮기는 계획이 확정됐다. 새 시청은 2018년에 문을 열었고, 2025년 8월에는 1912년에 세워진 키루나 교회가 통째로 약 5km를 이동했다. 문화사적 가치가 있는 건물 스무여 채는 옮겨졌고, 나머지 집들은 보상(시가에 웃돈을 얹거나 새 집 제공) 후 헐렸다. 광산과 새 도시는 주변 사미 마을들의 순록 이동로에도 영향을 주었다. 이번 화의 인물과 숫자, 군나르의 편지는 모두 가상이다.
+
+## 비즈니스 메모
+- **지역 맞춤 메시지(Lokal förankring)** — 같은 정책이 지역마다 다른 이야기로 들린다. 순서는 셋. ① 그 문장이 이 지역에서 '누구의 비용'으로 들리는지 먼저 묻는다(토마스의 "어느 쪽으로요? 위로요, 아래로요?"). ② 원칙은 지키되, 상대가 잃을까 두려워하는 것을 말하는 문장으로 다시 쓴다('공정함' 대신 '북쪽에선 아무도 더 내지 않는다'). ③ 고쳐 쓴 문장은 반드시 다른 지역에서도 똑같이 지킬 수 있어야 한다. 말뫼에선 '전국 단일 가격', 보덴에선 '북부 가격 동결'을 말하는 당은 TV 토론의 클립 하나로 끝난다. 엘린의 세 줄은 말뫼에서 읽어도 보덴에서 읽어도 같은 약속이다.
+- **'영수증' — 책임 추적 장치** — 협의(konsultation)의 약점은 '들었다'와 '반영했다'를 구분하지 않는다는 것이다. 안니카의 제안은 결정 기록(decision log)의 정치판이다. 무엇을 들었고, 무엇을 바꿨고, 바꾸지 않았다면 왜인지를 서면으로 남긴다. 비용은 거의 없지만, 조직이 자기 판단을 공개적으로 설명해야 하므로 '시간과 체면'이 든다. 그래서 실행되는 일이 드물다.
+
+## 다음 화 예고 — Debatten
+**4부 7화.** 5월 7일 목요일. 노르보텐에서 돌아온 브로비가르나는 4월 여론조사에서 처음으로 3%대 중반에 닿는다. 다음 관문은 첫 전국 TV 토론, 주제는 의료 대기열. 소피아의 모의 토론장에서 안니카는 브리징을 배운다. "Bra fråga, men det viktiga är…" "Får jag avsluta min mening?" 첫 15분은 완벽하다. 그런데 진행자가 숫자 하나를 묻는다. 공약의 비용은? 그리고 클립은 한 시간 만에 50만 회. 택시 안에서 엘린은 자신을 탓한다.
