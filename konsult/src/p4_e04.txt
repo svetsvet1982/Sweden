@@ -1,0 +1,162 @@
+@title 4부 4화 — Partiet
+@subtitle (당)
+@meta 날짜|2026년 2월 21일 토요일 ~ 22일 일요일
+@meta 장소|베스테로스 역 근처 회의 센터의 대회의실 — Brobyggarna 당 평의회(partiråd) (토요일 오전 10시 ~ 오후 3시 40분) → 같은 건물 호텔 3층 복도와 로비 (저녁 6시 반 ~ 밤 10시 반) → 호텔 1층 바 (새벽 1시 10분) → 다시 대회의실 (일요일 오전 10시)
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 44, 수석 전략가) · **Elin Bergqvist** (엘린 베리크비스트, 37, 정책·예산·리스크) · **Annika Strand** (안니카 스트란드, 49, 당 대표) · **Mattias Öberg** (마티아스 외베리, 56, 사무총장) · **Ulf Brandt** (울프 브란트, 61, 재무 담당) · **Per-Erik Sjöberg** (페르에리크 셰베리, 68, 평의회 의장, 예블레) · **Birgitta Lantto** (비르기타 란토, 59, 노르보텐 지구 위원장, 룰레오) · **Malin Persson** (말린 페르손, 41, 스코네 대의원, 회슬레홀름 자영업자) · **Gunbritt Wiklund** (군브리트 비클룬드, 71, 외레브로 지부장) · **Hampus Nord** (함푸스 노르드, 23, 외레브로 대의원) · **Daniel** (다니엘, 엘린의 남편, 전화) · 호텔 바텐더 · **Linus Falk** (리누스 팔크, 41, *Stockholms-Kuriren* 기자, 문자)
+@meta 이번 화의 도구|내부 이해관계자 맵 + '포함 조항' — 대의원들을 영향력 × 입장(찬성·반대)으로 놓고, 반대하는 이유가 '돈'인지 '얼굴'인지 가린다. 지역 공약은 지우지 않고 다섯 공약 아래 '지역 사례'로 다시 배치한다(별도 예산 없음, 지구 위원회 동의)
+@meta 스웨덴 현안|정당 당원 감소와 고령화 — 정당 가입자 수가 수십 년 동안 줄고 나이 들면서, 지역 조직이 호별 방문·전단 배포·후보 공천 같은 선거운동을 감당하기 어려워지고 있다
+@intro **지난 이야기** — 2월 9일. 쿵스홀멘 당사 '큰 방'의 화이트보드 필름 위에 메시지 박스 네 칸이 그려졌다. 모두가 범죄를 말하는 선거에서, 엘린은 당원 답변 63개 중 41개가 '제대로 돌아가야 할 게 안 돌아간다'는 이야기라는 것을 찾아냈다. 안 오는 버스, 전화 안 받는 보건소, 연락 없는 경찰. 안니카가 무심코 한 말 "Det ska bara fungera"에서 '그냥'이 빠지자 새 슬로건이 생겼다. *"Det ska fungera."* 서른두 개 공약 중 그 틀에 맞는 건 다섯 개, 연간 약 70억 크로나. 그날 오후 되벨른스가탄 지하 스튜디오에서 2분 47초였던 30초 광고는 열 번째 테이크에 28초가 되었다. "너무 단순한데요." "좋아요. 그래야 기억하죠."
+@intro 열이틀 뒤, 엘린의 고향 베스테로스. 2월 19일 목요일 당 집행위원회(partistyrelse)는 다섯 공약과 새 슬로건을 담은 선거 공약집 안을 7 대 2로 의결했다. 반대한 두 사람 중 하나는 사무총장 마티아스 외베리. 그는 회의록에 반대 의견(reservation)을 남겼고, 그 뒤로 안니카와 말을 하지 않았다. 당헌에 따르면 선거 공약집은 당 평의회가 확정한다. 2월 21일 토요일 오전 10시, 17개 지구에서 온 대의원 61명이 역 근처 회의 센터에 모였다. 다니엘과 마야는 엘린의 부모님 집에서 주말을 보낸다. 엘린은 "저녁 9시면 끝나"라고 말했다.
+# 장면 1 — 베스테로스, 회의 센터 대회의실, 2월 21일 토요일 오전 10시
+Per-Erik|C1|Klockan är tio, och jag förklarar Brobyggarnas partiråd öppnat. Sextioett ombud från sjutton distrikt har anmält sig, och jag konstaterar att mötet har utlysts i stadgeenlig ordning.|10시입니다. 브로비가르나 당 평의회 개회를 선언합니다. 17개 지구에서 대의원 61명이 등록했고, 이번 회의가 당헌에 따라 적법하게 소집되었음을 확인합니다. (2월 21일 토요일 오전 10시. 의장 페르에리크 셰베리가 의사봉을 한 번 두드린다. 앞줄 '외부 자문' 명패 뒤에 요나스와 엘린)
+Annika|B1|Tack, Per-Erik. Jag ska försöka fatta mig kort i dag. På riktigt den här gången.|고마워요, 페르에리크. 오늘은 짧게 하도록 해 볼게요. 이번엔 진짜로요.
+Per-Erik|A2|Det har jag hört förut. Klockan går.|그 말은 전에도 들었습니다. 시간 갑니다. (객석에 웃음)
+Annika|B2|Partistyrelsen föreslår ett valmanifest med fem löften och en ny slogan: ”Det ska fungera.” Resten av programmet ligger kvar, men det är på de fem vi går till val.|당 집행위원회는 공약 다섯 개와 새 슬로건 "제대로 돌아가야 한다"를 담은 선거 공약집을 제안합니다. 강령의 나머지는 그대로 남지만, 우리가 선거에 들고 나갈 건 이 다섯 개예요. (1분 10초. 엘린이 노란 노트에 시간을 적는다)
+Mattias|C1|Ordförande, jag begär ordet. Jag vill att det framgår av protokollet att jag reserverade mig mot partistyrelsens beslut, och jag tänker redogöra för skälen.|의장, 발언권을 요청합니다. 제가 집행위원회 결정에 반대 의견을 남겼다는 사실을 회의록에 밝혀 두고 싶고, 그 이유를 설명하겠습니다. (회색 카디건 차림으로 일어선다)
+Per-Erik|B1|Partisekreteraren Mattias Öberg har ordet. Tre minuter, som alla andra.|마티아스 외베리 사무총장, 발언하십시오. 다른 분들과 똑같이 3분입니다.
+Mattias|C1|De trettiotvå löftena antogs av kongressen 2024 efter två års arbete ute i distrikten. Bakom vart och ett står en medlem som har knackat dörr för det i regn och snö. Nu föreslås att vi stryker tjugosju av dem på tre veckor, på inrådan av fyra konsulter från Södermalm.|공약 서른두 개는 지구마다 2년 동안 작업한 끝에 2024년 당대회에서 채택됐습니다. 하나하나 뒤에는 비가 오나 눈이 오나 그걸 위해 문을 두드린 당원이 있습니다. 그런데 이제 쇠데르말름에서 온 컨설턴트 네 명의 권고에 따라, 3주 만에 그중 스물일곱 개를 지우자는 안이 올라왔습니다.
+Elin|B1|Tjugosju. Han har i alla fall räknat rätt.|스물일곱. 계산은 맞게 했네. (요나스에게 속삭인다)
+Jonas|A2|Han är bra. Tyvärr.|잘하네. 안타깝게도.
+Birgitta|B2|Ordförande, jag begär ordet. Birgitta Lantto, Norrbotten. Löfte nummer nitton, ambulans inom en halvtimme i hela länet, finns inte med bland de fem. Hur ska jag förklara det för folk i Jokkmokk?|의장, 발언권을 요청합니다. 노르보텐의 비르기타 란토입니다. 19번 공약, '도 전역 어디서나 30분 안에 구급차'가 다섯 개 안에 없습니다. 요크모크 사람들한테 이걸 어떻게 설명하라는 겁니까?
+Per-Erik|A2|Tack. Nästa talare: Malin Persson, Skåne.|감사합니다. 다음 발언자, 스코네의 말린 페르손.
+Malin|B2|Det är samma sak hos oss. Landsbygdslinjerna i nordöstra Skåne var vårt löfte. Utan dem har vi ingenting att stå med på torget i Hässleholm.|저희도 마찬가지예요. 스코네 북동부 농촌 버스 노선이 저희 공약이었어요. 그게 없으면 회슬레홀름 광장에 들고 설 게 하나도 없어요.
+Annika|B1|Men bussen finns ju med, Malin. Det är löfte fyra: bussen ska gå.|하지만 버스는 들어가 있어요, 말린. 4번 공약이요. 버스는 와야 한다.
+Malin|A2|Jag håller inte med. Det är inte samma sak.|동의하지 않아요. 그건 같은 게 아니에요.
+Annika|B1|Varför inte? Förklara för mig vad skillnaden är.|왜요? 차이가 뭔지 설명해 주세요.
+Malin|B2|För att ”bussen ska gå” skulle kunna stå på varenda affisch i landet. Linjen till Vittsjö är vår. Den känner folk igen.|"버스는 와야 한다"는 전국 어느 포스터에 붙여도 되는 말이니까요. 비트셰로 가는 노선은 우리 거예요. 그건 사람들이 알아봐요.
+Gunbritt|B2|Ordförande. Gunbritt Wiklund, Örebro. Jag har haft ”Bygg broar – inte murar” på mitt kylskåp i åtta år. Nu får jag läsa i en promemoria att den ”definierar oss utifrån vad vi är emot”.|의장. 외레브로의 군브리트 비클룬드예요. 저는 8년 동안 냉장고에 '다리를 놓자, 벽 말고'를 붙여 두고 살았어요. 그런데 이제 무슨 메모에서 그게 '우리를 반대하는 것으로 정의한다'는 글을 읽어야 하네요. (엘린이 노트에서 눈을 들지 않는다)
+Per-Erik|B1|Gunbritt, jag får be dig att komma till ditt yrkande. Vad yrkar du?|군브리트, 동의(動議) 내용으로 들어가 주시기 바랍니다. 무엇을 제안하십니까?
+Gunbritt|B2|Jag yrkar återremiss. Partistyrelsen får ta tillbaka förslaget och komma med ett som distrikten känner igen sig i.|재검토 회부를 제안합니다. 집행위원회가 안을 도로 가져가서, 지구들이 자기 모습을 알아볼 수 있는 안을 갖고 오라는 거예요.
+Mattias|B1|Jag instämmer i Gunbritts yrkande.|군브리트의 제안에 동의합니다.
+Per-Erik|B2|Då har vi två yrkanden: bifall till partistyrelsens förslag och återremiss. Partirådet har beviljat partiets externa rådgivare yttranderätt. Jonas Ekholm, varsågod.|그럼 동의가 두 개입니다. 집행위원회 원안 찬성, 그리고 재검토 회부. 평의회는 당 외부 자문에게 발언권을 부여했습니다. 요나스 에크홀름, 말씀하십시오.
+Jonas|C1|Tack. Jag är inte medlem, så jag tänker inte låtsas att det här är mitt parti. Men jag har suttit i ett omklädningsrum i Kiruna när vi låg under med tre mål efter första perioden.|감사합니다. 저는 당원이 아니니, 이게 제 당인 척하지는 않겠습니다. 하지만 1피리어드가 끝나고 세 골 뒤진 채로 키루나의 라커룸에 앉아 있어 본 적은 있습니다. (일어서서 마이크 없이 말한다)
+Gunbritt|A2|Ska vi prata hockey nu?|이제 하키 얘기 하는 거예요? (옆자리에 중얼거린다)
+Jonas|C1|Bara en minut, sedan lovar jag att sluta. Tränaren sa inte att alla tjugo skulle ut på isen samtidigt. Han sa: vi har fem utespelare på isen, välj de fem som orkar – och de andra sitter inte på läktaren, de sitter på bänken och väntar på sitt byte.|딱 1분만요. 그다음엔 그만하겠다고 약속하죠. 감독은 스무 명이 한꺼번에 빙판에 나가라고 하지 않았어요. 이렇게 말했죠. 빙판 위엔 필드 플레이어가 다섯이다, 버틸 수 있는 다섯을 골라라 — 나머지는 관중석에 앉아 있는 게 아니라 벤치에서 교대를 기다리는 거다.
+Birgitta|B1|Och vem bestämmer när nummer nitton får hoppa in?|그럼 19번이 언제 교대해 들어갈지는 누가 정하는데요?
+Jonas|B2|Det gör ni, på varje torg i Norrbotten. Men man vinner inte i första perioden genom att alla åker in på en gång. Ett program med trettiotvå löften är ett program som ingen läser.|여러분이 정합니다. 노르보텐의 광장마다에서요. 하지만 모두가 한꺼번에 들어간다고 1피리어드에서 이기진 않아요. 공약 32개짜리 강령은 아무도 안 읽는 강령이에요.
+Mattias|B2|De läser det inte nu heller. Det är väl inget skäl att slänga det.|지금도 아무도 안 읽죠. 그렇다고 그걸 내다 버릴 이유는 아니잖습니까. (앉은 채로)
+Per-Erik|B1|Tack. Vi bryter för lunch och fortsätter klockan ett med Elin Bergqvist och ekonomin.|감사합니다. 점심 휴회하고, 1시에 엘린 베리크비스트의 재정 설명으로 이어 가겠습니다.
+# 장면 2 — 같은 대회의실, 오후 1시 ~ 3시 40분
+Elin|B2|Ni har tabellen framför er. Fem löften, sju miljarder kronor om året, och varje krona har en finansiering som jag kan försvara i en tv-debatt.|앞에 표가 있습니다. 공약 다섯 개, 연간 70억 크로나. 그리고 한 푼 한 푼 TV 토론에서 방어할 수 있는 재원이 붙어 있습니다. (오후 1시. 화면에 표 하나. 마티아스의 접시에는 점심 뒤 시나몬롤 반 개)
+Ulf|B1|Och fem löften är billigare att trycka än trettiotvå. Tryckeriet i Örebro tackar.|그리고 공약 다섯 개가 서른두 개보다 인쇄비가 싸죠. 외레브로 인쇄소가 고마워하겠네요. (재무 담당 울프 브란트. 그란카나리아에서 그을린 얼굴이 아직 남아 있다)
+Elin|C1|Lägg också märke till vad som inte står där. Det gamla programmet räknade hem flera miljarder på minskade välfärdsbrott. Jag har inte räknat hem en enda krona, fast löfte fem handlar just om att stoppa dem.|그리고 표에 뭐가 없는지도 보세요. 옛 강령은 복지범죄가 줄어드는 걸로 수십억을 메운다고 계산했어요. 저는 단 한 푼도 그렇게 계산하지 않았습니다. 5번 공약이 바로 복지범죄를 막는 것인데도요.
+Birgitta|B1|Och vad skulle ambulansen kosta, om den fick vara med?|그럼 구급차는, 만약 들어간다면 얼마나 드는데요?
+Elin|B2|Löfte nitton: ungefär 1,1 miljarder om året i riktade statsbidrag, eftersom ambulanssjukvården är regionernas ansvar. Det ryms inte, om vi inte stryker något annat.|19번 공약은 특정 목적 국고 보조금으로 연간 약 11억이에요. 구급 의료는 광역 지자체(region)의 책임이니까요. 다른 걸 빼지 않는 한 안 들어가요.
+Malin|B2|Så det handlar om pengar, inte om principer.|그러니까 원칙 문제가 아니라 돈 문제라는 거네요.
+Elin|C1|I en budget finns det inga principer som inte kostar pengar. Frågan är vilka principer vi kan stå för i ett läge där alla andra partier kommer att granska varje siffra vi lägger fram.|예산에 돈이 안 드는 원칙은 없어요. 문제는 다른 모든 정당이 우리가 내놓는 숫자 하나하나를 뜯어볼 상황에서, 어떤 원칙이라면 우리가 끝까지 책임질 수 있느냐죠.
+Gunbritt|B1|Och sloganen? Har ni räknat på den också?|그럼 슬로건은요? 그것도 계산해 봤어요?
+Elin|B2|Amir testade den förra veckan i en webbpanel, i våra tre målgrupper. Med ”Det ska fungera” var det tre gånger så många som svarade att partiet verkade vara något för dem, jämfört med ”Bygg broar”.|아미르가 지난주에 웹 패널에서 우리 세 표적 그룹을 대상으로 시험했어요. "제대로 돌아가야 한다"를 들은 쪽에서 '나를 위한 당 같다'고 답한 사람이 "다리를 놓자"보다 세 배 많았어요.
+Gunbritt|B1|Mitt kylskåp har aldrig varit med i någon webbpanel.|제 냉장고는 무슨 웹 패널에 참여해 본 적이 없거든요. (웃음이 번진다. 엘린도 웃는다)
+Hampus|B1|Får jag säga en sak innan vi röstar?|표결 전에 한마디 해도 될까요? (뒷줄에서 손을 든다. 외레브로의 함푸스 노르드)
+Per-Erik|A2|Kort, Hampus.|짧게요, 함푸스.
+Hampus|B2|Jag är tjugotre. Jag har aldrig sett det här partiet över fyra procent, inte en enda gång. Jag skulle gärna vilja veta hur det känns innan jag fyller trettio.|저는 스물셋이에요. 이 당이 4%를 넘는 걸 한 번도 본 적이 없어요. 단 한 번도요. 서른 되기 전에 그게 어떤 기분인지 알고 싶어요. (짧은 박수)
+Per-Erik|C1|Tack. Jag ställer nu proposition på de två yrkandena, bifall mot återremiss, och finner … nej, det går inte att avgöra på acklamation. Votering är begärd.|감사합니다. 이제 두 동의, 즉 원안 찬성과 재검토 회부를 표결에 부치겠습니다. 결과는… 아니요, 구두 표결로는 판단할 수 없습니다. 투표가 요청되었습니다.
+Annika|A2|Nu gäller det.|이제 진짜네요. (엘린 옆자리에서 손을 꽉 쥔다)
+Per-Erik|B1|Den som vill bifalla förslaget röstar ja, den som vill återremittera röstar nej. Rösträknarna, räkna noga.|원안에 찬성하는 분은 '예', 재검토 회부를 원하는 분은 '아니오'. 개표 위원들, 정확히 세 주십시오. (손들이 오르내린다)
+Elin|B1|Tjugosex, trettiotre, två som avstår. Jag räknade händerna.|26, 33, 기권 둘. 손을 셌어. (공식 발표 전, 요나스에게)
+Per-Erik|C1|Partirådet har med trettiotre röster mot tjugosex, och två ombud som avstod, beslutat att återremittera förslaget till partistyrelsen. Partistyrelsen återrapporterar i morgon klockan tio.|평의회는 33 대 26, 기권 2로 이 안을 당 집행위원회에 재검토 회부하기로 결정했습니다. 집행위원회는 내일 오전 10시에 다시 보고합니다. (의사봉. 오후 3시 40분)
+Jonas|B2|Det var inte ett nej, Annika. Det var ett ”inte så här”. Det är en skillnad.|그건 '아니오'가 아니었어요, 안니카. '이렇게는 아니다'였죠. 차이가 있어요.
+Annika|B2|Säg det till dem som skriver rubrikerna. Min telefon har vibrerat sedan klubban föll.|그 말은 헤드라인 쓰는 사람들한테 해요. 의사봉이 떨어진 뒤로 제 휴대폰이 계속 울려요.
+Elin|B1|Kuriren har redan en notis: ”Brobyggarna splittrade – partirådet körde över Strand.”|쿠리렌에 벌써 단신이 떴어요. "브로비가르나 분열 — 평의회, 스트란드를 깔아뭉개다." (휴대폰 화면을 내민다)
+Ulf|B1|Och månadens mätning kom i morse. Två komma sju.|그리고 이번 달 여론조사가 오늘 아침에 나왔어요. 2.7.
+Annika|A2|Två komma sju. Efter allt.|2.7. 그 모든 걸 하고도.
+Mattias|B2|Jag har inte sagt ett ord till någon journalist, om det är det du undrar, Annika.|기자한테는 한마디도 안 했어, 그게 궁금한 거라면, 안니카. (지나가다 멈춰 선다)
+Annika|B2|Det har jag inte frågat. Men du har inte sagt ett ord till mig heller sedan i torsdags.|그건 안 물어봤어. 근데 너, 목요일 이후로 나한테도 한마디도 안 했잖아. (마티아스는 대답 없이 나간다)
+Jonas|C1|Partistyrelsen samlas klockan åtta i morgon bitti. Fram till dess har vi en kväll, sjutton distrikt och en hotellkorridor. Vi behöver veta exakt vad varje distrikt skulle kunna leva med.|집행위원회는 내일 아침 8시에 모입니다. 그때까지 우리한테는 저녁 하나, 지구 열일곱, 호텔 복도 하나가 있어요. 지구마다 정확히 무엇이라면 받아들일 수 있는지 알아내야 해요.
+Elin|B1|Jag tar Skåne. Du tar Norrbotten. Annika tar Örebro – och Gunbritt.|난 스코네. 넌 노르보텐. 안니카 씨는 외레브로 — 그리고 군브리트 씨요.
+# 장면 3 — 호텔 3층 복도와 로비, 토요일 저녁 6시 반 ~ 밤 10시 반
+Birgitta|B1|Ekholm. Från Kiruna, sa du. Är du Gunnars pojk?|에크홀름. 키루나 출신이라고 했죠. 군나르네 아들이에요? (저녁 6시 반. 호텔 3층 복도, 자판기 옆. 요나스가 다가가기도 전에 비르기타가 먼저 말을 건다)
+Jonas|A2|Ja. Kände du pappa?|네. 아버지를 아셨어요?
+Birgitta|B1|Min man jobbade i samma skift som han i några år. Han sa att Gunnar aldrig klagade, men att han alltid visste var nödutgångarna fanns.|우리 남편이 몇 년 동안 같은 조에서 일했어요. 군나르는 불평 한 번 안 했지만 비상구가 어딘지는 늘 알고 있었다고 하더라고요.
+Jonas|B2|Det låter som han. Berätta om löfte nitton. Inte siffrorna – varför det finns.|아버지답네요. 19번 공약 얘기 좀 해 주세요. 숫자 말고, 그게 왜 생겼는지.
+Birgitta|B2|Min pappa föll i trappan hemma i Övertorneå 2021. Ambulansen tog sjuttio minuter. Han klarade sig, men jag satt på golvet med honom hela tiden och räknade.|2021년에 아버지가 위베르토르네오 집 계단에서 넘어지셨어요. 구급차가 오는 데 70분 걸렸어요. 살긴 하셨는데, 저는 그동안 내내 바닥에 아버지랑 앉아서 시간을 셌어요.
+Jonas|B2|Då är det inte ett löfte om ambulanser. Det är ett löfte om att någon ska komma när man ringer. Det är löfte två, ord för ord.|그럼 그건 구급차에 대한 공약이 아니에요. 전화하면 누군가 와야 한다는 공약이죠. 글자 그대로 2번 공약이에요.
+Birgitta|B2|Löfte två handlar om polisen. Det vet både du och jag.|2번 공약은 경찰 얘기잖아요. 당신도 알고 나도 알아요.
+Jonas|C1|Just nu, ja. Men tänk om varje distrikt fick skriva in sitt eget exempel under ett av de fem. Då står Övertorneå i manifestet – inte som en egen budgetpost, utan som beviset på vad löftet betyder.|지금은 그렇죠. 하지만 지구마다 다섯 개 중 하나 아래에 자기 사례를 써넣을 수 있다면요? 그러면 위베르토르네오가 공약집에 들어가는 거예요. 별도 예산 항목이 아니라, 그 공약이 무슨 뜻인지 보여 주는 증거로요.
+Birgitta|B1|Ett exempel är inte ett löfte. Men det är mer än ingenting. Prata med Elin om pengarna.|사례는 공약이 아니에요. 하지만 아무것도 없는 것보단 낫죠. 돈 얘기는 엘린하고 하세요.
+Elin|B1|Malin, hur mycket kostar linjerna kring Vittsjö och Hästveda per år?|말린 씨, 비트셰랑 헤스트베다 쪽 노선은 1년에 얼마나 들어요? (같은 시각, 복도 반대쪽 끝 창가. 엘린이 노란 노트를 편다)
+Malin|B1|Vi räknade på sextio miljoner om året för fem linjer. Det är alltid de som står först på listan när det ska sparas.|저희 계산으론 다섯 노선에 1년 6천만이요. 예산 줄일 때마다 늘 그 노선들이 목록 맨 위에 올라가요.
+Elin|B2|Löfte fyra har en ram på niohundra miljoner i stöd till landsbygdstrafik, fördelat efter behov. Sextio miljoner ryms inom ramen, om nordöstra Skåne uppfyller kriterierna.|4번 공약엔 농촌 교통 지원 틀이 9억 있어요. 필요에 따라 배분하고요. 스코네 북동부가 기준을 충족하면, 6천만은 그 틀 안에 들어가요.
+Malin|A2|Gör vi det?|저희가 충족해요?
+Elin|B2|Långt till vårdcentralen, glest mellan husen och få avgångar redan i dag. Ni uppfyller dem bättre än nästan alla. Jag kollade i pausen.|보건소까지 멀고, 집과 집 사이가 멀고, 지금도 운행 횟수가 적고. 거의 어디보다 기준을 잘 충족해요. 휴식 시간에 확인했어요.
+Malin|B2|Så Hässleholm kan få stå som exemplet under löfte fyra, utan att det kostar en krona extra?|그러니까 회슬레홀름이 4번 공약 아래 사례로 들어갈 수 있다는 거죠? 한 푼도 더 안 들이고?
+Elin|C1|Utan en krona utöver ramen, ja. Men då kan ni inte gå ut och lova sextio miljoner till just er – ni lovar att landsbygdslinjer som era ska prioriteras. Det är en skillnad som journalisterna kommer att leta efter.|틀 밖으로 한 푼도 안 나간다는 조건이라면요, 네. 하지만 그러면 '우리 지역에 6천만'이라고 약속하면 안 돼요. 여러분 같은 농촌 노선을 우선하겠다고 약속하는 거예요. 기자들이 바로 그 차이를 찾으려 들 거예요.
+Malin|B1|Det kan jag leva med. Säg det till Mattias också.|그건 받아들일 수 있어요. 마티아스한테도 그렇게 말해 주세요.
+Daniel|A2|Hej. Klockan är nio och femtiofyra. Jag ville hinna före tio.|안녕. 9시 54분이야. 10시 전에 걸고 싶었어. (밤 9시 54분. 엘린의 휴대폰. 같은 도시, 엘린 부모님 집 부엌에서)
+Elin|A2|Hej. Sover Maja?|안녕. 마야 자?
+Daniel|A2|Ja. Hon somnade i ditt gamla rum. Din pappa läste tre sagor.|응. 네 옛날 방에서 잠들었어. 장인어른이 동화 세 편 읽어 주셨어.
+Elin|B1|Jag kommer om två minuter. Okej, kanske lite senare. Vi har en omröstning i morgon som vi måste vinna.|2분이면 갈게. 알았어, 좀 더 늦을 수도 있어. 내일 꼭 이겨야 하는 표결이 있거든.
+Daniel|B1|Jag startar tidtagningen. Och du, din mamma har ställt fram en kanelbulle åt dig.|스톱워치 켠다. 그리고 있잖아, 장모님이 너 먹으라고 시나몬롤 하나 꺼내 놓으셨어.
+Gunbritt|B2|Du har blivit kortfattad, Annika. I morse höll du dig under två minuter. Det har jag inte varit med om på åtta år.|짧아졌네요, 안니카. 오늘 아침엔 2분 안에 끝냈잖아요. 8년 동안 그런 건 처음 봤어요. (밤 10시 10분. 호텔 로비 소파. 군브리트는 뜨개질 중이다)
+Annika|B2|Jag har övat. Sofia har lärt mig att andas mellan meningarna. Men jag är inte här för att prata om mig.|연습했어요. 소피아가 문장 사이에 숨 쉬는 법을 가르쳐 줬거든요. 근데 제 얘기하러 온 건 아니에요.
+Gunbritt|B1|Nej, du är här för mitt kylskåp.|그렇겠죠. 제 냉장고 때문에 왔겠죠.
+Annika|C1|Jag är här för att jag inte vill att du ska känna att något har tagits ifrån dig. ”Bygg broar” var aldrig fel. Det beskriver hur vi arbetar, men inte vad väljarna får.|당신이 뭔가를 빼앗겼다고 느끼지 않았으면 해서 왔어요. '다리를 놓자'는 틀린 적이 없어요. 그건 우리가 어떻게 일하는지를 말해 주죠. 하지만 유권자가 뭘 얻는지는 말해 주지 않아요.
+Gunbritt|B2|Det där låter som Sofia, inte som du.|그건 소피아 말 같네요. 당신 말이 아니라.
+Annika|B2|Kanske. Men det här är mitt eget: jag vill ha orden på medlemskortet. Varje ny medlem ska få dem i handen.|그럴지도요. 근데 이건 제 생각이에요. 그 말을 당원증에 넣고 싶어요. 새 당원은 모두 그걸 손에 받는 거죠.
+Gunbritt|C1|Så sloganen går ut till väljarna, och de gamla orden stannar hos oss som har burit dem. Det kan jag, mot förmodan, tänka mig att rösta för.|그러니까 슬로건은 유권자에게 나가고, 옛 말은 그걸 짊어져 온 우리 곁에 남는다. 그거라면, 뜻밖에도, 찬성할 마음이 들 수도 있겠네요. (뜨개바늘을 내려놓는다)
+Annika|B1|Då behöver jag bara Mattias. Han sitter i baren med Jonas.|그럼 이제 마티아스만 남았네요. 요나스랑 바에 앉아 있어요.
+# 장면 4 — 호텔 1층 바, 일요일 새벽 1시 10분
+Bartendern|A2|Vi stänger klockan två. Något mer?|저희 2시에 닫아요. 더 필요하신 거 있으세요? (새벽 1시 10분. 역 앞 호텔 1층 바. 손님은 둘뿐)
+Mattias|B1|En lättöl. Och en till honom, han ser ut att behöva det.|라이트 맥주 하나요. 이분한테도 하나. 필요해 보이네요.
+Jonas|B2|Tack. Jag trodde att du skulle undvika mig hela kvällen. Annika säger att du inte har pratat med henne sedan i torsdags.|고마워요. 오늘 밤 내내 저를 피하실 줄 알았어요. 안니카 씨 말로는 목요일 이후로 한마디도 안 하셨다던데요.
+Mattias|B2|I torsdags röstade partistyrelsen sju mot två. Jag var en av de två. Det är svårt att prata med någon när man inte vet om man fortfarande står på samma sida.|목요일에 집행위원회가 7 대 2로 의결했어요. 제가 그 둘 중 하나였고요. 아직 같은 편에 서 있는지 모를 때는 누구하고든 말하기가 어렵죠.
+Jonas|C1|Får jag fråga en sak, rakt ut? Är det löftena du försvarar, eller är det någonting annat? För i dag lät det som om du stod och försvarade människor, inte meningar i ett program.|하나 대놓고 물어봐도 될까요? 지키시는 게 공약인가요, 아니면 다른 뭔가인가요? 오늘은 강령 속 문장이 아니라 사람들을 지키고 서 계신 것처럼 들렸거든요.
+Mattias|B2|Vet du var jag var på valnatten 2022? I en hyrd lokal vid Fridhemsplan, med fyrtio ballonger och en tårta med en fyra på.|2022년 선거의 밤에 제가 어디 있었는지 알아요? 프리드헴스플란의 빌린 홀이요. 풍선 마흔 개, 그리고 4가 올라간 케이크.
+Jonas|A2|En fyra?|4요?
+Mattias|C1|Jag hade beställt den själv. Strax före midnatt stod det tre komma sju på skärmen, och jag räknade ut att vi saknade runt tjugotusen röster – ungefär lika många som det bor i Kumla.|제가 직접 주문했었어요. 자정 직전에 화면에 3.7이 떴고, 계산해 보니 약 2만 표가 모자랐어요. 대략 쿰라에 사는 사람 수만큼이요.
+Jonas|B2|Och veckan efter? Jag vet att ni gick från fjorton anställda till sex.|그리고 그다음 주는요? 상근자가 열네 명에서 여섯 명이 된 건 알아요.
+Mattias|C1|Det var jag som satt med listan. Ingen konsult, inget bemanningsföretag. Jag valde ut åtta personer som jag hade anställt själv, och jag ringde var och en innan de hann läsa om det i tidningen.|그 명단을 들고 앉아 있던 게 저였어요. 컨설턴트도, 인력 회사도 없이. 제가 직접 뽑았던 여덟 명을 골랐고, 신문에서 읽기 전에 한 명 한 명 전화했어요.
+Jonas|B2|Så när fyra konsulter kommer och stryker tjugosju löften, så känns det som samma lista igen.|그러니 컨설턴트 넷이 와서 공약 스물일곱 개를 지우면, 그때 그 명단을 또 보는 것 같은 거군요.
+Mattias|C1|Varje löfte på den listan har ett ansikte. Birgittas pappa i trappan. Malins buss. Gunbritts kylskåp, om du vill. Det är inte rader i ett kalkylark – det är skälet till att de fortfarande står i regnet och delar ut flygblad.|그 목록의 공약마다 얼굴이 있어요. 계단에 쓰러졌던 비르기타의 아버지. 말린의 버스. 원한다면 군브리트의 냉장고도요. 그건 스프레드시트의 줄이 아니라, 그 사람들이 아직도 빗속에 서서 전단을 나눠 주는 이유예요.
+Jonas|B2|Jag vet. Jag har själv suttit med en sådan lista, på ett bruk i Bergslagen. Fjorton personer från en linje som vi fick stänga. Ingen fick gå, men jag minns varenda namn.|알아요. 저도 그런 명단을 들고 앉아 있어 봤어요. 베리슬라겐의 제철소에서요. 닫아야 했던 라인의 열네 명. 아무도 내보내진 않았지만, 이름은 하나하나 다 기억해요.
+Mattias|B2|Det har jag läst om. Det var därför jag var emot er från början. Jag trodde att ni skulle göra med partiet vad man gör med ett företag.|그 얘기 읽었어요. 그래서 처음부터 당신들을 반대했던 거예요. 회사에 하는 걸 당에도 할 줄 알았거든요.
+Jonas|C1|Ett parti är inte ett företag – men det är inte heller ett minnesmärke. Om löftena bara får leva i programmet, lever de som namn på en gravsten. Låt dem leva på torgen i stället, som exempel under de fem.|당은 회사가 아니에요. 하지만 기념비도 아니죠. 공약이 강령 속에서만 산다면, 묘비에 새긴 이름처럼 사는 거예요. 차라리 광장에서 살게 해요. 다섯 개 아래의 사례로.
+Mattias|B2|Birgitta sa att du hade sagt något sådant. Ett exempel per distrikt, utan egen budgetpost.|비르기타가 당신이 그런 말을 했다더군요. 지구당 사례 하나, 별도 예산 항목 없이.
+Jonas|B1|Och Elin har räknat på Skåne. Det ryms.|그리고 엘린이 스코네를 계산해 봤어요. 들어가요.
+Mattias|C1|Då vill jag ha det skrivet som ett yrkande: varje distrikt får ett lokalt exempel under ett av de fem löftena, förankrat i distriktsstyrelsen, och inget exempel får medföra kostnader utöver de ramar som Elin har redovisat.|그럼 동의안으로 적어 두고 싶어요. 각 지구는 다섯 공약 중 하나 아래에 지역 사례 하나를 둘 수 있고, 그건 지구 위원회의 동의를 거쳐야 하며, 어떤 사례도 엘린이 제시한 틀을 넘는 비용을 수반해선 안 된다. (냅킨에 적는다)
+Jonas|B2|Det låter som ett ändringsyrkande. Vem lägger det i morgon?|그거 수정 동의처럼 들리네요. 내일 누가 내죠?
+Mattias|B2|Jag. Om partisekreteraren som reserverade sig lägger det, förstår distrikten att det inte längre är konsulternas förslag.|제가요. 반대 의견을 냈던 사무총장이 내면, 지구들은 그게 더는 컨설턴트들의 안이 아니라는 걸 알 거예요.
+Jonas|B1|Det är generöst. Och smart.|너그럽네요. 그리고 영리하고요.
+Mattias|C1|Det är varken eller. Det är det enda sättet att hålla ihop ett parti som annars skulle splittras på riktigt, och inte bara i Kurirens rubriker. Och Kumla – söndag om två veckor, klockan nio. Ta på dig riktiga skor.|둘 다 아니에요. 그렇지 않으면 쿠리렌 헤드라인에서만이 아니라 진짜로 쪼개질 당을 붙들어 둘 유일한 방법일 뿐이에요. 그리고 쿰라요 — 2주 뒤 일요일, 아침 9시. 제대로 된 신발 신고 오세요.
+Jonas|A2|Jag kommer. Ett löfte är ett löfte.|갈게요. 약속은 약속이니까요.
+# 장면 5 — 회의 센터 대회의실, 2월 22일 일요일 오전 10시
+Per-Erik|B2|Partistyrelsen har återrapporterat. Förslaget ligger kvar oförändrat, men jag har fått in ett ändringsyrkande. Mattias Öberg.|집행위원회가 다시 보고했습니다. 원안은 그대로입니다만, 수정 동의가 하나 들어왔습니다. 마티아스 외베리. (2월 22일 일요일 오전 10시. 같은 회의실. 대의원들 손에 종이 한 장씩)
+Mattias|C1|Jag yrkar att varje distrikt får ett lokalt exempel under ett av de fem löftena, förankrat i distriktsstyrelsen och utan kostnader utöver de redovisade ramarna. Och jag drar tillbaka min reservation.|각 지구가 다섯 공약 중 하나 아래에 지역 사례 하나를 둘 수 있도록 제안합니다. 지구 위원회 동의를 거치고, 제시된 틀을 넘는 비용은 없는 조건입니다. 그리고 제 반대 의견을 철회합니다. (객석이 술렁인다)
+Birgitta|C1|Ordförande. Norrbotten beslutade i natt att Övertorneå blir vårt exempel under löfte två. Jag yrkar bifall till förslaget med den ändring som Mattias Öberg har föreslagit.|의장. 노르보텐은 밤사이 위베르토르네오를 2번 공약 아래 우리 사례로 하기로 정했습니다. 마티아스 외베리가 제안한 수정을 포함한 원안에 찬성을 요청합니다.
+Malin|B1|Skåne instämmer. Bussen till Vittsjö står under löfte fyra.|스코네도 동의합니다. 비트셰행 버스는 4번 공약 아래 들어갑니다.
+Gunbritt|B2|Örebro instämmer också – på villkor att ”Bygg broar” trycks på medlemskortet. Annika har lovat.|외레브로도 동의합니다. '다리를 놓자'를 당원증에 인쇄한다는 조건으로요. 안니카가 약속했어요.
+Per-Erik|B2|Då ställer jag proposition på bifall till partistyrelsens förslag med Mattias Öbergs ändring. Votering är begärd, för protokollets skull.|그럼 마티아스 외베리의 수정을 포함한 집행위원회 원안 찬성을 표결에 부칩니다. 회의록을 위해 투표가 요청되었습니다.
+Elin|B1|Femtiotvå. Sex nej. Tre avstår. Jag räknade igen.|52. 반대 여섯. 기권 셋. 또 셌어. (요나스에게)
+Per-Erik|C1|Partirådet har med femtiotvå röster mot sex, och tre som avstod, antagit valmanifestet med ändringen. Brobyggarna går till val under parollen ”Det ska fungera”.|평의회는 52 대 6, 기권 3으로 수정을 포함한 선거 공약집을 채택했습니다. 브로비가르나는 "제대로 돌아가야 한다"는 구호 아래 선거에 나섭니다. (의사봉. 박수. 함푸스가 일어선다)
+Annika|B2|Tack, Mattias. Jag vet vad det kostade dig att stå där uppe i dag.|고마워, 마티아스. 오늘 거기 올라서는 게 너한테 얼마나 힘든 일이었는지 알아.
+Mattias|C1|Det kostade mindre än ännu en valnatt med tårta. Och nu går vi på lunch, så att jag kan äta något sött med gott samvete.|케이크 놓인 선거의 밤을 한 번 더 겪는 것보단 덜 들었어. 자, 이제 점심 먹으러 가자. 그래야 마음 편히 단 걸 먹지.
+Jonas|B1|Linus Falk har skrivit. Och han frågar inte om dagens omröstning.|리누스 팔크한테서 문자 왔어. 그런데 오늘 표결 얘기는 안 묻네. (사람들이 빠져나간 회의실. 엘린에게 휴대폰 화면을 보인다)
+Linus|B1|Hörde att ni förlorade första omröstningen. Vill du kommentera, Jonas?|1차 표결에서 졌다면서요. 논평하실래요, 요나스? (문자)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Jag håller inte med.** | 동의하지 않아요. | *hålla med (någon)* = (누구에게) 동의하다. 부정어 *inte* 는 동사 *håller* 바로 뒤, 불변화사 *med* 앞에 온다. 반대말은 *Jag håller med dig.* |
+| `A2` | **Nu gäller det.** | 이제 진짜예요. / 이제 승부예요. | *gälla* = 해당하다·걸려 있다. 결정적인 순간 직전에 쓰는 관용 표현. 시험·경기·표결 직전에 자주 들린다 |
+| `B1` | **Får jag säga en sak innan vi röstar?** | 표결 전에 한마디 해도 될까요? | 회의에서 발언권을 정중하게 청하는 기본 문장. *innan* + 주어 + 동사(종속절이라 어순 그대로). 공식 회의라면 *Ordförande, jag begär ordet.* |
+| `B1` | **Jag instämmer i Gunbritts yrkande.** | 군브리트의 제안에 동의합니다. | *instämma i* = ~에 찬동하다(회의 용어). 스웨덴 회의에서는 긴 지지 발언 대신 이 한 문장으로 끝내는 경우가 많다 |
+| `B2` | **Ett program med trettiotvå löften är ett program som ingen läser.** | 공약 32개짜리 강령은 아무도 안 읽는 강령이에요. | 같은 명사(*ett program*)를 반복해 대구를 만드는 연설 화법. *som ingen läser* — 관계절 안에서는 *ingen* 이 주어 |
+| `B2` | **Jag yrkar återremiss.** | 재검토 회부를 제안합니다. | *yrka* (동의를 내다) + 명사. *återremiss* = 안건을 준비 기관(여기서는 집행위원회)에 돌려보내는 것. 사실상 '오늘은 부결'이지만 안건은 살아 있다 |
+| `B2` | **Partirådet körde över Strand.** | 평의회가 스트란드를 깔아뭉갰다. | *köra över någon* = 누구의 뜻을 무시하고 밀어붙이다(직역: 차로 치고 지나가다). 정치 기사 제목에 흔한 구어적 표현 |
+| `C1` | **Jag yrkar bifall till förslaget med den ändring som Mattias Öberg har föreslagit.** | 마티아스 외베리가 제안한 수정을 포함한 원안에 찬성을 요청합니다. | *yrka bifall till* = ~에 찬성 동의를 내다. 반대는 *yrka avslag på*. *den ändring som …* — 관계절이 따라오면 명사 앞에 *den* 을 붙이고 명사는 미한정형 |
+| `C1` | **Jag vill att det framgår av protokollet att jag reserverade mig.** | 제가 반대 의견을 남겼다는 사실을 회의록에 밝혀 두고 싶습니다. | *reservera sig (mot)* = 다수 결정에 대해 공식적으로 반대 의견을 남기다(결정에 대한 책임을 지지 않겠다는 뜻). *framgå av* = ~에서 드러나다 |
+| `C1` | **Det kan jag, mot förmodan, tänka mig att rösta för.** | 그거라면, 뜻밖에도, 찬성할 마음이 들 수도 있겠네요. | 목적어 *det* 를 문두에 두어 V2(*kan jag*). *mot förmodan* = 예상과 달리(문어적). *kunna tänka sig att …* = ~할 용의가 있다 |
+
+## 현안 메모
+- **줄어드는 당원** — 스웨덴 정당 당원 수는 1970~80년대에 정점을 찍었다. 당시 사회민주당은 노조 지부를 통한 집단 가입(kollektivanslutning)까지 포함해 당원이 100만 명을 넘었는데, 이 제도는 1980년대 말 폐지가 결정되어 1990년대 초에 사라졌다. 그 뒤로도 개인 당원은 계속 줄어, 오늘날 모든 정당 당원을 합쳐도 유권자의 몇 퍼센트 수준에 그친다.
+- **나이 드는 조직** — 당원의 평균 연령이 높고 실제로 활동하는 당원은 그중 일부다. 그래서 많은 지역 조직이 호별 방문·전단 배포·선거 부스를 감당하기 어렵고, 기초·광역 의회의 의석과 위원회 자리를 채울 후보를 찾는 것도 해마다 힘들어진다는 지적이 나온다. 임기 중에 그만두는 지방 정치인도 적지 않다.
+- **돈의 구조** — 당비 수입의 비중이 줄면서, 정당 재정은 국가·광역·기초 지자체가 의석에 따라 주는 정당 지원금(partistöd)에 크게 기대게 되었다. 2018년부터는 정당 재정 투명성 규정이 강화되어 익명 기부가 원칙적으로 금지되고, 일정 금액 이상 기부자의 신원은 공개해야 한다.
+- **당의 의사결정** — 스웨덴 정당은 대개 당대회(정당마다 kongress·landsmöte·riksting 등 명칭이 다르다)를 최고 의결 기구로 두고, 그 사이에는 당 집행위원회(partistyrelse)가 당을 이끈다. 대회 사이에 평의회(partiråd 등)를 두는 정당도 있다. 회의는 *bifall*(찬성)·*avslag*(부결)·*återremiss*(재검토 회부)·*votering*(투표)·*reservation*(반대 의견) 같은 정형화된 의사진행 용어로 진행되는데, 이는 스웨덴의 오랜 협회 문화(föreningsliv)에서 온 전통이다. 이번 화의 Brobyggarna, 당헌, 대의원 수, 표결 결과, 공약과 예산 수치는 모두 가상이다.
+
+## 비즈니스 메모
+- **내부 이해관계자 맵** — 대의원을 가로축 '입장(반대 ↔ 찬성)', 세로축 '영향력'에 놓고, 반대하는 사람마다 반대의 이유를 적는다. 이번 화의 반대는 세 종류였다. 노르보텐은 '얼굴'(계단에서 70분을 기다린 아버지), 스코네는 '증거'(광장에 들고 설 구체적인 노선), 외레브로는 '정체성'(냉장고 위의 옛 슬로건). 이유가 다르면 해법도 다르다. 그리고 가장 영향력이 큰 반대자(마티아스)가 직접 수정안을 내게 하면, 안은 더 이상 '외부인의 안'이 아니다.
+- **포함 조항(umbrella clause)** — 항목을 지우는 대신 상위 범주 아래 사례로 다시 배치하는 방법. 조건은 둘: ① 사례에는 별도 예산이 없고 상위 항목의 틀 안에서만 움직인다(엘린의 "틀 밖으로 한 푼도 안 나간다") ② 사례는 '우리 지역에 얼마'가 아니라 '이런 곳을 우선한다'는 기준으로 쓴다. 기업에서 제품군을 정리할 때 지역 법인의 핵심 제품을 글로벌 라인의 '현지 버전'으로 남기는 것과 같은 원리다.
+
+## 다음 화 예고 — Järva
+**4부 5화.** 3월 14일 토요일, 링케뷔 광장. 청년 조직 대표 노라 하산이 처음으로 캠프 앞에 선다. 카메라도, 기자도, 연단도 없다. 노라의 규칙은 하나다. "약속하지 마. 들어." 안니카는 텐스타의 아파트 계단을 오르며 문을 두드린다. "Hej, jag heter Annika. Har du två minuter?" 아들을 총격으로 잃은 어머니, "투표가 뭘 바꾸냐"고 묻는 청년, 그리고 "당신들은 선거 때만 여기 와요." 후스뷔 청소년 센터에서 안니카는 연설 대신 질문만 한다. 그날 밤 알뷔의 본가, 아미르는 동생 다니얄의 휴대폰에 또다시 낯선 메시지가 와 있는 것을 본다. 지난 11월에 신고했던 그 번호들과는 다른 번호다.
