@@ -145,7 +145,7 @@
   - 001–028 룰레오 공장 견학, 녹색 산업의 약속과 인력·주택 부족 (`B1·B2`)
   - 029–058 지역 타운홀: 전기요금 공약 역풍 — 엘린의 즉석 수정안 (`B2·C1`)
   - 059–088 순록 목축지: 언테와의 대화, 토지·협의(samråd)·권리 (`B1·B2·C1`)
-  - 089–120 키루나: 요나스와 어머니 군, 옛 시가지 터 — 시리즈 상처의 회수 (`A2·B1` 조용한 장면)
+  - 089–120 키루나: 요나스와 어머니 잉리드, 옛 시가지 터 — 시리즈 상처의 회수 (`A2·B1` 조용한 장면)
 - **전략가의 도구** 지역 맞춤 메시지 (Lokal förankring) — 같은 정책, 다른 이야기
 - **핵심 표현** A2 *Här är det kallt men elen är billig.* (여긴 춥지만 전기는 싸요.) / B1 *Det är vi som bor här som får betala priset.* (대가를 치르는 건 여기 사는 우리예요.) / B2 *Den gröna omställningen får inte bli ännu ett sätt att ta mark från samerna.* (녹색 전환이 사미족에게서 땅을 빼앗는 또 하나의 방식이 되어선 안 돼요.) / C1 *Man kan flytta en stad, men man kan inte flytta de minnen som människor har byggt upp där under ett helt liv.* (도시는 옮길 수 있어도, 사람들이 평생 쌓은 기억은 옮길 수 없어요.)
 - **엔딩 훅** 군(요나스의 어머니): "Du pratar som din pappa nu, Jonas. Han trodde också att man kunde övertyga alla." (이제 네 아빠처럼 말하는구나. 그 사람도 모두를 설득할 수 있다고 믿었지.)
