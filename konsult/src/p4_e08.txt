@@ -1,0 +1,162 @@
+@title 4부 8화 — Deepfaken
+@subtitle (딥페이크)
+@meta 날짜|2026년 5월 25일 월요일 새벽 ~ 27일 수요일 밤
+@meta 장소|쇠데르, 요나스의 아파트 부엌 (25일 월요일 새벽 3시 4분) → 쿵스홀멘 당사 '큰 방' 상황실 (아침 8시) → 같은 방, 심리방위청(MPF)과의 화상 회의 (오전 11시) → 호른스가탄 Klarsyn 뒷방 'DATARUMMET' (26일 화요일 오전 9시 ~ 오후 2시) → 당사 '큰 방' (화요일 오후 4시 ~ 수요일 밤)
+@meta 등장인물|**Amir Nouri** (아미르 누리, 30, 디지털·데이터) · **Jonas Ekholm** (요나스 에크홀름, 44, 수석 전략가) · **Love Ekholm** (러브 에크홀름, 18, 요나스의 아들) · **Annika Strand** (안니카 스트란드, 49, 당 대표) · **Elin Bergqvist** (엘린 베리크비스트, 37, 정책·예산·리스크) · **Mattias Öberg** (마티아스 외베리, 56, 사무총장) · **Sofia Mäkinen** (소피아 매키넨, 33, 미디어 훈련·연설문) · **Ebba Törnqvist** (에바 퇴른크비스트, 40대, 심리방위청 분석관 — 가상 인물) · **Linus Falk** (리누스 팔크, 41, *Stockholms-Kuriren* 기자) · **Nora Hassan** (노라 하산, 26, 청년 조직 대표) · **Mahmoud** (마흐무드, 60대, 링케뷔 광장 과일 가판대 — 영상 속) · **Raija** (라이야, 81, 텐스타 8층 주민 — 영상 속)
+@meta 이번 화의 도구|위기 대응 매트릭스 (Krismatris) — 가로축 확산 속도 × 세로축 신뢰 피해. 칸마다 대응(무시·문서화·반박·역공)이 다르다. 핵심은 '언제 입을 열지'를 감정이 아니라 미리 정한 문턱(tröskel)으로 결정하는 것
+@meta 스웨덴 현안|AI 딥페이크와 선거 관련 허위정보 · 2022년 출범한 심리방위청(Myndigheten för psykologiskt försvar, MPF)의 역할과 한계 · 플랫폼의 책임(EU 디지털서비스법)과 스웨덴 형법상 대응(명예훼손·불법 신원 도용)
+@intro **지난 이야기** — 5월 7일 SVT 「Kvällsfrågan」 의료 토론. 안니카는 첫 15분 동안 훌륭했지만, '새벽 3시 한 명 더' 공약의 비용을 묻는 질문에 70억(공약 전체)이라고 답한 뒤 "Det … vet jag faktiskt inte"라며 얼어붙었다. 3초의 침묵은 한 시간 만에 50만 회. 다음 날 아침 안니카는 대본도 음악도 없이 직접 찍은 1분 12초짜리 사과 영상을 올렸다. "Jag gjorde fel i går kväll, och jag tänker inte låtsas något annat." 영상은 토론 클립보다 빨리 퍼졌다.
+@intro 그로부터 2주 반. 사과 영상은 안니카를 처음으로 '사람'으로 보이게 만들었다. 그리고 바로 그 1분 12초 — 음악 없이, 깨끗하게, 혼자 말하는 목소리 — 가 누군가에게는 재료가 되었다. 5월 25일 월요일 새벽, 텔레그램과 X에 안니카의 사진 한 장과 42초짜리 음성이 올라온다.
+# 장면 1 — 쇠데르, 요나스의 아파트, 5월 25일 월요일 새벽 3시 4분
+Amir|A2|Jonas? Förlåt, det är Amir. Är du vaken?|요나스 씨? 죄송해요, 아미르예요. 깨어 있어요? (5월 25일 월요일 새벽 3시 4분. 쇠데르, 요나스의 아파트. 어둠 속에서 휴대폰이 울린다)
+Jonas|A2|Nu är jag det. Vad har hänt?|이제 깼어. 무슨 일이야?
+Amir|B1|Det går en film på Telegram och X. Det är en stillbild på Annika, och så hör man hennes röst. Jag skickar länken, men lyssna med hörlurar.|텔레그램이랑 X에 영상 하나가 돌고 있어요. 안니카 씨 정지 사진에 안니카 씨 목소리가 깔려 있어요. 링크 보낼게요. 근데 이어폰 끼고 들어요.
+Jonas|A2|Vänta. Jag går ut i köket.|잠깐. 부엌으로 갈게.
+Love|A2|Pappa? Vem ringer klockan tre på natten?|아빠? 새벽 3시에 누가 전화해? (러브가 방문을 연다. 머리가 엉망이다)
+Jonas|A2|Det är jobbet. Gå och lägg dig, Love.|일이야. 들어가서 자, 러브.
+Amir|B2|Hon säger att folk i förorten ändå inte röstar och att Järva bara var för bildernas skull. Fyrtiotvå sekunder. Det låter precis som hon.|교외 사람들은 어차피 투표 안 한다고, 야르바는 그냥 사진 때문에 간 거라고 말해요. 42초요. 딱 안니카 씨 목소리예요.
+Jonas|B2|Det är hennes röst, men inte hennes ord. Hur trött hon än är skulle hon aldrig säga "de där" om människor.|목소리는 안니카 씨 거야. 그런데 말은 아니야. 아무리 지쳐도 그 사람은 사람들한테 '저런 것들'이라고 절대 안 해. (부엌 불도 켜지 않고 이어폰으로 두 번 듣는다)
+Amir|B2|Och det fanns inga bilder. Noras regel var ju ingen kamera. Den som har gjort det här vet inte ens hur besöket gick till.|게다가 사진 같은 건 없었어요. 노라 규칙이 카메라 금지였잖아요. 이걸 만든 사람은 방문이 어떻게 진행됐는지도 몰라요.
+Jonas|A2|Hur många har sett den?|몇 명이 봤어?
+Amir|B2|Den lades upp kvart i två. Nu har den ungefär nio tusen visningar, men den delas av konton som jag aldrig har sett förut och som nästan inte har några följare.|1시 45분에 올라왔어요. 지금 9천 회쯤인데, 처음 보는 계정들이 퍼 날라요. 팔로워도 거의 없는 계정들이요.
+Jonas|B1|Koppla in Annika. Hon ska höra det från oss, inte från en journalist klockan sju.|안니카 씨 연결해. 아침 7시에 기자한테 듣게 하면 안 돼. 우리한테 들어야지.
+Annika|A2|Hallå? Jonas? Vad är det som har hänt?|여보세요? 요나스 씨? 무슨 일이에요? (잠에서 덜 깬 목소리. 아미르가 통화에 연결했다)
+Jonas|B2|Det är Jonas och Amir. Det cirkulerar en ljudfil där det låter som du. Lyssna först, och säg sedan bara vad du tänker, utan att tänka på hur det låter.|요나스랑 아미르예요. 안니카 씨처럼 들리는 음성 파일이 돌고 있어요. 먼저 들어 보시고, 그다음엔 그냥 생각나는 대로 말해 주세요. 어떻게 들릴지는 신경 쓰지 말고요.
+Annika|A2|Det är inte min röst.|그건 제 목소리가 아니에요. (42초. 그리고 긴 침묵)
+Amir|B2|Jag vet. Men den är gjord av din röst, och jag misstänker att den bygger på ursäktsfilmen, där du pratar i över en minut utan musik i bakgrunden.|알아요. 근데 안니카 씨 목소리로 만든 거예요. 사과 영상에서 가져온 것 같아요. 거기서 배경 음악 없이 1분 넘게 말씀하셨잖아요.
+Annika|C1|Så det enda jag har gjort för att vara ärlig har någon använt för att få mig att låta som en lögnare. Det vore nästan skickligt, om det inte vore så motbjudande.|그러니까 제가 솔직해지려고 한 단 하나의 일을, 누군가 저를 거짓말쟁이처럼 들리게 하는 데 썼네요. 이렇게 역겹지만 않다면 거의 솜씨 좋다고 할 만하겠어요.
+Jonas|C1|Ja. Och just därför vill jag att du inte gör någonting före klockan åtta – inga inlägg, inga svar och inga sms till vänner som undrar, hur gärna du än vill.|네. 그러니까 더더욱 8시 전에는 아무것도 하지 마세요. 게시물도, 댓글도, 궁금해하는 친구들한테 문자도 안 돼요. 아무리 하고 싶어도요.
+Annika|A2|Mina vänner sover. Det är bara jag som är vaken.|친구들은 자요. 깨어 있는 건 저뿐이에요.
+Amir|B2|Inte bara du. Kontona som delar filmen lägger upp ett inlägg var femte minut, som om någon hade ställt en väckarklocka.|안니카 씨만이 아니에요. 영상을 퍼뜨리는 계정들이 5분마다 하나씩 올려요. 누가 알람이라도 맞춰 놓은 것처럼요.
+Jonas|B1|Spara allt, Amir – länkar, tider och kontonamn. Men dela ingenting, inte ens med mig i en chatt. Vi ses i stora rummet klockan åtta.|아미르, 전부 저장해. 링크, 시각, 계정 이름. 하지만 아무것도 공유하지 마. 채팅으로 나한테도. 8시에 '큰 방'에서 보자.
+Annika|B1|Ska vi inte ringa Elin?|엘린 씨한텐 전화 안 해요?
+Jonas|C1|Inte före sex. Elin och Daniel har en regel hemma som hon aldrig har brutit för min skull, och jag tänker inte bli den som får henne att göra det.|6시 전엔 안 해요. 엘린이랑 다니엘 집에는 규칙이 하나 있는데, 엘린은 저 때문에 그걸 깬 적이 한 번도 없어요. 제가 처음으로 깨게 만드는 사람이 되진 않을 거예요.
+Elin|B2|Klockan är två minuter i sex, så det är jag som ringer dig. Jag har redan hört den – den ligger i föräldragruppen på Majas förskola, delad av en pappa som skrev "Är det här sant?"|6시 2분 전이니까 내가 너한테 거는 거야. 벌써 들었어. 마야 유치원 학부모 단톡방에 올라와 있더라. 어떤 아빠가 "이거 진짜예요?" 하고 올렸어. (새벽 5시 58분. 요나스가 막 휴대폰을 집어 드는 순간 엘린의 전화가 먼저 온다)
+Jonas|B2|Då har den redan lämnat bubblan. Kom till stora rummet, och ta med den gula boken.|그럼 벌써 거품 밖으로 나갔네. '큰 방'으로 와. 노란 노트 챙기고.
+# 장면 2 — 쿵스홀멘 당사 '큰 방', 상황실, 월요일 아침 8시
+Mattias|B2|Jag har skrivit ett mejl till alla medlemmar. Vi bifogar filmen och skriver att den är falsk, så vet alla var partiet står.|전 당원한테 보낼 메일을 써 놨어요. 영상을 첨부하고 가짜라고 쓰는 거죠. 그러면 당이 어디 서 있는지 다들 알 거예요. (아침 8시. 당사 '큰 방'. 화이트보드 필름에 'A – B – C'가 아직 희미하게 남아 있다. 마티아스는 6시 반부터 와 있었다)
+Amir|B1|Nej, vänta. Vi får inte sprida filmen ännu mer.|아니요, 잠깐만요. 그 영상을 더 퍼뜨려선 안 돼요.
+Mattias|B2|Medlemmarna har rätt att få höra det från sitt eget parti och inte från en kusin på Facebook.|당원들은 페이스북의 어느 사촌이 아니라 자기 당한테서 그 얘기를 들을 권리가 있어요.
+Sofia|C1|Det har de. Men skickar du filmen till 4 800 adresser blir partiet självt dagens flitigaste spridare av just den lögn vi vill stoppa.|그건 맞아요. 하지만 그 영상을 4,800개 주소로 보내면, 우리가 막으려는 바로 그 거짓말을 오늘 제일 열심히 퍼뜨리는 게 당 자신이 돼요.
+Jonas|B2|Okej. Innan någon gör något som inte går att göra ogjort: Elin, rita matrisen.|좋아. 누가 되돌릴 수 없는 일을 하기 전에. 엘린, 매트릭스 그려 줘.
+Elin|B2|Två axlar. Den vågräta är spridningstakten, alltså hur fort det går. Den lodräta är skadan på förtroendet hos dem vi behöver. Fyra rutor, och varje ruta har sin egen åtgärd.|축 두 개. 가로축은 확산 속도, 그러니까 얼마나 빨리 퍼지느냐. 세로축은 우리가 필요한 사람들 사이에서 신뢰가 얼마나 다치느냐. 칸 네 개, 칸마다 대응이 따로 있어. (화이트보드 필름에 십자를 긋는다)
+Sofia|A2|Och var är vi nu?|그럼 지금 우린 어디예요?
+Amir|B2|Trettioåtta tusen visningar, och den har delats av ungefär 280 konton. Sju av tio skapades efter första april. Det går fort, men än så länge är det mest konton som pratar med varandra.|조회수 3만 8천, 공유한 계정은 280개 정도예요. 열에 일곱은 4월 1일 이후에 만들어졌고요. 빠르긴 한데, 아직까진 대부분 계정들끼리 떠드는 수준이에요.
+Elin|C1|Då befinner vi oss i rutan där snabb spridning möter en än så länge begränsad skada. Där är det oftast klokast att inte svara offentligt, utan att dokumentera, anmäla och ha ett svar färdigt den dag tröskeln passeras.|그럼 우린 빠른 확산이 아직은 제한적인 피해와 만나는 칸에 있는 거야. 거기선 대개 공개적으로 대응하지 않는 게 제일 현명해. 대신 기록하고, 신고하고, 문턱을 넘는 날 내놓을 답을 준비해 두는 거지. (오른쪽 아래 칸에 점을 찍는다)
+Mattias|B1|Så vi gör ingenting? Är det er strategi?|그러니까 아무것도 안 한다고요? 그게 전략이에요?
+Jonas|C1|Vi gör en hel del, bara inte på X. Vi har tre vägar: att ignorera, att dementera eller att gå till motattack. Motattacken stryker vi direkt, eftersom vi inte ens vet vem vi i så fall skulle attackera.|할 일은 많아요. X에서 안 할 뿐이죠. 길은 세 개예요. 무시하기, 반박하기, 역공하기. 역공은 바로 지워요. 역공을 한다 해도 누구를 공격해야 할지조차 모르니까요.
+Annika|B1|Men jag vill säga att det inte är jag. Är det så konstigt?|하지만 저는 그게 제가 아니라고 말하고 싶어요. 그게 그렇게 이상한가요?
+Jonas|B2|Nej. Men om vi dementerar för tidigt ger vi lögnen en större publik. I dag har trettioåtta tusen hört den. Går du ut nu får trehundratusen höra talas om den.|아니요. 하지만 너무 일찍 부인하면 거짓말에 더 큰 청중을 주게 돼요. 오늘 그걸 들은 사람은 3만 8천 명이에요. 지금 나서면 30만 명이 그런 게 있다는 걸 알게 돼요.
+Sofia|C1|Och de flesta av dem kommer bara att minnas rubriken. Det är det nedslående med dementier: ett påstående som upprepas fastnar, även när det upprepas för att motbevisas.|그리고 그중 대부분은 제목만 기억할 거예요. 해명이 맥 빠지는 이유가 그거예요. 반복되는 주장은 머리에 박혀요. 반박하려고 반복할 때조차도요.
+Annika|B2|Så jag ska sitta tyst medan folk i Järva tror att jag föraktar dem?|그럼 야르바 사람들이 제가 자기들을 경멸한다고 믿는 동안 저는 가만히 앉아 있어야 해요?
+Elin|C1|Det är just där den lodräta axeln kommer in. Skadan mäts inte i visningar, utan i hur många av dem du knackade dörr hos som hör talas om det här – och från vem.|바로 거기서 세로축이 들어와요. 피해는 조회수로 재는 게 아니에요. 안니카 씨가 문을 두드렸던 사람들 중 몇 명이 이 얘기를 듣느냐, 그리고 누구한테서 듣느냐로 재요.
+Amir|B1|Nora har inte hört av sig än, och jag vill inte väcka henne med det här.|노라는 아직 연락이 없어요. 이걸로 깨우고 싶진 않고요.
+Jonas|C1|Då bestämmer vi tröskeln nu, medan vi fortfarande är lugna, så att vi inte behöver bråka om den i eftermiddag. Vi går ut när en etablerad redaktion skriver om filmen eller när den på allvar når Järva – vilket som än inträffar först.|그럼 문턱은 지금 정해요. 아직 차분할 때요. 그래야 오후에 그걸로 싸우지 않죠. 기성 언론사가 영상에 대해 기사를 쓰거나, 영상이 진짜로 야르바에 닿으면 나갑니다. 둘 중 뭐든 먼저 일어나는 쪽이요.
+Mattias|B1|Och vem avgör vad som är "på allvar"?|그럼 '진짜로'인지는 누가 판단해요?
+Amir|B2|Jag. Jag följer öppna konton och grupper därifrån, och så fort filmen börjar delas där av riktiga människor säger jag till.|제가요. 거기 공개 계정이랑 그룹들을 지켜보다가, 진짜 사람들이 영상을 퍼 나르기 시작하면 바로 말할게요.
+Elin|B2|Under tiden gör vi tre saker. Vi polisanmäler, vi anmäler filmen till plattformarna och vi kontaktar Myndigheten för psykologiskt försvar. Tidslinjen har jag redan skrivit.|그동안 세 가지를 해요. 경찰에 신고하고, 플랫폼에 영상을 신고하고, 심리방위청에 연락해요. 타임라인은 벌써 써 놨어요. (노란 노트를 펼친다. 01:45부터 분 단위로 적혀 있다)
+Mattias|B1|Psykologiskt försvar? Är inte det något militärt?|심리 방위요? 그거 군대 쪽 아니에요?
+Elin|C1|Nej, det är en civil myndighet under Försvarsdepartementet. Den inrättades 2022 och ligger i Karlstad, och den ska bland annat identifiera och motverka påverkan som riktas mot Sverige, även inför val. Men den är varken domstol eller faktagranskare åt partier.|아니요, 국방부 산하의 민간 기관이에요. 2022년에 생겼고 칼스타드에 있어요. 무엇보다 스웨덴을 겨냥한 영향 공작을 식별하고 대응하는 게 일이에요. 선거를 앞두고도요. 하지만 법원도 아니고, 정당을 위한 팩트체커도 아니에요.
+Annika|B1|Kan de inte bara säga att filmen är falsk?|그냥 그 영상이 가짜라고 말해 주면 안 되나요?
+Jonas|B1|Det får vi fråga dem. Elin har bokat ett möte klockan elva.|그건 직접 물어봐야죠. 엘린이 11시에 회의를 잡았어요.
+Sofia|B2|Medan vi väntar skriver jag ett uttalande som ligger färdigt. Fyra meningar, inte en till. Och du läser det inte högt förrän vi har bestämt oss, Annika.|기다리는 동안 저는 성명을 써서 준비해 둘게요. 네 문장, 한 문장도 더는 안 돼요. 그리고 안니카 씨, 우리가 결정하기 전까진 소리 내서 읽지 마세요.
+Annika|A2|Fyra meningar. Okej.|네 문장. 알았어요.
+Mattias|B2|Då skickar jag inte mejlet. Men jag ringer de sjutton distriktsordförandena, en i taget, och ber dem att inte dela någonting. Det är ett arbete jag tyvärr har erfarenhet av.|그럼 메일은 안 보낼게요. 대신 지구 위원장 열일곱 명한테 한 명씩 전화해서 아무것도 공유하지 말라고 할게요. 안타깝게도 그런 일은 해 본 적이 있거든요. (2022년, 상근자 여덟 명에게 한 명씩 전화했던 사람의 말)
+Jonas|B1|Tack, Mattias. Det är precis vad vi behöver just nu – folk som pratar med folk.|고마워요, 마티아스 씨. 지금 딱 필요한 게 그거예요. 사람이 사람한테 말하는 거.
+Amir|B1|Femtiotvåtusen nu. Förlåt. En gång i halvtimmen, jag vet.|이제 5만 2천이에요. 죄송해요. 30분에 한 번, 알아요.
+# 장면 3 — 당사 '큰 방', 심리방위청(MPF)과의 화상 회의, 월요일 오전 11시
+Ebba|C1|Välkomna. Jag heter Ebba Törnqvist och är analytiker vid Myndigheten för psykologiskt försvar. Innan vi börjar vill jag vara tydlig med vad det här mötet är, och vad det inte är.|안녕하십니까. 심리방위청 분석관 에바 퇴른크비스트입니다. 시작하기 전에 이 회의가 무엇이고 무엇이 아닌지 분명히 해 두고 싶습니다. (오전 11시. 벽의 화면에 칼스타드의 회의실. 흰 벽, 기관 로고, 노트북 하나. 이쪽에는 안니카, 요나스, 엘린, 아미르, 소피아. 마티아스는 복도에서 지구 위원장들에게 전화하는 중)
+Elin|B1|Vi förstår. Vi har skickat tidslinjen och länkarna, men inte själva filmen.|알겠습니다. 타임라인과 링크는 보냈고, 영상 자체는 보내지 않았습니다.
+Ebba|C1|Tack, det var klokt. Vi har tagit emot er anmälan och tar den på allvar. Men låt mig vara rak. Myndighetens uppgift är att identifiera och motverka otillbörlig informationspåverkan, inte att ta ställning i den politiska debatten.|감사합니다. 현명하셨습니다. 신고는 접수했고 진지하게 다루고 있습니다. 하지만 솔직하게 말씀드리겠습니다. 저희 청의 임무는 부당한 정보 영향을 식별하고 대응하는 것이지, 정치 논쟁에서 편을 드는 게 아닙니다.
+Jonas|B1|Vad betyder det för oss i praktiken, i dag?|그게 오늘 저희한테 실제로 무슨 뜻입니까?
+Ebba|C1|Det betyder att vi inte går ut och intygar att en enskild fil är falsk på uppdrag av ett parti. Däremot analyserar vi om den ingår i ett större mönster – om samma konton, metoder eller tidpunkter återkommer mot fler aktörer inför valet.|저희가 한 정당을 대신해 특정 파일이 가짜라고 공개적으로 확인해 드리지는 않는다는 뜻입니다. 다만 그 파일이 더 큰 패턴의 일부인지는 분석합니다. 같은 계정, 같은 수법, 같은 시점이 선거를 앞두고 다른 행위자들을 상대로도 되풀이되는지요.
+Annika|B2|Men om det är ett mönster, då är det väl inte bara mitt problem längre?|하지만 그게 패턴이라면, 이제 제 문제만은 아니잖아요?
+Ebba|B2|Precis. Då handlar det om valets säkerhet, och då delar vi information med andra myndigheter som har ansvar för det, till exempel Säkerhetspolisen och Valmyndigheten.|그렇습니다. 그러면 선거 안전의 문제가 되고, 그 책임이 있는 다른 기관들, 예를 들어 보안경찰청이나 선거관리청과 정보를 공유합니다.
+Amir|B2|Vi ser att sju av tio konton skapades efter första april och att de postar i vågor. Är det något ni känner igen?|저희가 보기엔 계정 열에 일곱이 4월 1일 이후에 생겼고, 물결처럼 몰려서 게시합니다. 본 적 있는 패턴입니까?
+Ebba|C1|Jag kan inte kommentera enskilda pågående analyser, och jag tänker inte spekulera i vem som ligger bakom. Att peka ut en aktör är ett tidskrävande arbete, och att peka ut fel aktör kan göra större skada än själva filmen.|진행 중인 개별 분석에 대해서는 말씀드릴 수 없고, 누가 배후인지 추측하지도 않겠습니다. 행위자를 지목하는 건 시간이 걸리는 일이고, 잘못된 행위자를 지목하면 영상 자체보다 더 큰 해를 끼칠 수 있습니다.
+Elin|B2|Det förstår jag. Men om ni kommer fram till att det är en utländsk aktör, får vi veta det före valet?|이해합니다. 그런데 외국 행위자라는 결론이 나오면, 선거 전에 저희가 알 수 있습니까?
+Ebba|C1|Det kan jag inte lova. Vi kommunicerar när det finns ett underlag som håller, och då i första hand som en allmän lägesbild, inte som stöd åt ett enskilt parti. Annars skulle vi själva bli en del av påverkan.|약속드릴 수 없습니다. 저희는 근거가 충분할 때 알리고, 그때도 우선은 일반적인 상황 보고 형태로 알립니다. 특정 정당을 지원하는 형태가 아니고요. 그렇지 않으면 저희 자신이 영향 공작의 일부가 될 테니까요.
+Annika|B1|Vad ska vi göra, då? Det är ju ni som är experterna.|그럼 저희는 뭘 해야 해요? 전문가는 그쪽이잖아요.
+Ebba|B2|Tre råd. Dokumentera allt med tider och länkar, polisanmäl, och kommunicera i era egna kanaler, med er egen röst, när ni bedömer att det är dags. Och sprid aldrig själva filmen, inte ens för att visa att den är falsk.|세 가지를 권합니다. 시각과 링크를 붙여 전부 기록하시고, 경찰에 신고하시고, 때가 됐다고 판단하시면 여러분 자신의 채널에서 여러분 자신의 목소리로 알리십시오. 그리고 영상 자체는 절대 퍼뜨리지 마십시오. 가짜라는 걸 보여 주려는 목적이라도요.
+Sofia|B1|Det sa vi faktiskt redan i morse. Till en viss person.|그거 사실 오늘 아침에 벌써 했던 말이에요. 어떤 분한테. (복도 쪽 문을 힐끗 본다)
+Jonas|B2|Och plattformarna? De tjänar ju pengar på varje visning, sann eller falsk.|플랫폼은요? 진짜든 가짜든 조회수 하나하나로 돈을 벌잖습니까.
+Ebba|C1|Ni kan anmäla innehållet direkt till dem. De största plattformarna är enligt EU:s regler skyldiga att bedöma och begränsa risker kring val, och många har egna regler om manipulerade medier. Hur snabbt de faktiskt agerar varierar däremot avsevärt.|플랫폼에 직접 콘텐츠를 신고하실 수 있습니다. 가장 큰 플랫폼들은 EU 규정에 따라 선거 관련 위험을 평가하고 줄일 의무가 있고, 상당수는 조작된 미디어에 대한 자체 규칙도 있습니다. 다만 실제로 얼마나 빨리 움직이는지는 꽤 차이가 납니다.
+Annika|B2|Jag hade ingen aning om att min ursäktsfilm kunde användas på det här sättet.|제 사과 영상이 이런 식으로 쓰일 수 있다는 건 상상도 못 했어요.
+Ebba|C1|Det är tyvärr något vi har varnat för: ju mer en person talar offentligt, desto mer material finns det att missbruka. Men det är inget argument för att sluta tala. Det är ett argument för att vi alla ska stanna upp innan vi delar.|안타깝게도 저희가 경고해 온 부분입니다. 한 사람이 공개적으로 말을 많이 할수록 악용할 재료도 많아집니다. 하지만 그게 말을 그만둘 이유는 아닙니다. 우리 모두가 공유하기 전에 한 번 멈춰야 할 이유입니다.
+Amir|B1|Kan ni säga om ljudet är falskt? Rent tekniskt?|음성이 가짜인지는 말씀해 주실 수 있습니까? 순수하게 기술적으로요.
+Ebba|B2|Vi uttalar oss inte om enskilda filer. Men ni kan låta en oberoende expert granska den och skriva ett utlåtande. Det väger tyngre än något ni säger själva.|개별 파일에 대해서는 의견을 내지 않습니다. 하지만 독립적인 전문가에게 검토와 소견서를 받으실 수 있습니다. 그쪽이 여러분 스스로 하는 어떤 말보다 무게가 있습니다.
+Elin|B1|Tack. Det var tydligare än jag hade väntat mig.|감사합니다. 생각했던 것보다 명확하네요.
+Ebba|B1|En sak till. Det här mötet är inte hemligt, men det är inget pressmeddelande heller. Skriv inte att "MPF bekräftar" något.|하나 더 있습니다. 이 회의는 비밀은 아니지만 보도자료도 아닙니다. 'MPF가 확인했다'고는 쓰지 마십시오.
+Jonas|B1|Det lovar jag. Vi säger att vi har kontaktat er, och inget mer.|약속드리겠습니다. 연락했다는 것만 말하고, 그 이상은 말하지 않겠습니다.
+Ebba|A2|Bra. Lycka till.|좋습니다. 행운을 빕니다. (화면이 꺼진다)
+Annika|C1|Hon hjälpte oss genom att räkna upp allt hon inte fick göra. Jag vet inte om jag är lugnare nu eller oroligare – förmodligen både och.|그분은 자기가 하면 안 되는 일을 하나하나 꼽는 걸로 우릴 도와줬네요. 지금 마음이 놓이는 건지 더 불안한 건지 모르겠어요. 아마 둘 다겠죠.
+# 장면 4 — 호른스가탄 Klarsyn, 뒷방 'DATARUMMET', 5월 26일 화요일 오전 9시 → 오후 2시
+Amir|B1|Okej, titta här. Det här är ursäktsfilmen och det här är den falska. Samma röst, men lyssna på pauserna.|오케이, 여기 봐요. 이게 사과 영상이고 이게 가짜예요. 같은 목소리인데, 쉬는 부분을 들어 봐요. (5월 26일 화요일 오전 9시. 호른스가탄 Klarsyn의 뒷방. 문에 붙은 'DATARUMMET' 종이. 빌린 TV 화면에 음성 파형 두 줄이 위아래로 떠 있다)
+Sofia|A2|Hon andas inte.|숨을 안 쉬네.
+Amir|B2|Exakt. Du lärde henne en tanke per andetag, och nu andas hon efter varje mening. I den falska pratar hon i fyrtiotvå sekunder utan att andas en enda gång.|바로 그거야. 네가 안니카 씨한테 '한 숨에 한 생각'을 가르쳤잖아. 그래서 지금은 문장마다 숨을 쉬어. 그런데 가짜에선 42초 동안 숨을 한 번도 안 쉬어.
+Sofia|B2|Så min träning har blivit ett bevis. Det hade jag inte räknat med.|그러니까 내 훈련이 증거가 된 거네. 그건 생각도 못 했어.
+Elin|B1|Räcker det? Kan man verkligen bevisa något med hur någon andas?|그걸로 충분해? 누가 숨 쉬는 방식으로 정말 뭘 증명할 수 있어?
+Amir|B2|Inte ensamt, men det finns mer. Det låter som om den är inspelad på en middag, men man hör inga glas, inga bestick och inga andra människor. Bakgrunden är helt platt.|그것만으론 안 되죠. 근데 더 있어요. 저녁 자리에서 녹음된 것처럼 들리는데, 잔 소리도, 수저 소리도, 다른 사람 소리도 없어요. 배경이 완전히 평평해요.
+Jonas|B1|Och orden, då? Vad hörde du?|단어는? 뭐가 들렸어?
+Amir|B2|"Faktiskt" har exakt samma tonfall som i debatten – "Det vet jag faktiskt inte". Den som har gjort filmen har haft både debatten och ursäkten att jobba med.|'Faktiskt'의 억양이 토론 때랑 똑같아요. "Det vet jag faktiskt inte" 할 때요. 이걸 만든 사람은 토론이랑 사과 영상을 둘 다 갖고 작업한 거예요.
+Elin|C1|Allt det där är ändå vår egen analys av vår egen uppdragsgivare. Hur noggrann den än är, kommer ingen utomstående att tillmäta den något större värde.|그래도 그건 전부 우리 고객에 대한 우리 자신의 분석이야. 아무리 꼼꼼해도 바깥사람 누구도 거기에 큰 의미를 두지 않을 거야.
+Jonas|B1|Därför har jag ringt Linus.|그래서 리누스한테 전화했어. (휴대폰을 책상 위에 내려놓는다. 스피커폰)
+Linus|B2|Och därför tänker jag inte skriva en rad förrän en oberoende ljudexpert har lyssnat. Jag publicerar inte ett partis dementi som en nyhet.|그래서 독립적인 음향 전문가가 들어 보기 전까진 한 줄도 안 쓸 거예요. 정당의 해명을 뉴스로 내보내진 않아요.
+Jonas|B1|Det är rimligt. Hur lång tid kan det ta, om det ska göras ordentligt?|합리적이네요. 제대로 하려면 얼마나 걸릴까요?
+Linus|B2|Jag har en forskare på KTH som kan lyssna i kväll. Och Jonas: du svarade aldrig på mitt sms i februari. Jag noterar att du ringer nu.|KTH에 오늘 밤 들어 봐 줄 연구자가 있어요. 그리고 요나스 씨, 2월에 보낸 제 문자에 끝내 답 안 했죠. 지금은 전화하시네요. 적어 둘게요.
+Jonas|B2|Då svarar jag nu: vi förlorade den första omröstningen och vann den andra. Du frågade bara om den första.|그럼 지금 답할게요. 첫 표결은 졌고 두 번째는 이겼어요. 리누스 씨는 첫 번째만 물었고요.
+Linus|C1|Det är lätt att vara efterklok. Men låt mig vara ärlig: om en annan redaktion hinner före oss, så får den göra det. Jag tänker inte tävla om att vara först med något som kanske visar sig vara falskt.|지나고 나서 말하긴 쉽죠. 그래도 솔직히 말할게요. 다른 언론사가 우리보다 먼저 쓰면, 쓰라고 하죠 뭐. 가짜로 드러날지도 모르는 걸로 1등 경쟁할 생각은 없어요.
+Amir|C1|Nätverket, då. 286 konton, som postar i vågor varje hel och halv timme. De är mest aktiva mellan nio och fem på vardagar, vilket tyder på att någon sköter det här som ett vanligt jobb – inte som en hobby.|그럼 네트워크요. 계정 286개가 정시랑 30분마다 물결처럼 게시해요. 평일 아홉 시부터 다섯 시 사이에 제일 활발하고요. 누군가 이걸 취미가 아니라 평범한 직장 일처럼 돌린다는 뜻이에요. (화면에 시간대별 막대그래프. 막대들이 출근 시간처럼 줄지어 있다)
+Elin|B1|Och var finns servrarna?|서버는 어디 있어?
+Amir|B2|Den första uppladdningen gick via tjänster i utlandet. Men det säger ingenting om vem det är. Vem som helst kan hyra en server var som helst.|첫 업로드는 해외 서비스를 거쳤어요. 근데 그게 누군지는 아무것도 말해 주지 않아요. 누구든 어디서든 서버를 빌릴 수 있으니까요.
+Elin|C1|Då skriver vi exakt det och inget mer: att spridningen bär tecken på samordning, och att vi inte vet vem som står bakom den. Varje ord utöver det är en gissning som någon annan kan vända mot oss.|그럼 딱 그것만 쓰고 더는 안 써. 확산에 조직적인 흔적이 있다는 것, 그리고 배후가 누군지는 모른다는 것. 거기서 한 마디라도 더 나가면 그건 추측이고, 누군가 그걸 우리한테 되돌려 쓸 수 있어.
+Sofia|A2|Amir. Din telefon.|아미르. 휴대폰. (오후 2시 12분. 아미르의 휴대폰이 책상 위에서 진동한다)
+Amir|B1|Dagsläget har skrivit. "Falsk ljudfil? Strand tiger." Klockan 14.12.|『다그슬레게트』가 썼어요. '가짜 음성 파일? 스트란드는 침묵.' 2시 12분이에요. (가상 온라인 매체)
+Linus|B2|Jonas, det är Linus igen. Jag har sett Dagsläget. Nu är vi tvåa, och det är priset för att vänta. Men min forskare lyssnar fortfarande i kväll.|요나스 씨, 리누스예요. 『다그슬레게트』 봤어요. 이제 우린 2등이고, 그게 기다린 값이죠. 그래도 제 연구자는 오늘 밤 그대로 들어 볼 거예요. (다시 걸려 온 전화)
+Jonas|B2|Tröskeln är passerad. Sofia, ta fram uttalandet. Elin, ring Annika. Vi går ut i kväll, och den här gången ska ingen behöva undra om det verkligen är hon som talar.|문턱을 넘었어. 소피아, 성명 꺼내. 엘린, 안니카 씨한테 전화해. 오늘 저녁에 나간다. 이번엔 정말 그 사람이 말하는 건지 아무도 의심할 필요가 없게.
+Elin|B2|I kväll? Varför inte nu, när de redan har skrivit att vi tiger?|저녁에? 왜 지금 안 해? 벌써 우리가 침묵한다고 썼는데.
+Jonas|B2|För att Nora ringde för en kvart sedan. Det händer något i Rinkeby och Tensta, och hon bad oss vänta till sex. Hon sa: "Låt dem tala först."|노라가 15분 전에 전화했거든. 링케뷔랑 텐스타에서 뭔가 일어나고 있대. 6시까지 기다려 달래. 이렇게 말했어. "그 사람들이 먼저 말하게 해 주세요."
+# 장면 5 — 당사 '큰 방', 화요일 오후 4시 → 5월 27일 수요일 아침 → 수요일 밤, 아미르의 전화
+Nora|B2|Jag har inte bett någon om någonting, det lovar jag. Mahmoud ringde mig i förmiddags och frågade hur man lägger upp en film, och sedan ringde han tre grannar.|저는 아무한테도 아무것도 부탁 안 했어요. 약속해요. 마흐무드 아저씨가 오전에 전화해서 영상은 어떻게 올리냐고 묻더니, 그다음에 이웃 세 명한테 전화했어요. (오후 4시. 당사 '큰 방'의 화면에 노라의 영상통화. 뒤로 링케뷔 광장, 과일 상자들)
+Mahmoud|B2|Hon är skyldig mig tre mandariner. Men hon sa att hon skulle komma tillbaka och betala, och hon tittade mig i ögonen när hon sa det. Den där rösten är inte hon.|그 사람은 나한테 귤 세 개 빚졌어요. 그래도 다시 와서 값을 치르겠다고 했고, 그 말을 할 때 내 눈을 똑바로 봤어요. 그 목소리는 그 사람이 아니에요. (노라가 띄운 영상. 과일 가판대 앞의 마흐무드. 휴대폰을 너무 가까이 들었다)
+Amir|A2|Och här är Raija. Hennes dotter filmade.|그리고 이건 라이야 할머니예요. 딸이 찍었어요.
+Raija|B1|Hissen var trasig, så hon gick åtta trappor upp till mig. Ingen som föraktar oss går åtta trappor.|엘리베이터가 고장이라 그 사람이 8층까지 계단으로 올라왔어요. 우릴 깔보는 사람은 계단 여덟 층을 안 올라와요. (텐스타 8층 부엌. 라이야가 식탁 앞에 앉아 있다. 엘리베이터는 아직도 고장이다)
+Nora|C1|Det finns fler. Hamza har lagt upp en från centrumet. Ingen av dem nämner partiet; de säger bara att hon var här utan kamera och lyssnade – och det är just därför folk tror på dem.|더 있어요. 함자가 센터에서 하나 올렸어요. 아무도 당 얘기는 안 해요. 그 사람이 카메라 없이 여기 와서 들었다는 말만 해요. 그리고 바로 그래서 사람들이 믿는 거예요.
+Annika|B2|Jag vill inte att de ska behöva försvara mig. Det är inte deras uppgift.|그분들이 저를 변호해야 하는 상황은 싫어요. 그분들 일이 아니잖아요.
+Sofia|C1|Nej, men de har gjort något som vi aldrig hade kunnat göra själva. En dementi från ett parti är ett påstående; ett vittnesmål från en granne är en erfarenhet. Nu behöver ditt uttalande bara vara kort.|맞아요. 그래도 그분들은 우리가 우리 힘으로는 절대 할 수 없었던 걸 했어요. 정당의 해명은 주장이고, 이웃의 증언은 경험이에요. 이제 안니카 씨 성명은 짧기만 하면 돼요.
+Annika|B1|Det här är Annika Strand. Ljudet som sprids är falskt. Jag har polisanmält det. Dela det inte. Och om du vill veta vad jag tycker om Järva – fråga dem som jag träffade där.|안니카 스트란드입니다. 퍼지고 있는 음성은 가짜입니다. 경찰에 신고했습니다. 공유하지 마십시오. 그리고 제가 야르바를 어떻게 생각하는지 알고 싶으시면, 제가 거기서 만난 분들께 물어보십시오. (저녁 6시. 당사 계단 앞, 안니카 본인의 휴대폰. 남색 재킷. 한 번에 찍는다)
+Jonas|B1|Tjugofyra sekunder. Sofia, nu är hon kortare än reklamen.|24초. 소피아, 이제 광고보다 짧네.
+Elin|B2|Siffrorna, onsdag morgon. Den falska filmen: 190 000 visningar. Grannarnas filmer tillsammans: 610 000. Uttalandet: 340 000. Lögnen kom först, men den är inte störst längre.|수요일 아침 숫자. 가짜 영상 19만 회. 이웃들 영상을 다 합치면 61만. 성명 34만. 거짓말이 먼저 왔지만, 이제 제일 크진 않아. (5월 27일 수요일 아침 8시. 노란 노트를 펼쳐 읽는다)
+Annika|C1|I juni åker jag tillbaka till Rinkeby och betalar Mahmoud för mandarinerna. Inte för att det blir en bra bild, utan för att jag lovade det – och det kommer inte att finnas någon kamera den gången heller.|6월에 링케뷔에 다시 가서 마흐무드 씨한테 귤값을 드릴 거예요. 좋은 그림이 나와서가 아니라 약속했으니까요. 그리고 그때도 카메라는 없을 거예요.
+Amir|B1|Jonas, har du en minut? Det är en sak till.|요나스 씨, 잠깐 시간 돼요? 하나 더 있어요. (수요일 밤 11시. Klarsyn 데이터 룸. 아미르 혼자 남아 있다. 요나스에게 건 전화)
+Jonas|A2|Säg det.|말해.
+Amir|C1|Jag gick igenom det äldsta kontot i nätverket, det som delade filmen först. Det skapades i oktober förra året, och bland de tjugo första kontona som följde det finns ett företagskonto som jag känner igen: Rosenstam Advisory.|네트워크에서 제일 오래된 계정, 영상을 맨 처음 공유한 계정을 훑어봤어요. 작년 10월에 만들어졌는데, 그걸 맨 처음 팔로우한 스무 개 계정 중에 아는 회사 계정이 하나 있어요. Rosenstam Advisory.
+Jonas|B1|Henrik. Det behöver inte betyda någonting. Spara det, Amir, och säg det inte till någon. Inte än.|헨리크. 아무 뜻 없을 수도 있어. 저장해 둬, 아미르. 그리고 아무한테도 말하지 마. 아직은. (긴 침묵. 요나스는 쇠데르의 부엌에서 불을 켜지 않은 채 서 있다. 진짜 연관인지는 아무도 모른다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Det är inte min röst.** | 그건 제 목소리가 아니에요. | 소유대명사 *min* 은 en-명사 *röst* 와 일치(ett-명사라면 *mitt*). 부정어 *inte* 는 주절에서 동사 *är* 바로 뒤 |
+| `A2` | **Hon andas inte.** | 숨을 안 쉬네. | *andas* 는 -s로 끝나지만 수동이 아닌 디포넌트 동사(*andas – andades – andats*). 명사는 *andetag* (한 번의 숨) |
+| `B1` | **Vi får inte sprida filmen ännu mer.** | 그 영상을 더 퍼뜨려선 안 돼요. | *få inte* = ~해서는 안 된다(금지). *ännu mer* = 훨씬 더, 지금보다 더. *film* 은 스웨덴어에서 짧은 영상 클립에도 두루 쓴다 |
+| `B1` | **Det är jag som ringer dig.** | 내가 너한테 거는 거야. | 분열문 *Det är X som …* 로 주어를 강조. '네가 아니라 내가'라는 뉘앙스 |
+| `B2` | **Om vi dementerar för tidigt ger vi lögnen en större publik.** | 너무 일찍 부인하면 거짓말에 더 큰 청중을 주게 돼요. | *dementera* = (공식적으로) 부인하다, 명사 *en dementi*. 조건절이 앞에 오면 주절은 동사부터(*ger vi*). *ge någon något* 이중 목적어 |
+| `B2` | **Det cirkulerar en ljudfil där det låter som du.** | 당신처럼 들리는 음성 파일이 돌고 있어요. | 형식 주어 *det* + 동사 + 실제 주어(*en ljudfil*) — 새 정보를 뒤로 보내는 존재문. *det låter som du* = 너처럼 들린다(*som* 뒤 주격 *du*) |
+| `B2` | **Lögnen kom först, men den är inte störst längre.** | 거짓말이 먼저 왔지만, 이제 제일 크진 않아. | *stor – större – störst*. 서술 용법 최상급은 부정형 *störst*. *inte … längre* = 더 이상 ~ 아니다 |
+| `C1` | **Myndighetens uppgift är att identifiera och motverka otillbörlig informationspåverkan, inte att ta ställning i den politiska debatten.** | 청의 임무는 부당한 정보 영향을 식별하고 대응하는 것이지, 정치 논쟁에서 편을 드는 게 아닙니다. | 관청 문체의 정형구. *otillbörlig* = 부당한, 부적절한. *ta ställning (i/till)* = 입장을 정하다, 편들다. *X, inte Y* 로 권한의 경계를 긋는다 |
+| `C1` | **Varje ord utöver det är en gissning som någon annan kan vända mot oss.** | 거기서 한 마디라도 더 나가면 그건 추측이고, 누군가 그걸 우리한테 되돌려 쓸 수 있어. | *utöver* = ~ 이상으로, ~을 넘어. *vända något mot någon* = ~을 ~에게 불리하게 쓰다. 감사인다운 '쓸 수 있는 것만 쓴다' 원칙 |
+| `C1` | **En dementi från ett parti är ett påstående; ett vittnesmål från en granne är en erfarenhet.** | 정당의 해명은 주장이고, 이웃의 증언은 경험이에요. | 세미콜론으로 대구(對句)를 만든 수사. *vittnesmål* (증언, ett-명사) vs *påstående* (주장, ett-명사) — 같은 구조로 대비해 기억에 남긴다 |
+
+## 현안 메모
+- **심리방위청(Myndigheten för psykologiskt försvar, MPF)** — 2022년 1월 1일 출범한 국방부 산하의 민간 행정기관으로, 본부는 칼스타드에 있다. 스웨덴 심리 방위를 조정·지원하고, 스웨덴과 스웨덴의 이익을 겨냥한 부당한 정보 영향(otillbörlig informationspåverkan)과 기타 오도하는 정보를 식별·분석·대응하며, 시민의 회복력을 키우는 것이 임무다. 콘텐츠를 삭제하거나 검열하는 기관이 아니고, 무엇이 옳은지 정치 논쟁에서 판정하는 기관도 아니다. 선거를 앞두고는 선거관리청(Valmyndigheten), 보안경찰청(Säpo), 경찰 등과 협력해 선거 보호를 지원한다.
+- **'부당한 정보 영향'** — 단순히 틀린 정보나 거친 정치적 주장을 뜻하지 않는다. 주로 외국 등 적대적 행위자가 기만적인 수법(가짜 계정·조직적 확산·위조 등)으로 사회의 약점을 이용해 민주적 과정과 국민의 판단을 해치려는 시도를 가리킨다. 그래서 기관은 '누가 그랬는가'를 신중하게 다루며, 충분한 근거 없이 특정 행위자를 지목하지 않는다.
+- **딥페이크와 법·플랫폼** — 스웨덴 형법에는 '딥페이크죄'라는 별도 조항이 없다. 실제 인물의 위조 음성·영상은 상황에 따라 명예훼손(förtal)이나 2016년 신설된 불법 신원 도용(olaga identitetsintrång) 등으로 다툴 수 있다. EU 디지털서비스법(DSA)은 초대형 온라인 플랫폼에 선거 과정에 대한 체계적 위험을 평가하고 줄일 의무를 지우지만, 개별 게시물이 얼마나 빨리 처리되는지는 플랫폼마다 다르다. 공유자 한 사람 한 사람의 '멈춤'이 여전히 가장 빠른 방어선이라는 말이 나오는 이유다.
+- 이번 화의 가짜 음성, 계정 네트워크와 숫자, 매체 『Dagsläget』, MPF 분석관 에바 퇴른크비스트는 모두 가상이다. 이 드라마는 가짜 음성의 배후를 어떤 실존 정당이나 국가로도 특정하지 않는다.
+
+## 비즈니스 메모
+- **위기 대응 매트릭스(Krismatris)** — 가로축 확산 속도, 세로축 신뢰 피해로 칸 네 개를 만들고 칸마다 대응을 정해 둔다. ① 느림·낮은 피해 = 무시하고 지켜보기 ② 빠름·낮은 피해 = 공개 대응 없이 기록·신고·답변 준비 ③ 느림·높은 피해 = 핵심 대상에게 직접, 조용히 설명 ④ 빠름·높은 피해 = 본인 목소리로 즉시 공개 대응. 피해는 조회수가 아니라 '우리가 필요한 사람들'에게 닿았느냐로 잰다.
+- **미리 정한 문턱(tröskel)** — 위기 때 가장 흔한 실수는 '지금 말할까'를 매시간 감정으로 다시 다투는 것이다. 차분할 때 객관적인 조건(기성 언론 보도, 핵심 공동체로의 확산 등)을 정해 두면, 그 조건이 충족될 때까지 침묵이 '전략'이 되고 충족되는 순간 망설임 없이 움직일 수 있다. 그리고 가장 강한 반박은 당사자가 아니라 제3자의 증언에서 나온다.
+
+## 다음 화 예고 — Almedalen
+**4부 9화.** 6월 넷째 주, 고틀란드 비스뷔. 성벽 골목마다 세미나 텐트, 로제 와인, 자전거, 명함, 무료 커피. 수천 개의 행사 속에서 하루의 헤드라인을 차지해야 한다. "Vilken seminarium går du på?" — 소피아가 고쳐 준다. "Vilket." 그리고 항구에서 요나스는 2부 이후 처음으로 그 사람과 마주친다. 이제 상대 블록의 컨설턴트가 된 헨리크 로센스탐. 그는 안니카를 고급 저녁 자리에 초대한다. 그 자리에 누가 앉아 있는지 엘린이 알아차린다. "En bild från fel middag kan förstöra ett halvårs arbete." 요나스의 주머니 속에는 아직 아무에게도 말하지 않은 계정 이름 하나가 있다.
