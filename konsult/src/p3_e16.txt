@@ -1,0 +1,162 @@
+@title 3부 16화 — Samtalet
+@subtitle (전화)
+@meta 날짜|2025년 12월 13일 토요일 (루시아의 날) ~ 12월 19일 금요일
+@meta 장소|쇠데르말름 호른스가탄, Klarsyn 사무실 (12월 13일 토요일 아침 9시, 루시아 피카) → 노르브로(Norrbro) 다리 위 (같은 날 낮 12시 40분) → 호른스가탄 Klarsyn 사무실 (12월 15일 월요일 아침 9시) → 마리아토리에트 근처, 베르틸의 집 (12월 16일 화요일 저녁 7시 반) → 쿵스홀멘, 엘린의 집 부엌 / 쇠데르, 요나스의 아파트 (12월 19일 금요일 밤 9시 반)
+@meta 등장인물|**Elin Bergqvist** (엘린 베리크비스트, 36, Klarsyn 공동대표 — 감사 총괄) · **Jonas Ekholm** (요나스 에크홀름, 43, Klarsyn 공동대표 — 대외·조사) · **Amir Nouri** (아미르 누리, 29, Klarsyn 데이터·포렌식 분석가) · **Sofia Mäkinen** (소피아 매키넨, 32, Klarsyn 인터뷰·내부고발자 보호) · **Bertil Ljung** (베르틸 류웅, 67, Klarsyn 고문, 은퇴한 공인회계사) · **Annika Strand** (안니카 스트란드, 49, 원외 정당 Brobyggarna 대표 — 전화) · **Daniel** (다니엘, 엘린의 남편, 중학교 수학 교사) · **Maja** (마야, 4, 엘린의 딸) · **Love** (러브, 17, 요나스의 아들)
+@meta 이번 화의 도구|수임 전 평가(uppdragsbedömning) — 의뢰를 받을지 말지, 받는다면 어떤 조건으로 받을지를 서면으로 결정하기. ① 독립성에 대한 다섯 위협(이기심·친분·자기 검토·옹호·위협)을 하나씩 적는다 ② 역량과 자원을 따진다 ③ 받으려면 무엇이 먼저 사실이어야 하는지 '조건'으로 바꾼다 ④ 맨 밑 '결정' 줄은 마지막에 채운다. 결정이 나기 전에 그 줄이 채워져 있으면 평가가 아니라 변명이다
+@meta 스웨덴 현안|2026년 9월 13일 총선을 앞둔 정치 지형 — 스웨덴 의회에 들어가려면 전국 득표율 4%(또는 한 선거구에서 12%)가 필요하다(spärren). 기준선 근처의 작은 정당에게는 지지율 자체보다 "넘을 수 있다고 믿게 만드는 것"이 생존의 조건이 되고, 그 아래로 간 표는 의석으로 바뀌지 않는다
+@intro **지난 이야기** — 12월 9일 저녁, 쇠르비켄 시의회. 카린 베딘은 결론부터 말했다. 감사인들은 만장일치로 교육위원회의 책임 면제를 승인하지 말 것을 제안했고, 사회복지위원회에는 지적을 했다. 다수파 의원이 41쪽 — 베르틸이 직접 쓰고 서명한 부록 3 — 을 들고 일어섰지만, 그건 폭로가 아니라 인용이었다. 이튿날 쿠리렌 1면, 전화 50통, 그리고 발신인 없는 봉투로 시작된 석간지 기사는 "이 내용은 보고서 자체 부록에 나와 있다"는 한 줄로 힘을 잃었다. 그날 밤 SVT 대기실에서 Brobyggarna 대표 안니카 스트란드는 "보고서를 세 번 읽었다"고 말했고, 30초 답변에는 실패했으며, 정문 앞에서 엘린에게 명함을 쥐여 주었다. "Ring inte mig. Jag ringer er." 같은 시각 알뷔에서는 다니얄이 처음으로 먼저 연락해 모집 메시지를 경찰에 신고했다. 아미르는 동생에게 말했다. 네가 자랑스럽다고.
+@intro 사흘 뒤, 12월 13일 토요일. 루시아의 날이다. 외스트라 렌켄 보고서는 어제 금요일에 나갔고, 남은 건 18일 목요일 Vallby 이사회뿐이다. 다니얄은 어제 운전면허 필기시험을 쳤다. 그리고 엘린의 지갑 안, 노란 노트와 영수증 사이에 다리 모양 로고가 찍힌 하얀 명함 한 장이 끼워져 있다. 아무도 그 번호로 전화하지 않았다. 전화하지 말라고 했으니까.
+# 장면 1 — 쇠데르말름 호른스가탄, Klarsyn 사무실, 12월 13일 토요일 아침 9시 (루시아의 날)
+Sofia|A2|God morgon! Stäng dörren, det drar. Vill du ha en lussekatt?|좋은 아침! 문 닫아, 바람 들어와. 루세카트 하나 먹을래? (12월 13일 토요일, 루시아의 날 아침 9시. 새 유리창 안쪽 창턱에 촛불 모양 전등 일곱 개. 사무실 가득 사프란 냄새. 소피아가 구운 루세카트가 쟁반 두 개에 수북하다. 아미르가 찬 바람과 함께 들어온다)
+Amir|A2|Två, tack. Har du bakat dem själv?|두 개, 고마워. 직접 구운 거야?
+Sofia|B2|I går kväll hos min kusin. Hon påstår att hela lägenheten kommer att lukta saffran till nyår, och att det nog är dags för mig att hitta något eget.|어젯밤에 사촌 집에서. 집 전체에서 새해까지 사프란 냄새가 날 거래. 이제 슬슬 내 집을 구할 때가 된 것 같다고.
+Jonas|B1|Jag har köpt glögg utan alkohol och pepparkakor i affären på hörnet. Mer än så kan man inte begära av mig en lördag.|난 모퉁이 가게에서 무알코올 글뢰그랑 생강과자를 사 왔어. 토요일에 나한테 그 이상은 바라지 마. (파란 'JONAS' 머그에 글뢰그를 따른다)
+Maja|A2|Jag är tärna! Titta, jag har glitter i håret.|나 들러리야! 봐, 머리에 반짝이 있어. (흰 원피스에 빨간 허리띠, 머리에는 은색 반짝이 띠. 손에는 건전지 촛불 하나. 엘린 뒤에서 뛰어나온다)
+Elin|B1|Hon var tärna i förskolans luciatåg i går och har vägrat ta av sig linnet sedan dess.|어제 유치원 루시아 행렬에서 들러리를 했는데, 그 뒤로 옷을 안 벗겠대.
+Amir|B1|Asså, det här är det finaste luciatåget jag har sett. Ett barn och ett ljus som går på batteri.|아니 진짜, 제가 본 루시아 행렬 중에 제일 멋져요. 아이 하나에 건전지 촛불 하나.
+Maja|A2|Mamma räknar inte i dag. Det är lucia.|엄마 오늘은 계산 안 해. 루시아잖아. (엘린 가방에서 삐죽 나온 노란 노트를 보고 단호하게)
+Elin|B1|Bara lite, gumman. Fem minuter, sedan sjunger vi.|조금만, 우리 딸. 5분만. 그다음에 노래하자.
+Jonas|B2|Fem minuter. Om Daniel var här skulle han redan ha tagit fram stoppuret.|5분이래. 다니엘이 여기 있었으면 벌써 스톱워치 꺼냈을 거야.
+Elin|B2|Kort version: sedan april har vi haft åtta uppdrag hos fem kunder, och alla rapporter utom Vallby är inlämnade. Om Vallbyrapporten blir klar på torsdag har vi fakturerat knappt tre miljoner kronor, och inget uppdrag har gått över taket.|짧게 할게. 4월부터 고객 다섯 곳에서 의뢰 여덟 건을 했고, Vallby 빼고는 보고서를 전부 냈어. 목요일에 Vallby까지 끝나면 청구액이 300만 크로나 조금 안 되고, 상한을 넘긴 의뢰는 하나도 없어. (노란 노트를 펼친다. 마야가 한숨을 크게 쉰다)
+Sofia|B2|Och hur många av dem försökte få oss att ändra en slutsats innan rapporten lämnades?|그중에 보고서 내기 전에 결론을 바꾸게 하려고 한 데는 몇 곳이었어요?
+Elin|B1|Några försökte. Ingen lyckades. Men det finns en siffra som jag inte gillar: Region Mälarvik står för 33,2 procent av omsättningen.|몇 곳 있었지. 성공한 데는 없고. 그런데 마음에 안 드는 숫자가 하나 있어. 리전 멜라르비크가 매출의 33.2퍼센트야.
+Amir|B1|Lyra, köerna och Östra länken. Men det är ju under en tredjedel. Regel fem håller.|뤼라, 대기열, 외스트라 렌켄이요. 그래도 3분의 1은 안 되잖아요. 규칙 5번은 지켜진 거죠.
+Jonas|A2|Bra. Då firar vi.|좋네. 그럼 축하하자.
+Elin|C1|Den håller med femton tusen kronors marginal. Hade vi fakturerat femton tusen mindre någon annanstans, hade vi brutit vår egen regel utan att ens märka det. Det skriver jag i årsbilagan, och nästa år tar vi inget nytt uppdrag från Mälarvik förrän andelen har sjunkit.|1만 5천 크로나 차이로 지켜진 거야. 다른 데서 1만 5천 크로나만 덜 청구했어도, 우린 알아채지도 못한 채 우리 규칙을 깼을 거야. 이건 연간 부록에 적을 거고, 내년엔 비중이 내려갈 때까지 멜라르비크 의뢰는 새로 안 받아. (노트에 '990 / 2 985 = 33,2 %'라고 적고 밑줄을 두 번 긋는다)
+Sofia|B2|Jag har också en siffra. Gunnar Holmgren ringde i torsdags. Sedan juli har någon kommit halv åtta varje morgon, och han har inte skrivit ”INGEN” en enda gång.|저도 숫자 하나 있어요. 군나르 홀름그렌 씨가 목요일에 전화하셨어요. 7월부터 매일 아침 7시 반에 누가 왔고, 'INGEN'은 한 번도 안 쓰셨대요.
+Amir|B1|Och Daniyal klarade teoriprovet i går, på första försöket. Han skickade en bild på resultatet till hela familjechatten.|그리고 다니얄이 어제 필기시험 붙었어요. 한 번에요. 결과 사진을 가족 단톡방에 올렸어요.
+Jonas|B1|Grattis till honom! Säg att jag bjuder på första körlektionen.|축하한다고 전해 줘! 첫 운전 연수는 내가 쏜다고.
+Amir|B2|Mamma grät först och blev arg sedan, för att hon var den sista som fick veta något. Sedan lagade hon mat till tio personer. Vi var fyra.|엄마는 처음엔 우시고, 그다음엔 화내셨어요. 자기가 제일 마지막에 알았다고요. 그러고는 열 명 먹을 밥을 하셨어요. 우리는 넷이었는데.
+Elin|C1|Sju sidor med ”det vi inte vill hitta”, åtta med vår egen. Om någon hade sagt i april att årets svåraste rapport skulle handla om oss själva, hade jag bett om en ny uträkning.|'찾고 싶지 않은 것'이 일곱 쪽, 우리 것까지 여덟 쪽이야. 4월에 누가 올해 제일 어려운 보고서가 우리 자신에 관한 거라고 했으면, 다시 계산해 보라고 했을 거야. (노트를 한 장씩 넘긴다. 쇠르비켄, Lärkan, Sjöglimten, 멜라르비크, Nordvik, 외스트라 렌켄, Vallby, 그리고 KLARSYN)
+Jonas|C1|I hockey brukar man säga att det första året i en ny klubb inte handlar om att vinna, utan om att överleva utan att tappa sitt eget spel. Vi har överlevt – med ett nytt fönster, en kaffemaskin som fortfarande läcker och vår egen bilaga.|하키에서는 새 팀에서의 첫해는 이기는 게 아니라, 자기 플레이를 잃지 않고 살아남는 거라고들 해. 우린 살아남았어. 새 유리창 하나, 아직도 물 새는 커피 머신, 그리고 우리 자신에 관한 부록이랑.
+Sofia|A2|Nu sjunger vi. Maja, du börjar.|이제 노래하자. 마야, 네가 먼저 해.
+Maja|A2|Sankta Lucia! … Jag kan inte resten.|산타 루치아! … 나머지는 몰라. (촛불을 높이 들고 한 소절 부르다 멈춘다)
+Amir|B1|Ingen kan resten. Det är därför alla bara nynnar.|나머지는 아무도 몰라. 그래서 다들 그냥 흥얼거리는 거야. (모두 흥얼거린다. 엘린은 노트를 덮는다)
+# 장면 2 — 노르브로(Norrbro) 다리 위, 같은 날 낮 12시 40분
+Jonas|B2|Där uppe på fjärde våningen började allt, Maja. Din mamma satt vid fönstret och räknade på allt hon såg, till och med på hur många som gick över den här bron.|저 위 4층에서 다 시작됐어, 마야. 너희 엄마가 창가에 앉아서 보이는 건 전부 계산했지. 이 다리를 건너는 사람 수까지. (낮 12시 40분. 감라스탄 대광장의 크리스마스 시장을 돌고 나오는 길. 노르브로 위, 마야는 요나스의 목말을 타고 있다. 옆으로는 국회의사당, 강 건너엔 스트룀가탄의 석조 건물. 강물은 얼지 않고 세차게 흐른다)
+Maja|A2|Där är ett slott!|저기 성이 있다!
+Elin|B1|Det är riksdagen, gumman. Där bestämmer de nästan allt. Slottet ligger bakom oss.|그건 국회야, 우리 딸. 저기서 거의 모든 걸 정해. 성은 우리 뒤에 있어.
+Amir|B1|Elin, din telefon ringer. Ett nummer utan namn.|엘린, 전화 와요. 이름 없는 번호예요.
+Elin|B1|Det är numret på kortet. Annika Strand.|명함에 있던 번호야. 안니카 스트란드. (휴대전화 화면과 하얀 명함을 번갈아 본다)
+Annika|B1|Elin? Det är Annika. Förlåt att jag ringer på en lördag. Är du ensam, eller är de andra med dig?|엘린 씨? 안니카예요. 토요일에 전화해서 미안해요. 혼자 계세요, 아니면 다른 분들도 같이 있어요?
+Elin|B1|Vi står på Norrbro, alla fyra. Och en tärna på fyra år.|노르브로 위에 넷이 다 있어요. 네 살짜리 들러리도 하나 있고요.
+Annika|B2|Sätt på högtalaren, då. Det jag ska säga vill jag bara behöva säga en gång.|그럼 스피커로 돌려 주세요. 하려는 말을 한 번만 하고 싶어서요.
+Jonas|B1|Vi hör dig. Du är på högtalare, och här blåser det.|잘 들려요. 스피커로 듣고 있어요. 여기 바람이 좀 불어요.
+Annika|B1|Det kom en ny mätning i morse. Vi ligger på 2,9 procent. Jag behöver er.|오늘 아침에 새 여론조사가 나왔어요. 우리는 2.9%예요. 여러분이 필요해요. (바람 소리. 아무도 대답하지 않는다)
+Sofia|B1|Behöver oss till vad, exakt?|저희가 정확히 뭘 위해 필요하신 거예요?
+Annika|C1|Till att leda valrörelsen: strategin, budskapet, siffrorna, allt. Det är nio månader kvar till den trettonde september, och vi har en partiledare som inte kan svara på trettio sekunder. Det såg ni själva i onsdags.|선거운동을 이끌어 달라는 거예요. 전략, 메시지, 숫자, 전부요. 9월 13일까지 아홉 달 남았고, 우리 당 대표는 30초 안에 대답을 못 해요. 수요일에 직접 보셨잖아요.
+Jonas|B2|Du har ett helt parti, Annika. Ni har väl folk som har gjort valrörelser förut?|당이 통째로 있잖아요, 안니카 씨. 선거운동 해 본 사람들이 있을 거 아니에요?
+Annika|C1|Vi har folk som gjorde valrörelsen 2022. Den slutade på 3,7 procent, och vi har fortfarande inte pratat ordentligt om varför. Jag vill inte ha någon som lovar att vi klarar spärren. Jag vill ha någon som säger till när vi inte gör det.|2022년 선거운동을 한 사람들은 있죠. 3.7%로 끝났고, 왜 그랬는지 아직 제대로 얘기해 본 적도 없어요. 기준선을 넘을 거라고 약속하는 사람은 필요 없어요. 못 넘을 것 같을 때 그렇다고 말해 줄 사람이 필요해요.
+Elin|B2|Annika, vi är granskare. I tisdags satt jag i ett kommunfullmäktige där en politiker sa att vår rapport skulle citeras i varenda valfolder.|안니카 씨, 저희는 감사인이에요. 화요일에 한 시의회에 있었는데, 어떤 정치인이 저희 보고서가 모든 선거 홍보물에 인용될 거라고 하더라고요.
+Annika|B2|Jag vet. Det är just därför jag ringer er och inte en pr-byrå.|알아요. 바로 그래서 홍보 대행사가 아니라 여러분께 전화한 거예요.
+Amir|B1|Hur många är ni som jobbar på kansliet på heltid?|당 사무처에서 상근으로 일하시는 분이 몇 분이세요?
+Annika|B1|Inte så många som ni tror. Ni får se själva, om ni kommer.|생각하시는 것만큼 많지 않아요. 오시면 직접 보게 될 거예요.
+Jonas|B2|I onsdags sa du att vi skulle få frågan bakom frågan när du vågade ställa den. Vågar du nu?|수요일에 질문 뒤의 질문은 물을 용기가 생기면 주겠다고 하셨죠. 지금은 용기가 나세요?
+Annika|C1|Frågan är inte om vi kan ta oss över fyra procent. Frågan är om vi förtjänar det – och jag vet faktiskt inte svaret. Jag vill ha besked före jul. Fredag den nittonde.|질문은 우리가 4%를 넘을 수 있느냐가 아니에요. 우리가 그럴 자격이 있느냐죠. 그리고 솔직히 저도 답을 몰라요. 크리스마스 전에 답을 주세요. 19일 금요일까지요.
+Elin|A2|Fredag. Vi hör av oss.|금요일요. 연락드릴게요.
+Annika|B1|Tack. Och hälsa till tärnan från mig.|고마워요. 그리고 들러리한테 안부 전해 주세요. (전화가 끊긴다)
+Maja|A2|Vem var det, mamma?|누구였어, 엄마? (긴 침묵. 다리 밑으로 강물 소리만 들린다)
+Jonas|B2|Ingen av oss har sagt ett ord på en hel minut. Det har inte hänt sedan april.|우리 중 아무도 꼬박 1분 동안 한마디도 안 했어. 4월 이후로 처음이야.
+Elin|B2|För att alla redan vet vad de andra tänker. Måndag klockan nio, på kontoret. Inte här på bron.|다들 서로 무슨 생각 하는지 이미 아니까. 월요일 9시, 사무실에서. 다리 위에선 말고. (마야를 요나스 어깨에서 받아 안는다)
+# 장면 3 — 호른스가탄 Klarsyn 사무실, 12월 15일 월요일 아침 9시
+Amir|B1|Jag har skrivit upp alla argument på tavlan. Vänster sida för ja, höger för nej. Höger sida är längre.|화이트보드에 논거를 전부 적어 놨어요. 왼쪽은 찬성, 오른쪽은 반대. 오른쪽이 더 길어요. (12월 15일 월요일 아침 9시. 화이트보드의 '전화 50통' 집계표는 지워졌고, 그 자리에 세로줄 하나. 창턱엔 남은 루세카트 세 개)
+Elin|B2|Innan vi räknar argument vill jag att vi gör det vi alltid gör: en uppdragsbedömning, skriftligt, som om Brobyggarna vore vilken kund som helst.|논거 수를 세기 전에 늘 하던 걸 하자. 수임 전 평가, 서면으로. 브로비가르나가 그냥 평범한 고객인 것처럼.
+Jonas|B1|Som i april. Fem hot, och sedan ett beslut.|4월처럼. 위협 다섯 개, 그다음에 결정.
+Elin|C1|Egenintresse: ett parti skulle bli vår största kund under ett valår, och regel fem håller redan nu med bara femton tusen kronors marginal. Vänskap: du gillar henne, Jonas, det syntes på Norrbro. Självgranskning: hela hennes program bygger på välfärdsbrott, och det mest citerade underlaget i landet just nu är vår egen rapport.|이기심 위협. 정당이 선거가 있는 해에 우리 최대 고객이 되는 거야. 규칙 5번은 지금도 겨우 1만 5천 크로나 차이로 지켜지고 있고. 친분 위협. 너 그 사람 좋아하잖아, 요나스. 노르브로에서 다 보였어. 자기 검토 위협. 그 사람 정책은 전부 복지범죄 위에 서 있는데, 지금 이 나라에서 제일 많이 인용되는 자료가 바로 우리 보고서야. (마커로 한 줄씩 적는다)
+Jonas|B2|Jag gillar henne inte. Jag gillar att hon ringde och sa att hon inte vet svaret. Det har ingen kund gjort förut.|좋아하는 게 아니야. 전화해서 자기도 답을 모른다고 말한 게 좋은 거지. 그런 고객은 처음이었어.
+Sofia|B1|Hur menar du då? Att det gör henne bättre, eller bara annorlunda?|무슨 뜻이에요? 그래서 그 사람이 더 낫다는 거예요, 아니면 그냥 다르다는 거예요?
+Jonas|B2|Ärligare, kanske. I åtta månader har vi skrivit rekommendationer, och det bästa svaret vi har fått är ”noterat”. Någon måste också genomföra det vi skriver.|더 정직하다는 거겠지. 여덟 달 동안 권고를 썼는데, 우리가 받은 제일 좋은 답이 '확인함'이었어. 누군가는 우리가 쓴 걸 실제로 해야 하잖아.
+Elin|C1|Och det är precis där partsställningen kommer in. Den dag vi står på hennes sida blir varje rapport vi har skrivit ett partsinlägg i efterhand. Då får Jörgen Wallin plötsligt rätt – inte om fakta, men om oss.|바로 거기서 옹호 위협이 들어와. 우리가 그 사람 편에 서는 날, 우리가 쓴 모든 보고서가 뒤늦게 한쪽 편의 주장이 돼. 그럼 예르겐 발린이 갑자기 옳은 사람이 되는 거야. 사실에 대해서가 아니라 우리에 대해서.
+Amir|B1|Får jag säga en sak som inte står på tavlan?|화이트보드에 없는 얘기 하나 해도 돼요?
+Elin|A2|Säg det.|말해.
+Amir|B2|Daniyal får rösta för första gången i september. I går frågade jag vem han tänker rösta på. Han skrattade och sa: ”Ingen av dem har varit i Alby utan en kamera.”|다니얄이 9월에 처음으로 투표해요. 어제 누구 찍을 거냐고 물었더니 웃으면서 그러더라고요. "카메라 없이 알뷔에 와 본 사람이 하나도 없는데."
+Sofia|B1|Och hans kompisar, då?|그럼 걔 친구들은?
+Amir|C1|Samma sak. I hela landet röstade drygt 84 procent i förra riksdagsvalet, men i vissa valdistrikt runt Alby var det knappt mer än hälften. Det beror inte på att de inte bryr sig. Det beror på att ingen har frågat dem något på riktigt – och sedan fick en femtonåring i Hallunda frågan av fel personer.|똑같아. 지난 총선 때 전국 투표율은 84퍼센트가 넘었는데, 알뷔 주변 일부 투표구는 절반을 겨우 넘었어. 관심이 없어서가 아니야. 아무도 진지하게 뭘 물어본 적이 없어서지. 그러다 할룬다의 열다섯 살짜리는 엉뚱한 사람들한테서 질문을 받은 거고.
+Jonas|B2|Det där är mitt argument, fast bättre formulerat.|그게 내 논거야. 더 잘 다듬어졌을 뿐이지.
+Elin|B2|Det är ett bra argument för att någon ska göra det. Det är inget argument för att det ska vara vi.|누군가 그 일을 해야 한다는 데는 좋은 논거야. 그게 우리여야 한다는 논거는 아니고.
+Sofia|C1|Jag tänker på Hanna, Lars och Mārtiņš. De pratade med oss för att vi inte tillhörde någon. Om vi går in i ett parti måste vi kunna se dem i ögonen och förklara varför det inte förändrar det vi gjorde med det som de gav oss.|저는 한나, 라르스, 마르틴스 생각이 나요. 그분들은 저희가 누구 편도 아니어서 얘기해 준 거예요. 정당에 들어가면, 그분들 눈을 보면서 그게 그분들이 준 걸로 저희가 한 일을 바꾸지 않는다고 설명할 수 있어야 해요.
+Jonas|B2|Så vad är frågan bakom frågan, Elin? Är det oberoendet du är rädd för, eller valrörelsen?|그래서 질문 뒤의 질문이 뭐야, 엘린? 네가 겁나는 게 독립성이야, 아니면 선거운동이야?
+Elin|B2|Om vi tackar ja är vi inte längre granskare – då är vi en del av det som ska granskas.|수락하면 우린 더 이상 감사인이 아니야. 감사받아야 할 대상의 일부가 되는 거지. (마커 뚜껑을 닫는다)
+Amir|B1|Men kan vi inte vara både och? Granskare först och sedan något annat?|그래도 둘 다 할 수는 없어요? 먼저 감사인이었다가, 그다음에 다른 걸로요?
+Elin|B2|Inte samtidigt, och inte i samma sak. Går vi in, tar Klarsyn inget nytt uppdrag i offentlig sektor förrän efter valet. Och Karin och Per-Olof ska höra det från oss innan de läser det någon annanstans.|동시에는 안 되고, 같은 사안에서도 안 돼. 들어간다면, Klarsyn은 선거 끝날 때까지 공공 부문 의뢰를 새로 받지 않아. 그리고 카린이랑 퍼-울로프는 다른 데서 읽기 전에 우리한테서 먼저 들어야 해.
+Sofia|B1|Och pengarna? Ett parti på 2,9 procent har väl ingen stor kassa.|돈은요? 2.9% 정당이면 금고가 넉넉하진 않을 텐데요.
+Elin|B2|Det vet vi inte. Det är just problemet: vi vet ingenting om dem som inte står i ett pressmeddelande.|그건 몰라. 그게 바로 문제야. 우린 보도자료에 안 나오는 건 하나도 몰라.
+Jonas|C1|Vi visste ingenting om Hallberg heller när Greta frågade. Ingen av oss hade drivit ett bruk, och ändå var det de där arton månaderna som lärde oss att granska.|그레타가 물었을 때 할베리에 대해서도 아무것도 몰랐잖아. 우리 둘 다 공장을 운영해 본 적도 없었고. 그런데도 우리한테 감사하는 법을 가르쳐 준 게 바로 그 18개월이었어.
+Elin|B2|Och vi gick in i ett bruk vars siffror vi trodde att vi kände. Det tog oss mer än ett år att hitta det som Peter hade gömt.|그리고 우린 숫자를 안다고 생각한 공장에 들어갔지. 페테르가 숨긴 걸 찾는 데 1년 넘게 걸렸고.
+Amir|A2|Så vi ringer Bertil?|그럼 베르틸한테 전화해요?
+Sofia|B2|Ni ringer inte Bertil, ni går dit. Han säger alltid att viktiga frågor ska ställas vid ett köksbord och inte i telefon.|전화하지 말고 찾아가세요. 그분은 늘 중요한 질문은 전화가 아니라 부엌 식탁에서 하는 거라고 하시잖아요.
+Elin|C1|Då skriver jag ner det vi har: fem hot, två starka skäl för, och längst ner en tom rad – ”Beslut”. Jonas och jag går dit i morgon kväll. Jag vill inte att vi bestämmer oss i ett rum där alla redan har bestämt sig.|그럼 지금까지 나온 걸 적을게. 위협 다섯 개, 찬성할 강한 이유 두 개, 그리고 맨 밑에 빈 줄 하나, '결정'. 요나스랑 나는 내일 저녁에 거기 가. 다들 이미 마음을 정한 방에서 결정하고 싶지는 않아. (노란 노트 새 쪽 맨 위에 'BROBYGGARNA — UPPDRAGSBEDÖMNING'이라고 쓴다)
+Jonas|B1|I morgon kväll, då. Jag tar med något till honom. Inte mazariner.|그럼 내일 저녁. 뭐 좀 사 갈게. 마사리네르는 빼고.
+Amir|B1|Ta mazariner. Han säger att han inte äter dem, men tallriken är alltid tom.|마사리네르 사 가세요. 안 드신다고 하시는데 접시는 늘 비어 있어요.
+Elin|C1|En rad till på höger sida, Amir: ”Det vi inte vill hitta.” Den lämnar vi tom tills vi sitter hos Bertil – det är trots allt den enda rad han alltid läser först, oavsett hur lång resten av listan är.|오른쪽에 한 줄만 더, 아미르. '찾고 싶지 않은 것.' 그건 베르틸 집에 앉을 때까지 비워 두자. 목록 나머지가 아무리 길어도, 그분이 늘 제일 먼저 읽는 줄은 그거 하나니까.
+# 장면 4 — 마리아토리에트 근처, 베르틸의 집 (엘리베이터 없는 건물 4층), 12월 16일 화요일 저녁 7시 반
+Bertil|B1|Fyra trappor, och ni andas fortfarande. Ni blir bättre. Kom in, radion får stå på.|계단 네 층인데 아직 숨을 쉬는군. 나아지고 있어. 들어오게. 라디오는 그냥 켜 두지. (12월 16일 화요일 저녁 7시 반. 천장까지 닿는 책장, 클래식 라디오. 창턱엔 강림절 촛대. 책장 한 칸에 2주 전 엘린이 가져다 둔 포도주 병이 서 있다)
+Jonas|A2|Mazariner. Från Amir.|마사리네르예요. 아미르가 보냈어요.
+Bertil|B1|Jag äter dem inte, och det vet han mycket väl. Ställ dem på bordet i alla fall.|난 그거 안 먹네. 그 친구도 잘 알 텐데. 그래도 탁자에 두게.
+Elin|B2|Och vinet står kvar i bokhyllan. Vi sa att vi skulle öppna det när rapporten var inlämnad. Den har lämnats in och varit uppe i fullmäktige.|그리고 포도주는 아직 책장에 있네요. 보고서를 내면 따자고 했잖아요. 보고서는 냈고 시의회에도 올라갔어요.
+Bertil|C1|Ett löfte är ett löfte, som Jonas brukar säga. Men innan korken åker ur vill jag veta varför två personer klättrar fyra trappor en tisdagskväll med en lista som har en tom rad längst ner.|약속은 약속이지. 요나스가 늘 하는 말처럼. 하지만 코르크를 따기 전에, 두 사람이 왜 화요일 저녁에 맨 밑줄이 비어 있는 목록을 들고 계단 네 층을 올라왔는지 알고 싶군. (엘린 손에 든 노란 노트를 턱으로 가리킨다)
+Elin|B2|Annika Strand vill att vi leder Brobyggarnas valrörelse. Jag är emot, Jonas lutar åt ja, och Amir har ett argument som ingen av oss kan svara på.|안니카 스트란드가 저희더러 브로비가르나 선거운동을 이끌어 달래요. 저는 반대고, 요나스는 찬성 쪽으로 기울었고, 아미르한테는 저희 둘 다 반박 못 하는 논거가 있어요.
+Bertil|B2|Och Sofia? Hon brukar vara den som ställer frågan ni andra helst undviker.|소피아는? 늘 자네들이 제일 피하고 싶은 질문을 하는 게 그 아가씨던데.
+Jonas|B2|Sofia frågar vad vi ska säga till dem som har litat på oss. Det är nog den svåraste frågan av alla.|소피아는 저희를 믿어 준 사람들한테 뭐라고 할 거냐고 물어요. 아마 그게 제일 어려운 질문일 거예요.
+Bertil|C1|Då ställer jag den enda fråga jag kan. Vad vill ni inte hitta – inte i er själva den här gången, utan i partiet?|그럼 내가 할 수 있는 유일한 질문을 하지. 찾고 싶지 않은 게 뭔가? 이번엔 자네들 자신 말고, 그 당에서.
+Elin|B2|Att de är som alla andra. Att det ligger något i stil med Kronbanken någonstans i deras bokföring, och att vi hittar det först när våra namn redan står på affischerna.|그 사람들이 다른 데랑 똑같은 거요. 그 당 장부 어딘가에 크론방켄 같은 게 있는데, 저희 이름이 이미 포스터에 걸린 다음에야 그걸 찾는 거요.
+Jonas|C1|Att jag vill vinna mer än jag vill ha rätt. Jag har aldrig varit med om ett val, Bertil, men jag har spelat tillräckligt många matcher för att veta vem jag blir i tredje perioden.|제가 옳은 것보다 이기는 걸 더 원하게 되는 거요. 선거는 해 본 적 없지만, 베르틸, 3피리어드에 제가 어떤 사람이 되는지 알 만큼은 경기를 뛰어 봤어요.
+Bertil|C1|Då vet ni redan vad ni ska göra. Granska det du inte vill hitta. Granska partiet först – kassan, medlemsregistret, varje gåva och varje löfte – innan ni lovar väljarna något i partiets namn.|그럼 뭘 해야 할지 이미 알고 있구먼. 찾고 싶지 않은 것부터 감사하라. 먼저 그 당을 감사하게. 금고, 당원 명부, 기부금 하나하나, 약속 하나하나. 그 당의 이름으로 유권자에게 뭘 약속하기 전에.
+Elin|B2|Och om vi hittar något? Där är vi inga revisorer. Det finns inget fullmäktige som tar emot vår rapport.|그럼 뭔가 찾으면요? 거기선 저희가 감사인이 아니에요. 저희 보고서를 받아 줄 의회도 없고요.
+Bertil|C1|Då är det partiets svar som blir rapporten. Varje organisation har ett kassaskåp som ingen har öppnat på länge. Det intressanta är aldrig vad som ligger i det, utan vad de gör när ni står där med nyckeln.|그럼 그 당의 대답이 보고서가 되는 거지. 어느 조직이든 오랫동안 아무도 안 연 금고가 하나씩 있어. 흥미로운 건 그 안에 뭐가 있느냐가 아니야. 자네들이 열쇠를 들고 서 있을 때 그들이 뭘 하느냐지.
+Jonas|B1|Följer du med oss, Bertil? In i partiet?|같이 가실래요, 베르틸? 당 안으로요?
+Bertil|B2|Nej. Jag har aldrig varit medlem i något parti, och jag tänker inte börja vid sextiosju. Men jag svarar i telefon. Även efter tio.|아니. 난 평생 어느 당에도 가입한 적이 없고, 예순일곱에 시작할 생각도 없네. 하지만 전화는 받지. 10시 넘어서도.
+Elin|A2|Det säger jag inte till Daniel.|그건 다니엘한테 말 안 할래요.
+Bertil|C1|En sak till, Elin. Den som byter sida är skyldig att säga det själv – högt, först och innan någon annan hinner. Det har ni redan lärt er av mig, på det dyraste sättet.|하나 더, 엘린. 편을 바꾸는 사람은 그걸 스스로 말할 의무가 있어. 크게, 먼저, 남이 말하기 전에. 그건 자네들이 이미 나한테서 배웠지. 가장 비싼 방법으로.
+Jonas|B1|Kan vi öppna vinet nu?|이제 포도주 따도 돼요?
+Bertil|B2|Nu öppnar vi vinet. I trettiofyra år har jag väntat på att få skåla för en rapport utan att skämmas.|이제 따지. 34년 동안, 부끄럽지 않게 보고서에 건배할 날을 기다렸어. (코르크 따는 소리. 엘린이 노트의 '찾고 싶지 않은 것' 줄에 두 사람의 대답을 적는다. '결정' 줄은 아직 비어 있다)
+# 장면 5 — 쿵스홀멘, 엘린의 집 부엌 → 쇠데르, 요나스의 아파트 (전화), 12월 19일 금요일 밤 9시 반
+Daniel|B2|Jullovet har börjat, Maja sover, och du sitter vid köksbordet med en lista som du tror att jag inte har sett. Regel ett, Elin.|겨울방학 시작했고, 마야는 자고, 넌 내가 못 본 줄 아는 목록을 들고 부엌 식탁에 앉아 있네. 규칙 1번이야, 엘린. (12월 19일 금요일 밤 9시 반. 쿵스홀멘 집 부엌. 다니엘의 학교는 오늘 방학식을 했다. Vallby 보고서는 어제 소피아와 요나스가 이사회에 무수정으로 전달했다. 식탁 위에 노란 노트, 펼쳐진 쪽 맨 위에 'BROBYGGARNA — UPPDRAGSBEDÖMNING')
+Elin|B2|Det är inget kalkylark, det är en uppdragsbedömning. Och den har bara en rad kvar.|스프레드시트 아니야. 수임 전 평가야. 그리고 한 줄밖에 안 남았어.
+Daniel|B2|Jag läste den medan du borstade tänderna. Under Amir står det ”skrämsel”. Och under oss står det ”kvällar, helger, Almedalen”.|너 이 닦는 동안 읽었어. 아미르 밑에는 '위협(skrämsel)'이라고 적혀 있고, 우리 밑에는 '저녁, 주말, 알메달렌'이라고 적혀 있더라.
+Elin|C1|Nio månader, Daniel. Om vi gör det här blir det inga lediga torsdagar i augusti, och regel fyra kommer att brytas oftare än den hålls. Jag vill inte lova något hemma som jag redan vet att jag inte kan hålla.|아홉 달이야, 다니엘. 이걸 하면 8월엔 쉬는 목요일 같은 건 없고, 규칙 4번은 지키는 날보다 깨지는 날이 많을 거야. 못 지킬 걸 이미 아는 약속을 집에서 하고 싶지 않아.
+Daniel|B2|Då lovar du något som du kan hålla. Torsdagar och fredagar fram till midsommar, och ett samtal med mig – inte med Jonas – innan du säger ja till något mer.|그럼 지킬 수 있는 걸 약속해. 하지까지는 목요일이랑 금요일. 그리고 뭐든 더 수락하기 전에 나랑 얘기하기. 요나스 말고 나랑.
+Elin|B1|Och efter midsommar, när allt händer på en gång?|하지 지나서는? 모든 게 한꺼번에 터질 땐?
+Daniel|C1|Då räknar vi om, tillsammans och med uträkningen synlig. Mina nior frågade i dag varför de inte får rösta, när de vet mer om politik än sina föräldrar. Jag sa att de får vänta fyra år. Det kändes som ett dåligt svar.|그땐 다시 계산하는 거지. 같이, 풀이 과정 다 보이게. 오늘 우리 반 9학년 애들이 자기들이 부모보다 정치를 더 잘 아는데 왜 투표를 못 하냐고 묻더라. 4년 기다려야 한다고 했어. 별로인 대답 같았어.
+Elin|B2|Du vill att jag ska säga ja.|내가 수락하길 바라는구나.
+Daniel|B2|Jag vill att du säger ja till rätt sak. Det är skillnad. Och jag ser det, Elin – du har redan bestämt dig. Du har bara inte skrivit det än.|맞는 일에 수락하길 바라는 거야. 그건 달라. 그리고 나 보여, 엘린. 넌 이미 마음 정했어. 아직 안 적었을 뿐이지.
+Elin|A2|Klockan är tjugo i tio.|9시 40분이야.
+Daniel|A2|Då har du tjugo minuter. Ring honom.|그럼 20분 있네. 전화해. (휴대전화 스톱워치를 켠다)
+Jonas|B1|Elin. Love och jag har diskat och väntat i en timme. Han påstår att du kommer att säga nej.|엘린. 러브랑 설거지하고 한 시간째 기다렸어. 러브는 네가 거절할 거래. (쇠데르, 요나스의 아파트. 렌틸 수프 냄비가 건조대에 엎어져 있다. 러브가 소파에서 기타 줄을 고른다. 식탁 위 파란 'JONAS' 머그)
+Love|B2|Jag sa att hon skulle säga ja med fem villkor. Och jag är arton när det är val, pappa, så om ni gör det här får jag rösta på er.|난 엘린이 조건 다섯 개 붙여서 수락할 거라고 했어. 그리고 아빠, 선거 때 난 열여덟이야. 그러니까 아빠네가 이거 하면 아빠네를 찍을 수 있다고. (휴대전화 쪽으로 몸을 기울여 크게)
+Elin|B2|Hälsa Love att det är ett villkor, inte fem. Koppla in Annika, Jonas. Jag vill att vi säger det samtidigt.|러브한테 조건은 다섯 개가 아니라 하나라고 전해 줘. 안니카 연결해, 요나스. 우리 둘이 같이 말하고 싶어.
+Jonas|B1|Det går fram. Annika, du har oss båda i luren.|신호 간다. 안니카 씨, 저희 둘 다 연결됐어요.
+Annika|B2|Det är fredag, klockan är snart tio, och ni ringer båda två. Antingen är det ett ja, eller ett mycket artigt nej.|금요일이고, 곧 10시고, 두 분이 같이 전화하셨네요. 수락이거나, 아주 정중한 거절이거나 둘 중 하나겠죠. (뒤에서 식기세척기 돌아가는 소리)
+Elin|C1|Vi tackar ja på ett villkor: att vi först får granska partiet med samma ögon som vi granskade Sörviken.|한 가지 조건으로 수락하겠습니다. 쇠르비켄을 본 것과 같은 눈으로 먼저 당을 감사하게 해 주세요.
+Annika|B2|Med samma ögon. Även det vi har gjort fel?|같은 눈으로요. 우리가 잘못한 것까지도요?
+Jonas|C1|Allra mest det. Ekonomin, organisationen, medlemsregistret och varje gåva sedan 2018. Hittar vi något som vi inte kan leva med, säger vi det till dig först – och sedan går vi. Kan du inte acceptera det är det bättre att vi slutar redan i kväll.|그거야말로 제일 먼저요. 재정, 조직, 당원 명부, 2018년 이후 모든 기부금. 저희가 받아들일 수 없는 걸 찾으면 안니카 씨한테 제일 먼저 말하고, 그다음에 떠날 거예요. 그걸 받아들이실 수 없다면 오늘 밤에 끝내는 게 나아요.
+Annika|B2|Måndagen den tolfte januari, klockan nio, på partikansliet på Kungsholmen. Vår partisekreterare kommer att hata det. Granska oss. Men ni kommer inte att gilla allt ni hittar.|1월 12일 월요일 9시, 쿵스홀멘 당사로 오세요. 우리 사무총장은 이걸 아주 싫어할 거예요. 감사하세요. 하지만 찾는 걸 전부 좋아하진 못할 거예요. (전화가 끊긴다. 부엌에서 다니엘이 스톱워치를 멈춘다. 21시 58분. 엘린은 노란 노트 맨 밑 '결정' 줄에 연필로 적는다 — 'Ja, på ett villkor.')
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Vill du ha en lussekatt?** | 루세카트 하나 먹을래? | *Vill du ha …?* = ~ 먹을래/가질래? 권할 때 가장 기본적인 틀. *lussekatt*(루시아의 고양이)는 사프란 빵, 복수는 *lussekatter* |
+| `A2` | **Stäng dörren, det drar.** | 문 닫아, 바람 들어와. | *det drar* = 외풍이 들어오다(비인칭 *det*). 겨울 스웨덴의 생활 표현. 명령형 *stäng* 은 *stänga* 에서 -a를 뗀 형태 |
+| `B1` | **Vi ligger på 2,9 procent. Jag behöver er.** | 우리는 2.9%예요. 여러분이 필요해요. | 여론조사 수치에는 *ligga på* (~에 머물다)를 쓴다. 소수점은 쉼표(*2,9*), 읽을 때는 *två komma nio*. *er* 는 *ni* 의 목적격 |
+| `B1` | **Vi hör av oss.** | 연락드릴게요. | *höra av sig* = 연락하다(재귀). 확답을 미루면서도 예의를 지키는 마무리 표현. *Hör av dig!* = 연락해! |
+| `B1` | **Kan vi inte vara både och?** | 둘 다 할 수는 없어요? | *både och* 가 명사처럼 쓰인 구어 표현 = 둘 다. 부정 의문 *Kan vi inte …?* 은 '~하면 안 돼?'라는 제안 |
+| `B2` | **Om vi tackar ja är vi inte längre granskare – då är vi en del av det som ska granskas.** | 수락하면 우린 더 이상 감사인이 아니야. 감사받아야 할 대상의 일부가 되는 거지. | *om* 절 뒤 주절은 도치(*är vi*). *inte längre* = 더 이상 ~ 아닌. *det som ska granskas* = 감사받아야 할 것(수동 *-s*) |
+| `B2` | **Jag vill att du säger ja till rätt sak.** | 맞는 일에 수락하길 바라는 거야. | *vilja att* + 종속절(*du säger*). *säga ja till* = ~에 동의하다. *rätt sak* 은 형용사 *rätt* 이 변하지 않는 예(*rätt* 은 불변) |
+| `C1` | **Hade vi fakturerat femton tusen mindre, hade vi brutit vår egen regel.** | 1만 5천 크로나만 덜 청구했어도 우리 규칙을 깼을 거야. | *om* 을 생략하고 동사를 앞에 둔 가정법(*Hade vi …, hade vi …*). 문어·보고서 문체에서 자주 쓴다 |
+| `C1` | **Vi tackar ja på ett villkor: att vi först får granska partiet med samma ögon som vi granskade Sörviken.** | 한 가지 조건으로 수락하겠습니다. 쇠르비켄을 본 것과 같은 눈으로 먼저 당을 감사하게 해 주세요. | *tacka ja/nej* = 수락/거절하다. *på ett villkor* = 한 가지 조건으로, 콜론 뒤 *att* 절이 조건 내용. *med samma ögon som* = ~와 같은 시선으로 |
+| `C1` | **Varje organisation har ett kassaskåp som ingen har öppnat på länge.** | 어느 조직이든 오랫동안 아무도 안 연 금고가 하나씩 있어. | *på länge* = 오랫동안(부정·완료와 함께). *kassaskåp* 은 *ett* 명사. 은유로 '아무도 들여다보지 않는 장부·문제' |
+
+## 현안 메모
+- **4% 기준선(spärren)** — 스웨덴 의회(riksdag, 349석)에서 의석을 얻으려면 전국 득표율 4% 이상, 또는 한 선거구(valkrets)에서 12% 이상이 필요하다. 단원제 의회가 출범한 1970년 선거부터 적용된 규칙이다. 의석은 선거구별 고정 의석 310석과 정당 간 비례를 맞추는 조정 의석(utjämningsmandat) 39석으로 나뉜다.
+- **기준선 아래의 표** — 4%에 못 미친 정당의 표는 의석으로 바뀌지 않는다. 그래서 기준선 근처 정당에는 "어차피 못 넘을 당에 표를 버리지 말자"는 심리가 불리하게 작용하고, 반대로 큰 정당 지지자가 같은 블록의 작은 정당을 살리려고 표를 주는 '지지표(stödröster)' 논쟁도 선거 때마다 나온다. 한 정당이 기준선을 넘느냐 마느냐가 정부 블록과 야당 블록의 의석 계산 전체를 바꿀 수 있다.
+- **2026년 9월 13일** — 총선(riksdagsval), 광역의회(regionval), 기초의회(kommunval) 선거는 4년마다 9월 둘째 일요일에 같은 날 치른다. 사전투표(förtidsröstning)는 선거일 18일 전부터 가능하다. 2022년 총선의 전국 투표율은 약 84%였지만, 일부 교외 투표구에서는 그보다 훨씬 낮았다 — 이번 화에서 아미르가 말한 격차다.
+- (Brobyggarna, 안니카 스트란드, 그리고 이번 화의 여론조사 수치는 모두 가상이다. 실제 정당과 정치인은 등장하지 않는다.)
+
+## 비즈니스 메모
+- **수임 전 평가(uppdragsbedömning)** — 스웨덴 회계사법의 분석 모델은 감사인이 의뢰를 받기 전에 독립성에 대한 다섯 위협을 점검하고 기록하게 한다: 이기심(egenintresse), 자기 검토(självgranskning), 옹호(partsställning), 친분(vänskap), 위협(skrämsel). 엘린은 정당의 선거 의뢰에 같은 틀을 썼다. 이 의뢰는 법적 감사가 아니지만, 다섯 칸을 채우는 순간 '받을까 말까'가 '무엇이 먼저 사실이어야 받을 수 있나'로 바뀐다.
+- **위협을 조건으로 바꾸기** — 좋은 수임 평가는 "위험하다"로 끝나지 않는다. 옹호 위협은 "선거 끝날 때까지 공공 감사 의뢰 중단, 기존 의뢰인에게 먼저 알리기"로, 정보 부족은 "먼저 당을 감사하게 해 달라"로 바뀌었다. 그리고 '결정' 줄은 맨 마지막에, 조건에 대한 상대의 답을 들은 뒤에 채운다.
+
+## 다음 화 예고 — Under spärren
+**4부 1화.** 2026년 1월 12일 월요일 아침 9시, 쿵스홀멘. 계단 냄새가 밴 낡은 당사, 곰팡내 나는 회의실, 벽에는 2014년 선거 포스터. 상근자는 생각보다 훨씬 적다. 안니카는 40분 동안 정책을 설명하지만, 요나스의 질문 하나에 답하지 못한다 — 왜 사람들이 집에 있는 대신 당신들에게 투표해야 하나? 엘린의 조건은 계약서 문장이 되고, 사무총장 마티아스 외베리는 처음부터 컨설턴트를 믿지 않는다. 선거까지 여덟 달. 기준선 아래에서, 4부 *Spärren* 이 시작된다.
