@@ -1,0 +1,161 @@
+@title 3부 9화 — Journalen
+@subtitle (의료기록)
+@meta 날짜|2025년 10월 7일 화요일 ~ 10월 14일 화요일 (Region Mälarvik 보고서 마감 10월 31일, 보건의료위원회 2차 도입 결정 11월 18일, Lärkan 이사회 보고 10월 21일)
+@meta 장소|Region Mälarvik 청사, 선출직 감사인 회의실 (10월 7일 화요일 오전 9시) → Mälarviks sjukhus 응급실, 간호사 스테이션 (10월 8일 수요일 오후 4시 반) → 쇠데르말름 호른스가탄, Klarsyn 사무실 (10월 13일 월요일 오전 9시 15분) → 같은 사무실 (10월 14일 화요일 저녁 6시 40분)
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 43, Klarsyn 공동대표 — 대외·조사) · **Elin Bergqvist** (엘린 베리크비스트, 36, Klarsyn 공동대표 — 감사 총괄) · **Amir Nouri** (아미르 누리, 29, Klarsyn 데이터·포렌식 분석가) · **Sofia Mäkinen** (소피아 매키넨, 32, Klarsyn 인터뷰·내부고발자 보호) · **Bertil Ljung** (베르틸 류웅, 67, Klarsyn 고문, 전 공인회계사) · **Per-Olof Sandberg** (퍼-울로프 산드베리, 64, Region Mälarvik 선출직 감사인 7명의 대표, 세 번째 임기, 전 고등학교 교장) · **Hanna Forsell** (한나 포르셀, 41, Mälarviks sjukhus 응급실 간호사 14년 차, 새 시스템 시험 단계의 '슈퍼유저') · **Linus Falk** (리누스 팔크, 40, *Stockholms-Kuriren* 기자)
+@meta 이번 화의 도구|의사결정 감사(beslutsrevision) — 결과가 아니라 결정을 감사한다. ① 결정의 사슬을 복원한다: 2021년 의회의 조달·예산 결정 → 2025년 5월 20일 보건의료위원회의 가동 결정 → 8월 25일 보건의료국장의 최종 승인(go/no-go) ② 결정마다 '누가', '어떤 근거 자료로' 결정했는지 적는다 ③ 그때 알려져 있던 위험과, 그 위험이 '누구에게' 알려져 있었는지를 구분한다 ④ 결정은 결정 당시 알았던 것과 알았어야 했던 것을 기준으로 평가한다. 결과를 보고 판단하면 사후 확신(efterhandsklokhet)이 된다
+@meta 스웨덴 현안|대형 의료 IT 도입 실패 — 스웨덴 의료는 21개 지역(region)이 책임지고, 의료기록 시스템도 지역마다 따로 조달한다. 2024년 11월 서부 예탈란드 지역(Västra Götalandsregionen)이 여러 차례 연기 끝에 새 의료기록 시스템을 도입한 뒤 현장의 혼란과 환자 안전 우려가 크게 보도되었고, 리스 마리아(lex Maria) 신고와 보건의료감독청(IVO)의 감독이 이어졌다. 대형 공공 IT 사업은 비용 초과와 함께, 현장의 경고가 결정권자에게 닿지 않는 문제를 반복해서 드러내 왔다
+@intro **지난 이야기** — 9월 23일 저녁, 엘린이 사는 주택조합 Brf Sjöglimten의 임시총회. 관리비 40% 인상에 분노한 이웃들 앞에서 엘린은 2019년 개발사의 경제계획서를 18분 만에 해부했다. 7쪽은 11년 내내 금리 1%를 전제로 했고, 유지보수 적립금은 5년 동안 0크로나였으며, 경고는 아무도 읽지 않는 14쪽의 민감도 분석에만 있었다. 이사장 예란 쉴벤이 검토를 맡기려 하자 엘린은 거절했다. "제가 사는 조합은 감사할 수 없어요. 그러면 독립적이지 않으니까요." 검토는 베르틸이 개인 자격으로 맡았다. 시간당 900크로나, 최대 30시간, 보고서는 11월 14일 전까지. 부엌에서 다니엘은 물었다. "당신, 우리 집 가계부도 감사할 거야?" 두 사람은 집의 거절 목록을 만들었다. 4번 '밤 10시 이후 전화 금지'는 "내일부터"였다. 10시 7분, 요나스의 전화가 왔다. "Region Mälarvik에서 연락 왔어. 새 의료기록 시스템 건이야. 피해 입은 환자가 있을 수도 있대."
+@intro 2주 뒤, 10월 7일 화요일. 쇠르비켄 통학버스 최종 보고서는 9월 30일에 감사위원회로 넘어갔다. Region Mälarvik의 선출직 감사인 일곱 명은 지난주 회의에서 Klarsyn을 전문 보조인으로 쓰기로 정했다. 지역이 9월 1일 Mälarviks sjukhus에 도입한 새 의료기록 시스템 'Lyra'는 다섯 주 만에 천 건이 넘는 이상 사례 보고를 낳았다. 감사인 대표 퍼-울로프 산드베리는 의회 다수파와 야당 양쪽에서 전화를 받는다. 다수파는 기다리라고 하고, 야당은 이름을 내놓으라고 한다.
+# 장면 1 — Region Mälarvik 청사 4층, 선출직 감사인 회의실, 10월 7일 화요일 오전 9시
+Per-Olof|C1|Välkomna till Regionens hus. Jag ska vara ärlig från början: ni var inte vårt första val, utan vårt enda möjliga.|Regionens hus에 오신 걸 환영합니다. 처음부터 솔직하게 말씀드리죠. 여러분은 우리의 첫 번째 선택이 아니었어요. 가능한 유일한 선택이었죠. (10월 7일 화요일 오전 9시. 청사 4층 감사인 회의실. 긴 탁자 위에 서류철 세 개와 보온병 커피. 창밖으로 병원 건물이 보인다. 퍼-울로프 산드베리는 돋보기안경을 이마 위로 올린다)
+Jonas|B1|Det sa du redan i telefon. Vi uppskattar ärligheten.|전화로 이미 말씀하셨죠. 솔직하게 말씀해 주셔서 좋네요.
+Per-Olof|C1|Den byrå vi brukar anlita ville gärna ha uppdraget. Men deras konsulter har suttit i själva införandet i två år, och man kan inte granska ett arbete som ens egna kollegor har lett – hur vattentäta skott man än påstår sig ha.|우리가 늘 쓰는 회계법인도 이 일을 몹시 맡고 싶어 했어요. 하지만 그 회사 컨설턴트들이 2년 동안 시스템 도입 작업에 직접 참여했거든요. 자기 동료들이 이끈 일을 감사할 순 없죠. 부서 사이에 아무리 철저한 칸막이가 있다고 주장해도요.
+Elin|B2|Det kallas självgranskningshot. Har ni dokumenterat varför, så att ingen i efterhand kan påstå att ni valde oss av politiska skäl?|그걸 자기검토 위협이라고 해요. 그 이유를 기록으로 남기셨나요? 나중에 누구도 정치적인 이유로 저희를 골랐다고 주장하지 못하게요.
+Per-Olof|B1|Det står i vårt protokoll från den 29 september. Karin Wedin i Sörviken rekommenderade er, förresten. Vi gick samma utbildning för revisorer för några år sedan.|9월 29일 회의록에 적혀 있어요. 그런데 쇠르비켄의 카린 베딘이 여러분을 추천했어요. 몇 년 전에 감사인 교육을 같이 받았거든요.
+Amir|A2|Vad roligt att höra.|그 말씀을 들으니 반갑네요.
+Per-Olof|C1|Låt mig beskriva läget. Sedan den första september har akuten och ett fyrtiotal avdelningar på Mälarviks sjukhus arbetat i det nya journalsystemet Lyra. Personalen har skrivit över 1 100 avvikelserapporter, och sjukhuset har gjort fyra lex Maria-anmälningar till IVO.|상황을 설명드리죠. 9월 1일부터 Mälarviks sjukhus의 응급실과 병동 40여 곳이 새 의료기록 시스템 Lyra로 일하고 있어요. 직원들이 이상 사례 보고서를 1,100건 넘게 썼고, 병원은 IVO에 리스 마리아 신고를 네 건 했습니다.
+Sofia|B1|Fyra anmälningar på fem veckor. Vet ni om någon patient har skadats allvarligt?|다섯 주 만에 신고가 네 건이네요. 심각하게 다친 환자가 있는지 아세요?
+Per-Olof|B2|En äldre man fick dubbel dos blodförtunnande när han flyttades från akuten till en vårdavdelning. Han låg två dygn på intensiven. Han klarade sig, men det var nära.|나이 든 남성 한 분이 응급실에서 병동으로 옮겨질 때 혈액 응고 방지제를 두 배로 투여받았어요. 이틀 동안 중환자실에 있었죠. 살아나긴 했지만, 아슬아슬했습니다.
+Jonas|B2|Och vad förväntar sig fullmäktige av er?|그럼 의회는 감사인분들께 뭘 기대하나요?
+Per-Olof|C1|Det beror på vem man frågar. Majoriteten vill att vi väntar tills systemet har ”satt sig”, och oppositionen vill ha ett namn före jul. Själv vill jag ha en rapport som fortfarande står upp när båda sidor har slutat ropa.|누구한테 묻느냐에 따라 달라요. 다수파는 시스템이 '자리 잡을' 때까지 기다리라고 하고, 야당은 크리스마스 전에 이름 하나를 원해요. 저는요, 양쪽이 다 소리 지르기를 멈춘 뒤에도 여전히 버티고 서 있는 보고서를 원합니다.
+Elin|B2|Hur lyder er revisionsfråga, exakt?|감사 질문이 정확히 어떻게 되나요?
+Per-Olof|B2|Fattade hälso- och sjukvårdsnämnden beslutet om driftstart på ett tillräckligt underlag, och hanterades riskerna för patientsäkerheten på ett tillräckligt sätt?|보건의료위원회는 충분한 근거 자료를 가지고 가동 결정을 내렸는가, 그리고 환자 안전에 대한 위험은 충분히 관리되었는가.
+Amir|B1|Får vi se själva beslutsunderlaget?|결정 근거 자료 원본을 볼 수 있을까요?
+Per-Olof|B1|Varsågod. Tjänsteskrivelsen inför nämndens sammanträde den 20 maj, tolv sidor. Läs riskavsnittet på sidan elva.|여기 있어요. 5월 20일 위원회 회의에 올라간 행정 보고서, 열두 쪽이에요. 11쪽의 위험 항목을 읽어 보세요. (서류철 하나를 탁자 위로 민다)
+Amir|B1|”Samlad riskbedömning: Låg.” … Är det allt? Ett enda ord?|"종합 위험 평가: 낮음." …이게 다예요? 단어 하나?
+Per-Olof|B2|Ett enda ord. Och på det ordet godkände nämnden driftstarten i ett projekt som nu beräknas kosta 1,6 miljarder kronor – mot de 1,1 miljarder som fullmäktige beslutade om 2021.|단어 하나요. 그리고 그 단어 하나로 위원회는 사업의 가동을 승인했어요. 지금 예상 비용이 16억 크로나인 사업이죠. 2021년에 의회가 의결한 건 11억이었고요.
+Jonas|B2|Ett ord kan vara rätt. Frågan är vad som låg bakom det. Men vad är frågan bakom frågan, Per-Olof? Varför just nu?|단어 하나가 맞을 수도 있죠. 문제는 그 뒤에 뭐가 있었느냐예요. 그런데 질문 뒤의 질문은 뭔가요, 퍼-울로프? 왜 하필 지금이죠?
+Per-Olof|C1|Den andra vågen. I februari ska Lyra införas på två sjukhus till och i hela primärvården, och nämnden fattar beslut om det den 18 november. Om samma ord står i nästa tjänsteskrivelse vill jag veta vad det är värt innan någon räcker upp handen.|2차 도입이요. 2월에 Lyra를 병원 두 곳과 1차 의료 전체에 들일 예정이고, 위원회가 11월 18일에 그걸 결정해요. 다음 행정 보고서에 같은 단어가 적혀 있다면, 누가 손을 들기 전에 그 단어가 무슨 가치가 있는지 알고 싶어요.
+Elin|C1|Då föreslår jag en beslutsrevision. Vi rekonstruerar varje beslut i kedjan: vem som fattade det, vilket underlag som fanns och vilka risker som var kända – och för vem – vid den tidpunkt då beslutet fattades.|그럼 의사결정 감사를 제안할게요. 사슬 속의 결정 하나하나를 복원하는 거예요. 누가 결정했는지, 어떤 근거 자료가 있었는지, 그리고 결정한 바로 그 시점에 어떤 위험이 알려져 있었는지. 그리고 그게 누구에게 알려져 있었는지도요. (노란 노트를 펼친다)
+Sofia|B2|Och vi pratar med personalen. Inte bara med dem som skrev tjänsteskrivelsen, utan med dem som arbetar i systemet varje natt.|그리고 직원들과 이야기할 거예요. 행정 보고서를 쓴 사람들만이 아니라, 매일 밤 그 시스템으로 일하는 사람들과요.
+Per-Olof|B2|Gör det, men gå försiktigt fram. Akuten är trött, och de har fått höra att ”allt hanteras” i ett halvår.|그렇게 하세요. 하지만 조심스럽게 다가가세요. 응급실은 지쳐 있어요. 반년 내내 "다 관리되고 있다"는 말만 들었거든요.
+Elin|C1|En sak vill jag säga redan nu: vi bedömer beslutet utifrån vad man visste, och borde ha vetat, när det fattades – inte utifrån hur det gick efteråt. Allt annat är efterhandsklokhet, och sådan kan vem som helst skriva.|한 가지는 지금 말씀드리고 싶어요. 저희는 결정을 내릴 때 알았던 것, 그리고 알았어야 했던 것을 기준으로 평가해요. 나중에 결과가 어떻게 됐는지를 기준으로 하지 않아요. 그 밖의 건 전부 사후 확신이고, 그런 건 누구나 쓸 수 있어요.
+Per-Olof|B2|Det är det första jag har hört på en månad som inte låter som ett pressmeddelande.|한 달 만에 처음으로 보도자료처럼 들리지 않는 말을 듣네요.
+Jonas|B1|Vårt förslag är ett fast pris på 460 000 kronor exklusive moms, med ett tak på 510 000. Rapporten får ni den 31 oktober.|저희 제안은 고정가 46만 크로나, 부가세 별도, 상한은 51만이에요. 보고서는 10월 31일에 드리겠습니다.
+Per-Olof|B1|Före nämndens sammanträde. Bra. Tre veckor i stället för tre månader – klarar ni det?|위원회 회의 전이군요. 좋아요. 석 달이 아니라 3주인데, 할 수 있겠어요?
+Elin|A2|Ja. Om vi börjar i dag.|네. 오늘 시작한다면요.
+Per-Olof|B2|Då börjar vi i dag. Och en sak till, eftersom ni ändå samlar på varningar: Stockholms-Kuriren har ringt mig två gånger sedan i torsdags. Linus Falk. Han vet något, men jag vet inte vad.|그럼 오늘 시작하죠. 그리고 하나 더. 어차피 경고를 모으고 계시니까요. 지난 목요일부터 Stockholms-Kuriren이 저한테 두 번 전화했어요. 리누스 팔크. 뭔가 알고 있는데, 그게 뭔지는 모르겠어요.
+Jonas|B1|Vi känner honom. Han får läsa rapporten samma dag som alla andra.|저희도 그 사람 알아요. 보고서는 다른 모든 사람과 같은 날 읽게 될 거예요.
+Per-Olof|A2|Det sa jag också. Han lät inte glad.|저도 그렇게 말했어요. 기분 좋은 목소리는 아니더군요. (돋보기안경을 다시 코 위로 내린다)
+# 장면 2 — Mälarviks sjukhus 응급실, 간호사 스테이션, 10월 8일 수요일 오후 4시 반
+Hanna|A2|Hej. Är ni från revisionen? Kom in här. Jag har tio minuter innan rapporten.|안녕하세요. 감사 쪽에서 오셨어요? 이쪽으로 들어오세요. 인수인계까지 10분 있어요. (10월 8일 수요일 오후 4시 반, 저녁 근무 직전. 응급실 간호사 스테이션. 모니터 여섯 대, 벽에는 손으로 쓴 쪽지가 테이프로 잔뜩 붙어 있다. 대기실 쪽에서 아이 우는 소리)
+Sofia|A2|Hej, Hanna. Jag heter Sofia, och det här är Amir. Tack för att du ville träffa oss.|안녕하세요, 한나. 저는 소피아고, 이쪽은 아미르예요. 만나 주셔서 고마워요.
+Hanna|A2|Du ser ut som en bankman.|은행원 같으시네요. (아미르를 위아래로 훑어본다)
+Amir|A2|Det har jag hört förut. Tre gånger i år.|전에도 들어 봤어요. 올해만 세 번째예요.
+Hanna|B1|Här vet alla vem som pratar med folk i kavaj. Så, snabbt: vad vill ni veta?|여기선 재킷 입은 사람이랑 얘기하는 게 누군지 다들 알아요. 그러니까 빨리요. 뭘 알고 싶으세요?
+Sofia|B1|Hur en vanlig kväll ser ut. Inte hur den borde se ut, utan hur den faktiskt är.|평범한 저녁이 어떤지요. 어때야 하는지가 아니라, 실제로 어떤지요.
+Hanna|B1|En vanlig kväll har vi runt fyrtio patienter i väntrummet och sex sjuksköterskor. Och ett system som ingen riktigt litar på längre.|평범한 저녁이면 대기실에 환자가 마흔 명쯤 있고, 간호사는 여섯 명이에요. 그리고 이제 아무도 제대로 믿지 않는 시스템 하나.
+Amir|B1|Kan du visa oss hur det ser ut på skärmen? Utan patientuppgifter, alltså.|화면에서 어떻게 보이는지 보여 주실 수 있어요? 환자 정보는 빼고요, 물론.
+Hanna|A2|Jag tar en testpatient. Titta. Jag öppnar läkemedelslistan … och nu väntar vi.|시험용 환자로 할게요. 보세요. 투약 목록을 열면… 이제 기다리는 거예요. (화면 가운데에서 파란 원이 돈다)
+Amir|A2|Hur länge brukar det ta?|보통 얼마나 걸려요?
+Hanna|A2|Ibland fem sekunder, ibland en minut. … Nej. Systemet hängde sig igen.|5초일 때도 있고, 1분일 때도 있어요. …아니네. 시스템이 또 멈췄어요. (마우스를 몇 번 누르다 손을 뗀다)
+Sofia|B1|Vad gör ni när det händer mitt i en ordination?|처방 도중에 그러면 어떻게 하세요?
+Hanna|B1|Vi skriver ner allt på papper för säkerhets skull. Vilket läkemedel, hur mycket och vilken tid.|만약을 위해 전부 종이에 적어 둬요. 무슨 약을, 얼마나, 몇 시에. (가운 주머니에서 접힌 쪽지 뭉치를 꺼낸다)
+Amir|A2|Och sen?|그다음엔요?
+Hanna|B2|Sen för vi in allt i systemet efter passet. Det tar en dryg halvtimme varje kväll, och den tiden finns inte i något schema. Men om vi inte gör det finns det ingenting i journalen.|그다음엔 근무가 끝나고 전부 시스템에 입력해요. 매일 저녁 30분은 족히 걸리는데, 그 시간은 어느 근무표에도 없어요. 하지만 안 하면 의료기록에 아무것도 안 남아요.
+Sofia|B1|Så allt skrivs två gånger. Vad händer om lappen och systemet säger olika saker?|그러니까 전부 두 번 적는 거네요. 쪽지랑 시스템 내용이 서로 다르면 어떻게 돼요?
+Hanna|B2|Då vet ingen vilket som gäller. Ni har väl läst om den äldre mannen i september, han som fick –|그럼 어느 쪽이 맞는지 아무도 몰라요. 9월에 그 나이 든 남자분 얘기 읽으셨죠? 그분이 받은 게—
+Sofia|B2|Du behöver inte berätta om enskilda patienter, Hanna. Det omfattas av sekretess, och vi vill inte försätta dig i en svår situation.|개별 환자 얘기는 안 하셔도 돼요, 한나. 비밀 유지 대상이고, 한나를 곤란하게 만들고 싶지 않아요.
+Hanna|A2|Okej. Jag säger inget mer om honom.|알겠어요. 그분 얘긴 더 안 할게요.
+Amir|B1|Men vad är det som försvinner? Hela listan eller bara vissa läkemedel?|그런데 사라지는 게 뭐예요? 목록 전체요, 아니면 일부 약만요?
+Hanna|B2|När en patient flyttas från akuten till en avdelning står det ibland ”Inga aktuella läkemedel”. Som om hen aldrig hade fått något. Avdelningen ser en tom lista, fast vi redan har gett dosen.|환자가 응급실에서 병동으로 옮겨지면 가끔 "현재 투약 없음"이라고 떠요. 마치 아무것도 안 받은 사람처럼요. 병동에선 빈 목록을 보는데, 우린 이미 투약을 한 거죠.
+Sofia|B1|Och det upptäcktes först efter starten?|그건 가동 뒤에야 발견된 거예요?
+Hanna|B2|Nej. Det var känt redan i våras. Jag var superanvändare, och i april testade vi alla läkemedelsflöden inför starten. Nästan vart tredje gick fel. Jag skrev ”Inte redo” i testrapporten. Med versaler.|아뇨. 봄에 이미 알려져 있었어요. 제가 슈퍼유저였거든요. 4월에 가동을 앞두고 투약 흐름을 전부 시험했는데, 거의 세 개 중 하나가 잘못됐어요. 시험 보고서에 "준비 안 됨"이라고 썼어요. 대문자로요.
+Amir|B1|Vad hände med rapporten sedan?|그 보고서는 그다음에 어떻게 됐어요?
+Hanna|B1|Jag fick ett mejl med två ord: ”Under utredning.” Sedan hörde jag ingenting mer – förrän systemet startade den första september.|두 단어짜리 메일을 받았어요. "검토 중." 그 뒤로는 아무 소식도 없었어요. 9월 1일에 시스템이 가동될 때까지.
+Sofia|B2|Hanna, jag vill vara tydlig med en sak. Det du berättar hamnar i en intervjuanteckning. Du får läsa den innan vi använder den, och ditt namn står inte i rapporten.|한나, 한 가지는 분명히 해 둘게요. 지금 하시는 말씀은 인터뷰 기록으로 남아요. 저희가 쓰기 전에 직접 읽어 보실 수 있고, 보고서에 한나 이름은 안 들어가요.
+Hanna|B1|Och om min chef frågar varför jag har pratat med er?|그럼 상사가 왜 당신들이랑 얘기했냐고 물으면요?
+Sofia|C1|Då säger du att regionens revisorer har bett om uppgifterna, vilket är sant. Ingen ska behöva ta konsekvenser för att ha svarat ärligt på revisorernas frågor – och om någon ändå försöker, vill jag att du ringer mig samma dag.|그럼 지역 감사인들이 정보를 요청했다고 말씀하세요. 사실이니까요. 감사인의 질문에 정직하게 답했다고 해서 불이익을 받는 사람이 있어선 안 돼요. 그래도 누가 그러려고 한다면, 그날 바로 저한테 전화해 주세요. (명함 뒷면에 휴대폰 번호를 적어 건넨다)
+Hanna|A2|Okej. Nu måste jag gå. Det kommer en ambulans.|알겠어요. 이제 가 봐야 해요. 구급차가 와요. (천장 스피커에서 짧은 경보음. 한나는 명함을 가운 주머니의 쪽지 뭉치 사이에 끼워 넣고 뛰어간다)
+Amir|B1|Asså, hon skrev ”Inte redo” i april, med versaler, och de körde ändå. Det är sjukt.|아니, 4월에 대문자로 "준비 안 됨"이라고 썼는데, 그래도 그냥 밀어붙였다는 거잖아. 말도 안 돼. (소피아에게 낮은 목소리로)
+# 장면 3 — 쇠데르말름 호른스가탄, Klarsyn 사무실, 10월 13일 월요일 오전 9시 15분
+Elin|B1|Tack för att du skickade sms i går kväll i stället för att ringa.|어젯밤에 전화 대신 문자 보내 줘서 고마워. (10월 13일 월요일 오전 9시 15분. 커피 머신 밑에는 여전히 행주. 화이트보드에는 아직 아무것도 없다. 베르틸이 트위드 재킷을 의자에 건다)
+Jonas|A2|Punkt fyra. Daniel förklarade den för mig. Två gånger.|4번이잖아. 다니엘이 설명해 주더라. 두 번이나.
+Bertil|B1|Jag vill helst inte veta vad punkt fyra är. Ska vi börja, innan kaffet hinner rinna ut på golvet?|4번이 뭔지는 별로 알고 싶지 않네. 커피가 바닥으로 다 새어 나가기 전에 시작할까?
+Elin|B2|Först det vi inte vill hitta. Jag skriver, ni säger. En mening var.|먼저 우리가 찾고 싶지 않은 것부터. 내가 적을 테니까 말해. 한 사람에 한 문장씩. (노란 노트 새 쪽에 'MÄLARVIK — DET VI INTE VILL HITTA'라고 쓴다)
+Jonas|B2|Att vi hittar en enda syndabock och slutar leta. Det är det enklaste för alla, och därför det farligaste.|희생양 한 명을 찾아내고 거기서 찾기를 멈추는 것. 모두에게 그게 제일 쉬우니까, 그래서 제일 위험해.
+Amir|B1|Att loggen inte visar vem som gjorde vad. Då har vi bara en känsla.|로그에 누가 뭘 했는지 안 나오는 거요. 그럼 느낌밖에 없는 거잖아요.
+Sofia|B2|Att Hanna blir den som betalar. Hon är den enda som har sagt något högt, och hon sa det redan i april.|한나가 대가를 치르는 사람이 되는 거요. 소리 내서 말한 사람은 한나뿐이고, 그것도 이미 4월에 말했어요.
+Elin|C1|Och jag: att nämnden faktiskt hade allt på bordet – och ändå sa ja. Då finns det ingen kedja att reparera, bara ett omdöme att pröva.|그리고 나는, 위원회가 실제로 모든 걸 다 알고서도 찬성했다는 것. 그럼 고칠 사슬 같은 건 없고, 따져 볼 판단만 남는 거니까.
+Bertil|C1|Börja med Sofias. Det är den enda punkten på listan som ni faktiskt kan påverka. Resten är sådant som ni kanske hittar, men det här är något som ni kan förhindra.|소피아 것부터 시작하게. 그 목록에서 자네들이 실제로 어떻게 할 수 있는 건 그것 하나뿐이야. 나머지는 찾게 될지도 모르는 것들이지만, 이건 막을 수 있는 거니까.
+Amir|B2|Okej. Jag har gått igenom diariet och programkontorets risklogg. Tre varningar, alla skriftliga, alla före driftstarten.|좋아요. 문서 등록부랑 사업단의 위험 로그를 다 훑어봤어요. 경고가 세 번 있었어요. 전부 서면이고, 전부 가동 전이에요. (노트북을 화면에 연결한다)
+Jonas|B1|Ta dem i ordning.|순서대로 말해 봐.
+Amir|B2|Ett: den 11 februari. Patientsäkerhetsenhetens riskanalys, 23 risker, varav tre bedöms som höga – bland annat att läkemedelslistan inte följer med när patienten flyttas. Den skickas till programkontoret dagen efter. Status två dagar senare: ”Under utredning”.|하나. 2월 11일. 환자안전팀의 위험 분석. 위험 23개 중 세 개가 '높음'이에요. 그중 하나가 환자가 옮겨질 때 투약 목록이 따라가지 않는다는 거고요. 다음 날 사업단으로 보내졌어요. 이틀 뒤 상태는 "검토 중".
+Elin|A2|Och nummer två?|그리고 두 번째는?
+Amir|B2|Den 24 april. Testrapporten från generalrepetitionen: 31 procent av läkemedelsflödena gick fel. Det är där Hanna skrev ”Inte redo”. Status den 28 april: ”Under utredning”.|4월 24일. 최종 리허설 시험 보고서요. 투약 흐름의 31%가 잘못됐어요. 한나가 "준비 안 됨"이라고 쓴 게 거기예요. 4월 28일 상태는 "검토 중".
+Sofia|A2|Och den tredje?|그럼 세 번째는요?
+Amir|C1|Den 21 augusti, elva dagar före start. Chefläkaren Nils Brännström skriver till programdirektören Johan Wester: ”Jag kan inte tillstyrka driftstart den 1 september.” Status dagen därpå: ”Under utredning”. Och fyra dagar senare avslutas go/no-go-mötet med beskedet ”Inga öppna höga risker”.|8월 21일, 가동 11일 전이요. 의료 책임자 닐스 브렌스트룀이 사업단장 요한 베스테르에게 써요. "9월 1일 가동에는 동의할 수 없습니다." 다음 날 상태는 "검토 중". 그리고 나흘 뒤 최종 승인 회의는 "미결 고위험 없음"이라는 결론으로 끝나요.
+Jonas|B2|Hur kan det stå ”inga öppna höga risker” när det finns tre varningar i loggen?|로그에 경고가 세 개나 있는데 어떻게 "미결 고위험 없음"이라고 적을 수 있지?
+Amir|B2|För att de inte var öppna. De var under utredning. Sammanfattningen till ledningen räknar bara rader med status ”Öppen”. Det är ett filter – en enda ruta i ett kalkylark.|열려 있지 않았으니까요. '검토 중'이었으니까. 경영진에게 올라가는 요약본은 상태가 '미결'인 줄만 세요. 필터예요. 스프레드시트의 칸 하나.
+Bertil|B2|Så varningarna stod kvar i loggen hela tiden. De försvann bara ur sammanfattningen.|그러니까 경고는 내내 로그에 남아 있었군. 요약본에서만 사라졌을 뿐.
+Elin|B2|Varningarna fanns, men de nådde aldrig dem som fattade besluten.|경고는 있었지만, 결정을 내리는 사람들에게는 결코 닿지 않았어. (화이트보드에 표를 그린다. 결정 / 누가 / 근거 자료 / 알려진 위험 / 누구에게. 아래로 세 줄. '2021 의회 — 조달·예산', '5월 20일 위원회 — 가동', '8월 25일 보건의료국장 카타리나 발 — go/no-go')
+Sofia|B1|Men nämnden frågade väl något? Det är ju politiker, de brukar fråga.|그래도 위원회가 뭔가 묻긴 했겠죠? 정치인들이잖아요. 보통 묻잖아요.
+Elin|C1|En ledamot frågade den 20 maj om det fanns risker för patientsäkerheten. I protokollet står att förvaltningen svarade att riskerna ”bedöms som låga och hanteras löpande”. Ingen begärde att få se själva loggen.|5월 20일에 위원 한 명이 환자 안전에 위험이 있느냐고 물었어. 회의록엔 행정부가 위험은 "낮은 것으로 평가되며 지속적으로 관리되고 있다"고 답했다고 적혀 있고. 로그 자체를 보여 달라고 한 사람은 아무도 없었어.
+Jonas|B2|Så de fick ett svar. Bara inte på den fråga de ställde.|그러니까 답은 받았네. 다만 자기들이 던진 질문에 대한 답은 아니었고.
+Amir|B2|Och vem ändrade status? Det är det sjuka. Alla tre ändringarna är gjorda från samma konto, PK-RISK. Ett funktionskonto. Fem personer på programkontoret har lösenordet.|그리고 상태를 누가 바꿨냐. 이게 진짜 웃긴 거예요. 세 번 다 같은 계정에서 바꿨어요. PK-RISK. 공용 업무 계정이요. 사업단 사람 다섯 명이 비밀번호를 알아요.
+Jonas|B1|Fem personer och ett lösenord. Alltså ingen.|다섯 명에 비밀번호 하나. 결국 아무도 아니라는 거네.
+Elin|C1|Ett funktionskonto kan inte ställas till svars. Frågan är om det var avsikten eller bara bekvämligheten.|공용 계정한테는 책임을 물을 수가 없지. 문제는 그게 의도였느냐, 아니면 그냥 편해서였느냐야.
+Bertil|C1|Var försiktig med den frågan, Elin. Slarv ser ofta ut som avsikt i efterhand – och ibland är det bara en organisation som har lärt sig att inte vilja veta.|그 질문은 조심하게, 엘린. 부주의는 나중에 보면 의도처럼 보이기 쉬워. 그리고 때로는 그저 알고 싶어 하지 않는 법을 배운 조직일 뿐이기도 하지.
+Sofia|B1|Hur får vi veta vem som satt vid datorn?|컴퓨터 앞에 누가 앉아 있었는지는 어떻게 알아요?
+Amir|B2|Systemet sparar versionshistoriken, med tid och ip-adress. Jag har begärt ut den via revisorerna, och enligt it-avdelningen kommer den på fredag.|시스템이 변경 이력을 저장해요. 시각이랑 IP 주소까지. 감사인들을 통해서 청구해 놨고, IT 부서 말로는 금요일에 온대요.
+Elin|B2|Bra. Då gör vi så här: på onsdag intervjuar Jonas och Sofia nämndens ordförande, Monica Strid, och nästa måndag programdirektören. Ingen av dem får veta vad vi har förrän de har svarat.|좋아. 그럼 이렇게 하자. 수요일엔 요나스랑 소피아가 위원회 위원장 모니카 스트리드를 인터뷰하고, 다음 주 월요일엔 사업단장. 두 사람 다 대답하기 전까지는 우리가 뭘 가졌는지 몰라야 해. (펜 뚜껑을 닫는다. 베르틸이 화이트보드의 세 줄을 오래 바라본다)
+# 장면 4 — 같은 사무실, 10월 14일 화요일 저녁 6시 40분
+Linus|B1|Ni har det där kvar på rutan. ”Se dig för.” Någon har försökt tvätta bort det.|유리창에 그게 아직 남아 있네요. "조심해." 누가 닦아 보려고 했나 봐요. (10월 14일 화요일 저녁 6시 40분. 리누스 팔크가 문 유리를 두드린다. 가로등 불빛에 'RAMAR & GLAS' 자국과 그 위의 희미한 마커 글씨가 비친다. 아미르는 퇴근했고, 소피아는 병원에 갔다)
+Jonas|B1|Tre gånger. Det sitter kvar ändå. Kom in, Linus. Vad vill du?|세 번이나요. 그래도 안 지워져요. 들어와요, 리누스. 무슨 일이에요?
+Linus|B2|Jag publicerar i morgon bitti. Jag ville att ni skulle höra det från mig och inte från regionens presstjänst.|내일 아침 일찍 기사 내요. 지역 공보실 말고 저한테서 먼저 들으셨으면 해서요.
+Elin|B1|Och vad är det du tänker publicera?|그래서 뭘 내겠다는 거예요?
+Linus|C1|Patientsäkerhetsenhetens riskanalys från februari. Tre risker bedömda som höga, och en av dem beskriver i stort sett exakt vad som hände mannen som fick dubbel dos i september. Rubriken skriver sig själv: regionen varnades – och körde ändå.|2월에 나온 환자안전팀의 위험 분석이요. '높음'으로 평가된 위험이 세 개고, 그중 하나는 9월에 약을 두 배로 받은 남자에게 일어난 일을 거의 그대로 적고 있어요. 헤드라인은 저절로 나오죠. 지역은 경고를 받았다. 그리고도 밀어붙였다.
+Jonas|B2|Jag tänker inte fråga var du har fått den ifrån.|어디서 구했는지는 묻지 않을게요.
+Linus|B1|Bra. Då slipper jag att inte svara.|좋네요. 그럼 대답 안 하는 수고는 덜었네요.
+Elin|B2|Och du vet att vi inte kommenterar en pågående granskning, varken officiellt eller inofficiellt.|그리고 저희가 진행 중인 감사에 대해선 말하지 않는다는 거 아시죠. 공식적으로든 비공식적으로든.
+Linus|C1|Jag är inte här för en kommentar. Jag är här för att ni har mer än jag. Revisorernas beslut är en allmän handling, och ni har synts på akuten – det är ett litet sjukhus när det gäller rykten.|논평 받으러 온 거 아니에요. 당신들이 나보다 더 많이 갖고 있으니까 온 거죠. 감사인들 결정은 공개 문서고, 당신들이 응급실에 나타난 것도 다들 봤어요. 소문에 관해서라면 작은 병원이거든요.
+Jonas|B2|Det vi har står i rapporten till revisorerna den 31 oktober. Samma dag kan du begära ut den.|우리가 가진 건 10월 31일 감사인들에게 내는 보고서에 들어가요. 그날 바로 열람 청구를 하면 돼요.
+Linus|C1|Den 31 oktober har presstjänsten haft tre veckor på sig att formulera ett svar. Och under tiden ligger det patienter på avdelningar där läkemedelslistan kan vara tom.|10월 31일이면 공보실은 답변을 다듬을 시간을 3주나 가진 셈이에요. 그리고 그동안 투약 목록이 비어 있을지도 모르는 병동에 환자들이 누워 있고요.
+Elin|B2|Sjukhuset har gått över till pappersrutiner, och lex Maria-anmälningarna ligger redan hos IVO. Det är inte din artikel som skyddar patienterna i natt.|병원은 종이 절차로 바꿨고, 리스 마리아 신고는 이미 IVO에 가 있어요. 오늘 밤 환자들을 지키는 건 당신 기사가 아니에요.
+Linus|B2|Nej, men den gör att alla andra får veta. Folk har rätt att veta vad som händer på deras sjukhus – innan nämnden röstar om nästa våg.|맞아요. 하지만 제 기사는 다른 모든 사람이 알게 만들어요. 사람들은 자기 병원에서 무슨 일이 일어나는지 알 권리가 있어요. 위원회가 다음 도입을 표결하기 전에요.
+Jonas|B1|Linus. Jag har aldrig bett dig om något. Nu gör jag det: vänta en vecka.|리누스. 난 당신한테 뭘 부탁한 적이 한 번도 없어요. 지금 부탁할게요. 일주일만 기다려 줘요.
+Elin|B1|Jonas. Vi kan inte be honom om någonting.|요나스. 우린 이 사람한테 아무것도 부탁하면 안 돼. (낮게, 그러나 분명하게)
+Linus|B2|Lyssna på henne. Varför i hela friden skulle jag vänta?|저분 말을 들어요. 도대체 내가 왜 기다려야 하죠?
+Jonas|C1|För att din artikel handlar om en varning, och vår granskning handlar om hela kedjan – vem som visste vad, och när. Om du publicerar i morgon räddar du en rubrik; om du väntar en vecka kanske du räddar ett ansvarsutkrävande.|당신 기사는 경고 하나에 관한 거고, 우리 감사는 사슬 전체에 관한 거니까요. 누가 무엇을, 언제 알았는지. 내일 보도하면 헤드라인 하나를 건지겠죠. 일주일 기다리면 책임 추궁을 건질 수 있을지도 몰라요.
+Linus|C1|Vackert formulerat. Men det är inte du som avgör vad som är en rubrik och vad som är ansvar – det är faktiskt mitt jobb. Och vad får jag, om jag väntar?|멋진 표현이네요. 하지만 뭐가 헤드라인이고 뭐가 책임인지 정하는 건 당신이 아니에요. 그건 엄연히 제 일이죠. 그리고 기다리면 저는 뭘 얻죠?
+Jonas|B1|Ingenting. Rapporten samma dag som alla andra.|아무것도요. 보고서는 다른 모든 사람과 같은 날이에요.
+Linus|B2|Du ber mig om en tjänst och erbjuder ingenting i gengäld. Det är nästan imponerande.|부탁은 하면서 대가로는 아무것도 안 주겠다. 거의 감탄스러울 정도네요. (처음으로 웃는다)
+Elin|C1|Han erbjuder ingenting därför att vi inte kan erbjuda något. I samma stund som vi byter information mot tid är vi en källa och inte en granskare – och då är rapporten värdelös, även för dig.|이 사람이 아무것도 안 주는 건, 우리가 줄 수 있는 게 없기 때문이에요. 정보를 시간과 맞바꾸는 순간 우린 감사인이 아니라 취재원이 되고, 그럼 그 보고서는 쓸모가 없어져요. 당신한테도요.
+Linus|C1|Onsdag den 22:a. Inte för att du bad mig, utan för att jag inte vill skriva en artikel som ni kan skjuta hål i två veckor senare. Men om en patient dör under tiden publicerar jag samma kväll.|22일 수요일. 당신이 부탁해서가 아니에요. 2주 뒤에 당신들이 구멍을 숭숭 낼 수 있는 기사를 쓰고 싶지 않아서예요. 하지만 그사이에 환자가 한 명이라도 죽으면, 그날 저녁에 바로 냅니다.
+Jonas|B1|Då skulle jag inte heller be dig vänta.|그땐 나도 기다려 달라고 하지 않을 거예요.
+Linus|A2|Onsdag. Jag har satt ett larm.|수요일. 알람 맞춰 놨어요. (휴대폰을 흔들어 보이고 나간다. 문 위의 종이 한 번 울린다)
+Elin|B2|Du bad en journalist om en tjänst, Jonas. Nu står vi i skuld till honom, vad du än säger.|기자한테 부탁을 했어, 요나스. 당신이 뭐라고 하든, 이제 우린 저 사람한테 빚진 거야.
+Jonas|B2|Nej. Han väntar för att han saknar något. Han har en varning; vi har tre.|아니. 저 사람은 뭔가가 모자라서 기다리는 거야. 저쪽은 경고가 하나, 우린 셋.
+Elin|C1|Och om han hade publicerat i morgon hade vi fortfarande haft tre. Det du skyddade i kväll var inte granskningen, Jonas – det var vår tidsplan.|그리고 저 사람이 내일 보도했어도 우린 여전히 셋을 갖고 있었을 거야. 오늘 밤 당신이 지킨 건 감사가 아니야, 요나스. 우리 일정이지.
+Sofia|B2|Förlåt att jag är sen. Hanna gav mig den här vid personalingången och sa att jag inte fick läsa den förrän jag hade lämnat sjukhuset. Jag ville öppna den med er – regel ett.|늦어서 죄송해요. 직원 출입구에서 한나가 이걸 줬어요. 병원을 나가기 전엔 읽지 말라고 하면서요. 다 같이 있을 때 열고 싶었어요. 규칙 1번이니까요. (문이 열리고 소피아가 들어온다. 손에 네 번 접힌 쪽지. 인터뷰 기록 사실 확인을 마치고 오는 길이다. 요나스와 엘린 사이의 공기를 알아채고 잠시 멈칫한다)
+Jonas|A2|Öppna den.|열어 봐.
+Sofia|B1|”Kolla hur de räknar väntetiderna.”|"대기시간을 어떻게 세는지 확인해 봐요." (쪽지를 펼쳐 소리 내 읽는다. 투약 쪽지와 같은 종이, 같은 볼펜 글씨. 엘린이 노란 노트를 펼친다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Systemet hängde sig igen.** | 시스템이 또 멈췄어요. | *hänga sig* = (컴퓨터·프로그램이) 멈추다, 먹통이 되다. 재귀동사라서 *sig* 가 꼭 붙는다. *krascha*(다운되다)보다 일상적인 표현 |
+| `A2` | **Hur länge brukar det ta?** | 보통 얼마나 걸려요? | *bruka* + 동사원형 = 보통 ~하다, ~하곤 하다. *ta* 는 시간이 '걸리다' (*Det tar en halvtimme.*) |
+| `B1` | **Vi skriver ner allt på papper för säkerhets skull.** | 만약을 위해 전부 종이에 적어 둬요. | *för säkerhets skull* = 만약을 위해, 혹시 모르니까. 옛 속격 *-s* 가 남은 고정 표현 (*för skojs skull* = 재미로) |
+| `B1` | **Då slipper jag att inte svara.** | 그럼 대답 안 하는 수고는 덜었네요. | *slippa* = (반갑게) ~하지 않아도 되다. 리누스의 말장난: '대답하지 않기'까지 면제받았다는 것. 취재원 보호에 대한 농담 |
+| `B2` | **Varningarna fanns, men de nådde aldrig dem som fattade besluten.** | 경고는 있었지만, 결정을 내리는 사람들에게는 결코 닿지 않았습니다. | *nå* + 목적어 = ~에 닿다, 도달하다(전치사 없음). *dem som* = ~하는 사람들. *fatta beslut* = 결정을 내리다 |
+| `B2` | **Så de fick ett svar. Bara inte på den fråga de ställde.** | 답은 받았네. 다만 자기들이 던진 질문에 대한 답은 아니었고. | *svar på* + 질문. *ställa en fråga* = 질문을 던지다. *den fråga (som) de ställde* 처럼 *som* 은 목적어 관계절에서 생략할 수 있다 |
+| `B2` | **Det är inte din artikel som skyddar patienterna i natt.** | 오늘 밤 환자들을 지키는 건 당신 기사가 아니에요. | 분열문 *Det är … som …* 로 부정의 초점을 *din artikel* 에 둔다. *i natt* = 오늘 밤 (*i går kväll* = 어젯밤) |
+| `C1` | **Om du publicerar i morgon räddar du en rubrik; om du väntar en vecka kanske du räddar ett ansvarsutkrävande.** | 내일 보도하면 헤드라인 하나를 건지겠지. 일주일 기다리면 책임 추궁을 건질 수 있을지도 몰라. | *om* 조건절이 앞에 오면 주절은 V2 어순: *räddar du*. *ansvarsutkrävande* = 책임 추궁(*utkräva ansvar* 의 명사형), 정치·감사 문체의 핵심어 |
+| `C1` | **Vi bedömer beslutet utifrån vad man visste, och borde ha vetat, när det fattades.** | 결정을 내릴 때 알았던 것, 그리고 알았어야 했던 것을 기준으로 평가해요. | *utifrån* = ~에 근거해, ~을 기준으로. *borde ha vetat* = 알았어야 했다(과거의 의무). 의사결정 감사의 원칙을 한 문장으로 |
+| `C1` | **Slarv ser ofta ut som avsikt i efterhand.** | 부주의는 나중에 보면 의도처럼 보이기 쉬워. | *se ut som* = ~처럼 보이다. *i efterhand* = 나중에, 사후에 (*efterhandsklokhet* = 사후 확신, '뒷북 지혜') |
+
+## 현안 메모
+- **지역이 책임지는 스웨덴 의료** — 스웨덴의 병원·1차 의료는 21개 지역(region)이 운영하고 재원도 주로 지역 세금으로 마련한다. 의료기록 시스템도 지역마다 따로 조달하고 운영하기 때문에, 시스템 교체는 수억~수십억 크로나가 드는 지역 최대의 IT 사업이 되곤 한다. 결정은 지역의회(regionfullmäktige)와 그 아래 위원회(nämnd)가 내리고, 실행은 행정부(förvaltning)가 맡는다.
+- **서부 예탈란드의 사례** — 서부 예탈란드 지역(Västra Götalandsregionen)은 여러 차례 일정을 미룬 끝에 2024년 11월 새 의료기록 시스템을 도입했다. 도입 직후 의료진은 느린 화면, 찾기 어려운 정보, 이중 기록 부담을 호소했고, 환자 안전에 대한 우려가 언론에 크게 보도되었다. 이번 화의 Region Mälarvik, 시스템 'Lyra', 모든 숫자와 인물은 가상이다.
+- **리스 마리아(lex Maria)와 IVO** — 환자안전법(patientsäkerhetslagen)에 따라 의료 제공자는 환자에게 심각한 의료 피해를 입혔거나 입힐 수 있었던 사건을 보건의료감독청(IVO, Inspektionen för vård och omsorg)에 신고해야 한다. 이 신고 제도를 흔히 '리스 마리아'라고 부른다. 1936년 스톡홀름 마리아 병원에서 일어난 투약 사고에서 나온 이름이다.
+- **지역의 선출직 감사인** — 지방자치법(kommunallagen)은 시와 마찬가지로 지역에도 적용된다. 지역의회가 선출한 감사인(förtroendevalda revisorer)이 위원회와 행정부의 활동을 매년 검토하고, 의회에 책임 면제(ansvarsfrihet) 여부를 권고한다. 실무는 전문 보조인(sakkunniga)이 돕는데, 보조인이 감사 대상 사업에 자문한 적이 있으면 '자기검토 위협' 때문에 독립성이 흔들린다. 또 공공 부문 직원에게는 언론에 정보를 제공할 자유(meddelarfrihet)가 있고, 기관은 제보자가 누구인지 캐내서는 안 된다.
+
+## 비즈니스 메모
+- **의사결정 감사(beslutsrevision)** — 결과(환자 피해)가 아니라 결정을 감사한다. 결정 사슬을 표 하나로 복원한다. *결정 / 누가 / 근거 자료 / 알려진 위험 / 누구에게 알려졌나.* 핵심은 마지막 칸이다. 위험이 조직 '어딘가에' 알려져 있었는지와, 결정권자에게 알려져 있었는지는 전혀 다른 질문이다. 그리고 평가 기준은 결정 당시에 알았던 것과 알았어야 했던 것이다. 결과를 보고 거꾸로 판단하면 사후 확신(efterhandsklokhet)이 되고, 그런 보고서는 다음 결정을 고치지 못한다.
+- **요약이 위험을 지우는 방식** — 위험 로그에는 경고가 세 번 모두 남아 있었다. 사라진 곳은 요약본이었다. 상태가 '미결(Öppen)'인 줄만 세는 필터 하나 때문에 '검토 중(Under utredning)'인 위험은 보고에서 빠졌다. 그리고 상태를 바꾼 계정은 다섯 명이 함께 쓰는 공용 업무 계정이었다. 감사인은 숫자보다 먼저 묻는다. 이 요약은 무엇을 세고, 무엇을 세지 않는가? 그리고 누가 바꿨는지 기록이 남는가?
+
+## 다음 화 예고 — Köerna
+**3부 10화.** 10월 21일. 한나의 쪽지를 따라 아미르는 Region Mälarvik 정형외과의 대기열 데이터를 연다. 서류상 대기열은 깔끔하다. 하지만 대기시간 보장 기한 사흘 전마다 이상한 급증이 있다. 기한 직전에 환자들이 "본인 요청에 의한 연기"로 재분류되고 있었다. 소피아가 표본으로 고른 환자들에게 전화를 건다. "Har du bett om att få vänta?" 환자들은 아무것도 요청한 적이 없다. 행정과장 라르스 뉘크비스트는 "다들 그렇게 한다"며 시스템과 압박을 탓한다. 그리고 리누스가 정한 수요일은 다가오고, 요나스는 팀에 묻는다. 거짓말한 사람을 찾을 것인가, 거짓말하게 만든 구조를 찾을 것인가.
