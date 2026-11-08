@@ -120,3 +120,92 @@
 | [konsult/part3_granskningen.md](konsult/part3_granskningen.md) | 3부 *Granskningen* (감사) — 독립 경영감사, 16화 기획 |
 | [konsult/part4_sparren.md](konsult/part4_sparren.md) | 4부 *Spärren* (기준선) — 정치 컨설팅·2026 총선, 16화 기획 |
 | [konsult/issues.md](konsult/issues.md) | 반영한 스웨덴 현안 색인 |
+
+## Frågan bakom frågan — 대본 목차 (64화 전체 완성)
+
+- 형식: 화당 120턴, 레벨 태그 A2·B1·B2·C1, 스웨덴어 + 한국어 번역, 이번 화의 표현·현안 메모·비즈니스 메모
+- 다시 빌드: `python3 konsult/tools/build_episode.py konsult/src/*.txt`
+
+### 1부 *Hypotesen* (가설) — 민간기업 컨설팅
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Första dagen](konsult/episodes/p1_e01.md) | 첫날 |
+| 2 | [Hypotesen](konsult/episodes/p1_e02.md) | 가설 |
+| 3 | [Styrelsemötet](konsult/episodes/p1_e03.md) | 이사회 |
+| 4 | [Matpriserna](konsult/episodes/p1_e04.md) | 식료품 가격 |
+| 5 | [I butiken](konsult/episodes/p1_e05.md) | 매장에서 |
+| 6 | [Kampanjen](konsult/episodes/p1_e06.md) | 캠페인 |
+| 7 | [BankID](konsult/episodes/p1_e07.md) | BankID |
+| 8 | [Neddragningen](konsult/episodes/p1_e08.md) | 인원 감축 |
+| 9 | [Due diligence](konsult/episodes/p1_e09.md) | 실사 |
+| 10 | [Elchocken](konsult/episodes/p1_e10.md) | 전기요금 쇼크 |
+| 11 | [Norrut](konsult/episodes/p1_e11.md) | 북쪽으로 |
+| 12 | [Vind eller atom](konsult/episodes/p1_e12.md) | 풍력이냐 원자력이냐 |
+| 13 | [Bruket](konsult/episodes/p1_e13.md) | 공장 |
+| 14 | [Golvet](konsult/episodes/p1_e14.md) | 현장 |
+| 15 | [Två planer](konsult/episodes/p1_e15.md) | 두 개의 계획 |
+| 16 | [Erbjudandet](konsult/episodes/p1_e16.md) | 제안 |
+
+### 2부 *Bruket* (공장) — 제조기업 CEO·CFO
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Hundra dagar](konsult/episodes/p2_e01.md) | 백 일 |
+| 2 | [Kassaflödet](konsult/episodes/p2_e02.md) | 현금흐름 |
+| 3 | [Banken](konsult/episodes/p2_e03.md) | 은행 |
+| 4 | [Strejken](konsult/episodes/p2_e04.md) | 파업 |
+| 5 | [Natolandet](konsult/episodes/p2_e05.md) | 나토의 나라 |
+| 6 | [Säkerhetsskyddet](konsult/episodes/p2_e06.md) | 보안 보호 |
+| 7 | [Gisslan](konsult/episodes/p2_e07.md) | 인질 |
+| 8 | [Familjen](konsult/episodes/p2_e08.md) | 가족 |
+| 9 | [Budet](konsult/episodes/p2_e09.md) | 인수 제안 |
+| 10 | [Kompetensen](konsult/episodes/p2_e10.md) | 역량 |
+| 11 | [Strömmen](konsult/episodes/p2_e11.md) | 전기 |
+| 12 | [Konkursen](konsult/episodes/p2_e12.md) | 파산 |
+| 13 | [Tullarna](konsult/episodes/p2_e13.md) | 관세 |
+| 14 | [Visslaren](konsult/episodes/p2_e14.md) | 내부고발자 |
+| 15 | [Stämman](konsult/episodes/p2_e15.md) | 주주총회 |
+| 16 | [Avskedet](konsult/episodes/p2_e16.md) | 작별 |
+
+### 3부 *Granskningen* (감사) — 독립 경영감사
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Klarsyn](konsult/episodes/p3_e01.md) | 맑은 시야 |
+| 2 | [Första uppdraget](konsult/episodes/p3_e02.md) | 첫 의뢰 |
+| 3 | [Upphandlingen](konsult/episodes/p3_e03.md) | 조달 |
+| 4 | [Hemtjänsten](konsult/episodes/p3_e04.md) | 재가요양 |
+| 5 | [Målvakterna](konsult/episodes/p3_e05.md) | 바지사장들 |
+| 6 | [Friskolan](konsult/episodes/p3_e06.md) | 자유학교 |
+| 7 | [Betygen](konsult/episodes/p3_e07.md) | 성적 |
+| 8 | [Föreningen](konsult/episodes/p3_e08.md) | 주택조합 |
+| 9 | [Journalen](konsult/episodes/p3_e09.md) | 의료기록 |
+| 10 | [Köerna](konsult/episodes/p3_e10.md) | 대기열 |
+| 11 | [Gröna löften](konsult/episodes/p3_e11.md) | 녹색 약속 |
+| 12 | [Tunneln](konsult/episodes/p3_e12.md) | 터널 |
+| 13 | [Pengarna i Riga](konsult/episodes/p3_e13.md) | 리가의 돈 |
+| 14 | [Nittiotalet](konsult/episodes/p3_e14.md) | 90년대 |
+| 15 | [Rapporten](konsult/episodes/p3_e15.md) | 보고서 |
+| 16 | [Samtalet](konsult/episodes/p3_e16.md) | 전화 |
+
+### 4부 *Spärren* (기준선) — 정치 컨설팅
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Under spärren](konsult/episodes/p4_e01.md) | 기준선 아래 |
+| 2 | [Väljarna](konsult/episodes/p4_e02.md) | 유권자들 |
+| 3 | [Budskapet](konsult/episodes/p4_e03.md) | 메시지 |
+| 4 | [Partiet](konsult/episodes/p4_e04.md) | 당 |
+| 5 | [Järva](konsult/episodes/p4_e05.md) | 야르바 |
+| 6 | [Norrland](konsult/episodes/p4_e06.md) | 노를란드 |
+| 7 | [Debatten](konsult/episodes/p4_e07.md) | 토론 |
+| 8 | [Deepfaken](konsult/episodes/p4_e08.md) | 딥페이크 |
+| 9 | [Almedalen](konsult/episodes/p4_e09.md) | 알메달렌 |
+| 10 | [Sommartalet](konsult/episodes/p4_e10.md) | 여름 연설 |
+| 11 | [Kassaskåpet](konsult/episodes/p4_e11.md) | 금고 |
+| 12 | [Stödrösterna](konsult/episodes/p4_e12.md) | 지지표 |
+| 13 | [Slutdebatten](konsult/episodes/p4_e13.md) | 최종 토론 |
+| 14 | [Valvakan](konsult/episodes/p4_e14.md) | 선거의 밤 |
+| 15 | [Talmannen](konsult/episodes/p4_e15.md) | 의장 |
+| 16 | [Bron](konsult/episodes/p4_e16.md) | 다리 |
