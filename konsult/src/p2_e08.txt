@@ -1,0 +1,162 @@
+@title 2부 8화 — Familjen
+@subtitle (가족)
+@meta 날짜|2024년 6월 17일 월요일 오전 9시 반 ~ 6월 21일 금요일 미드소마르 이브 밤 11시 47분 (취임 260일째. 그레타가 쓰러진 지 4주. 2분기 부채비율 측정일인 6월 30일까지 13일)
+@meta 장소|베스테로스 병원 뇌졸중 재활 병동 → 할셰, 그레타의 저택 진입로 (월요일 저녁) → 스톡홀름행 저녁 열차의 엘린 ↔ 할셰 여관의 요나스 (전화 회의) → 쇠데르말름, 요나스의 아파트 (목요일 저녁) → 미드소마르 이브의 문자들 (로슬라겐 · 쇠데르 · 할셰)
+@meta 등장인물|**Jonas Ekholm** (요나스 에크홀름, 41, 대표이사 VD) · **Elin Bergqvist** (엘린 베리크비스트, 34, 재무 책임자 ekonomichef) · **Margareta "Greta" Hallberg** (마르가레타 '그레타' 할베리, 72, 이사회 의장 — 5월 20일 뇌졸중, 재활 4주째) · **Peter Hallberg** (페테르 할베리, 46, 그레타의 외아들, 전 대표이사, 이사) · **Henrik Rosenstam** (헨리크 로센스탐, 45, 사모펀드 Nordkap Capital 파트너) · **Birgitta** (비르기타, 그레타 저택의 가정부, 31년 근속) · **Fatima** (파티마, 재활 병동 간호사) · **Love Ekholm** (러브 에크홀름, 17, 요나스의 아들, 고등학교 1학년을 막 마침) · **Helena** (헬레나, 요나스의 전처, 공무원 — 브뤼셀 주재 스웨덴 EU 대표부로 발령) · **Lena Johansson** (레나 요한손, 52, IF Metall 지부장, 문자)
+@meta 이번 화의 도구|지배구조 분석 — 누가 회사를 '소유'하는지가 아니라 누가 실제로 '결정'하는지를 그린다. 주주 단계(지분율, 주주간 계약 aktieägaravtal, 가문의 사전 회의 förmöte)와 이사회 단계(이사 일곱 명의 표, 의장과 부의장, 가부동수일 때 의장의 결정 투표)를 따로 계산하고, "핵심 인물이 빠지면?"이라는 시나리오로 다시 계산한다. 그리고 승계 계획 — 판단 능력(미래 후견 위임장 framtidsfullmakt), 사망(유언과 유류분 laglott), 장기 소유(재단·새 계약)라는 세 층을, 오너가 아직 결정할 수 있을 때 미리 정해 두는 것
+@meta 스웨덴 현안|가족기업의 세대교체(generationsskifte) — 스웨덴 중소 제조기업 상당수가 향후 10년 안에 소유주 교체를 맞는다 · 2004년 말 상속세·증여세 폐지, 그러나 상속인은 고인의 취득가를 물려받아 매각 때 양도소득세를 낸다 · 자녀의 유류분(laglott)은 유언으로도 빼앗을 수 없다 · 2017년 도입된 미래 후견 위임장(framtidsfullmakt) · 승계 실패가 매각·폐업으로 이어지는 공장 도시
+@intro **지난 이야기** — 5월 20일 월요일 새벽 4시 12분, 할베리 브루크의 모든 화면에 몸값 요구문이 떴다. 2019년에 닫았어야 할 서비스 기술자용 VPN 계정으로 들어온 조직 '애시폴'은 비트코인 18개를 요구하며 Nordvärn 관련 도면을 공개하겠다고 협박했다. 시간당 50만 크로나가 날아가는 동안 요나스는 말했다. "Vi betalar inte. Punkt." 레나는 지부 지하실에서 1987년 작업지시서 묶음을 들고 왔고, 4번 라인은 종이 카드로 다시 돌기 시작했다. 그리고 저녁 6시 40분, 그레타 저택의 가정부 비르기타에게서 전화가 왔다. "Margareta har fallit. Hon är på väg till sjukhuset."
+@intro 4주가 지났다. 그레타가 쓰러진 원인은 뇌경색이었다. 베스테로스 병원으로 실려 간 그레타는 이제 재활 병동에서 보행기로 걷는 연습을 하고, 언어치료사와 단어를 고른다. 공장은 돌아왔다. 몸값은 한 푼도 내지 않았고, ERP는 11일 만에 복구됐다. 하지만 엘린의 6월 30일 예측은 3.49 — 한도 3.5에서 100분의 1 아래다. 그사이 페테르 할베리는 이사회에 8월 임시 회의를 요청했다. 안건은 "소유 문제". 6월 17일 월요일 아침, 요나스는 할셰에서 차를 몰아 베스테로스로 간다. 꽃 대신 서류철을 들고.
+# 장면 1 — 베스테로스 병원 뇌졸중 재활 병동, 6월 17일 월요일 오전 9시 반
+Fatima|B1|Hon är vaken och har väntat på dig sedan frukost. Men tjugo minuter, inte mer – hon blir trött fort, även om hon inte vill erkänna det.|일어나 계세요. 아침 식사 후부터 기다리셨어요. 그런데 20분이에요, 그 이상은 안 돼요. 금방 지치세요. 본인은 인정 안 하시지만요. (베스테로스 병원 뇌졸중 재활 병동, 6월 17일 월요일 오전 9시 반. 복도 끝 창가 병실 앞. 요나스는 꽃 대신 서류철을 들고 있다)
+Jonas|A2|Tjugo minuter. Jag lovar.|20분. 약속할게요.
+Greta|A2|Jonas. Kom in. Sätt dig.|요나스. 들어와요. 앉아요. (침대를 세우고 앉아 있다. 오른손은 이불 위에 가만히 놓여 있다. 한 단어씩, 천천히)
+Jonas|A2|Hur mår du idag?|오늘은 좀 어떠세요?
+Greta|B1|Bättre än förra veckan. Orden kommer. De tar bara … längre tid. Handen vill inte än.|지난주보단 나아요. 말은 나와요. 그냥… 오래 걸릴 뿐. 손은 아직 말을 안 들어요.
+Fatima|B2|Hon går tjugo meter med rullator nu, och logopeden säger att talet blir bättre för varje vecka. Om allt går bra får hon åka hem till Hallsjö efter midsommar.|이제 보행기로 20미터를 걸으세요. 언어치료사 말로는 말씀도 주마다 좋아지고 있대요. 다 잘되면 미드소마르 지나고 할셰 댁으로 가실 수 있어요.
+Greta|A2|Tack, Fatima. Nu får du gå.|고마워요, 파티마. 이제 가 봐요. (파티마가 웃으며 문을 닫는다)
+Jonas|B1|Jag har med mig det du bad om: siffrorna från maj och en kort sammanfattning av attacken.|부탁하신 거 가져왔어요. 5월 숫자하고, 공격에 대한 짧은 요약이요.
+Greta|B1|Berätta. Kort. Betalade ni?|말해 봐요. 짧게. 돈 냈어요?
+Jonas|A2|Nej. Inte en krona.|아니요. 한 푼도요.
+Greta|A2|Bra.|좋아요.
+Jonas|B2|Patrik och Marcus på it-supporten fick i gång affärssystemet efter elva dagar, och maskinerna gick för fullt efter en vecka. Ashfall publicerade fyrtio gigabyte den 24 maj – gamla ordrar, ritningar och en del av lönelistan från 2022 – men ingenting om Nordvärn. Åtminstone inte hittills.|파트리크하고 IT 지원 업체의 마르쿠스가 11일 만에 ERP를 살려 냈고, 기계는 일주일 뒤에 전부 돌았어요. 애시폴은 5월 24일에 40기가를 공개했어요. 옛 주문, 도면, 2022년 급여 명단 일부요. 하지만 Nordvärn 건은 없었어요. 적어도 아직은요.
+Greta|B1|Och pengarna? Vad kostade det?|그럼 돈은요? 얼마 들었어요?
+Jonas|B2|Elin räknar med ungefär trettiofyra miljoner i förlorat täckningsbidrag, övertid och viten. Det gör att vi ligger på 3,49 i hennes prognos för den 30 juni. En hundradel under gränsen.|엘린 계산으로는 공헌이익 손실, 초과근무, 위약금을 합쳐 3,400만 정도예요. 그래서 6월 30일 예측이 3.49예요. 한도보다 100분의 1 아래죠.
+Greta|B1|En hundradel. Min far sa alltid att en marginal är en marginal, hur liten den än är.|100분의 1이라. 우리 아버지는 늘 그랬죠. 아무리 작아도 여유는 여유라고.
+Jonas|B2|Han hade rätt. Och om vi ligger under 3,5 två kvartal i rad försvinner räntepåslaget på en procentenhet – det är fjorton miljoner om året.|맞는 말씀이에요. 그리고 두 분기 연속 3.5 아래면 1%p 가산금리가 없어져요. 연 1,400만이죠.
+Greta|A2|Vad mer? Du har något mer. Jag ser det.|또 뭐예요? 뭔가 더 있잖아요. 다 보여요.
+Jonas|B1|Peter har bett styrelsen om ett extra möte i augusti. Han vill att vi ”diskuterar ägarfrågan” medan du är sjuk.|페테르 씨가 이사회에 8월 임시 회의를 요청했어요. 의장님이 아프신 동안 "소유 문제를 논의하자"고요.
+Greta|C1|Medan jag är sjuk. Han har alltid varit skicklig på att välja sina tillfällen, min son – det är omdömet om vad han ska göra med dem som har saknats.|내가 아픈 동안이라. 우리 아들은 늘 때를 고르는 재주는 있었어요. 없었던 건, 그 때를 가지고 뭘 해야 하는지에 대한 판단이죠. (한 마디씩 끊어서, 그러나 또렷하게)
+Jonas|B2|Det finns en sak till, och den är obekväm. Om du inte själv kan företräda dina aktier är det Peter, ditt enda barn, som står först i tur att försöka.|하나 더 있는데, 불편한 얘기예요. 의장님이 직접 주식을 대리하실 수 없게 되면, 제일 먼저 나설 사람은 외아들인 페테르 씨예요.
+Greta|B1|Jag vet. Det är därför jag bad dig komma. Lyssna nu.|알아요. 그래서 오라고 한 거예요. 이제 들어요.
+Jonas|A2|Jag lyssnar.|듣고 있어요.
+Greta|B1|Peter får inte bruket. Inte nu, och inte när jag är borta.|페테르는 공장을 못 가져요. 지금도, 내가 떠난 뒤에도.
+Jonas|B2|Då behöver du göra det skriftligt, medan läkarna kan intyga att du förstår vad du skriver under. Annars kan det bli tingsrätten som avgör vem som ska förvalta dina aktier.|그럼 서면으로 하셔야 해요. 의장님이 무엇에 서명하는지 이해하고 계시다고 의사가 확인해 줄 수 있을 때요. 아니면 의장님 주식을 누가 관리할지 지방법원이 정하게 될 수도 있어요.
+Greta|C1|Jag har byggt det här i fyrtio år, och jag tänker inte låta det styckas upp och säljas i delar.|나는 이걸 40년 동안 만들었어요. 조각내서 팔리게 두지 않을 거예요. (성한 왼손으로 이불을 꽉 쥔다)
+Jonas|B1|Vad vill du att jag ska göra?|제가 뭘 하면 될까요?
+Greta|C1|Två saker. Be Elin hämta aktieägaravtalet från 1998 i mitt arbetsrum i kväll – Birgitta har nyckeln. Och ring Margit. Henne vill jag ha som fullmaktshavare. Hon har aldrig ljugit för mig, inte ens när det hade varit bekvämare.|두 가지요. 오늘 저녁 엘린한테 내 서재에서 1998년 주주간 계약서를 가져오라고 해요. 열쇠는 비르기타가 갖고 있어요. 그리고 마르기트에게 전화해요. 그 사람을 대리인으로 세우고 싶어요. 나한테 한 번도 거짓말한 적이 없어요. 그게 더 편했을 때조차도.
+Jonas|C1|En framtidsfullmakt, alltså. Den måste undertecknas inför två vittnen samtidigt, och ingen av dem får vara släkt med Margit. Den börjar gälla först den dag du själv inte längre kan sköta dina angelägenheter.|미래 후견 위임장 말씀이군요. 증인 두 명이 동시에 보는 앞에서 서명해야 하고, 증인은 둘 다 마르기트 씨의 친족이면 안 돼요. 효력은 의장님이 더는 스스로 일을 처리하실 수 없게 되는 날에야 생기고요.
+Greta|B2|Du och Elin kan vara vittnen. Ni är inte släkt med någon här – det har Peter påpekat flera gånger.|당신과 엘린이 증인이 되면 돼요. 여기 누구하고도 친척이 아니잖아요. 페테르가 여러 번 짚어 줬죠. (입꼬리가 아주 조금 올라간다)
+Jonas|B1|Jag ringer Margit från bilen. Och Elin är på bruket i dag – det är måndag.|차에서 마르기트 씨한테 전화할게요. 그리고 엘린은 오늘 공장에 있어요. 월요일이니까요.
+# 장면 2 — 할셰, 그레타의 저택 진입로, 6월 17일 월요일 저녁 7시
+Birgitta|B1|Elin! Kom in, kom in. Jonas ringde och sa att du skulle komma. Nyckeln till arbetsrummet har jag här i förklädet.|엘린 씨! 들어와요, 들어와요. 요나스 씨가 전화해서 오신다고 했어요. 서재 열쇠는 여기 앞치마에 있어요. (저녁 7시, 1874년에 지은 노란 저택 앞 자갈 진입로. 라일락 꽃은 이미 졌다. 진입로 끝에 낯선 검은 차 한 대가 서 있다)
+Elin|A2|Har ni besök?|손님 와 계세요?
+Birgitta|B2|Peter. Han kom vid fem med en herre från Stockholm. De har suttit i salongen i två timmar, och Peter bad om nyckeln till arbetsrummet. Den fick han inte.|페테르 님이요. 5시에 스톡홀름에서 온 신사분하고 오셨어요. 두 시간째 응접실에 앉아 계시고, 페테르 님이 서재 열쇠를 달라고 하셨어요. 안 드렸죠.
+Elin|B1|Varför inte? Det är ju hans mammas hus.|왜요? 어머님 댁이잖아요.
+Birgitta|B2|Därför att Margareta sa till mig i maj, innan hon föll, att ingen fick gå in där utan hennes lov. Inte ens Peter. Jag har arbetat i det här huset i trettioett år, och jag tänker inte börja svika henne nu.|마르가레타 님이 5월에, 쓰러지시기 전에, 허락 없이는 아무도 거기 못 들어간다고 하셨거든요. 페테르 님도요. 이 집에서 31년 일했는데, 이제 와서 그분을 저버릴 생각은 없어요.
+Elin|B1|Är det första gången han har med sig den där herren?|그 신사분을 데려온 게 처음이에요?
+Birgitta|B1|Tredje. En gång i mars och en gång i april, när Margareta var i Stockholm. Den där bilen glömmer man inte.|세 번째예요. 3월에 한 번, 4월에 한 번. 마르가레타 님이 스톡홀름에 가셨을 때요. 저 차는 잊을 수가 없죠.
+Henrik|B2|Elin Bergqvist! Vilken överraskning. Jag hörde att du jobbar tre dagar i veckan nu. Att en av dem skulle sluta med en kväll i Hallsjö hade jag inte räknat med.|엘린 베리크비스트! 이게 웬일이야. 요즘 주 3일 일한다고 들었는데. 그중 하루가 할셰의 저녁으로 끝날 줄은 몰랐네. (현관문이 열리고 헨리크가 계단을 내려온다. 리넨 재킷, 머리 위에 얹은 선글라스. 뒤따라 나오는 페테르)
+Elin|B1|Henrik. Och Peter. Det har varit ett långt möte, hör jag.|헨리크. 그리고 페테르 씨. 회의가 길었다면서요.
+Peter|B2|Ett besök, Elin. Jag hälsar på i mitt barndomshem medan min mor ligger på sjukhus. Jag visste inte att det krävde tillstånd från ekonomichefen.|방문이에요, 엘린 씨. 어머니가 입원해 계시는 동안 내가 자란 집에 들른 거죠. 그게 재무 책임자 허락이 필요한 일인 줄은 몰랐네요.
+Henrik|C1|Och jag är här som Peters gäst, inget annat. Men när vi ändå ses: jag gick över till Nordkap i januari, som partner med ansvar för industribolag i Mellansverige. Jag sa ju att jag nästa gång skulle sitta på andra sidan bordet – det kändes ärligare än att fortsätta ge råd från mitten.|그리고 난 페테르의 손님으로 온 거야, 그 이상 아니고. 그래도 이왕 만났으니 말하자면, 1월에 Nordkap으로 옮겼어. 스웨덴 중부 산업 기업 담당 파트너로. 다음엔 테이블 맞은편에 앉겠다고 했잖아. 가운데서 계속 조언하는 것보단 그게 더 솔직하게 느껴졌거든.
+Elin|B2|Jag läste pressmeddelandet. ”Långsiktigt ägande av svensk industri.” En vacker mening för ett bolag som brukar sälja vidare inom fem år.|보도자료 읽었어. "스웨덴 산업의 장기 소유." 보통 5년 안에 되파는 회사치곤 아름다운 문장이더라.
+Henrik|B2|Fair enough. Men fem år är längre än Hallberg har haft en vettig strategi på senare tid. No offence, Peter.|Fair enough. 그래도 5년이면, 할베리가 최근에 제대로 된 전략을 가졌던 기간보다 길어. No offence, 페테르.
+Peter|B1|Ingen fara. Jag har aldrig påstått att jag var felfri.|괜찮아요. 내가 흠이 없다고 한 적은 없으니까.
+Elin|C1|Nej, men du har påstått att du aldrig har träffat Malmberg Invests nya ägare – och ändå är du suppleant i bolagets styrelse. Jag undrar vad din mor skulle säga om hon visste att du tar med dig Nordkap hem till henne medan hon lär sig gå igen.|그렇죠. 그런데 말름베리 인베스트의 새 주인은 만난 적도 없다고 하셨죠. 그러면서 그 회사 예비이사로 앉아 계시고요. 어머님이 다시 걷는 법을 배우시는 동안 Nordkap을 어머님 댁에 데려오신 걸 아시면 뭐라고 하실지 궁금하네요.
+Peter|C1|Min mor har fattat varje viktigt beslut om det här bruket på egen hand i fyrtio år. Någon gång måste familjen tala om vad som händer den dag hon inte orkar längre – och om lov för det samtalet tänker jag inte be dig.|어머니는 40년 동안 이 공장의 중요한 결정을 전부 혼자 내렸어요. 언젠가는 가족이, 어머니가 더는 못 하게 되는 날 무슨 일이 생길지 얘기해야 해요. 그리고 그 대화를 하는 데 당신 허락을 구할 생각은 없어요.
+Elin|B1|Det är inte mig du ska be om lov. Det är henne.|허락을 구할 사람은 제가 아니에요. 어머님이죠.
+Henrik|B2|Elin, kom igen. Vi är inte fiender. Nordkap vill samma sak som du: ett bruk som tjänar pengar. Skillnaden är att vi inte tror att det går med niohundra anställda och en ordförande på rehab.|엘린, 왜 이래. 우리 적 아니야. Nordkap도 너랑 같은 걸 원해. 돈 버는 공장. 차이는, 직원 900명에 재활 중인 의장으로는 그게 안 된다고 우리가 본다는 거지.
+Elin|B2|Vi klarade bankens villkor i mars, trots att er kalkyl i höstas sa att vi inte skulle göra det. Och vi har överlevt en attack som stängde bruket i en vecka.|우린 3월에 은행 조건을 통과했어. 지난가을 너희 계산으로는 못 할 거라더니. 그리고 공장을 일주일 세운 공격도 버텨 냈고.
+Henrik|B1|Jag vet. 3,42. Stockholm är en liten stad.|알아. 3.42. 스톡홀름은 작은 도시잖아. (선글라스를 내려 쓴다)
+Elin|B2|Det är inte Stockholm som är litet, Henrik. Det är den här styrelsen. Sju personer – och en av dem står bredvid dig.|작은 건 스톡홀름이 아니야, 헨리크. 이 이사회지. 일곱 명. 그리고 그중 한 명이 네 옆에 서 있고.
+Peter|B1|Jag sitter fortfarande i styrelsen, Elin. Jag får prata med vem jag vill om bolagets framtid.|난 아직 이사예요, 엘린 씨. 회사의 미래에 대해 누구와 얘기하든 내 자유예요.
+Elin|C1|Prata får du. Men som ledamot har du en lojalitetsplikt mot bolaget och alla dess aktieägare – inte mot den som råkar vilja köpa det billigt. Siffrorna från styrelsemötena är inte din egendom att dela ut.|얘기는 하셔도 돼요. 하지만 이사로서의 충실 의무는 회사와 모든 주주에게 있어요. 하필 회사를 싸게 사고 싶어 하는 사람한테가 아니라요. 이사회 숫자는 당신이 나눠 줄 수 있는 당신 재산이 아니에요.
+Henrik|C1|Ingen har delat ut någonting, Elin. Siffror har en tendens att hitta sin egen väg i en bransch där alla känner alla. Men jag ska inte störa längre – du har säkert viktigare saker att hämta i arbetsrummet.|아무도 뭘 나눠 준 적 없어, 엘린. 다들 서로 아는 업계에선 숫자가 알아서 길을 찾는 경향이 있지. 아무튼 더 방해하진 않을게. 서재에서 가져갈 중요한 게 있을 테니까. (비르기타의 앞치마 주머니를 힐끗 본다)
+Elin|A2|Kör försiktigt, Henrik.|조심해서 가, 헨리크. (검은 차가 자갈을 튀기며 진입로를 빠져나가고, 페테르의 차가 그 뒤를 따른다. 비르기타가 말없이 열쇠를 내민다)
+# 장면 3 — 스톡홀름행 저녁 열차 ↔ 할셰 여관, 전화 회의, 월요일 밤 8시 40분
+Jonas|B1|Hittade du det?|찾았어? (밤 8시 40분. 할셰 여관 2층 방의 요나스, 스톡홀름행 저녁 열차의 엘린. 엘린의 무릎 위에 누렇게 바랜 서류철, 그 옆에 노란 노트)
+Elin|B2|Ja. Aktieägaravtalet mellan Greta, Peter, Carl-Johan och hans syster Ingela, undertecknat 1998. Men först: Henrik var där. Med Peter, i salongen, i två timmar.|응. 그레타, 페테르, 칼-요한, 그리고 칼-요한의 여동생 잉엘라 사이의 주주간 계약. 1998년 서명. 그런데 그보다 먼저, 헨리크가 거기 있었어. 페테르랑 응접실에서, 두 시간.
+Jonas|A2|Henrik. Självklart.|헨리크. 그럼 그렇지.
+Elin|B1|Peter har pratat med Nordkap i flera månader. Birgitta har sett bilen tre gånger sedan mars. Och Henrik kunde vår siffra för första kvartalet utantill.|페테르는 몇 달째 노르드캅과 이야기해 왔어. 비르기타가 3월부터 그 차를 세 번 봤대. 그리고 헨리크는 우리 1분기 숫자를 외우고 있었어.
+Jonas|B2|Då vet vi nästan säkert var läckan i höstas kom ifrån också. Men det kan vi inte bevisa i kväll. Vad står det i avtalet?|그럼 작년 가을 유출이 어디서 나왔는지도 거의 확실하네. 근데 그건 오늘 밤에 증명할 수 없어. 계약서엔 뭐라고 돼 있어?
+Elin|B2|Familjen äger 62 procent: Greta 38, Peter 12, Carl-Johan 8 och Ingela 4. Före varje stämma håller de ett förmöte, och där avgör en majoritet av familjens aktier hur hela blocket röstar.|가문이 62%. 그레타 38, 페테르 12, 칼-요한 8, 잉엘라 4. 주총 전마다 사전 회의를 하고, 거기서 가문 주식의 과반이 블록 전체가 어떻게 투표할지 정해.
+Jonas|B1|Och Greta har ensam mer än hälften av familjens aktier.|그리고 그레타 혼자서 가문 주식의 절반이 넘고.
+Elin|B2|Exakt. Den som kontrollerar familjens röster kontrollerar i praktiken bolaget. I dag är det Greta. Frågan är vem det är i augusti.|맞아. 가문의 의결권을 쥔 사람이 사실상 회사를 쥐는 거야. 오늘은 그게 그레타고. 문제는 8월에 누구냐는 거지.
+Jonas|B1|Om hon inte kan rösta, menar du.|그레타가 투표를 못 하게 되면, 말이지.
+Elin|C1|Paragraf sju: om en part inte kan delta i förmötet fattas beslutet av de närvarande parterna. Utan Greta står det tolv mot tolv – Peter mot Carl-Johan och Ingela. Och Carl-Johan röstade för Plan A förra hösten.|7조. 당사자 중 하나가 사전 회의에 참석할 수 없으면 참석한 당사자들이 결정한다. 그레타가 없으면 12 대 12야. 페테르 대 칼-요한과 잉엘라. 그리고 칼-요한은 작년 가을 플랜 A에 찬성했어.
+Jonas|B2|Men han röstade också för att avsätta Peter. Carl-Johan är ingen anhängare av Peter, han är en anhängare av kalkyler som går ihop. Det är en skillnad som vi kan arbeta med.|근데 칼-요한은 페테르 해임에도 찬성했어. 페테르 편이 아니라 계산이 맞아떨어지는 쪽 편이지. 그 차이로 해 볼 여지가 있어.
+Elin|B2|Kanske. Lägg sedan till Malmberg Invest. Om Peter vinner förmötet röstar han för familjens 24 procent, och Kestrels ombud lägger sina 6,4 procent på samma sida, som vanligt. Det blir över trettio procent på en stämma där Gretas 38 inte är med.|그럴지도. 그다음에 말름베리 인베스트를 더해 봐. 페테르가 사전 회의를 이기면 가문 24%로 투표하고, 케스트렐 대리인은 늘 그랬듯 6.4%를 같은 쪽에 얹겠지. 그레타의 38%가 빠진 주총에서 30%가 넘는 거야.
+Jonas|C1|Och de återstående 31,6 procenten är utspridda på ett dussintal institutioner och privatpersoner som sällan ens skickar ett ombud. Med andra ord: utan Greta räcker det med knappt en tredjedel av aktierna för att styra bolaget.|그리고 나머지 31.6%는 대리인조차 잘 안 보내는 기관과 개인 십여 명에게 흩어져 있고. 다시 말해, 그레타가 없으면 주식 3분의 1도 안 되는 걸로 회사를 움직일 수 있다는 거지.
+Elin|B2|Därför är framtidsfullmakten bråttom. Med den röstar Margit för Gretas aktier om Greta inte kan, och då står det fortfarande 38 mot högst 24 på förmötet.|그래서 미래 후견 위임장이 급한 거야. 그게 있으면 그레타가 못 할 때 마르기트가 그레타 주식으로 투표하니까. 그럼 사전 회의는 여전히 38 대 많아야 24고.
+Jonas|B1|Margit sa ja i telefon. Hon kommer till sjukhuset på tisdag nästa vecka.|마르기트 씨는 전화로 승낙했어. 다음 주 화요일에 병원에 온대.
+Elin|C1|Bra. Men en fullmakt löser bara frågan om vem som röstar medan Greta lever. Den dag hon dör ärver Peter, och som enda barn har han rätt till sin laglott – hälften av arvet, vad hon än skriver i sitt testamente.|좋아. 그런데 위임장은 그레타가 살아 있는 동안 누가 투표하느냐만 해결해. 그레타가 돌아가시는 날엔 페테르가 상속하고, 외아들이니까 유류분을 받을 권리가 있어. 유언장에 뭐라고 쓰든 상속재산의 절반.
+Jonas|B2|Hälften av 38 är 19. Plus hans egna 12 – då äger Peter 31 procent själv. Då behöver han inte vinna något förmöte.|38의 절반은 19. 자기 12를 더하면 페테르 혼자 31%를 갖게 돼. 그럼 사전 회의를 이길 필요도 없지.
+Elin|C1|Bara om laglotten måste betalas ut i aktier, och eftersom nästan hela Gretas förmögenhet är bruket blir det troligen så. Det finns vägar – en stiftelse, ett nytt avtal – men även en gåva kan angripas om den i själva verket är ett testamente i förklädnad. Hon behöver en advokat, inte bara en vän.|유류분을 주식으로 줘야 할 때만 그래. 근데 그레타 재산이 거의 다 공장이니까 아마 그렇게 되겠지. 길은 있어. 재단이나 새 계약 같은. 하지만 증여조차, 실제로는 유언을 변장시킨 거라면 다툼의 대상이 될 수 있어. 그레타한텐 친구만이 아니라 변호사가 필요해.
+Jonas|B1|Och styrelsen? Peter vill ha ett extra möte i augusti.|그럼 이사회는? 페테르가 8월에 임시 회의를 원하잖아.
+Elin|B2|Där har jag också räknat. Emot en försäljning: Greta, Lena och Kent, troligen Margit. För: Peter och Carl-Johan. Torbjörn kan ingen räkna ut – han pratar mest om aktieägarvärde.|그것도 계산해 봤어. 매각 반대: 그레타, 레나, 켄트, 그리고 아마 마르기트. 찬성: 페테르와 칼-요한. 토르비엔은 아무도 못 읽어. 주로 주주가치 얘기만 하니까.
+Jonas|B2|Fyra mot tre, om han går med Peter. Men det förutsätter att Greta sitter vid bordet.|토르비엔이 페테르 쪽에 서도 4 대 3. 근데 그건 그레타가 그 자리에 앉아 있다는 전제지.
+Elin|C1|Precis. Om hon är frånvarande leder vice ordföranden mötet enligt arbetsordningen – och det är Carl-Johan. Vid lika röstetal gäller den mening som ordföranden biträder. Tre mot tre blir alltså Carl-Johans beslut.|바로 그거야. 그레타가 불참하면 이사회 운영규칙에 따라 부의장이 회의를 이끌어. 그게 칼-요한이고. 가부동수면 의장이 지지하는 쪽으로 결정돼. 그러니까 3 대 3이면 칼-요한이 정하는 거지.
+Jonas|B2|Så Greta måste vara där i augusti. Och Henrik har ett problem till som han kanske inte har räknat med: sedan i maj har vi ett säkerhetsskyddsavtal. Den som vill köpa oss granskas först av ISP, och en överlåtelse kräver samråd med tillsynsmyndigheten.|그러니까 그레타는 8월에 그 자리에 있어야 해. 그리고 헨리크한텐 계산 못 했을지도 모르는 문제가 하나 더 있어. 5월부터 우린 보안보호 협약을 맺었잖아. 우릴 사려는 쪽은 먼저 전략제품감독청(ISP) 심사를 받아야 하고, 양도하려면 감독 당국과 사전 협의를 해야 해.
+Elin|B2|Och vi måste vara säkra på att hon själv vill det. Jag tänker inte släpa en sjuk kvinna till ett styrelsemöte för att vår kalkyl ska gå ihop, Jonas.|그리고 그레타 본인이 그걸 원하는지 확실해야 해. 우리 계산 맞추자고 아픈 사람을 이사회에 끌고 갈 생각은 없어, 요나스.
+Jonas|C1|Det ska vi inte heller. Hon sa det själv i morse: ”Jag har byggt det här i fyrtio år.” Den som säger så har redan bestämt sig. Vår uppgift är att se till att hon får välja – inte att välja åt henne.|그럴 일도 없어. 오늘 아침에 직접 그러셨어. "나는 이걸 40년 동안 만들었어요." 그렇게 말하는 사람은 이미 마음을 정한 거야. 우리 일은 그레타가 고를 수 있게 하는 거지, 대신 고르는 게 아니야.
+# 장면 4 — 쇠데르말름, 요나스의 아파트, 6월 20일 목요일 저녁 6시
+Helena|B1|Två väskor, en gitarr och en låda med böcker som han säger att han behöver. Resten tar vi i augusti.|가방 둘, 기타 하나, 그리고 꼭 필요하다는 책 한 상자. 나머지는 8월에 가져올게. (목요일 저녁 6시, 쇠데르말름 요나스의 아파트 현관. 전처 헬레나가 계단참에 서 있다. 그 뒤에서 러브가 기타 케이스를 멘 채 휴대폰을 본다)
+Jonas|B1|Kom in, båda två. Jag har köpt mat till tacos.|둘 다 들어와. 타코 재료 사 놨어.
+Helena|B2|Jag kan inte stanna. Planet till Bryssel går klockan nio, och i morgon börjar introduktionen på representationen. Jag kommer tillbaka i tio dagar i augusti för att packa resten.|나 못 있어. 브뤼셀행 비행기가 9시고, 내일부터 대표부 오리엔테이션이 시작돼. 8월에 열흘 돌아와서 나머지 짐 쌀 거야.
+Jonas|B2|Helena, vi sa att vi skulle prata om hur det ska fungera innan han flyttade hit. Jag bor på ett värdshus i Hallsjö fyra nätter i veckan.|헬레나, 러브가 이사 오기 전에 어떻게 할지 얘기하기로 했잖아. 나 일주일에 나흘 밤은 할셰 여관에서 자.
+Helena|C1|Vi har pratat om det sedan februari, Jonas, och du har sagt ”vi löser det” varje gång. Nu får du lösa det. Han är sjutton, han vill inte byta skola, och jag har väntat i tolv år på en sådan här tjänst.|그 얘기 2월부터 했어, 요나스. 당신은 매번 "해결할게"라고만 했고. 이제 해결해. 얘는 열일곱이고, 학교 옮기기 싫대. 그리고 난 이런 자리를 12년 기다렸어.
+Love|A2|Jag står här, alltså.|나 여기 서 있거든.
+Helena|A2|Förlåt, älskling. Kram?|미안, 우리 아들. 안아 줄래? (러브를 꽉 안는다. 러브는 한 팔로만 안는다)
+Love|A2|Hej då, mamma. Ring när du har landat.|잘 가, 엄마. 도착하면 전화해. (문이 닫히고, 계단을 내려가는 발소리가 멀어진다)
+Jonas|B1|Okej. Ditt rum är som förut, men jag har bytt säng. Den gamla var för kort.|좋아. 네 방은 그대로인데, 침대는 바꿨어. 옛날 건 너무 짧았잖아.
+Love|B1|Den var för kort för två år sedan, pappa.|그건 2년 전에도 짧았어, 아빠.
+Jonas|B1|Jag vet. Ta av dig skorna, så börjar jag med köttfärsen.|알아. 신발 벗어. 다진 고기부터 볶을게.
+Love|A2|Jag äter inte kött.|나 고기 안 먹어.
+Jonas|A2|Sedan när?|언제부터?
+Love|B1|Sedan april. Mamma vet. Farmor vet. Till och med Ali vet, och han äter kebab varje dag.|4월부터. 엄마도 알고, 할머니도 알아. 알리도 알아. 걔는 매일 케밥 먹는데도.
+Jonas|B2|Då har jag missat ganska mycket sedan april. Det finns sojafärs i affären på hörnet – ge mig tio minuter.|그럼 4월 이후로 꽤 많은 걸 놓쳤네. 모퉁이 가게에 콩고기 있어. 10분만 줘.
+Love|B2|Du behöver inte. Jag kan äta bara tortillas och grönsaker. Det är inte hela världen.|안 그래도 돼. 그냥 토르티야랑 채소만 먹어도 돼. 별일 아니야.
+Jonas|B1|Jo, det behöver jag. Det är din första kväll här. Den ska inte bli tortillas med gurka.|아니, 그래야 돼. 여기서 첫날 저녁이잖아. 오이 넣은 토르티야로 끝낼 순 없지.
+Love|B1|Hur blir det i höst, då? Ska jag bo ensam här måndag till torsdag?|그럼 가을엔 어떻게 되는데? 나 월요일부터 목요일까지 여기 혼자 살아? (저녁 8시. 식탁 위 타코 접시. 콩고기는 생각보다 맛있다. 요나스의 휴대폰이 식탁 위에서 두 번 진동하고, 요나스가 화면을 뒤집어 놓는다)
+Jonas|B2|Nej. Jag har tänkt att jag pendlar oftare – åker ner måndag morgon och hem onsdag kväll, och resten tar jag på distans. Det går inte varje vecka, men de flesta.|아니. 출퇴근을 더 자주 할 생각이야. 월요일 아침에 내려갔다가 수요일 저녁에 올라오고, 나머지는 원격으로. 매주는 안 되겠지만 대부분은.
+Love|B2|Du sa samma sak när du började på Norrström. Att du skulle vara hemma klockan sex. Jag räknade en gång – det hände fyra gånger på en termin.|노르스트룀 들어갔을 때도 똑같이 말했잖아. 6시엔 집에 오겠다고. 한 번 세 봤어. 한 학기에 네 번이었어.
+Jonas|C1|Det stämmer, och det har jag inget bra svar på. Jag har ägnat hela mitt yrkesliv åt att lyssna efter vad andra människor egentligen frågar om, och ändå har jag nästan aldrig frågat dig vad du vill.|맞아. 거기엔 변명할 말이 없다. 일하는 내내 다른 사람들이 진짜로 뭘 묻는지 귀 기울이며 살았는데, 정작 너한테는 뭘 원하는지 거의 물어본 적이 없네.
+Love|A2|Fråga, då.|그럼 물어봐.
+Jonas|B1|Vad vill du? På riktigt.|넌 뭘 원해? 진짜로.
+Love|B2|Jag vill gå kvar i min klass, jobba på kaféet på Skånegatan i sommar och inte flytta till ett bruk i skogen. Och jag vill inte vara den som stoppar dig. Det är det värsta.|지금 반에 계속 다니고, 이번 여름엔 스코네가탄 카페에서 일하고, 숲속 공장 동네로 이사 가지 않는 거. 그리고 아빠를 막는 사람이 되고 싶지 않아. 그게 제일 싫어.
+Jonas|B2|Du stoppar mig inte. Det är jag som har låtit jobbet gå före dig i alldeles för många år.|넌 날 막는 게 아니야. 너무 오랫동안 너보다 일을 앞세운 건 나야.
+Love|B1|Varför tar du det jobbet, egentligen? Du var ju konsult. Konsulter går hem när det blir jobbigt.|근데 그 일은 왜 하는 거야? 아빠 컨설턴트였잖아. 컨설턴트는 힘들어지면 집에 가잖아.
+Jonas|C1|Just därför, kanske. I femton år har jag sagt åt andra vad de borde göra och sedan gått hem. Där nere finns niohundra människor som får leva med det jag bestämmer – och en gammal dam på sjukhuset som litar på att jag inte smiter.|바로 그래서일지도. 15년 동안 남들한테 뭘 해야 하는지 말해 주고는 집에 갔어. 거기엔 내가 정한 걸 안고 살아야 하는 사람이 900명 있어. 그리고 내가 몰래 빠져나가지 않을 거라고 믿는, 병원에 계신 할머니 한 분도.
+Love|B1|Låter som farfar. Farmor säger att han aldrig gick ifrån gruvan, inte ens när han borde.|할아버지 같다. 할머니 말로는 할아버지는 광산을 떠난 적이 없대. 그래야 할 때도.
+Jonas|B2|Farfar sa åt mig att aldrig gå ner i gruvan. Kanske har jag hittat min egen gruva ändå. Vi tar en vecka i taget, Love – och du säger till när jag lovar för mycket.|할아버지는 나한테 절대 광산에 들어가지 말라고 했어. 그런데 결국 나만의 광산을 찾았는지도 모르지. 한 주씩 해 보자, 러브. 그리고 내가 너무 많이 약속하면 네가 말해.
+Love|A2|Det gör jag redan, pappa.|이미 그러고 있거든, 아빠. (러브가 마지막 타코를 집는다. 휴대폰이 또 진동한다. 요나스는 이번엔 화면을 보지도 않고, 끝까지 울리게 둔다)
+# 장면 5 — 미드소마르 이브의 문자들, 6월 21일 금요일
+Elin|B1|Glad midsommar från Roslagen! Maja har plockat sju sorters blommor att lägga under kudden. Daniel säger att hon kommer att drömma om hästar, inte om pojkar.|로슬라겐에서 즐거운 미드소마르! 마야가 베개 밑에 넣을 일곱 가지 꽃을 꺾었어. 다니엘 말로는 남자애 꿈 말고 말 꿈을 꿀 거래. (문자, 오후 4시 12분. 사진 한 장: 화관을 쓴 마야를 안은 다니엘, 그 옆에서 웃는 엘린. 다니엘 부모님의 여름 별장 마당)
+Jonas|B2|Det är det finaste fotot jag har fått i år. Och du ser ut som någon som har stängt av mejlen. Fortsätt med det.|올해 받은 사진 중에 제일 좋다. 그리고 너 메일 꺼 둔 사람 같아 보여. 계속 그렇게 해. (쇠데르의 아파트. 식탁에 청어 한 접시와 햇감자. 맞은편 의자가 비어 있다)
+Lena|B2|Hela Folkets park dansar små grodorna. Halva fyran är här, och Leif har redan tappat sin krans i sjön. Du är saknad, chefen – nästan.|폴케츠 파르크 전체가 '작은 개구리' 춤 추는 중이에요. 4번 라인 절반이 여기 있고, 레이프는 벌써 화관을 호수에 빠뜨렸어요. 다들 보고 싶어 해요, 사장님. 거의요. (문자, 저녁 6시 30분. 할셰 호숫가 미드소마르 기둥 사진)
+Jonas|A2|Hälsa alla. Och rädda Leifs krans.|다들 안부 전해 줘요. 그리고 레이프 화관 좀 건져 줘요.
+Love|B1|Sover hos Ali på Värmdö. Kommer hem i morgon. Sojafärsen var faktiskt god, btw.|바름되 알리네서 자고 갈게. 내일 집에 가. 근데 콩고기 진짜 맛있었어. (문자, 밤 9시 3분)
+Jonas|B2|Ha det så kul. Och ring om du behöver bli hämtad, oavsett hur sent det är. Det löftet håller jag.|재밌게 놀아. 데리러 와야 하면 전화해. 몇 시든 상관없어. 그 약속은 지킬게.
+Birgitta|C1|Hej Jonas, det är Birgitta. Margareta ber mig skriva att läkaren har intygat att hon är fullt beslutsförmögen. Hon vill skriva under på tisdag klockan elva, med dig, Elin och Margit närvarande – och hon önskar dig en glad midsommar.|요나스 씨, 비르기타예요. 마르가레타 님이 전해 달라세요. 의사가 판단 능력이 온전하다고 확인해 줬대요. 화요일 11시에 요나스 씨와 엘린 씨, 마르기트 씨가 있는 자리에서 서명하고 싶으시대요. 그리고 즐거운 미드소마르 보내시래요. (문자, 밤 9시 40분)
+Jonas|C1|Hälsa henne att vi kommer. Och säg att hon inte har byggt bruket i fyrtio år för att någon annan ska få bestämma den dag hon inte orkar – det var hennes egna ord som avgjorde saken.|우리 간다고 전해 주세요. 그리고 그분이 40년 동안 공장을 쌓아 오신 건 기력이 다하는 날 다른 누군가가 정하게 하려고가 아니라고요. 결국 일을 정한 건 그분 자신의 말이었어요.
+Elin|B2|Jonas, jag fick nyss ett sms från Henrik. Jag skickar det till dig direkt, som vi har sagt – du ska inte behöva höra det från någon annan.|요나스, 방금 헨리크한테서 문자 왔어. 약속대로 바로 보낼게. 다른 사람한테서 듣게 하고 싶지 않아. (문자, 밤 11시 47분. 로슬라겐, 잠든 마야 옆)
+Henrik|B2|Glad midsommar, Elin. Trevligt att ses i Hallsjö i måndags – jag hoppas att Margareta piggnar till snart. Hälsa Jonas. Säg att vi snart lägger ett bud.|즐거운 미드소마르, 엘린. 월요일에 할셰에서 봐서 반가웠어. 마르가레타 씨가 얼른 기운 차리시길. 요나스에게 안부 전해. 곧 인수 제안 낼 거라고. (엘린이 전달한 헨리크의 문자. 쇠데르의 아파트, 요나스는 휴대폰을 손에 쥔 채 창밖의 하얀 밤을 오래 내다본다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Hur mår du idag?** | 오늘은 좀 어떠세요? | *må* = (몸·마음 상태가) ~하다. *Hur mår du?*는 인사치레가 아니라 진짜 안부 — 병문안의 첫마디. 대답은 *Jag mår bättre.* *idag*/*i dag* 두 표기 모두 쓴다 |
+| `A2` | **Jag står här, alltså.** | 나 여기 서 있거든. | 문장 끝 *alltså*는 '그러니까'가 아니라 짜증·강조의 구어 꼬리말. 자기 얘기를 자기 앞에서 3인칭으로 하는 어른들에게 던지는 한마디 |
+| `B1` | **Peter har pratat med Nordkap i flera månader.** | 페테르는 몇 달째 노르드캅과 이야기해 왔어요. | 현재완료 + *i*(기간) = 과거에 시작해 지금까지 계속되는 일. *i flera månader* = 몇 달 동안. 과거형 *pratade*를 쓰면 이미 끝난 일이 된다 |
+| `B1` | **Peter får inte bruket.** | 페테르는 공장을 못 가져요. | *få*의 두 뜻이 겹친다: '받다/얻다'와 '~해도 된다'. 여기선 *få bruket*(공장을 얻다)의 부정이지만, 말투는 금지 명령처럼 들린다 |
+| `B1` | **Det är inte mig du ska be om lov. Det är henne.** | 허락을 구할 사람은 제가 아니에요. 어머님이죠. | 분열문 *Det är … (som) …*에서 *som*이 생략됐다. *be någon om lov* = 누구에게 허락을 구하다 — 목적어 자리라 *jag/hon*이 아니라 *mig/henne* |
+| `B2` | **Den som kontrollerar familjens röster kontrollerar i praktiken bolaget.** | 가문의 의결권을 쥔 사람이 사실상 회사를 쥐는 거예요. | *den som …* = ~하는 사람(주어). 같은 동사를 두 번 써서 원인과 결과를 맞세운다. *i praktiken* = 실제로는(↔ *formellt* 형식상) |
+| `B2` | **Det är inte Stockholm som är litet. Det är den här styrelsen.** | 작은 건 스톡홀름이 아니야. 이 이사회지. | 도시 이름은 중성으로 취급하므로 형용사가 *litet*. 헨리크의 입버릇 *Stockholm är en liten stad*(*stad*는 공성 → *liten*)를 문법째 뒤집은 반격 |
+| `B2` | **Det är jag som har låtit jobbet gå före dig i alldeles för många år.** | 너무 오랫동안 너보다 일을 앞세운 건 나야. | *låta något gå före något* = ~을 ~보다 앞세우다. *alldeles för* = 지나치게. 분열문으로 '내 탓'에 초점 |
+| `C1` | **Jag har byggt det här i fyrtio år, och jag tänker inte låta det styckas upp och säljas i delar.** | 나는 이걸 40년 동안 만들었어요. 조각내서 팔리게 두지 않을 거예요. | *tänka inte* + 부정사 = ~할 생각이 없다(강한 거부). *låta det styckas upp* = 그것이 쪼개지게 두다 — *låta* 뒤 s-수동태 부정사 두 개(*styckas upp, säljas*) |
+| `C1` | **Även en gåva kan angripas om den i själva verket är ett testamente i förklädnad.** | 증여조차, 실제로는 유언을 변장시킨 거라면 다툼의 대상이 될 수 있어. | *angripa* = 공격하다 → 법률어로 '(효력을) 다투다'. *i själva verket* = 실제로는. *i förklädnad* = 변장한 — 유류분을 피하려는 증여를 상속인이 다툴 수 있다는 상속법(ärvdabalken 7장 4조)의 요지 |
+
+## 현안 메모
+- **가족기업의 세대교체(generationsskifte)** — 스웨덴 기업의 대다수는 가족이 소유한 중소기업이고, 1940~50년대생 창업주·2세 오너가 은퇴할 나이에 접어들었다. 정부 기관과 기업 단체의 조사들은 수만 개 기업이 앞으로 10년 안에 소유주 교체를 맞는다고 추산한다. 승계자를 정하지 못한 기업은 외부 매각이나 폐업으로 가는 경우가 많다. 그 회사가 마을 최대 고용주인 공장 도시(bruksort)에서는 한 가족의 결정이 곧 지역 전체의 문제가 된다.
+- **상속세는 없지만 세금이 없는 건 아니다** — 스웨덴은 2004년 말 상속세와 증여세를 폐지했다(2004년 12월 17일 이후 사망분부터 상속세 없음, 증여세는 2005년부터 폐지). 대신 '연속성 원칙(kontinuitetsprincipen)'에 따라 상속·증여받은 사람은 고인의 취득가를 그대로 물려받는다. 그래서 상속받은 주식을 나중에 팔면 그동안 쌓인 가치 상승분 전체에 양도소득세를 낸다. 승계 비용이 '물려받을 때'에서 '팔 때'로 옮겨 간 셈이다.
+- **유류분(laglott)** — 상속법(ärvdabalken)에 따라 자녀(bröstarvinge)는 법정상속분의 절반을 유류분으로 보장받는다. 유언으로 다른 사람에게 재산을 넘겨도 자녀는 유언 통지를 받은 뒤 6개월 안에 조정을 청구해 유류분을 받을 수 있다. 생전 증여가 사실상 유언과 같은 성격이면 상속재산 목록 작성 후 1년 안에 다툴 수 있다(7장 4조). 그레타가 외아들 페테르를 완전히 배제할 수 없는 이유다.
+- **미래 후견 위임장(framtidsfullmakt)** — 2017년 7월 1일 시행된 법(lag om framtidsfullmakter)으로 도입됐다. 판단 능력이 있을 때, 증인 두 명이 동시에 보는 앞에서 서면으로 작성한다. 대리인이나 그 가까운 친족은 증인이 될 수 없다. 본인이 질병 등으로 지속적이고 실질적으로 자기 일을 처리할 수 없게 될 때 효력이 생긴다. 위임장이 없으면 지방법원(tingsrätt)이 후견인(god man)이나 관리인(förvaltare)을 선임하고 후견감독관(överförmyndare)이 감독한다. 가까운 친족의 법정 대리권(anhörigbehörighet)은 일상적인 경제 문제에만 미치고, 회사 지분의 의결권 행사 같은 일에는 쓸 수 없다.
+
+## 비즈니스 메모
+- **지배구조 분석 — "누가 결정하는가"를 두 층으로 그리기** — 주주 단계에서 할베리는 '가문 62%'라는 한 숫자로는 설명되지 않는다. 그레타 38 · 페테르 12 · 칼-요한 8 · 잉엘라 4로 나뉘어 있고, 1998년 주주간 계약이 그 62%를 사전 회의(förmöte)에서 한 덩어리로 묶는다. 그래서 "그레타가 빠지면?"이라는 시나리오 하나로 판이 뒤집힌다. 12 대 12가 되고, 케스트렐의 6.4%가 붙고, 흩어진 31.6%는 대리인조차 안 보낸다. 3분의 1도 안 되는 지분이 회사를 움직일 수 있게 된다. 이사회 단계도 따로 센다. 일곱 명의 예상 표에, 의장이 빠지면 부의장이 회의를 이끌고 가부동수면 의장 쪽으로 결정된다는 규칙을 더한다. 지배구조 분석의 핵심은 지분표가 아니라 '빠지는 사람'의 시나리오다.
+- **승계 계획의 세 층** — ① 판단 능력: 오너가 결정할 수 없게 되면 누가 대신하는가(미래 후견 위임장) ② 사망: 누가 무엇을 상속하고, 유류분이 지분 구조를 어떻게 바꾸는가(유언, 유류분) ③ 장기 소유: 지분이 쪼개지거나 팔리지 않게 무엇으로 묶어 둘 것인가(재단, 새 주주간 계약, 선매권). 세 층 모두 오너가 아직 건강하고 판단 능력이 있을 때만 정할 수 있다. 그레타가 20년 동안 미뤄 온 결정을 재활 병동에서, 한 단어씩 내려야 하는 이유다.
+
+## 다음 화 예고 — Budet
+**2부 9화.** 2024년 8월. 스투레플란 Nordkap Capital 사무실의 큰 화면에 헨리크의 슬라이드가 뜬다. 프리미엄이 붙은 가격과 "quick wins" — 유압 부문 매각, 일부 공정의 해외 이전, 300명 감원. 엘린은 할인현금흐름(DCF)으로 밤을 새우고, 군닐라 몰래 아미르가 민감도 분석을 돌린다. 제안가는 회사의 진짜 가치보다 낮고, 차입매수 구조는 인수 대금을 공장의 빚으로 떠넘긴다. 할셰 이사회실에서 페테르와 엘린이 숫자 대 숫자로 맞붙고, 엘린은 말한다. "Ett högt pris är inte detsamma som ett bra erbjudande, om priset betalas av framtiden." 표는 4 대 3으로 갈린다. 그리고 문이 열린다. 휠체어를 탄 그레타다. 헨리크는 웃으며 서류를 덮는다. "Ni har vunnit en omröstning. Inte kriget."
