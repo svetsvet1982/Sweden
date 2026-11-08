@@ -1,0 +1,161 @@
+@title 3부 10화 — Köerna
+@subtitle (대기열)
+@meta 날짜|2025년 10월 21일 화요일 ~ 10월 28일 화요일, 그리고 11월 3일 월요일 아침 (Region Mälarvik 보고서 마감 10월 31일, 리누스 팔크 기사 10월 22일 수요일, 보건의료위원회 2차 도입 결정 예정일 11월 18일)
+@meta 장소|Mälarviks sjukhus 정형외과 3층, 작은 회의실 (10월 21일 화요일 오후 2시) → Region Mälarvik 청사 지하 기록실 (10월 23일 목요일 오전 10시) → 정형외과 행정과장실 (10월 27일 월요일 오후 1시) → 쇠데르말름 호른스가탄, Klarsyn 사무실 (10월 28일 화요일 저녁 6시 반 / 11월 3일 월요일 아침 8시 반)
+@meta 등장인물|**Amir Nouri** (아미르 누리, 29, Klarsyn 데이터·포렌식 분석가) · **Elin Bergqvist** (엘린 베리크비스트, 36, Klarsyn 공동대표 — 감사 총괄) · **Sofia Mäkinen** (소피아 매키넨, 32, Klarsyn 인터뷰·내부고발자 보호) · **Jonas Ekholm** (요나스 에크홀름, 43, Klarsyn 공동대표 — 대외·조사) · **Per-Olof Sandberg** (퍼-울로프 산드베리, 64, Region Mälarvik 선출직 감사인 대표) · **Lars Nyqvist** (라르스 뉘크비스트, 57, Mälarviks sjukhus 정형외과 행정과장 9년 차, 전 수술실 간호사) · **Ulla** (울라, 74, 무릎 인공관절 수술 대기 환자 — 무작위 표본 23번) · **Mehmet** (메흐메트, 58, 버스 기사, 고관절 수술 대기 환자 — 위험 기반 표본 7번)
+@meta 이번 화의 도구|표본 추출(stickprov) — 전수를 볼 수 없을 때, 일부를 골라 전체를 말한다. ① 무작위 표본(slumpmässigt urval): 모집단의 누구나 뽑힐 확률이 같다. 그래서 결과를 전체로 넓혀 말할 수 있다. 다만 신뢰구간과 함께 ② 위험 기반 표본(riskbaserat urval): 이상 신호가 가장 강한 곳을 골라 본다. 패턴을 확인하는 데는 강하지만, 전체 비율로 넓혀 말해서는 안 된다 ③ 두 표본은 보고서에서 절대 섞지 않는다 ④ 한계를 함께 적는다: 연락이 닿지 않은 사람(무응답), 기억의 오류, '기억나지 않는다'와 '없었다'의 차이. 그래서 전화 답변을 통화 기록 같은 다른 자료와 맞대어 본다(삼각 검증)
+@meta 스웨덴 현안|의료 대기열과 대기시간 보장(vårdgaranti) — 스웨덴의 대기시간 보장은 흔히 '0-3-90-90'으로 불린다. 당일 연락, 사흘 안에 1차 의료 평가, 90일 안에 전문의 진료, 치료 결정 후 90일 안에 치료. 많은 지역이 이 기준을 맞추지 못하고 있고, 환자가 스스로 기다리기를 택한 경우(patientvald väntan)를 통계에서 빼는 방식 때문에 지역 간 비교와 측정의 신뢰성도 논란이 되어 왔다
+@intro **지난 이야기** — Region Mälarvik의 새 의료기록 시스템 'Lyra'는 가동 다섯 주 만에 이상 사례 보고 1,100건과 리스 마리아 신고 네 건을 낳았다. 결정 문서의 위험 평가는 한 단어였다. "낮음." 아미르는 위험 로그에서 가동 전에 올라간 서면 경고 세 건을 찾아냈다. 세 건 모두 같은 공용 계정에서 '검토 중'으로 바뀌었고, 경영진 요약본은 '미결'만 셌다. 경고는 있었지만, 결정을 내리는 사람들에게는 닿지 않았다. 리누스 팔크가 다음 날 보도하겠다고 하자 요나스는 처음으로 그에게 부탁했다. "일주일만 기다려 줘요." 리누스는 22일까지 미뤘고, 엘린은 요나스에게 말했다. "당신이 지킨 건 감사가 아니라 우리 일정이야." 그날 밤 응급실 간호사 한나가 소피아에게 쪽지를 건넸다. "Kolla hur de räknar väntetiderna."
+@intro 일주일 뒤, 10월 21일 화요일. 감사인들은 한나의 쪽지를 받아 들고 의뢰 범위를 넓혔다. 아미르는 주말 동안 정형외과 수술 대기열 데이터를 내려받아 돌렸다. 엘린은 오전에 솔나에서 Lärkan Skolor 이사회에 보고서를 넘기고 오는 길이다. 보고서 마감까지 열흘. 서류상 정형외과의 대기열은 지역에서 가장 깔끔하다.
+# 장면 1 — Mälarviks sjukhus 정형외과 3층, 작은 회의실, 10월 21일 화요일 오후 2시
+Amir|B1|Jag har kört siffrorna tre gånger. Det blir samma bild varje gång.|숫자를 세 번 돌려 봤어요. 매번 같은 그림이 나와요. (10월 21일 화요일 오후 2시. 정형외과 3층의 작은 회의실. 벽에는 무릎 관절 해부도 포스터. 아미르의 노트북은 지역 내부망에만 연결되어 있다. 퍼-울로프가 창가에 서 있다)
+Per-Olof|B2|Innan ni visar något: revisorerna beslutade i morse att utvidga uppdraget. Väntetiderna blir ett eget kapitel i samma rapport – och rapporten kommer fortfarande den 31 oktober.|뭘 보여 주시기 전에요. 감사인들이 오늘 아침 의뢰 범위를 넓히기로 결정했어요. 대기시간은 같은 보고서의 별도 장이 되고, 보고서는 여전히 10월 31일에 나옵니다.
+Elin|B1|Tio dagar för ett helt nytt kapitel. Vi gör det, men vi skriver tydligt vad vi inte hann granska.|완전히 새로운 장 하나에 열흘이네요. 할게요. 다만 저희가 미처 감사하지 못한 건 분명하게 적을 거예요. (숨이 조금 차다. 솔나의 Lärkan 이사회에서 바로 오는 길이다)
+Jonas|A2|Hur gick det i Solna?|솔나는 어떻게 됐어?
+Elin|A2|Bra. Charlotte läste rapporten högt. Ingen avbröt.|좋았어. 샤를로테가 보고서를 소리 내서 읽었어. 아무도 끼어들지 않았고.
+Per-Olof|B1|Tilläggsuppdraget är på 120 000 kronor, med ett tak på 140 000. Det står i dagens protokoll, så att ingen kan säga att vi bestämde det i korridoren.|추가 의뢰는 12만 크로나, 상한은 14만이에요. 오늘 회의록에 적혀 있으니, 아무도 우리가 복도에서 정했다고 말하지 못할 겁니다.
+Sofia|B1|Innan vi börjar med köerna – hur gick intervjuerna förra veckan? Jag var ju bara med på den första.|대기열 시작하기 전에요. 지난주 인터뷰는 어떻게 됐어요? 저는 첫 번째만 같이 갔잖아요.
+Jonas|B2|Johan Wester sa i går att han skickade Brännströms brev vidare till riskgruppen och utgick från att det hanterades. Monica Strid säger att hon aldrig har sett loggen. Alla skickade vidare, ingen tog emot.|요한 베스테르는 어제, 브렌스트룀의 편지를 위험 관리 그룹에 넘겼고 처리되는 줄 알았다고 했어. 모니카 스트리드는 로그를 본 적이 한 번도 없대. 다들 넘기기만 했고, 받은 사람은 없어.
+Amir|B2|Och versionshistoriken som kom i fredags visar att alla tre statusändringarna gjordes från samma dator i programkontorets projektrum. En dator som fem personer delar.|그리고 지난 금요일에 온 변경 이력을 보면, 상태 변경 세 번이 전부 사업단 프로젝트룸의 같은 컴퓨터에서 이뤄졌어요. 다섯 명이 같이 쓰는 컴퓨터요.
+Elin|C1|Då får det kapitlet vila tills vi har fått skriftliga svar från alla fem. Nu till köerna – visa oss det som fick dig att ringa mig klockan sju i morse.|그럼 그 장은 다섯 명 모두에게서 서면 답변을 받을 때까지 묵혀 두자. 이제 대기열. 오늘 아침 7시에 나한테 전화하게 만든 걸 보여 줘.
+Amir|B1|Det här är ortopedins operationskö: höfter, knän och axlar. Sedan januari 2024 har ungefär 6 800 patienter väntat på en operation här.|이게 정형외과 수술 대기열이에요. 고관절, 무릎, 어깨. 2024년 1월부터 여기서 약 6,800명이 수술을 기다렸어요.
+Per-Olof|B1|Och enligt regionens egen rapport opereras 88 procent inom 90 dagar. För två år sedan var det 64. Det har vi varit mycket stolta över.|그리고 지역 자체 보고서에 따르면 88%가 90일 안에 수술을 받아요. 2년 전엔 64%였죠. 그걸 우린 아주 자랑스러워했어요.
+Sofia|A2|Vad betyder 90 dagar här?|여기서 90일은 무슨 뜻이에요?
+Amir|B2|Vårdgarantin, ”0-3-90-90”. Kontakt med vården samma dag, en medicinsk bedömning i primärvården inom tre dagar, ett besök i den specialiserade vården inom 90 dagar och behandling inom 90 dagar efter beslut. Det är den sista 90-dagarsgränsen vi tittar på.|대기시간 보장, '0-3-90-90'이야. 당일에 의료기관과 연락, 사흘 안에 1차 의료에서 의학적 평가, 90일 안에 전문 진료, 그리고 결정 후 90일 안에 치료. 우리가 보는 건 마지막 90일 기한이야.
+Jonas|B1|Och var är problemet? 88 procent låter ju bra.|그럼 문제가 어디 있어? 88%면 좋게 들리는데.
+Amir|B2|Problemet är vilka som inte räknas. Patienter som själva väljer att vänta tas bort ur mätningen. Det kallas patientvald väntan. 2023 gällde det fem procent av patienterna här. Sedan sommaren 2024 är det 21 procent.|문제는 누가 안 세어지느냐예요. 스스로 기다리기를 선택한 환자는 측정에서 빠져요. 그걸 '환자 선택 대기'라고 해요. 2023년엔 여기서 환자의 5%가 그랬어요. 2024년 여름부터는 21%고요.
+Elin|B2|Från fem till 21 på ett år. Har patienterna i Mälarvik plötsligt blivit mer tålmodiga?|1년 만에 5에서 21로. Mälarvik 환자들이 갑자기 참을성이 많아지기라도 했나?
+Amir|B1|Titta på när det händer. Det här är dagen då patienten flyttas till patientvald väntan, räknat från beslutet.|언제 일어나는지 보세요. 이건 결정일부터 세어서, 환자가 '환자 선택 대기'로 옮겨지는 날이에요. (화면에 막대그래프. 가로축은 0일부터 120일. 대부분 낮고 평평한데, 85일부터 89일 사이에 막대 다섯 개가 천장까지 솟아 있다)
+Jonas|A2|Vad är det där?|저건 뭐야?
+Amir|B1|Patienterna flyttades till en annan kö precis innan gränsen. Av 1 340 omregistreringar sedan juni 2024 gjordes 604 mellan dag 85 och dag 89.|환자들이 기한 직전에 다른 대기열로 옮겨졌어요. 2024년 6월 이후 재분류 1,340건 중 604건이 85일째에서 89일째 사이에 이뤄졌어요.
+Per-Olof|B2|Nästan hälften, på fem dagar av nittio. Det kan väl knappast vara en slump?|거의 절반이, 90일 중 닷새 안에요. 그게 우연일 리는 없겠죠?
+Elin|C1|Det kan vara en slump, en rutin eller en metod. Diagrammet berättar när det händer, men inte varför – och det är frågan om varför som avgör vad vi får skriva.|우연일 수도, 관행일 수도, 방법일 수도 있어요. 그래프는 언제 일어나는지는 말해 주지만, 왜인지는 말해 주지 않아요. 그리고 저희가 뭘 쓸 수 있는지를 정하는 건 바로 그 '왜'예요.
+Sofia|B1|Vad står det i journalen när en patient flyttas?|환자가 옮겨질 때 의료기록엔 뭐라고 적혀 있어?
+Amir|B1|Nästan alltid samma mening: ”Patienten önskar avvakta.” Ordagrant, i över tusen journaler.|거의 언제나 같은 문장이야. "환자가 대기를 원함." 천 건이 넘는 기록에 토씨 하나 안 틀리고.
+Jonas|B2|Och vem skriver den meningen? Läkaren som träffar patienten?|그 문장은 누가 써? 환자를 만나는 의사?
+Amir|B2|Nej, planeringsenheten. Tre användarkonton står för 71 procent av omregistreringarna. Och i de flesta fall finns det ingen anteckning om att någon har pratat med patienten.|아뇨, 수술 계획팀이요. 사용자 계정 세 개가 재분류의 71%를 차지해요. 그리고 대부분은 누가 환자와 이야기했다는 기록이 없어요.
+Per-Olof|C1|Ni förstår säkert vad det skulle innebära om det stämmer. Då har regionen inte bara rapporterat fel siffror – då har patienter som hade rätt att opereras någon annanstans, på regionens bekostnad, aldrig fått veta det.|그게 사실이라면 무슨 뜻인지 아시겠죠. 지역이 숫자만 잘못 보고한 게 아니게 돼요. 지역 비용으로 다른 곳에서 수술받을 권리가 있던 환자들이 그걸 한 번도 듣지 못한 거죠.
+Elin|B2|Just därför får vi inte gissa. Vi måste fråga patienterna själva, och det betyder ett stickprov.|바로 그래서 짐작하면 안 돼요. 환자들에게 직접 물어야 하고, 그건 표본 조사를 뜻해요.
+Sofia|B1|Hur många ska vi ringa? Alla 1 340?|몇 명한테 전화해야 해요? 1,340명 전부?
+Elin|C1|Två urval. Sextio patienter slumpmässigt ur alla 1 340 – det säger något om helheten. Och fyrtio, riskbaserat, ur de 604 vid gränsen – det säger något om mönstret, men aldrig om helheten. De två får inte blandas ihop i rapporten.|표본 두 개. 1,340명 전체에서 무작위로 60명. 그건 전체에 대해 뭔가를 말해 줘. 그리고 기한 직전의 604명 중에서 위험 기반으로 40명. 그건 패턴에 대해선 말해 주지만, 전체에 대해선 절대 아니야. 보고서에서 둘을 섞으면 안 돼. (노란 노트에 두 칸을 그린다. SLUMP 60 / RISK 40)
+Amir|B2|Jag drar det slumpmässiga urvalet med ett fast startvärde, så att vem som helst kan göra om det och få exakt samma sextio patienter.|무작위 표본은 고정 시드값으로 뽑을게요. 누가 다시 해 봐도 정확히 같은 60명이 나오게요.
+Per-Olof|B1|Och samtalen? Patientuppgifterna får inte lämna regionen.|그럼 통화는요? 환자 정보는 지역 밖으로 나갈 수 없어요.
+Jonas|B1|Då ringer vi härifrån. Har ni ett rum med en telefon och en dörr som går att stänga?|그럼 여기서 전화하죠. 전화 있고 문 닫히는 방 있어요?
+Per-Olof|A2|I källaren. Det är inte vackert, men det finns kaffe.|지하에 있어요. 예쁘진 않지만 커피는 있어요.
+# 장면 2 — Region Mälarvik 청사 지하 기록실, 10월 23일 목요일 오전 10시
+Sofia|B1|Linus artikel låg ute i går morse. Har någon på regionen sagt något om den?|리누스 기사 어제 아침에 나왔잖아. 지역 쪽에서 누가 뭐라고 했어? (10월 23일 목요일 오전 10시. 청사 지하 기록실. 회색 서류철이 가득한 철제 선반, 깜빡이는 형광등, 탁상 전화 두 대와 보온병 커피. 지역은 어제 표본으로 뽑힌 환자 100명에게 '감사인이 전화할 수 있다'는 편지를 보냈다. 두 사람은 아침 8시부터 전화를 돌리고 있다)
+Amir|B2|Presstjänsten svarade att riskerna ”hanterades enligt gällande rutiner”, men ingen har påstått att han har fel i sak. Nästa på listan: slump 23, en kvinna på 74, knä.|공보실은 위험이 "현행 절차에 따라 관리되었다"고 답했어. 그런데 기사 내용이 틀렸다고 한 사람은 아무도 없어. 다음은 무작위 23번, 74세 여성, 무릎.
+Sofia|B1|Hej, jag heter Sofia Mäkinen och ringer på uppdrag av Region Mälarviks revisorer. Har du fått vårt brev?|안녕하세요, 저는 소피아 매키넨이고, Region Mälarvik 감사인들의 의뢰로 전화드렸어요. 저희 편지 받으셨어요? (수화기를 든다)
+Ulla|A2|Ja, det kom i går. Men jag förstod inte riktigt vad det gällde.|네, 어제 왔어요. 그런데 무슨 얘긴지 잘 모르겠더라고요.
+Sofia|B1|Det gäller din väntan på operation. Du väntar på ett nytt knä, eller hur?|수술 대기에 관한 거예요. 무릎 인공관절 수술을 기다리고 계시죠?
+Ulla|A2|Ja, sedan i mars. Det gör ont när jag går i trappan.|네, 3월부터요. 계단을 오르면 아파요.
+Sofia|A2|Har du bett om att få vänta?|기다리겠다고 요청하셨어요?
+Ulla|A2|Nej! Varför skulle jag göra det? Jag vill ju bli opererad.|아뇨! 제가 왜 그러겠어요? 수술을 받고 싶은데요.
+Sofia|B1|I journalen står det att du själv ville vänta. Har någon från sjukhuset ringt dig och erbjudit en tid?|의료기록에는 본인이 기다리기를 원했다고 적혀 있어요. 병원에서 누가 전화해서 수술 날짜를 제안한 적이 있나요?
+Ulla|B1|Nej, ingen har ringt. I juni fick jag ett brev om att jag stod kvar i kön. Det var allt.|아뇨, 아무도 전화 안 했어요. 6월에 아직 대기열에 있다는 편지를 받았어요. 그게 다예요.
+Sofia|B2|Tack, Ulla. Jag kan inte lova dig någon tid i dag, men jag kan lova att det du har berättat kommer med i underlaget som revisorerna får läsa.|고마워요, 울라. 오늘 수술 날짜를 약속드릴 순 없지만, 지금 해 주신 이야기가 감사인들이 읽을 자료에 들어간다는 건 약속드릴 수 있어요.
+Ulla|A2|Det är ju något. Tack för att du ringde.|그래도 그게 어디예요. 전화 줘서 고마워요.
+Amir|B1|Hon är den sjunde av tio i dag som säger nästan samma sak: ”Ingen har ringt.”|오늘 열 명 중에 일곱 번째야. 거의 같은 말을 하는 사람. "아무도 전화 안 했어요." (소피아가 수화기를 내려놓자 화면에서 눈을 떼지 않고)
+Sofia|B2|Skriv ner exakt vad hon sa, inte vår sammanfattning. Och kom ihåg att hon inte minns något samtal – det är inte samma sak som att inget samtal ägde rum.|울라가 한 말을 그대로 적어. 우리 요약 말고. 그리고 기억해. 울라가 통화를 기억 못 한다는 거지, 통화가 없었다는 것과 같은 게 아니야.
+Amir|B2|Jag vet. Därför jämför jag med planeringsenhetens telefonlogg. Från mars till juli finns det inte ett enda utgående samtal till hennes nummer.|알아. 그래서 수술 계획팀 통화 기록이랑 맞춰 보는 거야. 3월부터 7월까지 울라 번호로 건 전화는 단 한 통도 없어.
+Sofia|A2|Bra. Nästa.|좋아. 다음.
+Amir|B1|Risk 07. En man på 58 som väntar på en ny höft. Jag tar honom, du har pratat i två timmar.|위험 7번. 고관절 수술 기다리는 58세 남성. 이번엔 내가 할게. 너 두 시간째 통화했잖아.
+Mehmet|A2|Hallå? Vem är det?|여보세요? 누구세요? (뒤로 버스 엔진 소리)
+Amir|B1|Hej, mitt namn är Amir Nouri, och jag ringer på uppdrag av Region Mälarviks revisorer. Det gäller din väntan på en höftoperation. Har du några minuter?|안녕하세요, 저는 아미르 누리라고 하고, Region Mälarvik 감사인들의 의뢰로 전화드렸습니다. 고관절 수술 대기 건입니다. 잠시 시간 괜찮으세요?
+Mehmet|B1|Du låter som någon som ringer från banken. Men okej, jag kör buss och har rast i tio minuter.|은행에서 전화한 사람 같네요. 근데 뭐, 괜찮아요. 버스 운전하는데 10분 쉬는 시간이에요.
+Amir|B1|Stämmer det som står i journalen, att du själv valde att vänta i somras?|의료기록에 적힌 게 맞나요? 지난여름에 본인이 기다리기로 선택하셨다는 거요? (소피아가 손가락 네 개를 펴 보인다. 올해 네 번째 '은행원')
+Mehmet|B2|Valde och valde. De ringde en fredag och erbjöd en tid på en privatklinik i Skåne, femtio mil härifrån, tisdagen därpå. Jag har tre barn och jobbar skift. Jag sa att jag inte kunde just den dagen.|선택은 무슨 선택이요. 금요일에 전화가 와서 여기서 500킬로미터 떨어진 스코네의 민간 병원에 바로 다음 주 화요일 날짜를 주더라고요. 애가 셋이고 교대 근무를 해요. 그날은 안 된다고 했죠.
+Amir|B2|Och sa de vad det innebar att tacka nej? Att du då hamnade utanför vårdgarantin?|거절하면 어떻게 되는지 말해 주던가요? 그러면 대기시간 보장에서 빠진다는 거요?
+Mehmet|B1|Nej. De sa: ”Då ställer vi dig i kön igen.” Jag trodde att jag stod kvar på samma plats.|아뇨. "그럼 다시 대기열에 넣어 드릴게요"라고 했어요. 저는 원래 자리에 그대로 있는 줄 알았죠.
+Amir|B1|Tack, det här är mycket värdefullt. Ditt namn kommer inte att stå någonstans.|감사합니다. 정말 소중한 말씀이었어요. 성함은 어디에도 나가지 않습니다. (전화 너머로 "날짜 잡히면 전화 줘요"라는 말이 들리고 통화가 끊긴다)
+Sofia|C1|Det där är svårare än Ulla. Ett erbjudande som i praktiken inte går att ta emot är formellt ändå ett erbjudande, och kliniken kommer att säga att det var patientens eget val.|이건 울라보다 어려워. 실제로는 받아들일 수 없는 제안이라도 형식상으로는 여전히 제안이고, 병원은 환자 본인의 선택이었다고 말할 거야.
+Amir|B2|Asså, femtio mil med fyra dagars varsel. Det är inget val, det är typ en fälla.|아니, 500킬로미터에 나흘 전 통보잖아. 그건 선택이 아니라 거의 덫이지.
+Sofia|B2|Kanske. Men ”fälla” är ditt ord, inte hans. I rapporten skriver vi vad han erbjöds, när och med hur långt varsel – sedan får läsaren dra slutsatsen.|그럴지도. 하지만 '덫'은 네 말이지, 그 사람 말이 아니야. 보고서에는 그분이 뭘, 언제, 며칠 전에 제안받았는지를 쓰는 거야. 결론은 읽는 사람이 내게 두고.
+Amir|B2|Okej. Läget: i slumpurvalet har vi nått 41 av 60. 33 säger att de aldrig har bett om att vänta, fem säger ja och tre minns inte. I riskurvalet har vi nått 29 av 40, och 26 har aldrig bett om något. Nio av dem fick, precis som han, ett erbjudande med några dagars varsel och långt bort.|알았어. 현황. 무작위 표본은 60명 중 41명이랑 통화했어. 33명은 기다리겠다고 한 적이 없다고 하고, 5명은 했다고, 3명은 기억이 안 난대. 위험 기반 표본은 40명 중 29명이랑 통화했고, 26명은 아무것도 요청한 적이 없대. 그중 9명은 저분처럼 며칠 전 통보로, 먼 곳의 날짜를 제안받았고.
+Sofia|C1|Då kan vi uttala oss om helheten med en viss osäkerhet, men om mönstret vid gränsen med betydligt större tyngd. Skicka siffrorna till Elin. Det är torsdag, så hon är ledig – men jag slår vad om att hon redan har räknat ut konfidensintervallet.|그럼 전체에 대해선 어느 정도 불확실성을 안고 말할 수 있고, 기한 직전의 패턴에 대해선 훨씬 더 무게 있게 말할 수 있겠네. 숫자는 엘린한테 보내. 목요일이라 쉬는 날이지만, 장담하는데 벌써 신뢰구간 계산해 놨을걸.
+# 장면 3 — Mälarviks sjukhus 정형외과, 행정과장실, 10월 27일 월요일 오후 1시
+Lars|B1|Slå er ner. Jag har en halvtimme, sedan har vi planeringsmöte. Kaffet kommer från automaten, tyvärr.|앉으세요. 30분 있어요. 그다음엔 수술 계획 회의가 있고요. 커피는 자판기 거예요, 미안하지만. (10월 27일 월요일 오후 1시. 주차장이 내려다보이는 좁은 사무실. 화이트보드의 수술실 일정표에 빨간 글씨로 '폐쇄'가 세 칸. 라르스 뉘크비스트는 와이셔츠 소매를 걷어 올렸다)
+Jonas|A2|Det går bra. Tack för att du tar emot oss.|괜찮아요. 만나 주셔서 고맙습니다.
+Lars|B2|Jag har läst era frågor, men jag förstår inte riktigt vad revisorerna är ute efter. På ett och ett halvt år har vi gått från den sämsta kön i regionen till en av de bästa.|질문지는 읽었어요. 그런데 감사인들이 뭘 노리는 건지 잘 모르겠네요. 1년 반 만에 우린 지역에서 제일 나쁜 대기열에서 제일 좋은 대기열 중 하나가 됐어요.
+Elin|B2|Det är just det vi vill förstå. Andelen patientvald väntan har gått från fem procent 2023 till 21 procent sedan sommaren 2024. Hur förklarar du det?|바로 그걸 이해하고 싶어요. 환자 선택 대기 비율이 2023년 5%에서 2024년 여름 이후 21%가 됐어요. 그걸 어떻게 설명하시겠어요?
+Lars|C1|Vi började helt enkelt registrera korrekt. Tidigare var vi slarviga: patienter som tackade nej till en erbjuden tid blev kvar i den vanliga kön, trots att reglerna säger att de ska registreras som patientvald väntan. Så gör alla kliniker – fråga vem ni vill.|그냥 제대로 등록하기 시작했을 뿐이에요. 전엔 엉성했죠. 제안된 날짜를 거절한 환자가 일반 대기열에 그대로 남아 있었어요. 규정상으론 환자 선택 대기로 등록해야 하는데도요. 다들 그렇게 해요. 누구한테든 물어보세요.
+Elin|C1|Vi har frågat. Ögonkliniken och öron-näsa-hals här på sjukhuset ligger på sex till åtta procent, och de lyder under exakt samma regler. Ingen av dem har en topp tre dagar före gränsen.|물어봤어요. 이 병원 안과와 이비인후과는 6에서 8% 사이고, 똑같은 규정을 따라요. 그리고 기한 사흘 전에 급증하는 곳은 하나도 없어요.
+Lars|B2|Ortopedi är inte ögon. Våra patienter är äldre, de har barnbarn som ska passas och sommarstugor som ska öppnas. Många vill faktiskt vänta.|정형외과는 안과가 아니에요. 우리 환자들은 나이가 더 많고, 돌봐야 할 손주가 있고, 열어야 할 여름 별장이 있어요. 정말로 기다리고 싶어 하는 사람이 많아요.
+Sofia|B1|Vi har ringt patienter i ett slumpmässigt urval. Av de 41 som vi nådde säger 33 att de aldrig har bett om att få vänta.|저희가 무작위 표본으로 환자들에게 전화를 했어요. 연락이 닿은 41명 중 33명이 기다리겠다고 요청한 적이 없다고 해요.
+Lars|B2|Folk minns inte vad de har sagt i telefon för fyra månader sedan. Det vet du lika väl som jag.|사람들은 넉 달 전에 전화로 뭐라고 했는지 기억 못 해요. 그건 당신도 나만큼 잘 알잖아요.
+Sofia|B2|Det stämmer, och därför har vi också gått igenom planeringsenhetens telefonlogg. För de flesta av dem finns det inget samtal alls före omregistreringen.|맞아요. 그래서 수술 계획팀 통화 기록도 함께 살펴봤어요. 그중 대부분은 재분류 전에 통화 자체가 없었어요.
+Lars|A2|Inget samtal alls?|통화가… 아예 없었다고요? (커피 컵을 내려놓는다)
+Jonas|B2|Lars, vi är inte här för att sätta dit någon. Vi vill förstå hur en klinik som kämpade blev bäst i regionen på ett år. Vad hände våren 2024?|라르스, 저희는 누굴 잡으러 온 게 아니에요. 고전하던 병원이 어떻게 1년 만에 지역 최고가 됐는지 이해하고 싶은 거예요. 2024년 봄에 무슨 일이 있었나요?
+Lars|B2|Vi missade målet. Regionen hade infört en tillgänglighetspremie: 4,5 miljoner kronor per tertial till kliniken om minst 85 procent opererades inom vårdgarantin. Första tertialet låg vi på 66. Pengarna uteblev, och i juni drog jag in två tjänster som operationssjuksköterska.|목표를 놓쳤어요. 지역이 '접근성 보너스'를 도입했거든요. 4개월마다, 85% 이상이 대기시간 보장 안에 수술을 받으면 병원에 450만 크로나. 첫 4개월에 우린 66%였어요. 돈은 안 들어왔고, 6월에 제가 수술실 간호사 자리 두 개를 없앴죠.
+Elin|B1|Och vad hände sedan?|그다음엔 무슨 일이 있었나요?
+Lars|C1|Sedan kom det här, från regionkontorets uppföljningsenhet, med hälso- och sjukvårdsdirektören på kopia: ”Säkerställ att registreringen av patientvald väntan är korrekt och fullständig inför mätdatum.” Ingen skrev vad vi skulle göra. Alla förstod ändå.|그다음에 이게 왔어요. 지역 사무국 성과관리과에서, 보건의료국장을 참조로 넣어서. "측정일 전에 환자 선택 대기 등록이 정확하고 빠짐없도록 하십시오." 뭘 하라고는 아무도 안 썼어요. 그래도 다들 알아들었죠. (모니터를 돌려 2024년 5월 날짜의 메일을 보여 준다)
+Jonas|B1|Och vad gjorde du med det mejlet?|그 메일로 뭘 하셨어요?
+Lars|B2|Jag skrev ett eget till planeringsenheten: om patienten inte kan ta en erbjuden tid före gränsen, registrera patientvald väntan. Och vi erbjöd tider där det fanns lediga – i Skåne, i Dalarna, var som helst.|수술 계획팀에 제 메일을 따로 썼어요. 환자가 기한 전에 제안받은 날짜를 못 받으면, 환자 선택 대기로 등록하라고. 그리고 빈자리가 있는 곳 날짜를 제안했어요. 스코네든, 달라르나든, 어디든.
+Sofia|B2|Men i de flesta fallen i vårt urval erbjöds ingen tid alls. Hur registrerades de?|그런데 저희 표본에선 대부분 날짜 제안 자체가 없었어요. 그분들은 어떻게 등록된 거죠?
+Lars|C1|Då … registrerades de nog ändå. Planerarna hade sextio patienter på listan inför varje mätdatum och tre dagar på sig. Jag frågade aldrig hur de gjorde – och det var kanske just därför som jag aldrig frågade.|그건… 아마 그래도 등록됐겠죠. 계획 담당자들은 측정일마다 명단에 환자가 60명이었고, 시간은 사흘이었어요. 저는 어떻게 하는지 한 번도 묻지 않았어요. 어쩌면 바로 그래서 한 번도 묻지 않았던 거겠죠.
+Elin|C1|Du förstår att det betyder att uppemot tusen patienter kan ha förlorat en rättighet som de aldrig visste att de hade?|그게 무슨 뜻인지 아시죠? 천 명 가까운 환자가, 있는 줄도 몰랐던 권리를 잃었을 수 있다는 거예요.
+Lars|B2|Det förstår jag nu. Men premien kom tillbaka i höstas, och för de pengarna fick jag tillbaka två sjuksköterskor. Fler operationer, kortare köer på riktigt. Var det också fel?|이제는 알아요. 하지만 작년 가을에 보너스가 다시 들어왔고, 그 돈으로 간호사 두 명을 되찾았어요. 수술이 늘었고, 대기열이 진짜로 줄었어요. 그것도 잘못이었나요?
+Jonas|C1|Det är inte vår sak att avgöra om det var värt det. Men en siffra som köper två tjänster är fortfarande en siffra som inte stämmer – och de som läser den i nämnden fattar beslut på den.|그럴 가치가 있었는지는 저희가 판단할 일이 아니에요. 하지만 일자리 두 개를 사 준 숫자라도, 맞지 않는 숫자인 건 여전해요. 그리고 위원회에서 그 숫자를 읽는 사람들은 그걸 근거로 결정을 내려요.
+Lars|B1|Kommer mitt namn att stå i rapporten?|제 이름이 보고서에 나오나요?
+Elin|C1|Rapporten beskriver roller och beslut, inte personer. Men ditt mejl till planeringsenheten är en allmän handling, och vad regionen som arbetsgivare gör med det är inte vårt beslut.|보고서는 사람이 아니라 역할과 결정을 기술해요. 하지만 수술 계획팀에 보내신 메일은 공개 문서이고, 고용주로서 지역이 그걸 어떻게 할지는 저희가 정할 일이 아니에요.
+Lars|B2|Och planerarna? De gjorde bara det jag skrev. Två av dem har jobbat här i över tjugo år.|계획 담당자들은요? 그 사람들은 제가 쓴 대로 했을 뿐이에요. 그중 둘은 여기서 20년 넘게 일했어요.
+Sofia|B2|Det är därför vi frågar dig först och inte dem. Men vi kommer att behöva prata med dem också – med facket närvarande, om de vill.|그래서 그분들이 아니라 과장님께 먼저 묻는 거예요. 하지만 그분들과도 이야기해야 할 거예요. 원하시면 노조가 함께한 자리에서요.
+Lars|A2|Okej. Jag skickar båda mejlen till er i kväll.|알겠어요. 메일 두 통 다 오늘 저녁에 보내 드릴게요.
+Jonas|C1|Tack. En sista fråga, Lars: om det vore du som bestämde, hur skulle du mäta en kö så att ingen kunde städa den?|고맙습니다. 마지막 질문 하나요, 라르스. 과장님이 정할 수 있다면, 아무도 '청소'할 수 없게 대기열을 어떻게 재시겠어요?
+Lars|B2|Jag skulle mäta hur länge folk faktiskt väntar, från beslut till operation, oavsett vilken kö de står i. Den siffran blir fulare. Men den går inte att flytta.|사람들이 실제로 얼마나 기다리는지를 재겠어요. 결정부터 수술까지, 어느 대기열에 있든 상관없이. 그 숫자는 더 보기 흉하겠죠. 하지만 옮길 수는 없어요. (창밖 주차장을 오래 바라본다)
+# 장면 4 — 쇠데르말름 호른스가탄, Klarsyn 사무실, 10월 28일 화요일 저녁 6시 반
+Amir|B2|Jag har skrivit ett utkast till kapitel fem. Första meningen: ”Tre användarkonton i planeringsenheten står för 71 procent av omregistreringarna.”|5장 초안 썼어요. 첫 문장은 이거예요. "수술 계획팀의 사용자 계정 세 개가 재분류의 71%를 차지한다." (10월 28일 화요일 저녁 6시 반. 커피 머신 밑 행주는 오늘도 젖어 있다. 탁자 위에 라르스가 보낸 메일 두 통의 출력본. 화이트보드에는 엘린의 글씨로 두 칸. 'PERSON' / 'SYSTEM')
+Sofia|B2|Stryk den. Det låter som om vi har hittat tre skurkar. Det är tre planerare, två av dem med över tjugo år på kliniken, som gjorde precis det som deras chef skrev.|지워. 우리가 악당 셋을 찾아낸 것처럼 들려. 그 사람들은 계획 담당자 셋이고, 그중 둘은 그 병원에서 20년 넘게 일했고, 과장이 쓴 대로 했을 뿐이야.
+Amir|B2|Men det är sant. Ska vi låta bli att skriva något som är sant bara för att det känns orättvist?|그래도 사실이잖아. 불공평하게 느껴진다는 이유만으로 사실인 걸 안 써야 돼?
+Jonas|B1|Vänta. Vad är frågan bakom frågan? Letar vi efter den som ljög, eller efter det som fick folk att ljuga?|잠깐. 질문 뒤의 질문은 뭐지? 우리가 찾는 게 거짓말한 사람이야, 아니면 사람들을 거짓말하게 만든 거야?
+Elin|C1|Att peka ut en enskild tjänsteman vore bekvämt, men det skulle dölja ett systemfel. Nämnden byggde en premie på ett enda mått, regionkontoret skickade ett mejl som alla kunde tolka, och ingen frågade varför ett mått fyrdubblades på ett år.|공무원 한 명을 지목하는 건 편하겠지만, 그건 시스템의 결함을 가리게 될 거야. 위원회는 지표 하나에 보너스를 걸었고, 지역 사무국은 누구나 알아서 해석할 수 있는 메일을 보냈고, 지표 하나가 1년 만에 네 배가 됐는데 아무도 왜냐고 묻지 않았어.
+Amir|B1|Så siffran om de tre kontona försvinner?|그럼 계정 세 개 얘기는 빠지는 거예요?
+Elin|B2|Nej, den står kvar i arbetspapperen och i bilagan, utan namn. Men den ska inte stå först. Det första läsaren ska se är vad som hände med patienterna.|아니, 감사 조서랑 부록에는 남아. 이름 없이. 하지만 맨 앞에 오면 안 돼. 읽는 사람이 제일 먼저 봐야 할 건 환자들에게 무슨 일이 있었느냐야.
+Sofia|B2|Och vad som måste göras för dem. Alla 1 340 bör kontaktas och få veta att de kan ha rätt att opereras någon annanstans på regionens bekostnad.|그리고 그 사람들을 위해 뭘 해야 하는지도요. 1,340명 전원에게 연락해서, 지역 비용으로 다른 곳에서 수술받을 권리가 있을 수 있다는 걸 알려야 해요.
+Jonas|B2|När målet blir viktigare än verkligheten börjar man mäta fel saker. Premien var inte ond i sig. Den mätte bara en kö som gick att flytta.|목표가 현실보다 중요해지면 엉뚱한 걸 재기 시작하지. 보너스 자체가 나쁜 건 아니었어. 옮길 수 있는 대기열을 쟀을 뿐이지.
+Amir|B2|Men Lars då? Han skrev mejlet. Han visste vad som skulle hända – han sa ju själv att han inte ville fråga.|그럼 라르스는요? 메일을 쓴 건 그 사람이에요. 무슨 일이 생길지 알았어요. 자기 입으로 묻고 싶지 않았다고 했잖아요.
+Elin|C1|Strukturen förklarar hans handlande, men den ursäktar det inte. Därför beskriver vi hans roll som chef, med hans eget mejl som underlag. Vad arbetsgivaren gör med det får arbetsgivaren avgöra.|구조는 그 사람의 행동을 설명해 주지만, 면죄해 주지는 않아. 그래서 그 사람이 쓴 메일을 근거로, 관리자로서의 역할을 기술하는 거야. 고용주가 그걸로 뭘 할지는 고용주가 정할 일이고.
+Sofia|C1|Och vi skriver att han lämnade ut mejlen själv, samma kväll. Om rapporten straffar den som till slut berättade men skonar dem som skrev det första mejlet, lär sig nästa chef bara en sak: att aldrig skriva något.|그리고 그 사람이 메일을 자기 손으로, 그날 저녁에 내줬다는 것도 써요. 보고서가 결국 털어놓은 사람은 벌하고 첫 메일을 쓴 사람들은 봐준다면, 다음 관리자가 배우는 건 딱 하나예요. 절대 아무것도 쓰지 말 것.
+Amir|A2|Okej. Jag skriver om det.|알았어요. 다시 쓸게요.
+Jonas|B2|Och rekommendationerna? Per-Olof vill ha något som nämnden kan ta ställning till den 18 november.|그럼 권고 사항은? 퍼-울로프는 위원회가 11월 18일에 판단할 수 있는 걸 원해.
+Elin|B2|Tre stycken. Att alla som registrerats med patientvald väntan kontaktas skriftligt. Att ingen premie får hänga på ett enda mått som kliniken själv registrerar. Och att patientvald väntan bara får registreras när patientens eget besked är dokumenterat.|세 개. 환자 선택 대기로 등록된 사람 전원에게 서면으로 연락할 것. 병원이 스스로 등록하는 지표 하나에 보너스를 걸지 말 것. 그리고 환자 본인의 의사가 기록된 경우에만 환자 선택 대기로 등록할 것.
+Amir|C1|Och en fjärde: att uppföljningsenheten varje månad jämför andelen patientvald väntan mellan klinikerna. En fyrdubbling borde ha fått någon att reagera redan hösten 2024.|그리고 네 번째요. 성과관리과가 매달 병원별 환자 선택 대기 비율을 비교할 것. 네 배로 뛰었으면 2024년 가을에 이미 누군가 반응했어야 해요.
+Elin|C1|Fyra, då. Och om stickprovet skriver vi att 33 av 41 nådda patienter i slumpurvalet förnekar att de har bett om att vänta – vilket, med de osäkerheter som redovisas, motsvarar ungefär två tredjedelar till nio av tio av alla omregistrerade. Om riskurvalet säger vi bara att mönstret vid gränsen är tydligt. Inte en procentsats till.|그럼 네 개. 그리고 표본에 대해선 이렇게 써. 무작위 표본에서 연락이 닿은 41명 중 33명이 기다리겠다고 요청한 사실을 부인한다. 이는 함께 밝힌 불확실성을 고려하면, 재분류된 전체의 대략 3분의 2에서 10명 중 9명에 해당한다. 위험 기반 표본에 대해선 기한 직전의 패턴이 뚜렷하다는 것만 말해. 퍼센트는 하나도 더 붙이지 말고.
+Jonas|B1|Linus kommer att vilja ha en procentsats.|리누스는 퍼센트를 원할 텐데.
+Elin|B2|Den får han inte. Men … du hade rätt om honom förra veckan. Han väntade, och artikeln höll. Det betyder inte att jag tycker att du gjorde rätt – bara att det gick bra.|그건 못 줘. 그런데… 지난주 그 사람에 대해선 당신 말이 맞았어. 기다려 줬고, 기사도 버텼어. 그렇다고 당신이 옳았다는 건 아니야. 결과가 좋았다는 것뿐이지. (요나스를 보지 않고 노란 노트를 넘긴다)
+Jonas|B1|Jag tar det. Det är nästan en komplimang.|그 정도면 받을게. 거의 칭찬이네.
+Per-Olof|B1|God morgon. Jag gick förbi och såg att ni hade tänt. Har ni hört?|좋은 아침이에요. 지나가다 불이 켜져 있길래요. 소식 들으셨어요? (엿새 뒤, 11월 3일 월요일 아침 8시 반. 보고서는 10월 30일 목요일, 엘린의 휴무일 밤 9시 58분에 발송됐다. 밤 10시 2분 전. 퍼-울로프가 『Stockholms-Kuriren』을 접어 들고 문 앞에 서 있다)
+Amir|A2|Nej. Vad har hänt?|아뇨. 무슨 일인데요?
+Per-Olof|C1|Regionstyrelsens ordförande meddelade i går kväll att hon avgår. Hon skriver att hon ”tar det politiska ansvaret för brister i styrning och uppföljning” – en mening som jag misstänker att någon annan har formulerat åt henne.|지역 집행위원장이 어젯밤 사임을 발표했어요. "관리와 후속 점검의 결함에 대해 정치적 책임을 진다"고 썼더군요. 제가 보기엔 다른 누가 대신 다듬어 준 문장 같지만요.
+Jonas|C1|Det var inte därför vi skrev rapporten. Vi skrev den för att 1 340 patienter skulle få ett brev – och för att ingen i nämnden ska kunna säga att de inte visste.|저희가 보고서를 쓴 건 그것 때문이 아니에요. 1,340명의 환자가 편지를 받게 하려고 썼어요. 그리고 위원회의 누구도 몰랐다고 말할 수 없게 하려고요.
+Per-Olof|C1|Breven går ut på torsdag, och nämnden har skjutit upp beslutet om Lyras andra våg till efter nyår. Det är mer än de flesta revisionsrapporter åstadkommer under en hel mandatperiod.|편지는 목요일에 나가요. 그리고 위원회는 Lyra 2차 도입 결정을 새해 이후로 미뤘어요. 대부분의 감사 보고서가 임기 내내 이뤄 내는 것보다 많은 거죠.
+Elin|C1|Äran, om det finns någon, tillhör Hanna som skrev lappen och de sjuttio patienter som orkade svara i telefon. Vi har bara ställt deras svar i rätt ordning.|공이 있다면, 그건 쪽지를 쓴 한나와 기운을 내서 전화를 받아 준 일흔 명의 환자들 몫이에요. 저희는 그 대답들을 제 순서대로 늘어놓았을 뿐이에요.
+Per-Olof|B1|Ni är populära nu. Det brukar inte vara länge.|지금은 당신들이 인기네요. 보통 오래가진 않지만. (돋보기안경을 이마 위로 올리고, 신문을 탁자에 내려놓는다. 커피 머신에서 물 한 방울이 행주 위로 떨어진다)
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A2` | **Har du bett om att få vänta?** | 기다리겠다고 요청하셨어요? | *be om* + 명사/*att* 부정사 = ~을 부탁하다, 요청하다. *bett* 는 *be*(부탁하다)의 완료분사. *få vänta* = 기다리게 되다(허락·결과의 *få*) |
+| `A2` | **Det gör ont när jag går i trappan.** | 계단을 오르면 아파요. | *göra ont* = 아프다(주어는 *det* 또는 신체 부위: *Knät gör ont.*). '계단에서'는 *i trappan* — 전치사 *i* 에 주의 |
+| `B1` | **Patienterna flyttades till en annan kö precis innan gränsen.** | 환자들이 기한 직전에 다른 대기열로 옮겨졌어요. | *-s* 수동태 과거 *flyttades*. *precis innan* = 바로 직전에. *gräns* = 경계, 기한 |
+| `B1` | **Valde och valde.** | 선택은 무슨 선택이요. | 동사(또는 명사)를 *och* 로 반복해 상대의 표현을 반박하는 구어 표현 (*Snabbt och snabbt …* = 빠르긴 뭐가 빨라) |
+| `B2` | **När målet blir viktigare än verkligheten börjar man mäta fel saker.** | 목표가 현실보다 중요해지면 엉뚱한 걸 재기 시작하지. | 종속절 *När …* 이 앞에 오면 주절은 동사가 먼저: *börjar man*. *fel saker* = 잘못된 것들(*fel* 은 형용사처럼 쓰여도 변하지 않는다) |
+| `B2` | **Det är inte samma sak som att inget samtal ägde rum.** | 통화가 없었다는 것과 같은 게 아니야. | *äga rum* = (일·행사가) 일어나다, 열리다. 문어적인 *ske* 와 비슷. *inte samma sak som* = ~와 같은 게 아니다 |
+| `B2` | **Vi är inte här för att sätta dit någon.** | 저희는 누굴 잡으러 온 게 아니에요. | *sätta dit någon* = (구어) 누군가를 잡아넣다, 덮어씌우다. 감사·인터뷰에서 상대의 경계를 풀 때 쓰는 말 |
+| `C1` | **Att peka ut en enskild tjänsteman vore bekvämt, men det skulle dölja ett systemfel.** | 공무원 한 명을 지목하는 건 편하겠지만, 그건 시스템의 결함을 가리게 될 거야. | *vore* = *skulle vara* 의 접속법 형태(문어·격식). 부정사구 *Att peka ut …* 가 주어. *peka ut* = 지목하다 |
+| `C1` | **Strukturen förklarar hans handlande, men den ursäktar det inte.** | 구조는 그의 행동을 설명해 주지만, 면죄해 주지는 않아. | *förklara* ↔ *ursäkta* 의 대구. 주절에서 *inte* 는 대명사 목적어 *det* 뒤에 온다(*ursäktar det inte*) |
+| `C1` | **Det var kanske just därför som jag aldrig frågade.** | 어쩌면 바로 그래서 한 번도 묻지 않았던 거겠죠. | 분열문 *Det var … som …* 로 이유를 강조. 관계절 안에서 *aldrig* 는 동사 앞(*som jag aldrig frågade*) |
+
+## 현안 메모
+- **대기시간 보장(vårdgaranti)** — 보건의료법(hälso- och sjukvårdslagen)에 정해진 국가 차원의 보장으로, 흔히 '0-3-90-90'이라고 부른다. 당일 의료기관과 연락(0), 1차 의료에서 사흘 안에 의료 전문 인력의 평가(3 — 2019년부터 강화된 기준), 90일 안에 전문 진료(90), 치료 결정 후 90일 안에 수술·치료(90). 지역이 기한을 지키지 못하면 환자는 다른 의료기관에서 추가 비용 없이 치료받을 수 있도록 도움을 받아야 한다. 하지만 이 권리를 모르는 환자가 많다.
+- **대기 통계와 '환자 선택 대기'** — 지역들은 대기시간을 SKR(스웨덴 지방자치단체·지역 연합)이 운영하는 전국 대기시간 데이터베이스에 보고한다. 환자가 스스로 기다리기를 택하거나 제안받은 날짜를 거절한 경우(patientvald väntan), 그리고 의학적 이유로 기다리는 경우(medicinskt orsakad väntan)는 보장 측정에서 빠진다. 이 등록 방식이 지역과 병원마다 달라 통계를 그대로 비교하기 어렵다는 지적이 여러 차례 나왔다.
+- **목표와 돈이 묶일 때** — 국가는 2009~2014년 대기시간 보장을 지킨 지역에 성과 기반 지원금을 주는 이른바 '대기열 10억(kömiljarden)'을 운영했고, 이후에도 접근성 개선을 위한 국가-지역 협약이 이어졌다. 이런 제도는 실제로 대기를 줄이기도 했지만, 측정되는 숫자만 좋아지게 하는 유인이 될 수 있다는 비판도 함께 받았다. 많은 지역에서 대기열이 다시 길어진 것은 마취·수술실 간호사 부족과 수술실 폐쇄 같은 인력 문제와도 맞물려 있다.
+- **이번 화의 가상 설정** — Region Mälarvik, 정형외과의 '접근성 보너스', 1,340건의 재분류와 모든 숫자·인물은 가상이다. 실제 지역이나 병원의 사례를 묘사한 것이 아니다.
+
+## 비즈니스 메모
+- **표본 추출(stickprov)** — 무작위 표본은 '전체'를 말하게 해 주고, 위험 기반 표본은 '어디를'을 말하게 해 준다. Klarsyn은 1,340명 중 무작위 60명과 기한 직전 604명 중 위험 기반 40명을 따로 뽑고, 보고서에서도 따로 썼다. 무작위 표본에서 연락이 닿은 41명 중 33명(약 80%)이라는 결과는 표본 크기를 고려한 95% 신뢰구간이 대략 ±12%포인트라서, '전체의 약 3분의 2에서 10명 중 9명'이라고 범위로 말한다. 위험 기반 표본의 26/29는 그보다 훨씬 강해 보이지만, 그 숫자를 전체 비율로 넓혀 말하면 안 된다. 그리고 뽑는 방법(고정 시드)을 적어 두면 누구나 같은 표본을 다시 뽑아 검증할 수 있다.
+- **표본으로 말할 수 있는 것의 한계** — 60명 중 19명은 연락이 닿지 않았다(무응답 편향 가능성). 넉 달 전 통화를 기억하지 못하는 것은 '통화가 없었다'는 증거가 아니다. 그래서 감사인은 답변을 다른 자료(수술 계획팀 통화 기록)와 맞대어 본다. 그리고 표본은 '무슨 일이 있었나'는 보여 주지만 '왜'는 보여 주지 않는다. '왜'는 인터뷰와 문서(라르스의 메일, 지역 사무국의 메일, 보너스 설계)에서 나온다.
+
+## 다음 화 예고 — Gröna löften
+**3부 11화.** 11월 4일 화요일, 노르말름. 상장 패션기업 Nordvik Fashion의 감사위원회가 Klarsyn을 부른다. 지속가능성 보고서의 한 문장, "의류의 30%는 재활용 소재". 창업자의 딸이자 지속가능성 책임자 이자벨 노르드비크는 그 문장을 진심으로 믿는다. 하지만 '재활용'의 출처를 따라 내려가면 공급망 세 단계 아래에서 증명서 한 장으로 끝난다. 보로스의 섬유 분류 공장에서 공장장 유카는 핀란드어 억양으로 웃는다. "옷의 대부분은 다시 옷이 되지 않아요." EU가 보고 의무를 줄이려 한다는 소식이 들려오는 가운데, 엘린은 이사회 앞에서 말해야 한다. 규칙이 느슨해져도, 거짓 주장은 여전히 거짓이라고.
