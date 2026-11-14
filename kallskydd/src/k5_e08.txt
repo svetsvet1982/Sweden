@@ -1,0 +1,186 @@
+@title 5부 8화 — Psykologiskt försvar
+@subtitle (심리방어)
+@meta 날짜|2026년 8월 21일 금요일 오전 9시 반 ~ 밤 11시경
+@meta 장소|심리방어청(MPF) 스톡홀름 사무소, 입구 사물함과 작은 회의실 (오전 9시 반) → Källaren 회의실 (낮 1시) → 쇠데르말름 에릭스달스룬덴, 헨릭의 콜로니 정원 오두막 (저녁 6시 반) → 오두막 앞 나무 계단 (밤 10시 40분경)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자 — 트롤 취재에서 일시 배제 중) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Ingrid** (잉리드 포슈베리, 44, 심리방어청 수석 분석관) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Lars** (라르스 몰린, 62, 법률고문) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자, 오늘 밤의 주인) · **Noah** (노아 베리룬드, 24, 기자, 생애 첫 가재) · **Elin** (엘린 셰크비스트, 28, 잠입 기자 — 한 달 만에 하룻밤 "엘린"으로)
+@intro **지난 이야기** — 빅토르가 폐업한 카페에서 Omsorgia 쪽 남자에게 봉투를 받는 41초짜리 가짜 영상이 퍼졌다. 손가락 여섯 개와 멈춘 벽시계로 가짜임을 알면서도, 소피아는 피해 당사자가 된 빅토르를 트롤 취재와 영상 검증에서 모두 뺐다. 그날 밤 알바는 피자를 사 들고 찾아와 "가짜인 거 알아. 그래도 싫어"라고 말했고, 바사가탄의 엘린은 문자 한 줄을 보냈다 — 원본은 그쪽 서버에 있고, 버전 4도 있다.
+@intro 일주일 뒤인 8월 21일 금요일 오전 9시 반. 빅토르가 알메달렌 직후인 7월에 잡아 둔 심리방어청과의 배경 브리핑 날이다. 소피아의 조건은 하나 — 질문은 아미라가 하고, 빅토르는 듣기만 한다. 그리고 저녁에는 헨릭이 한 달 전부터 예고한 크레프트스키바가 기다린다.
+# 장면 1 — 오전 9시 반, 심리방어청(MPF) 스톡홀름 사무소 (입구의 철제 사물함, 창 없는 작은 회의실, 벽 화면의 공개 보고서 슬라이드 한 장, 아미라가 출력해 온 시각 목록, 빅토르의 종이 수첩)
+Ingrid|A2|Välkomna. Telefonerna lämnar ni i skåpet här, tack.|어서 오세요. 휴대폰은 여기 사물함에 두고 들어오세요.
+Amira|A1|Alla?|전부요?
+Ingrid|B1|Alla. Klockor också, om de är smarta – det gäller oss som jobbar här lika mycket som våra gäster.|전부요. 스마트워치도요. 손님뿐 아니라 여기서 일하는 저희도 똑같아요.
+Amira|B1|Jag har utskrifter. Kom ihåg vad Sofia sa i morse, Viktor: jag frågar, du lyssnar.|난 출력물이 있어. 아침에 소피아가 한 말 기억해, 빅토르. 질문은 내가, 넌 듣기만.
+Viktor|A1|Jag lyssnar.|듣기만 할게.
+Ingrid|B1|Ingrid Forsberg, senior analytiker. Ni bokade det här mötet redan i juli, herr Holm, och jag vet vad som har hänt sedan dess. Det vet de flesta i landet.|잉리드 포슈베리, 수석 분석관입니다. 이 자리는 홀름 씨가 7월에 이미 잡으셨죠. 그 뒤로 무슨 일이 있었는지 압니다. 이 나라 사람 대부분이 알죠.
+Viktor|B1|Då vet ni också att jag inte får skriva om det. Amira leder samtalet i dag.|그럼 제가 그 일에 대해 쓸 수 없다는 것도 아시겠네요. 오늘은 아미라가 대화를 이끕니다.
+Ingrid|B2|Innan vi börjar vill jag säga vad det här mötet är och vad det inte är. Allt jag visar finns redan i den offentliga lägesbild som vi publicerade i måndags, och samma bild ger jag varje redaktion som frågar.|시작하기 전에 이 자리가 무엇이고 무엇이 아닌지 말씀드릴게요. 제가 보여 드릴 건 전부 저희가 지난 월요일에 낸 공개 상황 보고서에 이미 있는 내용이고, 요청하는 언론사라면 어디든 똑같이 보여 드립니다.
+Amira|A1|Så ingenting nytt?|그러니까 새로운 건 없다는 거죠?
+Ingrid|B2|Ingenting som inte redan är offentligt. Rapporten får ni citera, men det jag säger runt den är bakgrund, och mitt namn står inte i er text.|이미 공개되지 않은 건 없다는 뜻이에요. 보고서는 인용하셔도 되지만, 그 주변에서 제가 하는 말은 배경 설명이고, 제 이름은 기사에 나오지 않습니다.
+Amira|B1|Okej. Börja med grunderna, för våra läsare. Vad gör ni egentligen här?|좋아요. 독자들을 위해 기본부터 시작하죠. 여기서 정확히 무슨 일을 하세요?
+Ingrid|B2|Myndigheten för psykologiskt försvar inrättades i januari 2022. Vi ska upptäcka, analysera och möta otillbörlig informationspåverkan som riktas mot Sverige från främmande makt, och hjälpa myndigheter, kommuner och organisationer att klara det själva.|심리방어청은 2022년 1월에 세워졌습니다. 외국 세력이 스웨덴을 겨냥해 벌이는 부당한 정보 영향 공작을 찾아내고, 분석하고, 대응하는 것, 그리고 다른 기관과 지자체, 단체들이 스스로 그렇게 할 수 있도록 돕는 게 저희 일이에요.
+Amira|A2|Och svenska partier? Svenska troll?|스웨덴 정당은요? 스웨덴 트롤은요?
+Ingrid|B2|Vår uppgift är att kartlägga utländsk påverkan, inte att avgöra vad som är en legitim politisk åsikt. Om ett svenskt parti är elakt mot sina motståndare, är det en fråga för väljarna och för er – inte för oss.|저희 임무는 외국의 영향 공작을 파악하는 거지, 무엇이 정당한 정치적 의견인지 판정하는 게 아닙니다. 스웨덴 정당이 경쟁자들한테 못되게 군다면, 그건 유권자와 여러분이 다룰 문제예요. 저희 문제가 아니라.
+Amira|A2|Så ni är inget sanningsministerium.|그러니까 진실부는 아니라는 거네요.
+Ingrid|B2|Nej. Vi kartlägger, vi censurerar inte. Vi tar inte bort inlägg, vi stänger inga konton, och vi säger aldrig åt en redaktion vad den ska skriva.|네. 저희는 파악하지, 검열하지 않습니다. 게시물을 지우지도, 계정을 닫지도 않고, 언론사에 무엇을 쓰라고 말하는 일은 절대 없어요.
+Amira|A1|Visa grafen, då.|그럼 그래프 보여 주세요.
+Ingrid|B2|Det här är ett exempel ur rapporten: ett svenskt inlägg om socialtjänsten, publicerat en tisdagskväll i juli klockan 21.51. Kontot har vi gjort anonymt på bilden.|보고서에 실린 사례예요. 사회복지청에 관한 스웨덴어 게시물, 7월 어느 화요일 저녁 9시 51분에 올라온 거고요. 그림에서 계정은 익명 처리했어요.
+Amira|A1|Tisdag den tjugoåttonde.|28일 화요일이네요.
+Ingrid|A2|Det har jag inte sagt. Men titta på kurvan.|전 그렇게 말한 적 없어요. 하지만 곡선을 보세요.
+Amira|B1|Ingenting på tre timmar, bara de vanliga svenska delningarna. Sedan, strax före ett på natten, kommer en vägg.|세 시간 동안은 아무것도 없네요. 평소 같은 스웨덴 쪽 공유뿐이고. 그러다 새벽 1시 조금 전에 벽이 하나 서요.
+Ingrid|B2|Ungefär nittonhundra konton delar inlägget inom tjugo minuter, många med maskinöversatta kommentarer. De flesta skapades i omgångar under våren 2024 och har legat vilande sedan dess.|약 1,900개 계정이 20분 안에 그 게시물을 공유해요. 상당수는 기계 번역한 댓글을 달고요. 대부분 2024년 봄에 묶음으로 만들어졌고, 그 뒤로 쭉 휴면 상태였어요.
+Amira|A2|Jag har samma minut här. 00.50.|저도 여기 같은 분이 있어요. 0시 50분.
+Ingrid|A1|Har ni?|갖고 계세요?
+Amira|B2|Mitt program sparar alla som delar de konton som vi bevakar, och mellan 00.50 och 01.10 har jag nittonhundratolv. Er kurva och min lista beskriver alltså samma natt, minut för minut, fast ingen av oss har sett den andras siffror förut.|제 프로그램은 저희가 감시하는 계정을 공유하는 사람을 전부 저장해요. 0시 50분부터 1시 10분 사이에 1,912개가 있고요. 그러니까 그쪽 곡선이랑 제 목록은 같은 밤을 보여 주는 거예요, 분 단위로. 서로 상대 숫자를 본 적도 없는데요.
+Ingrid|B2|Då har ni gjort ert eget arbete, och det är precis så det ska vara. Rapporten bedömer att nätverk av den här typen med stor sannolikhet styrs från Ryssland.|그럼 직접 작업을 하신 거네요. 바로 그래야 하는 거고요. 보고서는 이런 유형의 네트워크가 러시아에서 운영될 가능성이 매우 높다고 평가합니다.
+Amira|A1|Hur vet ni det?|그걸 어떻게 아세요?
+Ingrid|B2|Det kan jag inte kommentera. Men jag kan säga att mönstret är välkänt för oss.|그건 말씀드릴 수 없습니다. 다만 그 패턴은 저희에게 잘 알려진 것이라고는 말할 수 있어요.
+Amira|B2|Jag kan se att kontona är samordnade och att de jobbar på Moskvatid, nio till sex. Men även om jag satt med mina data i hundra år skulle jag inte kunna se vem som betalar dem.|계정들이 조직적으로 움직이고, 모스크바 시간으로 9시부터 6시까지 일한다는 건 저도 보여요. 하지만 제 데이터를 붙들고 백 년을 앉아 있어도, 누가 돈을 내는지는 못 볼 거예요.
+Ingrid|B2|Nej. Den bedömningen bygger på uppgifter från plattformar och samarbetspartner som jag inte kan dela, och som ni inte heller ska få av mig. Det är rätt ordning.|네. 그 평가는 플랫폼과 협력 기관에서 받은 정보에 기반하는데, 그건 제가 공유할 수 없고, 여러분이 저한테서 받아서도 안 되는 거예요. 그게 맞는 순서예요.
+Amira|A2|Och LVU-filmerna? De på arabiska?|그럼 LVU 영상들은요? 아랍어로 된 거요?
+Ingrid|B2|Rapporten beskriver hur en annan statligt knuten aktör förde den svenska debatten om socialtjänsten vidare till arabisktalande kanaler. Vilken stat och vilka filmer kommenterar jag inte.|보고서는 또 다른 국가 연계 행위자가 사회복지청을 둘러싼 스웨덴의 논쟁을 아랍어권 채널로 퍼 나른 방식을 설명합니다. 어느 나라인지, 어떤 영상인지는 언급하지 않겠습니다.
+Amira|B1|Så de förstärker båda sidorna. Ilskan åt ena hållet och ”barnkidnappningen” åt det andra.|그러니까 양쪽을 다 키운다는 거네요. 한쪽으로는 분노를, 다른 쪽으로는 '아동 납치'를.
+Ingrid|B2|De vill inte att ett visst parti vinner. De vill att svenskarna slutar lita på varandra, och ett gräl fungerar bäst om båda sidor får hjälp.|그들은 특정 정당이 이기길 바라는 게 아니에요. 스웨덴 사람들이 서로를 믿지 않게 되길 바라죠. 싸움은 양쪽 다 도움을 받을 때 제일 잘 굴러가거든요.
+Viktor|A2|Får jag fråga en sak? Inte om filmen.|하나 여쭤봐도 될까요? 영상 얘기는 아닙니다.
+Ingrid|A1|Försök.|해 보세요.
+Viktor|B1|Varför träffar ni journalister alls, om ni inte får säga något som inte redan är offentligt?|이미 공개된 것 말고는 아무것도 말할 수 없다면, 왜 굳이 기자들을 만나세요?
+Ingrid|B2|För att en välinformerad press är en del av försvaret. Men en press som går i takt med en myndighet är det inte – därför läser vi aldrig era texter i förväg, och ni ska aldrig be oss om det.|잘 아는 언론은 방어의 일부니까요. 하지만 기관과 발맞춰 걷는 언론은 아니에요. 그래서 저희는 여러분 기사를 절대 미리 읽지 않고, 여러분도 저희한테 그런 부탁을 절대 해선 안 돼요.
+Viktor|A2|Det tänkte jag inte göra. Här är mitt kort.|그럴 생각 없었습니다. 제 명함입니다.
+Ingrid|B1|Tack. På mitt står bara växelns nummer, och så ska det vara.|고마워요. 제 명함엔 대표번호만 있어요. 그래야 하고요.
+# 장면 2 — 낮 1시, Källaren 회의실 (아미라의 출력물 위에 그은 형광펜 줄, 라르스의 만년필, 소피아의 커피, 프레드릭의 노트북에 열린 지면 배치표)
+Sofia|A2|Viktor, innan du går: Elins sms i fredags.|빅토르, 가기 전에. 지난 금요일 엘린 문자 말이야.
+Viktor|B1|Jag har inte skickat det vidare till någon. Jag ringde dig samma kväll.|아무한테도 전달 안 했어. 그날 밤 너한테 전화했고.
+Sofia|B2|Jag vet. Hon skickade samma meddelande till Henrik och mig fem minuter innan, och till dig för att det var ditt ansikte. Det förstår jag, men nästa gång går det bara till Henrik och mig.|알아. 엘린은 5분 전에 헨릭이랑 나한테 같은 문자를 보냈고, 너한텐 네 얼굴이니까 보낸 거야. 그건 이해해. 하지만 다음부턴 헨릭이랑 나한테만.
+Viktor|A2|Jag säger det till henne i kväll. Nu ska jag köpa dill.|오늘 밤 엘린한테 말할게. 이제 딜 사러 가야 해.
+Fredrik|A2|Dill? Är det ditt jobb nu?|딜? 그게 이제 네 일이야?
+Viktor|B1|Tre knippen krondill och två påsar is. Det är det enda jag får granska den här veckan.|왕관 딜 세 단이랑 얼음 두 봉지. 이번 주에 내가 검증해도 되는 건 그것뿐이야.
+Sofia|A1|Gå nu. Amira, berätta.|이제 가. 아미라, 얘기해 봐.
+Amira|B1|Myndigheten visade samma natt som jag har i mina data, den tjugoåttonde juli: ett inlägg från ett av våra fyrahundra konton, och sedan en vägg.|기관이 보여 준 게 내 데이터에 있는 바로 그 밤이야. 7월 28일. 우리 400개 계정 중 하나가 올린 게시물, 그다음에 벽.
+Lars|A1|Och?|그래서요?
+Amira|B1|De ryska kontona delade inlägget bara tre timmar efter att det publicerats. Nittonhundra stycken på tjugo minuter.|러시아 계정들이 게시된 지 겨우 세 시간 만에 그 게시물을 공유했어. 20분 동안 1,900개.
+Lars|B1|Stopp där. ”De ryska kontona.” Vem säger att de är ryska – du eller myndigheten?|거기서 멈추세요. "러시아 계정들." 러시아 것이라고 누가 말하죠? 당신입니까, 기관입니까?
+Amira|B2|Myndigheten, i sin rapport. Själv kan jag visa att kontona skapades i omgångar, att de vaknade samma minut och att de jobbar på Moskvatid. Men det är inte samma sak som att visa vem som styr dem.|기관이, 보고서에서. 내가 보여 줄 수 있는 건 계정들이 묶음으로 만들어졌고, 같은 분에 깨어났고, 모스크바 시간대로 일한다는 거야. 근데 그게 누가 조종하는지 보여 주는 거랑 같진 않지.
+Lars|B2|Då har ni två sorters meningar, och de får aldrig blandas. Det ni själva har sett skriver ni som fakta. Det myndigheten bedömer skriver ni som myndighetens bedömning, med rapportens namn, så att läsaren kan läsa den själv.|그럼 두 종류의 문장이 있는 겁니다. 절대 섞이면 안 되고요. 직접 본 건 사실로 쓰세요. 기관이 평가한 건 기관의 평가로, 보고서 이름을 달아서 쓰세요. 독자가 직접 읽어 볼 수 있게.
+Sofia|A2|Och det hon sa utanför rapporten?|보고서 밖에서 그 사람이 한 말은?
+Amira|B1|Bakgrund. Hon sa det själv innan hon började, och vi gick med på det.|배경 설명. 시작하기 전에 본인이 그렇게 못 박았고, 우린 동의했어.
+Lars|B2|Då är det bakgrund, och det löftet håller ni. Och en sak till: skriv aldrig ”enligt myndigheten” om något ni själva kan kontrollera. Kontrollera det.|그럼 배경 설명이고, 그 약속은 지키세요. 그리고 하나 더. 직접 확인할 수 있는 걸 "기관에 따르면"이라고 쓰지 마세요. 확인하세요.
+Fredrik|B2|Får jag vara praktisk? Vi har en tidslinje och en analytiker som säger att mönstret är välkänt. ”Enligt källor inom MPF” – en rad, och texten kan ligga ute i kväll.|현실적인 얘기 좀 해도 될까? 우리한텐 타임라인이 있고, 패턴이 잘 알려져 있다는 분석관이 있어. "MPF 소식통에 따르면" 한 줄이면 기사가 오늘 밤에 나갈 수 있어.
+Sofia|A1|Nej.|안 돼.
+Fredrik|A1|Bara en rad, Sofia.|딱 한 줄이야, 소피아.
+Sofia|B2|Nej, av tre skäl. Hon är ingen källa utan en myndighet som gav oss bakgrund på villkor som vi accepterade. En sådan rad kan läsaren aldrig pröva. Och den ger Hemlandspartiet exakt den rubrik de har väntat på: ”Staten och Stockholmsposten samarbetar.”|안 돼. 이유는 세 가지야. 그 사람은 소식통이 아니라, 우리가 받아들인 조건으로 배경 설명을 해 준 국가기관이야. 그런 한 줄은 독자가 절대 검증할 수 없어. 그리고 그건 Hemlandspartiet한테 걔네가 기다리던 바로 그 제목을 줘. "국가와 스톡홀름스포스텐이 한통속."
+Fredrik|B1|Okej, det sista köper jag. Då blir texten längre och kommer senare. Jag ber grafiken rita Amiras kurva i stället för deras.|좋아, 마지막 건 인정. 그럼 기사는 길어지고 늦게 나가겠네. 그래픽팀한테 그쪽 곡선 말고 아미라 곡선을 그려 달라고 할게.
+Amira|B1|Bra. Då ritar vi bara det vi själva har samlat in, och våra tider och vår metod står i en faktaruta.|좋아. 그럼 우리가 직접 모은 것만 그리고, 우리 시각이랑 방법은 팩트 박스에 넣자.
+Lars|B2|Ytterligare en sak, för principens skull. En myndighet får inte bestämma vad en tidning publicerar, och vi ska inte ge dem anledning att tro att de kan. Ni skickar ingenting till dem före publicering – inte ens för att stämma av ett citat ur rapporten.|원칙상 하나 더. 국가기관은 신문이 무엇을 보도할지 정할 수 없고, 우리도 그럴 수 있다고 믿을 빌미를 줘선 안 됩니다. 보도 전에 그쪽에 아무것도 보내지 마세요. 보고서 인용 하나 맞춰 보려는 거라도.
+Sofia|B1|Enligt Amira sa hon samma sak. Det är första gången som en myndighet har sagt det före mig.|아미라 말로는 그 사람도 같은 말을 했대. 국가기관이 나보다 먼저 그 말을 한 건 처음이야.
+Amira|A2|Hon var bra. Det irriterade mig.|그 사람 잘하더라. 그게 짜증 났어.
+Fredrik|A2|Och det andra klustret? De sextio?|그럼 다른 군집은? 60개짜리?
+Amira|B1|Samma natt fick några av dem också hjälp, ett par hundra delningar från samma vilande konton. Det är mindre, men det ska stå i texten.|같은 밤에 그쪽 일부도 도움을 받았어. 같은 휴면 계정들에서 공유 몇백 건. 규모는 작지만, 기사에 들어가야 해.
+Sofia|B2|Med samma ord och samma metod. Om utländska konton förstärker båda sidorna är det själva nyheten, inte en fotnot.|같은 단어, 같은 방법으로. 외국 계정들이 양쪽을 다 키우는 거라면, 그게 바로 뉴스지 각주가 아니야.
+Fredrik|A2|Och i kväll? Är alla bjudna?|그리고 오늘 밤은? 다 초대받은 거야?
+Sofia|B1|Alla. Henrik har bara två regler: ingen fotograferar, och ingen pratar jobb med Elin.|다. 헨릭 규칙은 딱 두 개야. 아무도 사진 안 찍기, 그리고 아무도 엘린이랑 일 얘기 안 하기.
+# 장면 3 — 저녁 6시 반, 쇠데르말름 에릭스달스룬덴, 헨릭의 콜로니 정원 오두막 (사과나무에 매단 웃는 달 모양 종이 등, 식탁 위 종이 모자와 턱받이, 커다란 그릇에 담긴 가재와 왕관 딜, 문 옆 휴대폰 바구니, 라르스가 출력해 온 노래 가사)
+Henrik|A2|Hattarna ligger på bordet. Alla tar en.|모자는 식탁 위에 있다. 다들 하나씩 써.
+Noah|A1|Måste jag?|꼭 써야 돼요?
+Henrik|A2|Man äter kräftor i augusti med hatt på huvudet. Så är det bara.|8월엔 머리에 모자 쓰고 가재 먹는 거다. 원래 그래.
+Amira|B1|Han har gjort så sedan sjuttiotalet, Noah. Ge upp. Lyktorna har hängt i äppelträdet sedan i morse.|헨릭은 70년대부터 이래 왔어, 노아. 포기해. 저 등은 아침부터 사과나무에 걸려 있었어.
+Noah|A2|Varför ser månen så glad ut?|달은 왜 저렇게 신나 보여요?
+Henrik|B1|Den har alltid sett glad ut. Det är vi som har blivit gamla. Där kommer Viktors bil – ingen säger något förrän hon har satt sig.|원래 늘 신나 보였어. 늙은 건 우리지. 저기 빅토르 차 온다. 그 애가 앉을 때까지 아무도 아무 말 하지 마.
+Elin|A2|Hej. Jag har med mig dill. Viktor glömde den i bilen.|안녕하세요. 딜 가져왔어요. 빅토르가 차에 두고 내렸어요.
+Viktor|A2|Jag glömde den inte. Jag lät dig bära in den.|잊은 거 아니야. 네가 들고 들어가게 둔 거지.
+Sofia|A1|Välkommen hem, Elin.|돌아온 걸 환영해, 엘린.
+Elin|B1|Tack. Det känns konstigt att höra mitt namn högt. Ingen har sagt det på en månad, förutom Henrik i telefonen varje kväll.|고마워요. 제 이름을 소리 내서 듣는 게 이상해요. 한 달 동안 아무도 안 불렀어요. 매일 밤 전화하는 헨릭 빼고요.
+Noah|A2|Du är blond. Det är jättekonstigt.|머리 금발이네요. 진짜 이상해요.
+Elin|A2|Jag vet. Jag har lånat håret.|알아. 머리를 빌려 온 거야.
+Henrik|B2|Och i kväll sitter en pappershatt på det, så den saken är ur världen. Sätt dig, Elin. Här fotar ingen, och telefonerna ligger i korgen vid dörren.|그리고 오늘 밤엔 그 위에 종이 모자를 쓰니까 그 문제는 끝. 앉아라, 엘린. 여긴 아무도 사진 안 찍고, 휴대폰은 문 옆 바구니에 있다.
+Fredrik|A2|Jag har tagit med snaps. Tre sorter.|난 스납스 가져왔어. 세 종류.
+Lars|B1|Och jag har tagit med sångtexterna, eftersom ingen av er kan mer än första versen.|그리고 저는 노래 가사를 가져왔습니다. 여러분 중 누구도 1절 이상은 모르니까요.
+Henrik|B1|Så. Nu ska ni lära er något. Noah, du har aldrig ätit kräftor, säger Amira.|자. 이제 뭘 좀 배워라. 노아, 너 가재 한 번도 안 먹어 봤다며, 아미라가 그러던데.
+Noah|A2|Aldrig. Vi åt tacos på fredagarna.|한 번도요. 저희 집은 금요일마다 타코 먹었어요.
+Henrik|B1|Först klon, sen stjärten. Och sörpla, pojk, annars har du inte ätit kräftor.|집게 먼저, 그다음 꼬리. 그리고 쪽쪽 빨아라, 얘야. 안 그러면 가재 먹은 게 아니다.
+Noah|B1|Den tittar på mig. Jag kan inte äta något som tittar på mig.|얘가 날 쳐다봐요. 날 쳐다보는 건 못 먹어요.
+Amira|A2|Vänd den, då. Nu tittar den på Lars.|그럼 돌려. 이제 라르스 쳐다보잖아.
+Lars|A2|Det är jag van vid. Folk tittar ofta på mig när jag pratar.|그건 익숙합니다. 제가 말할 때 사람들이 자주 쳐다보거든요.
+Henrik|B1|Bryt av stjärten, så här. Sedan trycker du på sidorna tills skalet spricker, och så drar du ut köttet i ett stycke.|꼬리를 이렇게 꺾어. 그다음 옆구리를 눌러서 껍데기가 갈라지면, 살을 한 번에 쭉 빼내.
+Noah|A1|Så här?|이렇게요?
+Henrik|A2|Nästan. Ta bort den svarta tråden. Den äter vi inte.|거의. 검은 줄은 빼. 그건 안 먹는다.
+Noah|A1|Det smakar dill. Och hav.|딜 맛이 나요. 그리고 바다 맛.
+Henrik|A2|Sjö, pojk. Kräftor bor i sjöar och bäckar, inte i havet.|호수다, 얘야. 가재는 호수랑 개울에 살지, 바다엔 안 산다.
+Fredrik|B1|De här bodde nog i en sjö i Turkiet, om jag läste paketet rätt. Men det säger vi inte till Henrik.|얘네는 아마 튀르키예 어느 호수에 살았을 거야, 내가 포장지를 제대로 읽었다면. 근데 그건 헨릭한텐 비밀로 하자.
+Henrik|B2|Jag hörde det. Förr fick man inte ens fiska kräftor före augusti, och då var premiären en fest i hela landet. Nu kommer de frysta från andra länder, och vi låtsas att allt är som förr.|다 들린다. 옛날엔 8월 전엔 가재를 잡지도 못했어. 그래서 첫날이 온 나라 잔치였지. 이젠 다른 나라에서 얼려서 들어오는데, 우린 다 옛날 같은 척하고.
+Sofia|B2|Det är kanske hela poängen med traditioner: man vet att de har förändrats, men man håller fast vid dem ändå, eftersom de påminner en om vilka man vill vara tillsammans.|어쩌면 그게 전통의 핵심인지도 몰라. 바뀐 걸 알면서도 붙들잖아. 우리가 함께 어떤 사람들이고 싶은지 떠올리게 해 주니까.
+Fredrik|A2|Fint sagt, Sofia. Nu sjunger vi.|멋진 말이야, 소피아. 이제 노래하자.
+Lars|B1|Sidan ett, för den som behöver texten. Vi börjar med ”Helan går”, eftersom det är den enda som alla svenskar kan.|가사가 필요하신 분은 1쪽입니다. "헬란 고르"부터 하죠. 스웨덴 사람이면 다 아는 유일한 노래니까요.
+Noah|A1|Jag kan den inte.|전 몰라요.
+Amira|B1|Det gör ingenting. Sjung högt, så märks det inte.|상관없어. 크게 부르면 티 안 나.
+Fredrik|A2|Helan går, sjung hopp faderallan lallan lej! Kom igen, allihop!|헬란 고르, 슝 호프 파데랄란 랄란 레이! 자, 다 같이!
+Henrik|B1|Kaptenen tar tonen, som vanligt. Och den som inte helan tar, han heller inte halvan får!|선장이 첫 음을 잡는군, 늘 그렇듯. 그리고 첫 잔을 안 드는 놈은 둘째 잔도 못 얻는다!
+Noah|A1|Skål!|건배!
+Elin|B1|Haha! Nej, Noah, man skålar efter sången, inte mitt i den!|하하! 아니야, 노아, 건배는 노래 끝나고 하는 거야, 중간 말고!
+Noah|A2|Ingen sa det. Det står inte på Lars papper.|아무도 그런 말 안 했잖아요. 라르스 종이엔 안 써 있어요.
+Lars|B2|Vissa regler är så självklara att ingen har brytt sig om att skriva ner dem, och det är just de som man bryter först.|어떤 규칙은 너무 당연해서 아무도 적어 둘 생각을 안 합니다. 그리고 사람들이 제일 먼저 어기는 게 바로 그런 규칙이죠.
+Fredrik|B1|Det låter som ett juridiskt utlåtande. Elin, nu får du dra en snapsvisa. Du har ju gått teaterskola.|무슨 법률 의견서 같네. 엘린, 이번엔 네가 스납스 노래 한 곡 뽑아. 연극학교 다녔잖아.
+Elin|A2|Jag hoppade av. Men okej, en kort.|중퇴했어요. 그래도 좋아요, 짧은 걸로.
+Henrik|A1|Sjung, då!|그럼 불러 봐!
+Elin|B1|Den här har jag skrivit själv, på samma melodi: ”Noah fick en kräfta, och kräftan såg på Noah, nu sörplar han för första gång – och kräftan säger skål!”|이건 제가 직접 지은 거예요, 같은 곡조로. "노아가 가재를 받았네, 가재가 노아를 봤네, 이제 처음으로 쪽쪽 빠니, 가재가 건배 하네!"
+Amira|A1|Göttigt!|최고다!
+Sofia|A1|Skål, då!|자, 건배!
+Elin|B1|Skål! Hahaha … Förlåt. Det där var inte riktigt mitt skratt.|건배! 하하하… 미안해요. 방금 그건 제 웃음이 아니었어요.
+Viktor|A2|Det lät som ditt. Ät nu.|네 웃음 같았어. 이제 먹어.
+Amira|A2|Var är Alva i kväll, förresten?|그런데 알바는 오늘 밤 어디 있어?
+Viktor|B1|Hos Eva. De pratar igen. Hon skickade ett sms i går: ”Jag gick med i chatten igen. Wilma har lämnat den.”|에바네. 둘이 다시 얘기해. 어제 문자가 왔어. "단톡방 다시 들어갔어. 빌마는 나갔고."
+Henrik|A2|Bra flicka. Fyll på, Fredrik.|착한 애다. 잔 채워라, 프레드릭.
+Elin|A2|Jag går ut en stund. Det är varmt här inne.|저 잠깐 나가 있을게요. 안이 더워요.
+# 장면 4 — 밤 10시 40분경, 오두막 앞 나무 계단 (식어 가는 여름밤, 꺼질락 말락 하는 달 모양 등, 문 안쪽 바구니에서 울리는 휴대폰, 이웃 오두막에서 들려오는 마지막 노래)
+Viktor|A1|Får jag sitta här?|여기 앉아도 돼?
+Elin|A2|Det är Henriks trappa. Sitt.|헨릭 계단이에요. 앉으세요.
+Viktor|B1|Sofia sa att du skickade sms:et till henne och Henrik först. Nästa gång bara till dem.|소피아가 그러던데, 그 문자 소피아랑 헨릭한테 먼저 보냈다며. 다음엔 그 둘한테만.
+Elin|B2|Jag vet. Jag skickade det till dig för att det var ditt ansikte, och det hade känts fel om du hade varit den sista som fick veta.|알아요. 빅토르 얼굴이라서 보낸 거예요. 빅토르가 제일 마지막에 알게 됐다면 잘못된 것 같았을 거예요.
+Viktor|A1|Tack.|고마워.
+Elin|B1|Säger du tack för att du är arg nu?|지금 그 고맙다는 거, 화나서 하는 거예요?
+Viktor|A2|Nej. Den här gången menar jag det.|아니. 이번엔 진심이야.
+Elin|B1|Jag skrattade därinne. Hörde du? Precis som Moa skrattar – lite för högt och lite för länge.|아까 안에서 웃었잖아요. 들었어요? 꼭 모아처럼 웃었어요. 조금 너무 크게, 조금 너무 길게.
+Viktor|A2|Ingen märkte något.|아무도 눈치 못 챘어.
+Elin|B2|Jag märkte det. Jag har övat på hennes skratt sedan i juli, och nu vet jag inte längre var hennes slutar och mitt börjar.|제가 눈치챘어요. 7월부터 그 애 웃음을 연습했는데, 이젠 그 애 웃음이 어디서 끝나고 제 웃음이 어디서 시작하는지 모르겠어요.
+Viktor|A1|Berätta.|얘기해 봐.
+Elin|B2|Moa behöver aldrig tänka på vad hon gör. Hon skrattar åt Albin, hon äter lunch i solen, och hon har ingen loggbok att skriva klockan tio på kvällen. Ibland vill jag inte gå tillbaka till Moa. Ibland vill jag.|모아는 자기가 뭘 하는지 생각할 필요가 없어요. 알빈 농담에 웃고, 햇볕 아래서 점심 먹고, 밤 10시에 써야 할 업무 일지도 없죠. 가끔은 모아로 돌아가기 싫어요. 가끔은 돌아가고 싶고요.
+Viktor|A2|Vilket skrämmer dig mest?|어느 쪽이 더 무서워?
+Elin|B1|Det andra. Att jag vill. Att jag i måndags kväll saknade Albin mer än jag saknade min egen mamma.|두 번째요. 돌아가고 싶다는 거. 지난 월요일 밤에 우리 엄마보다 알빈이 더 보고 싶었다는 거.
+Viktor|B2|Den som spelar någon fyrtio timmar i veckan börjar tycka om människorna runt rollen. Det är inget fel på dig – det är priset för att göra jobbet ordentligt.|일주일에 마흔 시간씩 누군가를 연기하면, 그 역할 주변 사람들을 좋아하게 되기 시작해. 너한테 문제가 있는 게 아니야. 일을 제대로 하는 대가지.
+Elin|A2|Har det hänt dig?|빅토르한테도 그런 적 있어요?
+Viktor|B2|I Luleå. Erik Sand tyckte om middagen mer än jag gjorde, och det tog en vecka att bli av med honom. Hade han haft ett eget skratt, hade det nog tagit längre tid.|룰레오에서. 에릭 산드는 나보다 그 만찬을 더 좋아했어. 그놈을 떼어 내는 데 일주일 걸렸지. 그놈한테 자기 웃음까지 있었다면 아마 더 오래 걸렸을 거야.
+Elin|B1|Tre veckor kvar till valet. Sedan raderar jag hennes konto, och då finns hon inte längre någonstans.|선거까지 3주 남았어요. 그다음엔 그 애 계정을 지울 거고, 그럼 그 애는 이제 어디에도 없게 되겠죠.
+Viktor|B1|Det är okej att sakna henne. Bara du vet vem som går hem i kväll.|그 애가 그리운 건 괜찮아. 오늘 밤 집에 가는 게 누군지만 알면.
+Elin|A1|Elin Sjöqvist. Hägersten.|엘린 셰크비스트. 헤게르스텐.
+Henrik|B1|Rätt svar. Jag kör dig klockan elva. Och din telefon surrar i korgen, Viktor – tredje gången nu.|정답. 11시에 내가 태워다 준다. 그리고 빅토르, 바구니에서 네 휴대폰 울린다. 벌써 세 번째야.
+Viktor|A1|Hallå?|여보세요?
+Ingrid|B1|Det är Ingrid Forsberg. Jag ringer från min egen telefon, inte från jobbet. Förlåt att det är så sent.|잉리드 포슈베리예요. 회사 전화가 아니라 제 개인 전화로 거는 거예요. 이렇게 늦게 죄송해요.
+Viktor|A2|Det gör inget. Varför ringer ni?|괜찮습니다. 무슨 일로 전화하셨어요?
+Ingrid|B2|För att ni bara lyssnade i dag. Och för att det jag har sett sedan i morse ligger utanför vårt uppdrag, så ingen på myndigheten kommer att göra något med det.|오늘 듣기만 하셨으니까요. 그리고 오늘 아침부터 제가 본 게 저희 임무 밖의 일이라서, 기관에선 아무도 그걸 가지고 뭘 하지 않을 거예요.
+Viktor|B2|Då ska ni veta en sak innan ni säger mer: jag kommer aldrig att fråga varför ni berättar, och ingen på er myndighet har rätt att leta efter den som pratar med oss.|그럼 더 말씀하시기 전에 하나 알아 두세요. 왜 말씀해 주시는지 저는 절대 묻지 않을 겁니다. 그리고 그쪽 기관의 누구도 저희와 이야기한 사람을 찾아낼 권리가 없습니다.
+Ingrid|A1|Jag vet. Är ni ensam?|알아요. 혼자 계세요?
+Viktor|A1|Nästan. Säg det.|거의요. 말씀하세요.
+Ingrid|B1|Det finns en tredje aktör i datan. Den är svensk, och den är inget parti.|데이터에 제3의 행위자가 있어요. 스웨덴 쪽이고, 정당이 아니에요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Skål!** | 건배! | 잔을 들 때 쓰는 가장 짧은 인사. 원래 *skål*은 '사발, 그릇'이라는 뜻이다. 크레프트스키바에서는 노래(*snapsvisa*)가 끝난 뒤에 외치는 게 순서라, 노래 중간에 외친 노아는 엘린에게 지적을 받는다. 건배할 때 상대의 눈을 보는 것도 예의 |
+| `A2` | **Man äter kräftor i augusti med hatt på huvudet.** | 8월엔 머리에 모자를 쓰고 가재를 먹는다. | 일반 주어 *man*(사람들은, 누구나) — 규칙이나 관습을 말할 때 쓴다. *på huvudet* = 머리에(신체 부위에는 소유대명사 대신 한정형 + *på*). 헨릭에게 이건 의견이 아니라 자연법칙이다: *Så är det bara.*(원래 그래.) |
+| `B1` | **De ryska kontona delade inlägget bara tre timmar efter att det publicerats.** | 러시아 계정들은 게시된 지 겨우 세 시간 만에 그 게시물을 공유했다. | *efter att* + 완료형. 종속절에서 조동사 *hade/har*가 생략된 *publicerats*(수동 완료 분사형)는 문어·뉴스체에서 흔하다. 그리고 라르스의 질문 — *ryska*라는 형용사 하나에 "누가 그렇게 판단했는가"가 숨어 있다 |
+| `B2` | **Vår uppgift är att kartlägga utländsk påverkan, inte att avgöra vad som är en legitim politisk åsikt.** | 저희 임무는 외국의 영향 공작을 파악하는 것이지, 무엇이 정당한 정치적 의견인지 판정하는 게 아닙니다. | *att* + 원형 두 개를 *inte*로 대비시키는 관료어 구조. *kartlägga* = 지도를 그리다 → 체계적으로 파악하다. *avgöra* = 결정하다, 판정하다. 같은 생각을 짧게 하면 잉리드의 다른 말이 된다: *Vi kartlägger, vi censurerar inte.* |
+| `B2` | **Det kan jag inte kommentera. Men jag kan säga att mönstret är välkänt för oss.** | 그건 말씀드릴 수 없습니다. 다만 그 패턴은 저희에게 잘 알려진 것이라고는 말할 수 있어요. | 목적어 *det*를 문장 맨 앞에 두면(도치) "바로 그것은" 하고 선을 긋는 느낌이 난다. 공무원·대변인의 전형적인 노코멘트 — 그런데 뒤 문장이 실제 정보를 준다. 기자는 *men* 뒤를 들어야 한다 |
+| `B1` | **Skriv aldrig ”enligt myndigheten” om något ni själva kan kontrollera. Kontrollera det.** | 직접 확인할 수 있는 걸 "기관에 따르면"이라고 쓰지 마세요. 확인하세요. | *enligt* + 명사 = ~에 따르면(출처 표시). 명령문 *Skriv aldrig…*와 마지막 두 단어의 명령문이 짝을 이룬다. 라르스의 원칙: 출처 표시는 확인하지 않을 핑계가 아니다 |
+| 구어 | **dra en snapsvisa** | 스납스 노래를 한 곡 뽑다 | *dra*(당기다)는 구어에서 '(노래·농담·이야기를) 한 판 하다'라는 뜻으로 쓰인다: *dra en vits*(농담 하나 하다), *dra en historia*. *snapsvisa*는 *snaps*(독한 술 한 잔) + *visa*(노래) — 술잔을 들기 전에 부르는 짧은 노래 |
+| 미디어·정치 | **informationspåverkan** | 정보 영향 공작 | *information* + *s* + *påverkan*(영향). 심리방어청의 공식 표현은 *otillbörlig informationspåverkan*(부당한 정보 영향 공작) — 외국 세력이 속임수·조작된 계정·허위 정보 등 정당하지 않은 방법으로 여론이나 결정에 영향을 주려는 시도를 가리킨다. 평범한 설득이나 강한 의견은 여기에 들어가지 않는다 |
+
+## 저널리즘·법 메모
+심리방어청(*Myndigheten för psykologiskt försvar*, MPF)은 2022년 1월 1일 문을 연 국가기관으로, 외국 세력이 스웨덴을 겨냥해 벌이는 부당한 정보 영향 공작을 찾아내고 분석하고 대응하며, 다른 기관·지자체·기업·단체가 같은 일을 할 수 있도록 돕고 시민의 대응력을 기르는 일을 맡는다. 경찰이나 정보기관이 아니며, 게시물을 지우거나 계정을 닫을 권한도 없고, 국내 정치 토론에서 무엇이 옳은 의견인지 판정하지도 않는다 — 그래서 잉리드는 "스웨덴 정당이 못되게 구는 건 유권자와 언론의 몫"이라고 선을 긋는다. 국가와 언론의 경계는 양쪽에서 지켜진다: 출판자유법의 검열 금지(*censurförbud*) 정신에 따라 기관은 신문이 무엇을 쓸지 정하거나 기사를 미리 볼 수 없고, 신문은 기관의 평가를 받아쓰지 않고 직접 검증한 것과 기관이 *판단한* 것을 문장 단위로 나눠 쓴다(라르스의 원칙). "배경 설명(*bakgrund*)"으로 들은 말은 미리 합의한 조건대로 실명 없이만 쓰고, 공개 보고서는 이름을 밝혀 인용해 독자가 직접 확인할 수 있게 한다. 마지막 장면의 전화는 다른 문제를 연다: 공무원은 원칙적으로 기자에게 정보를 알릴 자유(*meddelarfrihet*)가 있고 기관은 누가 알렸는지 캐낼 수 없지만(*efterforskningsförbud*), 국방·안보처럼 특별히 엄격한 비밀 사항은 그 보호에서 빠질 수 있다 — 빅토르가 "왜 말하는지 묻지 않겠다"고 먼저 약속하는 이유다.
+
+## 문화·현안 메모
+- **크레프트스키바(*kräftskiva*)** — 8월 늦여름 저녁에 친구·동료와 삶은 민물가재를 먹는 잔치. 가재는 소금물에 왕관 딜(*krondill*, 꽃대가 달린 딜)을 넣어 삶아 차갑게 식혀 먹고, 종이 모자와 턱받이를 두르고, 웃는 달 모양 종이 등을 매단다. 스납스 노래 중 가장 유명한 *Helan går*("첫 잔 간다")는 "첫 잔을 안 드는 사람은 둘째 잔도 못 얻는다"는 가사로 유명하다. 예전에는 법으로 가재잡이가 8월 전까지 금지돼 첫날(*kräftpremiären*)이 전국적인 행사였지만, 이 규제는 1990년대에 없어졌고 지금 팔리는 가재의 상당수는 수입품이다.
+- **콜로니 정원(*koloniträdgård*, *kolonilott*)** — 도시 안의 작은 텃밭 구획으로, 스톡홀름에서는 쇠데르말름의 에릭스달스룬덴처럼 작은 오두막이 딸린 곳이 많다. 아파트에 사는 사람들이 여름 내내 꽃과 채소를 기르고, 저녁이면 이웃 오두막의 노랫소리가 담장을 넘는다.
+- **심리방어의 역사** — 스웨덴의 "심리방어"는 냉전 시기 총력방위(*totalförsvar*)의 한 부분으로 시작됐다. 이 일을 맡던 옛 기관은 2000년대 말 민간비상관리청(MSB)에 흡수됐고, 러시아의 정보 공작과 선거 개입 우려가 커지면서 2022년 독립 기관인 MPF로 다시 세워졌다. 본청은 칼스타드(Karlstad)에 있다.
+- ⚠️ 잉리드 포슈베리, 극중 "8월 상황 보고서"와 그 안의 사례·수치(1,900개 계정, 0시 50분), 콜로니 정원의 헨릭 오두막, 모든 정당과 계정은 허구다. 심리방어청의 설립 연도와 임무는 실제 제도를 일반적인 수준에서 설명했을 뿐, 실제 기관이나 직원의 판단·발언·행위를 묘사하지 않는다.
+
+## 다음 화 예고
+> 8월 27일 목요일, 정당 대표 TV 토론 세 시간 전 — 여러 언론사에 동시에 익명 압축 파일이 도착한다. 서명은 유효하고, 메일은 진짜다. 아미라는 바로 그게 위험하다고 말한다.

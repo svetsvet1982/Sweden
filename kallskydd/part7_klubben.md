@@ -33,7 +33,7 @@
 | **Robin "Kungen" Saarinen** | 31 | Zenit 두목. 두바이에서 체포·송환 | 핀란드계 억양 + 교외 슬랭 A1·A2 (*len, para, walla*) |
 | **Birgitta Alm ("Gråsparven")** | 61 | 법무부 국장급 공무원(*departementsråd*) | 정확하고 건조한 B2. 문장이 짧게 끊긴다 |
 | **Inese Kalniņa** | 42 | Östersjöbanken 리가 지점 컴플라이언스 담당자, 내부고발자 | B1 스웨덴어(웁살라 교환학생·스톡홀름 본사 근무 3년) + 영어 섞기 |
-| **Annika Strand** | 52 | 법무장관 (Samlingspartiet, 가상) | 정치인의 B2. 질문을 질문으로 받는다 |
+| **Kristina Ehn** | 52 | 법무장관 (Samlingspartiet, 가상) | 정치인의 B2. 질문을 질문으로 받는다 |
 | **Gunnar Teglund** | 61 | Mediehuset Norr CEO | 사업가 B1·B2. "Det är inget personligt." |
 | **Henning Aspelin** | 70 | Mediehuset Norr 이사, 장부의 12명 중 하나 | 옛 상류층 B2, 존칭 *ni* |
 | **Caroline Weiss** | 45 | 인수 펀드 **Valvet Partners** 파트너 | 영어 섞인 금융 B2 |
@@ -288,7 +288,7 @@
   - 031–090 대결 인터뷰: 송환 파일, 만찬 날짜, 비서실 메일 (`B2` 집중, 빅토르의 `A1` 단문 질문과 교차)
     - 송환 파일 접근 기록, 만찬 날짜, 비서실 메일 순서로 질문
     - 장관은 질문을 질문으로 받고, 빅토르는 A1 단문으로 되돌린다: "Svara på frågan."
-    - 💬 Annika Strand: "Vad menar ni med 'i förväg'? Vem har sagt att det skedde i förväg?" (미리라니 무슨 뜻이죠? 누가 미리 일어났다고 했나요?)
+    - 💬 Kristina Ehn: "Vad menar ni med 'i förväg'? Vem har sagt att det skedde i förväg?" (미리라니 무슨 뜻이죠? 누가 미리 일어났다고 했나요?)
   - 091–115 장관의 위협과 빅토르의 정중한 분노 (`B2`)
     - 장관의 위협, 공보관이 녹음기를 쳐다본다
     - 빅토르의 목소리가 낮아지고 존칭 *ni*로 굳는다
@@ -412,7 +412,7 @@
   - 101–125 의회 중계와 장관 사임 회견. 압수수색된 Nordhavn (`B2`)
     - 의회 질의, 야당의 불신임 요구
     - 장관 사임 회견, 압수수색된 Nordhavn 사무실 중계
-    - 💬 Annika Strand: "Jag har i dag lämnat in min avskedsansökan till statsministern." (오늘 총리에게 사임서를 제출했습니다.)
+    - 💬 Kristina Ehn: "Jag har i dag lämnat in min avskedsansökan till statsministern." (오늘 총리에게 사임서를 제출했습니다.)
   - 126–150 저녁 Källaren: 소피아의 거취. "우리 살아남았어. 오늘은 그걸로 충분해" (`A2·B1`)
     - 소피아의 사직서, 그 위에 놓이는 편지
     - 노아의 빈 정정 기록, 식은 피자
