@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (70/105화 완성)
+## 대본 목차 (71/105화 완성)
 
 ### 1부
 
@@ -119,3 +119,4 @@
 | 8 | [Psykologiskt försvar](episodes/k5_e08.md) | 심리방어 |
 | 9 | [Debatten](episodes/k5_e09.md) | 토론 |
 | 10 | [Operation Augusti](episodes/k5_e10.md) | 8월 작전 |
+| 11 | [Förundersökningen](episodes/k5_e11.md) | 예비수사 |
