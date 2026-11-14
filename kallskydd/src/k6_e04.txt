@@ -2,7 +2,7 @@
 @subtitle (박사)
 @meta 날짜|2026년 10월 19일 월요일 오전 9시 반 ~ 10월 22일 목요일 오후 2시 반경 (스톡홀름은 이스탄불보다 1시간 늦다)
 @meta 장소|Källaren (월요일 오전 9시 반) → 이스탄불 카디쾨이, 페리 선착장 옆 찻집 (화요일 저녁 6시 반) → 아타쾨이 주상복합 단지 C동 (수요일 오후 2시 반) → 사비하 괵첸 공항 (목요일 새벽 5시 50분) → 아를란다 (오전 9시 40분) → 구스타브 아돌프 광장, 외무부 앞 (오후 2시 반)
-@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자 — 이번 출장에서 빠지고 원격 지원) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장 — 출장 결재자) · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자 — 이번엔 자기 이름으로 출장) · **Deniz** (데니즈 아이든, 40, 이스탄불 거주 프리랜서 기자·픽서, 링케뷔 출신 — 1부 12화 이후 재등장) · **Johan** ("요한", 50대, Säpo 연락관, 성 없음)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자 — 이번 출장에서 빠지고 원격 지원) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장 — 출장 결재자) · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자 — 이번엔 자기 이름으로 출장) · **Deniz** (데니즈 아이든, 40, 이스탄불 거주 프리랜서 기자·픽서, 링케뷔 출신 — 1부 12화 이후 재등장) · **Staffan** ("스타판", 50대, Säpo 연락관, 성 없음)
 @intro **지난 이야기** — 사주가 보낸 보안감사관 헤드비그 팔크는 빅토르의 클라우드 계정이 9월 14일 밤 뉴스 데스크 내선 전화와 사내 IP로 뚫렸다는 것을 밝혔고, 빅토르는 수첩 세 장을 휴대폰으로 찍었다고 팀 앞에서 고백했다. 그 주 화요일 새벽, 아미라의 친구인 이란 출신 망명 언론인 시린의 순드뷔베리 집 창문으로 수류탄이 날아들었다. 마리아는 후스뷔와 순드뷔베리의 주문 계정이 같은 사람이라고 했다. 텔레그램에서 그는 자기를 "Doktorn"이라고 부른다.
 @intro 엿새 뒤, 10월 19일 월요일 오전 9시 반. 아미라는 주말 내내 블록체인 탐색기 앞에 앉아 있었다. 화이트보드에는 지갑 세 개와 화살표 세 개, 날짜 세 개가 붙어 있다.
 # 장면 1 — 월요일 오전 9시 반, Källaren (화이트보드의 지갑 지도, 아미라의 노트북 두 대에 각각 다른 체인 분석 프로그램, 프레드릭이 들고 내려온 출장 결재 서류)
@@ -15,7 +15,7 @@ Viktor|A2|Och den i mitten?|가운데 건?
 Amira|B1|Förskottet till sextonåringen från Örebro. Det betalades tre dagar före granaten i Sundbyberg.|외레브로 열여섯 살한테 간 선금. 순드뷔베리 수류탄 사흘 전에 나갔어.
 Elin|A1|Från samma ställe?|같은 데서요?
 Amira|B2|Jävlar. Båda attackerna betalades från samma mellanhand, och den fylldes på av Zenit förra året.|젠장. 두 공격 다 같은 중개 지갑에서 돈이 나갔고, 그 지갑은 작년에 Zenit이 채웠어.
-Sofia|A2|Långsammare, Amira. För mig.|천천히, 아미라. 나도 알아듣게.
+Sofia|A1|Långsammare. För mig.|천천히. 나도 알아듣게.
 Amira|B1|Plånboken har tagit emot pengar från samma konto inför båda attackerna. Och det kontot fick sina pengar från Kungens kassa.|그 지갑은 두 공격을 앞두고 같은 계좌에서 돈을 받았어. 그리고 그 계좌는 Kungen의 금고에서 돈을 받았고.
 Viktor|A2|Samma adress som i augusti?|8월이랑 같은 주소야?
 Amira|B1|Tecken för tecken. Den som slutar på 0k99t2. I december förra året skickade den pengar till mellanhanden fyra gånger.|한 글자 한 글자 똑같아. 0k99t2로 끝나는 거. 작년 12월에 그 지갑이 중개 지갑으로 네 번 돈을 보냈어.
@@ -33,7 +33,7 @@ Elin|B1|Då är det två röster på samma konto. En som bestämmer, och en som 
 Viktor|B2|Någon ger uppdraget på stel svenska, och någon här hemma gör om det till förortsslang. En beställare och en underleverantör.|누군가는 딱딱한 스웨덴어로 일을 주고, 여기 누군가가 그걸 교외 슬랭으로 바꾸는 거야. 주문자와 하청업자지.
 Sofia|B1|Och var finns Kungen i det här? Senast vi visste något bodde han i Istanbul.|그럼 여기서 Kungen은 어디 있어? 우리가 마지막으로 안 건 이스탄불에 산다는 거였잖아.
 Viktor|A2|Deniz ringde i fredags. Ingen har sett Kungen sedan september.|데니즈가 금요일에 전화했어. 9월 이후로 Kungen을 본 사람이 없대.
-Amira|A2|Då åker jag. Jag känner Deniz, och jag vet vad jag ska leta efter.|그럼 내가 갈게. 데니즈도 알고, 뭘 찾아야 하는지도 알아.
+Amira|B2|Då åker jag. Jag känner Deniz, jag vet vad jag ska leta efter, och om någon ska följa de här pengarna på plats borde det vara den som har ritat kartan.|그럼 내가 갈게. 데니즈도 알고, 뭘 찾아야 하는지도 알아. 이 돈을 현장에서 따라갈 사람이 있다면, 지도를 그린 사람이어야지.
 Sofia|B2|Nej. Din mamma fick ett hotfullt samtal i förra veckan, och förra gången satt du två timmar i ett rum på flygplatsen. Du åker inte.|안 돼. 너희 어머니가 지난주에 협박 전화를 받았고, 지난번엔 공항 방에 두 시간이나 앉아 있었잖아. 넌 안 가.
 Amira|A1|Fan, Sofia.|젠장, 소피아.
 Sofia|B1|Viktor och Elin åker i morgon och kommer hem på torsdag. Du jobbar härifrån och svarar när de ringer.|빅토르랑 엘린이 내일 가서 목요일에 돌아와. 넌 여기서 일하고, 둘이 전화하면 받아.
@@ -77,21 +77,20 @@ Deniz|B1|Jag hämtar er klockan två. Jag bestämmer var vi står, och om jag s�
 Elin|B1|Jag har aldrig varit utomlands som mig själv på ett jobb. Det är konstigare än jag trodde.|일로 해외에 제 이름으로 나온 건 처음이에요. 생각보다 이상하네요.
 Viktor|A2|Hur menar du?|무슨 뜻이야?
 Elin|B2|Som Jenny eller Moa hade jag någon att gömma mig bakom. Om någon här frågar vem jag är, har jag bara mitt eget namn och mitt eget pass.|제니나 모아일 땐 뒤에 숨을 누군가가 있었어요. 여기서 누가 제가 누구냐고 물으면, 저한텐 제 이름이랑 제 여권밖에 없어요.
-Deniz|A2|Det är det bästa skyddet, syster. Riktiga journalister med riktiga pass.|그게 제일 좋은 보호야, 동생. 진짜 기자, 진짜 여권.
-Elin|A2|Säg det till min mage.|그 말 제 배한테 좀 해 주세요.
+Deniz|B2|Det är det bästa skyddet, syster. En journalist med riktigt namn och riktigt pass är svårare att få att försvinna än någon som aldrig har funnits.|그게 제일 좋은 보호야, 동생. 진짜 이름에 진짜 여권을 가진 기자는, 애초에 존재한 적 없는 사람보다 사라지게 만들기가 훨씬 어렵거든.
 Viktor|B1|Telefonerna, Elin. Vi använder bara resetelefonerna, och ingenting går upp i något moln.|폰 말이야, 엘린. 출장용 폰만 써. 그리고 어떤 클라우드에도 아무것도 안 올라가.
 Elin|A2|Jag stängde av allt i morse. Två gånger.|오늘 아침에 다 껐어요. 두 번이나.
 # 장면 3 — 수요일 오후 2시 반, 아타쾨이 주상복합 단지 C동 (경비실, 11층 복도, 1층 관리실 책상 위의 고무줄 묶은 영수증 다발)
-Deniz|A2|Det är block C. Elfte våningen.|C동이야. 11층.
+Deniz|A1|Block C. Elfte våningen.|C동. 11층.
 Viktor|A1|Och vakten?|경비원은?
-Deniz|A2|Han känner mig. Vänta här.|날 알아. 여기서 기다려.
+Deniz|A1|Han känner mig. Vänta.|날 알아. 여기서 기다려.
 Elin|B1|Det sitter kameror i varje hörn, Viktor. Två av dem pekar mot parkeringen och inte mot entrén.|모퉁이마다 카메라가 있어요, 빅토르. 두 대는 입구가 아니라 주차장 쪽을 향해 있어요.
 Viktor|A2|Skriv det inte. Kom ihåg det.|적지 마. 기억해 둬.
 Deniz|B1|Han säger att lägenheten har stått tom sedan den nionde september. Han hade nattskiftet när de åkte.|9월 9일부터 집이 비어 있대. 그들이 떠날 때 자기가 야간 근무였대.
 Viktor|A1|Vilken tid?|몇 시?
-Deniz|A2|Klockan två på natten. En svart SUV.|새벽 두 시. 검은 SUV.
+Deniz|A1|Klockan två. Svart SUV.|새벽 두 시. 검은 SUV.
 Elin|A2|Såg han skylten?|번호판 봤대요?
-Deniz|B1|Han säger att det var iranska skyltar. Han har jobbat här i sex år, och han säger att han vet hur de ser ut.|이란 번호판이었대. 여기서 6년 일했으니까 어떻게 생겼는지 안대.
+Deniz|B2|Han säger att det var iranska skyltar. Han har jobbat här i sex år och påstår att han känner igen dem, men han skulle aldrig upprepa det inför polisen.|이란 번호판이었대. 여기서 6년 일해서 알아볼 수 있다고 주장하는데, 경찰 앞에서는 절대 같은 말 안 할 거래.
 Viktor|B2|Fråga honom om han såg Kungen sätta sig i bilen själv, eller om någon fick hjälpa honom.|Kungen이 자기 발로 차에 탔는지, 아니면 누가 거들어야 했는지 봤냐고 물어봐.
 Deniz|A2|Han gick själv. Han hade bara en väska.|자기 발로 걸어갔대. 가방 하나뿐이었고.
 Viktor|A1|Ensam?|혼자?
@@ -104,7 +103,7 @@ Elin|A1|Vad säger hon?|뭐라고 하세요?
 Deniz|B1|Hon säger att han var artig. Han bar hennes matkassar en gång och frågade aldrig något om henne.|예의 바른 사람이었대. 한 번은 장바구니를 들어 줬고, 자기에 대해선 아무것도 안 물었대.
 Viktor|A2|Och natten när han åkte?|떠나던 날 밤은?
 Deniz|B1|Hon vaknade av dörren. Han tog bara en väska, och resten av sakerna hämtades av en flyttfirma veckan efter.|문소리에 깼대. 가방 하나만 들고 갔고, 나머지 짐은 일주일 뒤에 이삿짐 업체가 가져갔대.
-Elin|A2|Vilken flyttfirma?|어느 업체요?
+Elin|A1|Vilken flyttfirma?|어느 업체요?
 Deniz|A2|Det minns hon inte. Men förvaltaren har papper.|그건 기억 못 하신대. 근데 관리인한테 서류가 있대.
 Viktor|B1|Fråga förvaltaren om vi får titta. Vi tar ingenting med oss, och vi går därifrån om han säger nej.|관리인한테 봐도 되는지 물어봐. 아무것도 안 가져가고, 안 된다고 하면 나오는 거야.
 Deniz|B2|Han säger att hyran för oktober aldrig betalades, och att han inte bryr sig om vem som tittar på kvittona så länge någon till slut betalar honom.|10월 월세가 안 들어왔대. 결국 누가 돈만 내 주면 누가 영수증을 보든 상관없대.
@@ -116,9 +115,9 @@ Elin|A1|Klart. Jag skickar.|됐어요. 보낼게요.
 Amira|B1|Jag har det. Fraktbolaget är registrerat både i Istanbul och i Teheran, och det har funnits sedan 2019.|받았어. 화물 회사가 이스탄불이랑 테헤란 양쪽에 등록돼 있어. 2019년부터 있던 회사야.
 Viktor|A2|Och avsändaren?|발송인은?
 Amira|B2|Kuzey Yıldız Gayrimenkul – samma bolag som köpte lägenheterna i Sarıyer förra hösten. Mottagaren är ett importbolag i Teheran, och vem som äger det kan jag inte se härifrån.|쿠제이 이을드즈 부동산 — 작년 가을 사르예르 아파트들을 산 그 회사야. 수신인은 테헤란의 수입 회사인데, 누가 주인인지는 여기선 안 보여.
-Elin|A2|Vad skickade de?|뭘 보냈대요?
+Elin|A1|Vad skickade de?|뭘 보냈대요?
 Amira|B1|”Hushållsartiklar, fyrtio kartonger.” Den sextonde september – en vecka efter natten med SUV:n.|"가정용품, 40상자." 9월 16일 — SUV가 왔던 밤에서 딱 일주일 뒤야.
-Deniz|A2|Vi går nu. Vakten har ringt någon.|이제 가자. 경비원이 누구한테 전화했어.
+Deniz|B2|Vi går nu, och vi tar inte samma väg ut. Vakten har ringt någon medan vi stod här, och han tittade på dig hela tiden medan han pratade.|이제 가자. 들어온 길로는 안 나가. 우리가 여기 서 있는 동안 경비원이 누구한테 전화했어. 통화하는 내내 너만 쳐다보더라.
 # 장면 4 — 목요일 새벽 5시 50분, 사비하 괵첸 공항 출발 층 카페와 탑승구 → 오전 9시 40분, 아를란다 수하물 찾는 곳 → 오후 2시 반, 구스타브 아돌프 광장 외무부 앞
 Elin|B1|Sofia ringde vid midnatt och ville ha hem oss direkt. Fredrik bokade om oss till första planet.|소피아가 자정에 전화해서 당장 돌아오래요. 프레드릭이 첫 비행기로 바꿔 줬고요.
 Viktor|A2|Från den andra flygplatsen, dessutom.|게다가 다른 공항에서.
@@ -136,26 +135,25 @@ Elin|B1|Samma jacka, samma skor. Han står vid vår gate, fast hans boardingkort
 Viktor|A2|Han tittar inte på oss.|우릴 안 보는데.
 Elin|B2|Nej, och det är just det som är fel. Alla andra vid gaten har tittat på oss minst en gång, eftersom du är den ende som står upp med en papperskopp i handen.|네, 바로 그게 이상한 거예요. 게이트의 다른 사람들은 다 우릴 적어도 한 번은 봤어요. 서서 종이컵 들고 있는 사람이 당신뿐이니까.
 Viktor|A1|Vi går ombord.|탑승하자.
-Elin|B1|Han gick aldrig ombord. Jag vände mig om i flygbryggan, och då stod han kvar vid fönstret med telefonen mot örat.|그 사람 끝내 안 탔어요. 탑승교에서 뒤돌아봤는데, 창가에 그대로 서서 폰을 귀에 대고 있었어요.
+Elin|B2|Han gick aldrig ombord. När jag vände mig om i flygbryggan stod han kvar vid fönstret med telefonen mot örat, som om han rapporterade att vi verkligen hade gått.|그 사람 끝내 안 탔어요. 탑승교에서 뒤돌아봤을 때 창가에 그대로 서서 폰을 귀에 대고 있었어요. 우리가 정말 탔다고 보고라도 하는 것처럼요.
 Viktor|A2|Vi landade för fem minuter sedan. Sätt på telefonen.|5분 전에 착륙했어. 폰 켜.
 Elin|A2|Det har kommit en push från TT. Läs själv.|TT 속보 떴어요. 직접 읽어 보세요.
 Viktor|B2|”Regeringen har beslutat att utvisa en iransk diplomat. Enligt Utrikesdepartementet har hans verksamhet varit oförenlig med hans diplomatiska status.”|"정부, 이란 외교관 1명 추방 결정. 외무부에 따르면 그의 활동은 외교관 지위와 양립할 수 없는 것이었다."
-Elin|A2|Samma dag som vi kommer hem.|우리가 돌아오는 날이네요.
+Elin|B2|Samma dag som vi kommer hem. Antingen är det en slump, eller så har någon vetat om det här mycket längre än vi.|우리가 돌아오는 바로 그날이네요. 우연이거나, 아니면 누군가는 이걸 우리보다 훨씬 오래전부터 알고 있었던 거예요.
 Viktor|A1|Vem visste vilket flyg vi tog?|우리가 어느 비행기 탔는지 누가 알았지?
 Elin|B1|Sofia. Fredrik, som bokade om. Resebyrån, som har systemet. Deniz, som körde oss. Och vi två.|소피아. 다시 예약한 프레드릭. 시스템을 가진 여행사. 우릴 태워 준 데니즈. 그리고 우리 둘.
 Viktor|B2|Fredrik attesterar hundra resor om året, och ett bokningssystem kan läsas av fler än dem som sitter på redaktionen. Vi vet ingenting än.|프레드릭은 1년에 출장을 백 건은 결재해. 그리고 예약 시스템은 편집국 사람들 말고도 볼 수 있는 사람이 많아. 우린 아직 아무것도 몰라.
-Elin|A2|Du sa samma sak om Sarıyer.|사르예르 때도 똑같이 말씀하셨잖아요.
-Johan|A2|Herr Holm. Ni ser trött ut.|홀름 씨. 피곤해 보이시네요.
+Staffan|A2|Herr Holm. Ni ser trött ut.|홀름 씨. 피곤해 보이시네요.
 Viktor|B1|Pressträffen var sju minuter lång, och ministern svarade inte på en enda fråga om varför det sker just nu.|기자회견은 7분이었고, 장관은 왜 하필 지금인지에 대한 질문엔 하나도 답하지 않았어요.
-Johan|B2|Diplomaten har förklarats persona non grata och ska lämna landet inom en vecka. Mer än så står inte i pressmeddelandet, och mer än så säger inte jag.|그 외교관은 기피 인물로 선언됐고 일주일 안에 출국해야 합니다. 보도자료엔 그 이상은 없고, 저도 그 이상은 말하지 않습니다.
+Staffan|B2|Diplomaten har förklarats persona non grata och ska lämna landet inom en vecka. Mer än så står inte i pressmeddelandet, och mer än så säger inte jag.|그 외교관은 기피 인물로 선언됐고 일주일 안에 출국해야 합니다. 보도자료엔 그 이상은 없고, 저도 그 이상은 말하지 않습니다.
 Viktor|B2|Att utvisa en diplomat är en signal, men det stoppar knappast dem som beställer våldet.|외교관을 추방하는 건 신호일 뿐이죠. 폭력을 주문하는 자들을 막지는 거의 못 해요.
-Johan|A2|Hur var Istanbul?|이스탄불은 어땠습니까?
+Staffan|A2|Hur var Istanbul?|이스탄불은 어땠습니까?
 Viktor|A1|Hur vet ni det?|그걸 어떻게 아십니까?
-Johan|B1|Jag läser inte era mejl, om det är det ni undrar. Men ni är inte svåra att se på en flygplats.|당신들 메일을 읽는 건 아닙니다. 그게 궁금하신 거라면요. 다만 공항에서 눈에 안 띄는 분들은 아니죠.
+Staffan|B1|Jag läser inte era mejl, om det är det ni undrar. Men ni är inte svåra att se på en flygplats.|당신들 메일을 읽는 건 아닙니다. 그게 궁금하신 거라면요. 다만 공항에서 눈에 안 띄는 분들은 아니죠.
 Viktor|B1|Vi hade någon i hasorna ända till gaten. Var det ni?|게이트까지 누가 바짝 따라붙었어요. 당신들이었습니까?
-Johan|B2|Vi skuggar inte svenska journalister i Istanbul. Vi har varken mandat eller tid till det. Ni är inte de enda som följer pengarna.|우린 이스탄불에서 스웨덴 기자를 미행하지 않습니다. 그럴 권한도 시간도 없어요. 돈을 따라가는 게 당신들만은 아닙니다.
+Staffan|B2|Vi skuggar inte svenska journalister i Istanbul. Vi har varken mandat eller tid till det. Ni är inte de enda som följer pengarna.|우린 이스탄불에서 스웨덴 기자를 미행하지 않습니다. 그럴 권한도 시간도 없어요. 돈을 따라가는 게 당신들만은 아닙니다.
 Viktor|A2|Samma plånbok? Samma mellanhand?|같은 지갑입니까? 같은 중개 지갑?
-Johan|A1|Ha en bra dag.|좋은 하루 되십시오.
+Staffan|A1|Ha en bra dag.|좋은 하루 되십시오.
 Fredrik|B1|Viktor, vi måste ha utvisningen på sajten inom en timme. Kan vi skriva att du precis har kommit hem från Istanbul?|빅토르, 추방 건 한 시간 안에 사이트에 올려야 해. 네가 방금 이스탄불에서 돌아왔다고 써도 돼?
 Viktor|B2|Nej. Ingenting om resan, ingenting om Ataköy och ingenting om att vi har varit där, förrän vi vet vad vi har. Sofia har redan sagt samma sak.|안 돼. 출장 얘기도, 아타쾨이 얘기도, 우리가 거기 갔었다는 것도 안 돼. 우리가 뭘 쥐고 있는지 알기 전까진. 소피아도 이미 같은 말 했어.
 Fredrik|A2|Okej, okej. Välkommen hem, förresten.|알았어, 알았어. 그나저나 잘 왔어.
@@ -182,7 +180,7 @@ Deniz|B2|Kungen bor inte här längre. Han har nya beskyddare nu – och de har 
 - **이스탄불의 두 얼굴** — 카디쾨이는 아시아 쪽 해안의 젊고 활기찬 동네로, 페리 선착장과 찻집, 시미트(참깨 고리빵) 노점이 상징이다. 아타쾨이는 유럽 쪽 옛 아타튀르크 공항 근처에 들어선 대단지 주거 지역이다. 차이는 튤립 모양의 작은 유리잔에 마신다. 사비하 괵첸은 아시아 쪽의 두 번째 국제공항이다.
 - **"İsveçli"** — 튀르키예어로 '스웨덴 사람'. 스웨덴에서 자란 튀르키예계에게 이 말은 "여기서도 우리 사람이 아니다"라는 뜻이 되기도 한다. 데니즈의 "Svennen, typ"는 스웨덴 교외에서 토박이 스웨덴인을 부르는 속어 *svenne*를 비튼 농담이다.
 - **국가가 범죄 네트워크를 이용한다는 경고** — 2024년 무렵부터 스웨덴 보안경찰(Säpo)은 이란 정권이 스웨덴의 범죄 네트워크를 이용해 공격을 시도한다고 공개적으로 경고해 왔다. 외교관 추방은 국가가 쓸 수 있는 몇 안 되는 공개적 대응이지만, 극중 빅토르의 말처럼 주문하는 쪽의 구조 자체를 끊지는 못한다.
-- ⚠️ 이번 화의 인물(데니즈, 요한, 경비원, 이웃, 관리인), 회사 Kuzey Yıldız Gayrimenkul과 화물 회사, 외교관 추방 사건, "Doktorn"은 모두 허구이며 실제 사건·인물·기관 내부 인물을 묘사하지 않는다.
+- ⚠️ 이번 화의 인물(데니즈, 스타판, 경비원, 이웃, 관리인), 회사 Kuzey Yıldız Gayrimenkul과 화물 회사, 외교관 추방 사건, "Doktorn"은 모두 허구이며 실제 사건·인물·기관 내부 인물을 묘사하지 않는다.
 
 ## 다음 화 예고
 > 제보함에 한 줄이 도착한다 — "Telefonen som beställde Husby ringde inifrån." 빅토르와 엘린은 엔셰핑 외곽의 교도소 주차장으로 간다.
