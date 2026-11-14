@@ -48,7 +48,7 @@
 | **Göran Nilsson** | 58 | 옘틀란드 도청(Länsstyrelsen i Jämtlands län) 허가 담당. 2019~2023년 노르보텐 도청에서 사미 협의 서류 담당 | 관료적 A2·B1, 무너질 때 단문 |
 | **Tomas Lindbäck** | 49 | 노르보텐 지역의원(regionråd, Samlingspartiet) | 사교적, 얼굴을 잘 기억한다 |
 | **Karolina Nordqvist** | 48 | 보덴 그린스틸 기업 Stålgryning CEO | 엔지니어 출신의 건조한 B1·B2 |
-| **Leila Haddad** | 39 | 말뫼 키르세베리의 간호조무사, 두 아이의 엄마 | 스코네식 *hörru, mysko*, 지친 A2 |
+| **Rania Khoury** | 39 | 말뫼 키르세베리의 간호조무사, 두 아이의 엄마 | 스코네식 *hörru, mysko*, 지친 A2 |
 | **Jonas Ekström** | 45 | Säpo 연락관 | 문장을 끝까지 말하지 않는다 |
 
 ---
@@ -278,12 +278,12 @@
 - **엔딩 훅** 카롤리나: "Skriver ni det här i dag är vi döda i morgon. Väntar ni är vi döda om en månad." (오늘 쓰면 우린 내일 죽어요. 기다리면 한 달 뒤에 죽고요.)
 
 ### 10화 — Elpriset (전기요금)
-- 📅 6월 5일 금요일 (국경일 전날) · 📍 말뫼 키르세베리 레일라의 아파트 → 세입자 상담 단체 사무실 → 리베르스보리(Ribersborg) 해변 · 👥 아미라, 노아, 레일라 하다드, 은퇴 교사 군넬(78), 빅토르(전화)
+- 📅 6월 5일 금요일 (국경일 전날) · 📍 말뫼 키르세베리 레일라의 아파트 → 세입자 상담 단체 사무실 → 리베르스보리(Ribersborg) 해변 · 👥 아미라, 노아, 라니아 쿠리, 은퇴 교사 군넬(78), 빅토르(전화)
 - **줄거리** 6월의 말뫼는 따뜻하지만, 레일라의 냉장고에는 아직 지난겨울의 전기요금 독촉장이 붙어 있다. 그녀는 두 아이의 겨울 방을 하나로 합쳤고, 야간 근무 수당은 전부 전기요금으로 나갔다. 아미라와 노아는 SE4 가정들의 부채를 취재하며, 전력거래소의 공개 시간별 가격과 집계 호가 곡선을 내려받아 혹한의 몇몇 밤에 가격을 비정상적으로 끌어올린 매도 호가 패턴을 확인한다. 같은 밤들에 발전소 정지를 알리는 시장 공시(UMM)는 하나도 없었고, 익명을 요구한 전직 트레이더가 그 패턴이 "누군가 물량을 붙잡고 있을 때의 모양"이라고 확인해 준다. 트레이더가 지목한 그 패턴의 중심은 트레이딩사 Öresund Energihandel이다. 회사 이름은 공개 데이터로 직접 확인되지 않아, 팀은 단정 대신 반론을 요청하고 감독기관 신고를 먼저 할지 논쟁한다. 북부의 싼 전기로 돌아가는 녹색 공장과, 남부의 비싼 전기로 버티는 가정이 한 나라 안에 있다. 군넬은 레일라의 아이들 몫으로 뜬 털양말을 아미라 편에 보낸다.
 - **장면 구성**
   - 001–030 레일라의 부엌: 독촉장, 아이들의 등교 준비, 꺼둔 전기 라디에이터. *"Hörru, jag jobbar natt för att betala lampan."* (`A1·A2`, 스코네 말투)
     - 아이들 얼굴은 찍지 않기로 먼저 정한다. 노아가 독촉장 금액만 클로즈업한다.
-    - 💬 Leila: "Barnen sov i samma rum hela vintern. De tyckte det var mysigt. Jag tyckte det var skit." (애들은 겨울 내내 한 방에서 잤어요. 애들은 아늑하다고 했죠. 난 엿 같았고요.)
+    - 💬 Rania: "Barnen sov i samma rum hela vintern. De tyckte det var mysigt. Jag tyckte det var skit." (애들은 겨울 내내 한 방에서 잤어요. 애들은 아늑하다고 했죠. 난 엿 같았고요.)
   - 031–065 상담 단체: 군넬과 이웃들, SE3·SE4 가격 차이 설명, 집행청(Kronofogden)에 넘어간 이웃 이야기 (`A2·B1`)
     - 군넬이 이웃들의 요금 고지서를 묶은 파일을 펼친다. 아미라가 가격지역 지도를 그린다.
     - 💬 Gunnel: "Jag undervisade i fyrtio år, och nu sitter jag med filt och mössa inomhus." (40년을 가르쳤는데, 이젠 집 안에서 담요 덮고 모자 쓰고 앉아 있어요.)
