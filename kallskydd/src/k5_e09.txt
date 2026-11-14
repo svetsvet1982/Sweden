@@ -1,0 +1,187 @@
+@title 5부 9화 — Debatten
+@subtitle (토론)
+@meta 날짜|2026년 8월 27일 목요일 저녁 5시 55분경 ~ 8월 28일 금요일 0시 10분경
+@meta 장소|Kanal Sverige 스튜디오 백스테이지, 분장실 앞 복도 (저녁 6시 직전) → Källaren, 아미라의 격리 노트북 앞 (저녁 6시 40분) → 라르스의 사무실 (저녁 7시 반) → Kanal Sverige 스튜디오, 3번 카메라 뒤 팩트체크 책상 (밤 8시 55분 ~ 9시 10분) → Källaren (자정 직전)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자 — 트롤 취재에서 일시 배제 중, 오늘 밤은 복지 범죄 수치 팩트체크 담당) · **Noah** (노아 베리룬드, 24, 기자, 오늘 밤 계정 모니터링 담당) · **Johanna** (요한나 베리, Kanal Sverige 프로듀서) · **Cecilia** (세실리아 알그렌, 51, Arbetarpartiet 대표·총리 후보) · **Klara** (클라라 베리크비스트, 알그렌의 공보비서) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Lars** (라르스 몰린, 62, 법률고문) · **Camilla** (카밀라 헤딘, 토론 사회자) · **Tord** (토르드 쇠데르룬드, 총리·Samlingspartiet 대표)
+@intro **지난 이야기** — 심리방어청 분석관 잉리드 포슈베리는 공개 보고서 이상은 한 마디도 하지 않았다. 아미라는 기관의 증폭 곡선과 자기 데이터가 분 단위로 맞는다는 걸 확인했지만, "누가 돈을 내는지"는 자기 데이터로 증명할 수 없다는 것도 알았다. 헨릭의 오두막 크레프트스키바가 끝나 갈 무렵, 포슈베리가 개인 휴대폰으로 빅토르에게 전화했다 — "데이터에 제3의 행위자가 있어요. 스웨덴 쪽이고, 정당이 아니에요." 트롤 취재에서 빠져 있는 빅토르에게 온 제보였다.
+@intro 엿새 뒤인 8월 27일 목요일, 사전투표가 시작된 다음 날. 오늘 밤 9시 Kanal Sverige에서 네 정당 대표의 TV 토론이 열린다. Stockholmsposten은 봄부터 이어 온 협업으로 Kanal Sverige와 공동 팩트체크를 맡았다. 노아는 계정 모니터링을, 빅토르는 단 하나 남은 자기 주제 — 복지 범죄 수치를 맡았다. 저녁 6시, 리허설 직전이다.
+# 장면 1 — 저녁 6시 직전, Kanal Sverige 스튜디오 백스테이지 (분장실 앞 복도, 조명 아래 연단 네 개, 3번 카메라 뒤 팩트체크 책상, 노아의 노트북 두 대와 충전기, 빅토르의 종이 수첩)
+Johanna|A2|Tre minuter till genrep! Alla telefoner på ljudlöst, tack.|리허설 3분 전! 전부 휴대폰 무음으로 해 주세요.
+Noah|A1|Min också?|제 것도요?
+Johanna|B1|Din också, Noah. Faktakollen sitter bakom kamera tre, och där får ingenting pipa när partiledarna står i ljuset.|네 것도, 노아. 팩트체크 팀은 3번 카메라 뒤에 앉는데, 당 대표들이 조명 아래 서 있을 땐 거기서 아무것도 울리면 안 돼.
+Noah|A2|Okej. Men mina konton slutar inte prata bara för att jag stänger av ljudet.|알겠어요. 근데 제 계정들은 제가 소리 끈다고 말을 멈추진 않아요.
+Viktor|A2|Han menar kontona han bevakar. Inte sina egna.|자기가 감시하는 계정들 얘기야. 자기 계정 말고.
+Johanna|B1|Jag förstod det. Och du, Viktor – vad gör du här, egentligen? Sofia sa att du är avstängd från trollen.|알아들었어. 그리고 너, 빅토르, 여기서 정확히 뭐 해? 소피아 말로는 트롤 건에서 빠졌다던데.
+Viktor|B1|Från trollen, ja. Men någon måste kontrollera vad de säger om välfärdsbrott i kväll, och det ämnet fick jag behålla.|트롤 건에서는, 응. 하지만 오늘 밤 복지 범죄에 대해 하는 말은 누군가 확인해야 하잖아. 그 주제는 나한테 남겨 줬어.
+Johanna|A2|Fyra partiledare, nittio minuter. Lycka till.|당 대표 넷에 90분. 행운을 빌어.
+Noah|A1|Vem är det där?|저기 저분은 누구예요?
+Viktor|A2|Cecilia Ahlgren. Hon kommer från sminket.|세실리아 알그렌. 분장실에서 나오네.
+Cecilia|B1|Viktor Holm. Ni var den som skrev om Peter Sandell i våras.|빅토르 홀름 씨. 지난봄에 페테르 산델 기사를 쓰신 분이죠.
+Viktor|A1|Det stämmer.|맞습니다.
+Cecilia|B2|Det var obekvämt för mitt parti, och det var rätt av er att skriva det. Jag har sagt det internt, men jag tänkte att ni kanske ville höra det högt en gång.|저희 당엔 불편한 기사였지만, 쓰신 건 옳았어요. 당 안에서는 그렇게 말했는데, 한 번쯤은 직접 들으시면 좋겠다 싶었어요.
+Viktor|B2|Tack. Fast det var inte min artikel som fällde honom, utan hans egna kvitton – och han sitter fortfarande kvar i fullmäktige.|감사합니다. 하지만 그를 끌어내린 건 제 기사가 아니라 그 사람 영수증이었어요. 그리고 그는 아직 시의회에 있죠.
+Cecilia|B1|Det vet jag. Men det är inte jag som bestämmer det, det är väljarna i Norrvik.|알아요. 하지만 그건 제가 정하는 게 아니라 노르비크 유권자들이 정하는 거예요.
+Klara|A2|Cecilia, genrepet. Du står längst till vänster.|세실리아, 리허설이에요. 맨 왼쪽에 서세요.
+Cecilia|A1|Jag kommer.|가요.
+Johanna|A1|Två minuter!|2분!
+Noah|A1|Viktor. Min telefon.|빅토르. 제 휴대폰이요.
+Viktor|A2|Min också. Och hennes pressekreterare tittar på sin.|내 것도. 그리고 저 사람 공보비서도 자기 휴대폰 보고 있네.
+Klara|A1|Nej. Nej, nej. Vem har skickat det här?|안 돼. 안 돼, 안 돼. 이거 누가 보낸 거야?
+Noah|B1|Ett mejl till vår tipsadress, och till alla andra redaktioner också – adresserna står öppet i fältet ”Till”. Elva redaktioner, Kanal Sverige och vi också, plus Arbetarpartiets presstjänst.|저희 제보 주소로 온 메일이에요. 다른 언론사 전부한테도요. "받는 사람" 칸에 주소가 다 보이게 들어가 있어요. 언론사 열한 곳, Kanal Sverige랑 저희도 포함해서요. 거기에 Arbetarpartiet 공보실까지요.
+Viktor|A1|Ämnesraden?|제목은?
+Noah|A2|”Ahlgren visste.” Och en zip-fil som heter Norrvik.|"알그렌은 알고 있었다." 그리고 노르비크라는 이름의 압축 파일 하나요.
+Johanna|B1|Vi fick samma sak för en minut sedan. Ingen här öppnar en bilaga från en okänd avsändare på en dator som sitter i sändningsnätet.|우리도 1분 전에 똑같은 걸 받았어. 여기선 아무도 모르는 발신자의 첨부파일을 방송망에 물린 컴퓨터로 열지 않아.
+Viktor|A2|Sofia skriver: Källaren, nu. Noah, du hinner tillbaka före åtta.|소피아 문자다. 지하실로, 지금. 노아, 8시 전엔 돌아올 수 있어.
+Klara|B2|Herr Holm, om er tidning tänker skriva något i kväll vill vi ha en chans att svara först. Vi har inte ens hunnit läsa vad som står där.|홀름 씨, 그쪽 신문이 오늘 밤 뭔가 쓸 생각이면, 먼저 답할 기회를 주세요. 저희는 거기 뭐가 있는지 읽어 볼 시간도 없었어요.
+Viktor|B1|Ni får frågor skriftligt innan vi publicerar något alls. Men än så länge vet jag inte ens om vi kommer att publicera.|뭐든 보도하기 전에 서면으로 질문을 드릴 겁니다. 하지만 지금으로선 보도를 할지조차 저도 모릅니다.
+Johanna|A2|Genrep om en minut! Klara, din partiledare står inte på sin plats.|리허설 1분 전! 클라라 씨, 당 대표님이 자리에 안 계세요.
+Noah|A1|Är det äkta?|진짜예요?
+Viktor|A2|Det tar vi reda på. Ta din laddare.|그걸 알아봐야지. 충전기 챙겨.
+# 장면 2 — 저녁 6시 40분, Källaren (인터넷 선을 뽑아 둔 아미라의 격리 노트북, 출력한 메일 헤더, 화이트보드에 적힌 "18.02", 노르비크 시 회의록 파일철, 프레드릭의 노트북에 열린 지면 배치표)
+Amira|B1|Ingen rör min dator. Den här sitter inte på nätet, och zip-filen har jag bara öppnat här.|아무도 내 컴퓨터 건드리지 마. 이건 인터넷에 안 물려 있고, 압축 파일은 여기서만 열었어.
+Sofia|A1|Vad finns i den?|안에 뭐가 있어?
+Amira|B1|En mapp som heter ”mejl”, med fjorton mejl. Och en till zip-fil inuti, med lösenord. Den har jag inte kunnat öppna, och jag har inte försökt.|"메일"이라는 폴더 하나, 메일 열네 통. 그리고 그 안에 비밀번호 걸린 압축 파일이 하나 더. 그건 못 열었고, 열어 보려고도 안 했어.
+Fredrik|A2|Och de fjorton mejlen? Vad står det i dem?|그럼 메일 열네 통은? 뭐라고 쓰여 있어?
+Amira|B2|Det viktigaste är från den tredje juni 2024. Sandell skriver från sin kommunadress till Ahlgren att hans fru sitter i styrelsen för Omsorgia Hemtjänst Norr, att beslutet tas den elfte juni och att han inte tänker anmäla jäv, eftersom det ”bara blir rubriker”.|제일 중요한 건 2024년 6월 3일 거야. 산델이 시청 주소로 알그렌한테 써. 자기 아내가 Omsorgia Hemtjänst Norr 이사라는 것, 결정은 6월 11일에 난다는 것, 그리고 이해충돌 신고는 안 할 거라는 것. "기삿거리만 될 뿐"이라서.
+Viktor|A1|Och hon svarar?|그리고 알그렌이 답해?
+Amira|A2|Dagen efter. ”Tack för att du säger det. Vi tar det när vi ses. Inte mer om det här på mejl. /C”|다음 날. "말해 줘서 고마워요. 만나서 얘기해요. 이 얘긴 더는 메일로 하지 말고요. /C"
+Fredrik|B1|Det är ju en rubrik i sig. Statsministerkandidaten visste om jävet och bad honom hålla tyst.|그거 자체가 제목이네. 총리 후보가 이해충돌을 알고 있었고, 입 다물라고 했다.
+Sofia|B1|Hon bad honom att inte mejla om det. Det är inte samma mening, Fredrik.|메일로 하지 말라고 한 거야. 같은 문장이 아니야, 프레드릭.
+Amira|B2|Först tekniken. Jag har gått igenom headrarna i varje mejl – vilka servrar de har passerat och i vilken ordning. Sandells mejl lämnar en server som heter kd-mail01, och den tillhör Kommundata AB, som sköter e-posten åt Norrvik.|일단 기술부터. 메일마다 헤더를 다 봤어. 어느 서버를 어떤 순서로 거쳤는지. 산델의 메일은 kd-mail01이라는 서버에서 나가는데, 그건 노르비크 메일을 관리하는 Kommundata AB 거야.
+Noah|A1|Och DKIM?|DKIM은요?
+Amira|B2|Varje mejl bär en digital signatur från servern som skickade det. Ändrar någon ett enda kommatecken i efterhand, går signaturen sönder. Arbetarpartiet bytte nyckel i januari, men den gamla finns kvar i ett offentligt arkiv, och jag har kontrollerat Ahlgrens svar mot den.|메일마다 보낸 서버의 디지털 서명이 붙어 있어. 누가 나중에 쉼표 하나만 바꿔도 서명이 깨져. Arbetarpartiet는 1월에 키를 바꿨는데, 옛 키가 공개 아카이브에 남아 있어서 그걸로 알그렌 답장을 확인했어.
+Sofia|A1|Och?|그래서?
+Amira|B1|Signaturen håller. Mejlen är äkta, jävlar. Det är just det som gör det farligt.|서명은 유효해. 메일은 진짜야, 젠장. 바로 그게 위험한 거야.
+Viktor|B1|Signaturen visar vilken server som skickade svaret. Den visar inte vem som satt vid tangentbordet.|서명은 어느 서버가 답장을 보냈는지 보여 주지. 누가 키보드 앞에 앉아 있었는지는 안 보여 주고.
+Amira|A2|Nej. Servrar har inga fingrar.|맞아. 서버엔 손가락이 없지.
+Noah|B1|Datumen stämmer också. Kommunstyrelsens protokoll från den elfte juni 2024 ligger på Norrviks webbplats: Sandell var ordförande, och ingen anmälde jäv.|날짜도 맞아요. 2024년 6월 11일 시 집행위원회 회의록이 노르비크 웹사이트에 있어요. 산델이 의장이었고, 아무도 이해충돌 신고를 안 했어요.
+Viktor|B2|Det har vi vetat sedan februari, och protokollet ligger i min låda. Det nya är att någon nu påstår att hon kände till jävet innan mötet ens hade hållits.|그건 2월부터 알던 거야. 그 회의록 내 서랍에 있어. 새로운 건, 회의가 열리기도 전에 그녀가 이해충돌을 알고 있었다고 누군가 지금 주장한다는 거지.
+Noah|B1|Ett annat mejl nämner ”kongressen den fjortonde april”, och den stod i partiets kalender det året. Allt jag kan kontrollera stämmer.|다른 메일엔 "4월 14일 전당대회"가 나오는데, 그해 당 일정표에 그게 있었어요. 제가 확인할 수 있는 건 다 맞아요.
+Fredrik|B2|Då har vi äkta mejl, ett allmänintresse som knappast kan bli större och en partiledardebatt om två timmar. Elva redaktioner har samma fil. Om någon annan kör först har vi förlorat – och läsarna kommer att undra varför vi satt på den.|그럼 진짜 메일이 있고, 이보다 더 클 수 없는 공익이 있고, 두 시간 뒤엔 당 대표 토론이 있어. 열한 곳이 같은 파일을 갖고 있고. 다른 데서 먼저 내면 우리가 진 거야. 독자들은 우리가 왜 깔고 앉아 있었는지 궁금해할 거고.
+Sofia|B1|Vi publicerar inte efter hackarnas schema. Var kommer filen ifrån, Amira?|우린 해커들 일정표대로 보도하지 않아. 파일 어디서 온 거야, 아미라?
+Amira|B1|Från ett krypterat mejlkonto som skapades i förrgår. Men sökvägarna inne i zip-filen är mer intressanta: alla börjar med kd-mail01, norrvik, psandell.|그저께 만들어진 암호화 메일 계정에서. 근데 압축 파일 안의 경로가 더 흥미로워. 전부 kd-mail01, norrvik, psandell로 시작해.
+Noah|A2|Jag har sett de namnen förut. På en läckasajt.|그 이름들, 전에 본 적 있어요. 유출 사이트에서요.
+Fredrik|A1|Var då?|어디서?
+Noah|B2|Jag följer ett par hackerforum sedan i våras, bara för att läsa. Den nittonde augusti lade en utpressningsgrupp som kallar sig NightLedger upp Kommundata på sin sajt, med fyrtio skärmbilder som bevis – och mappnamnen är exakt desamma som här.|봄부터 해커 포럼 몇 개를 보고 있거든요, 읽기만요. 8월 19일에 NightLedger라는 랜섬웨어 그룹이 자기네 사이트에 Kommundata를 올렸어요. 증거로 스크린샷 40장이랑 같이요. 폴더 이름이 여기랑 똑같아요.
+Amira|B2|Du har ett konto på ett hackerforum, Noah? Varje inloggning lämnar spår, och en dag kan någon tolka dem på ett sätt som du inte gillar.|너 해커 포럼에 계정 있어, 노아? 로그인할 때마다 흔적이 남아. 언젠가 누가 그걸 네 마음에 안 드는 식으로 해석할 수도 있어.
+Noah|A2|Bara för att läsa. Jag har aldrig skrivit något där.|읽기만 하려고요. 거기 글 한 번도 안 썼어요.
+Amira|B1|Det pratar vi om i morgon. Kommundata skrev den tolfte augusti att det var en ”begränsad it-incident” och att inga personuppgifter hade lämnat deras system.|그 얘긴 내일 하자. Kommundata는 8월 12일에 "제한적인 IT 사고"였고 개인정보는 자기네 시스템 밖으로 안 나갔다고 발표했어.
+Sofia|B2|Så vi har stulna mejl från en kommuns it-leverantör, utvalda av någon som vi inte känner och skickade till alla samtidigt, tre timmar före en debatt – och dagen efter att förtidsröstningen började.|그러니까 우리 손에 있는 건 한 지자체 IT 공급사에서 훔친 메일이야. 모르는 누군가가 골라서 모두에게 동시에 보냈고, 토론 세 시간 전에, 그것도 사전투표 시작 다음 날.
+Amira|A2|Filerna kom tre timmar före debatten. Det är ingen slump.|파일은 토론 세 시간 전에 왔어. 우연이 아니야.
+Fredrik|B1|Alla läckor har en avsändare med ett motiv. Det har aldrig hindrat oss förut.|유출엔 다 동기 있는 발신자가 있어. 그게 전에 우릴 막은 적은 없잖아.
+Viktor|B1|Även om mejlen är äkta måste vi fråga varför någon vill att vi publicerar dem i kväll.|메일이 진짜라 해도, 누군가 왜 우리가 오늘 밤 그걸 보도하길 바라는지 물어야 해.
+Fredrik|B2|Och den frågan kan vi ställa i samma text. ”Mejlen kommer från ett dataintrång” – en mening i ingressen, och sedan innehållet. Kvällsbladet kommer inte ens att skriva den meningen.|그 질문은 같은 기사에서 던지면 돼. "메일은 해킹에서 나왔다" — 리드에 한 문장, 그다음에 내용. Kvällsbladet은 그 한 문장도 안 쓸걸.
+Sofia|B2|Det är möjligt. Men en mening i ingressen gör inte resten av texten till vår egen granskning. Då har vi bara satt vårt namn på någon annans paket.|그럴 수도 있지. 하지만 리드의 한 문장이 나머지 기사를 우리 검증으로 바꿔 주진 않아. 그럼 남의 꾸러미에 우리 이름만 붙인 거야.
+Fredrik|A2|Så vad gör vi? Väntar?|그럼 뭐 해? 기다려?
+Sofia|B1|Vi går upp till Lars. Viktor och Amira följer med mig. Noah, du åker tillbaka till faktakollen.|라르스한테 올라가. 빅토르랑 아미라는 나랑 같이. 노아, 넌 팩트체크로 돌아가.
+Noah|A1|Och klustret?|그럼 군집은요?
+Sofia|B1|Klustret är ditt i kväll, inte Viktors. Skriv ner varje tid, och skicka ingenting vidare till någon annan än mig och Amira.|오늘 밤 군집은 네 거야, 빅토르 거 아니고. 시간 하나하나 다 적고, 나랑 아미라 말고는 아무한테도 전달하지 마.
+Fredrik|B1|Jag förbereder en text ändå, ifall vi bestämmer oss. Och en förklaring till läsarna, ifall vi inte gör det.|어쨌든 기사는 준비해 둘게, 우리가 하기로 할 경우를 대비해서. 안 하기로 하면 독자한테 낼 설명문도.
+Sofia|A2|Gör båda. Tack, Fredrik.|둘 다 해. 고마워, 프레드릭.
+# 장면 3 — 저녁 7시 반, 라르스의 사무실 (책장을 채운 출판자유법 주석서, 라르스의 만년필과 노란 메모지, 닫힌 문, 아미라가 출력해 온 파일 경로 목록)
+Lars|A2|Stäng dörren. Var är Amira?|문 닫으세요. 아미라는 어디 있습니까?
+Sofia|A2|Hon skriver ut sökvägarna. Fem minuter.|경로 출력하고 있어. 5분.
+Lars|B1|Då tar vi det andra först. Det du frågade mig om i lördags, Sofia, utan namn. Har det lösts?|그럼 다른 것부터 하죠. 지난 토요일에 이름 없이 물어보셨던 것 말입니다, 소피아. 해결됐습니까?
+Sofia|B1|Ja. Viktor kom hem till mig i lördags morse, med en enda mening och utan något namn.|응. 빅토르가 토요일 아침에 우리 집에 왔어. 딱 한 문장만 들고, 이름은 없이.
+Viktor|B2|Källan ringde igen i måndags. Jag frågade om min ansvariga utgivare fick veta vem det är, eftersom det är hon som bär ansvaret om vi någon gång använder något. Svaret var ja – Sofia, och ingen annan.|그 취재원이 월요일에 다시 전화했어요. 제 발행책임자가 누군지 알아도 되느냐고 물었습니다. 언젠가 뭐라도 쓰게 되면 책임을 지는 사람이 그녀니까요. 대답은 예였어요. 소피아만, 다른 사람은 안 된다고.
+Lars|B2|Bra, och jag vill inte veta det. Då upprepar jag bara vad jag sa i lördags: kommer uppgiften ur något som är hemligt av säkerhetsskäl, kan källan själv stå utan meddelarskydd – men ert tystnadslöfte gäller fullt ut ändå. Ni använder den som en riktning att leta i, aldrig som ett citat.|좋습니다. 그리고 저는 알고 싶지 않습니다. 그럼 토요일에 드린 말씀만 반복하죠. 그 정보가 안보상 비밀인 무언가에서 나온 거라면, 취재원 본인은 제보자 보호를 못 받을 수 있습니다. 하지만 여러분의 비밀 유지 약속은 그래도 온전히 유효합니다. 그건 찾아볼 방향으로만 쓰세요. 절대 인용으로는 안 됩니다.
+Sofia|B1|Amira har fått meningen av mig som ett tips, utan namn och utan att jag sa hur den kom till oss. Viktor rör den inte.|아미라한텐 내가 그 문장을 제보로만 줬어. 이름도, 어떻게 우리한테 들어왔는지도 말 안 하고. 빅토르는 손대지 않아.
+Viktor|B1|Jag har inte ens skrivit den i min bok. Där står bara ett datum.|제 수첩에도 안 적었어요. 날짜 하나만 있습니다.
+Lars|A2|Det räcker. Där är Amira.|그거면 충분합니다. 아미라가 오네요.
+Amira|A2|Förlåt. Skrivaren i Källaren är fortfarande trasig, så jag fick gå två våningar.|미안. 지하실 프린터는 아직도 고장이라 두 층 올라가야 했어.
+Lars|B2|Sätt dig. Jag börjar med det som oroar er mest. Ni straffas inte för att ni tar emot materialet. Men ni ansvarar för vad ni gör med det.|앉으세요. 여러분이 제일 걱정하는 것부터 시작하죠. 자료를 받았다고 처벌받진 않습니다. 하지만 그걸로 뭘 하는지는 여러분 책임입니다.
+Viktor|A2|Och den som bröt sig in?|그럼 침입한 사람은요?
+Lars|B2|Grundlagen skyddar rätten att skaffa uppgifter för att publicera dem, men inte den som begår brott för att få tag på dem. Dataintrång är dataintrång. Och om ni ber dem om mer, betalar dem eller laddar ner resten från deras sajt, kan ni själva bli en del av brottet.|헌법은 보도하려고 정보를 구하는 권리는 보호하지만, 그걸 손에 넣으려고 범죄를 저지르는 사람까지 보호하진 않습니다. 데이터 침입은 데이터 침입이죠. 그리고 여러분이 그들한테 더 달라고 하거나, 돈을 주거나, 그들 사이트에서 나머지를 내려받으면, 여러분 자신이 범죄의 일부가 될 수 있습니다.
+Amira|B1|Vi har inte laddat ner något från sajten. Noah har bara sett listan och skärmbilderna, och jag har inte svarat avsändaren.|사이트에서 아무것도 안 받았어. 노아는 목록이랑 스크린샷만 봤고, 나는 발신자한테 답장 안 했어.
+Lars|B2|Fortsätt så. Sedan finns det tre frågor som ni måste kunna besvara innan ni publicerar en enda rad: Är det sant? Är det av allmänt intresse? Och vem skadas – och står skadan i proportion till nyttan?|계속 그렇게 하세요. 그다음엔 한 줄이라도 내기 전에 답할 수 있어야 하는 질문이 세 개 있습니다. 사실인가? 공공의 관심사인가? 그리고 누가 해를 입는가, 그 해가 얻는 것에 걸맞은가?
+Amira|B1|Den första har vi besvarat, så långt det går. Signaturerna håller.|첫 번째는 답했어, 할 수 있는 데까지는. 서명은 유효해.
+Viktor|B1|Den andra också. En statsministerkandidat som kanske visste om ett jäv – det vill väljarna veta.|두 번째도요. 이해충돌을 알았을지도 모르는 총리 후보라면, 유권자들은 알고 싶어 할 겁니다.
+Lars|B2|Ja. Men den tredje är svårare än ni tror. I de fjorton mejlen finns andra människor: tjänstemän, en sekreterare, Annika Sandell. De har inte valt att hamna i ett paket som någon har stulit, och ingen av dem ställer upp i ett val.|네. 하지만 세 번째는 생각보다 어렵습니다. 메일 열네 통에는 다른 사람들도 있어요. 공무원들, 비서 한 명, 아니카 산델. 그들은 누가 훔친 꾸러미에 들어가겠다고 선택한 적 없고, 누구도 선거에 나오지 않습니다.
+Amira|A2|Deras namn skriver vi inte. Aldrig.|그 사람들 이름은 안 써. 절대.
+Lars|B2|Bra. Och det finns en fråga till, som inte står i någon lagbok. Ett urval är också ett påstående. Någon har plockat fjorton mejl ur tusentals – vad lämnade de kvar, och varför?|좋습니다. 그리고 어떤 법전에도 없는 질문이 하나 더 있어요. 골라낸 것 자체가 하나의 주장입니다. 누군가 수천 통 중에서 열네 통을 골랐어요. 뭘 남겨 뒀고, 왜 그랬을까요?
+Viktor|B2|”Vi tar det när vi ses.” Vi vet inte vad hon sa när de sågs – hon kan ha sagt åt honom att anmäla jävet. Publicerar vi mejlen utan det samtalet, påstår vi något som ingen av oss vet.|"만나서 얘기해요." 만났을 때 그녀가 뭐라고 했는지 우린 몰라요. 이해충돌 신고하라고 했을 수도 있죠. 그 대화 없이 메일만 내보내면, 우리 중 누구도 모르는 걸 주장하는 셈이에요.
+Amira|B2|Och den som valde ut dem kan läsa ett svenskt kommunprotokoll. Utpressargrupper bryr sig om lösensummor, inte om Norrviks kommunstyrelse – så antingen har de fått hjälp, eller så har någon köpt ett utdrag av dem.|그리고 그걸 고른 사람은 스웨덴 지자체 회의록을 읽을 줄 알아. 랜섬웨어 그룹은 몸값에 관심 있지, 노르비크 시 집행위원회엔 관심 없어. 그러니까 누가 도와줬거나, 누가 그들한테서 일부를 사 갔거나.
+Lars|B1|Det är en hypotes, Amira. Den får styra vad ni letar efter, men den står inte i texten förrän ni kan visa den.|그건 가설입니다, 아미라. 뭘 찾을지는 그걸로 정해도 되지만, 증명할 수 있을 때까지 기사엔 안 들어갑니다.
+Amira|A2|Jag vet. Jag letar redan.|알아. 벌써 찾고 있어.
+Viktor|B2|Det finns en väg till, som inte går genom någon hackare. Om Sandell mejlade om en upphandling från sin kommunadress kan mejlen vara allmänna handlingar, och då begär vi ut dem från Norrvik i morgon bitti, precis som i februari.|해커를 거치지 않는 길이 하나 더 있어요. 산델이 시청 주소로 조달 건을 두고 메일을 보냈다면, 그 메일은 공문서일 수 있습니다. 그럼 내일 아침 일찍 노르비크에 청구하면 돼요, 2월처럼.
+Lars|B2|Det är rätt väg, men räkna inte med allt. Det som en politiker skriver i egenskap av partiföreträdare är inte en allmän handling, och kommunen kommer att säga att Ahlgrens svar hör dit. Begär ändå – ett avslag måste de motivera skriftligt.|맞는 길입니다만, 다 기대하진 마세요. 정치인이 당 대표자 자격으로 쓴 건 공문서가 아니고, 시는 알그렌의 답장이 거기 속한다고 할 겁니다. 그래도 청구하세요. 거부하려면 서면으로 이유를 대야 하니까요.
+Viktor|A2|Agneta öppnar klockan åtta.|아그네타는 8시에 문 열어요.
+Sofia|B2|Då bestämmer jag så här. Vi publicerar ingenting om mejlen i kväll. Om vi låter hackarna bestämma tidpunkten blir vi en del av deras operation, inte granskare av den. Vår text handlar om vem som skickade dem, varifrån de kommer och varför just nu – och Ahlgren och Sandell får våra frågor skriftligt redan i kväll.|그럼 이렇게 결정할게. 오늘 밤엔 메일에 대해 아무것도 안 낸다. 해커들이 시점을 정하게 두면, 우린 그들 작전의 일부가 되는 거지, 그걸 검증하는 사람이 아니게 돼. 우리 기사는 누가 보냈는지, 어디서 왔는지, 왜 하필 지금인지에 관한 거야. 알그렌과 산델한텐 오늘 밤 안에 서면으로 질문을 보내고.
+Lars|B1|Och om någon annan publicerar före debatten?|그런데 다른 곳이 토론 전에 보도하면요?
+Sofia|B1|Då publicerar någon annan före debatten. Det är deras beslut. Det här är mitt.|그럼 다른 곳이 토론 전에 보도하는 거지. 그건 그들 결정이야. 이건 내 결정이고.
+# 장면 4 — 밤 8시 55분 ~ 9시 10분, Kanal Sverige 스튜디오, 3번 카메라 뒤 팩트체크 책상 (모니터 속 연단 네 개, 노아의 노트북 두 대 — 하나는 군집 감시 목록, 하나는 Kvällsbladet 속보, 빅토르의 복지 범죄 수치 메모, 요한나의 헤드셋)
+Noah|A2|Kvällsbladet. För fyra minuter sedan.|Kvällsbladet이요. 4분 전에.
+Viktor|A1|Rubriken?|제목은?
+Noah|B1|”Läckta mejl: Ahlgren visste om Sandells jäv – bad honom tiga.” Ett citat ur svaret, men inte ett ord om var mejlen kommer ifrån.|"유출 메일: 알그렌, 산델의 이해충돌 알았다 — 입 다물라 했다." 답장에서 인용 하나요. 메일이 어디서 왔는지는 한 마디도 없어요.
+Johanna|B1|Vi kör ingenting i nyheterna heller. Men nu är det publicerat, och då kommer Camilla att fråga. Det har hon rätt att göra.|우리도 뉴스로는 아무것도 안 내. 하지만 이제 보도가 됐으니 카밀라가 물어볼 거야. 그럴 권리가 있고.
+Viktor|A2|Ja. Det har hon.|그래. 있지.
+Johanna|A1|Tio sekunder. Tyst nu.|10초. 이제 조용.
+Camilla|B1|Godkväll och välkomna till kvällens partiledardebatt. Vi börjar med något som har kommit fram den senaste timmen. Cecilia Ahlgren, Kvällsbladet publicerar mejl där Peter Sandell berättar för er om ett jäv i Norrvik. Visste ni om det?|안녕하십니까, 오늘 밤 정당 대표 토론에 오신 것을 환영합니다. 지난 한 시간 사이에 나온 이야기로 시작하겠습니다. 세실리아 알그렌 대표님, Kvällsbladet이 페테르 산델이 노르비크의 이해충돌을 대표님께 알리는 메일을 보도했습니다. 알고 계셨습니까?
+Noah|A1|Hon säger ingenting.|아무 말도 안 해요.
+Viktor|A1|Räkna.|세 봐.
+Noah|A1|Fem … sex … sju.|다섯… 여섯… 일곱.
+Cecilia|B1|Jag har … jag har inte sett de här mejlen tidigare. Jag ber att få återkomma.|저는… 이 메일들을 전에 본 적이 없습니다. 나중에 답변드리겠습니다.
+Tord|B2|Med all respekt: väljarna kan inte vänta på att ni återkommer. Förtidsröstningen har redan börjat, och de har rätt att veta om den som vill leda landet tittade bort när hennes egna partivänner fuskade.|외람되지만, 유권자들은 대표님이 나중에 답하실 때까지 기다릴 수 없습니다. 사전투표는 이미 시작됐고, 이 나라를 이끌겠다는 분이 자기 당 동료들이 부정을 저지를 때 눈을 감았는지 알 권리가 있어요.
+Cecilia|B2|Och väljarna har rätt att veta var de här mejlen kommer ifrån, statsministern, innan någon dömer en annan människa på dem.|그리고 유권자들은 누가 그걸로 다른 사람을 심판하기 전에, 이 메일들이 어디서 왔는지 알 권리가 있습니다, 총리님.
+Noah|A2|Nu händer det. Titta på skärmen, Viktor.|지금 시작해요. 화면 보세요, 빅토르.
+Viktor|B1|Jag får inte titta på klustret. Skriv ner det och säg det till Sofia, inte till mig.|난 군집 보면 안 돼. 적어 두고 소피아한테 말해, 나 말고.
+Noah|B1|Okej. Klockan 21.03 skriver tvåhundraåttio av de fyrahundra kontona samma två ord inom en minut: ”Hon visste.”|알겠어요. 21시 3분, 400개 계정 중 280개가 1분 안에 같은 두 단어를 써요. "그녀는 알았다."
+Johanna|A2|En minut? Hon har knappt slutat prata.|1분? 그 사람 말도 거의 안 끝났는데.
+Noah|B2|Och flera skriver ”fjorton mejl”. Kvällsbladet skrev ”flera mejl”, och ingen har sagt fjorton i tv. Den som skriver de där inläggen vet hur många som ligger i filen.|그리고 여러 계정이 "메일 열네 통"이라고 써요. Kvällsbladet은 "여러 통"이라고 썼고, 방송에선 아무도 열넷이라고 안 했어요. 그 글을 쓰는 사람은 파일에 몇 통이 있는지 알아요.
+Johanna|A1|Herregud.|맙소사.
+Noah|B1|Det andra klustret också – de sextio. De skriver att mejlen är fejk och att Ryssland ligger bakom. Fast signaturerna håller.|다른 군집도요, 60개짜리. 메일은 가짜고 러시아가 배후라고 써요. 서명은 유효한데도요.
+Viktor|B2|Båda sidor har bestämt sig innan någon vet något, vilket är precis vad en sådan operation går ut på. Skicka tiderna till Sofia och Amira.|양쪽 다 아무도 뭘 알기 전에 이미 결론을 냈네. 이런 작전이 노리는 게 바로 그거고. 시간 기록 소피아랑 아미라한테 보내.
+Camilla|A2|Vi går vidare till sjukvården. Tord Söderlund, en minut.|의료 문제로 넘어가겠습니다. 토르드 쇠데르룬드 총리님, 1분입니다.
+Johanna|B1|Hon förlorade debatten på sju sekunder. Resten av kvällen spelar ingen roll.|7초 만에 토론을 잃었네. 오늘 밤 나머지는 의미 없어.
+Viktor|B2|Det var precis det som var meningen. Ingen behövde bevisa att hon hade gjort något fel – det räckte att hon såg ut som någon som inte visste vad hon skulle säga.|바로 그게 목적이었어. 그녀가 잘못했다는 걸 아무도 증명할 필요가 없었지. 무슨 말을 해야 할지 모르는 사람처럼 보이기만 하면 충분했어.
+Noah|B2|Sofia svarar inte. Hon har säkert läst Kvällsbladet, och hade jag varit hon hade jag inte heller svarat.|소피아가 답이 없어요. Kvällsbladet 읽었겠죠. 저라도 답 안 했을 거예요.
+# 장면 5 — 자정 직전, Källaren (텅 빈 뉴스룸, 꺼진 TV, 소피아의 유리방에만 켜진 불, 인터넷 선이 뽑힌 아미라의 격리 노트북, 프레드릭이 써 둔 독자 설명문 출력본)
+Fredrik|B1|Kvällsbladet har haft sin bästa kväll i år. Tre andra har följt efter, och alla citerar Kvällsbladet, inte mejlen.|Kvällsbladet은 올해 최고의 밤을 보냈어. 세 곳이 따라 썼고, 다들 메일이 아니라 Kvällsbladet을 인용해.
+Sofia|A1|Och vi?|우리는?
+Fredrik|B1|En mediekrönikör skriver att Stockholmsposten blev tagen på sängen. Jag har inte svarat honom.|어떤 미디어 칼럼니스트가 Stockholmsposten이 허를 찔렸다고 썼어. 답은 안 했어.
+Sofia|A2|Bra. Och förklaringen till läsarna?|잘했어. 독자 설명문은?
+Fredrik|B2|Den ligger klar till klockan sex: varför vi inte publicerade mejlen i går, vad vi vet om var de kommer ifrån och vad vi har frågat Ahlgren och Sandell. Vi blev inte tagna på sängen, Sofia. Vi var vakna och valde att gå åt ett annat håll.|6시용으로 준비돼 있어. 어제 왜 메일을 보도하지 않았는지, 출처에 대해 아는 것, 알그렌과 산델한테 뭘 물었는지. 우리가 허를 찔린 게 아니야, 소피아. 깨어 있었고, 다른 길로 가기로 한 거지.
+Sofia|A2|Tack. Gå hem nu, Fredrik.|고마워. 이제 집에 가, 프레드릭.
+Fredrik|A2|Du också. Godnatt, Viktor.|너도. 잘 자, 빅토르.
+Viktor|A1|Godnatt.|잘 자.
+Sofia|B2|Det är det ingen som berättar när man blir utgivare: att man ibland har rätt alldeles ensam, och att det ser precis likadant ut som att ha fel.|발행책임자가 될 때 아무도 말해 주지 않는 게 그거야. 가끔은 완전히 혼자서 옳아야 한다는 것, 그리고 그게 틀린 것과 똑같아 보인다는 것.
+Viktor|B2|I kväll ser det likadant ut. Men när någon om en vecka frågar var mejlen kom ifrån, kommer det att synas vem som ställde den frågan först.|오늘 밤엔 똑같아 보이지. 하지만 일주일 뒤에 누가 그 메일이 어디서 왔냐고 물으면, 누가 그 질문을 먼저 던졌는지 보일 거야.
+Sofia|A2|Kanske inte. Noah, är du kvar?|아마도. 노아, 아직 있어?
+Noah|B1|Avsändaren skickade ett nytt mejl till alla elva klockan 23.41. Bara en rad: ”Lösenordet till resten.” Och sedan ett ord.|발신자가 23시 41분에 열한 곳 전부한테 새 메일을 보냈어요. 딱 한 줄요. "나머지 비밀번호." 그리고 단어 하나.
+Viktor|A1|Har du öppnat den?|열어 봤어?
+Noah|B1|Nej. Amira sa att jag inte får göra något utan Sofia. Datorn sitter fortfarande inte på nätet.|아니요. 아미라가 소피아 없인 아무것도 하지 말랬어요. 컴퓨터는 아직 인터넷에 안 물려 있어요.
+Sofia|B2|Vi måste veta vad vi förvarar, annars kan vi inte skydda det. Öppna den, men bara listan – du läser inga filer och klickar inte på något. Jag ringer Lars från mitt rum.|우리가 뭘 보관하고 있는지는 알아야 해. 안 그러면 지킬 수도 없어. 열어. 하지만 목록만. 파일은 하나도 읽지 말고, 아무것도 클릭하지 마. 난 내 방에서 라르스한테 전화할게.
+Noah|A1|Okej. Nu.|알겠어요. 지금요.
+Viktor|A1|Hur många?|몇 개야?
+Noah|A2|Fyra tusen trehundratolv filer. Alla är pdf.|4,312개요. 전부 PDF예요.
+Viktor|A2|Vad heter mapparna?|폴더 이름은?
+Noah|B1|Norrvik. Individ- och familjeomsorgen. Barn och unga. Och filnamnen är initialer och ett födelseår, en efter en.|노르비크. 개인·가족 복지과. 아동·청소년. 그리고 파일 이름은 이니셜이랑 출생 연도예요, 하나하나.
+Viktor|A2|Hibas kommun. Stäng locket, Noah.|히바가 일하는 시야. 노트북 덮어, 노아.
+Noah|B1|Jag vill inte ens öppna dem. Det är barns namn, Viktor.|열고 싶지도 않아요. 애들 이름이에요, 빅토르.
+Sofia|A2|Lars säger att vi väntar till i morgon. Vad har du hittat?|라르스는 내일까지 기다리래. 뭘 찾았어?
+Noah|A2|Det finns mer än mejl här. Socialtjänstakter. Tusentals barn.|메일만 있는 게 아니에요. 사회복지 기록이요. 아이들 수천 명이요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Är det äkta?** | 진짜예요? | *äkta*(진짜의, 진품의)는 형태가 변하지 않는 형용사다: *en äkta ring, ett äkta mejl, äkta mejl*. 반대말은 *falsk*, 구어로는 *fejk*. 노아의 이 짧은 질문에 이번 화 전체가 답한다 — 진짜라는 것만으로는 아무것도 결정되지 않는다 |
+| `A2` | **Filerna kom tre timmar före debatten.** | 파일은 토론 세 시간 전에 왔다. | *före* + 명사 = ~ 전에(시간). 접속사로 쓸 때는 *innan*: *innan debatten började*. 과거형 *kom*(← *komma*). 숫자 하나가 의도를 드러낸다 — 아미라: *Det är ingen slump.*(우연이 아니야.) |
+| `B1` | **Även om mejlen är äkta måste vi fråga varför någon vill att vi publicerar dem i kväll.** | 메일이 진짜라 해도, 누군가 왜 우리가 오늘 밤 그걸 보도하길 바라는지 물어야 한다. | *även om* = ~라 해도(양보). 종속절이 앞에 오면 주절은 동사부터(*måste vi*). *vilja att* + 문장 = (남이) ~하기를 바라다. 진위 다음의 질문 — 누가, 왜 지금 |
+| `B1` | **Signaturen håller. Mejlen är äkta, jävlar. Det är just det som gör det farligt.** | 서명은 유효해. 메일은 진짜야, 젠장. 바로 그게 위험한 거야. | *hålla*(잡다, 붙들다)는 "버티다, 유효하다"는 뜻으로도 쓰인다: *argumentet håller*(그 논리는 성립한다). *Det är just det som…* = 바로 그것이 ~하는 것이다(강조 구문). 진짜 문서가 가짜보다 위험한 이유: 아무도 의심하지 않기 때문이다 |
+| `B2` | **Ni straffas inte för att ni tar emot materialet. Men ni ansvarar för vad ni gör med det.** | 자료를 받았다고 처벌받진 않습니다. 하지만 그걸로 뭘 하는지는 여러분 책임입니다. | *straffas* = 처벌받다(-s 수동태). *för att* + 문장 = ~했다고 해서(이유). *ansvara för* = ~에 책임을 지다. 라르스는 두 문장으로 법과 윤리의 경계를 긋는다 |
+| `B2` | **Om vi låter hackarna bestämma tidpunkten blir vi en del av deras operation, inte granskare av den.** | 해커들이 시점을 정하게 두면, 우리는 그들 작전의 일부가 되는 것이지 그것을 검증하는 사람이 아니게 된다. | *låta* + 목적어 + 원형 = ~가 …하게 두다(사역). *om*절 뒤 주절 도치 *blir vi*. *granskare*(검증자, 감시자)는 *granska*(검증하다)에서 — 탐사보도(*granskande journalistik*)의 핵심 단어다 |
+| 구어 | **bli tagen på sängen** | 허를 찔리다 | 직역하면 '침대에서 잡히다' — 아직 일어나지도 못한 채 당했다는 뜻. *Vi blev tagna på sängen.*(우린 허를 찔렸다.) 프레드릭은 이 관용구를 뒤집는다: 우리는 깨어 있었고(*vakna*), 다른 길을 골랐다 |
+| 미디어·정치 | **partiledardebatt** | 정당 대표 토론 | *parti* + *ledare*(지도자) + *debatt*. 스웨덴 선거운동의 하이라이트로, 공영·민영 방송사가 원내 정당 대표들을 한 무대에 세운다. 관련어: *förtidsröstning*(사전투표), *valrörelse*(선거운동) |
+
+## 저널리즘·법 메모
+해킹 후 유출(*hack-and-leak*)은 진짜 문서를 무기로 쓰는 공작이다. 문서가 진짜이기 때문에 "가짜 뉴스"로 반박할 수 없고, 공작의 힘은 내용이 아니라 *선택*(무엇을 골라 내놓고 무엇을 남겼는가)과 *시점*(정정할 시간이 없는 순간)에서 나온다 — 그래서 소피아는 진위를 확인한 뒤에도 "누가, 어디서, 왜 지금"을 기사의 주어로 삼는다. 스웨덴 출판자유법은 보도를 위해 정보를 구하는 자유(*anskaffarfrihet*)를 보호하지만, 정보를 얻으려고 범죄(예: 데이터 침입 *dataintrång*)를 저지른 사람까지 보호하지는 않는다. 기자가 자료를 *받는 것*은 범죄가 아니지만, 해커에게 더 달라고 하거나 돈을 주거나 유출 사이트에서 나머지를 내려받으면 스스로 범행에 가담할 위험이 있다. 보도 여부는 라르스의 세 질문(사실인가, 공공의 관심사인가, 누가 어떤 해를 입고 그 해가 공익에 걸맞은가)으로 판단하며, 함께 유출된 무관한 시민의 개인정보는 언론윤리 규칙(*publicitetsregler*)에 따라 쓰지 않는다. 같은 문서를 공문서 공개 원칙(*offentlighetsprincipen*)으로 정식 청구하는 길도 있지만, 정치인이 당원·당 대표자 자격으로 주고받은 글은 공문서가 아니어서 한계가 있다. 마지막으로 빅토르의 제보 처리: 취재원의 신원은 취재원이 허락한 범위(발행책임자 한 명)까지만 알리고, 배제된 기자는 제보를 넘긴 뒤 손을 떼며, 제보 내용은 "찾아볼 방향"으로만 쓰고 인용하지 않는다.
+
+## 문화·현안 메모
+- **사전투표(*förtidsröstning*)** — 스웨덴에서는 선거일 18일 전부터 전국의 사전투표소(도서관, 쇼핑센터 등)에서 미리 투표할 수 있고, 유권자의 상당수가 이 기간에 투표한다. 선거일이 9월 13일이면 사전투표는 8월 26일에 시작된다 — 그래서 토론 다음 날 아침의 "정정"은 이미 투표한 사람에게는 닿지 않는다.
+- **지자체 IT 공급사 해킹** — 2024~2025년 스웨덴에서는 지자체·공공기관에 시스템을 공급하는 IT 업체들이 잇따라 랜섬웨어 공격을 받아 서비스가 멈추고, 일부는 대량의 개인정보가 다크웹에 공개됐다. 한 업체가 수십 개 지자체를 맡는 구조라, 공급사 하나가 뚫리면 여러 지자체의 메일·인사·복지 기록이 한꺼번에 위험해진다.
+- **DKIM과 메일 헤더** — DKIM(*DomainKeys Identified Mail*)은 보내는 메일 서버가 메일에 붙이는 전자서명으로, 받는 쪽은 그 도메인이 공개한 키로 서명을 확인한다. 서명이 유효하면 "그 도메인의 서버에서 나갔고, 그 뒤로 내용이 바뀌지 않았다"는 뜻이지, "누가 썼는가"까지 증명하지는 않는다 — 빅토르의 말대로 서버엔 손가락이 없다. 해외 언론사들도 유출 메일 검증에 이 방법을 쓴다.
+- **해킹 유출과 선거** — 2017년 프랑스 대선 결선 직전, 한 후보 캠프의 해킹된 메일이 선거운동 금지 시간 직전에 대량 유포됐고, 프랑스 주요 언론은 대체로 내용을 보도하지 않았다. ⚠️ 이번 화의 정당(Arbetarpartiet, Samlingspartiet), 세실리아 알그렌·토르드 쇠데르룬드·카밀라 헤딘·클라라 베리크비스트, Kommundata AB, 랜섬웨어 그룹 NightLedger, 메일 내용과 토론은 모두 허구이며, 실제 정치인·정당·기업이나 실제 2026년 선거를 묘사하지 않는다.
+
+## 다음 화 예고
+> 8월 31일 월요일, 선거까지 2주. 바사가탄 디지털팀에 정장을 입은 손님이 온다. 유리벽 너머 화이트보드에 한 줄이 적혀 있다 — "Operation Augusti".
