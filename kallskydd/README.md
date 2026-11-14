@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (50/105화 완성)
+## 대본 목차 (51/105화 완성)
 
 ### 1부
 
@@ -94,3 +94,4 @@
 | 3 | [Pensionen](episodes/k4_e03.md) | 연금 |
 | 4 | [Kiruna](episodes/k4_e04.md) | 키루나 |
 | 5 | [Jokkmokk](episodes/k4_e05.md) | 요크모크 |
+| 6 | [Vindkraften](episodes/k4_e06.md) | 풍력 |
