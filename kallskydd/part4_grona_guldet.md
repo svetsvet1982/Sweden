@@ -310,7 +310,7 @@
     - 메시지 날짜는 2023년 5월, 의사록 날짜 사흘 전. 예란의 동의를 받고 헨릭이 화면만 찍는다.
     - 💬 Henrik: "Håll telefonen still, Göran. Jag tar bara skärmen, inte dig." (폰 가만히 들고 있어요, 예란. 화면만 찍어요, 당신은 안 찍어.)
 - **인물 감정선** 예란의 관료적 방어벽은 무너지면서 공포와 함께 이상한 안도를 남긴다. 빅토르는 가해자이자 피해자인 그 앞에서 1부의 산나를 떠올리고, 폭로와 보호 사이에서 다시 망설인다.
-- **복선·연결** "N" 표기는 1부 10화·15화 리암의 두 번째 폰, 3부 4화 엘빈의 드론 일감과 이어지지만 정체는 열어 둔다(연속성 메모). 예란의 직무 정지·예비수사는 15화 이후, 1부 5화 산나의 딜레마는 여기서 변주된다.
+- **복선·연결** "N" 표기는 1부 10화·15화 리암의 두 번째 폰, 3부 4화 에밀의 드론 일감과 이어지지만 정체는 열어 둔다(연속성 메모). 예란의 직무 정지·예비수사는 15화 이후, 1부 5화 산나의 딜레마는 여기서 변주된다.
 - **현안 반영** 허가 행정의 내부자 매수, 녹색 전환 허가 과정의 투명성 문제.
 - **저널리즘·법 포인트** 공공기관 직원은 *meddelarskydd*로 보호되며, 기관은 제보자를 찾아내서는 안 된다(*efterforskningsförbud*). 공문서 공개 청구는 "지체 없이" 처리해야 하며, 지연 자체가 보도 가치가 있다.
 - **핵심 표현** A1 *Har du tid en stund?* / A2 *Jag har jobbat här i trettio år.* / B1 *Vi har sett betalningarna till din frus konsultbolag.* / B2 *Myndigheten får inte efterforska vem som har lämnat uppgifterna till oss – det skyddas av grundlagen.*

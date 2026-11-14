@@ -1,0 +1,187 @@
+@title 3부 4화 — Drönarna
+@subtitle (드론들)
+@meta 날짜|2026년 3월 28일 토요일 아침 8시 ~ 저녁 7시 40분 (전날 밤 아를란다 3시간 폐쇄, 비스뷔 드론 사흘 뒤)
+@meta 장소|아를란다 5터미널 출국장 (아침 8시) → 쿵스홀멘 Stockholmsposten 지하 "Källaren" (오전 11시) → 웁살라 루트하겐(Luthagen), 에밀의 집 (오후 4시) → 웁살라 경찰서 앞 벤치 (저녁 6시 30분) → 경찰서 문 앞 (저녁 7시 40분)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Noah** (노아 베리룬드, 24, 인턴) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Emil** (에밀, 17, 웁살라의 고등학생·주니어 하키 선수) · **Tiina** (티나, 45, 에밀의 어머니 — 핀란드계) · **Maria** (마리아 벤베리, 50, 경찰 국가작전국 경감) · **Annelie** (아넬리, 63, 말라가행 승객) · **Rolf** (롤프, 65, 아넬리의 남편) · **Leila** (레일라, 41, 베이루트행 승객) · **Saga** (사가, 9, 레일라의 딸) · **Kristoffer** (크리스토페르, 38, 오슬로행 출장객)
+@intro **지난 이야기** — 비스뷔 공항 울타리 밖 공공도로에서, 헨릭의 망원 렌즈가 활주로 위를 격자 모양으로 훑는 흰 불빛 하나를 300장 찍었다. 사샤의 초시계로 한 바퀴에 정확히 40초 — 장난이 아니라 측량 비행이었다. 새벽, 사진의 타임스탬프를 따라가 본 헨릭이 말했다: "저건 러시아에서 날아온 게 아니야. 여기서, 이 섬에서 떴어."
+@intro 사흘 뒤, 3월 27일 금요일 밤 9시 45분. 아를란다 상공에 드론 세 대가 나타나고, 공항은 세 시간 동안 문을 닫는다. 120편이 결항됐다. 토요일 아침 8시, 5터미널 출국장의 안내판은 아직도 빨간 줄로 가득하다.
+# 장면 1 — 아침 8시, 아를란다 5터미널 출국장 (빨간 "Inställt" 줄이 늘어선 안내판, 바닥에 깔린 담요와 캐리어, 문 닫힌 카페, 지친 얼굴들)
+Annelie|A2|Inställt. Igen. Vi skulle till Málaga.|결항이요. 또. 말라가 가려고 했는데.
+Viktor|A1|Igen?|또요?
+Annelie|A2|I går kväll satt vi vid gaten i tre timmar. Sen ställde de in allt.|어젯밤에 게이트에서 세 시간을 앉아 있었어요. 그러더니 전부 결항시켜 버렸죠.
+Rolf|B1|Nu säger de att vårt plan går tidigast på måndag, eftersom alla andra också ska iväg samtidigt.|이제는 우리 비행기가 빨라야 월요일에 뜬대요. 다른 사람들도 전부 한꺼번에 떠나야 하니까.
+Viktor|A1|Vad sa de i går?|어제는 뭐라고 했어요?
+Rolf|A2|"Drönare över flygplatsen." Det var allt. Ingen visste mer.|"공항 상공에 드론." 그게 다였어요. 더 아는 사람이 없었고.
+Annelie|B2|Vi har sparat till den här resan i två år. Om någon har gjort det här för skojs skull, så hoppas jag att de förstår vad det kostar vanligt folk.|이 여행 가려고 2년을 모았어요. 누가 이걸 장난으로 했다면, 그게 보통 사람들한테 얼마나 큰 손해인지 알았으면 좋겠네요.
+Viktor|A1|Får jag skriva det?|그 말 써도 될까요?
+Annelie|A2|Ja. Skriv Annelie, sextiotre, från Märsta.|네. 아넬리, 예순셋, 메르스타 사람이라고 쓰세요.
+Leila|A2|Ursäkta, är du från flygplatsen? Vi har väntat sedan sex.|실례지만 공항 직원이세요? 여섯 시부터 기다렸어요.
+Viktor|B2|Nej, jag är journalist på Stockholmsposten. Förlåt – jag önskar att jag kunde ge er ett nytt flyg, men det enda jag kan göra är att skriva om vad det här kostar människor som ni.|아니요, 스톡홀름스포스텐 기자예요. 죄송해요. 새 비행기라도 구해 드리면 좋겠지만, 제가 할 수 있는 건 이 일이 여러분 같은 분들한테 얼마나 큰 대가인지 쓰는 것뿐이에요.
+Saga|A1|Mamma, jag är hungrig.|엄마, 배고파.
+Leila|B1|Vi skulle hälsa på min pappa i Beirut. Han fyller åttio i morgon, och nu vet jag inte ens om vi hinner dit.|베이루트에 계신 아빠 뵈러 가려던 참이었어요. 내일 여든이 되시는데, 이젠 제때 갈 수 있을지도 모르겠어요.
+Viktor|A1|Hur gammal är du?|넌 몇 살이니?
+Saga|A1|Nio. Jag såg drönarna!|아홉 살이요. 나 드론 봤어요!
+Viktor|A1|Såg du dem?|봤어?
+Saga|A2|Från fönstret på planet. Tre små ljus. De dansade.|비행기 창문으로요. 작은 불빛 세 개. 춤추고 있었어요.
+Leila|B1|Vi satt redan i planet när piloten sa att vi måste gå av. Hon tyckte att det var spännande, men jag tänkte på helt andra saker.|이미 비행기에 타고 있었는데 기장이 내려야 한다고 했어요. 애는 신난다고 생각했지만, 저는 전혀 다른 생각을 했죠.
+Viktor|A1|Vilka saker?|어떤 생각이요?
+Leila|B2|Att det inte är lekar längre. Man läser om kablar som går sönder och om drönare över militärbaser, och plötsligt sitter man där med sina barn och undrar vem som egentligen står bakom.|이제 장난이 아니구나 하는 거요. 케이블이 끊겼다느니 군사기지 위에 드론이 떴다느니 하는 기사를 읽다가, 갑자기 애들을 데리고 거기 앉아서 대체 누가 배후에 있는 건지 생각하게 되는 거죠.
+Kristoffer|A2|Det är tredje gången sedan i höstas för mig. Jag har ett möte i Oslo.|전 작년 가을부터 이번이 세 번째예요. 오슬로에 회의가 있거든요.
+Viktor|A1|Tre gånger?|세 번이요?
+Kristoffer|B1|En gång i Köpenhamn, en gång i Oslo och nu här. Varje gång säger de att det är drönare, men ingen åker fast.|한 번은 코펜하겐, 한 번은 오슬로, 이번엔 여기. 매번 드론이라고 하는데, 잡히는 사람은 없어요.
+Viktor|B1|Vad tror du själv? Är det samma folk?|직접은 어떻게 생각하세요? 같은 사람들일까요?
+Kristoffer|B2|Jag säljer ventilationssystem, så jag ska inte låtsas att jag vet. Men om det vore en tonåring med en leksak, skulle de väl ha hittat honom vid det här laget?|전 환기 장치 파는 사람이라 아는 척은 안 할게요. 그래도 그냥 장난감 든 십대였으면, 지금쯤은 찾았어야 하는 거 아닌가요?
+Viktor|B2|Kanske. Men den som har råd att stänga en flygplats i tre timmar har oftast också råd att låta någon annan hålla i kontrollen.|그럴지도요. 하지만 공항을 세 시간 닫을 여력이 있는 사람이라면, 대개 조종기는 다른 누군가한테 쥐여 줄 여력도 있죠.
+Noah|B1|Viktor, det är Noah. Jag har hittat en Telegramkanal som heter Flygjobb. De betalar folk för att flyga nära Arlanda.|빅토르, 노아예요. '플뤼그요브'라는 텔레그램 채널을 찾았어요. 아를란다 근처에서 드론 날리면 돈을 준대요.
+Viktor|A2|Jag kommer. Ge mig fyrtio minuter.|갈게. 40분만 줘.
+# 장면 2 — 오전 11시, Källaren (노아의 위장용 공기계, 아미라의 모니터 두 대에 띄운 위성지도, 벽에 아직 붙어 있는 비스뷔 드론 사진, 식은 커피)
+Noah|A1|Kolla här.|여기 봐요.
+Viktor|A2|Hur hittade du den?|어떻게 찾았어?
+Noah|B1|Någon kommenterade under ett drönarklipp på Tiktok: "Vill du tjäna cash på din drönare?" Länken gick till en öppen kanal, och därifrån fick man en inbjudan hit.|틱톡 드론 영상 밑에 누가 댓글을 달았어요. "드론으로 돈 벌고 싶어?" 링크가 공개 채널로 이어졌고, 거기서 여기 초대장을 받았어요.
+Viktor|A1|Med vilket konto?|어떤 계정으로?
+Noah|B1|Mille. Sexton, från Skärholmen. Samma telefon och samma regler som i höstas – jag tittar, jag svarar ingen, och allt står i loggboken.|밀레요. 열여섯, 셰르홀멘. 작년 가을이랑 같은 폰, 같은 규칙이에요. 보기만 하고, 아무한테도 답 안 하고, 전부 일지에 적어요.
+Amira|B1|Och Sofia läste loggboken klockan nio i morse, innan du kom. Hon sa ja till att titta, inte till något annat.|그리고 소피아가 오늘 아침 9시에, 너 오기 전에 일지 읽었어. 보는 것까진 된다고 했어. 그 이상은 아니고.
+Viktor|A2|Bra. Vad står det i kanalen?|좋아. 채널엔 뭐라고 돼 있어?
+Noah|A2|Kolla, de har en prislista. Tre lax för tjugo minuter, fem för nattjobb.|봐요, 가격표가 있어요. 20분에 3천, 야간 일은 5천.
+Viktor|A2|Tre lax. Samma ord som Dejan använder.|'연어 세 마리'라. 데얀이 쓰는 말이랑 똑같네.
+Noah|B1|Samma ord som överallt där barn rekryteras. Det ska låta som ett sommarjobb, inte som ett brott.|애들 모으는 데는 어디나 같은 말이에요. 범죄가 아니라 여름 알바처럼 들려야 하니까요.
+Amira|A2|Läs reglerna högt.|규칙 소리 내서 읽어 봐.
+Noah|B1|"Flyg där vi säger, när vi säger. Filma i tjugo minuter. Skicka filmen, sen får du betalt." Och längst ner: "Inga frågor."|"우리가 말하는 곳에서, 우리가 말하는 때 날려라. 20분 찍어라. 영상 보내면 돈 준다." 그리고 맨 밑에. "질문 금지."
+Viktor|B1|Det är samma ton som i Uppdrag Sthlm. Korta meningar och en punkt efter varje.|'업드라그 스톡홀름'이랑 같은 말투네. 짧은 문장, 문장마다 마침표.
+Amira|B2|Det är en ton, inte ett bevis. Hälften av alla som skriver på Telegram låter som en sergeant, så jag tänker inte jämföra med Liams telefon förrän vi har något mer än en känsla.|그건 말투지 증거가 아니야. 텔레그램에 글 쓰는 사람 절반은 무슨 부사관처럼 말해. 느낌 말고 뭔가 더 생기기 전엔 리암 폰이랑 비교 안 할 거야.
+Noah|A2|Det finns också "kvitton". Filmer som folk har skickat när jobbet var klart.|'영수증'도 있어요. 일 끝나고 사람들이 보낸 영상들이요.
+Viktor|B2|Står det något om Visby? I tisdags flög en drönare i ett exakt mönster över banan där, och om det är samma kanal vill jag veta det innan någon annan drar slutsatsen åt oss.|비스뷔 얘기는 있어? 화요일에 거기 활주로 위로 드론이 딱 떨어지는 패턴으로 날았잖아. 같은 채널이라면, 남들이 우리 대신 결론 내리기 전에 알고 싶어.
+Noah|A2|Ingenting om Visby. Men en film från i går, klockan 22.03. Fyrtiotre sekunder.|비스뷔 얘긴 없어요. 근데 어제 영상이 하나 있어요. 22시 3분. 43초짜리.
+Amira|B1|Kanalen blockerar skärmdumpar, så jag filmar skärmen med min telefon, med klockan i bild. Som i höstas.|채널이 화면 캡처를 막아 놔서, 내 폰으로 화면을 찍을게. 시계 나오게. 작년 가을처럼.
+Viktor|A1|Vad ser du?|뭐가 보여?
+Amira|B1|Gatlampor av den gamla sorten, med böjd hals, och ett bullerplank av trä med gröna stolpar. Och där borta inflygningsljusen.|목이 굽은 옛날식 가로등이랑, 초록 기둥 박힌 나무 방음벽. 그리고 저 멀리 진입등.
+Noah|A2|Hur vet du att det är Arlanda?|아를란다인 건 어떻게 알아요?
+Amira|B2|Inflygningsljusen ligger i en rak rad som pekar mot banan, och det finns bara ett ställe norr om flygplatsen där en skogsväg korsar den raden bakom ett sånt plank. Jag har satellitbilden bredvid – lampan, planket, till och med en trasig stolpe stämmer.|진입등은 활주로를 가리키며 일직선으로 늘어서 있고, 공항 북쪽에서 숲길이 그런 방음벽 뒤로 그 줄을 가로지르는 데는 딱 한 군데뿐이야. 옆에 위성사진 띄워 놨어. 가로등, 방음벽, 부러진 기둥 하나까지 맞아.
+Viktor|B2|Så den som filmade stod på en skogsväg norr om flygplatsen, mitt i inflygningen – i ett flygförbudsområde där varje plan i luften hade fått vika av om drönaren hade synts.|그러니까 찍은 사람은 공항 북쪽 숲길, 진입 경로 한가운데 서 있었던 거네. 드론이 눈에 띄었다면 하늘에 있던 비행기가 전부 방향을 틀어야 했을 비행 금지 구역에.
+Noah|B1|Och han skickade en bild på betalningen också, fast ingen bad om den. Han var stolt.|그리고 송금 화면 사진도 보냈어요. 아무도 달라고 안 했는데. 자랑스러웠나 봐요.
+Viktor|A1|Vem fick pengarna?|돈은 누가 받았어?
+Noah|A2|Bara initialer. "E. K." Tre tusen kronor, klockan 22.14.|이니셜만요. "E. K." 3천 크로나, 22시 14분.
+Amira|B2|Avsändaren är ett företagsnummer som vi inte känner igen. Det ska jag gräva i efter lunch, men även om jag hittar bolaget säger det ingenting om vem E. K. är – den som betalar och den som tar emot är två olika frågor.|보낸 쪽은 우리가 모르는 법인 번호야. 점심 먹고 파 볼 건데, 회사를 찾는다 해도 E. K.가 누군지는 알 수 없어. 돈 낸 사람이랑 받은 사람은 별개의 질문이니까.
+Noah|B1|Men titta på slutet av filmen. När han vänder telefonen syns hans jacka i en bilruta – en grön uggla och texten "J18".|근데 영상 끝을 봐요. 폰을 돌릴 때 차 유리에 재킷이 비쳐요. 초록 부엉이에 "J18"이라는 글자.
+Amira|B2|J18 är ett juniorlag i ishockey, och en grön uggla har bara en klubb i Uppsala. På deras hemsida finns lagbilden från i höstas med alla namn under, och av tjugotvå spelare är det en enda som har initialerna E. K.|J18은 아이스하키 주니어 팀이고, 초록 부엉이를 쓰는 클럽은 웁살라에 하나뿐이야. 홈페이지에 작년 가을 단체사진이 이름이랑 같이 올라와 있는데, 선수 스물두 명 중에 이니셜이 E. K.인 건 딱 한 명이야.
+Noah|A1|Emil. Sjutton år.|에밀. 열일곱 살.
+Viktor|B1|Alva har en kompis som också fick ett erbjudande i vintras. Kan det vara han?|알바 친구 중에도 지난겨울에 제안을 받은 애가 있어. 그 애일 수도 있나?
+Amira|B1|Nej. Alvas kompis är sexton och bor i Bromma. Den här bor i Luthagen i Uppsala, och hans mamma står på samma adress.|아니. 알바 친구는 열여섯이고 브롬마에 살아. 이 애는 웁살라 루트하겐에 살고, 엄마도 같은 주소로 돼 있어.
+Viktor|B2|Då ringer jag mamman först, och om hon säger nej åker vi inte dit. Han är sjutton: inget namn, ingen skola, inget lag och inget ansikte, vad han än har gjort.|그럼 엄마한테 먼저 전화할게. 엄마가 안 된다고 하면 안 가. 열일곱 살이야. 이름도, 학교도, 팀도, 얼굴도 안 돼. 걔가 무슨 짓을 했든.
+Noah|A2|Får jag följa med?|저도 따라가도 돼요?
+# 장면 3 — 오후 4시, 웁살라 루트하겐, 에밀의 집 (현관을 막고 선 하키 가방과 스틱 두 자루, 신발 더미, 부엌 식탁 위의 드론 상자, 냉장고에 붙은 경기 일정표)
+Tiina|A2|Kom in. Akta skorna. Och väskan.|들어오세요. 신발 조심하시고요. 가방도.
+Viktor|A2|Tack. Det här är Noah, min kollega.|감사합니다. 이쪽은 동료 노아예요.
+Noah|A2|Hej. Tack för att vi fick komma en lördag.|안녕하세요. 주말인데 오게 해 주셔서 감사해요.
+Tiina|B1|Det är hockeyväskan. Den har stått i hallen sedan i augusti, eftersom ingen i det här huset orkar bära den till förrådet.|하키 가방이에요. 8월부터 현관에 있어요. 이 집엔 그걸 창고까지 들고 갈 기운 있는 사람이 없어서요.
+Viktor|B2|Som jag sa i telefon: vi skriver inte hans namn, och vi pratar inte med honom om du inte sitter bredvid. Om du vill avbryta samtalet räcker det att du säger det, när som helst.|전화로 말씀드린 대로, 아드님 이름은 안 씁니다. 그리고 어머님이 옆에 계시지 않으면 아드님과 얘기하지 않습니다. 대화를 끝내고 싶으시면 언제든 그렇게 말씀만 하세요.
+Tiina|A2|Emil! Kom hit. Nu.|에밀! 이리 와. 지금.
+Emil|A1|Vad är det?|뭔데?
+Tiina|B1|De här är från en tidning i Stockholm. De tror att du vet något om flygplatsen i går, och jag har sagt att de får fråga.|이분들 스톡홀름 신문사에서 오셨어. 네가 어제 공항 일에 대해 뭔가 안다고 생각하시더라. 물어봐도 된다고 내가 그랬어.
+Emil|A2|I går? Jag var hos Oskar. Vi spelade hela kvällen.|어제? 오스카네 있었는데. 밤새 게임했어.
+Viktor|A1|Hela kvällen?|밤새?
+Emil|A2|Typ. Till tolv. Sen cyklade jag hem.|대충요. 열두 시까지. 그다음에 자전거 타고 집에 왔어요.
+Viktor|B1|Jag ska säga varför vi är här, så kan du bestämma själv om du vill prata. Ingen här kan tvinga dig.|우리가 왜 왔는지 말해 줄게. 그러면 얘기할지 말지는 네가 정하면 돼. 여기 누구도 널 강요할 수 없어.
+Emil|A1|Okej.|네.
+Viktor|B2|I går kväll stängdes Arlanda i tre timmar på grund av drönare. I en Telegramkanal finns det en film från en skogsväg norr om flygplatsen, och i en bilruta syns en jacka med en grön uggla och J18.|어젯밤 드론 때문에 아를란다가 세 시간 폐쇄됐어. 어떤 텔레그램 채널에 공항 북쪽 숲길에서 찍은 영상이 있는데, 차 유리에 초록 부엉이랑 J18이 찍힌 재킷이 비쳐.
+Emil|A2|Alla i laget har den jackan. Det är typ tjugo pers.|팀 애들 다 그 재킷 있어요. 한 스무 명쯤.
+Noah|A2|Tjugotvå. Men bara en heter E. K.|스물두 명. 근데 E. K.는 한 명뿐이야.
+Emil|A2|Och? Det betyder ingenting.|그래서요? 그게 뭘 증명하는데요.
+Tiina|A2|Emil. Titta på mig.|에밀. 엄마 봐.
+Emil|B1|Asså, jag lovar, jag var hos Oskar. Jag kan visa bilder, vi tog selfies när vi åt pizza.|그러니까, 진짜예요, 오스카네 있었어요. 사진 보여 줄 수 있어요. 피자 먹으면서 셀카 찍었거든요.
+Viktor|B2|Vi är journalister, inte poliser och inte advokater. Du behöver inte bevisa någonting för oss, och om du hellre vill vänta tills du har pratat med en vuxen som är på din sida, så går vi.|우린 기자야. 경찰도 변호사도 아니고. 우리한테 아무것도 증명할 필요 없어. 네 편인 어른이랑 먼저 얘기해 보고 싶으면, 우린 갈게.
+Emil|A2|Jo. Kolla. Här. Klockan sju.|아니요. 봐요. 여기. 일곱 시.
+Noah|A1|Och den bredvid?|그 옆에 건?
+Emil|A1|Vilken?|뭐요?
+Noah|B1|Videon bredvid pizzabilden. Den börjar med samma gatlampa som filmen i kanalen.|피자 사진 옆에 있는 동영상. 채널 영상이랑 같은 가로등으로 시작하네.
+Tiina|A2|Ge mig telefonen.|폰 이리 줘.
+Viktor|B1|Vi rör den inte, och ingen ska radera något. Lägg den på bordet, Emil.|우린 그거 안 만집니다. 그리고 아무도 아무것도 지우면 안 돼요. 탁자에 내려놔, 에밀.
+Tiina|B1|Jag vill se den. Jag är hans mamma, och jag har rätt att veta vad min son gjorde i går kväll.|볼 거예요. 전 얘 엄마고, 우리 아들이 어젯밤에 뭘 했는지 알 권리가 있어요.
+Emil|A1|Mamma, snälla.|엄마, 제발.
+Tiina|A2|Du sa att du var hos Oskar den kvällen.|그날 밤 오스카네 있었다고 했잖아.
+Emil|A1|Jag vet.|알아.
+Tiina|A2|Voi ei. Det är flygplatsen. Det är du som filmar.|세상에. 공항이잖아. 네가 찍은 거잖아.
+Emil|A2|Jag visste inte! Jag visste inte att de skulle stänga.|몰랐어! 공항을 닫을 줄은 몰랐다고.
+Viktor|A1|Vad trodde du?|넌 뭐라고 생각했는데?
+Emil|A2|Asså, jag trodde det var typ för YouTube. Sjukt lätt cash.|그러니까, 그냥 유튜브용 같은 건 줄 알았어요. 완전 쉬운 돈이라서.
+Noah|A1|Vem betalade dig?|누가 돈 줬어?
+Emil|A2|Jag fick tre tusen kronor i en app. Från ett företag, typ. Jag vet inte vem.|앱으로 3천 크로나 받았어요. 무슨 회사 같은 데서요. 누군지는 몰라요.
+Viktor|A2|Hur hittade de dig?|그 사람들이 널 어떻게 찾았어?
+Emil|B1|Jag la upp drönarklipp på Tiktok, från matcherna och från sjön. Någon skrev att jag var bra och att det fanns jobb för folk som kunde flyga.|틱톡에 드론 영상 올렸어요. 경기랑 호수에서 찍은 거요. 누가 제가 잘한다고, 날릴 줄 아는 사람한테 일이 있다고 댓글 달았어요.
+Tiina|B2|Den drönaren fick han i julklapp av sin pappa i Åbo. Jag sa att den var för dyr för en sjuttonåring, men ingen lyssnar på mig när det gäller presenter.|그 드론, 오보(투르쿠)에 사는 애 아빠가 크리스마스 선물로 준 거예요. 열일곱 살한테 너무 비싸다고 했는데, 선물 얘기만 나오면 아무도 내 말을 안 들어요.
+Emil|A1|Förlåt, mamma.|미안해, 엄마.
+Viktor|B1|Fick du veta i förväg var och när du skulle flyga?|어디서, 언제 날려야 하는지 미리 들었어?
+Emil|B1|Bara en karta med en prick, och klockslaget: 21.40. De sa att jag skulle filma lamporna i tjugo minuter och sedan åka hem.|점 찍힌 지도 하나랑 시각만요. 21시 40분. 불빛을 20분 찍고 집에 가라고 했어요.
+Noah|B1|Var du ensam där ute, eller såg du någon annan som också hade fått ett jobb?|거기 너 혼자였어? 아니면 일을 받은 다른 사람도 봤어?
+Emil|B1|Nej, men jag såg två andra ljus på himlen, längre bort. Jag trodde att det var flygplan, eftersom de flög så rakt.|아니요. 근데 하늘에 다른 불빛 두 개가 더 멀리 있었어요. 너무 똑바로 날아서 비행기인 줄 알았어요.
+Viktor|B1|Han visste inte att flygplatsen skulle stängas, men han förstod att det inte var ett vanligt jobb.|아드님은 공항이 폐쇄될 줄은 몰랐어요. 하지만 보통 일이 아니라는 건 알았던 거죠.
+Emil|B1|Jag fattade det när de skrev "inga frågor". Men då hade jag redan sagt ja, och jag ville inte verka som en bebis.|"질문 금지"라고 썼을 때 알았어요. 근데 그땐 이미 한다고 했고, 애기처럼 보이기 싫었어요.
+Tiina|B2|Då åker vi till polisen, du och jag, i kväll. Inte för att en tidning säger det, utan för att jag hellre sitter bredvid dig där än väntar på att de ska knacka på vår dörr.|그럼 경찰서 가자, 너랑 나랑, 오늘 밤에. 신문사가 그러라고 해서가 아니야. 그 사람들이 우리 집 문 두드리길 기다리느니 거기서 네 옆에 앉아 있는 게 나아서야.
+Viktor|B2|Om du vill kan jag ringa en polis som jag litar på, så att ni slipper sitta i en kö en lördagskväll. Men det är du som bestämmer, och om du hellre åker utan mig är det lika bra.|원하시면 제가 믿는 경찰 한 사람한테 연락드릴게요. 토요일 밤에 줄 서서 기다리지 않으시도록요. 하지만 결정은 어머님이 하세요. 저 없이 가시는 게 낫다면 그것도 괜찮습니다.
+Tiina|B2|Ring. Men säg att det är jag som kommer med min son av egen vilja, och att ingen tidning har skickat oss dit.|연락해 주세요. 하지만 제가 제 발로 아들을 데리고 가는 거고, 어느 신문사가 우릴 보낸 게 아니라고 전해 주세요.
+# 장면 4 — 저녁 6시 30분, 웁살라 경찰서 앞 벤치 (자판기 종이컵 커피 두 잔, 주차장의 티나의 차 — 에밀과 티나는 차 안에서 기다린다, 노아는 빅토르의 차에서 일지를 쓴다)
+Maria|B2|Uppsala igen, Viktor. Förra gången gick du in genom en dörr innan vi hann dit, och jag hade hoppats att det skulle bli den sista.|또 웁살라네, 빅토르. 지난번엔 우리가 도착하기도 전에 문 열고 들어갔지. 그게 마지막이길 바랐는데.
+Viktor|B1|Den här gången knackade jag, och jag frågade mamman först. Det var hon som ville att jag skulle ringa dig.|이번엔 노크했어. 엄마한테 먼저 물어봤고. 너한테 전화하길 원한 것도 그 엄마야.
+Maria|A1|Kaffe?|커피?
+Viktor|A2|Du dricker det ändå aldrig.|어차피 넌 안 마시잖아.
+Maria|B1|Nej, men då har jag något att hålla i medan jag bestämmer mig för hur arg jag är.|안 마시지. 근데 내가 얼마나 화가 났는지 정하는 동안 손에 쥘 게 있잖아.
+Viktor|A2|Och hur arg är du?|그래서 얼마나 화났는데?
+Maria|B2|Arlanda är vårt sedan i natt. Nationella operativa avdelningen tog över, eftersom tre drönare samtidigt över en flygplats inte ser ut som en slump, och det sista jag behöver är en tidning som har varit hemma hos en misstänkt före mig.|아를란다는 어젯밤부터 우리 소관이야. 국가작전국이 넘겨받았어. 공항 하나 위에 드론 세 대가 동시에 뜬 게 우연처럼 보이진 않으니까. 그리고 지금 나한테 제일 필요 없는 게, 나보다 먼저 용의자 집에 다녀온 신문사야.
+Viktor|B1|Vi frågade, och vi rörde ingenting. Det var mamman som bestämde att han skulle prata.|우린 물어봤고, 아무것도 안 건드렸어. 얘기하라고 정한 것도 그 엄마고.
+Maria|A2|Ni rör inte hans telefon. Den är bevis nu.|그 애 휴대폰 건드리지 마. 이제 증거니까.
+Viktor|B1|Den ligger i hans mammas väska, och där har den legat sedan klockan fem. Ingen av oss har hållit i den.|그 엄마 가방에 있어. 다섯 시부터 계속 거기 있었고. 우리 중 누구도 손 안 댔어.
+Maria|B1|Och det ni har sparat från kanalen? Det vill jag ha, i dag och inte i nästa vecka.|그럼 너희가 채널에서 저장한 건? 그거 받고 싶어. 다음 주 말고 오늘.
+Viktor|B2|Då ringer du Lars Mohlin, som alla andra. Vi lämnar inte ut journalistiskt material för att någon frågar snällt på en bänk, och det vet du.|그럼 라르스 몰린한테 전화해, 다른 사람들처럼. 벤치에서 누가 좋게 부탁한다고 취재 자료를 넘기진 않아. 너도 알잖아.
+Maria|B2|Jag vet. Men jag vet också att du har en sjuttonåring där borta i bilen som du gärna skulle skriva om, och jag undrar om du ser honom som ett barn eller som en källa.|알아. 근데 너한테 저기 차 안에 기사로 쓰고 싶은 열일곱 살이 있다는 것도 알아. 넌 그 애를 아이로 보는지, 취재원으로 보는지 궁금하네.
+Viktor|B2|Som ett barn. Jag tänker inte bli journalisten som lämnar över en minderårig till polisen, och jag tänker inte heller vara den som hindrar honom från att gå in. Det var hans mamma som bestämde.|아이로. 난 미성년자를 경찰한테 넘기는 기자가 될 생각은 없어. 그 애가 들어가는 걸 막는 사람이 될 생각도 없고. 결정은 그 엄마가 했어.
+Maria|B1|Han är sjutton, Viktor. Han är straffmyndig, och det han gjorde kan ha satt hundratals människor i fara.|열일곱이야, 빅토르. 형사 책임을 지는 나이고, 그 애가 한 일 때문에 수백 명이 위험해졌을 수도 있어.
+Viktor|B2|Jag vet. Och just därför ska han förhöras av er och inte av en tidning i sitt eget kök – med en advokat och sin mamma bredvid sig.|알아. 바로 그래서 그 애는 자기 집 부엌에서 신문사한테가 아니라, 너희한테 조사를 받아야 해. 변호사랑 엄마를 옆에 두고.
+Maria|B1|Vet du vad jag tänkte när jag läste anmälan i natt? Att det här är samma sak som gängen gör.|어젯밤 신고서 읽으면서 무슨 생각 했는지 알아? 이거 갱단이 하는 거랑 똑같다는 거.
+Viktor|B2|Att unga rekryteras för att flyga drönare följer samma logik som gängens beställningsmord: billigt, anonymt och lätt att förneka.|애들을 모아 드론을 날리게 하는 건 갱단의 청부 살인이랑 같은 논리야. 싸고, 익명이고, 부인하기 쉽지.
+Maria|B1|Den meningen har jag aldrig sagt till dig. Men jag har skrivit nästan exakt den i en promemoria i morse.|그 문장, 난 너한테 말한 적 없어. 근데 오늘 아침 내부 보고서에 거의 똑같이 썼지.
+Viktor|B2|Då har vi inte gett varandra någonting i kväll, och om någon frågar har vi bara suttit på samma bänk och tyckt likadant.|그럼 우린 오늘 밤 서로한테 아무것도 안 준 거야. 누가 물으면, 그냥 같은 벤치에 앉아서 생각이 같았을 뿐이고.
+Maria|A2|Ingenting. Bara samma slutsats.|아무것도. 결론만 같을 뿐.
+Viktor|A1|Tre drönare. Tre barn?|드론 세 대. 애도 세 명?
+Maria|B2|Det säger jag inte, och du ska inte gissa i tryck. Om ni skriver att det fanns flera piloter innan vi har hittat dem, så springer de andra två och raderar allt i kväll.|그건 말 안 해. 그리고 너도 지면에서 추측하지 마. 우리가 찾기 전에 조종사가 여럿이었다고 쓰면, 나머지 둘은 오늘 밤 다 지우고 도망칠 거야.
+Viktor|B1|Vi skriver ingenting i kväll. Varken om honom, om kanalen eller om två andra ljus.|오늘 밤엔 아무것도 안 써. 그 애도, 채널도, 다른 불빛 두 개도.
+Maria|A2|Bra. Säg till mamman att jag väntar vid dörren. Och drick mitt kaffe om du vill.|좋아. 엄마한테 내가 문 앞에서 기다린다고 전해. 그리고 원하면 내 커피 마셔.
+# 장면 5 — 저녁 7시 40분, 웁살라 경찰서 문 앞 (유리문 너머 마리아, 계단 위의 티나, 돌아서서 걸어오는 에밀, 식어 버린 두 번째 커피)
+Emil|A1|Vänta. Mamma, vänta.|잠깐. 엄마, 잠깐만.
+Tiina|A2|Emil, polisen väntar. Vad är det?|에밀, 경찰이 기다리잖아. 뭔데?
+Emil|A2|Jag måste säga en sak till honom. Bara en sak.|저 아저씨한테 한 가지만 말해야 돼. 딱 하나만.
+Viktor|B1|Du behöver inte säga något till mig. Allt du vet kan du berätta där inne.|나한테 아무 말 안 해도 돼. 아는 건 다 저 안에서 말하면 돼.
+Emil|B1|Jag vet, men det handlar inte om mig. Det handlar om den som skrev till mig på Telegram.|알아요. 근데 이건 제 얘기가 아니에요. 텔레그램으로 저한테 연락한 사람 얘기예요.
+Viktor|A1|Vem?|누구?
+Emil|A2|Han heter bara N. Ingen bild, inget namn. Han sätter punkt efter allt.|그냥 N이에요. 사진도 없고, 이름도 없고. 모든 문장에 마침표를 찍어요.
+Viktor|A1|Vad skrev han?|뭐라고 썼는데?
+Emil|B1|När jag frågade om det var lagligt skrev han: "Fråga inte. Gör inte som Liam."|합법이냐고 물었더니 이렇게 썼어요. "묻지 마. 리암처럼 굴지 마."
+Viktor|A1|Känner du Liam?|리암 알아?
+Emil|B1|Typ. Vi lirar samma spel på nätet sedan i somras. I höstas slutade han logga in, och när han kom tillbaka sa han att en N hade fixat jobb åt honom.|대충요. 작년 여름부터 온라인에서 같은 게임 해요. 가을에 걔가 한동안 접속을 안 했는데, 다시 들어와서는 N이라는 사람이 일을 구해 줬었다고 했어요.
+Viktor|B2|Det namnet skriver jag inte ner. Säg det där inne, till dem som har rätt att fråga, och sedan säger du det inte till någon annan – inte till Oskar, inte i spelet och inte till mig.|그 이름은 안 적을 거야. 저 안에서, 물어볼 권한이 있는 사람들한테 말해. 그리고 그다음엔 아무한테도 말하지 마. 오스카한테도, 게임 안에서도, 나한테도.
+Tiina|A1|Emil. Nu.|에밀. 이제 가자.
+Emil|A2|Samma kille som anställde Liam. Han heter fortfarande bara N.|리암 고용한 그 사람이에요. 아직도 이름은 그냥 N이에요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vem betalade dig?** | 누가 너한테 돈 줬어? | *betala – betalade – betalat*(지불하다)의 과거형. *betala någon* = ~에게 돈을 주다(전치사 없이 사람이 바로 목적어). 돈을 받은 쪽에서 묻는 짝 표현: *Vem fick pengarna?*(돈은 누가 받았어?) — 빅토르의 *Följ pengarna.*는 늘 이 두 질문에서 시작한다 |
+| `A2` | **Jag fick tre tusen kronor i en app.** | 앱으로 3천 크로나 받았어요. | *få – fick – fått*(받다)의 과거형. 금액은 *tre tusen kronor*, 숫자로는 *3 000 kr*(스웨덴은 천 단위를 띄어 쓴다). "앱으로"는 *i en app*(앱 안에서) — 수단의 *med*가 아니라 장소의 *i*를 쓰는 데 주의 |
+| `B1` | **Han visste inte att flygplatsen skulle stängas, men han förstod att det inte var ett vanligt jobb.** | 그는 공항이 폐쇄될 줄은 몰랐지만, 보통 일이 아니라는 건 알았어요. | *skulle* + 수동 부정사 *stängas* = 과거에서 본 미래(~될 것). 종속절 안에서는 부정어가 동사 앞에 온다: *att det **inte var** ett vanligt jobb*(주절이면 *det var inte*). *veta*(사실을 알다)와 *förstå*(깨닫다)의 차이가 문장의 핵심이다 |
+| `B2` | **Att unga rekryteras för att flyga drönare följer samma logik som gängens beställningsmord: billigt, anonymt och lätt att förneka.** | 젊은이들을 모아 드론을 날리게 하는 건 갱단의 청부 살인과 같은 논리를 따른다. 싸고, 익명이고, 부인하기 쉽다. | *Att* + 절이 통째로 주어가 된다(~하는 것은). *rekryteras*는 *-s* 수동형. *följa samma logik som* = ~와 같은 논리를 따르다. 콜론 뒤에 형용사 셋을 나열해 판단의 근거를 압축한다 — 형용사는 주어(절)를 받으므로 중성형 *-t*: *billig**t**, anonym**t*** |
+| `A2` | **Ni rör inte hans telefon. Den är bevis nu.** | 그 애 휴대폰 건드리지 마. 이제 증거니까. | 명령문 대신 평서문 현재형으로 금지를 말하는 경찰식 화법 — 부탁이 아니라 사실 통보처럼 들린다. *röra* = 만지다, 건드리다(*Rör inte!* = 손대지 마!). *bevis*는 단·복수 같은 꼴이고, "증거물"로 쓸 땐 관사 없이 *Den är bevis.* |
+| 은어 | **en lax / tre lax** | 천 크로나 / 3천 크로나 | *lax*(연어)는 천 크로나짜리 지폐를 가리키는 은어로, 옛 천 크로나 지폐의 붉은빛 때문이라고들 한다. 복수형도 *lax*: *tre lax*, *tjugo lax*. 데얀과 리암, 그리고 이번 채널이 모두 같은 말을 쓴다 — 노아의 말대로 "범죄가 아니라 여름 알바처럼" 들리게 하는 말이다 |
+| 안보·법 | **flygförbudsområde** | 비행 금지 구역 | *flyg*(비행) + *förbud*(금지) + *område*(구역). 공항 주변에는 드론을 허가 없이 띄울 수 없는 구역이 정해져 있고, 군사시설 상공도 마찬가지다. 관련어: *restriktionsområde*(제한 구역), *drönarpilot*(드론 조종자), *flygtrafikledningen*(관제) |
+| 법 | **straffmyndig** | 형사 책임 연령에 이른 | *straff*(형벌) + *myndig*(자격 있는, 성년의). 스웨덴의 형사 책임 연령은 15세 — 열일곱 살 에밀은 *straffmyndig*이지만 아직 미성년자(*minderårig*, 18세 미만)다. 1부의 열다섯 살 욘테도 같은 경계 위에 있었다 |
+
+## 저널리즘·법 메모
+스웨덴 언론윤리 규칙(*publicitetsregler*)은 이름을 밝혀 개인을 드러내는 일, 특히 미성년자를 드러내는 일에 큰 신중함을 요구한다. 그래서 빅토르는 열일곱 살 에밀의 이름뿐 아니라 학교, 하키 팀, 초록 부엉이 로고, 얼굴처럼 동네 사람이 알아볼 수 있는 조합을 모두 빼기로 하고, 어머니에게 먼저 전화해 그녀가 동석할 때만 이야기한다 — 대화를 언제든 끝낼 수 있다는 것, 기자는 경찰도 변호사도 아니라는 것도 미리 말한다. 경찰서 앞에서 빅토르는 두 개의 선을 함께 긋는다: 취재 자료는 "좋게 부탁한다고" 넘기지 않고(경찰의 자료 요청은 법률고문 라르스를 거친다 — 출판자유법의 취재원 보호와 1부 2화의 Källaren 규칙), 그렇다고 미성년자가 스스로 경찰에 가는 것을 막지도 않는다. 에밀의 휴대폰에 누구도 손대지 않은 것은 증거 오염을 피하기 위해서이고, 마리아의 경고대로 "조종사가 여럿"이라는 추측을 수사 전에 지면에 싣지 않는 것도 같은 이유다. 노아의 위장 계정 "밀레"는 1부의 세 조건(큰 공익 · 다른 방법 없음 · 매일 일지)을 그대로 지키며 보기만 한다 — 아이에게 답하거나 일감을 받는 순간 범죄 유도(*brottsprovokation*)가 될 수 있기 때문이다.
+
+## 문화·현안 메모
+- **북유럽 공항 위의 드론** — 2025년 가을부터 코펜하겐·오슬로를 비롯한 북유럽 여러 공항이 드론 목격으로 몇 시간씩 문을 닫았고, 군사기지 상공 비행도 잇따라 보고되었다. 누가 띄웠는지 밝혀지지 않은 사건이 많아, 범죄 조직처럼 "돈을 받고 대신 날려 주는" 사람을 쓰는 방식에 대한 우려가 커졌다. 이 화의 채널 "Flygjobb"와 가격표는 그 우려를 극으로 옮긴 허구다.
+- **드론과 법** — 스웨덴에서 드론은 EU 규정에 따라 운영되며, 일정 무게 이상의 드론을 날리려면 조종자 등록과 온라인 시험이 필요하다. 공항 주변과 보호대상 시설 상공은 허가 없이는 비행할 수 없고, 이를 어기면 처벌받을 수 있다 — 위험의 정도에 따라 더 무거운 죄가 검토되기도 한다.
+- **스웨덴의 핀란드계** — 핀란드계 스웨덴인(*sverigefinnar*)은 스웨덴에서 가장 큰 소수 집단 가운데 하나이고, 핀란드어는 법으로 인정된 소수 언어다. 티나가 놀라서 내뱉는 *Voi ei!*는 "세상에, 어쩌나"에 가까운 핀란드어 감탄사다. 에밀의 아버지가 사는 *Åbo*는 핀란드 도시 투르쿠(Turku)의 스웨덴어 이름이다.
+- ⚠️ 에밀과 티나, 승객들, 텔레그램 채널 "Flygjobb", 초록 부엉이 하키 클럽, 계정 "N", Stockholmsposten은 모두 허구다. 아를란다 공항, 웁살라 루트하겐, 경찰 국가작전국(NOA)은 실재하며, 이 화의 공항 폐쇄와 수사 상황은 극적 구성이다.
+
+## 다음 화 예고
+> 4월 1일, 헬싱키 남항의 찬바람. 핀란드 국경경비대에 붙잡힌 *Eventide Star*를 보러 간 빅토르와 사샤를, 핀란드 스웨덴어를 쓰는 기자가 맞는다: "Nå, välkommen till Finland. Här pratar vi int så mycket."

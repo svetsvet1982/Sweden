@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (33/105화 완성)
+## 대본 목차 (34/105화 완성)
 
 ### 1부
 
@@ -72,3 +72,4 @@
 | 1 | [Kabeln](episodes/k3_e01.md) | 케이블 |
 | 2 | [AIS](episodes/k3_e02.md) | 선박 위치 신호 |
 | 3 | [Visby](episodes/k3_e03.md) | 비스뷔 |
+| 4 | [Drönarna](episodes/k3_e04.md) | 드론들 |
