@@ -1,0 +1,186 @@
+@title 7부 6화 — Dubai
+@subtitle (두바이)
+@meta 날짜|2027년 2월 3일 수요일 오전 7시 ~ 밤 10시 (두바이 시각, 스톡홀름보다 3시간 빠름 · 낮 기온 24도 · Valvet Partners 매각 서명일까지 26일)
+@meta 장소|두바이 국제공항 입국 심사 줄 → 마리나의 호텔 객실 — 수첩이 든 금고 (오전 9시) → 같은 객실, 스톡홀름과의 암호화 영상통화 (오전 10시) → 알 쿠즈 산업지구의 렌터카 사무실 — 먼지 낀 유리문, 렌터카 카탈로그, 정비 중인 SUV들 (오후 3시) → 호텔 발코니, 마리나의 불빛 (밤 10시)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자 — 위장 이름 "Håkan") · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자 — 위장 이름 "Lotta") · **Noah** (노아 베리룬드, 24, 기자 — 스톡홀름에서 원격) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자 — 원격) · **Tiko** (타레크 "티코" 뉘베리, 29, 두바이의 렌터카 사업자, 전 Zenit 조직원 — 피티아 출신)
+@intro **지난 이야기** — 1월 26일 영하 12도의 리가에서, 빅토르와 아미라는 현지 기자 크리스탑스와 국제 공동취재를 맺고 Östersjöbanken의 컴플라이언스 담당자 이네세를 만났다. 냅킨 위에 그려진 돈의 길은 비거주 법인에서 중계 계좌를 거쳐 키프로스와 두바이로 빠져나갔다. 1월 29일 이네세가 스톡홀름에서 라르스와 마주 앉은 바로 그때, 리가의 그녀 아파트 문이 부서졌다. 사라진 건 빈 옛 노트북 한 대뿐이었다 — "하지만 이제 그들은 제가 말한다는 걸 알아요."
+@intro 장부의 두 번째 줄에는 이름 옆에 주소 대신 "R.S., Dubai"라고만 적혀 있다. 소피아는 일주일 동안 반대했고, 결국 네 쪽짜리 위험 평가서에 서명했다. 2월 3일 새벽, 야간 비행기에서 내린 빅토르와 엘린이 입국 심사 줄에 서 있다. 엘린은 이미 다른 사람이 되어 있다.
+# 장면 1 — 오전 7시, 두바이 국제공항 입국 심사 줄 → 오전 9시, 마리나의 호텔 객실
+Elin|A1|Ge mig din hand.|손 줘 봐요.
+Viktor|A1|Varför då?|왜?
+Elin|B1|Därför att en gift man inte har ringen i fickan när han står i passkön.|결혼한 남자는 입국 심사 줄에서 반지를 주머니에 넣고 있지 않으니까요.
+Viktor|B2|Den är för liten, och om jag hade vetat att jag skulle bära den i två dagar hade jag provat den själv.|이거 너무 작아. 이틀 동안 끼고 있을 줄 알았으면 내가 직접 껴 보고 샀을 거야.
+Elin|B1|Från och med nu heter du Håkan och jag heter Lotta. Glöm inte ringen.|지금부터 당신은 호칸, 나는 로타야. 반지 잊지 마.
+Viktor|B1|Men i passet står det fortfarande Viktor Holm, och det är passet de tittar på.|그런데 여권에는 여전히 빅토르 홀름이라고 적혀 있잖아. 그리고 그 사람들이 보는 건 여권이고.
+Elin|B2|I passet, ja. Men i taxin, i hissen och vid frukosten säger vi aldrig våra riktiga namn, eftersom ditt är det enda namnet här som någon kan ha googlat.|여권에는요, 네. 하지만 택시에서도, 엘리베이터에서도, 아침 식사 자리에서도 진짜 이름은 절대 안 불러요. 여기서 누가 검색해 봤을 만한 이름은 당신 이름뿐이니까요.
+Viktor|A1|Håkan. Okej.|호칸. 알았어.
+Elin|A2|Håkan och Lotta Ekdahl från Västerås. Vi säljer ventilationssystem.|베스테로스에서 온 호칸과 로타 엑달. 우린 환기 설비를 팔아요.
+Viktor|B1|Jag vet ingenting om ventilation, förutom att det alltid drar i Källaren.|난 환기 설비에 대해 아무것도 몰라. Källaren에 늘 외풍이 분다는 것만 빼면.
+Elin|B1|Det behöver du inte. Ingen orkar ställa en andra fråga till en man som pratar om ventilation.|몰라도 돼요. 환기 설비 얘기하는 남자한테 두 번째 질문을 할 기운이 있는 사람은 없거든요.
+Viktor|A1|Vår tur.|우리 차례야.
+Elin|B1|Han frågade hur länge vi har varit gifta. Jag sa elva år, och du snurrade på ringen hela tiden.|그 사람이 결혼한 지 얼마나 됐냐고 물었어요. 제가 11년이라고 했는데, 당신은 내내 반지를 돌리고 있더라고요.
+Viktor|B2|Han stämplade passen ändå, och hade han tvivlat hade vi suttit i ett förhörsrum nu.|그래도 여권에 도장은 찍어 줬잖아. 그 사람이 의심했으면 우린 지금쯤 조사실에 앉아 있겠지.
+Elin|B2|Han stämplade dem för att jag pratade om våra barn och vår trädgård, inte för att du såg ut som en lycklig man.|그건 제가 우리 애들이랑 정원 얘기를 해서 찍어 준 거예요. 당신이 행복한 남자처럼 보여서가 아니라.
+Viktor|A1|Har vi barn?|우리 애가 있어?
+Elin|A2|Två. Och en hund som skäller på allt.|둘이요. 그리고 아무한테나 짖는 개 한 마리.
+Viktor|B1|Har du bokat rummet på ditt eget namn, eller på Lottas?|방은 네 진짜 이름으로 예약했어, 아니면 로타 이름으로?
+Elin|B1|På mitt eget, och Sofia betalade med sitt privata kort. Ingenting om den här resan finns i redaktionens bokningssystem.|제 진짜 이름으로요. 그리고 소피아가 개인 카드로 결제했어요. 이번 출장은 편집국 예약 시스템 어디에도 없어요.
+Viktor|B1|Bra. Efter Istanbul bokar vi ingenting som syns där.|좋아. 이스탄불 이후로 우린 거기 보이는 건 아무것도 예약 안 해.
+Elin|A2|Och telefonerna? Våra egna tog vi väl inte med?|휴대폰은요? 우리 건 안 가져왔죠?
+Viktor|B1|Våra egna ligger i Sofias kassaskåp. De här köpte vi på flygplatsen, med nya simkort och bara två nummer i.|우리 건 소피아 금고에 있어. 이건 공항에서 산 거고, 새 유심에 번호는 딱 두 개뿐이야.
+Elin|B1|Och boken? Sofia skrev att den inte får lämna hotellet, hur mycket du än vill.|수첩은요? 소피아가 아무리 가지고 나가고 싶어도 호텔 밖으로는 절대 안 된다고 썼잖아요.
+Viktor|B2|Den ligger redan i kassaskåpet. Utanför det här rummet har jag bara mitt huvud, och det får räcka tills vi är tillbaka.|벌써 금고에 넣었어. 이 방 밖에서는 내 머리밖에 없어. 돌아올 때까지는 그걸로 버텨야지.
+Noah|A1|Incheckning ett. Var är ni?|첫 번째 체크인이에요. 어디세요?
+Elin|A2|Vi bor på ett hotell vid marinan.|마리나 옆 호텔에 묵고 있어.
+Noah|A2|Bra. Sofia har skickat något till dig, Viktor. Läs det.|좋아요. 빅토르, 소피아가 뭘 보냈어요. 읽어 보세요.
+Viktor|B1|Hon skriver: ”Om du inte hör av dig inom två timmar ringer jag ambassaden.”|이렇게 썼네. "두 시간 안에 연락 없으면 대사관에 전화할 거야."
+Elin|B2|Det är bara Sofias sätt att säga god morgon. Hade hon inte varit orolig hade hon inte skrivit alls.|그냥 소피아식 아침 인사예요. 걱정 안 했으면 아예 안 썼겠죠.
+Viktor|B1|Där borta ligger tornet. Trettioförsta till trettiofjärde våningen, sa Amira.|저기 저 타워야. 31층에서 34층 사이라고 아미라가 그랬지.
+# 장면 2 — 오전 10시 (스톡홀름 오전 7시), 호텔 객실. 현지 휴대폰으로 연결한 암호화 영상통화 — 소피아는 편집국장실, 노아는 Källaren
+Sofia|B2|Ni ser trötta ut. Jag sa nej till den här resan i en vecka, och jag har inte ändrat uppfattning om riskerna — bara om vad det skulle kosta att låta bli.|둘 다 피곤해 보이네. 일주일 동안 이 출장에 반대했고, 위험에 대한 생각은 지금도 안 바뀌었어. 바뀐 건 안 갔을 때 치를 대가에 대한 생각뿐이야.
+Noah|B1|Jag har tre saker. Först recensionerna: biluthyrningen i Al Quoz har ungefär hundra stycken på nätet, och sjutton av dem är skrivna på svenska, med förortsslang.|세 가지예요. 먼저 리뷰요. 알 쿠즈의 렌터카 회사에 온라인 리뷰가 100개쯤 있는데, 그중 17개가 스웨덴어예요. 교외 슬랭으로요.
+Elin|A2|Vad skriver de?|뭐라고 썼는데?
+Noah|B2|”Bästa servicen i Dubai, bror. Fråga efter Tiko.” Fyra av kontona som skrev så följde den gamla admin för Uppdrag Sthlm under 2025, och ett av dem har gillat i stort sett varenda story som kingside.08 lade upp.|"두바이 최고의 서비스, 형. 티코 찾아." 그렇게 쓴 계정 중 넷이 2025년에 Uppdrag Sthlm의 옛 관리자를 팔로했어요. 그리고 그중 하나는 kingside.08이 올린 스토리에 거의 전부 좋아요를 눌렀고요.
+Viktor|A2|Och platstaggarna?|위치 태그는?
+Noah|B2|Tre konton från Kungens gamla krets har taggat samma adress i industriområdet, alltid på kvällen. Och enligt registret heter direktören Tarek Nyberg, född 1997 och uppvuxen i Fittja, i samma kvarter som Robin Saarinen.|Kungen의 옛 측근 계정 세 개가 산업지구의 같은 주소를 태그했어요. 늘 저녁에요. 그리고 등록부를 보면 대표 이름은 타레크 뉘베리, 1997년생, 피티아에서 자랐어요. 로빈 사리넨이랑 같은 동네에서요.
+Sofia|A1|Tiko.|티코군.
+Noah|B2|Och nu det viktigaste: i oktober 2025 lade Tiko upp en bild från en balkong, med samma restaurangskylt i glaset, samma hyrbåt vid kajen och samma schackbräde som Amira hittade i Kungens stories.|그리고 이제 제일 중요한 거요. 2025년 10월에 티코가 발코니에서 찍은 사진을 올렸어요. 유리에 비친 같은 식당 간판, 부두의 같은 대여 요트, 그리고 아미라가 Kungen 스토리에서 찾은 그 체스판까지요.
+Viktor|B1|Han stod alltså på Kungens balkong samma vecka som vi hittade den.|그러니까 우리가 그 발코니를 찾아낸 바로 그 주에 그가 거기 서 있었다는 거네.
+Noah|B1|Han raderade bilden efter er första artikel. Men ett webbarkiv hade redan hunnit spara den.|우리 첫 기사가 나간 뒤에 사진을 지웠어요. 그런데 웹 아카이브가 이미 저장해 둔 뒤였죠.
+Sofia|B2|Lars och jag skrev riskbedömningen i natt, och reglerna gäller utan undantag: incheckning varannan timme till Noah, inga möten i privata hem och inga möten efter mörkrets inbrott.|라르스랑 내가 어젯밤 위험 평가서를 썼어. 규칙엔 예외 없어. 두 시간마다 노아한테 체크인, 개인 집에서 만나지 않기, 해 진 뒤에 만나지 않기.
+Noah|B1|Om en incheckning är mer än trettio minuter sen ringer jag Sofia, inte er. Det har vi bestämt.|체크인이 30분 넘게 늦으면 제가 소피아한테 전화해요. 두 분한테가 아니라요. 그렇게 정했어요.
+Elin|B2|Och om vi hamnar i ett läge där vi inte kan säga något rakt ut, för att någon står bredvid oss?|그럼 옆에 누가 서 있어서 대놓고 말할 수 없는 상황이 되면요?
+Noah|B2|Då säger ni kodordet, i vilket samtal som helst, och jag frågar ingenting förrän ni är säkra. Du valde det själv, Elin.|그땐 어떤 통화에서든 암호를 말하세요. 그러면 두 분이 안전해질 때까지 저는 아무것도 안 물어요. 엘린 씨가 직접 정했잖아요.
+Elin|A1|”Det blåser på Gotland.”|"고틀란드에 바람이 분다."
+Sofia|B2|Hesa skulle säga att det alltid blåser på Gotland, och att det är precis därför ingen skulle reagera om de hörde det.|헤사라면 고틀란드엔 늘 바람이 분다고 하겠지. 바로 그래서 누가 들어도 아무도 눈치채지 못할 거라고.
+Viktor|B2|Kom ihåg att här har vi inget grundlagsskydd, så allt vi bär på kan i värsta fall hamna i fel händer.|잊지 마. 여기선 우리를 지켜 줄 헌법 보호가 없어. 그러니까 우리가 지니고 다니는 건 뭐든, 최악의 경우 엉뚱한 손에 넘어갈 수 있어.
+Elin|B2|Om de tar våra telefoner hittar de ventilationsbroschyrer och två nummer. Det är mer än jag skulle vilja, men mindre än de hoppas på.|우리 휴대폰을 빼앗아 가면 환기 설비 안내서랑 번호 두 개가 나올 거예요. 제가 바라는 것보다는 많지만, 그 사람들이 기대하는 것보다는 적죠.
+Sofia|B2|Förr var Dubai en fristad för folk som Kungen. Nu har Emiraten börjat lämna ut människor till Sverige, och varje ny utlämningsbegäran gör någon där borta nervös.|예전엔 두바이가 Kungen 같은 사람들한테 피난처였지. 그런데 이제 에미리트가 사람들을 스웨덴으로 넘겨주기 시작했고, 새 인도 요청이 나올 때마다 거기 누군가는 초조해져.
+Elin|B1|Nervösa människor pratar. Eller så försvinner de.|초조한 사람들은 말을 하죠. 아니면 사라지거나.
+Sofia|B1|En sak till. Staffan Ekström ringde mig i går och frågade om du hade några resplaner, Viktor.|하나 더. 어제 스타판 엑스트룀이 전화해서 너한테 여행 계획이 있냐고 묻더라, 빅토르.
+Viktor|A1|Vad sa du?|뭐라고 했어?
+Sofia|A2|Att du aldrig tar semester.|넌 휴가 같은 거 절대 안 간다고.
+Viktor|B2|Säpo vet alltså att jag är borta men kanske inte var, och Tiko vet inte ens att vi finns. Jag föredrar det i den ordningen.|그러니까 Säpo는 내가 자리를 비웠다는 건 알지만 어딘지는 모를 수도 있고, 티코는 우리가 있다는 것조차 몰라. 난 그 순서가 좋아.
+Sofia|B1|Amira ville åka med. Jag sa nej, efter bilen i Riga, så nu sitter hon bredvid Noah och vägrar gå hem.|아미라가 같이 가겠다고 했어. 리가의 그 차 일도 있고 해서 내가 안 된다고 했지. 그래서 지금 노아 옆에 앉아서 집에 안 가겠대.
+Viktor|A1|Hälsa henne.|안부 전해 줘.
+Sofia|B1|Om ni missar en enda incheckning ringer jag UD.|체크인을 한 번이라도 놓치면 외교부에 전화할 거야.
+Viktor|A1|Uppfattat.|알았어.
+Sofia|A1|Och ring mig klockan tio. Er tid.|그리고 열 시에 나한테 전화해. 그쪽 시간으로.
+Viktor|A1|Klockan tio. Jag lovar.|열 시. 약속할게.
+# 장면 3 — 오후 3시, 알 쿠즈 산업지구의 렌터카 사무실 (먼지 낀 유리문, 카운터 위의 렌터카 카탈로그, 마당에서 정비 중인 SUV 세 대, 에어컨 소리)
+Tiko|A2|Hej, välkomna! Ni är från Sverige, va? Jag ser det på skorna.|안녕하세요, 어서 와요! 스웨덴에서 왔죠? 신발 보면 알아요.
+Elin|A2|Vi behöver en bil i en vecka. Något stort.|일주일 동안 차가 필요해요. 큰 걸로요.
+Tiko|A1|Land Cruiser?|랜드크루저?
+Elin|B1|Kanske. Men min man vill prata med dig först, och han vill helst göra det med dörren stängd.|아마도요. 그런데 우리 남편이 먼저 얘기를 좀 하고 싶대요. 가능하면 문을 닫고요.
+Tiko|A1|Om vadå?|뭐에 대해서?
+Viktor|A2|Om Robin. Jag heter Viktor Holm.|로빈에 대해서. 내 이름은 빅토르 홀름이야.
+Tiko|A1|Nej. Nej, nej, nej.|아니. 아니, 아니, 아니.
+Viktor|A2|Jag skriver för Stockholmsposten. Ingen kamera, ingen inspelning.|Stockholmsposten 기자야. 카메라도 없고, 녹음도 안 해.
+Tiko|A2|Du är han med dottern. Jag vet vem du är, bror.|딸 있는 그 사람이구나. 형이 누군지 알아.
+Viktor|A2|Vad vet du om min dotter?|내 딸에 대해 뭘 아는데?
+Tiko|B1|Ingenting, jag svär! Det där med skolan var inte jag. Det var Robin som ville skrämma dig, och ungarna i Stockholm som tog bilden.|아무것도 몰라, 맹세해! 학교 사진 건은 내가 아니야. 형을 겁주고 싶었던 건 로빈이고, 사진은 스톡홀름 애들이 찍은 거야.
+Elin|A2|Ska vi stänga dörren nu?|이제 문 닫을까요?
+Tiko|A2|Ja, stäng. Och sätt er där borta, bort från fönstret.|어, 닫아. 그리고 저쪽에 앉아, 창문에서 떨어져서.
+Viktor|B1|Ingen vet att vi är här, Tiko. Vi har inte ringt, och vi har inte skrivit ditt namn någonstans.|우리가 여기 온 건 아무도 몰라, 티코. 전화도 안 했고, 네 이름을 어디에도 적지 않았어.
+Tiko|A2|Hur hittade ni mig då?|그럼 나를 어떻게 찾았는데?
+Elin|B1|Dina kunder skriver recensioner på svenska. Och en gång lade du upp en bild från fel balkong.|손님들이 스웨덴어로 리뷰를 쓰잖아요. 그리고 한 번은 엉뚱한 발코니에서 찍은 사진을 올렸고요.
+Tiko|B1|Fan. Titta på mina händer. Jag har inte sovit en hel natt sedan jul, och ni är de första svenskarna här på två veckor som inte frågar efter honom.|젠장. 내 손 좀 봐. 크리스마스 이후로 밤에 한 번도 제대로 못 잤어. 그리고 2주 만에 여기 온 스웨덴 사람 중에 그 사람 찾지 않는 건 형네가 처음이야.
+Viktor|A2|Är han kvar i Dubai?|그는 아직 두바이에 있어?
+Tiko|A2|Han är här. Men han sover aldrig på samma ställe två veckor i rad.|여기 있어. 근데 같은 데서 2주 연속으로 자는 법이 없어.
+Viktor|A1|Sedan när?|언제부터?
+Tiko|B1|Sedan december. Iranierna släppte honom i november, och då kom han tillbaka hit utan vakter och utan pengar.|12월부터. 이란 놈들이 11월에 그를 놔 버렸고, 그래서 경호원도 돈도 없이 여기로 돌아왔어.
+Elin|B2|Varför skulle de släppa någon som de hade tagit så stora risker för att skydda?|그렇게 큰 위험을 무릅쓰고 보호하던 사람을 왜 놔 버렸겠어요?
+Tiko|B1|För att er regering kastade ut deras diplomat. Efter det var Robin för varm. Ingen ville ta i honom.|형네 정부가 그쪽 외교관을 쫓아냈으니까. 그 뒤로 로빈은 너무 뜨거워졌어. 아무도 손대려 하지 않았지.
+Viktor|A1|Och nu?|그럼 지금은?
+Tiko|A2|Bror, han är färdig. Ingen para, inga polare. Ekwall vill städa undan honom, walla.|형, 그는 끝났어. 돈도 친구도 없어. Ekwall이 그를 치워 버리려 해, 진짜로.
+Viktor|A1|Ekwall?|에크발?
+Tiko|B1|Gubben i Stockholm. Robin kallade honom aldrig något annat, men en kväll på balkongen sa han namnet, och sedan bad han mig att glömma det.|스톡홀름의 영감. 로빈은 그를 그렇게밖에 안 불렀어. 근데 어느 날 밤 발코니에서 이름을 말하더니, 잊어버리라고 하더라.
+Elin|B1|Varför tror du att Ekwall vill bli av med honom just nu?|왜 Ekwall이 하필 지금 그를 없애려 한다고 생각해요?
+Tiko|B1|För att pengarna slutade komma i oktober. Och i januari kom två svenskar hit och frågade var Robin sover. Jag sa att jag bara hyr ut bilar.|돈이 10월에 끊겼으니까. 그리고 1월에 스웨덴 사람 둘이 여기 와서 로빈이 어디서 자는지 물었어. 난 그냥 차 빌려주는 사람이라고 했고.
+Viktor|A2|Vilka pengar slutade komma?|무슨 돈이 끊겼는데?
+Tiko|A2|Vänta. Jag ska visa er något.|잠깐. 보여 줄 게 있어.
+Elin|A2|Du har en telefon bakom katalogen.|카탈로그 뒤에 휴대폰이 있네요.
+Tiko|B1|Jag har tre telefoner. Den här är den enda som Robin inte vet om.|난 휴대폰이 세 개야. 이게 로빈이 모르는 유일한 거고.
+Viktor|A2|Vad vill du visa oss?|우리한테 뭘 보여 주려고?
+Tiko|B2|Sms från banken. Varje månad sedan mars 2024 kom det pengar till mitt bolag, ”konsultarvode”, och varje gång tog jag ut dem kontant och lämnade dem till Robin, eller till den som han skickade.|은행 문자. 2024년 3월부터 매달 우리 회사로 돈이 들어왔어, "컨설팅비"로. 그리고 매번 내가 현금으로 뽑아서 로빈한테, 아니면 로빈이 보낸 놈한테 갖다줬지.
+Elin|B1|Så ditt bolag var en målvakt för hans lön.|그러니까 당신 회사가 그 사람 월급의 바지사장이었던 거네요.
+Tiko|A2|Kalla det vad du vill. Jag fick tio procent.|뭐라고 부르든 상관없어. 난 10퍼센트 받았어.
+Viktor|A2|Får jag fotografera skärmen?|화면 찍어도 돼?
+Tiko|A1|Aldrig. Inga bilder.|절대 안 돼. 사진 금지.
+Viktor|B1|Då läser jag den. Håll telefonen stilla, så att jag hinner se datumen och beloppen.|그럼 읽을게. 휴대폰 가만히 들고 있어. 날짜랑 금액 볼 시간은 줘.
+Tiko|B1|Hundraåttio tusen dirham, den tjugofemte varje månad. Den sista kom den tjugofemte oktober. Sedan ingenting.|18만 디르함, 매달 25일. 마지막이 10월 25일에 들어왔어. 그다음엔 아무것도 없어.
+Viktor|B1|Avsändaren är ett konsultbolag på Cypern, och kontonumret slutar på åtta, åtta, ett, sex.|송금인은 키프로스의 컨설팅 회사고, 계좌 번호는 8, 8, 1, 6으로 끝나네.
+Elin|A2|Limassol. Det står Limassol längst ner.|리마솔. 맨 아래에 리마솔이라고 쓰여 있어요.
+Tiko|B1|Robin sa att det var betalt för ”tjänster”. Jag frågade aldrig vilka, för i det här jobbet frågar man inte.|로빈은 "서비스" 대가라고 했어. 무슨 서비스냐고는 한 번도 안 물었어. 이 바닥에선 안 묻거든.
+Viktor|B2|Varför berättar du det här för en journalist, Tiko, när du kunde ha sålt det till någon som betalar bättre?|그런데 왜 이걸 기자한테 말하는 거야, 티코? 돈 더 주는 사람한테 팔 수도 있었잖아.
+Tiko|B2|För att om det står i en svensk tidning kan ingen låtsas att det aldrig har hänt — inte Ekwall, inte Robin, och inte de som kommer hit och frågar var folk sover.|스웨덴 신문에 실리면 아무도 그런 일이 없었던 척 못 하니까. Ekwall도, 로빈도, 여기 와서 사람들이 어디서 자는지 묻는 놈들도.
+Viktor|B2|Ditt namn kommer aldrig att stå där. Det jag skriver ska gå att kontrollera utan dig, och det du har berättat i dag stannar i mitt huvud.|네 이름은 절대 거기 안 실려. 내가 쓰는 건 너 없이도 확인할 수 있어야 하고, 오늘 네가 한 말은 내 머릿속에만 남아.
+Tiko|A2|Ditt huvud. Och hennes.|형 머리. 그리고 저 여자 머리.
+Viktor|B2|Här är mitt nummer. Om du vill säga mer, eller om någon kommer tillbaka och frågar, så ring mig innan du gör något dumt.|이건 내 번호야. 더 할 말이 있거나, 누가 다시 와서 묻거든, 멍청한 짓 하기 전에 나한테 전화해.
+Tiko|A2|Jag ger det inte till någon, bror. Gå ut bakvägen, genom verkstaden.|아무한테도 안 줄게, 형. 뒷길로 나가, 정비소 쪽으로.
+# 장면 4 — 밤 10시, 호텔 발코니 (마리나의 불빛, 대여 요트들, 금고에서 꺼낸 수첩)
+Viktor|A2|Tjugofemte oktober. Hundraåttio tusen. Limassol. Åtta, åtta, ett, sex.|10월 25일. 18만. 리마솔. 8, 8, 1, 6.
+Elin|B1|Du har viskat de där siffrorna för dig själv hela vägen tillbaka i taxin, gubben.|택시 타고 오는 내내 그 숫자를 혼자 중얼거리더라, 여보.
+Viktor|B1|Nu står de i boken. Och kontot stämmer med koden på rad sex i Klubbens bok.|이제 수첩에 적었어. 그리고 그 계좌는 Klubbens bok 6번 줄의 코드랑 맞아.
+Elin|A2|Är det ett bevis nu, då?|그럼 이제 증거야?
+Viktor|B2|Fyra siffror är en ledtråd, inte ett bevis. Men samma konto fanns i Liams telefon för över ett år sedan, och nu går tråden för första gången ända fram till Kungen.|네 자리 숫자는 단서지 증거가 아니야. 하지만 같은 계좌가 1년도 더 전에 리암 휴대폰에도 있었고, 이제 처음으로 그 실이 Kungen한테까지 곧장 이어져.
+Elin|B1|Hunden hade älskat den här balkongen. Han skäller på allt som rör sig, du vet hur han är.|우리 개가 이 발코니 정말 좋아했을 텐데. 움직이는 건 뭐든 보고 짖잖아, 걔 어떤지 알지.
+Viktor|A1|Elin.|엘린.
+Elin|B1|Vi borde ringa barnen innan de somnar, va? Den lilla har prov i morgon, och du lovade att hjälpa henne med matten.|애들 자기 전에 전화해야 하지 않아? 막내 내일 시험인데, 당신이 수학 도와주기로 했잖아.
+Viktor|B2|Det finns inga barn och ingen hund. Det finns bara en trädgård som du hittade på i passkön för att få oss igenom.|애들도 없고 개도 없어. 입국 심사 줄에서 우리를 통과시키려고 네가 지어낸 정원 하나뿐이야.
+Elin|B1|Klart det finns. Vi har ju pratat om dem hela dagen, med passpolisen, med chauffören och med tjejen i receptionen.|당연히 있지. 하루 종일 걔들 얘기했잖아. 입국 심사관이랑, 운전기사랑, 프런트 직원이랑.
+Viktor|A1|Elin.|엘린.
+Elin|A2|Varför säger du så hela tiden, Håkan?|왜 자꾸 그렇게 불러, 호칸?
+Viktor|B1|För att du heter Elin Sjöqvist, för att du bor i Hägersten och för att vi är klara för i dag.|네 이름은 엘린 셰크비스트고, 너는 헤게르스텐에 살고, 우리는 오늘 일을 다 끝냈으니까.
+Elin|A2|Säg det en gång till.|한 번 더 말해 줘요.
+Viktor|A1|Elin.|엘린.
+Elin|A2|Elin Sjöqvist. Hägersten.|엘린 셰크비스트. 헤게르스텐.
+Viktor|A1|Välkommen tillbaka.|돌아온 걸 환영해.
+Elin|B1|Jag vet inte längre var Lotta slutar och jag börjar.|로타가 어디서 끝나고 내가 어디서 시작하는지 모르겠어요.
+Viktor|B2|Efter Luleå tog det mig en vecka att bli av med Erik Sand. Han satt kvar i min röst när jag ringde Alva, och hon märkte det innan jag själv gjorde det.|룰레오 이후에 에릭 산드를 떼어 내는 데 일주일이 걸렸어. 알바한테 전화했을 때도 그 사람이 내 목소리에 남아 있었고, 나보다 알바가 먼저 알아챘지.
+Elin|B2|Jenny tog fem minuter att ta av, Moa tog fyrtio. Lotta har jag burit i knappt ett dygn, och ändå var det hon som svarade när du sa mitt namn första gången.|제니는 벗는 데 5분, 모아는 40분 걸렸어요. 로타는 하루도 채 안 입었는데, 당신이 처음 제 이름을 불렀을 때 대답한 건 그 사람이었어요.
+Viktor|B1|Det var hon som tog oss genom passkontrollen. Jag snurrade på ringen, och du pratade om trädgården.|우리를 입국 심사에서 통과시킨 것도 그 사람이었지. 나는 반지를 돌리고 있었고, 너는 정원 얘기를 했고.
+Elin|B2|Det är det som skrämmer mig. Ju bättre hon fungerar, desto mindre vill jag lägga av henne, och desto längre tar det att hitta tillbaka.|그게 무서워요. 그 사람이 잘 통할수록 내려놓기 싫어지고, 돌아오는 길을 찾는 데 더 오래 걸려요.
+Viktor|A2|Ta av ringen nu, innan vi går in.|이제 반지 빼. 안에 들어가기 전에.
+Elin|A2|Och du? Du har vridit på din hela dagen.|당신은요? 하루 종일 반지 돌리고 있었잖아요.
+Viktor|B1|Jag har inte burit en ring sedan Karin och jag skilde oss. Det var därför jag inte kunde låta den vara.|카린이랑 이혼한 뒤로 반지를 껴 본 적이 없어. 그래서 가만히 둘 수가 없었어.
+Elin|B2|Du brukar säga att du klarar dig själv. Men i dag var det jag som bar dig genom passkontrollen och du som bar mig hem, och jag tror inte att någon av oss hade klarat det ensam.|당신은 늘 혼자서도 괜찮다고 하잖아요. 그런데 오늘은 제가 당신을 업고 입국 심사를 통과했고, 당신이 저를 업고 집까지 데려왔어요. 우리 둘 다 혼자서는 못 했을 거예요.
+Viktor|B2|Hesa säger alltid att man ska ha ögon i nacken här ute. Han har aldrig sagt att det måste vara ens egna.|헤사는 늘 이런 데선 뒤통수에도 눈이 있어야 한다고 해. 그게 꼭 자기 눈이어야 한다고는 한 번도 안 했지.
+Elin|A2|Klockan är tio. Du lovade att ringa Sofia.|열 시예요. 소피아한테 전화하기로 했잖아요.
+Viktor|B2|Jag vet. Om jag inte ringer på slaget ringer hon UD innan jag hinner förklara varför.|알아. 정각에 안 걸면 내가 왜 늦었는지 설명하기도 전에 외교부에 전화할걸.
+Sofia|A1|Lever ni?|살아 있어?
+Viktor|B1|Vi lever. Noah har fått varenda incheckning, och vi har inte träffat någon efter mörkrets inbrott.|살아 있어. 노아가 체크인 하나도 빠짐없이 받았고, 해 진 뒤에는 아무도 안 만났어.
+Sofia|B1|Han har suttit i Källaren hela dagen med en termos och tre kalla pizzabitar. Berätta kort.|노아는 하루 종일 보온병 하나랑 식은 피자 세 조각 들고 Källaren에 앉아 있었어. 짧게 말해.
+Viktor|B2|Tiko pratade, utan namn och utan bilder. Kungens pengar kom från ett konto på Cypern och slutade i oktober, och någon har redan skickat folk hit för att leta efter honom.|티코가 말했어. 이름도 사진도 없이. Kungen의 돈은 키프로스 계좌에서 왔고 10월에 끊겼어. 그리고 누군가 벌써 그를 찾으려고 사람을 여기 보냈어.
+Sofia|B2|Då flyger ni hem i morgon kväll som planerat, och ingenting av det här hamnar i någon dator förrän ni står på Arlanda.|그럼 계획대로 내일 저녁 비행기로 돌아와. 그리고 이 얘기는 너희가 아를란다에 내릴 때까지 어떤 컴퓨터에도 남기지 마.
+Elin|A2|Din telefon surrade medan du pratade.|통화하는 동안 휴대폰이 울렸어요.
+Viktor|B1|Ett nummer som jag inte känner igen.|모르는 번호야.
+Elin|B1|Bara Noah, Sofia och Tiko har det numret, och Noah och Sofia skriver alltid sitt namn.|그 번호는 노아, 소피아, 티코밖에 몰라요. 그리고 노아랑 소피아는 늘 자기 이름을 쓰고요.
+Viktor|B2|Då har Tiko gett det vidare, till den enda människa i den här staden som han är räddare för än för oss.|그럼 티코가 넘긴 거야. 이 도시에서 그가 우리보다 더 무서워하는 단 한 사람한테.
+Elin|A1|Läs.|읽어 봐요.
+Viktor|A1|”Imorgon. Klockan tio. Kom ensam. /K”|"내일. 열 시. 혼자 와. /K"
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Ring mig klockan tio.** | 열 시에 전화해. | 명령형 *ring*(← *ringa*) + 목적어 *mig* + 시각. 시각 앞에는 *klockan*을 붙인다(*klockan tio* = 열 시). 소피아는 여기에 *Er tid.*(그쪽 시간으로)를 덧붙인다 — 그리고 마지막 문자의 *Klockan tio.*가 같은 말을 전혀 다른 목소리로 되돌려준다 |
+| `A2` | **Vi bor på ett hotell vid marinan.** | 우리는 마리나 옆 호텔에 묵고 있어요. | *bo*는 '살다'이자 '(숙소에) 묵다'. 호텔에는 *på*(*på ett hotell*), 물가·장소 옆에는 *vid*(*vid marinan, vid kajen*). *marinan*은 *marina*의 한정형 |
+| `B1` | **Om du inte hör av dig inom två timmar ringer jag ambassaden.** | 두 시간 안에 연락 없으면 대사관에 전화할 거야. | *höra av sig* = '연락하다'(재귀 대명사 *dig*에 주의). *om*-절이 앞에 오면 주절은 동사부터 — *ringer jag*. *inom* = '~ 이내에' |
+| `B2` | **Här har vi inget grundlagsskydd, så allt vi bär på kan i värsta fall hamna i fel händer.** | 여기선 헌법 보호가 없으니, 우리가 지닌 건 최악의 경우 엉뚱한 손에 들어갈 수 있다. | *grundlagsskydd* = 기본법(헌법)에 의한 보호. *bära på något* = '~을 지니고 다니다'(물건뿐 아니라 비밀에도 쓴다). *i värsta fall* = '최악의 경우', *hamna i fel händer* = '엉뚱한 손에 넘어가다' |
+| `B2` | **Ju bättre hon fungerar, desto mindre vill jag lägga av henne.** | 그 사람이 잘 통할수록 내려놓기가 더 싫어진다. | *ju* + 비교급 …, *desto* + 비교급 … = '~할수록 더 ~하다'. *desto* 뒤에서는 주어와 동사가 도치된다(*desto mindre vill jag*). 엘린이 '로타'를 옷처럼 말하는 *lägga av*(벗어 두다)에 주목 |
+| 구어 | **ha ögon i nacken** | 뒤통수에도 눈이 있다, 늘 경계하다 | *nacke*는 목덜미·뒤통수. 위험한 곳에서 사방을 살피라는 뜻이다. 빅토르는 헤사의 이 말을 비틀어, 그 눈이 꼭 자기 것일 필요는 없다고 — 동료가 대신 봐 줄 수 있다고 — 말한다 |
+| 슬랭 | **städa undan någon** | 누구를 치워 버리다 | *städa*는 원래 '청소하다'. *undan*(옆으로, 치워서)과 함께 쓰면 방해가 되는 사람을 '정리'한다는 범죄 은어가 된다. 티코의 *Ingen para, inga polare.*에서 *para*는 돈, *polare*는 친구 |
+| 법 | **utlämningsbegäran** | 범죄인 인도 요청 | *utlämning*(인도, 넘겨줌) + *begäran*(요청). 한 나라가 다른 나라에 자국에서 수배된 사람을 넘겨 달라고 정식으로 요청하는 것. 관련어 *utlämnas*(인도되다), *utlämningsavtal*(인도 조약) |
+
+## 저널리즘·법 메모
+적대적인 환경에서 취재할 때 편집국은 출발 전에 *riskbedömning*(위험 평가)을 문서로 남긴다. 소피아와 라르스의 네 쪽짜리 평가서는 구체적이다 — 두 시간마다 체크인, 30분 지연이면 국내에서 바로 대응, 개인 집과 해 진 뒤의 만남 금지, 비상 암호, 그리고 무엇보다 "호텔 밖에서는 수첩 금지". 이유는 기자의 안전이 곧 취재원의 안전이기 때문이다. 스웨덴 안에서는 출판자유법(TF)과 표현자유법(YGL)이 취재원을 보호하고 당국이 제보자를 캐는 것을 금지하지만, 국경을 넘으면 그 보호는 따라오지 않는다. 휴대폰이나 수첩을 빼앗기면 거기 적힌 사람이 탄다. 그래서 빅토르는 새 휴대폰에 번호 두 개만 넣고, 티코의 화면은 찍지 않고 외운다. 티코와의 약속도 같은 원칙이다. 그의 이름은 기사에 나오지 않고, 기사에 쓰는 내용은 그 없이도 확인할 수 있어야 한다. 그날 밤 빅토르가 "네 자리는 단서지 증거가 아니다"라고 되풀이하는 것도 그래서다. 티코의 은행 문자는 장부의 코드와 맞아떨어지지만, 기사가 되려면 문서로 다시 확인해야 한다.
+
+## 문화·현안 메모
+- **두바이와 해외 체류 갱단 지도부** — 2010년대 말부터 스웨덴 갱단 지도부 상당수가 두바이 등 해외에 머물며 국내 조직원, 특히 미성년자에게 텔레그램 같은 메신저로 범행을 지시한다는 보도가 이어졌다. 오랫동안 범죄인 인도가 어려운 곳으로 여겨졌지만, 2020년대 들어 UAE가 스웨덴 수배자를 넘겨준 사례가 나오고 양국의 사법 협력 논의도 이어졌다. ⚠️ 극중 Zenit, Kungen, 티코와 그의 회사, 모든 수치는 허구이며 실존 인물·사건을 묘사하지 않는다.
+- **UD와 영사 지원** — *UD*는 스웨덴 외교부(*Utrikesdepartementet*)의 약칭이다. 해외에서 스웨덴 국민이 위험에 처하면 대사관과 외교부 영사과가 지원 창구가 된다. 언론사는 위험 지역 출장 때 연락이 끊기면 외교부에 바로 알릴 수 있도록 미리 절차를 정해 둔다.
+- **위장 이름과 진짜 여권** — 기자가 해외에서 위장할 때도 국경에서는 진짜 여권을 쓴다. 엘린의 '호칸과 로타'는 서류가 아니라 말로 하는 위장이다. 택시, 엘리베이터, 식당처럼 누가 엿들을 수 있는 곳에서 진짜 이름이 들리지 않게 하려는 것이다. 엘린은 2부 "Jenny", 5부 "Moa"에 이어 세 번째 인물을 입는다.
+- **알 쿠즈(Al Quoz)** — 두바이 중심가와 해안 사이의 산업지구. 창고, 정비소, 렌터카 회사, 갤러리가 섞여 있다. 마리나의 고층 타워와 차로 20~30분 거리다.
+
+## 다음 화 예고
+> 2월 4일 오전 10시, 주메이라 레이크 타워의 빈 아파트. 1부부터 텔레그램 너머에만 있던 남자가 창가에서 기다린다. "Ingen telefon? Bra. Du är old school, Holm."
