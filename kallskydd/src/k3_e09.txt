@@ -1,0 +1,188 @@
+@title 3부 9화 — Misstanken
+@subtitle (의심)
+@meta 날짜|2026년 4월 14일 화요일 오전 8시 ~ 저녁 8시경
+@meta 장소|쿵스홀멘의 카페 (오전 8시) → Källaren (오전 10시) → 소피아의 방 (오전 11시) → 피트야(Fittja) 사샤의 원룸 문 앞 (저녁 7시 40분) → 같은 건물 계단 (저녁 8시경)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Rydén** (안데르스 뤼덴, 48, Säpo 방첩 담당관) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Katja** (카탸 린델, 29, 위성사진을 파는 프리랜서) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Sasha** (올렉산드르 "사샤" 코발렌코, 35, 우크라이나 전 해군 장교)
+@intro **지난 이야기** — 라르스 몰린은 외국 첩보죄를 칠판에 쓰고 '정당성'에 밑줄을 세 번 그었다. 기밀문서 원본은 금고에 봉인됐고, 아미라는 문서 속 날짜 하나가 하루 틀린 '표지'라는 것을 찾아냈다. 그리고 그 파일은 Källaren 내부 절차를 아는 사람만 쓸 수 있는 방식으로 Brevlådan의 2번 문을 통과했다 — "안에서".
+@intro 월요일 밤 10시, 빅토르의 개인 번호로 모르는 전화가 걸려 왔다. 보안경찰 Säpo의 안데르스 뤼덴이라는 남자는 "비공식적으로" 커피 한 잔을 청했다. 4월 14일 화요일 아침 8시, 쿵스홀멘의 한 카페 창가 자리.
+# 장면 1 — 오전 8시, 쿵스홀멘의 카페 (창가 자리, 김이 오르는 블랙커피 두 잔, 손대지 않은 시나몬롤 하나)
+Rydén|A2|God morgon. Jag har beställt kaffe åt er. Svart, va?|좋은 아침입니다. 커피는 주문해 뒀습니다. 블랙이죠?
+Viktor|A1|Hur vet ni det?|그걸 어떻게 아십니까?
+Rydén|A2|Är det en hemlighet hur ni dricker ert kaffe?|커피를 어떻게 드시는지가 비밀입니까?
+Viktor|B1|Nej. Men ni ringde mitt privata nummer i går kväll, och det står inte på tidningens hemsida.|아뇨. 그런데 어젯밤 제 개인 번호로 전화하셨죠. 그 번호는 신문사 홈페이지에 없는데요.
+Rydén|A2|Är det ett problem?|그게 문제가 됩니까?
+Viktor|A1|Det beror på.|경우에 따라서요.
+Rydén|B1|Det här är inget förhör, och jag skriver inte ner något. Vi är två män som dricker kaffe på Kungsholmen.|이건 신문이 아닙니다. 아무것도 적지 않을 거고요. 쿵스홀멘에서 남자 둘이 커피를 마시는 것뿐입니다.
+Viktor|A2|Ni har inte rört er kanelbulle.|시나몬롤엔 손도 안 대셨네요.
+Rydén|A2|Ni har inte rört ert kaffe.|기자님도 커피에 손도 안 대셨죠.
+Viktor|B1|Då är vi kvitt. Vad vill ni? Jag har ett möte klockan tio.|그럼 비긴 걸로 하죠. 원하시는 게 뭡니까? 10시에 회의가 있어서요.
+Rydén|A2|Jag vill ingenting. Jag ställer inga frågor. Jag konstaterar bara en sak.|아무것도 원하지 않습니다. 질문하지 않겠습니다. 한 가지 사실만 말하죠.
+Viktor|A1|Varsågod.|말씀하세요.
+Rydén|B1|Oleksandr Kovalenko har en svåger som heter Dmitrij. Dmitrij bor i Belgorod, i Ryssland, ungefär fyrtio kilometer från den ukrainska gränsen.|올렉산드르 코발렌코에게 드미트리라는 처남이 있습니다. 드미트리는 러시아 벨고로드에 삽니다. 우크라이나 국경에서 40킬로미터쯤 되는 곳이죠.
+Viktor|A1|Vem?|누구요?
+Rydén|A2|Det var ingen fråga, herr Holm. Det var ett faktum.|질문이 아니었습니다, 홀름 씨. 사실이었죠.
+Viktor|B2|Då ska jag vara lika tydlig. Jag kommenterar inte vem jag träffar, vem jag pratar med eller vem som hjälper tidningen – inte för er och inte för någon annan.|그럼 저도 똑같이 분명히 하죠. 제가 누굴 만나는지, 누구와 얘기하는지, 누가 신문사를 돕는지에 대해선 언급하지 않습니다. 당신에게도, 다른 누구에게도.
+Rydén|A2|Har jag bett er kommentera något?|제가 뭘 언급해 달라고 했습니까?
+Viktor|A1|Nej.|아뇨.
+Rydén|B1|Bra. Då förstår vi varandra. Ni behöver inte svara mig på någonting, och jag har inte frågat.|좋습니다. 그럼 서로 이해한 겁니다. 기자님은 제게 아무 대답도 할 필요가 없고, 저는 묻지 않았습니다.
+Viktor|A2|Och varför berättar ni det för mig?|그걸 왜 저한테 말씀하시는 거죠?
+Rydén|A2|Varför tror ni att jag gör det?|왜라고 생각하십니까?
+Viktor|B2|Jag tror att Säpo sällan bjuder på kaffe utan att vilja ha något tillbaka, och att ni antingen vill att jag ska göra ert jobb åt er – eller sluta göra mitt.|보안경찰이 뭔가 돌려받을 생각 없이 커피를 사는 일은 드물다고 생각합니다. 그리고 당신은 제가 당신 일을 대신해 주길 바라거나, 아니면 제 일을 그만두길 바라는 거겠죠.
+Rydén|B1|Är det inte möjligt att jag bara vill att ni ska veta vem ni sitter bredvid?|제가 그저 기자님이 누구 옆에 앉아 있는지 아시길 바라는 걸 수도 있지 않겠습니까?
+Viktor|A2|Hur vet ni vem jag sitter bredvid?|제가 누구 옆에 앉아 있는지 어떻게 아십니까?
+Rydén|A2|Vem har sagt att jag vet det?|제가 안다고 누가 그랬습니까?
+Viktor|B1|Ni svarar på varje fråga med en ny fråga. Lär man sig det på er utbildning?|모든 질문에 새 질문으로 답하시는군요. 그것도 교육 과정에서 배우는 겁니까?
+Rydén|B2|Man lär sig att varje fråga avslöjar vad den som frågar inte vet, och det är ofta mer intressant än svaret.|질문은 하나하나가 묻는 사람이 뭘 모르는지를 드러낸다는 걸 배우죠. 그리고 그게 대답보다 흥미로울 때가 많습니다.
+Viktor|B1|Då har jag inga fler frågor, och ni har inte fått några svar.|그럼 더 물을 건 없습니다. 당신도 대답은 하나도 못 들으셨고요.
+Rydén|B2|Klokt. En sak till, och den är inget faktum utan en iakttagelse: ibland får man saker som man inte har bett om. Det gäller tidningar, och det gäller oss.|현명하시군요. 하나만 더요. 이건 사실이 아니라 관찰입니다. 가끔은 청하지 않은 걸 받게 되죠. 신문사도 그렇고, 우리도 그렇습니다.
+Viktor|A1|Vad menar ni?|무슨 뜻입니까?
+Rydén|A2|Ha en bra dag. Notan ligger på bordet.|좋은 하루 보내십시오. 계산서는 탁자 위에 있습니다.
+Viktor|A2|Klart att den gör det. Kanelbullen tar jag med till Amira.|그렇겠죠. 시나몬롤은 아미라한테 갖다주겠습니다.
+# 장면 2 — 오전 10시, Källaren (아미라의 책상 위 종이 냅킨에 싼 시나몬롤, 반쯤 열린 문, 벽의 발트해 해도)
+Amira|A1|En kanelbulle? Från vem?|시나몬롤? 누가 준 거야?
+Viktor|A2|Från Säpo. Han rörde den inte. Jag ringde Sofia från kaféet, som jag lovade.|Säpo한테서. 그 사람은 손도 안 댔어. 약속한 대로 카페에서 소피아한테 전화했어.
+Henrik|A2|Säpo? Vad ville de?|Säpo? 뭘 원했대?
+Viktor|B1|Ingenting, enligt honom. Han ställde inga frågor och sa bara en sak: Sasha har en svåger som bor i Belgorod.|본인 말로는 아무것도. 질문은 하나도 안 했고, 딱 하나만 말했어. 사샤한테 벨고로드에 사는 처남이 있다고.
+Amira|A1|Är det sant?|그게 사실이야?
+Viktor|B1|Jag vet inte. Jag sa ingenting om Sasha, inte ens att jag känner honom. Men han verkade veta att Sasha hjälper oss.|몰라. 난 사샤에 대해 아무 말도 안 했어. 아는 사이라는 것조차. 그런데 그 사람은 사샤가 우릴 돕는다는 걸 아는 것 같았어.
+Henrik|B1|Belgorod ligger alldeles vid gränsen, mitt emot Charkiv, där hans fru och dotter bor. Där är det inte långt mellan två släktingar – bara ett krig.|벨고로드는 국경 바로 옆이야. 하르키우 맞은편, 그 친구 아내랑 딸이 사는 데지. 거기선 친척 둘 사이가 멀지 않아. 전쟁 하나만 있을 뿐.
+Amira|B2|Och? Halva Ukraina har släkt på andra sidan gränsen. Det är precis därför det här kriget är så jävla grymt, och det säger ingenting om vad Sasha gör i Stockholm.|그래서? 우크라이나 사람 절반이 국경 건너편에 친척이 있어. 이 전쟁이 그렇게 지독하게 잔인한 게 바로 그래서고. 그게 사샤가 스톡홀름에서 뭘 하는지에 대해선 아무것도 말해 주지 않아.
+Viktor|B1|Det håller jag med om. Men frågan är varför Säpo väljer att säga det till mig just nu, fem dagar efter dokumentet.|그건 나도 동의해. 근데 문제는 Säpo가 왜 하필 지금, 문서가 온 지 닷새 만에 그걸 나한테 말하기로 했냐는 거야.
+Henrik|B2|Kanske för att de har sett något som de inte kan visa oss utan att avslöja hur de såg det.|어떻게 봤는지 들키지 않고는 우리한테 보여 줄 수 없는 걸 봤기 때문이겠지.
+Amira|B2|Eller för att någon vill att vi ska slå sönder vårt eget team. Det vore väldigt praktiskt för den som skickade pdf:en, om vi började misstänka den enda ukrainaren i rummet.|아니면 누가 우리 팀을 우리 손으로 박살 내길 바라거나. PDF 보낸 사람한텐 아주 편리하겠지. 우리가 이 방의 유일한 우크라이나 사람을 의심하기 시작하면.
+Henrik|A2|Han är inte i rummet.|그 친구 이 방에 없어.
+Amira|A1|Du vet vad jag menar.|무슨 말인지 알잖아.
+Henrik|B1|Jag vet. Och jag gillar honom, Amira. Jag lånade honom min bästa lins till Helsingfors. Men jag kan inte låtsas att jag inte har tänkt på det.|알아. 그리고 나 그 친구 좋아해, 아미라. 헬싱키 갈 때 내 제일 좋은 렌즈도 빌려줬어. 하지만 생각 안 해 본 척은 못 하겠어.
+Viktor|A2|Tänkt på vad, Henrik? Säg det.|뭘 생각해 봤는데, 헨릭? 말해 봐.
+Henrik|B2|På Gotland frågade du hur han kände igen fören på den där tankern. Han sa ”en annan gång, inte här, inte i dag”. Det har gått tre veckor, och han har fortfarande inte sagt det.|고틀란드에서 네가 물었지. 그 유조선 뱃머리를 어떻게 알아봤냐고. 그 친구가 "다음에, 여기서 말고, 오늘은 말고" 그랬어. 3주가 지났는데 아직도 말 안 했어.
+Amira|B1|Det kan finnas tusen skäl. Han var officer i en flotta som är i krig. Han får kanske inte berätta.|이유는 천 가지일 수 있어. 전쟁 중인 해군의 장교였잖아. 말하면 안 되는 걸 수도 있고.
+Henrik|B1|Kanske. Men en sjöman känner igen en annan sjöman, och den där pojken har något som han inte säger. Det känner jag.|그럴지도. 하지만 바다 사나이는 바다 사나이를 알아보는 법이야. 그 녀석은 말하지 않는 게 있어. 느낌이 와.
+Amira|B2|Då ska jag säga vad jag vet, inte vad jag känner. Han har ett papper på att han lämnade marinen 2023, Migrationsverket har prövat hans skydd, och i tre år har han hjälpt Chvylja att avslöja ryska fartyg – gratis, på nätterna, efter jobbet.|그럼 난 느끼는 게 아니라 아는 걸 말할게. 2023년에 해군을 떠났다는 서류가 있고, 이민청이 보호 지위를 심사했고, 3년 동안 Chvylja가 러시아 배들을 폭로하는 걸 도왔어. 공짜로, 밤에, 일 끝나고.
+Henrik|B2|Och den bästa infiltratören är den som först ger en något äkta. Det lärde vi oss redan på åttiotalet, i bunkrarna i Fårösund.|그리고 최고의 침투 요원은 먼저 진짜를 내주는 놈이야. 그건 80년대에 이미 배웠어. 포로순드 벙커에서.
+Viktor|B1|Vänta. Låt oss lägga det vi vet på bordet. Fakta, inte känslor.|잠깐. 우리가 아는 걸 탁자 위에 올려 보자. 감정 말고 사실.
+Amira|A2|Okej. Jag börjar, för det värsta kommer från mig.|좋아. 내가 먼저 할게. 제일 나쁜 건 나한테서 나오니까.
+Viktor|A1|Från dig?|너한테서?
+Amira|B2|Jag kom på det i natt. I mars gav jag Sasha lappen till dörr två, så att han kunde skicka sina råa AIS-loggar säkert. Och jag sa regeln till honom muntligt: skicka utan text, annars ligger filen i karantän ett dygn.|어젯밤에 생각났어. 3월에 사샤한테 2번 문 쪽지를 줬어. 원시 AIS 로그를 안전하게 보낼 수 있게. 그리고 규칙도 말로 알려 줬어. 텍스트 없이 보내라, 안 그러면 파일이 하루 동안 격리된다고.
+Henrik|A1|Fan också.|젠장.
+Katja|A2|Förlåt, dörren stod öppen. Stör jag?|죄송해요, 문이 열려 있어서요. 방해되나요?
+Viktor|A2|Lite. Vad gäller det, Katja?|조금요. 무슨 일이에요, 카탸?
+Katja|B1|Viktor, jag lovade bilder från Primorsk. Här är tre på ett usb-minne, gratis, så att ni kan se kvaliteten innan ni bestämmer er.|빅토르, 프리모르스크 사진 약속했잖아요. USB에 세 장 담아 왔어요. 공짜예요. 결정하시기 전에 화질 보시라고요.
+Amira|B1|Tack. Lägg den på bordet, så öppnar jag den på en dator som inte är kopplad till något.|고마워. 탁자에 놔 둬. 아무 데도 연결 안 된 컴퓨터에서 열어 볼게.
+Katja|B1|Självklart, Amira, det skulle jag också ha gjort. Jag hörde inte vad ni pratade om, och jag går nu. Men jag hörde namnet Sasha.|물론이죠, 아미라. 나라도 그렇게 했을 거예요. 무슨 얘기 하셨는지는 못 들었어요. 이제 갈게요. 그런데 사샤라는 이름은 들렸어요.
+Henrik|A2|Det var jag som lämnade dörren öppen. Mitt fel.|문 열어 둔 건 나야. 내 잘못이야.
+Katja|B2|Henrik, jag vill inte lägga mig i, och jag känner honom knappt. Men om det är honom ni oroar er för, så finns det en sak som jag skulle ha börjat med. Har någon kollat hans tid i flottan? Jag bara frågar.|헨릭, 끼어들고 싶진 않아요. 그 사람 거의 알지도 못하고요. 그런데 그 사람 때문에 걱정하시는 거라면, 저라면 먼저 확인했을 게 하나 있어요. 누가 그 사람 해군 시절 확인해 봤어요? 그냥 묻는 거예요.
+Viktor|B1|Tack, Katja. Det här är en intern sak, och jag vill att den stannar här.|고마워요, 카탸. 이건 내부 일이에요. 여기서 끝났으면 해요.
+Katja|A2|Förstås. Jag har inte hört något. Hej då.|물론이죠. 아무것도 못 들었어요. 안녕히 계세요.
+Henrik|B1|Hon har en poäng, faktiskt. Ingen av oss har sett något från hans tid i flottan, bara det som han själv har berättat.|사실 그 여자 말에 일리가 있어. 우리 중 누구도 그 친구 해군 시절 건 본 적이 없어. 본인이 말해 준 것뿐이지.
+Amira|B1|Jävlar, Henrik! Ska vi misstänka alla som har släkt i Ryssland nu, eller?|젠장, 헨릭! 이제 러시아에 친척 있는 사람은 다 의심하자는 거야?
+Henrik|B2|Nej. Men vi ska inte heller blunda för en svåger, en dörr och en fråga som han inte ville svara på, bara för att vi tycker om honom. Ingen rök utan eld, sa min far.|아니. 하지만 우리가 그 친구를 좋아한다고 처남 하나, 문 하나, 대답하기 싫어한 질문 하나에 눈 감아서도 안 돼. 아니 땐 굴뚝에 연기 나랴, 우리 아버지가 그러셨지.
+Viktor|B2|Och ibland är röken något som någon annan har tänt. Tre saker, Henrik, men inte ett enda bevis. Vi tar det till Sofia – nu, och med stängd dörr.|그리고 가끔은 연기를 피운 게 다른 누군가일 때도 있어. 세 가지야, 헨릭. 하지만 증거는 하나도 없어. 이거 소피아한테 가져가자. 지금, 문 닫고.
+# 장면 3 — 오전 11시, 소피아의 방 (닫힌 문, 블라인드를 내린 유리벽, 소피아의 노란 메모지)
+Sofia|A1|Stäng dörren, Henrik.|문 닫아, 헨릭.
+Henrik|A2|Den är stängd. Den här gången på riktigt.|닫았어. 이번엔 진짜로.
+Sofia|B1|Viktor har berättat om Säpo och om lappen. Amira, tack för att du sa det själv, trots att det inte hjälper honom.|빅토르가 Säpo 얘기랑 쪽지 얘기 해 줬어. 아미라, 직접 말해 줘서 고마워. 그 사람한테 도움이 안 되는 얘긴데도.
+Amira|A2|Det var ju sant. Jag ljuger inte för att skydda en vän.|사실이니까요. 친구 감싸려고 거짓말은 안 해요.
+Sofia|B2|Bra, för det är precis det jag måste kunna lita på nu. Jag har lyssnat på Henrik i många år och på dig sedan första dagen, och jag tror att ni båda har rätt, fast om olika saker.|좋아. 지금 내가 믿을 수 있어야 하는 게 바로 그거거든. 헨릭 말은 오랫동안, 네 말은 첫날부터 들어 왔어. 그리고 둘 다 옳다고 생각해. 다만 서로 다른 것에 대해서.
+Henrik|A1|Och beslutet?|그래서 결정은?
+Sofia|B2|Från och med i dag har Sasha inte tillgång till något material från Källaren. Hans gästkonto stängs av, han får inga filer och han är inte med på våra möten, tills vi vet mer.|오늘부터 사샤는 Källaren 자료에 접근하지 못해. 게스트 계정은 정지하고, 파일도 안 주고, 회의에도 안 들어와. 우리가 더 알게 될 때까지.
+Amira|B1|Men det är ju en dom. Ni dömer honom för en svåger som vi inte ens vet något om.|그건 판결이잖아요. 우리가 아는 것도 없는 처남 때문에 그 사람한테 판결을 내리는 거라고요.
+Sofia|B1|Det här är ingen dom. Det är en försiktighetsåtgärd.|이건 판결이 아니야. 예방 조치야.
+Viktor|A2|Vad är skillnaden för Sasha?|사샤한테 그게 무슨 차이야?
+Sofia|B2|En dom säger att han har gjort något. En försiktighetsåtgärd säger att vi inte vet, och att vi skyddar både honom och tidningen medan vi tar reda på det. Om han är oskyldig, och det hoppas jag, är det också han som tjänar på att ingen kan peka på honom senare.|판결은 그가 뭔가를 했다고 말하는 거야. 예방 조치는 우리가 모른다는 것, 그리고 알아보는 동안 그 사람과 신문사를 둘 다 보호한다는 거고. 그가 결백하다면, 나도 그러길 바라지만, 나중에 아무도 그를 손가락질 못 하게 되는 것도 결국 그에게 이득이야.
+Henrik|B1|Och om han inte är det, har vi åtminstone slutat ge honom mer.|그리고 결백하지 않다면, 적어도 더 넘겨주는 건 멈춘 거고.
+Amira|B1|Och alla andra som känner till rutinen? Hela Källaren, du och Lars. Stänger du av oss också?|그럼 그 절차를 아는 다른 사람들은요? Källaren 전체, 국장님, 라르스 씨. 우리도 다 정지하실 거예요?
+Sofia|B2|Nej, men jag skriver upp alla som kände till rutinen, med mitt eget namn först. Och i dag byter vi lösenfras till dörr två för alla, och nya lappar går ut till varje källa – för någon som inte är Sasha kan också ha den gamla.|아니. 하지만 그 절차를 알던 사람은 전부 적어 둘 거야. 내 이름부터. 그리고 오늘 2번 문 암호 문구를 모두에게 바꾸고, 취재원마다 새 쪽지를 보낼 거야. 사샤가 아닌 누군가도 옛 문구를 갖고 있을 수 있으니까.
+Amira|A2|Jag fixar lösenfrasen. I eftermiddag.|암호 문구는 제가 처리할게요. 오후에요.
+Henrik|B2|Och så en sak som ingen av oss har gjort: har han någonsin genomgått en säkerhetsprövning? Vi släppte in en främmande officer i vårt rum utan att fråga någon.|그리고 우리 중 누구도 안 한 게 하나 있어. 그 친구가 보안 신원조사를 받은 적이 있나? 우린 외국 장교를 아무한테도 안 묻고 우리 방에 들였어.
+Sofia|B2|Ingen av oss har säkerhetsprövats, Henrik. Vi är en tidning, inte Försvarsmakten, och den dag vi börjar säkerhetspröva våra källor och medarbetare åt staten har vi slutat vara det vi är.|우리 중 누구도 보안 신원조사 안 받았어, 헨릭. 우린 신문사지 국군이 아니야. 우리가 국가 대신 취재원이랑 협력자를 신원조사하기 시작하는 날, 우린 우리가 아니게 되는 거야.
+Viktor|B1|Det leder till nästa fråga. Säpo vet att Sasha hjälper oss. Vad säger vi om någon frågar?|그럼 다음 질문으로 넘어가지. Säpo는 사샤가 우릴 돕는다는 걸 알아. 누가 물으면 뭐라고 해?
+Sofia|B2|Ingenting. Han har gett oss uppgifter för publicering, och då är han en källa, oavsett vad vi tror om honom i dag. Vi bekräftar inte hans namn för Säpo, för polisen eller för någon annan – och misstanken lämnar inte det här rummet.|아무것도. 그 사람은 우리에게 보도용 정보를 줬어. 그럼 취재원이야. 우리가 오늘 그를 어떻게 생각하든. 그 이름은 Säpo에도, 경찰에도, 누구에게도 확인해 주지 않아. 그리고 이 의심은 이 방 밖으로 안 나가.
+Amira|A2|Den har redan lämnat rummet. Katja hörde hans namn.|벌써 나갔어요. 카탸가 그 사람 이름 들었잖아요.
+Sofia|B1|Då gäller en regel till, för alla: inga utomstående i Källaren utan att någon av er följer dem ner och upp igen.|그럼 모두에게 규칙 하나 더. 외부인은 너희 중 누가 같이 내려가고 같이 올라오지 않으면 Källaren에 못 들어가.
+Henrik|A1|Det är mitt fel.|내 잘못이야.
+Sofia|B2|Misstanke är inget bevis, men på en redaktion kan den förstöra förtroendet lika effektivt som en läcka. Därför vill jag att vi försöker bevisa något åt något håll, i stället för att gissa.|의심은 증거가 아니야. 하지만 편집국에선 유출만큼이나 효과적으로 신뢰를 무너뜨릴 수 있어. 그러니까 짐작하지 말고, 어느 쪽으로든 뭔가를 증명해 보자는 거야.
+Viktor|B1|Hans papper från flottan finns i Ukraina. Där pågår ett krig, och marinens presstjänst svarar knappast en svensk tidning den här veckan.|해군 서류는 우크라이나에 있어. 거긴 전쟁 중이고, 해군 공보실이 이번 주에 스웨덴 신문한테 답할 리도 없고.
+Amira|B1|Jag skriver till dem ändå, den officiella vägen. Och jag kollar varje fartyg som han har pekat ut åt oss, en gång till.|그래도 공식 경로로 문의할게요. 그리고 그 사람이 우리한테 짚어 준 배를 전부 한 번 더 확인할게요.
+Sofia|A2|Bra. Och vem berättar för honom?|좋아. 그럼 누가 그에게 말하지?
+Amira|A1|Inte jag. Jag kan inte.|저는 안 돼요. 못 하겠어요.
+Viktor|A1|Jag gör det.|내가 할게.
+Sofia|A2|Varför just du?|왜 하필 너야?
+Viktor|B2|För att det var jag som bad honom om hjälp i mars, och för att jag satt på kaféet i morse utan att säga ett ord till hans försvar. Han ska få höra det från den som har gjort det.|3월에 그에게 도와 달라고 한 게 나니까. 그리고 오늘 아침 카페에 앉아서 그를 변호하는 말은 한마디도 안 했으니까. 그런 짓을 한 사람한테서 직접 들어야지.
+# 장면 4 — 저녁 7시 40분, 피트야(Fittja) 사샤의 원룸 문 앞 (체인을 건 채 반쯤 열린 문, 안쪽 침대 위에 걸린 다리나의 배 그림, 문고리에 걸린 물류창고 작업 조끼)
+Sasha|B1|Viktor. Du brukar ringa innan du kommer, så det här är inget vanligt besök.|빅토르. 늘 오기 전에 전화하잖아요. 그러니까 이건 평범한 방문이 아니네요.
+Viktor|A2|Hej, Sasha. Jag ville säga det här ansikte mot ansikte. Får jag komma in?|안녕, 사샤. 이건 얼굴 보고 말하고 싶었어. 들어가도 돼?
+Sasha|B1|Jag börjar jobba klockan tio, och mitt gästkonto slutade fungera klockan tre. Så jag tror att jag vet varför du är här. Vi kan prata i dörren.|10시에 일 시작해요. 그리고 제 게스트 계정이 3시에 먹통이 됐어요. 그러니 왜 왔는지 알 것 같네요. 문간에서 얘기해요.
+Viktor|B2|Då ska du få höra allt, och inte bara det som är lätt att säga. I morse träffade jag en man från Säpo. Han ställde inga frågor, men han sa att du har en svåger i Belgorod.|그럼 다 들려줄게. 말하기 쉬운 것만이 아니라. 오늘 아침 Säpo 사람을 만났어. 질문은 안 했는데, 너한테 벨고로드에 처남이 있다고 했어.
+Sasha|A1|Dmitrij.|드미트리.
+Viktor|A1|Stämmer det?|맞아?
+Sasha|A2|Ja. Min svåger bor i Ryssland. Olenas lillebror.|네. 제 처남은 러시아에 살아요. 올레나 남동생이에요.
+Viktor|B1|Varför har du aldrig sagt något om honom, när vi har pratat om Ryssland varje dag i en månad?|한 달 동안 매일 러시아 얘기를 했는데, 왜 그 사람 얘긴 한 번도 안 했어?
+Sasha|B1|För att ingen frågade. Och för att jag inte har någon svåger längre, bara ett namn i Olenas telefon som hon aldrig ringer.|아무도 안 물었으니까요. 그리고 저한텐 이제 처남이 없거든요. 올레나 전화기에 있는, 절대 안 거는 이름 하나뿐이에요.
+Viktor|A2|Berätta. Om du vill.|얘기해 줘. 네가 원하면.
+Sasha|B2|2014 låg jag i Sevastopol. När Krim togs fick vi officerare ett erbjudande: rysk uniform, högre lön, samma lägenhet. Ungefär hälften stannade. Jag packade en väska och körde till Odessa med Olena bredvid mig.|2014년에 전 세바스토폴에 있었어요. 크림반도가 넘어갔을 때, 우리 장교들한테 제안이 왔어요. 러시아 군복, 더 많은 월급, 같은 아파트. 절반쯤은 남았죠. 전 가방 하나 싸서 올레나를 옆에 태우고 오데사로 갔어요.
+Viktor|A1|Och Dmitrij?|그럼 드미트리는?
+Sasha|B1|Han ringde den natten från Belgorod och kallade mig förrädare. Dmitrij valde sida 2014. Det gjorde jag också. Vi har inte pratat sedan dess.|그날 밤 벨고로드에서 전화해서 절 배신자라고 불렀어요. 드미트리는 2014년에 편을 골랐어요. 나도 그랬고요. 그 뒤로 말 안 했어요.
+Viktor|A2|Inte en enda gång? Inte ens 2022?|한 번도? 2022년에도?
+Sasha|B1|2022 skickade han ett meddelande till Olena: ”Snart är det över.” Hon raderade det och blockerade honom. Sedan dess finns han bara i hennes mammas böner.|2022년에 올레나한테 메시지를 보냈어요. "곧 끝날 거야." 올레나는 그걸 지우고 그 사람을 차단했어요. 그 뒤로 그 사람은 장모님 기도 속에만 있어요.
+Viktor|B1|Det finns en sak till, Sasha. Henrik frågade om fören, hur du kände igen tankern från Novorossijsk. Du lovade att berätta en annan gång.|하나 더 있어, 사샤. 헨릭이 뱃머리 얘길 꺼냈어. 노보로시스크의 그 유조선을 네가 어떻게 알아봤는지. 다음에 얘기하겠다고 했잖아.
+Sasha|A2|Ja. Det sa jag. Henrik minns allt.|네. 그랬죠. 헨릭은 다 기억하네요.
+Viktor|A1|Nu är en annan gång.|지금이 그 '다음'이야.
+Sasha|B2|2022 satt jag i ett rum under jorden i Odessa och räknade fartyg i Novorossijsk på satellitbilder, varje morgon i elva månader: vilka som lastade, vilka som låg djupt, vilka som bytte namn. Marlin Sun låg vid samma kaj i sex veckor, och jag har sett fören på henne tusen gånger.|2022년에 전 오데사의 지하 방에 앉아서 위성사진으로 노보로시스크의 배를 셌어요. 11개월 동안 매일 아침. 어떤 배가 짐을 싣는지, 어떤 배가 깊이 잠겨 있는지, 어떤 배가 이름을 바꾸는지. Marlin Sun은 같은 부두에 6주 동안 있었고, 전 그 뱃머리를 천 번은 봤어요.
+Viktor|B1|Varför kunde du inte säga det på Gotland?|그걸 왜 고틀란드에선 말 못 했어?
+Sasha|B2|För att mina gamla kollegor fortfarande sitter i det rummet, och för att jag lovade att aldrig berätta var det ligger eller vad vi gjorde där. Det här är redan mer än jag borde säga, och jag säger det bara för att ni annars tror att jag är en rysk spion.|제 옛 동료들이 아직 그 방에 있으니까요. 그리고 그게 어디 있는지, 거기서 뭘 했는지 절대 말하지 않겠다고 약속했으니까요. 이것도 벌써 말해야 할 것보다 많아요. 안 그러면 당신들이 저를 러시아 스파이라고 생각할 테니까 말하는 거예요.
+Viktor|A2|Ingen har sagt det ordet.|아무도 그 말은 안 했어.
+Sasha|B2|Nej. Ni behöver inte säga det, för det syns i hur ni tittar på mig och i ett konto som slutar fungera utan förklaring.|그렇죠. 말할 필요도 없죠. 저를 보는 눈빛에도, 아무 설명 없이 먹통이 된 계정에도 다 보이니까요.
+Viktor|B2|Jag ska vara ärlig, eftersom du förtjänar det. Det du säger nu kan vi inte kontrollera, för papperen finns i ett land i krig. Sofia har stängt ditt konto tills vi vet mer – inte för att hon tror att du är skyldig, utan för att vi inte kan bevisa någonting åt något håll.|솔직하게 말할게. 넌 그럴 자격이 있으니까. 네가 지금 하는 말은 우리가 확인할 수가 없어. 서류가 전쟁 중인 나라에 있으니까. 소피아가 우리가 더 알게 될 때까지 네 계정을 닫았어. 네가 유죄라고 생각해서가 아니라, 어느 쪽으로도 아무것도 증명할 수 없어서.
+Sasha|B1|Jag har inte pratat med honom sedan 2014, men det spelar ingen roll för er, eller hur?|2014년 이후로 그 사람이랑 말한 적 없어요. 그래도 당신들한텐 상관없는 거죠, 그렇죠?
+Viktor|B1|Det spelar roll för mig. Men jag kan inte låtsas att det räcker.|나한텐 상관있어. 하지만 그걸로 충분한 척은 못 해.
+Sasha|A2|Och Amira? Vad tror hon?|그럼 아미라는요? 아미라는 어떻게 생각해요?
+Viktor|B1|Hon försvarade dig hårdare än någon. Men hon sa också att hon gav dig lappen till dörr två, för hon ljuger inte ens för en vän.|누구보다 세게 널 변호했어. 하지만 너한테 2번 문 쪽지를 줬다는 것도 말했어. 친구를 위해서도 거짓말은 안 하는 사람이니까.
+Sasha|B1|Lappen. Så någon har skickat något genom dörr två, och nu tittar ni på alla som har den.|쪽지라. 그럼 누가 2번 문으로 뭘 보냈고, 이제 그걸 가진 사람을 전부 보고 있는 거네요.
+Viktor|A2|Det kan jag inte svara på.|그건 대답 못 해.
+Sasha|A1|Det var svaret.|그게 대답이네요.
+Viktor|B1|Lösenfrasen byts i dag för alla, inte bara för dig. Vi letar inte efter en ukrainare. Vi letar efter en dörr som har stått öppen.|암호 문구는 오늘 모두 바뀌어. 너만이 아니라. 우린 우크라이나 사람을 찾는 게 아니야. 열려 있던 문을 찾는 거지.
+Sasha|B2|Jag har stått vid en dörr förut och sett människor räkna vem som pratar ryska hemma och vem som inte gör det. Ni säger ”en dörr”, men i morse var det mitt namn som en främling lade på ert bord.|전에도 문 앞에 서서 사람들이 누가 집에서 러시아어를 쓰고 누가 안 쓰는지 세는 걸 본 적이 있어요. 당신들은 '문'이라고 하지만, 오늘 아침 낯선 사람이 당신들 탁자에 올려놓은 건 제 이름이었어요.
+Viktor|A1|Jag vet.|알아.
+Sasha|A2|Vill du se Daryna? Hon ritade en ny båt i söndags.|다리나 볼래요? 일요일에 배를 새로 그렸어요.
+Viktor|A1|Gärna.|보여 줘.
+Sasha|B1|I söndags var det påsk hos oss. Vi pratade i fyra timmar, och hon frågade om mina svenska vänner vill komma till Charkiv när kriget är slut. Jag sa ja.|일요일이 우리 쪽 부활절이었어요. 네 시간 통화했는데, 걔가 묻더라고요. 아빠 스웨덴 친구들이 전쟁 끝나면 하르키우에 오고 싶어 하냐고. 그렇다고 했어요.
+Viktor|B2|Säg till henne att jag vill det, men säg ingenting om i dag. Ett barn ska inte behöva veta att pappans vänner har börjat räkna.|걔한테 나도 가고 싶다고 전해 줘. 하지만 오늘 일은 아무 말도 하지 마. 아이가 아빠 친구들이 숫자를 세기 시작했다는 걸 알 필요는 없잖아.
+Sasha|A2|Jag måste byta om nu. Jobbet väntar inte. Hej då, Viktor.|이제 옷 갈아입어야 해요. 일은 안 기다려 주거든요. 잘 가요, 빅토르.
+Viktor|A1|Hej då, Sasha.|잘 있어, 사샤.
+# 장면 5 — 저녁 8시경, 같은 건물 계단 (시간이 지나 꺼지는 계단 불, 아래층에서 올라오는 텔레비전 소리, 빅토르의 휴대폰)
+Amira|A2|Viktor? Jag har ringt tre gånger. Hur gick det?|빅토르? 세 번이나 전화했어. 어떻게 됐어?
+Viktor|A1|Dåligt.|안 좋았어.
+Amira|A1|Vad sa han?|뭐래?
+Viktor|B1|Allt. Om Dmitrij, om Sevastopol, om fören – mer än vi hade rätt att fråga efter. Nu står jag i en mörk trappa och tänder inte lampan.|전부. 드미트리, 세바스토폴, 뱃머리. 우리가 물을 자격이 있었던 것보다 더 많이. 지금은 깜깜한 계단에 서서 불도 안 켜고 있어.
+Amira|B2|Tänd den. Du gjorde det som Sofia bad om, och du gjorde det själv i stället för att skicka ett mejl. Det vet han.|켜. 넌 소피아가 부탁한 걸 했고, 메일로 보내는 대신 직접 했어. 그 사람도 알아.
+Viktor|A1|Fan.|젠장.
+Sasha|A1|Viktor!|빅토르!
+Viktor|A2|Sasha? Vänta, Amira. Han står i dörren.|사샤? 잠깐만, 아미라. 문 앞에 나와 있어.
+Amira|A1|Viktor?|빅토르?
+Sasha|B1|Jag har förlorat mitt land en gång. Nu förlorar jag er också.|나라를 한 번 잃었어요. 이제 당신들도 잃네요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Är det sant?** | 그게 사실이야? | 가장 짧은 의문문: 동사 *är*가 맨 앞으로 나오고 주어 *det*가 뒤따른다. 같은 뜻의 다른 말: *Stämmer det?*(맞아?) — 사실 확인에는 *stämma*(일치하다)를 많이 쓴다. 장면 4에서 빅토르는 같은 질문을 *Stämmer det?*로 바꿔 묻는다 |
+| `A2` | **Min svåger bor i Ryssland.** | 제 처남은 러시아에 살아요. | *svåger*는 배우자의 형제 또는 자매의 남편(처남·매형·시숙 등), 여성형은 *svägerska*. 사는 곳은 *bo i* + 나라·도시. 비슷한 가족어: *svärmor*(장모·시어머니), *svärfar*(장인·시아버지) |
+| `B1` | **Jag har inte pratat med honom sedan 2014, men det spelar ingen roll för er, eller hur?** | 2014년 이후로 그 사람과 말한 적 없어요. 그래도 당신들한텐 상관없는 거죠, 그렇죠? | 현재완료 *har inte pratat* + *sedan*(~이후로)은 '지금까지 계속 안 했다'. *det spelar ingen roll*(상관없다, 중요하지 않다) ↔ *det spelar roll*(중요하다). 끝의 *eller hur?*는 동의를 구하는 꼬리 질문(그렇지?) |
+| `B2` | **Misstanke är inget bevis, men på en redaktion kan den förstöra förtroendet lika effektivt som en läcka.** | 의심은 증거가 아니다. 하지만 편집국에서는 유출만큼이나 효과적으로 신뢰를 무너뜨릴 수 있다. | *X är inget Y*(X는 Y가 아니다)는 *inte ett*보다 단호한 부정. *lika + 형용사/부사 + som*(~만큼 ~하게). *förtroende*(신뢰)는 이 시리즈의 핵심어 — *förtroendet*(그 신뢰), *förlora förtroendet*(신뢰를 잃다) |
+| `B1` | **Det här är ingen dom. Det är en försiktighetsåtgärd.** | 이건 판결이 아니야. 예방 조치야. | *dom*(판결) ↔ *döma*(판결하다, 심판하다). *försiktighetsåtgärd* = *försiktighet*(조심) + *åtgärd*(조치). 긴 합성어는 마지막 단어가 뜻과 성(性)을 정한다: *en åtgärd* → *en försiktighetsåtgärd* |
+| `A2` | **Jag ställer inga frågor. Jag konstaterar bara en sak.** | 질문하지 않겠습니다. 한 가지 사실만 말하죠. | '질문하다'는 *fråga* 또는 *ställa en fråga*(질문을 세우다). *konstatera*(확인하듯 말하다, 단정하다)는 의견이 아니라 사실을 내려놓을 때 쓰는 딱딱한 말 — 뤼덴의 말투 그대로다 |
+| 관용구 | **Ingen rök utan eld.** | 아니 땐 굴뚝에 연기 나랴. | 직역하면 '불 없이는 연기도 없다'. 소문이나 의심에는 이유가 있다는 옛 속담으로, 헨릭이 아버지에게서 들은 말이다. 빅토르는 그 속담을 뒤집어 받아친다: *ibland är röken något som någon annan har tänt*(가끔은 다른 누가 피운 연기다) |
+| 안보·법 | **säkerhetsprövning** | 보안 신원조사 | *säkerhet*(안전, 보안) + *prövning*(심사). 국가 안보에 민감한 업무를 맡을 사람의 충성심·신뢰성을 확인하는 절차로, 보안 등급 확인과 기록 조회를 포함한다. 동사형 *säkerhetspröva*(신원조사하다), 수동 *säkerhetsprövas* |
+
+## 저널리즘·법 메모
+뤼덴이 "이건 신문이 아니다"라고 먼저 말한 데에는 이유가 있다. 기자가 경찰이나 보안경찰과 비공식적으로 만나는 것은 전적으로 자발적인 일이고, 기자는 그 자리에서 어떤 질문에도 답할 의무가 없다 — 그래서 빅토르는 사샤를 아는지조차 확인해 주지 않는다. 사샤처럼 보도를 위해 정보를 준 사람은 그가 팀의 '외부 협력자'든 아니든 *meddelare*(제보자)로서 취재원 보호의 대상이며, 기자와 편집국은 그의 동의 없이 신원을 밝히지 않을 침묵 의무(*tystnadsplikt*)를 진다. 공공기관이 취재원을 캐내는 것은 금지(*efterforskningsförbud*)되어 있지만, 그 의무는 편집국이 스스로 의심과 마주할 때 오히려 더 무겁게 다가온다. 소피아의 해법은 '판결' 대신 '조치'다: 한 사람에게만 낙인을 찍는 대신 모든 취재원의 암호 문구를 바꾸고, 절차를 알던 사람 전원 — 자기 이름부터 — 을 기록하고, 의심을 방 밖으로 내보내지 않는다.
+
+## 문화·현안 메모
+- **벨고로드와 하르키우** — 러시아 벨고로드와 우크라이나 하르키우는 국경을 사이에 두고 약 80km 떨어진 이웃 도시다. 전쟁 전에는 두 도시를 오가며 일하고 결혼하는 가족이 많았고, 그래서 이 전쟁은 많은 가정을 국경선 위에서 둘로 갈라놓았다.
+- **2014년 크림반도와 우크라이나 해군** — 2014년 크림반도가 러시아에 병합될 때 세바스토폴에 주둔하던 우크라이나 해군 장병들은 남을지 떠날지를 선택해야 했다. 상당수가 남았고, 떠난 이들은 오데사 등 본토로 옮겨 해군을 다시 세웠다. 사샤의 "편을 골랐다"는 말은 이 선택을 가리킨다.
+- **정교회 부활절** — 2026년 서방 교회의 부활절은 4월 5일, 정교회의 부활절은 4월 12일이었다. 사샤가 말하는 '지난 일요일의 부활절'은 정교회 부활절이다.
+- **피트야(Fittja)** — 스톡홀름 남서쪽 보트시르카 지자체의 교외 지역으로, 1970년대 '백만 호 주택 계획' 때 지어진 아파트 단지가 많다. 스웨덴 아파트 계단의 불은 대개 몇 분 뒤 저절로 꺼지는 자동 소등식이다.
+- ⚠️ 이 화의 인물(사샤, 드미트리, 뤼덴 등), 사샤의 경력, Brevlådan의 절차는 모두 허구다. Säpo와 우크라이나 해군은 실재하는 기관이지만 극 중 인물과 행위는 가상이다.
+
+## 다음 화 예고
+> 4월 17일 금요일, 탈린 구시가지. 자전거를 끌고 온 에스토니아 기자 카드리 탐이 웃는다: "Jag pluggade ju i Uppsala, så jag vet hur ni tänker."
