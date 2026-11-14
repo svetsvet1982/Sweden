@@ -1,0 +1,242 @@
+@title 6부 3화 — Attacken
+@subtitle (습격)
+@meta 날짜|2026년 10월 13일 화요일 (습격은 새벽 3시 10분) ~ 같은 날 오후 5시 반
+@meta 장소|툼바, 아미라의 아파트 ↔ 순드뷔베리, 시린의 아파트 앞마당 (새벽 3시 12분, 전화) → 단데뤼드 병원 응급실 (새벽 4시 50분) → 같은 병원 보호자 대기실, 예테보리 앙에레드와 영상통화 (오전 8시 10분) → 솔나, Säpo 브리핑실과 계단 (오후 2시) → 쿵스홀멘 경찰청 주차장과 마리아의 사무실 (오후 5시 반)
+@meta 등장인물|**Shirin** (시린 라히미, 40, 이란 출신 망명 언론인, 페르시아어 방송 진행자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자, 시린의 친구) · **Siv** (시브, 70대, 시린의 아래층 이웃) · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자) · **Nasrin** (나스린, 아미라의 어머니, 예테보리 앙에레드 — 영상통화) · **Vera** (베라, Säpo 공보 담당) · **Viktor** (빅토르 홀름, 47, 탐사기자) · **Johan** (요한, Säpo 연락관 — 본인이 고른 이름) · **Maria** (마리아 벤베리, 50, 경찰 국가작전국 NOA 경감)
+@intro **지난 이야기** — 10월 1일, 데얀은 후스뷔 청소년센터 뒷문에서 세 발을 맞았다. 15세 총격범이 받은 사진은 빅토르의 수첩 한 페이지였다. 10월 7일, 사주가 보낸 보안감사관 앞에서 빅토르는 9월에 수첩 몇 장을 휴대폰으로 찍었고 그 사진이 회사 클라우드에 자동 백업됐다고 고백했다. 9월 14일 밤, 누군가 뉴스 데스크 전화로 IT에 "빅토르"라며 비밀번호를 재설정했다. 그날 밤 데스크에는 세 사람이 있었다.
+@intro 엿새 뒤인 10월 13일 화요일 새벽 3시 10분. 순드뷔베리의 한 아파트 창문으로 무언가가 날아든다. 3시 12분, 툼바에서 아미라의 휴대폰이 울린다. 이번 위협은 지하실 안이 아니라 바깥에서 온다.
+# 장면 1 — 10월 13일 화요일 새벽 3시 12분, 툼바 아미라의 침실 ↔ 순드뷔베리 시린의 아파트 앞마당 (전화, 사이렌, 소화기를 든 아래층 이웃)
+Amira|A1|Hallå? Shirin?|여보세요? 시린?
+Shirin|A2|Jag lever, Amira. Jag lever, men fönstret finns inte längre.|나 살아 있어, 아미라. 살아 있는데, 창문이 없어졌어.
+Amira|A1|Vad har hänt?|무슨 일이야?
+Shirin|A2|Någon kastade in något genom fönstret. Det small. Sedan kom röken.|누가 창문으로 뭘 던졌어. 터졌어. 그다음에 연기가 났고.
+Amira|A1|Är du skadad?|다쳤어?
+Shirin|A2|Lite blod på armen. Glas, tror jag. Jag står ute på gården nu.|팔에 피가 좀 나. 유리 때문인 것 같아. 지금 앞마당에 나와 있어.
+Amira|A1|Vilket fönster?|어느 창문?
+Shirin|B1|Sovrummet. Men jag sov inte där i natt, eftersom hantverkarna har rivit upp hela golvet.|침실. 근데 오늘 밤엔 거기서 안 잤어. 인부들이 바닥을 다 뜯어 놨거든.
+Amira|A2|Så du sov i vardagsrummet?|그럼 거실에서 잤어?
+Shirin|A2|På soffan, som en student. Kanske räddade det mig.|소파에서, 대학생처럼. 그게 날 살렸는지도 몰라.
+Amira|A1|Är polisen där?|경찰은 왔어?
+Shirin|A2|Jag hör sirener. En granne står bredvid mig med en brandsläckare.|사이렌 소리가 들려. 이웃 한 분이 소화기 들고 내 옆에 서 계셔.
+Siv|A2|Hallå? Jag heter Siv, jag bor under henne. Ambulansen kommer in på gården nu.|여보세요? 시브예요, 이분 아래층에 살아요. 구급차가 지금 마당으로 들어와요.
+Amira|A2|Tack. Kan du stanna hos henne en stund?|감사합니다. 잠깐만 이 친구 옆에 있어 주실 수 있어요?
+Siv|B1|Jag går ingenstans. Jag har bott i det här huset i trettio år, och ingen ska skrämma bort oss härifrån.|난 아무 데도 안 가요. 이 건물에 30년을 살았는데, 누구도 우릴 여기서 겁줘서 쫓아내진 못해요.
+Amira|A2|Såg du någon? Hörde du något?|누구 보셨어요? 뭐 들으셨어요?
+Siv|B1|Jag vaknade av en moped på gatan. Sedan small det, och hela trapphuset luktade krut.|길에서 오토바이 소리에 깼어요. 그러고 나서 터졌고, 계단 전체에서 화약 냄새가 났어요.
+Amira|A2|Har polisen sagt vad det var?|경찰이 그게 뭐였는지 말했어요?
+Siv|B1|En polis sa ordet handgranat. Jag trodde att sådant bara fanns på film.|경찰 한 사람이 수류탄이라고 했어요. 그런 건 영화에만 있는 줄 알았는데.
+Amira|A2|Får jag prata med Shirin igen?|시린 다시 바꿔 주시겠어요?
+Shirin|A2|Jag är här. De vill köra mig till Danderyd.|나 여기 있어. 단데뤼드로 데려가겠대.
+Amira|A2|Jag kommer dit. Jag beställer en taxi nu.|나 거기로 갈게. 지금 택시 부를게.
+Shirin|B1|Det är tre på natten, Amira, och du bor i Tumba. Det är helt onödigt.|새벽 세 시야, 아미라. 너 툼바 살잖아. 전혀 그럴 필요 없어.
+Amira|A1|Tyst. Jag kommer.|조용히 해. 갈 거야.
+Shirin|B2|Vet du vad jag tänkte när det small? Inte på mig själv, utan på att min bror i Teheran kommer att få höra om det här från fel människor.|터졌을 때 내가 무슨 생각 했는지 알아? 내 걱정이 아니라, 테헤란의 우리 오빠가 이 소식을 엉뚱한 사람들한테서 듣게 되겠구나, 그 생각.
+Amira|A2|Tänk inte på det nu. Gå till ambulansen.|지금은 그 생각 하지 마. 구급차로 가.
+Shirin|B1|En sak till. Om du ser huset, ta inga bilder. Jag vill inte att det hamnar någonstans.|하나만 더. 건물 보게 되더라도 사진은 찍지 마. 어디에도 올라가지 않았으면 해.
+Amira|A1|Inga bilder. Jag lovar.|사진 안 찍어. 약속해.
+Elin|A1|Mm… Amira? Klockan är tre.|음… 아미라? 지금 세 시야.
+Amira|B1|Det är Shirin. Någon har kastat en handgranat genom hennes fönster. Hon lever, och de kör henne till Danderyd.|시린이야. 누가 그 애 창문으로 수류탄을 던졌어. 살아 있고, 단데뤼드로 데려가고 있어.
+Elin|A2|Jag kommer också. Ta på dig en jacka, du fryser annars.|나도 갈게. 외투 입어, 안 그러면 얼어.
+Amira|A2|Jag har pyjamas på mig. Det spelar ingen roll.|나 잠옷 차림이야. 상관없어.
+Elin|A1|Jacka, Amira.|외투, 아미라.
+# 장면 2 — 새벽 4시 50분, 단데뤼드 병원 응급실 (커튼 친 처치실, 팔의 붕대와 이마의 반창고, 시린의 휴대폰 속 날짜별 폴더, 아미라의 종이 수첩)
+Amira|A1|Hur är armen?|팔은 어때?
+Shirin|B1|Sju stygn och ett plåster i pannan. Läkaren säger att jag hade tur, men jag tycker inte om det ordet.|일곱 바늘이랑 이마에 반창고 하나. 의사는 운이 좋았대. 근데 난 그 말이 싫어.
+Amira|A2|Varför inte?|왜?
+Shirin|B2|För att tur betyder att någon annan har bestämt utgången. I natt var det en hantverkare som inte blev klar med golvet i tid.|운이라는 건 결과를 다른 누군가가 정했다는 뜻이니까. 오늘 밤엔 바닥 공사를 제때 못 끝낸 인부 한 사람이었지.
+Amira|A2|Har polisen pratat med dig?|경찰이랑 얘기했어?
+Shirin|B1|Två poliser i en halvtimme. De frågade om jag har några fiender, och jag skrattade. Det var inte snällt av mig.|경찰 두 명이랑 30분. 적이 있느냐고 묻길래 웃어 버렸어. 친절하진 않았지.
+Amira|A1|Vad svarade du?|뭐라고 대답했어?
+Shirin|B1|Att de kan börja med en hel regering och fortsätta därifrån. Sedan visade jag dem min mapp.|정부 하나부터 시작해서 거기서부터 내려가 보라고. 그러고 나서 내 폴더를 보여 줬어.
+Amira|A2|Mappen med alla mejl?|메일 전부 들어 있는 그 폴더?
+Shirin|B1|Hundrafyrtiotre mejl, en mapp för varje månad sedan oktober för två år sedan. Jag är journalist, jag arkiverar.|143통. 2년 전 10월부터 한 달에 폴더 하나씩. 난 기자야. 기록해 두지.
+Amira|A2|Får jag se? Bara titta.|봐도 돼? 보기만 할게.
+Shirin|A2|Här är telefonen. Rubrikerna är på persiska.|여기 휴대폰. 제목은 페르시아어야.
+Amira|A2|Vad står det i den här?|이건 뭐라고 쓰여 있어?
+Shirin|A2|”Vi vet var ditt fönster är.” Den kom den sjätte oktober, för en vecka sedan.|"네 창문이 어디 있는지 안다." 10월 6일에 왔어. 일주일 전에.
+Amira|A1|Fan.|젠장.
+Shirin|B2|Jag trodde att det var en metafor. Mitt program heter Panjereh, det betyder fönster, och de har skämtat om det namnet i två år.|난 그게 비유인 줄 알았어. 내 프로그램 이름이 판제레거든. 창문이라는 뜻이야. 그 이름 가지고 2년 동안 농담을 해 왔으니까.
+Amira|B2|Det som skrämmer mig är att det inte var någon metafor längre. Någon har stått på gatan och räknat fönster.|무서운 건 그게 더는 비유가 아니었다는 거야. 누군가 길에 서서 창문을 세어 봤다는 거지.
+Shirin|B2|Det som skrämmer mig mest är inte granaten, utan att någon i Teheran vet vilket fönster jag sover bakom.|나를 제일 무섭게 하는 건 수류탄이 아니야. 테헤란의 누군가가 내가 어느 창문 뒤에서 자는지 안다는 거야.
+Amira|B1|Får jag titta på tekniken i mejlen? Inte texten, utan det som står i mejlhuvudet.|메일의 기술 정보 좀 봐도 돼? 본문 말고, 메일 헤더에 있는 거.
+Shirin|A2|Ta en bild, om du vill.|원하면 사진 찍어.
+Amira|B1|Nej. Inga bilder i min telefon längre. Jag skriver av det för hand, det har jag lärt mig den här veckan.|아니. 이제 내 휴대폰엔 사진 안 남겨. 손으로 옮겨 적을래. 이번 주에 배운 거야.
+Shirin|A2|Du låter som Viktor.|빅토르처럼 말하네.
+Amira|B1|Viktor hade rätt om papper hela tiden. Det var telefonen som svek honom.|빅토르가 종이에 대해선 처음부터 옳았어. 배신한 건 휴대폰이었지.
+Shirin|A1|Vad ser du?|뭐가 보여?
+Amira|B2|Avsändarna byts hela tiden, gratiskonton som skapas och slängs. Men tidszonen i datumraden är nästan alltid plus tre och trettio, och det är Teherans tid.|발신자는 계속 바뀌어. 만들고 버리는 무료 계정들이야. 그런데 날짜 줄의 시간대가 거의 언제나 플러스 3시간 30분이야. 테헤란 시간이지.
+Shirin|B1|Det kunde jag ha sagt dig utan någon teknik alls.|그건 기술 없이도 내가 말해 줄 수 있었는데.
+Amira|B2|Jag vet. Men det bevisar ingenting i sig, eftersom vem som helst kan ställa klockan på sin dator. Det är ett mönster, inte ett bevis.|알아. 근데 그것만으론 아무것도 증명 못 해. 누구든 자기 컴퓨터 시계를 맞출 수 있으니까. 패턴이지, 증거가 아니야.
+Shirin|B1|Du pratar som en domstol. Det är därför jag litar på dig.|법정처럼 말하네. 그래서 내가 널 믿는 거야.
+Amira|A2|Men varför nu? Efter två år?|근데 왜 지금이야? 2년이 지나서?
+Shirin|B2|Programmet i torsdags handlade om familjer i exil som pressas att spionera på varandra. Tre lyssnare ringde in och berättade under sina riktiga namn.|지난 목요일 방송이 서로를 감시하라고 압박받는 망명 가족들 이야기였어. 청취자 세 명이 전화를 걸어서 실명으로 이야기했어.
+Amira|A2|Och din bror?|오빠는?
+Shirin|B1|Varje gång jag sänder blir han inkallad. De bjuder honom på te, säger de. Han dricker te i fyra timmar och kommer hem tyst.|내가 방송할 때마다 불려 가. 차 대접을 한다나. 네 시간 동안 차를 마시고, 말없이 집에 와.
+Amira|A2|Har du tänkt på att sluta?|그만둘 생각은 해 봤어?
+Shirin|B2|Varje torsdag. Men om jag tystnar sover han kanske lugnare, medan tusentals andra förlorar ett av de få fönster de har mot omvärlden.|목요일마다. 근데 내가 입을 다물면 오빠는 좀 편히 잘지 몰라도, 수천 명이 바깥세상으로 난 몇 안 되는 창문 하나를 잃어.
+Amira|A2|De ville döda dig i natt.|그놈들은 오늘 밤 널 죽이려고 했어.
+Shirin|B1|De vill inte döda mig. De vill att jag ska tystna — det är billigare.|그들은 날 죽이고 싶은 게 아니야. 내가 입 다물길 원하지 — 그게 더 싸니까.
+Elin|A2|Hej. Jag har kaffe och en tröja. Ingen av er ser varm ut.|안녕. 커피랑 스웨터 가져왔어. 둘 다 하나도 안 따뜻해 보여.
+Shirin|A2|Du måste vara Elin. Amira pratar om dig.|엘린이구나. 아미라가 네 얘기 해.
+Elin|A2|Bara bra saker, hoppas jag. Hur mår du?|좋은 얘기만이었으면 좋겠네. 좀 어때?
+Shirin|B1|Bättre än mitt sovrum. Polisen säger att jag inte kan sova hemma på ett tag.|내 침실보단 나아. 경찰이 당분간 집에서 자면 안 된대.
+Elin|B1|Poliserna i korridoren pratade om ett skyddat boende redan i eftermiddag.|복도에 있던 경찰들이 오늘 오후에 바로 보호 주거로 옮긴다고 하더라.
+Shirin|B2|Jag har intervjuat kvinnor som bor så. Nu ska jag själv lära mig hur det är att inte få ge sin adress ens till sin tandläkare.|그렇게 사는 여자들을 인터뷰해 본 적이 있어. 이제 치과에도 주소를 못 알려 주는 게 어떤 건지 나 스스로 배우게 생겼네.
+Amira|B1|Viktor vill skriva om det här. Inte jag — du är min vän, så jag får inte. Men han undrar om du vill prata med honom.|빅토르가 이걸 기사로 쓰고 싶어 해. 나 말고 — 넌 내 친구라서 난 쓰면 안 돼. 근데 그 사람이 너랑 얘기할 수 있는지 묻더라.
+Shirin|B2|Jag har sänt under mitt eget namn i femton år, och det tänker jag inte gömma nu. Men på ett villkor: inte min gata, inte mitt hus och inga bilder på fasaden.|난 15년 동안 내 이름 걸고 방송했어. 지금 와서 그걸 숨길 생각은 없어. 대신 조건이 하나 있어. 우리 동네 길 이름 안 되고, 건물 안 되고, 건물 외관 사진도 안 돼.
+Elin|A2|Det förstår han. Han är sådan.|그 사람은 이해할 거야. 그런 사람이야.
+Shirin|B2|Han kanske förstår. Men hans chefer vill ha en bild av ett krossat fönster, och ett krossat fönster är en karta för nästa person.|그 사람은 이해할지도 몰라. 근데 그 위 사람들은 깨진 창문 사진을 원하겠지. 깨진 창문은 다음 사람에게 지도가 돼.
+# 장면 3 — 오전 8시 10분, 단데뤼드 병원 보호자 대기실 (자판기, 창밖의 주차장, 아미라의 휴대폰 화면 속 앙에레드의 부엌)
+Nasrin|A1|Amira? Gyan, ser du mig?|아미라? 얘야, 엄마 보이니?
+Amira|A2|Jag ser dig, mamma. Du står i köket.|보여, 엄마. 부엌에 서 있네.
+Nasrin|A2|Jag har inte sovit. Jag har tittat på nyheterna sedan klockan sex.|엄마 한숨도 못 잤다. 여섯 시부터 뉴스만 봤어.
+Amira|A2|Vad säger de på nyheterna?|뉴스에선 뭐래?
+Nasrin|B1|En kvinna i Sundbyberg, en journalist från Iran. De säger inte namnet, men jag vet att du har en vän som heter Shirin.|순드뷔베리의 여자, 이란 출신 기자래. 이름은 안 나오는데, 너한테 시린이라는 친구 있는 거 엄마는 알지.
+Amira|A1|Det är hon.|그 애 맞아.
+Nasrin|A1|Lever hon?|살았니?
+Amira|A2|Granaten kom genom fönstret strax efter tre. Hon lever, och hon sitter i rummet bredvid.|수류탄이 세 시 조금 넘어서 창문으로 들어왔어. 살아 있어. 옆방에 앉아 있어.
+Nasrin|A2|Är Elin där? Bra. Hej, Elin.|엘린도 거기 있니? 다행이다. 안녕, 엘린.
+Elin|A1|Hej, Nasrin.|안녕하세요, 나스린.
+Nasrin|B1|Amira, jag måste säga en sak, och du får inte bli arg. Det ringde någon i går kväll.|아미라, 할 말이 있는데 화내면 안 된다. 어젯밤에 누가 전화했어.
+Amira|A1|Vem?|누가?
+Nasrin|A2|En man, vid halv elva. Han pratade kurdiska.|남자. 열 시 반쯤. 쿠르드어로 말했어.
+Amira|A2|Vad sa han, mamma? Exakt.|뭐라고 했어, 엄마? 정확하게.
+Nasrin|B1|Han sa: ”Vi vet var din dotter jobbar.” Sedan sa han namnet på tidningen, och sedan lade han på.|"네 딸이 어디서 일하는지 안다." 그러고는 신문사 이름을 말하고 끊었어.
+Amira|B1|Varför ringde du inte till mig direkt?|왜 바로 나한테 전화 안 했어?
+Nasrin|B1|Du jobbar så mycket. Jag ville inte att du skulle sova dåligt för ett dumt samtal.|너 일 많잖아. 바보 같은 전화 하나 때문에 네가 잠 설치는 거 싫었어.
+Amira|A2|Mamma… Det var inte dumt. Det var allvarligt.|엄마… 바보 같은 게 아니야. 심각한 거야.
+Nasrin|B1|I april pratade mannen svenska. Den här gången kurdiska. Det är värre, keça min, för det betyder att de kommer närmare.|4월엔 그 남자가 스웨덴어로 말했잖아. 이번엔 쿠르드어야. 더 나쁜 거야, 내 딸. 더 가까이 온다는 뜻이니까.
+Elin|B1|Ringde han från samma nummer som i april?|4월이랑 같은 번호로 걸려 왔어요?
+Nasrin|A2|Nej. Det stod inget nummer alls. Bara ”okänt”.|아니. 번호가 아예 안 떴어. 그냥 "알 수 없음".
+Amira|B2|I april visste de vad Karwan heter, och nu vet de var jag jobbar. Någon sätter ihop en karta över vår familj, bit för bit.|4월엔 카르완 이름을 알았고, 이제는 내가 어디서 일하는지 알아. 누군가 우리 가족 지도를 한 조각씩 맞추고 있어.
+Elin|B2|Men det här behöver inte ha något med läckan hos oss att göra. Din mammas nummer har stått i telefonkatalogen i tjugo år, och tidningens namn står under varenda artikel du skriver.|근데 이건 우리 쪽 유출이랑 관계없을 수도 있어. 너희 어머니 번호는 20년 동안 전화번호부에 있었고, 신문사 이름은 네가 쓰는 기사마다 밑에 다 나오잖아.
+Nasrin|A2|Det står i katalogen, ja. Din pappa ville ha det så.|전화번호부에 있지, 맞아. 네 아빠가 그러길 원했어.
+Elin|B1|Det betyder att det kommer utifrån. Det är lika farligt, men det är inte samma sak.|그러니까 이건 바깥에서 온 거예요. 위험한 건 똑같지만, 같은 일은 아니에요.
+Nasrin|B2|Jag ska säga det rakt ut, gyan. Jag vill att du slutar. Hitta ett jobb på ett kontor där ingen vet vad du heter.|딱 잘라 말할게, 얘야. 엄마는 네가 그만뒀으면 좋겠어. 아무도 네 이름 모르는 사무실에서 일해.
+Amira|B1|Mamma, jag har redan ett jobb på ett kontor. Det ligger i en källare.|엄마, 나 이미 사무실에서 일해. 지하실에 있어서 그렇지.
+Nasrin|A2|Skämta inte. Jag gråter, ser du inte det?|농담하지 마. 엄마 울고 있는 거 안 보여?
+Amira|A1|Förlåt, mamma.|미안해, 엄마.
+Nasrin|B1|Din pappa kom hit för att ingen skulle ringa och säga sådana saker till oss. Det var hela poängen med Sverige.|네 아빠가 여기 온 건 아무도 우리한테 그런 말 하는 전화를 못 하게 하려고였어. 스웨덴에 온 이유가 그거였다고.
+Amira|B2|Jag vet. Men om jag slutar för att någon ringer, då har de bestämt över mitt liv, och då har de fått precis det de betalade för.|알아. 근데 누가 전화했다고 내가 그만두면, 그 사람들이 내 인생을 정한 게 돼. 그럼 딱 자기들이 돈 낸 만큼 얻어 가는 거고.
+Nasrin|A1|Du är som han.|넌 꼭 아빠 같구나.
+Amira|A2|Som pappa? Hur då?|아빠? 어떻게?
+Nasrin|A2|Envis. Han var också envis.|고집 세. 그 사람도 고집이 셌어.
+Amira|A2|Mamma, jag slutar inte. Men jag lovar att ringa varje kväll.|엄마, 그만두진 않아. 대신 매일 밤 전화할게.
+Nasrin|A2|Varje kväll klockan nio. Annars ringer jag polisen själv.|매일 밤 아홉 시. 안 하면 엄마가 직접 경찰에 전화할 거야.
+Elin|B1|Polisen i Göteborg kan komma hem till dig och prata om skydd. Vill du att Amira ordnar det i dag?|예테보리 경찰이 댁으로 가서 보호 문제를 상담해 드릴 수 있어요. 아미라가 오늘 연결해 드릴까요?
+Nasrin|A2|Ja. Men inte med sirener. Grannarna pratar.|그래. 근데 사이렌은 안 돼. 이웃들이 말이 많아.
+Amira|A2|Inga sirener. Jag ringer dem före lunch.|사이렌 없이. 점심 전에 전화할게.
+Nasrin|A2|Ät något, keça min. Du är blek.|뭐 좀 먹어라, 내 딸. 얼굴이 하얗다.
+Amira|A1|Hej då, mamma.|끊을게, 엄마.
+Elin|A2|Hon är stark, din mamma.|강한 분이시네, 너희 어머니.
+Amira|B1|Hon har städat kontor i Angered om nätterna i tjugo år och har aldrig varit rädd för någonting. Förrän nu.|앙에레드에서 20년 동안 밤마다 사무실 청소를 하면서 한 번도 뭘 무서워한 적 없는 사람이야. 지금까지는.
+Elin|A2|Amira. Du behöver inte vara stark i dag.|아미라. 오늘은 강하지 않아도 돼.
+Amira|A1|Jo. Jag måste.|아니. 그래야 해.
+Elin|A1|Nej. Inte i dag.|아니야. 오늘은 아니야.
+Amira|A2|Jag gråter inte. Jag… fan. Jag gråter visst.|나 안 울어. 나… 젠장. 울고 있네.
+Elin|A1|Det är okej. Jag är här.|괜찮아. 나 여기 있어.
+Amira|B1|Ge mig fem minuter. Sedan vill jag jämföra mejlen med allt som polisen har.|5분만 줘. 그다음에 메일이랑 경찰이 가진 걸 전부 맞춰 보고 싶어.
+Elin|B1|Håll huvudet kallt, vi tar det sen. Först äter du något.|냉정하게 있어, 그건 나중에 하자. 일단 뭐부터 먹어.
+Amira|A2|Nu låter du som min mamma.|이제 우리 엄마처럼 말하네.
+Elin|B1|Din mamma hade redan gett dig en hel matlåda. Vänta, en push från TT: en sextonåring är gripen.|너희 어머니라면 벌써 도시락 하나를 통째로 줬겠지. 잠깐, TT 속보야. 16살 한 명이 체포됐대.
+Amira|A1|Var?|어디서?
+Elin|B1|På Örebro central i morse. Han är från Örebro, står det, och mer än så skriver de inte.|오늘 아침 외레브로 중앙역에서. 외레브로 출신이래. 그 이상은 안 썼어.
+# 장면 4 — 오후 2시, 솔나 Säpo 브리핑실과 뒤편 계단 → 오후 5시 반, 쿵스홀멘 경찰청 주차장의 빅토르 차 안과 마리아의 사무실 (커피 세 잔, 모니터 두 대, 두 개의 텔레그램 계정)
+Vera|B2|Säkerhetspolisen har i dag tagit över förundersökningen om explosionen i Sundbyberg. Vi bedömer att attacken kan ha utförts på uppdrag av en främmande makt.|보안경찰은 오늘 순드뷔베리 폭발 사건의 예비수사를 넘겨받았습니다. 저희는 이번 공격이 외국 세력의 의뢰로 실행됐을 가능성이 있다고 판단합니다.
+Viktor|A1|Vilken makt?|어느 세력입니까?
+Vera|B1|Det kommenterar vi inte i dag. Jag läser klart uttalandet först.|그 부분은 오늘 언급하지 않겠습니다. 성명부터 끝까지 읽겠습니다.
+Viktor|A1|Varsågod.|그러시죠.
+Vera|B2|Säkerhetspolisen har under de senaste åren konstaterat att främmande stater använder kriminella nätverk i Sverige för att begå våldsbrott, ibland med mycket unga gärningspersoner.|보안경찰은 최근 몇 년간, 외국 국가들이 스웨덴 내 범죄 네트워크를 이용해 폭력 범죄를 저지르고 있으며, 때로는 매우 어린 실행범을 쓴다는 점을 확인해 왔습니다.
+Viktor|B1|Ni har tidigare sagt offentligt att Iran är en av de staterna. Gäller det även den här attacken?|귀 기관은 이전에 이란이 그런 국가 중 하나라고 공개적으로 밝힌 바 있습니다. 이번 공격에도 해당됩니까?
+Vera|B2|Vår tidigare offentliga bedömning står fast. Om det här enskilda ärendet säger vi ingenting mer så länge förundersökningen pågår.|저희의 이전 공개 평가는 유효합니다. 이 개별 사건에 대해서는 예비수사가 진행되는 동안 더 말씀드리지 않겠습니다.
+Viktor|A2|Är sextonåringen från Örebro anhållen?|외레브로 출신 16세는 체포 구금됐습니까?
+Vera|A2|Han är anhållen. Mer kan jag inte säga.|구금됐습니다. 그 이상은 말씀드릴 수 없습니다.
+Viktor|B1|Fick han betalt via Telegram, precis som pojken i Husby för två veckor sedan?|2주 전 후스뷔의 소년과 똑같이 텔레그램으로 돈을 받았습니까?
+Vera|A2|Andra ärenden kommenterar jag inte. Tack för i dag.|다른 사건에 대해서는 언급하지 않겠습니다. 오늘은 여기까지입니다.
+Johan|B1|Herr Holm? Har ni två minuter? Inte här inne, ute i trapphuset.|홀름 씨? 2분만 시간 있으십니까? 여기 말고, 바깥 계단에서.
+Viktor|A1|Vem är ni?|누구시죠?
+Johan|B1|Ni kan kalla mig Johan. Det är inte så viktigt vad jag heter.|요한이라고 부르시면 됩니다. 제 이름이 뭔지는 그리 중요하지 않아요.
+Viktor|A2|Heter ni verkligen Johan?|정말 이름이 요한입니까?
+Johan|A2|I dag gör jag det.|오늘은 그렇습니다.
+Viktor|B1|Ni vet att jag inte skriver någonting som jag inte kan belägga.|제가 입증 못 하는 건 아무것도 안 쓴다는 거 아시죠.
+Johan|B2|Därför pratar jag med er och inte med kvällstidningarna. Ingenting av det här är ett citat, och ingenting av det här är en bekräftelse.|그래서 석간지가 아니라 당신과 얘기하는 겁니다. 지금 하는 말은 어느 것도 인용이 아니고, 어느 것도 확인이 아닙니다.
+Viktor|A1|Förstått.|알겠습니다.
+Johan|B2|Er kollega Amira Salehs mamma anmälde ett samtal i Göteborg i förmiddags. Säg till henne att hon inte behöver förklara det två gånger.|동료분 아미라 살레 씨의 어머니가 오늘 오전 예테보리에서 전화 건을 신고하셨더군요. 두 번 설명하실 필요 없다고 전해 주십시오.
+Viktor|B1|Är pojken från Örebro samma sorts rekryt som pojken i Husby?|외레브로 소년이 후스뷔 소년과 같은 종류의 포섭 대상입니까?
+Johan|B1|Jag kan varken bekräfta eller dementera. Men ni ställer rätt frågor.|확인도 부인도 할 수 없습니다. 하지만 맞는 질문을 하고 계시네요.
+Viktor|B2|Då ställer jag en till. Om en stat köper våld av ett gäng, vem är det egentligen som betalar pojkarna — staten eller gänget?|그럼 하나 더 하죠. 국가가 갱단한테서 폭력을 산다면, 실제로 소년들한테 돈을 주는 건 누굽니까 — 국가입니까, 갱단입니까?
+Johan|B2|Det är just den frågan som gör sådana upplägg så praktiska för den som beställer. Ju fler mellanhänder, desto lättare är det att förneka allt.|바로 그 질문 때문에 그런 구조가 주문하는 쪽에 그렇게 편리한 겁니다. 중간 단계가 많을수록 전부 부인하기가 쉬워지니까요.
+Viktor|A2|Det låter som ett ja.|그건 '예'로 들리는데요.
+Johan|A2|Det var en allmän iakttagelse. Ha en bra dag, herr Holm.|일반적인 관찰이었습니다. 좋은 하루 되십시오, 홀름 씨.
+Amira|A2|Shirin har flyttat. Jag vet inte vart, och jag vill inte veta.|시린 옮겼어. 어디로 갔는지 몰라. 알고 싶지도 않고.
+Viktor|B1|Det är så ett skyddat boende ska fungera. Ju färre som vet, desto säkrare är det.|보호 주거는 원래 그렇게 돌아가야 해. 아는 사람이 적을수록 안전하지.
+Amira|B1|Hon har läst din text. Hon säger att den får gå, om ingenting läggs till.|그 애가 네 기사 읽었어. 아무것도 덧붙이지 않으면 나가도 된대.
+Viktor|B2|Fredrik ringde nyss. Han vill ha gatunamnet i ingressen och en bild på fasaden, eftersom Kvällsbladet redan har publicerat en.|프레드릭이 방금 전화했어. 리드에 길 이름을 넣고 건물 외관 사진도 원해. 크벨스블라데트가 벌써 하나 실었다고.
+Amira|A1|Nej. Aldrig.|안 돼. 절대.
+Viktor|B2|Jag sa nej, och Sofia sa nej innan jag ens hann lägga på. Vi skriver Sundbyberg, eftersom polisen redan har sagt det, men ingen gata, ingen våning och inte ett ord om vilket rum hon sov i.|안 된다고 했어. 소피아는 내가 전화 끊기도 전에 안 된다고 했고. 순드뷔베리는 쓴다, 경찰이 이미 말했으니까. 하지만 길도, 층도, 그 애가 어느 방에서 잤는지도 한 마디도 안 써.
+Amira|B1|Kvällsbladets bild visar hela huset. Nästa person behöver inte ens leta.|크벨스블라데트 사진엔 건물 전체가 나와. 다음 사람은 찾을 필요도 없겠지.
+Viktor|B2|Deras bild kan vi inte stoppa. Men vi behöver inte bli den andra kartan, även om Fredrik tycker att vi ser fega ut.|그쪽 사진은 우리가 못 막아. 하지만 우리가 두 번째 지도가 될 필요는 없어. 프레드릭은 우리가 겁쟁이처럼 보인다고 생각하더라도.
+Amira|A2|Låt honom tycka det. Vad sa Säpo?|그렇게 생각하라고 해. Säpo는 뭐래?
+Viktor|B1|Säpo säger att en främmande makt använder kriminella nätverk i Sverige. Mer än så säger de inte.|Säpo는 외국 세력이 스웨덴의 범죄 네트워크를 이용한다고 해. 그 이상은 말 안 해.
+Amira|B1|Det har de sagt offentligt i två år. Det är ingen nyhet.|그건 2년 전부터 공개적으로 말해 온 거야. 새로운 게 아니지.
+Viktor|B1|Nyheten är att de säger det om Shirin. Kom, Maria väntar.|새로운 건 그 말을 시린 사건에 대해 했다는 거야. 가자, 마리아가 기다려.
+Maria|A2|Jag har köpt tre kaffe. Ett till var och en.|커피 세 잔 샀어요. 한 사람에 한 잔씩.
+Viktor|A2|Och ditt dricker du inte, som vanligt.|그리고 당신 건 안 마시겠죠, 늘 그렇듯.
+Maria|A1|Som vanligt. Sitt.|늘 그렇듯. 앉아요.
+Amira|B1|Varför ville du träffa oss? Polisen bjuder inte journalister på kaffe utan anledning.|왜 우릴 보자고 했어요? 경찰이 이유 없이 기자한테 커피 사진 않잖아요.
+Maria|B1|Säpo har Sundbyberg nu, och jag har kvar Husby. Men jag får titta på deras skärmar, och ni har något som jag vill förstå.|순드뷔베리는 이제 Säpo 거고, 나한텐 후스뷔가 남았어요. 그래도 저쪽 화면은 볼 수 있고, 당신들한테 내가 이해하고 싶은 게 있어요.
+Amira|A2|Shirins mejl?|시린의 메일?
+Maria|B1|Hon gav oss mappen i morse. Hon sa också att du hade läst den med andra ögon än vi.|오늘 아침에 그 폴더를 우리한테 줬어요. 당신이 우리와는 다른 눈으로 읽었다고도 하더군요.
+Amira|B2|Mina anteckningar lämnar jag inte ut. Men Shirin har sagt att jag får berätta vad jag såg, så det gör jag.|제 메모는 넘기지 않아요. 하지만 시린이 제가 본 걸 말해도 된다고 했으니, 그건 말할게요.
+Maria|A1|Jag lyssnar.|듣고 있어요.
+Amira|B1|Nästan alla mejl har Teherans tidszon i datumraden. Och det sista kom den sjätte oktober: ”Vi vet var ditt fönster är.”|거의 모든 메일 날짜 줄에 테헤란 시간대가 찍혀 있어요. 그리고 마지막 메일이 10월 6일에 왔어요. "네 창문이 어디 있는지 안다."
+Maria|B1|Titta här, då. Det här är kontot som beställde Sundbyberg. Det heter Solrosen.|그럼 여기 봐요. 이게 순드뷔베리를 주문한 계정이에요. 이름은 '해바라기'.
+Viktor|A1|När skapades det?|언제 만들어졌죠?
+Maria|A2|Den sjunde oktober, på kvällen.|10월 7일 저녁에.
+Amira|B1|Dagen efter det sista mejlet. Det kan vara en slump, men jag tror inte på slumpar längre.|마지막 메일 다음 날이네요. 우연일 수도 있지만, 난 이제 우연을 안 믿어요.
+Viktor|A2|Och den andra skärmen?|그럼 다른 화면은?
+Maria|B1|Fyrklövern, kontot som beställde Husby. Båda raderades en minut efter attacken.|'네잎클로버', 후스뷔를 주문한 계정이에요. 둘 다 공격 1분 뒤에 삭제됐어요.
+Viktor|A2|En fyrklöver och en solros. Någon tycker om blommor.|네잎클로버에 해바라기라. 누가 꽃을 좋아하나 보군.
+Maria|B2|Någon vill att vi ska tro att det är två olika personer. Men läs meddelandena om betalningen och titta på hur de är skrivna.|누군가 우리가 두 사람이라고 믿기를 바라는 거죠. 그런데 돈 얘기하는 메시지들을 읽어 보고, 어떻게 쓰였는지 봐요.
+Amira|A2|”Betalnig.” Utan n. I båda.|"betalnig." n이 빠졌어요. 둘 다.
+Maria|B1|I alla fem meddelanden om pengar, i båda kontona. Och efter varje meddelande kommer samma sak: en tumme upp.|두 계정에서, 돈 얘기하는 메시지 다섯 개 전부. 그리고 메시지마다 끝에 똑같은 게 붙어요. 엄지척 하나.
+Viktor|A1|Samma hand.|같은 손이군.
+Maria|B2|Samma vana, åtminstone. Ett stavfel kan man kopiera, men då måste man veta att någon kommer att leta efter det.|적어도 같은 버릇이죠. 철자 실수는 흉내 낼 수 있어요. 하지만 그러려면 누군가 그걸 찾아볼 거란 걸 알아야 하죠.
+Amira|A2|Har pojken från Örebro sagt något?|외레브로 소년은 뭐라도 말했어요?
+Maria|B1|Han pratar mer än pojken i Husby. Han är rädd, och han vill hem till sin mamma.|후스뷔 소년보다는 말을 해요. 겁에 질려 있고, 엄마한테 가고 싶어 해요.
+Viktor|A1|Vad sa han?|뭐라고 했습니까?
+Maria|B2|Att han inte visste vem som bodde där. Han fick en bild på ett fönster, en tid och halva betalningen i kryptovaluta — resten skulle komma efteråt.|거기 누가 사는지 몰랐대요. 창문 사진 한 장이랑 시각, 그리고 암호화폐로 돈의 절반을 받았고, 나머지는 끝난 뒤에 받기로 했대요.
+Amira|A2|En bild på hennes fönster. Från gatan?|그 애 창문 사진이요. 길에서 찍은?
+Maria|A2|Från gatan. Tagen i september.|길에서요. 9월에 찍힌 거예요.
+Viktor|B1|Någon har alltså stått där långt före honom. Vem tog bilden?|그러니까 누군가 그 애보다 훨씬 먼저 거기 서 있었다는 거군요. 사진은 누가 찍었죠?
+Maria|B1|Det vet vi inte än. Men när pojken klagade på betalningen fick han ett kontaktkort: ”Frågor om pengar, skriv hit.”|그건 아직 몰라요. 그런데 소년이 돈 문제로 불평하니까 연락처 카드를 하나 받았대요. "돈 문의는 여기로."
+Viktor|A2|Och pojken i Husby?|그럼 후스뷔 소년은?
+Maria|B1|Han säger fortfarande ingenting. Men teknikerna återskapade hans raderade chattar i går, och där finns samma kontaktkort.|여전히 아무 말도 안 해요. 그런데 어제 기술팀이 그 애의 삭제된 대화를 복구했는데, 거기에 같은 연락처 카드가 있어요.
+Amira|A1|Vem är det?|누구예요?
+Maria|B1|Samma beställare som i Husby. På Telegram kallar han sig Doktorn.|후스뷔와 같은 주문자예요. 텔레그램에선 자기를 "박사"라고 불러요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Är du skadad?** | 다쳤어? | *skadad*는 *skada*(다치게 하다, 손상하다)의 과거분사로 '다친' 상태를 나타낸다. 의문문은 동사를 앞으로: *Du är skadad.* → *Är du skadad?* 사람이 아니라 물건에도 쓴다(*Bilen är skadad.*). 더 가벼운 말은 *Har du ont?*(아파?) |
+| `A2` | **Granaten kom genom fönstret strax efter tre.** | 수류탄은 세 시 조금 넘어서 창문으로 들어왔다. | *strax efter* = ~ 직후, 조금 지나서(*strax före* = 직전). 시각의 *tre*에는 *klockan*을 생략해도 된다. *genom* = ~을 통해, ~을 뚫고. *granat*은 군대 말로는 *handgranat*(수류탄) |
+| `A2` | **Mamma, jag slutar inte. Men jag lovar att ringa varje kväll.** | 엄마, 그만두진 않아. 대신 매일 밤 전화할게. | *sluta*(그만두다)는 목적어 없이도 '일을 그만두다'가 된다. *lova att* + 원형 = ~하겠다고 약속하다. *varje kväll*처럼 *varje* 뒤에는 명사 단수 미한정형 |
+| `B1` | **Säpo säger att en främmande makt använder kriminella nätverk i Sverige.** | Säpo는 외국 세력이 스웨덴의 범죄 네트워크를 이용한다고 말한다. | *säga att* + 종속절(어순은 평서문 그대로). *främmande makt* = 외국 세력, 외세 — 법률·보안 용어로 굳은 표현이다. *främmande*는 형태가 변하지 않는 형용사(*en främmande stat, främmande stater*) |
+| `B1` | **De vill inte döda mig. De vill att jag ska tystna — det är billigare.** | 그들은 날 죽이고 싶은 게 아니야. 내가 입 다물길 원하지 — 그게 더 싸니까. | *vilja att* + 주어 + *ska* + 원형 = (남이) ~하기를 원하다. *tystna* = 조용해지다, 입을 다물다(*tyst* + *-na*: '~해지다'를 만드는 접미사, *mörkna* 어두워지다, *blekna* 바래다) |
+| `B2` | **Det som skrämmer mig mest är inte granaten, utan att någon i Teheran vet vilket fönster jag sover bakom.** | 나를 제일 무섭게 하는 건 수류탄이 아니라, 테헤란의 누군가가 내가 어느 창문 뒤에서 자는지 안다는 거야. | *det som …* = ~하는 것(주어절). *inte X, utan Y* = X가 아니라 Y. 간접의문문 *vilket fönster jag sover bakom*에서 전치사 *bakom*이 맨 끝으로 간다(구어에서 자연스러운 전치사 좌초) |
+| 구어 | **hålla huvudet kallt** | 냉정을 유지하다 | 직역하면 '머리를 차갑게 두다'. 엘린: *Håll huvudet kallt, vi tar det sen.* *ta det sen* = 그건 나중에 처리하자(*sen* = *sedan*의 구어형). 비슷한 말 *ta det lugnt*(진정해) |
+| 보안·법 | **skyddat boende** | 보호 주거 | 위협받는 사람이 경찰·지자체의 도움으로 옮겨 가는 비공개 거처. 주소를 극소수만 알고, 주민등록 보호(*skyddad folkbokföring*)와 함께 쓰이기도 한다(1부의 '증인'). 빅토르: *Ju färre som vet, desto säkrare är det.* — *ju … desto* = ~할수록 더 ~ |
+
+## 저널리즘·법 메모
+피해자가 동료의 친구일 때, 기사는 두 번 조심해야 한다. 첫째는 이해충돌이다. 아미라는 시린의 친구이므로 기사를 쓰지 않고, 빅토르가 쓴다 — 아미라는 시린이 허락한 범위에서 자기가 본 '패턴'만 말한다. 둘째는 언론윤리 규칙(*publicitetsregler*)의 피해자 보호다. 시린은 15년 동안 실명으로 방송해 온 공인이라 이름을 밝히는 데 동의했지만, 길 이름·층수·건물 외관 사진·침실 위치는 모두 뺀다. 경찰이 이미 공개한 '순드뷔베리'까지만 쓰는 이유는, 기사가 다음 공격자의 지도가 되어서는 안 되기 때문이다. 경쟁지가 이미 건물 사진을 실었다는 것은 이유가 되지 않는다 — "우리가 두 번째 지도가 될 필요는 없다". 한편 경찰이 기자에게 자료를 요청할 때, 기자의 취재 메모는 넘기지 않는 것이 원칙이다. 피해자 본인이 수사기관에 직접 자료를 주는 것은 피해자의 선택이고, 기자는 피해자가 허락한 범위에서만 자기 관찰을 말한다.
+
+## 문화·현안 메모
+- **초국가적 탄압(*transnationell repression*)** — 망명 언론인·활동가가 해외에서 협박 메일·전화·감시를 받고, 고국에 남은 가족이 대신 불려 가 압박받는 일이 여러 나라에서 꾸준히 보도되었다. "차 대접"은 고국에서의 비공식 소환을 에둘러 이르는 말로 쓰인다. 위협이 망명자 본인뿐 아니라 가족의 전화번호부까지 향하는 것이 특징이다.
+- **Säpo의 공개 평가** — 스웨덴 보안경찰(Säpo)은 2024년 무렵부터 외국 국가, 그중 이란이 스웨덴 내 범죄 네트워크를 이용해 폭력을 시도한다고 공개적으로 경고해 왔다. 다만 개별 사건에 대해서는 수사 중이라는 이유로 거의 말하지 않는다. 극중 성명과 브리핑은 그 일반적 태도를 빌린 허구다.
+- **페르시아어 망명 방송** — 이란 밖에서 활동하는 언론인들이 위성·인터넷으로 페르시아어 방송을 이어 가며, 고국의 청취자에게는 바깥세상으로 난 몇 안 되는 창이 되기도 한다. 시린의 프로그램 *Panjereh*(창문)와 그 내용은 가상이다.
+- **쿠르드어 몇 마디** — 아미라의 어머니가 쓰는 *gyan*(얘야, 사랑하는 이)과 *keça min*(내 딸). 스웨덴의 많은 이민 가정에서 부모 세대는 스웨덴어 문장 속에 모국어 호칭을 섞는다.
+- ⚠️ 이번 화의 시린 라히미와 그 프로그램, 습격 사건, Säpo 공보 담당 베라와 연락관 '요한', 텔레그램 계정 'Solrosen'·'Fyrklövern'은 모두 허구이며, 실제 사건이나 실존 인물·기관 내부 인물을 묘사하지 않는다.
+
+## 다음 화 예고
+> 6부 4화 — 아미라의 화면에 지갑 세 개와 화살표가 그려진다. "Jävlar. Båda attackerna betalades från samma mellanhand." 그리고 빅토르와 엘린은 이스탄불로 간다.
