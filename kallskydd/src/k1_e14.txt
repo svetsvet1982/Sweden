@@ -1,0 +1,187 @@
+@title 1부 14화 — Smällen
+@subtitle (폭발)
+@meta 날짜|2025년 11월 11일 화요일 (마르텐의 날, *Mårtensdagen*) 새벽 4시 반 ~ 밤 9시경
+@meta 장소|쿵스홀멘 Stockholmsposten 지하 "Källaren" (새벽 4시 반) → 같은 Källaren, 아침 내내 (아침 7시~8시) → 한트베르카르가탄 신문사 정문과 계단, 대피 장소 롤람스호브 공원 (낮 12시 40분) → 공원 가장자리 경찰 폭발물처리반 저지선 앞 (오후 2시 반) → 다시 Källaren (저녁 7시 ~ 밤 9시)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Elin** (엘린 셰크비스트, 28, 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Noah** (노아 베리룬드, 24, 인턴) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장 "Kapten") · **Lars** (라르스 몰린, 62, 법률고문 — 전화) · **Paola** (파올라 리바스, 41, 욘테의 어머니 — 전화) · **Bengt** (벵트, 신문사 보안팀 위협 담당) · **Johanna** (요한나 에크, 경찰 폭발물처리반 현장 지휘관 — 첫 등장) · **Maria** (마리아 벤베리, 50, 경찰 NOA 경감 — 전화) · **Kungen** (로빈 "쿵엔" 사리넨, 31, Zenit 두목 — 인스타그램 스토리 영상)
+@intro **지난 이야기** — 소피아는 산나의 실명 공개를 요구한 프레드릭을 물리치고 수요일 아침 6시 보도를 결정했다. 그러나 마르텐 전야의 거위가 식기도 전인 밤 11시 40분, 경쟁지 크벨스블라데트가 푸시 알림으로 먼저 터뜨렸다 — 팀끼리만 쓰던 문장 "그녀의 권한으로는 옛 주소만 보였다"까지 그대로.
+@intro 새벽 4시 반, Källaren. 자정에 달려온 소피아는 보도를 하루 당겨 오늘 새벽 5시에 전체 기사를 내기로 했고, 토비아스 크론의 변호인에게는 답변 시한을 새벽 4시로 줄인다는 메일이 나갔다. 라르스는 집 부엌에서 스피커폰으로, 마지막 세 문장을 붙들고 있다.
+# 장면 1 — 새벽 4시 반, Källaren (모니터 위의 최종 교정본, 스피커폰 너머 라르스의 부엌)
+Sofia|A1|Hur långt har vi kvar?|얼마나 남았어?
+Amira|A1|Tre meningar.|세 문장.
+Lars|B1|Tre meningar som håller mig vaken. Jag sitter vid köksbordet hemma och har texten framför mig.|저를 잠 못 들게 하는 세 문장입니다. 집 식탁에 앉아서 본문을 보고 있습니다.
+Viktor|A1|Läs den första.|첫 번째 읽어 주세요.
+Lars|B2|”Polisen bekräftar att en anställd har sökt på vittnet.” Det har polisen aldrig gjort. Du hörde det av Maria Wennberg i förtroende, och en mening som bara kan komma från henne pekar ut henne som källa.|"경찰은 직원 한 명이 증인을 조회했다고 확인했다." 경찰은 그런 확인을 한 적이 없습니다. 당신이 마리아 벤베리에게서 사적으로 들은 거죠. 그리고 그 사람한테서만 나올 수 있는 문장은 그 사람을 취재원으로 지목하게 됩니다.
+Viktor|A2|Okej. Vad skriver vi i stället?|알겠어요. 대신 뭐라고 써요?
+Lars|B1|”Enligt Stockholmspostens uppgifter pågår en internutredning inom polisen.” Mer än så skriver vi inte.|"스톡홀름스포스텐 취재에 따르면 경찰 내부에서 조사가 진행 중이다." 그 이상은 쓰지 않습니다.
+Elin|A1|Ändrat. Nästa?|고쳤어요. 다음은요?
+Lars|B2|”Gänget betalade för adressen.” Det vet vi inte heller. Hon blev lovad att en skuld skulle bli mindre, och ett löfte från ett gäng är ingen betalning.|"갱단은 주소의 대가를 치렀다." 그것도 모릅니다. 그녀는 빚이 줄어들 거라는 약속을 받았을 뿐이고, 갱단의 약속은 대가 지불이 아닙니다.
+Amira|A2|”Gänget lovade att skulden skulle minska.” Bättre?|"갱단은 빚이 줄어들 거라고 약속했다." 나아요?
+Lars|A1|Bättre. Och den sista.|낫습니다. 그리고 마지막.
+Viktor|A2|Den sista är min. Den handlar om Uppsala.|마지막은 제 거예요. 웁살라 얘기요.
+Lars|B2|Du skriver att du ”tvingades” gå in i lägenheten. Ingen tvingade dig. Skriv att du valde att gå in och varför, så får läsaren döma själv.|아파트에 '어쩔 수 없이' 들어갔다고 쓰셨더군요. 아무도 당신을 강요하지 않았습니다. 들어가기로 선택했다고, 그리고 왜 그랬는지 쓰세요. 판단은 독자가 하게 두고요.
+Viktor|B2|Det stämmer. Jag valde att gå in, för om jag hade väntat på polisen hade han kanske suttit där en natt till.|맞아요. 제가 들어가기로 선택했어요. 경찰을 기다렸다면 그 애는 거기서 하룻밤을 더 보냈을지도 모르니까요.
+Noah|A2|Advokaten har svarat! Mejlet kom 03.02.|변호사가 답했어요! 메일이 3시 2분에 왔어요.
+Sofia|A1|Läs högt.|소리 내서 읽어.
+Noah|B1|”Min klient förnekar brott och kommer inte att kommentera uppgifterna ytterligare. Cecilia Norén.”|"제 의뢰인은 혐의를 부인하며, 이 내용에 대해 더 이상 논평하지 않을 것입니다. 세실리아 노렌."
+Amira|B2|En enda rad, efter allt vi har skrivit om honom. Det säger nästan mer än ett långt svar hade gjort.|딱 한 줄이네요. 우리가 그 사람에 대해 쓴 걸 다 보고 나서. 긴 답변보다 오히려 더 많은 걸 말해 주는 것 같아요.
+Lars|B2|En rad räcker, men den ska stå högt upp och inte gömmas i sista stycket. Och vi skriver öppet att vi kortade hans svarstid från i kväll klockan sex till i natt klockan fyra, och varför.|한 줄이면 충분합니다. 하지만 위쪽에 들어가야 하고, 마지막 단락에 숨기면 안 됩니다. 그리고 그의 답변 시한을 오늘 저녁 여섯 시에서 새벽 네 시로 줄였다는 것, 그리고 그 이유를 공개적으로 씁니다.
+Elin|B1|Det står i tredje stycket nu: att kärnan redan var publicerad av en annan tidning, och att vi mejlade advokaten strax efter midnatt.|지금 셋째 단락에 있어요. 핵심이 이미 다른 신문에 실렸다는 것, 그리고 자정 직후에 변호사한테 메일을 보냈다는 것.
+Sofia|B1|Och vi skriver att Kvällsbladet var först. Det är sant, hur det än gick till.|그리고 크벨스블라데트가 먼저였다고 쓴다. 그건 사실이니까. 어떻게 된 일이든.
+Fredrik|B1|Desken är redo. Vi har push, förstasida och en kort video, och jag har ringt in två extra redigerare till klockan sex.|데스크 준비됐어요. 푸시, 1면, 짧은 영상까지 있고, 여섯 시까지 편집자 두 명을 더 불러 놨어요.
+Sofia|B2|Bra. Men ingen push förrän jag säger till. Läckan tar vi itu med när vi har sovit, för beslut som fattas klockan halv fem brukar man ångra klockan nio. Nu läser jag hennes stycken en gång till, och ingen pratar med mig under tiden.|좋아. 하지만 내가 말하기 전엔 푸시 없어. 유출 건은 잠 좀 자고 나서 다룬다. 새벽 네 시 반에 내린 결정은 보통 아홉 시에 후회하거든. 지금은 그 사람 단락들을 한 번 더 읽을 거야. 그동안 아무도 나한테 말 걸지 마.
+Henrik|A2|Då håller vi tyst. Jag kokar kaffe.|그럼 입 다물고 있자. 난 커피 끓일게.
+Sofia|B1|Här. ”Hennes bror hade en skuld till gänget.” Den som känner familjen förstår direkt vem det är.|여기. "그녀의 오빠는 갱단에 빚이 있었다." 그 가족을 아는 사람이면 누군지 바로 알아.
+Elin|B1|Jag läste hennes stycken för Sanna klockan ett, och då missade vi den båda två. Ska vi skriva ”en närstående” i stället?|한 시에 산나한테 그 사람 단락들을 읽어 줬는데, 그때 둘 다 그걸 놓쳤어요. 대신 '가까운 사람'이라고 쓸까요?
+Sofia|A1|Ja. En närstående.|그래. 가까운 사람.
+Viktor|B2|Det är mitt namn som står över texten, Sofia, men det är ditt som står under den, och det är du som får svara i rätten om vi har fel.|기사 위에 붙는 건 내 이름이지만, 소피아, 그 아래에 서는 건 당신 이름이야. 우리가 틀리면 법정에서 답해야 하는 것도 당신이고.
+Amira|A2|Klockan är 04.53. Allt är klart.|4시 53분이야. 다 끝났어.
+Sofia|A2|Jag är ansvarig utgivare. Det här publicerar jag. Kör.|내가 발행책임자야. 이건 내가 낸다. 내보내.
+# 장면 2 — 아침 7시~8시, Källaren (조회수 그래프, 끝없이 올라오는 댓글창, 노아의 책상 밑에 벗어 둔 신발)
+Noah|B1|Pushen gick ut klockan 05.02, och artikeln har redan lästs över trehundratusen gånger.|푸시는 5시 2분에 나갔고, 기사는 벌써 30만 번 넘게 읽혔어요.
+Henrik|A1|Och vad säger folk?|그래서 사람들은 뭐래?
+Noah|A2|Folk är arga. Mest på polisen.|다들 화났어요. 주로 경찰한테요.
+Amira|B1|Justitiedepartementets pressekreterare skrev för tio minuter sedan att regeringen ”ser mycket allvarligt på uppgifterna”.|법무부 대변인이 10분 전에 썼어. 정부는 "이 내용을 매우 심각하게 보고 있다"고.
+Viktor|B1|Det gör de alltid. Frågan är vad de gör när kamerorna har gått hem.|늘 그렇게 보지. 문제는 카메라가 다 철수한 다음에 뭘 하느냐야.
+Elin|B1|Hemlandspartiet vill att alla som jobbar med folkbokföringen ska kontrolleras i belastningsregistret, och Arbetarpartiet vill att Skatteverket slutar anlita bemanningsföretag.|헴란드당은 주민등록 업무 하는 사람을 전부 범죄경력 조회하자고 하고, 아르베타르당은 국세청이 파견 회사를 그만 쓰래요.
+Henrik|B2|Alla har ett förslag före lunch, men ingen av dem har frågat hur det kändes att sitta vid den där skärmen med en bild av sin brors ansikte i telefonen.|다들 점심 전에 대책 하나씩은 내놓는데, 휴대폰에 오빠 얼굴 사진을 받아 놓고 그 화면 앞에 앉아 있는 게 어떤 기분이었는지는 아무도 안 물어보네.
+Viktor|A1|Och kommentarerna?|댓글은?
+Noah|B1|Över tvåtusen. Folk skriver att polisen är köpt, att Säpo ligger bakom alltihop och att vi har hittat på det.|2천 개 넘어요. 경찰이 매수됐다, 배후는 전부 세포다, 우리가 지어냈다, 그런 거요.
+Amira|B2|Klassiskt. Om man inte litar på någon alls är det bekvämare att tro att allt är en konspiration.|고전적이네. 아무도 안 믿는 사람한텐 전부 음모라고 믿는 게 더 편하거든.
+Noah|B1|Men sedan halv sju har tre personer skrivit hennes förnamn, och en av dem skrev att han ”vet vem hon är”.|근데 여섯 시 반부터 세 명이 그 사람 이름을 썼어요. 그중 한 명은 "누군지 안다"고 썼고요.
+Elin|A1|Ta bort dem. Nu.|지워. 당장.
+Noah|B1|Jag har redan anmält alla tre till moderatorerna, och de försvann inom fem minuter. Nu läser jag varje ny kommentar innan någon annan hinner göra det.|이미 셋 다 모더레이터한테 신고했고, 5분 안에 없어졌어요. 지금은 다른 사람이 보기 전에 새 댓글을 하나하나 제가 먼저 읽고 있어요.
+Sofia|B2|Bra, Noah. Om det kommer fler stänger vi kommentarsfältet helt, hellre än att låta läsarna göra det som vi själva vägrade att göra.|잘했어, 노아. 더 올라오면 댓글창을 아예 닫자. 우리가 스스로 거부한 일을 독자들이 하게 두느니 그게 나아.
+Noah|A2|Där kom en till. Nu är den borta.|하나 더 왔어요. 이제 지워졌어요.
+Henrik|A2|Har du ätit något i dag, grabben?|오늘 뭐 좀 먹었냐, 이 녀석아?
+Noah|A1|En banan.|바나나 하나요.
+Henrik|A1|I dag?|오늘?
+Noah|A1|I går.|어제요.
+Elin|A2|Viktor, din telefon ringer. Det är ett vanligt nummer, inte dolt.|빅토르 씨, 전화 와요. 숨긴 번호 아니고 그냥 번호예요.
+Viktor|A2|Det är Paola. Var tysta en stund.|파올라 씨야. 잠깐 조용히 해 줘.
+Paola|A2|Hallå? Det är Paola. Jag står i korridoren på sjukhuset.|여보세요? 파올라예요. 지금 병원 복도에 있어요.
+Viktor|A2|Hej, Paola. Är du fortfarande på jobbet?|안녕하세요, 파올라 씨. 아직 직장이세요?
+Paola|B1|Passet slutade klockan sju, men jag har inte gått hem än. Det är aldrig tyst här: någon kör en städmaskin och en gammal man ropar efter sin dotter.|근무는 일곱 시에 끝났는데 아직 집에 못 갔어요. 여긴 조용할 때가 없어요. 누가 청소기를 돌리고, 할아버지 한 분이 딸을 찾으며 소리치고 있어요.
+Viktor|A1|Har du läst den?|읽으셨어요?
+Paola|B1|Elin läste mina meningar för mig i natt, men nu har jag läst hela artikeln på telefonen, i omklädningsrummet.|엘린이 밤에 제 문장들을 읽어 줬지만, 지금은 탈의실에서 휴대폰으로 기사 전체를 읽었어요.
+Viktor|B1|Om det står något där som du ångrar, så säger du det, och då ändrar vi det i dag.|거기 후회되는 게 있으면 말씀하세요. 그럼 오늘 고칠게요.
+Paola|A1|Nej. Ingenting.|아뇨. 하나도요.
+Viktor|A1|Säkert?|정말요?
+Paola|A2|Ni skrev inte hans namn. Tack. Bara… tack.|그 애 이름을 안 쓰셨네요. 고마워요. 그냥… 고마워요.
+Viktor|A2|Det var ditt villkor, Paola. Och det var rätt.|그건 파올라 씨 조건이었어요. 그리고 옳은 조건이었고요.
+Paola|B1|Jag ska berätta för Jonte när jag får prata med honom. Dios mío, nu ropar de på mig igen.|욘테랑 통화할 수 있게 되면 말해 줄 거예요. 세상에, 또 저를 부르네요.
+# 장면 3 — 낮 12시 40분, Källaren → 계단 → 롤람스호브 공원 (젖은 잔디, 기온 3도, 놀이터 옆에 모인 직원들)
+Amira|A1|Vad är det där för ljud?|저거 무슨 소리야?
+Henrik|A2|Ett larm. Men det är inte brandlarmet.|경보야. 근데 화재경보는 아니야.
+Bengt|A1|Ut! Alla ut nu!|나가요! 전부 지금 나가요!
+Sofia|A1|Bengt, vad har hänt?|벵트, 무슨 일이야?
+Bengt|B1|Vakten hittade ett paket vid huvudentrén, utan avsändare, och genom ett hål i kartongen syns sladdar. Polisen är på väg.|경비원이 정문에서 발송인 없는 소포를 발견했습니다. 상자에 난 구멍으로 전선이 보입니다. 경찰이 오고 있습니다.
+Viktor|A1|Sedan när?|언제부터요?
+Bengt|A2|Paketet låg vid entrén i nästan en timme.|소포가 정문 앞에 거의 한 시간 동안 있었습니다.
+Fredrik|A2|Hela huset ska ut. Ingen tar hissen.|건물 전체 나가야 해. 엘리베이터 타지 마.
+Noah|A1|Mina skor!|제 신발!
+Henrik|A1|Strunta i skorna. Gå!|신발은 됐어. 가!
+Elin|A2|Var ska vi samlas?|어디로 모여요?
+Bengt|B1|I Rålambshovsparken, vid lekplatsen. Polisen vill ha alla minst trehundra meter från huset.|롤람스호브 공원, 놀이터 옆입니다. 경찰이 전원 건물에서 최소 300미터 떨어져 있으랍니다.
+Noah|A2|Det är gräs. Blött gräs. Under mina fötter.|잔디예요. 젖은 잔디. 제 발밑에요.
+Elin|A2|Noah, var är dina skor?|노아, 신발 어디 있어?
+Noah|B1|Under skrivbordet. Jag tar alltid av dem när jag läser kommentarer, och strumporna har legat på elementet sedan regnet i morse.|책상 밑에요. 댓글 읽을 땐 항상 벗거든요. 양말은 아침에 비 맞은 뒤로 라디에이터 위에 널어 놨고요.
+Amira|A2|Fan, Noah. Det är tre grader.|젠장, 노아. 3도야.
+Henrik|A2|Ta jackan, grabben. Hjältar fryser också.|재킷 받아, 이 녀석아. 영웅도 추운 법이야.
+Noah|A2|Hjältar? Jag tog bara bort kommentarer.|영웅이요? 전 그냥 댓글 지운 건데요.
+Henrik|B2|Du stod mellan en ung kvinna och tvåtusen främlingar hela förmiddagen. På min tid i kustartilleriet kallade vi det att hålla vakt.|너는 오전 내내 젊은 여자 하나와 낯선 사람 2천 명 사이에 서 있었어. 내가 해안포병에 있던 시절엔 그걸 보초 선다고 했지.
+Noah|A1|Tack, Hesa.|고마워요, 헤사.
+Fredrik|B1|Jag har räknat desken och Källaren. Alla är här utom två från sporten, och de satt redan på lunch vid Kungsholms torg.|데스크랑 지하실 인원 세 봤어요. 스포츠부 두 명 빼고 다 있어요. 그 둘은 이미 쿵스홀름스 광장에서 점심 먹고 있었고요.
+Sofia|A2|Bra. Ring dem och säg att de stannar där.|좋아. 전화해서 거기 있으라고 해.
+Viktor|A2|Bengt. Kameran vid entrén. Vem lämnade paketet?|벵트 씨. 정문 카메라요. 누가 소포를 두고 갔어요?
+Bengt|B1|En kille i grå luvtröja, på cykel. Han var kanske femton, och han tittade inte upp en enda gång.|회색 후드티 입은 남자애요, 자전거 타고 왔습니다. 열다섯쯤 됐을까, 한 번도 고개를 안 들더군요.
+Viktor|A1|Femton.|열다섯.
+Elin|A2|Som Jonte. Som barnen på prislistan.|욘테처럼요. 가격표에 있던 애들처럼.
+Amira|B2|Minns du inlägget från oktober? ”En journalist. Kungsholmen. Bra para.” Då trodde vi att det handlade om dig, Viktor, men det kanske gällde hela huset.|10월 게시물 기억나? "기자 한 명. 쿵스홀멘. 돈 좋음." 그땐 네 얘기인 줄 알았는데, 빅토르, 어쩌면 건물 전체 얘기였을지도 몰라.
+Viktor|B1|Eller så gällde det mig, och huset var bara adressen.|아니면 내 얘기였고, 건물은 그냥 주소였을 뿐이거나.
+Henrik|B1|Håll huvudet kallt nu. Det är precis det de vill: att vi står här och gissar i stället för att jobba.|지금은 머리를 차갑게 해. 그게 바로 그놈들이 원하는 거야. 우리가 일은 안 하고 여기 서서 추측이나 하는 거.
+Sofia|B1|Henrik har rätt. Vi gissar inte, vi jobbar. Fredrik, vad har vi ute på sajten?|헨릭 말이 맞아. 추측하지 말고 일하자. 프레드릭, 사이트에는 뭐가 나가 있어?
+Fredrik|B1|Jag skriver en kort notis från telefonen: utrymning, polisen på plats och inget om innehållet förrän bombskyddet har sagt sitt.|휴대폰으로 짧은 단신 쓰고 있어요. 대피, 경찰 현장 도착. 내용물에 대해선 폭발물처리반이 입장을 내기 전까지 아무것도 안 씁니다.
+Amira|B1|Och min dator står kvar på skrivbordet därnere, med allt vi har om Sanna.|그리고 내 컴퓨터는 저 아래 책상 위에 그대로 있어. 산나에 대한 자료 전부랑 같이.
+Sofia|A2|Den är krypterad, och huset är tomt. Andas.|그건 암호화돼 있고, 건물은 비었어. 숨 쉬어.
+Noah|A1|Titta. En robot.|저기 봐요. 로봇이에요.
+Henrik|B1|Det är bombskyddet. De skickar alltid in roboten först, och sedan väntar alla.|폭발물처리반이야. 늘 로봇부터 들여보내고, 그다음엔 다들 기다리는 거지.
+Elin|A2|Henrik, du har ingen kamera.|헨릭 씨, 카메라 없잖아요.
+Henrik|B2|För första gången på trettio år står jag vid en avspärrning utan kamera, och märkligt nog saknar jag den inte, kanske för att det är vi själva som är nyheten den här gången.|30년 만에 처음으로 카메라 없이 저지선 앞에 서 있는데, 이상하게 아쉽지가 않네. 이번엔 우리 자신이 뉴스라서 그런가 봐.
+Viktor|B1|Jag måste ringa Alva innan hon ser det på nätet.|알바가 인터넷에서 보기 전에 전화해야 해.
+Sofia|B1|Ring. Vi står kvar här, och ingen går in förrän polisen säger till.|전화해. 우린 여기 있을게. 경찰이 말하기 전엔 아무도 안 들어가.
+# 장면 4 — 오후 2시 반, 공원 가장자리 경찰 저지선 앞 (폭발물처리반 차량, 노아의 어깨에 걸친 헨릭의 낡은 재킷)
+Johanna|A2|Vem är ansvarig här?|여기 책임자 누구십니까?
+Sofia|A2|Det är jag. Sofia Brandt, chefredaktör.|저예요. 소피아 브란트, 편집국장입니다.
+Johanna|B1|Johanna Ek, bombskyddet. Roboten har öppnat paketet. Där fanns ett rör med tejp och sladdar, men ingen sprängladdning.|요한나 에크, 폭발물처리반입니다. 로봇이 소포를 열었습니다. 테이프와 전선을 감은 파이프가 있었지만, 폭약은 없었습니다.
+Henrik|A1|En attrapp.|모형이네.
+Johanna|B2|En attrapp, ja. Men den var byggd för att se äkta ut, och den som byggde den ville att ni skulle tro att det var på allvar ända tills roboten hade öppnat den.|모형 맞습니다. 하지만 진짜처럼 보이게 만든 겁니다. 만든 사람은 로봇이 열어 볼 때까지 여러분이 진짜라고 믿기를 바랐던 거죠.
+Viktor|A2|Fanns det något mer i kartongen?|상자 안에 다른 건 없었어요?
+Johanna|B1|En lapp, utskriven på en vanlig skrivare. Ni får se ett foto, men själva lappen har vi tagit i beslag.|쪽지 한 장이요. 일반 프린터로 출력한 겁니다. 사진은 보여 드릴 수 있지만, 쪽지 자체는 압수했습니다.
+Amira|A1|Vad står det?|뭐라고 쓰여 있어요?
+Johanna|A2|”Nästa gång är det på riktigt.”|"다음엔 진짜다."
+Elin|A1|Herregud.|맙소사.
+Johanna|B2|Vi utreder det som olaga hot tills vidare, men rubriceringen kan ändras när teknikerna har undersökt röret. Om en halvtimme, när hundarna har gått igenom huset, får ni gå in igen.|당분간은 불법 협박으로 수사합니다. 감식반이 파이프를 조사하고 나면 죄명이 바뀔 수도 있습니다. 30분 뒤, 탐지견들이 건물을 다 훑고 나면 다시 들어가셔도 됩니다.
+Fredrik|B1|Polisens presstjänst har bekräftat attrappen nu, så jag uppdaterar notisen med deras formulering.|경찰 홍보실이 이제 모형이라고 확인했어요. 그쪽 표현 그대로 단신 업데이트할게요.
+Noah|A2|Sofia. Alla tittar på dig.|소피아. 다들 국장님 보고 있어요.
+Sofia|A2|Då säger jag något. Kom närmare, allihop.|그럼 한마디 할게. 다들 가까이 와.
+Henrik|A1|Tyst nu. Lyssna.|이제 조용. 들어.
+Sofia|B2|I morse publicerade vi en granskning om hur ett skyddat vittne blev oskyddat. Sju timmar senare låg det en låtsasbomb vid vår dörr. Det är ingen slump, men det är inte heller ett skäl att sluta.|오늘 새벽 우리는 보호받던 증인이 어떻게 무방비 상태가 됐는지 파헤친 기사를 냈다. 일곱 시간 뒤 우리 문 앞에 가짜 폭탄이 놓였어. 그건 우연이 아니야. 하지만 멈출 이유도 아니야.
+Amira|B2|Aldrig. Hade vi slutat varje gång någon hotade oss, hade Källaren stått tom sedan länge.|절대. 누가 협박할 때마다 멈췄으면 지하실은 진작 텅 비었을 거야.
+Sofia|B2|Ingen myndighet i Sverige får granska en text innan den publiceras. Det kallas censurförbud och står i grundlagen. Då ska inte heller någon med en kartong och lite tejp få göra det.|스웨덴의 어떤 기관도 기사가 나가기 전에 그걸 검열할 수 없어. 그걸 사전검열 금지라고 하고, 헌법에 적혀 있지. 그렇다면 상자 하나랑 테이프 몇 줄 가진 누군가도 그럴 수 없어야 해.
+Henrik|A1|Hör, hör.|옳소.
+Sofia|B2|Om vi slutar publicera för att någon hotar oss, då har de redan bestämt vad som är nyheter.|누가 협박한다고 우리가 보도를 멈추면, 무엇이 뉴스인지는 이미 그 사람들이 정한 거야.
+Noah|A2|Men om de kommer tillbaka?|그런데 그 사람들이 다시 오면요?
+Sofia|B1|Då ringer Bengt polisen igen, vi går ut i parken igen, och sedan går vi in och skriver igen.|그럼 벵트가 또 경찰을 부르고, 우린 또 공원으로 나오고, 그다음엔 들어가서 또 쓰는 거야.
+Fredrik|B1|Tryckeriet frågar om vi håller deadline i kväll.|인쇄소에서 오늘 밤 마감 지키냐고 물어요.
+Sofia|A2|Stockholmsposten kommer ut i morgon. Och dagen efter det.|스톡홀름스포스텐은 내일도 나온다. 그리고 그다음 날도.
+Bengt|A2|Hundarna är klara. Ni kan gå in nu.|탐지견 수색 끝났습니다. 이제 들어가셔도 됩니다.
+# 장면 5 — 저녁 7시 ~ 밤 9시, Källaren (라디에이터 위에서 마른 노아의 양말, 빅토르의 휴대폰, 아미라의 화면 속 스토리)
+Elin|A2|Dina strumpor är torra nu, Noah.|양말 다 말랐어, 노아.
+Noah|B1|Jag behåller jackan till i morgon, om inte Hesa fryser ihjäl på vägen hem.|헤사가 집 가는 길에 얼어 죽지만 않으면, 재킷은 내일까지 갖고 있을게요.
+Viktor|A1|Tyst. Det är Maria.|조용. 마리아야.
+Maria|A2|Kron är gripen. Du hörde det från mig först. Nu är vi kvitt.|크론 체포됐어. 나한테서 제일 먼저 들었지. 이제 우린 피장파장이야.
+Viktor|A1|När?|언제?
+Maria|B2|Klockan fyra i eftermiddags, när han kom ut från gymmet. Vi hade tänkt vänta lite till, men när Kvällsbladet väl hade publicerat i natt fanns det inget val, eftersom han annars hade hunnit förstöra det som fanns kvar.|오후 네 시, 헬스장에서 나올 때. 좀 더 기다릴 생각이었는데, 어젯밤 크벨스블라데트가 일단 내 버린 이상 선택지가 없었어. 안 그러면 남아 있는 걸 그 사람이 다 없애 버렸을 테니까.
+Viktor|A2|Vad är han misstänkt för?|무슨 혐의야?
+Maria|B1|Grovt dataintrång och brott mot tystnadsplikt, bland annat. Mer än så säger jag inte i telefon.|중대 정보통신망 침입, 비밀유지 의무 위반, 그 밖에도 몇 가지. 전화로는 그 이상 말 안 해.
+Viktor|A1|Och sambon?|그럼 동거인은?
+Maria|A2|Den frågan hörde jag inte.|그 질문은 못 들은 걸로 할게.
+Viktor|B1|Varför ringer du mig först, när en annan tidning redan har berättat det mesta?|다른 신문이 벌써 거의 다 보도했는데, 왜 나한테 제일 먼저 전화해?
+Maria|B2|För att ni hade hans namn i en vecka och ändå lät honom sitta i ett förhörsrum innan han hamnade i en tidning. Det glömmer jag inte i första taget.|너희는 일주일 동안 그 사람 이름을 쥐고 있으면서도, 신문에 나기 전에 조사실에 먼저 앉게 해 줬으니까. 그건 쉽게 안 잊어.
+Viktor|A2|Tack, Maria. Verkligen.|고마워, 마리아. 진심으로.
+Maria|A1|Sov lite, Viktor.|잠 좀 자, 빅토르.
+Noah|B1|Polisens pressmeddelande kom nyss, klockan 19.12: ”Polisen har gripit en civilanställd som misstänks för grovt dataintrång.”|경찰 보도자료 방금 나왔어요, 19시 12분. "경찰은 중대 정보통신망 침입 혐의를 받는 민간 직원 한 명을 체포했다."
+Henrik|A2|Så nu sitter han där. I rummet.|이제 앉았네. 그 방에.
+Viktor|B2|I rummet, ja. Och Sanna kan kanske sova lite bättre i natt, även om de som skickade bilden på hennes bror fortfarande är på fri fot.|그 방에, 응. 산나도 오늘 밤엔 조금은 편히 잘 수 있겠지. 오빠 사진을 보낸 놈들은 아직 멀쩡히 돌아다니지만.
+Amira|A1|Viktor. Titta här.|빅토르. 이거 봐.
+Viktor|A1|Vad är det?|뭔데?
+Amira|B1|Kingside.08 lade ut en story klockan 20.56, den första sedan den tjugotredje oktober. Jag har redan sparat den.|kingside.08이 20시 56분에 스토리를 올렸어. 10월 23일 이후 처음이야. 이미 저장해 뒀어.
+Kungen|A2|No niin. Vacker kväll här vid vattnet.|자, 그럼. 여기 물가는 근사한 저녁이네.
+Amira|B2|Bron bakom honom är Fatih Sultan Mehmet-bron över Bosporen, sedd från norr, och nere i hörnet har han satt en svart schackkung.|뒤에 있는 다리는 보스포루스의 파티흐 술탄 메흐메트 다리야. 북쪽에서 본 거고. 그리고 화면 아래 구석에 검은 체스 킹을 붙여 놨어.
+Viktor|B2|Han skrattar. Samma dag som Kron greps sitter han vid vattnet och skrattar, som om allt hade gått precis som han ville.|웃고 있어. 크론이 잡힌 바로 그날, 물가에 앉아서 웃고 있어. 모든 게 딱 자기 뜻대로 됐다는 듯이.
+Kungen|A2|Grattis, Stockholmsposten. Ni tog en bonde. Kungen står kvar.|축하해, 스톡홀름스포스텐. 너희는 졸 하나 잡았어. 왕은 그대로 서 있지.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Ut! Alla ut nu!** | 나가요! 전부 지금 나가요! | 비상시의 명령은 동사도 없이 부사 하나로 끝난다. *ut*(밖으로)는 방향을 나타내는 부사 — 위치는 *ute*(밖에). *alla*(모두) + *nu*(지금)만으로 "전원 즉시 대피"가 된다 |
+| `A2` | **Paketet låg vid entrén i nästan en timme.** | 소포가 정문 앞에 거의 한 시간 동안 있었습니다. | *ligga*(놓여 있다)의 과거형 *låg*. 물건이 "있다"고 할 때 스웨덴어는 *ligga*(눕혀진 것)·*stå*(세워진 것)를 가려 쓴다. *i* + 기간 = ~ 동안, *nästan* = 거의 |
+| `A2` | **Ni skrev inte hans namn.** | 그 애 이름을 안 쓰셨네요. | 과거형 *skrev*(← *skriva*) 바로 뒤에 *inte*. *ni*는 2인칭 복수 — 파올라는 빅토르 한 사람이 아니라 신문사 전체에게 말하고 있다 |
+| `B1` | **Polisen har gripit en civilanställd som misstänks för grovt dataintrång.** | 경찰은 중대 정보통신망 침입 혐의를 받는 민간 직원 한 명을 체포했다. | 현재완료 *har gripit*(← *gripa*, 체포하다). *som misstänks för* = ~ 혐의를 받는(-s 수동형). *civilanställd* = 경찰관이 아닌 경찰 민간 직원. 경찰 보도자료의 전형적인 문장 |
+| `B2` | **Om vi slutar publicera för att någon hotar oss, då har de redan bestämt vad som är nyheter.** | 누가 협박한다고 우리가 보도를 멈추면, 무엇이 뉴스인지는 이미 그 사람들이 정한 거야. | *om …, då …* = ~하면, 그때는. 조건절 뒤 주절을 *då*로 다시 받아 강조한다. 이유 *för att* + 절. 간접의문 *vad som är nyheter*에서 *vad*가 주어라 *som*이 들어간다 |
+| 구어 | **hålla huvudet kallt** | 머리를 차갑게 유지하다, 침착하다 | 헨릭: *Håll huvudet kallt nu.* 위기 속에서 감정에 휩쓸리지 말라는 말. 형용사 *kall*이 중성 명사 *huvudet*에 맞춰 *kallt*이 된다 |
+| 구어 | **Nu är vi kvitt.** | 이제 우린 피장파장이야. | *kvitt* = 빚이 없는, 셈이 끝난. 마리아는 "일주일 기다려 주면 제일 먼저 전화하겠다"(11화)는 거래가 끝났다고 선을 긋는다. *bli kvitt något*는 "~를 없애다, 떨쳐 내다" |
+| 언론·법 | **bombskyddet** | 경찰 폭발물처리반 | 의심 물체를 확인·해체하는 경찰 부서. 로봇이 먼저 들어가고, 실물이 아닌 모형은 *attrapp*라 부른다. 요한나: *Johanna Ek, bombskyddet.* — 소속을 부서명 하나로 말하는 경찰식 자기소개 |
+
+## 저널리즘·법 메모
+스웨덴 출판자유법(TF)의 *censurförbud*(사전검열 금지)는 어떤 국가기관도 인쇄물이 나오기 전에 그것을 검토하거나 막을 수 없다는 원칙이다. 소피아가 공원에서 말하듯, 국가에 허락되지 않은 일을 상자 하나와 협박 쪽지가 대신하게 둔다면 검열은 다른 이름으로 돌아온다 — 그래서 위협을 받은 언론사의 첫 번째 대답은 "내일도 나온다"이다. 동시에 이 화의 새벽은 서두름 속에서도 규칙을 지키는 방법을 보여 준다: 경쟁지 보도 때문에 줄인 반론 시한은 기사 안에 이유와 함께 공개하고, 변호인의 한 줄 반론은 본문 위쪽에 싣고, 먼저 보도한 매체가 있다는 사실도 숨기지 않는다. 라르스가 지운 "경찰이 확인했다"는 문장은 사실관계의 문제이자 취재원 보호의 문제다 — 한 사람에게서만 나올 수 있는 정보를 그대로 쓰면, 이름을 쓰지 않아도 그 사람을 드러내게 된다. 소피아가 "오빠"를 "가까운 사람"으로 바꾼 것도 같은 원리로, 본인이 동의한 문장이라도 주변 사람이 알아볼 수 있는 세부는 마지막까지 걸러 낸다.
+
+## 문화·현안 메모
+- **언론사를 겨냥한 위협** — 스웨덴에서는 기자와 언론사를 겨냥한 협박·위협이 표현의 자유에 대한 공격으로 다뤄지며, 언론사들은 보안 담당자와 위협 기록(*hotlogg*)을 두고 경찰과 협력한다. 진짜 폭약이 없는 모형(*attrapp*)이라도 공포를 노린 협박으로 수사된다.
+- **Rålambshovsparken** — 쿵스홀멘 서쪽 끝, 리다르피에르덴 호숫가의 큰 공원. 여름엔 야외 공연과 피크닉으로 붐비지만 11월에는 젖은 잔디와 찬 바람뿐이다.
+- **보스포루스의 다리들** — 이스탄불에는 보스포루스 해협을 건너는 다리가 세 개 있고, 파티흐 술탄 메흐메트 다리는 그중 두 번째(1988년 개통)다. 다리의 모양과 보는 각도는 영상의 촬영 위치를 좁히는 OSINT 단서가 된다. 튀르키예는 자국민을 외국에 인도하지 않는다 — 12화에서 확인한 대로다.
+- **Mårtensdagen(마르텐의 날)** — 11월 11일, 투르의 성 마르티노 축일. 거위 만찬은 전날 저녁(*Mårtensafton*)에 먹는 것이 보통이다. 13화의 거위가 식기 전에 시작된 하루가 이 날이다.
+
+## 다음 화 예고
+> 첫 번째 대림절의 일요일, 리암이 한 달 넘게 양말 속에 숨겨 온 두 번째 휴대폰을 탁구대 위에 올려놓는다: "Han skrev igen i går."
