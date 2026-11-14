@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (58/105화 완성)
+## 대본 목차 (59/105화 완성)
 
 ### 1부
 
@@ -102,3 +102,4 @@
 | 11 | [Länsstyrelsen](episodes/k4_e11.md) | 도청 |
 | 12 | [Mutan](episodes/k4_e12.md) | 뇌물 |
 | 13 | [Avbrottet](episodes/k4_e13.md) | 중단 |
+| 14 | [Midnattssol](episodes/k4_e14.md) | 백야 |
