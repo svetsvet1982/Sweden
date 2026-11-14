@@ -1,0 +1,187 @@
+@title 4부 1화 — Konkursen
+@subtitle (파산)
+@meta 날짜|2026년 5월 4일 월요일 아침 7시 4분 ~ 밤 10시 50분경 (셸레프테오 일몰 밤 9시 10분경, 자정까지 하늘이 밝다)
+@meta 장소|쿵스홀멘 Stockholmsposten 지하 "Källaren" (아침 7시 4분~8시 55분) → 셸레프테오 외곽 Nordcell 공장 정문 (오후 1시) → 모뢰 바케(Morö Backe) 지호의 아파트 (저녁 6시) → 셸레프테오 시내 호텔 방, Signal 화상회의와 전화 (밤 10시 반)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Noah** (노아 베리룬드, 24, 기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Mats** (마츠 부르만, 54, Nordcell 배합 공정 기사, 전 광부) · **Frida** (프리다 뉘스트룀, 31, Nordcell 생산직, 두 아이의 엄마) · **Öhman** (크리스티나 왼만, 50대, 변호사·Nordcell 파산관재인) · **Ji-ho** (박지호, 36, Nordcell 셀 수율 담당 엔지니어) · **Seo-yeon** (서연, 34, 지호의 아내) · **Ha-eun** (하은, 5, 지호의 딸)
+@intro **지난 이야기** — 5월 3일 일요일 아침 6시, 그림자 선단 기사가 나갔다. MUST 분석관은 체포되고 카탸는 추방됐지만, 연금기금 이사회 명단의 세 번째 이름 — Ekwall — 은 두 번째 출처가 없어 기사에서 빠졌다. 그날 밤 베링뷔 발코니에서, 참새는 사라지는 메시지로 마지막 한 줄을 남겼다: "Följ batterierna."
+@intro 다음 날, 5월 4일 월요일 아침 7시 4분. Källaren의 모니터에는 전날 보도의 반응이 아직 쏟아지고 있다. 노아의 화면 구석에서 Brevlådan 알림이 깜빡인다.
+# 장면 1 — 월요일 아침 7시 4분 ~ 8시 55분, Källaren (전날 보도의 반응이 쏟아지는 모니터, Brevlådan 알림, 빅토르의 수첩 마지막 페이지)
+Noah|A1|Viktor! Brevlådan.|빅토르 선배! 제보함이요.
+Viktor|A2|Nu? Klockan är bara sju.|지금? 아직 7시밖에 안 됐는데.
+Noah|A2|Den kom för en minut sedan, klockan 07.04.|1분 전에 왔어요. 7시 4분에요.
+Viktor|A1|Läs den högt.|소리 내서 읽어 봐.
+Noah|A2|”Nordcell går i konkurs i dag. Kolla vart maskinerna tog vägen.” Det är allt.|"노르셀이 오늘 파산한다. 기계들이 어디로 갔는지 확인해 봐라." 그게 다예요.
+Amira|B1|Nordcell? Batterifabriken i Skellefteå? Folk har pratat om en konkurs hela våren, men ingen har sagt ett datum.|노르셀? 셸레프테오 배터리 공장? 봄 내내 파산 얘기는 돌았는데, 날짜를 말한 사람은 아무도 없었어.
+Viktor|A2|Vänta. Jag skrev ner något i går kväll.|잠깐. 어젯밤에 뭘 적어 뒀어.
+Noah|A1|I boken?|수첩에요?
+Viktor|B1|Ja. Sparven skrev en sista rad innan meddelandena försvann, och jag skrev av den för hand.|응. 참새가 메시지가 사라지기 전에 마지막 한 줄을 남겼어. 그걸 손으로 옮겨 적었고.
+Amira|A1|Och?|그래서?
+Viktor|A1|”Följ batterierna.”|"배터리를 따라가십시오."
+Amira|A1|Jävlar.|젠장.
+Viktor|A2|Sparven sa batterier. I dag går en batterifabrik i konkurs. Det är ingen slump.|참새는 배터리라고 했어. 오늘 배터리 공장이 파산해. 우연이 아니야.
+Noah|B1|Är det samma person, då? Alltså sparven på Signal och den som skrev till Brevlådan?|그럼 같은 사람이에요? 그러니까 Signal의 참새랑 제보함에 쓴 사람이요?
+Viktor|B2|Det vet vi inte, och vi tänker inte ta reda på det heller. Brevlådan sparar inga spår, och den som skriver dit ska kunna lita på att vi aldrig letar.|그건 몰라. 알아낼 생각도 없고. 제보함은 흔적을 안 남겨. 거기 쓰는 사람은 우리가 절대 찾지 않는다고 믿을 수 있어야 해.
+Amira|B1|Okej, men en sak kan jag kolla. Rekonstruktionen avbröts i torsdags, och om styrelsen lämnar in en konkursansökan hamnar den hos tingsrätten i Skellefteå.|알았어. 근데 하나는 확인할 수 있어. 기업회생 절차가 지난 목요일에 중단됐거든. 이사회가 파산 신청을 하면 셸레프테오 지방법원으로 가.
+Viktor|A2|Begär ut den. Allt de har.|청구해. 거기 있는 거 전부.
+Amira|B1|Redan på väg. Konkurshandlingar är allmänna handlingar, så de kan inte säga nej – bara vara långsamma.|벌써 하고 있어. 파산 서류는 공문서라서 거절은 못 해. 느리게 할 수만 있지.
+Sofia|A2|God morgon. Noah mejlade mig klockan sju. Vad vet vi?|좋은 아침. 노아가 7시에 메일 보냈더라. 우리가 아는 게 뭐야?
+Viktor|A1|Ingenting än. Följ pengarna.|아직 아무것도. 돈을 따라가야지.
+Sofia|B2|Det där är inte ett svar, Viktor, det är en vana. Jag frågar en gång till: vad vet vi i dag som vi inte visste i går?|그건 대답이 아니라 버릇이야, 빅토르. 다시 물을게. 어제는 몰랐는데 오늘 아는 게 뭐야?
+Noah|A2|TT just nu: ”Nordcell försatt i konkurs.” Tingsrätten beslutade för fem minuter sedan.|방금 TT 속보요. "노르셀 파산 선고." 법원이 5분 전에 결정했대요.
+Amira|B1|Klockan 08.52. Meddelandet kom 07.04, så någon visste om det nästan två timmar före beslutet.|8시 52분. 메시지는 7시 4분에 왔으니까, 누군가 결정 두 시간 가까이 전에 알고 있었던 거예요.
+Sofia|B2|Eller så gissade någon rätt, vilket inte är svårt när ett bolag inte har betalat ut löner sedan februari. Det andra är mer intressant: varför just maskinerna?|아니면 누가 맞게 짐작했거나. 2월부터 월급을 못 준 회사라면 어려운 일도 아니지. 더 흥미로운 건 다른 쪽이야. 왜 하필 기계지?
+Viktor|B2|Jag ska vara ärlig, Sofia. I går kväll tänkte jag att sparven kanske använder oss – att någon vill att vi ska gräva precis där de pekar.|솔직히 말할게, 소피아. 어젯밤엔 참새가 우릴 이용하는 건 아닐까 생각했어. 누군가 자기들이 가리키는 바로 그 자리를 우리가 파길 바라는 건 아닐까.
+Sofia|B2|Det är fullt möjligt, och därför granskar vi allt som om det kom från någon vi inte litar på. Ett finger som pekar är inget bevis.|충분히 가능한 일이지. 그러니까 믿지 않는 사람한테서 온 것처럼 전부 검증하는 거야. 가리키는 손가락은 증거가 아니야.
+Viktor|B2|Då åker jag dit i dag, innan någon hinner städa undan det som finns kvar. Det går ett plan 09.40.|그럼 오늘 내가 가 볼게. 누가 남은 걸 치워 버리기 전에. 9시 40분에 비행기가 있어.
+Henrik|B2|Jag följer med. Ska man fotografera en konkurs måste man vara där innan skyltarna har plockats ner – och någon måste ju köra.|나도 같이 가. 파산을 찍으려면 간판 내리기 전에 가 있어야 해. 그리고 누군가는 운전해야지.
+Sofia|B1|Åk, båda två. Jag skickar vårt brev till departementet i dag, och Fredrik har redan tagit uppföljningarna om Östersjön, så här behöver ingen er.|둘 다 가. 난 오늘 부처에 항의 서한 보내고, 발트해 후속 기사는 프레드릭이 벌써 맡았으니까 여기선 아무도 너희 필요 없어.
+Viktor|B1|Amira, ring mig så fort du har papperen från tingsrätten. Och Noah, läs allt som har skrivits om Nordcell sedan januari.|아미라, 법원 서류 받는 대로 전화해. 그리고 노아, 1월 이후에 노르셀에 대해 나온 거 전부 읽어.
+# 장면 2 — 오후 1시, 셸레프테오 외곽 Nordcell 공장 정문 (확성기 없는 조용한 노동자들, 파산관재인의 짧은 브리핑, 텅 빈 주차장)
+Henrik|A2|Titta på parkeringen. Den byggdes för tvåtusen bilar.|주차장 좀 봐. 차 2천 대 세우라고 지은 거야.
+Viktor|A1|Och nu?|지금은?
+Henrik|B2|Kanske fyrtio. En tom parkering vittnar om mer än tio pressmeddelanden, så jag tar en bild därifrån, vid staketet.|한 마흔 대. 빈 주차장은 보도자료 열 장보다 많은 걸 말해 주지. 저기 울타리 쪽에서 한 장 찍을게.
+Viktor|B1|Förresten ringde jag Alva från Arlanda. Hon sa bara ”okej”, men hon svarade i alla fall.|그런데 아를란다에서 알바한테 전화했어. "응"이라고만 했지만, 그래도 받긴 받았어.
+Henrik|B2|Ett ”okej” från en sextonåring är nästan en kärleksförklaring. Men lova henne int fler saker den här veckan än du kan hålla.|열여섯 살한테 "응"이면 거의 사랑 고백이야. 근데 이번 주엔 지킬 수 있는 것보다 더 많이 약속하지 마.
+Viktor|B2|Helgen är hennes. Det har jag lovat, och den här gången tänker jag hålla det även om hela Norrland skulle gå i konkurs.|주말은 걔 거야. 약속했어. 이번엔 노를란드 전체가 파산한다 해도 지킬 거야.
+Mats|A1|Är ni från tidningen?|신문사에서 왔어요?
+Viktor|A2|Ja, Stockholmsposten. Jag heter Viktor. Jobbar du här?|네, 스톡홀름스포스텐이요. 빅토르라고 합니다. 여기서 일하세요?
+Mats|A2|Jo. Jobbade, menar jag. Tolv år i gruvan, sen tre år här.|그래요. 일했죠, 이제는. 광산에서 12년, 그다음에 여기서 3년.
+Viktor|A1|Vad gjorde du?|무슨 일 하셨어요?
+Mats|B1|Jag körde blandningen till katoderna. Det var det bästa jobb jag har haft, tills pengarna tog slut.|양극재 배합 기계를 돌렸어요. 돈이 떨어지기 전까진 제 평생 제일 좋은 일자리였죠.
+Frida|A2|Vi har inte fått lön sedan februari. Tre månader nu.|우린 2월부터 월급 못 받았어요. 이제 석 달째예요.
+Viktor|A2|Hur klarar ni er?|어떻게 버티세요?
+Frida|B1|Min mamma betalar hyran åt mig. Jag är trettioett och har två barn, och det är min mamma som betalar hyran.|엄마가 월세를 내줘요. 서른한 살에 애가 둘인데, 월세를 엄마가 내준다니까요.
+Viktor|A2|Får ni lönerna nu, när bolaget är i konkurs?|이제 회사가 파산했으니 밀린 월급은 받으세요?
+Mats|B1|Staten betalar en del, med lönegarantin. Men allt? Hä gå int.|국가가 일부는 내줘요, 임금보증으로. 근데 전부요? 그건 안 돼요.
+Henrik|B2|Hä gå int? Det kunde ha varit min farfar som sa det – på Gotland låter vi nästan likadant.|"헤 고 인트"? 우리 할아버지가 한 말인 줄 알았네요. 고틀란드에서도 거의 똑같이 말하거든요.
+Mats|A2|Nä, då! Är du gotlänning? Då är du långt hemifrån.|아니 이런! 고틀란드 사람이에요? 집에서 한참 멀리 왔네요.
+Frida|B1|Där kommer förvaltaren. Nä, hon har inte sagt ett ord till oss sedan i morse.|저기 관재인 와요. 아니, 아침부터 우리한테 한마디도 안 했어요.
+Öhman|B2|God eftermiddag. Jag heter Kristina Öhman, och tingsrätten utsåg mig till konkursförvaltare i morse. Jag tar tre frågor, sedan måste jag tillbaka in.|안녕하십니까. 크리스티나 왼만입니다. 오늘 아침 법원이 저를 파산관재인으로 선임했습니다. 질문 세 개만 받고 다시 들어가 봐야 합니다.
+Frida|A2|När får vi veta något om lönerna?|월급에 대해선 언제 알 수 있어요?
+Öhman|A2|Alla anställda får information i morgon.|모든 직원은 내일 안내를 받게 됩니다.
+Mats|A2|Och fabriken? Öppnar den igen?|공장은요? 다시 문 열어요?
+Öhman|B1|Den förblir stängd tills vidare. Jag letar efter en köpare, men jag kan inte lova någonting i dag.|당분간 닫힌 상태로 둡니다. 인수자를 찾고 있지만, 오늘은 아무것도 약속드릴 수 없습니다.
+Viktor|B1|Viktor Holm, Stockholmsposten. Finns all utrustning kvar i fabriken, eller har något flyttats ut före konkursen?|빅토르 홀름, 스톡홀름스포스텐입니다. 설비는 전부 공장에 남아 있습니까, 아니면 파산 전에 반출된 게 있습니까?
+Öhman|B2|Jag har varit förvaltare i fem timmar, herr Holm. En förteckning över tillgångarna kommer när den är klar, och inte en dag innan. Tack.|저는 관재인이 된 지 다섯 시간 됐습니다, 홀름 씨. 자산 목록은 완성되면 나옵니다. 하루도 먼저는 아니고요. 감사합니다.
+Mats|A1|Fabriken är stängd. Det var det.|공장은 닫혔고. 그걸로 끝이네요.
+Ji-ho|A2|Ursäkta. Ni är journalister? 진짜?|저기요. 기자세요? (한국어로) 진짜요?
+Viktor|A1|Ja. Från Stockholm.|네. 스톡홀름에서 왔어요.
+Ji-ho|B1|Jag heter Ji-ho, Park Ji-ho. Jag har jobbat här i tre år med battericellerna, med 수율 – hur säger man – hur många celler som blir bra.|저는 지호예요, 박지호. 여기서 3년 동안 배터리 셀 일을 했어요. (한국어로) 수율… 뭐라고 하더라… 셀이 몇 개나 제대로 나오는지요.
+Henrik|A2|Utbytet? Hur stor del som blir rätt?|"우트뷔테"(수율) 말이에요? 제대로 나오는 비율?
+Ji-ho|A2|Ja, utbytet! Tack. Jag kan orden på engelska, men int alltid på svenska.|네, 우트뷔테! 고마워요. 영어로는 아는데, 스웨덴어로는 항상은 몰라요.
+Viktor|B1|Du frågade om vi var journalister som om det betydde något. Har du sett något här som vi borde känna till?|우리가 기자냐고, 그게 뭔가 의미가 있는 것처럼 물었죠. 여기서 우리가 알아야 할 뭔가를 봤어요?
+Ji-ho|B1|Förlåt, min svenska är inte så bra. Men jag vet vad jag såg.|미안해요, 제 스웨덴어가 별로예요. 그래도 제가 본 건 알아요.
+Viktor|A1|Vad såg du?|뭘 봤어요?
+Ji-ho|B1|Inte här. Mina kollegor står där borta, och några av dem jobbade natt i mars.|여기선 말고요. 동료들이 저기 서 있고, 그중 몇 명은 3월에 야간 근무를 했어요.
+Henrik|A2|Var bor du? Vi har en bil.|어디 사세요? 우리 차 있어요.
+Ji-ho|B1|Morö Backe. Kom klockan sex, då har min fru lagat mat. 괜찮아요 – det är ingen fara, hon lagar alltid för mycket.|모뢰 바케요. 6시에 오세요. 그때면 아내가 밥 해 놨을 거예요. (한국어로) 괜찮아요, 걱정 마세요. 아내는 항상 너무 많이 해요.
+# 장면 3 — 저녁 6시, 모뢰 바케 지호의 아파트 (냉장고에 붙은 하은의 순록 그림, 라면 냄비, 지호의 휴대폰 속 3월 밤의 사진들)
+Ha-eun|A1|Hej! Jag heter Ha-eun. Jag är fem.|안녕하세요! 저는 하은이에요. 다섯 살이에요.
+Viktor|A2|Hej, Ha-eun. Har du ritat renen på kylskåpet?|안녕, 하은아. 냉장고에 붙은 순록, 네가 그렸어?
+Ha-eun|A2|Ja! Han heter Kalle. Vi såg honom med förskolan.|네! 이름은 칼레예요. 유치원에서 다 같이 봤어요.
+Ji-ho|B1|Hon pratar bättre svenska än jag. På förskolan säger de att hon låter som en riktig skelleftebo.|저보다 스웨덴어를 잘해요. 유치원에서는 진짜 셸레프테오 토박이 같다고 해요.
+Seo-yeon|A2|Varsågod. Ramen. Lite stark, förlåt.|드세요. 라면이에요. 좀 매워요, 미안해요.
+Henrik|A1|Stark är bra.|매운 건 좋아요.
+Ji-ho|A2|Min fru läser SFI. Hon förstår mycket, men hon är lite blyg.|아내는 SFI(이민자 스웨덴어 과정)에 다녀요. 많이 알아듣는데, 좀 수줍어해요.
+Henrik|B1|Det här är starkare än allt jag har ätit på Gotland. Hur säger man tack på koreanska?|이거 내가 고틀란드에서 먹어 본 어떤 것보다 맵네요. 한국어로 고맙다는 말은 어떻게 해요?
+Ji-ho|A2|감사합니다. Kam-sa-ham-ni-da. Det är det artiga sättet att säga tack.|(한국어로) 감사합니다. 감-사-함-니-다. 고맙다고 하는 공손한 말이에요.
+Henrik|A1|Kamsa… hamnida?|감사… 함니다?
+Seo-yeon|A1|네! Ja! Bra!|(한국어로) 네! (스웨덴어로) 네! 잘하세요!
+Viktor|B1|Ji-ho, innan vi pratar om mars vill jag säga en sak. Du bestämmer vad vi får skriva, och ditt namn står ingenstans om du inte säger ja.|지호 씨, 3월 얘기 하기 전에 하나 말해 둘게요. 우리가 뭘 써도 되는지는 지호 씨가 정해요. 그리고 지호 씨가 허락하지 않으면 이름은 어디에도 안 나가요.
+Ji-ho|A2|Okej. Jag förstår. Tack.|알겠어요. 이해해요. 고마워요.
+Viktor|A1|Berätta om mars.|3월 얘기 해 주세요.
+Ji-ho|A2|I mars kom lastbilarna på natten. Tre nätter, 빨리빨리.|3월에 트럭들이 밤에 왔어요. 사흘 밤이요. (한국어로) 빨리빨리.
+Henrik|A1|빨리빨리?|"빨리빨리"?
+Ji-ho|A2|Snabbt, snabbt. Så säger vi i Korea när allt måste gå fort.|빨리, 빨리. 한국에서는 뭐든 급할 때 그렇게 말해요.
+Viktor|A2|Vilka nätter? Minns du datumen?|어느 밤이요? 날짜 기억해요?
+Ji-ho|B1|Den tionde, elfte och tolfte mars. Jag hade nattskift, eftersom vi testade en ny celltyp och någon måste titta på siffrorna hela natten.|3월 10일, 11일, 12일이요. 제가 야간 근무였어요. 새 셀 종류를 시험하는 중이라 누군가 밤새 숫자를 봐야 했거든요.
+Viktor|A1|Vad lastade de?|뭘 실었어요?
+Ji-ho|B1|Formeringsskåpen, tolv stycken. Där laddas cellerna för första gången – utan dem kan man inte göra ett enda batteri.|화성(formation) 캐비닛이요, 열두 대. 셀을 처음으로 충전하는 곳이에요. 그게 없으면 배터리를 하나도 못 만들어요.
+Henrik|B2|Tolv skåp på tre nätter kräver folk som vet vad de gör, och någon som har gett dem nycklarna. Vem körde bilarna?|사흘 밤에 캐비닛 열두 대라면, 뭘 하는지 아는 사람들이 필요하고, 그 사람들한테 열쇠를 준 누군가도 있어야죠. 트럭은 누가 몰았어요?
+Ji-ho|B1|Jag vet int. Vita lastbilar utan logga. Vakten sa att skåpen skulle på service, men ingen hade sagt något till oss ingenjörer.|몰라요. 로고 없는 하얀 트럭이었어요. 경비원은 캐비닛이 정비 받으러 간다고 했는데, 우리 엔지니어들한테는 아무도 아무 말 안 했어요.
+Viktor|B2|Man skickar inte tolv skåp på service samtidigt, inte om man tänker fortsätta producera – såvida man inte redan vet att det inte blir någon mer produktion.|캐비닛 열두 대를 한꺼번에 정비 보내진 않죠. 생산을 계속할 생각이라면요. 더는 생산이 없을 거라는 걸 이미 알고 있는 게 아니라면.
+Ji-ho|A2|Precis! Det var det jag tänkte. Så jag tog bilder.|맞아요! 저도 그렇게 생각했어요. 그래서 사진을 찍었어요.
+Seo-yeon|A1|여보, 비자는?|(한국어로) 여보, 비자는?
+Ji-ho|B1|Hon frågar om visumet – uppehållstillståndet. Hon är rädd att det blir värre om jag pratar med er.|비자, 그러니까 체류허가를 묻는 거예요. 제가 기자들이랑 얘기하면 더 나빠질까 봐 무서워해요.
+Viktor|B1|Hur ser det ut med ditt tillstånd nu, när du inte har något jobb längre?|이제 직장이 없으니, 체류허가는 지금 어떻게 돼요?
+Ji-ho|B2|Mitt arbetstillstånd hänger på anställningen, och när den tar slut har jag tre månader på mig att hitta ett nytt jobb. Annars kan Migrationsverket dra in det – för hela familjen.|제 노동허가는 고용에 묶여 있어요. 고용이 끝나면 새 일자리를 구할 시간이 석 달 있어요. 못 구하면 이민청이 허가를 취소할 수 있어요. 가족 전체요.
+Henrik|B2|Och när en fabrik stänger på en enda dag, slåss tusen människor om samma få jobb i samma lilla stad.|그런데 공장이 하루아침에 문을 닫으면, 같은 작은 도시에서 천 명이 몇 안 되는 같은 일자리를 놓고 싸우게 되죠.
+Ji-ho|B2|Om jag inte har ett nytt jobb om tre månader måste vi kanske åka hem. Men 하은이는 drömmer på svenska.|석 달 안에 새 일자리가 없으면 돌아가야 할지도 몰라요. 그런데 (한국어로) 하은이는 스웨덴어로 꿈을 꿔요.
+Ha-eun|A2|Pappa, jag drömde om Kalle i natt. Han kunde flyga!|아빠, 나 어젯밤에 칼레 꿈 꿨어. 칼레가 날 수 있었어!
+Ji-ho|A1|진짜? Wow. Nu är det läggdags.|(한국어로) 진짜? 와. 이제 잘 시간이야.
+Viktor|B1|Får jag se bilderna? Jag tar inga kopior, jag skriver bara av det jag behöver i min bok.|사진 좀 봐도 될까요? 복사는 안 해요. 필요한 것만 수첩에 옮겨 적을게요.
+Ji-ho|B1|Här. Klockan 02.14, den elfte mars. Titta på etiketten på lådan – den är på koreanska, eftersom skåpen kommer från Korea. Det var jag som installerade dem.|여기요. 3월 11일 새벽 2시 14분. 상자에 붙은 라벨 보세요. 한국어예요. 캐비닛이 한국에서 왔거든요. 그걸 설치한 게 저예요.
+Viktor|A2|Vad står det där?|거기 뭐라고 쓰여 있어요?
+Ji-ho|B1|”취급주의” – hantera med försiktighet. Och här under står serienumret, HD-FC-0117. Det sista skåpet hade 0128.|"취급주의". 조심해서 다루라는 뜻이에요. 그리고 여기 아래가 일련번호, HD-FC-0117. 마지막 캐비닛은 0128이었어요.
+Viktor|A1|Noll ett ett sju. Till noll ett två åtta.|공일일칠. 공일이팔까지.
+Henrik|B2|Du har just gett oss något som går att kontrollera, Ji-ho. Ett serienummer ljuger int, även när människor gör det.|지호 씨, 방금 확인할 수 있는 걸 준 거예요. 사람은 거짓말을 해도 일련번호는 안 하죠.
+Ji-ho|B1|Jag är ingenjör. 진짜 – siffror ska vara sanna, annars är de inga siffror.|전 엔지니어예요. (한국어로) 진짜로요. 숫자는 진짜여야 해요. 아니면 숫자가 아니에요.
+# 장면 4 — 밤 10시 반, 셸레프테오 시내 호텔 방 (Signal 화상회의: 쿵스홀멘의 아미라·노아·소피아, 지지 않는 듯한 하늘, 빅토르의 수첩) → 밤 10시 50분, 지호에게 건 전화
+Amira|A2|Hör ni mig? Henrik, flytta kameran. Jag ser bara ditt öra.|들려? 헨릭, 카메라 좀 옮겨. 귀만 보여.
+Henrik|B1|Ursäkta. Klockan är halv elva och himlen är fortfarande ljus, så jag kan läsa här utan lampa.|미안. 10시 반인데 하늘이 아직 밝아. 여기선 불 안 켜고도 글을 읽겠어.
+Sofia|A2|Bra. Amira, du börjar. Vad har tingsrätten skickat?|좋아. 아미라, 네가 먼저. 법원에서 뭘 보냈어?
+Amira|B1|Konkursansökan, tjugotvå sidor. Styrelsen lämnade in den klockan 07.30 i morse, och längst bak finns en lista över avtal som bolaget har ingått det senaste året.|파산 신청서, 22쪽이에요. 이사회가 오늘 아침 7시 반에 냈고, 맨 뒤에 회사가 지난 1년 동안 맺은 계약 목록이 있어요.
+Noah|B1|Klockan 07.30? Då kom meddelandet till Brevlådan innan styrelsen ens hade lämnat in ansökan.|7시 반이요? 그럼 제보함 메시지는 이사회가 신청서를 내기도 전에 온 거네요.
+Viktor|A1|Och maskinerna?|기계는?
+Amira|B1|Sidan nitton: ”Tolv formeringsskåp, serienummer HD-FC-0117 till 0128.” Läs dina siffror, Viktor.|19쪽. "화성 캐비닛 열두 대, 일련번호 HD-FC-0117부터 0128까지." 네 숫자 읽어 봐, 빅토르.
+Viktor|A2|Noll ett ett sju till noll ett två åtta. Direkt ur boken.|공일일칠부터 공일이팔까지. 수첩에서 그대로.
+Amira|A1|Samma.|똑같아.
+Sofia|B1|Vad står det om skåpen i listan? Att numren stämmer säger bara att vi pratar om samma skåp.|목록에 그 캐비닛에 대해 뭐라고 돼 있어? 번호가 맞는다는 건 같은 캐비닛 얘기를 하고 있다는 것뿐이야.
+Amira|B2|Två avtal med samma motpart. Först ett hyresavtal från den första mars, där Nordcell hyr ut skåpen, och sedan ett köpeavtal där motparten köper dem för fyrtioen miljoner kronor.|같은 상대방과 계약 두 건이요. 먼저 3월 1일자 임대 계약. 노르셀이 캐비닛을 빌려주는 거예요. 그다음엔 매매 계약. 상대방이 그걸 4,100만 크로나에 사들여요.
+Viktor|B1|Ingenjören sa att de kostade nästan fyrahundra miljoner när de köptes in för tre år sedan.|엔지니어 말로는, 3년 전에 들여올 때 거의 4억 크로나였대.
+Noah|A2|Vem är motparten, då?|그럼 상대방은 누구예요?
+Amira|A2|Arktis Processing AB, registrerat i januari. Göttigt, va?|Arktis Processing AB, 1월에 등록됐어. 끝내주지?
+Noah|B1|Jag har Bolagsverket öppet. Det ägs till hundra procent av Arktis Mineral AB, som har köpt upp undersökningstillstånd i Norrbotten hela vintern.|저 기업등기소 열어 놨어요. 지분 100%를 Arktis Mineral AB가 갖고 있어요. 겨울 내내 노르보텐에서 탐사 허가를 사들인 회사요.
+Viktor|A1|När skrevs köpet?|매매는 언제 했어?
+Amira|B1|Köpeavtalet skrevs den trettonde april, tre veckor före konkursen. Men maskinerna lämnade fabriken redan i mars.|매매 계약은 4월 13일, 파산 3주 전이야. 그런데 기계는 3월에 벌써 공장을 떠났어.
+Noah|B1|Så rubriken blir: ”Maskinerna flyttades tre veckor innan företaget gick i konkurs”?|그럼 제목은 "기계들은 회사가 파산하기 3주 전에 옮겨졌다"인가요?
+Amira|B2|Nej, fel! De flyttades i mars, sju veckor innan. Det var köpet som kom tre veckor innan, och skillnaden är hela historien.|아니, 틀렸어! 옮긴 건 3월이야, 7주 전. 3주 전에 있었던 건 매매고, 그 차이가 이야기의 전부야.
+Henrik|B1|Alltså hyrde de först, så att ingen skulle fråga varför skåpen försvann, och köpte sedan när det var för sent att fråga.|그러니까 먼저 빌려서 캐비닛이 왜 사라졌는지 아무도 안 묻게 하고, 묻기엔 너무 늦었을 때 산 거네.
+Sofia|B2|Det är en tolkning, Henrik, och den kan vara rätt. Men ett hyresavtal följt av ett köp kan också vara ett sista desperat försök att få in pengar till lönerna.|그건 해석이야, 헨릭. 맞을 수도 있지. 하지만 임대 뒤의 매매는 월급 줄 돈을 마련하려는 마지막 필사적 시도일 수도 있어.
+Viktor|B2|I så fall borde fyrtioen miljoner ha gått till lönerna, men Frida och Mats har inte sett en krona sedan februari.|그렇다면 4,100만 크로나는 월급으로 갔어야지. 그런데 프리다랑 마츠는 2월 이후로 1크로나도 못 봤어.
+Amira|B2|Och betalningen syns inte i ansökan. Där står bara ”köpeskilling enligt avtal”, vilket kan betyda allt från fyrtioen miljoner till ingenting alls – och inte ett ord om vilket konto.|그리고 대금 지급은 신청서에 안 보여요. "계약에 따른 매매대금"이라고만 돼 있는데, 그건 4,100만 크로나일 수도 있고 한 푼도 없을 수도 있다는 뜻이에요. 어느 계좌인지는 한마디도 없고요.
+Sofia|B2|Om tillgångarna fördes över i förväg kan konkursförvaltaren kräva tillbaka dem genom återvinning. Det är hennes jobb och inte vårt, men det betyder att Öhman har all anledning att svara oss.|자산이 미리 넘어간 거라면 파산관재인이 부인권으로 되찾을 수 있어. 그건 관재인 일이지 우리 일은 아니야. 하지만 왼만한테는 우리한테 답할 이유가 충분하다는 뜻이지.
+Viktor|A2|Hon sa: ”Inte en dag innan.”|그 사람이 그랬어. "하루도 먼저는 아니다."
+Sofia|B2|Då ger vi henne en dag. Skicka frågorna skriftligt i morgon bitti och hänvisa till sidnumren i ansökan, så att hon förstår att vi redan har läst den.|그럼 하루 주자. 내일 아침 일찍 서면으로 질문 보내. 신청서 쪽수를 달아서. 우리가 이미 읽었다는 걸 알게.
+Noah|B1|Och Arktis? På deras hemsida står bara ”kritiska mineraler för Europas gröna omställning”. Ingen presskontakt, bara ett formulär.|Arktis는요? 홈페이지엔 "유럽 녹색 전환을 위한 핵심 광물"이라는 말뿐이에요. 언론 담당자도 없고 문의 양식만 있어요.
+Viktor|B2|Arktis får också frågor, men inte förrän vi vet vem som skrev under för Nordcell. Den som tjänar mest på en affär är sällan den som sätter sitt namn på papperet.|Arktis한테도 질문할 거야. 하지만 노르셀 쪽에서 누가 서명했는지 알기 전엔 아니야. 거래로 제일 이득 보는 사람이 서류에 자기 이름을 쓰는 일은 드물거든.
+Amira|B2|Det kan jag ta reda på. Vilka som var firmatecknare i januari och i april står i registret, och om de byttes ut strax före köpet vore det inte första gången jag ser just det tricket.|그건 제가 알아낼 수 있어요. 1월이랑 4월에 누가 서명권자였는지 등기에 나와요. 매매 직전에 바뀌었다면, 그 수법을 본 게 처음은 아닐 거예요.
+Sofia|B1|En sak till innan vi lägger på. Var finns ingenjörens namn just nu?|끊기 전에 하나 더. 엔지니어 이름은 지금 어디 있어?
+Viktor|B2|I min bok och ingen annanstans. Från och med nu säger vi bara ”ingenjören”, även här, för ett namn som sägs högt tillräckligt många gånger hittar alltid ut.|내 수첩에만, 다른 데는 없어. 지금부터는 여기서도 "엔지니어"라고만 하자. 소리 내서 여러 번 말한 이름은 언젠가 밖으로 새거든.
+Sofia|A2|Bra. Och i morgon, då?|좋아. 그럼 내일은?
+Viktor|B1|Fabriken igen, och vakterna. Någon öppnade grindarna de där nätterna, och någon skrev in lastbilarna i loggen.|공장 다시, 그리고 경비원들. 그 밤들에 누군가 정문을 열었고, 누군가 트럭을 출입 기록에 적었어.
+Sofia|B1|Inget publiceras i morgon utom det som alla redan vet: att Nordcell har gått i konkurs. Resten får vänta.|내일은 다들 이미 아는 것, 노르셀이 파산했다는 것 말고는 아무것도 안 나가. 나머진 기다려.
+Viktor|B2|Ett företag dör, ett annat får maskinerna. Vem tjänar på det?|회사 하나가 죽고, 다른 회사가 기계를 얻어. 누가 이득을 보지?
+Sofia|A2|Det är frågan. God natt, allihop.|그게 질문이지. 다들 잘 자.
+Viktor|B2|Ji-ho? Förlåt att jag ringer så sent. Jag hade lovat mig själv att vänta till i morgon, men det här ville jag inte att du skulle behöva vänta på.|지호 씨? 늦게 전화해서 미안해요. 내일까지 기다리려고 했는데, 이건 지호 씨가 기다리지 않았으면 해서요.
+Ji-ho|A2|Det gör inget. Jag kan int sova ändå. 괜찮아요.|괜찮아요. 어차피 잠이 안 와요. (한국어로) 괜찮아요.
+Viktor|B1|Jag kan inte säga så mycket i telefon, men det du visade oss i kväll stämmer med papperen. Varenda siffra.|전화로 많이는 말 못 해요. 그런데 오늘 저녁 보여 준 게 서류랑 맞아요. 숫자 하나하나까지.
+Ji-ho|A1|진짜?|(한국어로) 진짜요?
+Viktor|A2|진짜. Någon flyttade dem med flit, Ji-ho.|(한국어로) 진짜. (스웨덴어로) 누군가 일부러 옮긴 거예요, 지호 씨.
+Ji-ho|B1|아이고… De sa att vi byggde framtiden. Men framtiden var redan såld.|(한국어로) 아이고… 우리가 미래를 짓는다고 했어요. 그런데 미래는 이미 팔려 있었어요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Fabriken är stängd.** | 공장은 닫혔다. | *stängd*는 *stänga*(닫다)의 과거분사로, *vara* 뒤에서 '닫힌 상태'를 말한다. 주어가 *en*-명사면 *stängd*, *ett*-명사면 *stängt*(*Kontoret är stängt*), 복수면 *stängda*. 관재인의 *Den förblir stängd tills vidare*(당분간 닫힌 채로 둔다)는 같은 말의 공식 버전 |
+| `A2` | **Vi har inte fått lön sedan februari.** | 우린 2월부터 월급을 못 받았다. | *har … fått*는 현재완료(*få – fick – fått*). '~부터 지금까지 계속'은 *sedan* + 시점과 현재완료로 말한다. 부정어 *inte*는 조동사 *har* 바로 뒤에 온다 |
+| `B1` | **Maskinerna flyttades tre veckor innan företaget gick i konkurs.** | 기계들은 회사가 파산하기 3주 전에 옮겨졌다. | *flyttades*는 *flytta*(옮기다)의 -s 수동 과거형. *innan* + 절은 '~하기 전에'(*före* + 명사: *före konkursen*). *gå i konkurs* = 파산하다, *försättas i konkurs* = 파산 선고를 받다. 노아의 이 제목은 문법은 맞지만 사실은 틀렸다 — 옮긴 건 7주 전, 매매가 3주 전이다 |
+| `B2` | **Om tillgångarna fördes över i förväg kan konkursförvaltaren kräva tillbaka dem genom återvinning.** | 자산이 미리 넘어간 거라면 파산관재인이 부인권으로 되찾을 수 있다. | *föra över*(넘기다)의 수동 과거 *fördes över* — 분리동사는 -s 수동형에서 불변화사(*över*)가 동사 뒤에 남는다. 조건절 *om …* 뒤 주절은 동사가 먼저 온다(*kan konkursförvaltaren*). *kräva tillbaka* = 반환을 청구하다 |
+| `A2` | **Det är ingen slump.** | 우연이 아니야. | *slump* = 우연. *ingen* + 명사는 *inte en*보다 단호한 부정. 반대로 '우연히'는 *av en slump* |
+| `A2` | **Jag kan orden på engelska, men int alltid på svenska.** | 그 단어들을 영어로는 아는데, 스웨덴어로는 항상은 몰라요. | *kan* + 명사 = (언어·단어를) 알다. 지호는 동료들에게서 노를란드식 *int*(=*inte*)를 배웠다. 셸레프테오 토박이 마츠의 *Hä gå int.*(=*Det går inte.* 안 돼)도 같은 말투 |
+| 산업·법 | **statlig lönegaranti** | 국가 임금보증 | 고용주가 파산하면 밀린 임금을 국가가 일정 한도까지 대신 지급하는 제도. 신청과 심사는 파산관재인이 맡고, 지급은 지방정부 기관(*länsstyrelsen*)이 한다. 그래서 "내일 안내"를 기다리는 노동자들은 관재인 한 사람의 시간표에 묶인다 |
+| 지호의 한국어 | **진짜 = på riktigt · 빨리빨리 = snabbt, snabbt · 괜찮아요 = det gör inget / ingen fara · 감사합니다 = tack (artigt) · 아이고 = åh nej, herregud · 수율 = utbyte · 취급주의 = hantera med försiktighet · 여보 = älskling (mellan makar)** | 지호의 말 속 한국어와 그 스웨덴어 | 지호는 막히는 단어를 한국어로 먼저 떠올리고 스웨덴어를 찾는다(*수율 – hur säger man – …*). 학습자에게 가장 쓸모 있는 문장은 그 사이에 있다: ***Hur säger man … på svenska?*** (…를 스웨덴어로 어떻게 말해요?) |
+
+## 저널리즘·법 메모
+파산 서류는 지방법원(*tingsrätt*)에 제출되는 순간 공문서(*allmän handling*)가 되어 누구나 열람을 청구할 수 있다. 관재인이 자산 목록을 "완성되면" 내겠다며 미뤄도, 회사가 직접 낸 파산 신청서와 첨부 계약 목록은 같은 날 기자의 손에 들어온다 — 공문서 공개 원칙(*offentlighetsprincipen*)이 취재원 없이도 설 수 있는 첫 번째 다리다. 파산 직전에 자산이 특수관계인이나 헐값으로 넘어갔다면 관재인은 부인권(*återvinning*)으로 그 거래를 되돌릴 수 있으므로, 기자는 '누가, 언제, 얼마에'를 서류의 쪽수와 함께 고정해 둔다. 그러나 숫자가 일치한다는 것은 같은 물건이라는 뜻일 뿐, 그 거래가 불법이라는 뜻은 아니다 — 소피아가 '마지막 필사적 시도'라는 다른 해석을 끝까지 남겨 두고, 관재인과 Arktis 양쪽에 서면 질문(반론권)을 보내기 전엔 아무것도 싣지 않는 이유다. 노아의 제목 초안처럼, 문법이 완벽한 문장도 '3주'와 '7주'를 바꾸면 오보가 된다.
+
+## 문화·현안 메모
+- **북부의 배터리 붐과 파산** — 2020년대 초 스웨덴 북부는 "녹색 산업화"의 상징이었다. 거대한 배터리·그린스틸 공장이 들어서며 수천 명의 기술자가 세계 곳곳에서 몰려왔고, 소도시들은 인구 급증을 전제로 집과 학교를 지었다. 2024~2025년 대형 배터리 기업이 자금난 끝에 파산 절차에 들어가면서, 연금기금 손실과 지역 경제, 외국인 노동자 가족의 체류 문제가 한꺼번에 떠올랐다.
+- **노동허가와 '석 달'** — 스웨덴의 노동허가는 특정 고용주와 일자리에 묶여 있다. 고용이 끝나면 허가 소지자는 석 달 안에 새 일자리를 찾아야 하고, 그렇지 못하면 이민청이 허가를 취소할 수 있으며 가족의 체류도 함께 흔들린다.
+- **노를란드 말투** — 셸레프테오를 비롯한 베스테르보텐 해안 지역에서는 *jo*(그래, 응)와 *nä*(아니)가 대답의 기본이고, *inte* 대신 *int*, *det* 대신 *hä*를 쓰는 사람이 많다(*Hä gå int.*). 고틀란드 출신 헨릭이 "거의 우리 말"이라고 느끼는 것도 그래서다.
+- **SFI와 이민자 가족의 언어** — SFI(*svenska för invandrare*)는 성인 이민자를 위한 무료 스웨덴어 과정이다. 아이들은 유치원에서 몇 달 만에 부모보다 스웨덴어를 잘하게 되는 경우가 많다 — "하은이는 스웨덴어로 꿈을 꿔요."
+- ⚠️ Nordcell, Arktis Mineral AB, Arktis Processing AB, 박지호 가족, 마츠·프리다, 파산관재인 왼만은 모두 허구다. 셸레프테오 지방법원의 파산 절차와 임금보증·노동허가 규정은 극적 구성을 위해 단순화했다.
+
+## 다음 화 예고
+> 3만 명을 위해 지은 집들이 빈다. 밤 11시에도 밝은 셸레프테 강변의 차 안에서, 지호가 USB를 내민다: "Siffrorna vi skickade till investerarna var påhittade. 진짜예요."
