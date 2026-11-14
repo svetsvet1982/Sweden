@@ -95,7 +95,7 @@
 - **장면 구성**
   - 001–034 감사 인터뷰 돌리기: "9월 14일 밤 어디 있었죠?" 각자의 알리바이 (`A1·A2`)
     - 이다의 노트북과 체크리스트, 한 사람당 10분. 페트라: "데스크에 새벽 두 시까지. 늘 그렇듯"
-    - 💬 Ida: "Var befann du dig den fjortonde september mellan tio och elva på kvällen?" (9월 14일 밤 10시에서 11시 사이에 어디 있었죠?)
+    - 💬 Hedvig: "Var befann du dig den fjortonde september mellan tio och elva på kvällen?" (9월 14일 밤 10시에서 11시 사이에 어디 있었죠?)
   - 035–072 이다의 로그 브리핑: 재설정 전화는 **뉴스 데스크 내선**에서, 접속은 사내 IP, Linux 환경. 노아가 "저 Linux 쓰는데요…"라고 무심코 말한다 (`B1·B2`)
     - 타임라인: 22:41 전화 → 22:58 로그인 → 사진 폴더 열람
     - 이다의 장비 목록 한 줄: 데스크 구석의 사진 편집용 공용 Linux 단말기 1대 — 아무도 주목하지 않는다
