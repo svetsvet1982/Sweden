@@ -1,0 +1,187 @@
+@title 5부 1화 — Almedalen
+@subtitle (알메달렌)
+@meta 날짜|2026년 6월 23일 화요일 (알메달렌 주간 둘째 날) 오전 11시 반 ~ 6월 24일 수요일 0시 40분경
+@meta 장소|비스뷔 알메달렌 공원, 연설 무대와 정당 천막들 (오전 11시 반) → 도너스 광장, Nordhavn 세미나 천막 앞 (오후 3시) → 스넥(Snäck) 근처 헨릭 누나의 여름집 부엌, 영상통화 (저녁 6시) → 성벽(Ringmuren) 북문 Norderport (밤 11시) → 여름집 테라스 (자정 넘어)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자 — 고향 안내자) · **Theo** (테오 말름, 36, Hemlandspartiet 커뮤니케이션 책임자 — 첫 등장) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자 — 전화·영상통화) · **Ekwall** (마그누스 에크발, 58, Nordhavn Strategi 창업자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자 — 전화) · **Jonna** (요나, 31, 이름을 밝히지 않는 여자 — 첫 등장)
+@intro **지난 이야기** — 6월 22일 월요일 새벽 5시, 연재 "Gröna guldet"가 나갔고 장관은 오후에 "가족을 위해" 물러났다. 같은 날 오후 Nordhavn Strategi는 선거 자문 계약을 발표했지만 고객이 누구인지는 끝내 말하지 않았다. 그날 밤 베링뷔 우편함에는 우표 없는 봉투가 있었다 — 알메달렌 프로그램, 그리고 손글씨 카드: "Välkommen till Almedalen, Viktor. Jag har reserverat en plats längst fram."
+@intro 화요일 아침, 빅토르와 헨릭은 니네스함에서 첫 배를 탔다. 섬은 해마다 이맘때면 정치인과 로비스트와 기자로 가득 찬다. 헨릭에게는 고향이고, 빅토르에게는 Ekwall이 맨 앞자리를 맡아 두었다는 도시다.
+# 장면 1 — 오전 11시 반, 비스뷔 알메달렌 공원 (연못가 연설 무대, 정당 천막과 공짜 커피, 목에 건 이름표들, 멀리 보이는 성벽)
+Viktor|A1|Var är scenen?|무대가 어디야?
+Henrik|A2|Där nere, vid dammen. Följ bara ljudet.|저 아래, 연못 옆. 소리만 따라가.
+Viktor|A2|Så mycket folk. Alla har en namnskylt runt halsen.|사람 엄청 많네. 다들 목에 이름표를 걸고 있어.
+Henrik|B1|Här låg hamnen en gång i tiden. Nu står politikerna där skutorna låg förr.|여긴 옛날에 항구였어. 지금은 예전에 돛배들 대던 자리에 정치인들이 서 있지.
+Viktor|A1|Vem talar nu?|지금은 누가 연설해?
+Henrik|B1|Gröna Framtid. I går var det Arbetarpartiet, i morgon är det Hemlandspartiet, och på torsdag lovar Samlingspartiet motsatsen.|그뢰나 프람티드. 어제는 아르베타르파르티에트, 내일은 헴란드스파르티에트, 목요일엔 삼링스파르티에트가 정반대를 약속하지.
+Viktor|A2|Du låter inte imponerad.|별로 감동한 목소리가 아닌데.
+Henrik|B2|Här på Gotland säger vi att den som pratar mest har minst att säga. Det gäller alla fyra partierna, och journalisterna också – det är ju politikerveckan, pojk.|여기 고틀란드에선 말이 제일 많은 놈이 할 말은 제일 없다고 하지. 네 당 모두한테 해당되는 말이야. 기자들한테도. 정치인 주간이잖아, 얘야.
+Viktor|A2|Politikerveckan? Jag trodde att den hette Almedalsveckan.|정치인 주간? 알메달렌 주간이라고 부르는 줄 알았는데.
+Henrik|B1|Fastlänningar säger Almedalsveckan. Vi gutar säger politikerveckan, och då menar vi veckan då man inte hittar en parkeringsplats någonstans.|본토 사람들은 알메달렌 주간이라고 하지. 우리 섬사람들은 정치인 주간이라고 해. 어디에도 주차할 자리가 없는 주라는 뜻으로.
+Viktor|A2|Titta. Man ser muren härifrån.|봐. 여기서 성벽이 보여.
+Henrik|B2|Ringmuren byggdes på tolvhundratalet, men den skyddade köpmännen, inte bönderna. När den danske kungen kom 1361 stängde borgarna portarna, och bönderna dog utanför.|성벽은 13세기에 지어졌어. 그런데 지킨 건 상인들이지 농부들이 아니었어. 1361년에 덴마크 왕이 쳐들어왔을 때 시민들은 성문을 닫았고, 농부들은 성 밖에서 죽었지.
+Viktor|A1|Och sedan?|그다음엔?
+Henrik|B2|Sedan betalade staden kungen för att få vara i fred. Det sägs att han fick tre ölkar fulla med silver, och att köpmännen hade råd med det.|그다음엔 도시가 평화롭게 놔두는 대가로 왕한테 돈을 냈지. 은으로 가득 찬 맥주통 세 개를 받았다는 얘기가 있어. 상인들한텐 그럴 돈이 있었고.
+Viktor|A2|Så köpmännen klarade sig.|그러니까 상인들은 살아남았네.
+Henrik|B2|De klarar sig alltid, köpmännen, vilken kung som än sitter på tronen. Kom, vi går förbi tälten innan de gratis kanelbullarna tar slut.|그 사람들은 늘 살아남아, 상인들은. 어느 왕이 왕좌에 앉든. 가자, 공짜 시나몬롤 떨어지기 전에 천막들 옆으로 지나가자.
+Theo|B2|Viktor Holm! Sorry, jag känner igen dig från bylinen. Theo Malm, kommunikationschef på Hemlandspartiet. Er ministertext i går, alltså, sjuk reach – vi satt och såg engagement-siffrorna i realtid, och hela vårt flöde handlade om er.|빅토르 홀름! 미안해요, 바이라인 사진 보고 알아봤어요. 테오 말름이에요, 헴란드스파르티에트 커뮤니케이션 책임자. 어제 그 장관 기사요, 진짜 도달률 미쳤더라고요. 참여 지표를 실시간으로 보고 있었는데, 우리 피드가 온통 그 얘기였어요.
+Henrik|A2|Ni filmar redan.|벌써 찍고 있네요.
+Theo|B2|Alltid, guys, content är syre här. Ta en kopp kaffe från Slite – och vår partiledare talar i morgon klockan sju. Vill du ha en intervju efteråt fixar jag det, det finns alltid plats längst fram för pressen.|늘 찍죠, 여러분. 여기선 콘텐츠가 산소예요. 슬리테에서 온 커피 한 잔 하세요. 그리고 우리 당 대표가 내일 7시에 연설해요. 끝나고 인터뷰하고 싶으면 잡아 드릴게요. 언론을 위한 맨 앞자리는 늘 있거든요.
+Viktor|A2|Längst fram. Det har jag hört förut.|맨 앞자리라. 전에도 들은 말이네요.
+Theo|A2|Jaha? Okej, coolt. Ring mig när du vill.|그래요? 오케이, 좋아요. 언제든 전화 줘요.
+Henrik|A1|Din telefon ringer.|네 전화 울린다.
+Amira|B2|Viktor? Var är du? Det låter som om du stod mitt på en marknad.|빅토르? 어디야? 꼭 시장 한복판에 서 있는 것 같은 소리가 나는데.
+Viktor|A2|Almedalen. Vad har hänt?|알메달렌. 무슨 일이야?
+Amira|B1|Brevlådan, klockan 09.47. En rad bara: ”Ni skriver om fel parti. Jag hittar er i Visby.”|제보함. 9시 47분. 딱 한 줄이야. "당신들은 엉뚱한 정당을 쓰고 있다. 비스뷔에서 내가 당신들을 찾겠다."
+Viktor|A1|Vilken dörr?|어느 문으로?
+Amira|B1|Ettan, via Tor-adressen. Loggen säger inget mer, och jag letar inte, jag vet. Men en sak såg jag ändå.|1번 문, Tor 주소로. 로그엔 그 이상 없어. 찾아보는 거 아니야, 알아. 그래도 하나는 눈에 띄었어.
+Viktor|A1|Vad?|뭔데?
+Amira|B1|Hemlandspartiet lade ut sitt Almedalsschema klockan 09.44. Tre minuter senare kom meddelandet. Det kan vara en slump.|헴란드스파르티에트가 9시 44분에 알메달렌 일정을 올렸어. 3분 뒤에 메시지가 왔고. 우연일 수도 있지만.
+Viktor|B1|Vi letar inte efter personen. Om hen vill hitta oss, så gör hen det.|우린 그 사람을 찾지 않아. 우릴 찾고 싶으면 그 사람이 찾아오겠지.
+# 장면 2 — 오후 3시, 도너스 광장 (Nordhavn 세미나 "Vem äger omställningen?"이 끝난 흰 천막 앞, 장미 화단, 정당 부스들 사이로 흩어지는 청중)
+Henrik|A2|Stolen längst fram var tom hela timmen. Jag tog en bild av den.|맨 앞 의자는 한 시간 내내 비어 있었어. 사진 한 장 찍어 뒀지.
+Viktor|A2|Med hans lapp på. ”Reserverad – V. Holm.”|그 사람 쪽지가 붙은 채로. "예약석 — V. 홀름."
+Henrik|B1|Han satt mellan en riksdagsledamot från Samlingspartiet och en regionpolitiker från Arbetarpartiet, och båda skrattade åt hans skämt.|그 사람, 삼링스파르티에트 국회의원이랑 아르베타르파르티에트 지역 정치인 사이에 앉았는데, 둘 다 그 사람 농담에 웃더라.
+Viktor|B1|Han pratade om omställningen i fyrtio minuter utan att säga vem som äger något.|전환에 대해 40분 동안 떠들면서 누가 뭘 소유하는지는 한마디도 안 했어.
+Henrik|B2|Ha is i magen nu, pojk. Han kommer hit, och han vill att du ska vara den som blir arg först.|이제 침착해, 얘야. 그 사람 이리로 와. 네가 먼저 화내길 바라고 있어.
+Ekwall|B1|Viktor. Du ser trött ut, du. Man sover dåligt efter en sådan vecka, det vet jag.|빅토르. 피곤해 보이는군, 자네. 그런 주를 보내고 나면 잠을 설치지. 나도 알아.
+Viktor|A2|Jag satt längst bak.|전 맨 뒤에 앉았습니다.
+Ekwall|B2|Jag såg det. Synd, för därifrån hör man bara applåderna och aldrig vad som sägs efteråt, när mikrofonerna är avstängda.|봤지. 아쉽군. 거기선 박수 소리만 들리고, 마이크가 꺼진 뒤에 오가는 말은 절대 안 들리거든.
+Henrik|A1|Hej, Magnus.|안녕, 마그누스.
+Ekwall|A2|Hesa. Fortfarande med kameran.|헤사. 여전히 카메라를 들고 다니는군.
+Henrik|B2|Och du fortfarande i kostym, i tjugofem grader. Det skulle aldrig falla en gute in att klä sig så i juni.|넌 여전히 양복이고. 25도에. 섬사람이라면 6월에 그렇게 입을 생각은 꿈에도 안 할 거야.
+Ekwall|B1|Någon måste se ut som om allt är under kontroll. Anders lämnar departementet formellt i dag, förresten. Han ringde mig i morse.|누군가는 다 통제되고 있는 것처럼 보여야지. 그건 그렇고, 안데르스는 오늘 공식적으로 부처를 떠나. 오늘 아침에 나한테 전화했더군.
+Viktor|A1|Varför just dig?|왜 하필 당신한테요?
+Ekwall|B2|För att vänner ringer varandra när det blåser, Viktor. Det är inget märkligt med det, hur gärna du än vill att det ska vara det.|친구는 바람이 불 때 서로 전화하니까, 빅토르. 이상할 거 하나 없어. 자네가 아무리 이상하길 바라도.
+Viktor|B2|Ni har fått ett nytt uppdrag, ett val, och det dröjde inte ens ett dygn efter att ministern hade avgått.|새 일을 맡으셨더군요. 선거. 장관이 사임한 지 하루도 안 돼서요.
+Ekwall|B1|Jag hör att du har gått över till ”ni” igen. Ja, och jag har nya visitkort också. Varsågod.|또 존댓말로 돌아갔군. 그래, 새 명함도 생겼지. 자, 받게.
+Viktor|A2|”Senior rådgivare, valstrategi. Nordhavn Valanalys AB.”|"선임 자문, 선거 전략. Nordhavn Valanalys AB."
+Henrik|B1|Samma tjocka papper som kortet i brevlådan i går. Man snålar inte på kartongen.|어제 우편함에 있던 카드랑 같은 두꺼운 종이네. 판지는 아끼지 않는구먼.
+Ekwall|B1|Kvalitet syns, Hesa. Organisationsnumret står längst ner, juristerna vill ha det så. Transparens, du vet.|품질은 보이는 법이야, 헤사. 법인번호는 맨 아래 있어. 변호사들이 그러길 원하더군. 투명성, 알잖아.
+Viktor|A1|Vem är kunden?|고객이 누굽니까?
+Ekwall|B2|Kunden är den som vill förstå väljarna bättre än väljarna förstår sig själva. Det är inte förbjudet, inte än.|고객은 유권자들이 스스로를 이해하는 것보다 유권자를 더 잘 이해하고 싶은 쪽이지. 그건 금지된 게 아니야. 아직은.
+Viktor|A2|Vilket parti? Bara ett namn.|어느 정당입니까? 이름 하나만요.
+Ekwall|B2|Jag har ätit lunch med tre partisekreterare den här veckan, och i kväll äter jag middag med den fjärde. Gissa gärna, men gissningar är inte journalistik.|이번 주에 정당 사무총장 셋이랑 점심을 먹었고, 오늘 저녁엔 네 번째랑 저녁을 먹어. 마음껏 짐작하게. 하지만 짐작은 저널리즘이 아니지.
+Viktor|B1|Ni var statssekreterare i fyra år. Nu sitter ni i ett tält och säljer analyser till partierna.|4년 동안 차관이셨죠. 이제는 천막에 앉아서 정당들한테 분석을 파시고요.
+Ekwall|B2|Jag har aldrig sålt något till någon som inte ville köpa det. Det är skillnaden mellan mig och en tidning, Viktor. Ursäkta mig en minut, där borta står en gammal vän.|난 사고 싶어 하지 않는 사람한테 뭘 판 적이 없어. 그게 나와 신문의 차이지, 빅토르. 잠깐 실례하지. 저기 오랜 친구가 있어서.
+Viktor|A2|Hesa, skymma mig. Bara tio sekunder.|헤사, 나 좀 가려 줘. 10초만.
+Henrik|A2|Ta bilden och skicka den till Amira. Han tittar åt andra hållet.|찍어서 아미라한테 보내. 저쪽 보고 있어.
+Viktor|A1|Skickat.|보냈어.
+Ekwall|B1|Du har redan skickat den, va? Bra. Då slipper ni ringa Bolagsverket och fråga hur man stavar det.|벌써 보냈지? 잘했어. 그럼 Bolagsverket에 전화해서 철자 물어볼 필요는 없겠군.
+Viktor|B1|Vem betalar er, och vem betalar dem som betalar er?|누가 당신한테 돈을 내고, 그 사람들한테는 누가 돈을 냅니까?
+Ekwall|B2|Jag jobbar för den som vinner, Viktor. Det har jag alltid gjort. Fråga dig hellre varför alla de andra vill sitta bredvid mig på ett seminarium.|난 이기는 쪽을 위해 일해, 빅토르. 늘 그래 왔지. 그보다는 다른 사람들이 다 왜 세미나에서 내 옆에 앉고 싶어 하는지 자문해 보게.
+Viktor|A2|Och om ingen vinner?|그럼 아무도 못 이기면요?
+Ekwall|B1|Då jobbar jag för den som förhandlar. Hälsa Sofia. Vi ses, Viktor. Det gör vi alltid.|그럼 협상하는 쪽을 위해 일하지. 소피아한테 안부 전해 줘. 또 보세, 빅토르. 우린 늘 그렇잖아.
+Henrik|B1|Han log hela tiden, men han tittade på din telefon två gånger.|내내 웃었지만, 네 휴대폰을 두 번 쳐다봤어.
+Viktor|B2|Han ville att jag skulle fotografera kortet. Frågan är vad han vill att vi ska hitta, och vad han hoppas att vi aldrig letar efter.|내가 명함을 찍기를 바란 거야. 문제는 그 사람이 우리가 뭘 찾길 바라고, 뭘 절대 찾지 않길 바라느냐지.
+# 장면 3 — 저녁 6시, 스넥 근처 헨릭 누나의 여름집 부엌 (식탁 위 노트북 속 아미라, 스피커폰의 소피아, 냉장고에 붙은 누나의 규칙 쪽지, 오븐 옆 양고기)
+Henrik|A2|Skorna av. Min syster har regler, även när hon inte är hemma.|신발 벗어. 우리 누나는 집에 없을 때도 규칙이 있어.
+Viktor|A1|Amira, hör du oss?|아미라, 들려?
+Amira|A2|Ja. Sofia är också med, i telefon.|응. 소피아도 전화로 들어와 있어.
+Sofia|A2|Jag är här. Börja med kortet.|나 여기 있어. 명함부터 시작해.
+Amira|B1|Organisationsnumret går till Nordhavn Valanalys AB. Det registrerades hos Bolagsverket den andra juni och ägs helt av Nordhavn Strategi.|법인번호는 Nordhavn Valanalys AB 거야. 6월 2일에 Bolagsverket에 등록됐고, Nordhavn Strategi가 100퍼센트 소유해.
+Viktor|A1|Den andra juni?|6월 2일?
+Amira|B1|Fan, de registrerade dotterbolaget tre veckor före Almedalen. Det är ingen slump.|젠장, 알메달렌 3주 전에 자회사를 등록했어. 우연이 아니야.
+Sofia|A2|Vad står det om verksamheten?|사업 목적엔 뭐라고 돼 있어?
+Amira|B1|”Analys av opinion och väljarbeteende samt kommunikationsrådgivning.” Ekwall är ordförande, och aktiekapitalet är tjugofemtusen, alltså minsta tillåtna.|"여론 및 유권자 행태 분석과 커뮤니케이션 자문." 에크발이 이사회 의장이고, 자본금은 2만 5천 크로나. 그러니까 법정 최소 금액.
+Henrik|B2|Ett litet bolag med ett stort visitkort. Det påminner om en båt där någon har målat namnet större än skrovet.|작은 회사에 큰 명함이네. 선체보다 이름을 더 크게 칠해 놓은 배 같구먼.
+Amira|B1|Och den femte juni lade de ut en jobbannons: ”dataanalytiker med erfarenhet av sociala medier och snabba kampanjer”. Sista ansökningsdag var den tolfte.|그리고 6월 5일에 채용 공고를 냈어. "소셜미디어와 빠른 캠페인 경험이 있는 데이터 분석가." 지원 마감은 12일이었고.
+Sofia|B2|Ett visitkort är ingen artikel, Viktor. Ett nytt bolag och en jobbannons visar att Ekwall gör affärer, och det har han full rätt att göra.|명함 한 장으로는 기사가 안 돼, 빅토르. 새 회사와 채용 공고는 에크발이 사업을 한다는 걸 보여 줄 뿐이고, 그건 전적으로 그 사람 권리야.
+Viktor|B2|Att en före detta statssekreterare plötsligt leder en valkampanj väcker frågan om vem som egentligen betalar. Den frågan har väljarna rätt att få svar på.|전직 차관이 갑자기 선거 캠페인을 이끈다는 건, 실제로 누가 돈을 내느냐는 질문을 불러일으켜. 유권자들은 그 질문에 답을 들을 권리가 있어.
+Sofia|B1|Då behöver vi kunderna. Vad säger registren, Amira?|그럼 고객이 필요해. 등록부엔 뭐라고 나와, 아미라?
+Amira|B2|Ingenting än. Kundlistan är en affärshemlighet, och den första årsredovisningen kommer inte förrän nästa år, långt efter valet.|아직 아무것도. 고객 명단은 영업비밀이고, 첫 연차보고서는 내년에야 나와. 선거 한참 뒤에.
+Viktor|A1|Och partierna?|정당들은?
+Sofia|B2|Partierna måste redovisa sina intäkter till Kammarkollegiet, men inte vad de köper. Om ett parti betalar en konsult syns det inte där.|정당들은 수입은 Kammarkollegiet에 보고해야 하지만, 뭘 사는지는 보고하지 않아도 돼. 어느 정당이 컨설턴트한테 돈을 내도 거기엔 안 보여.
+Henrik|B1|Så pengarna går ut genom en dörr som ingen räknar.|그러니까 돈은 아무도 세지 않는 문으로 나간다는 거네.
+Viktor|A1|Följ pengarna.|돈을 따라가.
+Amira|B1|Vilka pengar? Jag ser ett bolag med tjugofemtusen kronor och en hemsida som inte ens är klar.|무슨 돈? 내 눈엔 2만 5천 크로나짜리 회사랑 아직 완성도 안 된 홈페이지밖에 안 보여.
+Viktor|B2|Den som anställer dataanalytiker en vecka efter registreringen har redan en kund som betalar. Annars hade han väntat till hösten.|등록 일주일 만에 데이터 분석가를 뽑는 사람은 이미 돈 내는 고객이 있는 거야. 아니면 가을까지 기다렸겠지.
+Sofia|B2|Det är en rimlig slutsats, men det är fortfarande din slutsats. Och Brevlådan? Den som skriver ”fel parti” vill styra oss.|그럴듯한 결론이지만, 여전히 네 결론이야. 그리고 제보함은? "엉뚱한 정당"이라고 쓰는 사람은 우리를 조종하고 싶은 거야.
+Viktor|B1|Kanske. Men en källa med en agenda kan ändå ha rätt. Vi kollar två gånger.|그럴지도. 하지만 의도가 있는 취재원도 맞을 수는 있어. 두 번 확인하면 돼.
+Sofia|B2|Vi granskar inte ett parti för att någon pekar på det. Vi granskar metoder, och vi letar efter samma metoder hos alla fyra.|누가 가리킨다고 어떤 정당을 들여다보진 않아. 우린 방법을 들여다보는 거고, 같은 방법이 네 정당 모두에 있는지 찾아봐.
+Amira|A1|Vänta. Brevlådan igen.|잠깐. 제보함 또 왔어.
+Viktor|A1|Läs.|읽어 봐.
+Amira|A2|Klockan 18.12, samma dörr: ”Norderport. I kväll klockan elva. Ingen telefon. Kom ensam.”|6시 12분, 같은 문이야. "북문. 오늘 밤 11시. 휴대폰 없이. 혼자 와."
+Sofia|B1|Inte ensam. Henrik står inom synhåll, och du säger till om något känns fel.|혼자는 안 돼. 헨릭이 보이는 거리에 있고, 뭔가 이상하면 바로 말해.
+Viktor|A2|Vi ses vid Norderport klockan elva, Hesa. Du tar telefonerna.|11시에 북문에서 보자, 헤사. 휴대폰은 네가 맡아.
+Sofia|B2|Och Viktor: säg vad lagen inte kan göra för personen innan hen säger ett enda ord. En partianställd är ingen tjänsteman.|그리고 빅토르, 그 사람이 한마디라도 하기 전에 법이 그 사람한테 해 줄 수 없는 걸 먼저 말해. 정당 직원은 공무원이 아니야.
+# 장면 4 — 밤 11시, 성벽 북문 Norderport (바다 쪽으로 열린 아치, 여전히 밝은 북쪽 하늘, 백 미터 떨어진 벤치의 헨릭, 모자를 깊이 눌러쓴 여자)
+Henrik|A2|Jag sitter på bänken där borta och tittar på havet.|난 저기 벤치에 앉아서 바다나 볼게.
+Jonna|A1|Holm?|홀름 씨?
+Viktor|A1|Ja. Hej.|네. 안녕하세요.
+Jonna|A2|Har du en telefon? Visa fickorna.|휴대폰 있어요? 주머니 보여 줘요.
+Viktor|A2|Ingen telefon. Bara en penna och ett block.|휴대폰 없어요. 펜하고 수첩뿐이에요.
+Jonna|B1|Inte blocket heller, inte nu. Och vem är gubben på bänken? Han har tittat hitåt två gånger, och jag… jag skrev ju ensam.|수첩도 안 돼요, 지금은. 그리고 벤치에 있는 아저씨 누구예요? 이쪽을 두 번 봤는데, 저는… 혼자 오라고 썼잖아요.
+Viktor|B1|Min fotograf. Han har mina telefoner, och han tar inga bilder i kväll. Det lovar jag.|제 사진기자예요. 제 휴대폰을 갖고 있고, 오늘 밤엔 사진 안 찍어요. 약속해요.
+Jonna|A2|Okej. Okej. Vi går längs muren. Inte mot stan.|알았어요. 알았어요. 성벽 따라 걸어요. 시내 쪽 말고.
+Viktor|A2|Vad heter du?|이름이 뭐예요?
+Jonna|B1|Inget namn. Kalla mig J, om du måste. Jag jobbade i partiets digitala team till slutet av maj. Jag slutade själv, ingen sparkade mig, men de… de vet att jag inte gick glad.|이름은 없어요. 꼭 불러야 하면 J라고 해요. 5월 말까지 당 디지털팀에서 일했어요. 제 발로 나왔어요. 아무도 저를 자르지 않았는데, 그 사람들은… 제가 기분 좋게 나가지 않았다는 걸 알아요.
+Viktor|B1|Vilket parti? Jag vill höra det från dig, för jag skriver ingenting som bygger på antaganden.|어느 당이요? 당신한테서 듣고 싶어요. 전 추측에 기댄 건 아무것도 안 쓰거든요.
+Jonna|A2|Hemlandspartiet. Theo Malms team.|헴란드스파르티에트. 테오 말름의 팀.
+Viktor|A2|Jag träffade honom i dag. Han bjöd på kaffe.|오늘 그 사람 만났어요. 커피를 권하더군요.
+Jonna|B1|Han bjuder alla på kaffe. Och han filmar alla, särskilt dem som säger nej.|그 사람은 누구한테나 커피를 권해요. 그리고 누구나 찍어요. 특히 거절하는 사람들을요.
+Viktor|B2|Innan du säger något mer måste jag berätta vad jag inte kan lova dig. Annars vore det inte rättvist mot dig.|더 말하기 전에, 제가 약속할 수 없는 걸 먼저 말해야 해요. 안 그러면 당신한테 공정하지 않으니까요.
+Jonna|A1|Vad då?|뭔데요?
+Viktor|B2|Om du hade jobbat på en myndighet hade lagen skyddat dig. Då hade din arbetsgivare varken fått leta efter dig eller straffa dig för att du pratade med mig.|공공기관에서 일했다면 법이 당신을 보호했을 거예요. 그럼 고용주는 당신을 찾아내서도, 저랑 얘기했다고 벌을 줘서도 안 되죠.
+Jonna|B1|Men ett parti är ingen myndighet, så det där gäller väl inte mig?|근데 정당은 공공기관이 아니잖아요. 그러니까 그건 저한테 해당이 안 되는 거죠?
+Viktor|B2|Nej. Partiet får leta efter den som läcker, helt lagligt, och om du har skrivit på ett sekretessavtal kan de försöka använda det mot dig.|네. 정당은 유출자를 찾아도 돼요. 완전히 합법적으로요. 그리고 비밀유지 계약서에 서명했다면 그걸 당신한테 불리하게 쓰려고 할 수도 있어요.
+Jonna|B1|Jag skrev på ett. Första dagen. Alla gör det, det var tre sidor, jag läste inte ens…|서명했어요. 첫날에. 다들 해요. 세 장이었는데, 읽지도 않고…
+Viktor|B2|Lagen skyddar dig inte mot dem. Det enda du har är att jag håller tyst. Det är min skyldighet enligt grundlagen, och bara du kan befria mig från den.|법은 그들로부터 당신을 지켜 주지 못해요. 당신이 가진 건 내가 입을 다무는 것뿐이에요. 그건 헌법에 따른 제 의무고, 그 의무에서 저를 풀어 줄 수 있는 건 당신뿐이에요.
+Jonna|B2|Varför säger du det här? Om du verkligen ville ha min historia borde du väl ha lovat mig allt, och då hade jag kanske stannat.|왜 이런 말을 해요? 정말 제 얘기를 원했다면 전부 다 약속했어야죠. 그랬으면 제가 남았을지도 모르는데.
+Viktor|B1|För att du ska veta vad du ger dig in på. Hellre att du går i kväll än att du ångrar dig i september.|무슨 일에 뛰어드는지 아셔야 하니까요. 9월에 후회하느니 오늘 밤 가시는 게 나아요.
+Jonna|B1|Ingen har sagt något sånt till mig förut. På kontoret säger de alltid att allt är lugnt.|아무도 저한테 그런 말 해 준 적 없어요. 사무실에선 늘 다 괜찮다고만 해요.
+Viktor|A2|Varför kom du till oss?|왜 우리한테 왔어요?
+Jonna|B1|För ingenjören i er artikel. Ni skrev ”en ingenjör” och ingenting mer, inte ens vilket land han kom ifrån. Jag läste det tre gånger.|기사에 나온 그 엔지니어 때문에요. "엔지니어 한 명"이라고만 쓰고 더는 아무것도, 어느 나라 사람인지도 안 썼잖아요. 세 번 읽었어요.
+Viktor|A2|Vad vill du berätta?|무슨 얘기를 하고 싶어요?
+Jonna|B1|Det finns en skärm på kontoret. Siffror, hela dagen. Inte opinionsmätningar, andra siffror. Theo kallar dem ”de inre siffrorna”.|사무실에 화면이 하나 있어요. 하루 종일 숫자가 떠요. 여론조사 말고, 다른 숫자요. 테오는 그걸 "내부 숫자"라고 불러요.
+Viktor|A1|Vilka siffror?|무슨 숫자요?
+Jonna|B1|Hur många som blev arga. Per inlägg, per timme. Hemma i Västerås trodde mamma att jag jobbade med… nej. Glöm det. Glöm Västerås.|몇 명이 화가 났는지요. 게시물당, 시간당. 베스테로스 집에서 엄마는 제가 무슨… 아니에요. 잊어요. 베스테로스는 잊어요.
+Viktor|A2|Jag hörde ingenting. Fortsätt när du vill.|아무것도 못 들었어요. 하고 싶을 때 계속해요.
+Jonna|B2|Jag måste tänka. Om jag berättar resten är det bara en handfull som kan ha vetat det, och då vet Theo vem det var innan ni ens har skrivit en rad.|생각해 봐야 해요. 나머지를 말하면 그걸 알 수 있었던 사람은 몇 명밖에 없어서, 당신들이 한 줄 쓰기도 전에 테오는 누군지 알 거예요.
+Viktor|B1|Ta den tid du behöver. Inget av det du har sagt i kväll hamnar i tidningen innan du har sagt ja.|필요한 만큼 시간을 가져요. 오늘 밤 한 말은 당신이 동의하기 전엔 하나도 신문에 안 나가요.
+Jonna|A1|Gå först. Mot bänken.|먼저 가요. 벤치 쪽으로.
+Viktor|A1|God natt, J.|잘 자요, J.
+# 장면 5 — 자정 넘어, 여름집 테라스 (바다 위 아직 밝은 북서쪽 하늘, 불 붙이지 않은 담배 한 개비, 테이블 위 빅토르의 수첩, 삐걱이는 정원 대문)
+Henrik|B2|Hon gick åt andra hållet, och om någon hade följt efter dig hade jag sett det från bänken.|그 여자는 반대쪽으로 갔어. 누가 널 따라갔다면 내가 벤치에서 봤을 거고.
+Viktor|A2|Du har en cigarett. Du slutade 2009.|담배 들고 있네. 2009년에 끊었잖아.
+Henrik|B1|Jag tänder den inte. Den håller bara händerna sysselsatta när jag har suttit på en bänk i en timme.|불은 안 붙여. 벤치에 한 시간 앉아 있다 오면 손이 심심해서 들고만 있는 거야.
+Viktor|B1|Hon pillade på kepsen hela tiden. Precis som Elias gjorde med ankaret.|그 사람, 내내 모자챙을 만지작거렸어. 엘리아스가 닻을 만지던 것처럼.
+Henrik|A2|Vad heter hon?|이름이 뭔데?
+Viktor|B1|Hon vill inte säga sitt namn förrän hon litar på oss. Och det gör hon rätt i.|우리를 믿을 때까지 이름을 말하고 싶지 않대. 그게 맞는 거고.
+Henrik|B1|Nu skriver du i boken igen. Jag ser det från andra sidan bordet.|또 수첩에 적고 있네. 테이블 건너편에서도 보여.
+Viktor|B1|Bara det viktigaste. Digitala teamet till maj, ”de inre siffrorna” och ett ord som hon ångrade.|중요한 것만. 5월까지 디지털팀, "내부 숫자", 그리고 그 사람이 후회한 단어 하나.
+Henrik|B2|Skriv inte allt i den där boken, pojk. Papper kan också prata. Den som hittar en bok behöver inget lösenord, bara ett par ögon.|그 수첩에 다 적지 마라, 얘야. 종이도 말을 할 수 있어. 수첩을 주운 사람은 비밀번호가 필요 없어. 눈만 있으면 되지.
+Viktor|A2|Jag stryker ordet. Så.|그 단어 지울게. 됐지.
+Henrik|B2|Stryk det så hårt att man inte kan läsa det genom pappret. Jag har sett folk hålla upp en sida mot lampan.|종이 너머로도 안 읽히게 세게 지워. 페이지를 전등에 비춰 보는 놈들도 봤어.
+Viktor|B2|Ekwall startar ett bolag tre veckor före Almedalen, och samma dag som ministern lämnar dyker det upp någon från ett parti som vi inte granskade i våras.|에크발은 알메달렌 3주 전에 회사를 차리고, 장관이 떠나는 바로 그날, 우리가 지난봄에 들여다보지 않은 정당에서 누군가 나타나.
+Henrik|A2|Och du tror inte på slumpen.|그리고 넌 우연을 안 믿고.
+Viktor|A1|Vem tjänar på det?|누가 이득을 보지?
+Henrik|A1|Tyst. Grinden.|쉿. 대문.
+Jonna|B1|Det är bara jag. Jag gick efter er från porten, för jag ville se om någon väntade på er.|저예요. 북문에서부터 따라왔어요. 누가 당신들을 기다리는지 보고 싶어서요.
+Henrik|B1|Och jag hörde dig inte en enda gång. Jag börjar bli gammal.|그런데 난 한 번도 못 들었네. 나도 늙나 보다.
+Jonna|A2|Ingen väntade. Ingen ringde. Nu har jag tänkt.|아무도 안 기다렸어요. 아무도 전화 안 했고요. 이제 생각해 봤어요.
+Viktor|A1|Och?|그래서요?
+Jonna|A2|Fyrahundra konton. Och tjugo av dem skötte jag själv.|계정 사백 개. 그중 스무 개는 내가 직접 관리했어요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Var är scenen?** | 무대가 어디야? | *var* = 어디(장소), *vart* = 어디로(방향) — *Vart går vi?* 와 구별한다. *scenen*은 *en scen*의 한정형. 처음 온 도시에서 쓰는 가장 짧은 질문 형태: *Var är* + 한정형 명사(*Var är hamnen? Var är toaletten?*) |
+| `A2` | **Vi ses vid Norderport klockan elva.** | 11시에 북문에서 보자. | *ses*는 *se*의 -s형으로 '서로 보다' — *vi ses* = 만나자(작별 인사로도 쓴다). 같은 상호 -s형: *vi hörs*(연락하자), *vi träffas*(만나자). *vid* = ~옆에서/~에서, 시각은 *klockan* + 숫자 |
+| `A2` | **Ett visitkort är ingen artikel.** | 명함 한 장으로는 기사가 안 돼. | *ingen* = *inte någon*. 명사 앞에서 성·수에 맞춰 *ingen*(en-명사) / *inget*(ett-명사) / *inga*(복수)로 바뀐다 — *artikel*은 en-명사라 *ingen artikel*. 소피아식 압축: "명함은 기사가 아니다" |
+| `B1` | **Hon vill inte säga sitt namn förrän hon litar på oss.** | 그 사람은 우리를 믿을 때까지 이름을 말하지 않으려 해. | *inte … förrän* = ~하고 나서야 비로소(~하기 전에는 안 한다). *sitt*는 주어 *hon* 자신의 것을 가리키는 재귀 소유사(*hennes namn*이라 하면 다른 여자의 이름). *lita på* = ~를 믿다 |
+| `B2` | **Lagen skyddar dig inte mot dem. Det enda du har är att jag håller tyst.** | 법은 그들로부터 당신을 지켜 주지 못해요. 당신이 가진 건 내가 입을 다무는 것뿐이에요. | *skydda någon mot något* = ~로부터 ~를 지키다. *det enda (som) du har* = 당신이 가진 유일한 것 — 관계사 *som*은 목적어 자리라 생략됐다. *hålla tyst* = 입을 다물다, 비밀을 지키다 |
+| `B2` | **Att en före detta statssekreterare plötsligt leder en valkampanj väcker frågan om vem som egentligen betalar.** | 전직 차관이 갑자기 선거 캠페인을 이끈다는 건, 실제로 누가 돈을 내느냐는 질문을 불러일으킨다. | *att*-절 전체가 주어다(~한다는 것은). *före detta*(약자 *f.d.*) = 전(前) ~. *väcka frågan om* = ~라는 질문을 불러일으키다. 간접의문문에서 주어를 묻는 *vem* 뒤에는 *som*이 붙는다(*vem som betalar*) |
+| 관용구 | **ha is i magen** | 침착함을 잃지 않다 | 직역은 "배 속에 얼음이 있다". 긴장되는 순간에 서두르지 않고 기다리는 태도를 칭찬하거나 요구할 때 쓴다: *Ha is i magen nu.* (이제 침착해.) 반대로 성급한 사람에게는 *Ta det lugnt!* 헨릭은 Ekwall이 다가오기 직전, 먼저 화내는 쪽이 진다는 뜻으로 이 말을 한다 |
+| 미디어·정치 | **politikerveckan** | 정치인 주간 | 알메달렌 주간(*Almedalsveckan*)을 부르는 다른 이름. *politiker* + *veckan*(주, 한정형)의 합성어. 언론 기사에서도 흔히 쓰이고, 고틀란드 주민들은 반쯤 농담으로 "주차할 데 없는 주"라는 뜻을 담아 부르기도 한다. 섬사람은 자신을 *gute*(복수 *gutar*), 본토 사람을 *fastlänning*이라 부른다 |
+
+## 저널리즘·법 메모
+스웨덴 헌법(출판자유법 TF·표현자유법 YGL)의 제보자 보호(*meddelarskydd*)는 누구에게나 똑같이 적용되지 않는다. 공공기관 직원이 언론에 제보하면 기관은 제보자를 찾아서는 안 되고(*efterforskningsförbud*) 불이익을 줘서도 안 된다(*repressalieförbud*) — 2017년부터는 공적 자금으로 운영되는 사립학교·의료·돌봄 기관 직원에게도 비슷한 보호가 생겼다. 그러나 정당은 공공기관이 아니라 민간 결사체다. 당은 유출자를 합법적으로 색출할 수 있고, 직원이 서명한 비밀유지 계약서를 근거로 법적 대응을 시도할 수도 있다. 그래서 빅토르는 요나가 무엇을 말하기 전에 이 한계부터 알려 준다 — 그녀에게 남는 보호는 기자 쪽의 *källskydd*, 즉 기자가 본인 동의 없이 취재원의 신원을 밝히면 처벌받는 헌법상의 침묵 의무(*tystnadsplikt*)뿐이고, 그 의무를 풀 수 있는 사람은 취재원 자신뿐이다. 한편 정당 재정 투명성법(*lagen om insyn i finansiering av partier*, 2018)은 정당이 받은 돈(수입)을 Kammarkollegiet에 신고하게 하지만, 정당이 컨설턴트에게 낸 돈(지출)은 신고 대상이 아니다. "돈을 따라가라"는 말이 선거 국면에서 유독 어려운 이유다.
+
+## 문화·현안 메모
+- **알메달렌 공원** — 비스뷔 성벽 안 서쪽 바닷가의 공원으로, 중세 한자 무역 시절 항구가 있던 자리다. 지금은 연못과 잔디밭이 있는 이 공원의 무대에서 알메달렌 주간 동안 매일 다른 정당 대표가 연설하고, 주변 골목과 광장(도너스 광장 등)에는 세미나 천막과 단체 부스가 들어선다. 입장료가 없고, 정치인·로비스트·기자·관광객이 같은 잔디밭 위에 서 있다는 개방성이 이 행사의 자랑이자 약점이다.
+- **링무렌(Ringmuren)과 1361년** — 비스뷔를 둘러싼 약 3.4km의 중세 성벽으로, 13세기에 쌓아 올려 지금도 대부분 남아 있다(비스뷔 한자 도시는 1995년 유네스코 세계유산 등재). 1361년 덴마크 왕 발데마르 아테르다그가 고틀란드에 상륙했을 때, 성 밖에서 싸운 농민군은 크게 패했고 성안의 시민들은 성문을 열지 않았다. 성벽 밖 들판에 선 *Valdemarskorset*(발데마르 십자가)가 그 전투를 기억한다. 왕이 맥주통 세 개를 은과 금으로 채우라고 요구했다는 이야기는 널리 알려진 전설이다.
+- **북문(Norderport)** — 성벽 북쪽의 문으로, 지금은 차와 자전거가 드나드는 아치다. 6월 하순 비스뷔의 해는 밤 10시가 넘어서야 지고, 자정 무렵에도 북쪽 하늘은 밝다.
+- ⚠️ Hemlandspartiet·Samlingspartiet·Arbetarpartiet·Gröna Framtid, 테오 말름, 요나, Nordhavn Strategi와 자회사 Nordhavn Valanalys AB는 모두 허구다. 극중 연설 일정과 세미나도 가상이며, 실존 정당·정치인의 행위나 실제 선거 결과를 묘사하지 않는다. 제보자 보호, 정당 재정 투명성법, Bolagsverket·Kammarkollegiet, 알메달렌 주간은 실제 제도·기관·행사를 배경으로만 썼다.
+
+## 다음 화 예고
+> 요나가 종이에 손으로 적어 건넨 계정 스무 개. 아미라의 화면에서 그것은 400개의 군집으로 자라고 — 표적 목록에는 Stockholmsposten의 이름도 있다.

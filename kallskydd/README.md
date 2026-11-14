@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (60/105화 완성)
+## 대본 목차 (61/105화 완성)
 
 ### 1부
 
@@ -104,3 +104,9 @@
 | 13 | [Avbrottet](episodes/k4_e13.md) | 중단 |
 | 14 | [Midnattssol](episodes/k4_e14.md) | 백야 |
 | 15 | [Svängdörren](episodes/k4_e15.md) | 회전문 |
+
+### 5부
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Almedalen](episodes/k5_e01.md) | 알메달렌 |
