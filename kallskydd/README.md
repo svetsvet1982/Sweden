@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (15/105화 완성)
+## 대본 목차 (16/105화 완성)
 
 ### 1부
 
@@ -44,3 +44,9 @@
 | 13 | [Publiceringsbeslutet](episodes/k1_e13.md) | 보도 결정 |
 | 14 | [Smällen](episodes/k1_e14.md) | 폭발 |
 | 15 | [Telefonen](episodes/k1_e15.md) | 휴대폰 |
+
+### 2부
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Fakturorna](episodes/k2_e01.md) | 청구서 |
