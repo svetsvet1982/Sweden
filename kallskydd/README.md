@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (53/105화 완성)
+## 대본 목차 (54/105화 완성)
 
 ### 1부
 
@@ -97,3 +97,4 @@
 | 6 | [Vindkraften](episodes/k4_e06.md) | 풍력 |
 | 7 | [Rollen](episodes/k4_e07.md) | 배역 |
 | 8 | [Middagen i Luleå](episodes/k4_e08.md) | 룰레오의 만찬 |
+| 9 | [Stålgryning](episodes/k4_e09.md) | 강철의 새벽 |
