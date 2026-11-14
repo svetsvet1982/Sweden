@@ -1,0 +1,187 @@
+@title 1부 2화 — Prislistan
+@subtitle (가격표)
+@meta 날짜|2025년 10월 9일 목요일 아침 9시 ~ 10일 금요일 새벽 1시 15분
+@meta 장소|쿵스홀멘 Stockholmsposten 지하 **Källaren** → 편집국장 소피아의 사무실 → 다시 Källaren(저녁) → 노아의 프루엥엔(Fruängen) 원룸(밤샘)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Noah** (노아, 24, 인턴 — 출근 사흘째) · **Amira** (아미라, 33, 데이터·OSINT 기자) · **Sofia** (소피아, 54, 편집국장·발행책임자) · **Lars** (라르스 몰린, 62, 신문사 법률고문) · **Bot** (텔레그램 채널 "Uppdrag Sthlm"의 자동 응답 봇) · **Admin** (채널 관리자) · **Kanalen** (채널에 글을 올리는 익명의 아이들)
+@intro **지난 이야기** — 10월 7일 새벽 베링뷔 아파트에서 폭발이 일어났다. 문이 날아간 집은 룬드 노부부의 집이었지만, 진짜 표적은 2024년 Zenit 재판에서 증언한 뒤 보호 주민등록을 받은 "증인"의 옛 주소였다. 그날 밤 헨릭은 체포된 15세 소년의 텔레그램 일감에 "국세청 기준 최근 주소"라는 한 줄이 있었다고 전했다 — 누군가 주소를 흘렸다. 또.
+@intro 이틀 뒤 목요일 아침, Källaren. 인턴 노아는 어제 하루 종일 공개 채널들을 뒤져 일감 채널의 이름을 찾아냈지만 아직 들어가지는 못했다. 빅토르는 종이 수첩을 펴고, 노아에게 10대들의 말을 처음부터 가르쳐 달라고 한다.
+# 장면 1 — 아침 9시, Källaren (노아의 슬랭 강의)
+Viktor|A1|Okej, Noah. Lär mig.|좋아, 노아. 가르쳐 줘.
+Noah|A1|Nu? Före kaffet?|지금요? 커피도 안 마셨는데요?
+Amira|A1|Här. Svart. Börja.|여기. 블랙. 시작해.
+Noah|A2|Tack. Okej, första ordet är ”para”.|고마워요. 좋아요, 첫 번째 단어는 '파라'예요.
+Viktor|A1|Para?|파라?
+Noah|A2|Pengar. ”Fet para” betyder mycket pengar.|돈이요. '페트 파라'는 큰돈이라는 뜻이에요.
+Viktor|A1|Vem sa det först?|그 말 누가 처음 했어?
+Noah|B1|Det kommer från turkiskan, tror jag. Ordet har funnits i förorten sedan nittiotalet.|터키어에서 온 것 같아요. 90년대부터 교외에서 쓰던 말이에요.
+Viktor|B1|Jag frågade inte varifrån det kommer. Jag frågade vem som sa det först.|어디서 왔는지 물은 게 아니야. 누가 처음 그 말을 했는지 물었지.
+Noah|A2|Det vet jag inte. Ingen vet det.|그건 모르죠. 아무도 몰라요.
+Amira|B1|Han gör så med alla ord. Skriv ner det, Viktor, annars frågar du igen om en timme.|저 사람 단어마다 저래. 적어 둬, 빅토르. 안 그러면 한 시간 뒤에 또 물어볼 거잖아.
+Viktor|A1|Jag skriver. Nästa.|적고 있어. 다음.
+Noah|A2|”Bror.” Alla är bror, även folk man inte känner.|'브로르(형제)'. 다 형제예요. 모르는 사람까지도요.
+Viktor|A2|Och ”jobb”? Det ordet sa du i tisdags.|그럼 '욥(일)'은? 그 말 화요일에 네가 했잖아.
+Noah|B1|Ett jobb kan vara vad som helst, från att gömma en väska till att skjuta mot ett fönster.|일감은 뭐든 될 수 있어요. 가방 하나 숨기는 것부터 창문에 총 쏘는 것까지요.
+Amira|A1|Och emojierna?|그리고 이모지는?
+Noah|B1|En dörr och en smäll betyder sprängning. En pistol betyder skott, och en dödskalle betyder att det är något större.|문이랑 '쾅'은 폭파예요. 권총은 총격이고, 해골은 뭔가 더 큰 일이라는 뜻이에요.
+Viktor|A1|Något större?|더 큰 일?
+Noah|A2|Det skriver ingen ut. Man förstår ändå.|그건 아무도 대놓고 안 써요. 그래도 다 알아들어요.
+Amira|A2|Fråga om ”aina”, Viktor. Det kan du redan.|'아이나' 물어봐, 빅토르. 그건 이미 알잖아.
+Viktor|B1|Polisen. Det ordet har jag hört i femton år som kriminalreporter.|경찰. 그 말은 사건기자 15년 동안 들었지.
+Noah|A2|Okej, du är bättre än jag trodde. Det sista ordet är viktigast.|오, 생각보다 잘 아시네요. 마지막 단어가 제일 중요해요.
+Viktor|A1|Vilket?|뭔데?
+Noah|B1|”Ta en tur” betyder inte att man åker på semester. Det betyder att man gör ett jobb.|'한 바퀴 돈다'는 건 휴가 간다는 뜻이 아니에요. 일감을 한다는 거예요.
+Viktor|B2|Så när en femtonåring säger till sin mamma att han ska ta en tur i kväll, låter det lika oskyldigt som om han skulle gå och köpa mjölk.|그러니까 열다섯 살짜리가 엄마한테 오늘 밤 한 바퀴 돌고 온다고 하면, 우유 사러 간다는 말만큼이나 아무렇지 않게 들리는 거네.
+Noah|B2|Precis. Föräldrarna hör inget konstigt, lärarna hör inget konstigt, och det är hela poängen: språket är byggt för att vuxna inte ska hänga med i svängarna.|맞아요. 부모도 이상한 걸 못 듣고, 선생님도 못 들어요. 그게 핵심이에요. 이 말은 어른들이 말귀를 못 알아듣게 만들어진 거예요.
+Viktor|B2|Någon har byggt det, alltså. Ord sprider sig av sig själva, men en kod som ser likadan ut i varje kanal har oftast en avsändare.|그러니까 누군가 만들었다는 거지. 말은 저절로 퍼지지만, 모든 채널에서 똑같이 생긴 암호에는 대개 보낸 사람이 있어.
+Amira|B1|Eller så har tusen ungar kopierat varandra på Tiktok. Det är också möjligt.|아니면 애들 천 명이 틱톡에서 서로 베꼈거나. 그것도 가능해.
+Viktor|A2|Kanske. Därför frågar jag vem.|그럴지도. 그래서 누구냐고 묻는 거야.
+Noah|B2|Jag hittade namnet på kanalen i går, efter att ha läst ungefär tusen kommentarer. Den heter ”Uppdrag Sthlm”, men utan en inbjudan kommer man inte in, hur mycket man än letar.|어제 댓글을 천 개쯤 읽고 나서 채널 이름을 찾았어요. 'Uppdrag Sthlm'이라는데, 초대 링크 없이는 아무리 찾아도 못 들어가요.
+# 장면 2 — 오전 11시, Källaren (가짜 계정 "Mille"과 채널 입장)
+Amira|A2|Då behöver vi en nyckel. Är det där telefonen?|그럼 열쇠가 필요하네. 그게 그 폰이야?
+Viktor|A1|Vems är den?|누구 거야?
+Noah|B2|Tidningens. Det är en begagnad telefon från it-avdelningen, och kontantkortet köpte jag med företagskortet, så att allt kan redovisas om någon frågar. Kvittot ligger i pärmen.|신문사 거요. IT팀에서 받은 중고폰이고, 선불 유심은 법인카드로 샀어요. 누가 물어보면 전부 증빙할 수 있게요. 영수증은 파일철에 있어요.
+Amira|A2|Har du återställt den?|초기화했어?
+Noah|A2|Två gånger. Inga gamla konton, inga bilder.|두 번이요. 옛날 계정도, 사진도 없어요.
+Viktor|A1|Och kontot?|그리고 계정은?
+Noah|A2|Jag skapade kontot i går kväll. Det är helt tomt.|어젯밤에 계정을 만들었어요. 완전히 비어 있어요.
+Amira|B2|Ett helt tomt konto väcker misstankar. Det måste se ut som en riktig sextonåring utan att vara det, för annars lånar vi ett liv som vi inte har rätt till.|완전히 빈 계정은 의심을 사. 진짜 열여섯 살처럼 보여야 하지만 진짜여선 안 돼. 안 그러면 우리한테 권리도 없는 누군가의 삶을 빌리는 거니까.
+Noah|A1|Mille, sexton, Skärholmen?|밀레, 16, 셰르홀멘?
+Viktor|A1|Varför Skärholmen?|왜 셰르홀멘이야?
+Noah|B1|För att det ligger långt från Vällingby. Och för att ingen frågar varför en kille därifrån vill ha jobb.|베링뷔에서 멀어서요. 그리고 거기 사는 애가 왜 일감을 원하냐고 묻는 사람은 없으니까요.
+Amira|A2|Smart. Och lite sorgligt. Profilbild?|똑똑하네. 좀 슬프기도 하고. 프로필 사진은?
+Noah|B1|Inget ansikte. Jag tog en bild på mina gamla fotbollsskor på en asfaltsplan i går.|얼굴은 없어요. 어제 아스팔트 운동장에서 제 옛날 축구화를 찍었어요.
+Viktor|A2|Dina egna skor? Inte en bild från nätet?|네 신발이야? 인터넷 사진 말고?
+Noah|B2|Om jag hade tagit en bild från nätet skulle vem som helst kunna söka fram den. Då vore Mille död på fem minuter.|인터넷 사진을 썼다면 누구든 이미지 검색으로 찾아낼 수 있었을 거예요. 그럼 밀레는 5분 만에 끝났겠죠.
+Amira|A1|Bra. Nu: inbjudan.|좋아. 이제 초대 링크.
+Noah|B1|Kanalen är privat, men jag har sett namnet i kommentarer under en öppen kanal som heter ”Söderort Snack”.|채널은 비공개인데, '쇠데르오르트 스낙'이라는 공개 채널 댓글에서 이름을 봤어요.
+Amira|B1|Kolla det fästa meddelandet högst upp. Sådana kanaler gömmer ofta länkar där.|맨 위에 고정된 메시지 확인해 봐. 그런 채널들은 링크를 거기 자주 숨겨.
+Noah|A2|Där! En länk. Ingen text, bara en nyckel.|저기! 링크요. 글은 없고 열쇠 이모지 하나뿐이에요.
+Viktor|A1|Klicka inte än.|아직 누르지 마.
+Noah|A1|Varför inte?|왜요?
+Viktor|A2|Vad är klockan? Skriv ner den först.|몇 시야? 먼저 그것부터 적어.
+Noah|A2|Elva och sjutton. Torsdag den nionde oktober.|11시 17분. 10월 9일 목요일.
+Viktor|A1|Nu. Klicka.|이제. 눌러.
+Bot|A2|Välkommen. Läs reglerna innan du skriver något.|환영합니다. 무언가 쓰기 전에 규칙을 읽으십시오.
+Noah|A2|Det är en bot. Den svarar automatiskt.|봇이에요. 자동으로 답하는 거예요.
+Bot|B1|Inga frågor i chatten. Inga skärmdumpar. Den som läcker härifrån blir hittad.|채팅방 질문 금지. 캡처 금지. 여기서 유출하는 자는 찾아낸다.
+Viktor|B2|”Blir hittad.” Det är inte ett uttryck som en femtonåring skulle välja, utan det låter som någon som är van vid att hota och vill att det ska låta som en regel.|'찾아낸다.' 열다섯 살짜리가 고를 표현이 아니야. 협박에 익숙한 사람이 그걸 규칙처럼 들리게 하려는 말투야.
+Amira|B1|Skärmdumpa allt, med klockslag. Kan vi inte bevisa det, så har det aldrig hänt.|전부 캡처해, 시각까지. 증명 못 하면 없던 일이야.
+Noah|B1|Det går inte. Jag försökte nyss, och bilden blev helt svart.|안 돼요. 방금 해 봤는데 화면이 완전히 까맣게 나왔어요.
+Amira|B2|Jävlar. Då fotograferar vi skärmen med min kamera i stället och låter telefonens klocka synas i varje bild, så att ingen i efterhand kan påstå att vi har hittat på något.|젠장. 그럼 대신 내 카메라로 화면을 찍자. 사진마다 폰 시계가 보이게 해서, 나중에 아무도 우리가 지어냈다고 우기지 못하게.
+Bot|A2|Prislista. Uppdaterad 1 oktober.|가격표. 10월 1일 업데이트.
+Viktor|A1|Vad kostar det?|얼마래?
+Noah|B1|Dörr med smäll: trettio till femtio. Fönster med skott: tjugo. Och dödskallen, där står det bara ”skriv till admin”.|문 폭파: 30에서 50. 창문 총격: 20. 그리고 해골은, 그냥 '관리자에게 연락'이라고만 써 있어요.
+Viktor|A1|I tusentals kronor?|천 크로나 단위야?
+Noah|A2|Ja. ”Trettio” är trettiotusen. Alla vet det.|네. '30'은 3만이에요. 다 알아요.
+Amira|A2|Fotat. Elva och tjugotvå. Nästa skärm.|찍었어. 11시 22분. 다음 화면.
+Viktor|B2|Det är första gången jag ser ett liv prissatt som en begagnad cykel, och det skrämmer mig mer än själva siffrorna.|사람 목숨에 중고 자전거처럼 값이 매겨진 건 처음 봐. 숫자 자체보다 그게 더 무서워.
+# 장면 3 — 오후 2시, 소피아의 사무실 (위장 취재의 선)
+Sofia|B1|Stäng dörren, Noah. Det här samtalet stannar i det här rummet.|문 닫아, 노아. 이 대화는 이 방 밖으로 안 나가.
+Noah|A1|Okej. Stängd.|네. 닫았어요.
+Lars|B2|Låt mig börja med det tråkiga. Ett dolt konto är inte olagligt i sig, men det är publicitetsreglerna och ert eget omdöme som avgör om det går att försvara.|지루한 얘기부터 하겠습니다. 위장 계정 자체는 불법이 아닙니다. 하지만 그게 정당화될 수 있는지는 언론윤리 규칙과 여러분 자신의 판단이 정합니다.
+Sofia|B2|Och mina tre villkor, som jag gav Viktor i går. Ett: allmänintresset måste vara stort. Två: det får inte finnas något annat sätt att få fram uppgifterna.|그리고 어제 빅토르한테 말한 내 세 가지 조건. 하나, 공익이 커야 해. 둘, 그 정보를 얻을 다른 방법이 없어야 해.
+Viktor|A1|Och tre?|그리고 셋은?
+Sofia|B1|Tre: ni för en loggbok. Varje dag, varje klick, varje meddelande. Jag läser den varje kväll.|셋, 취재 일지를 써. 매일, 클릭 하나, 메시지 하나까지. 내가 매일 저녁 읽을 거야.
+Noah|A2|Varje klick? Även när jag bara scrollar?|클릭 하나까지요? 그냥 스크롤만 해도요?
+Sofia|A1|Även då.|그때도.
+Amira|B1|Vi har redan börjat. Klockslag, foton av skärmen och vad vi gjorde. Allt ligger i en mapp som bara vi fyra kommer åt.|이미 시작했어요. 시각, 화면 사진, 그리고 저희가 한 일까지요. 전부 저희 넷만 들어갈 수 있는 폴더에 있어요.
+Lars|B1|Bra. Då till profilen. Vems ansikte och vems röst använder ni?|좋습니다. 그럼 프로필로 넘어가죠. 누구 얼굴과 누구 목소리를 쓰고 있습니까?
+Noah|A2|Inget ansikte. Bara mina gamla fotbollsskor.|얼굴은 없어요. 제 옛날 축구화뿐이에요.
+Lars|B2|Det är klokt. Ni får under inga omständigheter använda en bild, en röst eller ett namn som tillhör ett verkligt barn, eftersom det barnet då kan pekas ut av människor som är beredda att döda.|현명하군요. 어떤 경우에도 실제 아이의 사진, 목소리, 이름을 써서는 안 됩니다. 그 아이가 사람을 죽일 각오가 된 자들에게 지목될 수 있으니까요.
+Viktor|A2|Det förstår vi. Vad mer?|알아요. 또 뭐가 있죠?
+Lars|B2|Ordet ni ska komma ihåg är brottsprovokation. Inte ens polisen får locka någon att begå ett brott som personen annars inte skulle ha begått.|기억해야 할 단어는 '범죄 유발'입니다. 경찰조차, 그 사람이 원래는 저지르지 않았을 범죄를 저지르도록 꾀어서는 안 됩니다.
+Noah|A2|Men vi gör ju ingenting. Vi läser bara.|그래도 저희는 아무것도 안 하잖아요. 읽기만 해요.
+Lars|B2|Ni får vara flugan på väggen, men i samma stund som ni beställer något är ni inte längre journalister.|벽에 붙은 파리는 돼도 좋지만, 뭔가를 주문하는 순간 더 이상 기자가 아닙니다.
+Sofia|B1|Vi får titta, men vi får inte beställa något eller uppmuntra brott. Inte ens på skämt.|우린 봐도 되지만, 아무것도 주문하거나 범죄를 부추겨선 안 돼. 농담으로라도.
+Amira|B1|Och om någon unge skriver till Mille privat? Det kommer att hända.|그런데 어떤 애가 밀레한테 개인 메시지를 보내면요? 분명 그럴 거예요.
+Lars|B2|Då svarar ni inte, hur gärna ni än vill hjälpa. Ett barn som tror att det pratar med en jämnåring kan inte ge sitt samtycke till att bli citerat.|그럼 답하지 마세요, 아무리 돕고 싶어도요. 또래와 얘기한다고 믿는 아이는 인용되는 데 동의할 수가 없습니다.
+Viktor|B1|Och om ett barn skriver att det ska göra ett jobb i kväll? Då kan vi inte bara titta.|그럼 아이가 오늘 밤 일감을 하겠다고 쓰면요? 그땐 보고만 있을 순 없잖아요.
+Sofia|B2|Nej. Finns det en konkret fara för någons liv ringer vi polisen direkt, och om kontot bränns får tidningen ta smällen.|그렇지. 누군가의 목숨이 구체적으로 위험하면 바로 경찰에 신고해. 그래서 계정이 날아가면 그건 신문사가 감수할 몫이야.
+Noah|A1|Vänta. Det plingar.|잠깐요. 알림 왔어요.
+Admin|B1|Mille. Ny här? Skicka ett röstmeddelande och säg vem du är, så vi vet att du inte är aina.|밀레. 신입? 음성 메시지 보내서 너 누군지 말해. 짭새 아닌지 알게.
+Noah|A1|Vad gör jag?|어떻게 해요?
+Sofia|A1|Nej. Ingen röst.|안 돼. 목소리는 안 돼.
+Noah|B1|Om jag inte svarar alls blir han misstänksam. Då kanske han kastar ut Mille.|아예 답을 안 하면 의심할 거예요. 그럼 밀레를 쫓아낼지도 몰라요.
+Amira|B1|Skriv något som en sextonåring skulle skriva. Kort, slarvigt, inga punkter.|열여섯 살이 쓸 법한 걸 써. 짧게, 대충, 마침표 없이.
+Noah|A2|”micken e paj sorry skickar sen.” Funkar det?|'마이크 고장 ㅈㅅ 나중에 보냄.' 이거면 돼요?
+Lars|B2|Formellt sett är det en lögn, men en lögn som skyddar granskningen och inte uppmuntrar någon till brott ryms inom det jag kan försvara.|형식적으로는 거짓말이죠. 하지만 취재를 보호하고 아무도 범죄로 부추기지 않는 거짓말이라면, 제가 변호할 수 있는 범위 안에 있습니다.
+Sofia|A1|Skicka.|보내.
+Admin|A1|ok. men inga jobb utan röst|ㅇㅋ. 근데 목소리 없으면 일감 없음
+Noah|A2|Han köpte det. Vi är kvar i kanalen.|믿었어요. 아직 채널 안에 있어요.
+Viktor|B1|Bra. Då kan Mille aldrig få ett jobb, och det är precis vad vi vill.|좋아. 그럼 밀레는 절대 일감을 못 받아. 딱 우리가 원하는 거야.
+Sofia|B2|Att det ens finns en prislista säger något om hur normaliserat våldet har blivit. Den meningen vill jag kunna publicera, men först när varje siffra är belagd.|가격표라는 게 존재한다는 것 자체가 폭력이 얼마나 일상이 됐는지를 말해 줘. 그 문장은 꼭 싣고 싶어. 하지만 숫자 하나하나가 다 입증된 다음에.
+Lars|B1|Och spara allt. Om polisen vill ha materialet pratar ni med mig först.|그리고 전부 보관하세요. 경찰이 자료를 원하면 먼저 저와 이야기하십시오.
+# 장면 4 — 저녁 7시 반, Källaren (아미라의 돈 흐름 분석)
+Amira|B1|Okej, jag har scrollat igenom kanalens historik ända tillbaka till augusti. Kom och titta.|좋아, 채널 기록을 8월까지 쭉 훑었어. 와서 봐.
+Viktor|A1|Hur betalar de?|어떻게 돈을 줘?
+Amira|B1|På tre sätt. Kontanter i ett kuvert, krypto till en plånbok, eller Swish från ett nummer som tillhör någon annan.|세 가지야. 봉투에 넣은 현금, 지갑으로 보내는 암호화폐, 아니면 다른 사람 명의 번호로 스위시.
+Noah|A2|Någon annan? Vem då?|다른 사람이요? 누구요?
+Amira|B2|En målvakt. Någon som har lånat ut sitt namn och sitt bankkonto för några tusenlappar, ofta utan att förstå att det är hen som åker dit när polisen väl följer pengarna.|바지사장. 몇천 크로나 받고 자기 이름이랑 은행 계좌를 빌려준 사람. 경찰이 막상 돈을 따라오면 걸려드는 게 자기라는 걸 모르는 경우가 많지.
+Viktor|A2|Hur vet du det? Visar de det öppet?|그걸 어떻게 알아? 대놓고 보여 줘?
+Amira|B2|Ungarna gör det åt dem. De lägger upp kvitton som bevis på att de har fått betalt, och även om de suddar ut namnen glömmer de nästan alltid numret.|애들이 대신 보여 줘. 돈 받았다는 증거로 영수증을 올리거든. 이름은 지워도 번호는 거의 항상 깜빡해.
+Noah|A1|Hur många kvitton?|영수증이 몇 개예요?
+Amira|A2|Fjorton stycken. Men bara tre olika nummer.|열네 장. 근데 번호는 딱 세 개야.
+Viktor|A1|Visa tabellen.|표 보여 줘.
+Amira|B1|Nummer ett förekommer sex gånger, nummer två fem gånger och nummer tre tre gånger. Alla betalningar kom mitt i natten.|1번 번호가 여섯 번, 2번이 다섯 번, 3번이 세 번 나와. 전부 한밤중에 들어온 돈이야.
+Noah|B1|Om vi swishar en krona till numret ser vi ju namnet direkt. Det tar tio sekunder.|그 번호로 1크로나만 스위시하면 이름이 바로 뜨잖아요. 10초면 돼요.
+Viktor|A1|Nej.|안 돼.
+Noah|A1|Varför inte?|왜요?
+Amira|B2|För att det är att röra vid dem. En betalning från oss lämnar ett spår hos dem, och då vet de att någon tittar innan vi ens vet vilka de är.|그건 저쪽을 건드리는 거니까. 우리가 보낸 돈은 저쪽에 흔적을 남겨. 그럼 우리가 저쪽이 누군지 알기도 전에, 저쪽이 누가 보고 있다는 걸 알게 돼.
+Viktor|B1|Och det står inte i Sofias loggbok. Ett sådant steg tar vi med henne först.|그리고 그건 소피아 일지에 없는 일이야. 그런 단계는 소피아랑 먼저 상의해.
+Noah|A2|Okej. Förlåt. Jag tänkte inte.|알겠어요. 죄송해요. 생각을 못 했어요.
+Viktor|A2|Du tänkte snabbt. Det är en annan sak.|빨리 생각한 거지. 그건 다른 얘기야.
+Amira|A2|Här är något viktigare. Den sjätte oktober, kvart i elva på kvällen.|더 중요한 게 있어. 10월 6일 밤 10시 45분.
+Noah|A1|Vad står det?|뭐라고 써 있어요?
+Amira|A2|”Vällingby. Dörr. Smäll. 50k. I natt.” Fyra och en halv timme före smällen.|'베링뷔. 문. 쾅. 50k. 오늘 밤.' 폭발 네 시간 반 전이야.
+Viktor|A2|Femtio. Samma summa som i Brevlådan.|50. 브레블로단이랑 같은 액수네.
+Noah|B2|Så tipsaren visste vad jobbet var värt. Antingen har hen sett samma inlägg som vi, eller så står hen närmare kanalen än vi tror.|그럼 제보자는 그 일감이 얼마짜리인지 알았던 거네요. 우리랑 같은 게시물을 봤거나, 아니면 우리가 생각하는 것보다 채널에 더 가까운 사람이거나요.
+Viktor|B1|Kanske. Men vi letar inte efter tipsaren. Vi letar efter den som betalar.|그럴지도. 하지만 우린 제보자를 찾지 않아. 돈 내는 사람을 찾는 거야.
+Amira|B1|Och här kommer det värsta. Läs regel fyra längst ner i prislistan.|그리고 이게 최악이야. 가격표 맨 아래 4번 규칙 읽어 봐.
+Noah|A2|”Inget förskott. Betalt när jobbet är klart.”|'선금 없음. 일 끝나면 지급.'
+Amira|B1|Inget förskott, bara betalt om jobbet lyckas. Fel dörr betyder noll kronor, jävlar.|선금 없음, 성공해야 지급. 엉뚱한 문이면 0크로나야, 젠장.
+Noah|B1|Men Brevlådan skrev ju att pojken fick femtiotusen.|그런데 브레블로단에는 그 애가 5만을 받았다고 써 있었잖아요.
+Amira|A2|Han fick ett löfte. Det är inte samma sak.|약속을 받은 거지. 그건 다른 얘기야.
+Viktor|B2|Då riskerade han livet och hela sin framtid för ett löfte, medan den som lovade inte har förlorat en enda krona.|그럼 그 애는 약속 하나에 목숨이랑 미래 전부를 건 거야. 약속한 쪽은 1크로나도 안 잃었는데.
+Amira|B1|Kanalen vaknar efter midnatt. Någon måste titta i natt, men inte jag. Jag har inte sovit ordentligt sedan i tisdags.|채널은 자정 넘어야 깨어나. 오늘 밤 누군가 봐야 하는데, 나는 아니야. 화요일부터 제대로 못 잤어.
+Noah|A2|Jag tar det. Jag sover ändå aldrig.|제가 할게요. 어차피 잠 안 자요.
+Amira|B2|Ta min kamera, och skriv in klockslaget för varje bild i loggboken, även om det känns meningslöst klockan tre på natten.|내 카메라 가져가. 그리고 사진마다 시각을 일지에 적어. 새벽 세 시에 그게 아무 의미 없게 느껴지더라도.
+Viktor|B1|Okej. Men du skriver ingenting och svarar ingen. Och om något händer ringer du mig, oavsett vad klockan är.|좋아. 하지만 아무것도 쓰지 말고 아무한테도 답하지 마. 그리고 무슨 일 생기면 몇 시든 나한테 전화해.
+# 장면 5 — 10일 금요일 새벽 1시, 프루엥엔, 노아의 원룸
+Kanalen|A1|är det farlit?|위험해여?
+Noah|A2|”Farlit.” Med t. Han har aldrig sett ordet skrivet.|'위험해여'래. 철자도 틀렸어. 이 단어를 글로 본 적이 없는 거야.
+Kanalen|A2|hur mkt får man om man e 14|14살이면 얼마 받음
+Noah|B1|Fjorton. Han skriver det själv, men jag visste det redan när jag såg stavningen.|열네 살. 자기 입으로 쓰네. 근데 철자 보자마자 이미 알았어.
+Kanalen|A1|nån som har jobb ikväll??|오늘밤 일감 있는 사람??
+Noah|A2|Gå och lägg dig, lillebror. Snälla.|가서 자, 꼬마야. 제발.
+Admin|A1|Nytt jobb. Större. Läs noga.|새 일감. 더 큰 거. 잘 읽어.
+Noah|A2|Suddig. Igen. Mina händer skakar för mycket.|흐려. 또. 손이 너무 떨려.
+Viktor|A1|Hallå? Noah?|여보세요? 노아?
+Noah|B1|Viktor? Sorry att jag ringer så här sent, men du måste se det här.|빅토르? 이렇게 늦게 전화해서 미안한데, 이거 보셔야 해요.
+Viktor|A2|Jag är vaken. Andas. Läs högt för mig.|안 자고 있어. 숨 쉬어. 소리 내서 읽어 봐.
+Kanalen|A2|jag kan ta det. hur mkt e bra para|내가 할 수 있음. 보수 좋음이 얼마임
+Noah|A2|”En journalist. Kungsholmen. Bra para.” … Viktor, det är ju vi.|'기자 한 명. 쿵스홀멘. 보수 좋음.' … 빅토르, 이거 우리잖아요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vad kostar det?** | 그거 얼마예요? | 가장 기본적인 가격 질문. 이번 화에서는 끔찍하게도 "목숨값"을 묻는 말이 된다 |
+| `A2` | **Jag skapade kontot i går kväll.** | 어젯밤에 계정을 만들었어요. | *skapa – skapade* (과거형). *i går kväll* = 어젯밤 |
+| `B1` | **'Ta en tur' betyder inte att man åker på semester.** | '한 바퀴 돈다'는 휴가 간다는 뜻이 아니에요. | *ta en tur* = 한 바퀴 돌다(원래 뜻). 극중 은어에서는 "일감을 하다" |
+| `B1` | **Vi får titta, men vi får inte beställa något eller uppmuntra brott.** | 우린 봐도 되지만, 아무것도 주문하거나 범죄를 부추겨선 안 돼. | *få* = ~해도 된다, *får inte* = ~하면 안 된다 (허가·금지) |
+| `B2` | **Att det ens finns en prislista säger något om hur normaliserat våldet har blivit.** | 가격표라는 게 존재한다는 것 자체가 폭력이 얼마나 일상이 됐는지를 말해 준다. | *att*-절이 문장의 주어. *ens* = ~조차, ~라는 것 자체가 |
+| `B2` | **Ni får vara flugan på väggen, men i samma stund som ni beställer något är ni inte längre journalister.** | 벽에 붙은 파리는 돼도 좋지만, 뭔가를 주문하는 순간 더 이상 기자가 아닙니다. | *vara flugan på väggen* = 몰래 지켜보는 관찰자가 되다. *i samma stund som* = ~하는 바로 그 순간 |
+| 구어 | **hänga med i svängarna** | 흐름을 따라가다, 말귀를 알아듣다 | *Språket är byggt för att vuxna inte ska hänga med i svängarna.* |
+| 언론·법 | **brottsprovokation** | 범죄 유발 | 누군가를 꾀어 범죄를 저지르게 하는 것. 수사기관도 원칙적으로 금지, 기자는 더더욱 |
+
+## 저널리즘·법 메모
+스웨덴 언론의 자율 윤리 규칙(**publicitetsregler**)은 위장 취재를 원칙적으로 경계한다. 그래서 소피아는 세 가지 조건을 건다 — 공익이 클 것, 다른 방법이 없을 것, 모든 행동을 기록한 취재 일지(*loggbok*)를 발행책임자에게 매일 보고할 것. 라르스가 짚는 선은 더 구체적이다. 기자는 관찰자(*flugan på väggen*)로만 남아야 하며, 무언가를 주문하거나 범죄를 부추기는 순간 **brottsprovokation**(범죄 유발)이 되어 기사도, 기자로서의 정당성도 무너진다. 실제 아이의 얼굴·목소리·이름을 빌리는 것은 그 아이를 위험에 빠뜨리므로 금지되고, 또래인 줄 알고 말을 거는 아이에게 답하는 것도 안 된다 — 아이는 인용될 것을 알고 동의할 수 없기 때문이다. 다만 생명에 대한 구체적 위험이 보이면 취재보다 신고가 먼저다.
+
+## 문화·현안 메모
+- **교외 슬랭(*förortssvenska*)** — *para*(돈, 터키어에서), *aina*(경찰), *bror*(형제·친구)처럼 스톡홀름 교외 10대들의 말에는 터키어·아랍어·페르시아어 등에서 온 단어가 많다. 극중 *ta en tur*의 은어 뜻과 이모지 암호는 드라마를 위한 허구적 설정이다.
+- **Swish** — 휴대폰 번호와 은행 계좌를 연결한 스웨덴 국민 송금 앱. 돈을 보내면 받는 사람의 이름이 표시되기 때문에, 극중 아미라는 "1크로나 보내 보기"가 곧 상대를 건드리는 일이 된다고 막는다.
+- **målvakt(바지사장)** — 원래 뜻은 축구의 "골키퍼". 범죄 은어로는 돈을 받고 자기 이름·계좌·회사를 빌려주는 사람을 말한다. 2부의 핵심 단어이기도 하다.
+- **Fruängen과 Skärholmen** — 둘 다 스톡홀름 남서부 교외(*söderort*)의 동네로, 지하철 레드라인으로 연결된다. 가짜 계정 "Mille, 16, Skärholmen"은 실존 인물이 아니다.
+
+## 다음 화 예고
+> 체포된 소년 욘테는 이례적으로 구속된다. 후스뷔의 어머니 파올라, 그리고 기자를 믿지 않는 청소년 활동가 데얀 — "일주일 전에 시청 사람이 왔었어요."
