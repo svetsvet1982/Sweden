@@ -1,0 +1,187 @@
+@title 5부 5화 — LVU
+@subtitle (아동보호법)
+@meta 날짜|2026년 7월 29일 수요일 오전 8시 40분 ~ 밤 10시 50분경
+@meta 장소|노르비크 시 사회복지사무소 (입구 가방 검사, 방탄유리 창구, 12호실, 오전 8시 40분) → 노르비크 시립도서관 그룹 스터디룸 (오전 11시 15분) → Källaren, 노아의 책상 앞 모니터 두 대 (오후 2시 반) → 바사가탄의 간판 없는 사무실, 회의실과 화장실 앞 복도 (오후 3시 30분 ~ 3시 52분) → Stockholmsposten 지하 주차장, 아미라의 차 안 (밤 10시 20분 ~ 10시 50분경)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Hiba** (히바 카림, 39, 노르비크 시 사회복지사 — 아동·가족 담당) · **Ove** (오베, 60대, 사회복지사무소 경비원) · **Rasha** (라샤, 34, 노르비크에 사는 어머니 — 가명 보도 조건) · **Noah** (노아 베리룬드, 24, 기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Moa** (모아 린드 — 엘린 셰크비스트의 위장 인물) · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자) · **Ida** (이다 발린, 29, 디지털팀 관리자) · **Albin** (알빈 "케브" 룬드, 26, 디지털팀 밈 제작자) · **Theo** (테오 말름, 36, Hemlandspartiet 커뮤니케이션 책임자)
+@intro **지난 이야기** — 모아의 첫 출근 날, 알빈은 커피 머신과 "페르소나 시트"와 아무도 못 올라가는 위층을 보여 줬다. 테오는 "우린 거짓말 안 해, 감정을 최적화할 뿐"이라고 했고, 이다는 모아의 호수 사진 두 장을 지웠다. 그날 밤 탄토 공원에서 아미라는 엘린이 손목에 적어 온 '스티나'가 AI 얼굴이라는 걸 확인했고, 엘린은 녹음 메모에 속삭였다. "폴더 이름은 '사회복지청 프로젝트'. 오늘 아침에 수정됐어요."
+@intro 9일 뒤인 7월 29일 수요일. 주말 사이 아랍어권 채널에서 "스웨덴 사회복지청이 무슬림 아이들을 납치한다"는 영상이 다시 돌기 시작했고, 이번에는 노르비크의 한 사회복지사 얼굴과 집 주소가 함께 붙어 있다. 아침 8시 40분, 노르비크 시 사회복지사무소 입구. 빅토르와 아미라 앞에 경비원이 가방 검사대를 밀어 놓는다.
+# 장면 1 — 오전 8시 40분, 노르비크 시 사회복지사무소 (입구의 가방 검사대, 인터폰이 달린 방탄유리 창구, 블라인드를 내린 12호실, 책상 위 비상벨 버튼)
+Ove|A1|Väskan, tack.|가방 주세요.
+Viktor|A2|Varsågod. Det är bara en anteckningsbok och en penna.|여기요. 수첩이랑 펜뿐이에요.
+Ove|A1|Och du? Dator?|그쪽은요? 노트북?
+Amira|A2|En dator och en laddare. Ingen kamera.|노트북이랑 충전기요. 카메라는 없어요.
+Ove|B1|Ni är de första journalisterna i juli som frågar innan ni filmar entrén. I måndags stod två killar här med telefoner i en timme.|7월 들어 입구 찍기 전에 물어본 기자는 처음이네요. 월요일엔 남자 둘이 휴대폰 들고 여기 한 시간을 서 있었어요.
+Viktor|A1|Var de journalister?|기자였어요?
+Ove|B1|Nej. De sa att de kom från ”folket”, och de ville att socialsekreteraren skulle komma ut och svara dem.|아니요. '국민'에서 왔다더군요. 그 사회복지사더러 나와서 대답하라고요.
+Amira|A1|Kom hon ut?|나왔어요?
+Ove|A2|Genom garaget, med polisen. Hon fick ett hot på telefonen i går kväll.|차고로요, 경찰이랑. 어젯밤엔 전화로 협박을 받았어요.
+Hiba|A1|Ove? Släpp in dem, tack.|오베? 들여보내 주세요, 고마워요.
+Ove|A2|Rum tolv, bakom glaset. Hon väntar på er.|12호실, 유리 뒤예요. 기다리고 계세요.
+Hiba|B1|Ursäkta glaset. Det sattes upp 2022, och vi trodde att vi aldrig skulle behöva det igen.|유리는 양해해 주세요. 2022년에 설치됐는데, 다시는 필요 없을 줄 알았어요.
+Viktor|A2|Tack för att du tar emot oss. Det här är Amira.|만나 주셔서 고맙습니다. 이쪽은 아미라예요.
+Amira|A2|Hej. Vi kan prata svenska eller arabiska, som du vill.|안녕하세요. 스웨덴어로 해도 되고 아랍어로 해도 돼요, 편하신 대로요.
+Hiba|B1|Svenska. Det är mitt jobbspråk, och om jag pratar arabiska om det här börjar jag gråta. Yalla, sätt er.|스웨덴어로 해요. 제 업무 언어고요, 이 얘기를 아랍어로 하면 울기 시작할 거예요. 자, 앉으세요.
+Viktor|B1|Innan vi börjar: vi fotograferar dig inte, och vi skriver inte ditt namn om du inte vill.|시작하기 전에요. 사진은 찍지 않고, 원하지 않으시면 이름도 쓰지 않겠습니다.
+Hiba|B2|Mitt ansikte finns redan på tiotusen telefoner, med min adress under. Men tack. Skriv ”en socialsekreterare i Norrvik”. Jag vill inte att min son ska googla sin mamma och hitta en tidning också.|제 얼굴은 이미 전화기 만 대에 떠 있어요, 밑에 주소까지 달고요. 그래도 고마워요. "노르비크의 한 사회복지사"라고 써 주세요. 아들이 엄마 이름을 검색했다가 신문까지 찾아내는 건 원치 않아요.
+Viktor|A1|Hur gammal är han?|아드님이 몇 살이에요?
+Hiba|B1|Tolv. I söndags frågade han om det var sant att jag tar barn från deras mammor. Han hade sett videon på en kompis telefon.|열두 살이요. 지난 일요일에 엄마가 아이들을 엄마들한테서 빼앗는 게 사실이냐고 묻더라고요. 친구 휴대폰으로 그 영상을 봤대요.
+Amira|A2|Vad svarade du honom?|아드님한테 뭐라고 하셨어요?
+Hiba|B2|Att jag inte kan ta ett enda barn. Ingen socialsekreterare kan det. Vi utreder, vi erbjuder hjälp, och i de allvarligaste fallen kan nämnden ansöka hos förvaltningsrätten. Det är domstolen som beslutar, inte jag.|엄마는 아이를 한 명도 데려갈 수 없다고요. 어떤 사회복지사도 못 해요. 우린 조사하고, 도움을 제안하고, 가장 심각한 경우에만 위원회가 행정법원에 신청할 수 있어요. 결정하는 건 법원이지, 제가 아니에요.
+Viktor|A2|Amira, vad säger videon exakt?|아미라, 영상이 정확히 뭐라고 해?
+Amira|B2|Samma sak som för fyra år sedan, nästan ord för ord: att svenska myndigheter kidnappar muslimska barn, ger dem till familjer som ska ta ifrån dem deras religion och aldrig lämnar tillbaka dem. Den här gången har någon lagt till ett namn och en adress. Hennes.|4년 전이랑 똑같아, 거의 토씨 하나 안 틀리고. 스웨덴 당국이 무슬림 아이들을 납치해서 그 아이들의 종교를 빼앗을 가정에 넘기고, 절대 돌려주지 않는다는 거. 이번엔 누가 이름이랑 주소를 하나 덧붙였어. 이분 거.
+Hiba|A1|Jag har inte kidnappat någon.|저는 아무도 납치하지 않았어요.
+Viktor|A2|Hur ser dina morgnar ut nu?|요즘 아침은 어떠세요?
+Hiba|B1|Varje morgon kollar jag under bilen innan jag åker hit. Inshallah är det bara prat.|매일 아침 여기 오기 전에 차 밑을 확인해요. 그냥 말뿐이길 바라죠, 인샬라.
+Viktor|B1|Kan du säga något om familjen som videon påstår att den handlar om?|영상이 다룬다고 주장하는 그 가족에 대해 뭔가 말씀해 주실 수 있나요?
+Hiba|B2|Nej, och det är just det. Om videon ljuger om en familj kan jag inte ens säga att den ljuger, för då har jag bekräftat att familjen finns i våra register. Jag kan inte säga om de är våra, varför de i så fall är det, var barnet bor eller om det ens finns ett barn.|아니요, 바로 그게 문제예요. 영상이 어떤 가족에 대해 거짓말을 해도 거짓말이라고조차 말할 수 없어요. 그 순간 그 가족이 우리 기록에 있다는 걸 확인해 주는 셈이니까요. 그 가족이 우리 대상자인지, 그렇다면 왜인지, 아이가 어디 사는지, 아이가 있기는 한지 — 아무것도 말할 수 없어요.
+Amira|B2|Så medan någon skriver ditt namn under en lögn måste du sitta tyst och låta den stå kvar.|그러니까 누가 거짓말 밑에 선생님 이름을 써 붙여도, 가만히 앉아서 그게 그대로 남아 있게 둘 수밖에 없는 거네요.
+Hiba|B1|Socialtjänsten får inte berätta om enskilda fall, och det utnyttjar de som sprider rykten.|사회복지청은 개별 사건에 대해 말할 수 없어요. 그리고 소문을 퍼뜨리는 사람들은 그걸 이용하죠.
+Viktor|A1|Vad får du säga, då?|그럼 뭘 말씀하실 수 있나요?
+Hiba|B2|Hur lagen fungerar. Att föräldrarna får ett offentligt biträde och tolk, att man först letar efter släktingar som kan ta emot barnet, att vården i de flesta fall prövas igen var sjätte månad, och att målet nästan alltid är att barnet ska hem igen. Allt det där är sant, och ingen delar det.|법이 어떻게 돌아가는지요. 부모에겐 국선 대리인과 통역이 붙고, 아이를 맡을 수 있는 친척부터 먼저 찾고, 대부분의 경우 6개월마다 보호를 계속할지 다시 심사하고, 목표는 거의 언제나 아이가 다시 집에 가는 거라는 것. 그거 다 사실인데, 아무도 공유하지 않아요.
+Viktor|A2|Varför blev du socialsekreterare?|왜 사회복지사가 되셨어요?
+Hiba|B2|När jag var nio satt jag i ett sånt här rum och tolkade åt min mamma, eftersom ingen hade bokat någon tolk. Jag förstod inte hälften av orden. Jag lovade mig själv att ingen mamma skulle behöva sitt barn som tolk igen. Khalas – nu vet ni. Ove följer er ut genom garaget.|아홉 살 때 이런 방에 앉아서 엄마 통역을 했어요. 아무도 통역사를 예약하지 않았거든요. 단어 절반도 못 알아들었죠. 다시는 어떤 엄마도 자기 아이를 통역사로 써야 하는 일이 없게 하겠다고 다짐했어요. 됐어요, 이제 아시겠죠. 오베가 차고로 안내해 드릴 거예요.
+# 장면 2 — 오전 11시 15분, 노르비크 시립도서관 그룹 스터디룸 (유리문 없는 작은 방, 아미라 이름으로 예약, 네 번 접힌 서류 한 장, 아미라의 휴대폰 속 40초짜리 음성 메시지)
+Rasha|A2|Är ni säkra på att ingen ser oss här?|여기선 아무도 우리 못 보는 거 확실해요?
+Amira|A2|Rummet har ingen glasdörr. Jag bokade det i mitt namn.|이 방은 유리문이 없어요. 제 이름으로 예약했어요.
+Rasha|B1|Bra. Min svåger tror att jag är på svenskakursen. Om han visste att jag pratar med en tidning skulle han bli arg.|다행이네요. 시아주버니는 제가 스웨덴어 수업에 간 줄 알아요. 신문사랑 얘기하는 걸 알면 화낼 거예요.
+Viktor|B2|Vi skriver inte ditt namn, och vi beskriver dig inte så noga att någon i Norrvik skulle kunna känna igen dig. Bara ”en mamma”.|이름은 쓰지 않습니다. 노르비크의 누군가가 알아볼 수 있을 만큼 자세히 묘사하지도 않을 거고요. 그냥 "한 어머니"라고만요.
+Rasha|A1|Tack. Det är viktigt.|고마워요. 그게 중요해요.
+Amira|B1|Vi hittade dig genom röstmeddelandet. Vill du att jag spelar det, eller vill du hellre berätta själv?|저희는 음성 메시지로 라샤 씨를 찾았어요. 제가 틀어 드릴까요, 아니면 직접 얘기하시겠어요?
+Rasha|A2|Spela det. Jag vill höra vad jag sa.|틀어 주세요. 제가 뭐라고 했는지 듣고 싶어요.
+Amira|B1|Hon säger: ”Systrar, de har skickat ett papper till mig. De ska ta mina barn. Dela det här, så att alla vet.” Det är fyrtio sekunder, och hon gråter i slutet.|"자매들, 그 사람들이 나한테 서류를 보냈어. 내 아이들을 데려갈 거야. 이거 공유해서 다들 알게 해." 40초짜리고, 끝에 우셔.
+Rasha|A2|Jag skickade det till fem kvinnor. Fem.|다섯 명한테 보냈어요. 다섯 명.
+Viktor|A1|Och sedan?|그다음엔요?
+Amira|B1|Tre dagar senare låg det i en kanal med tvåhundratusen följare, under en video från ett helt annat land. Det spred sig som en löpeld.|사흘 뒤에 팔로워 20만 명짜리 채널에 올라가 있었어, 완전히 다른 나라 영상 밑에. 들불처럼 번졌지.
+Viktor|B1|Varför trodde du att de skulle ta barnen? Vad stod det i pappret?|왜 아이들을 데려갈 거라고 생각하셨어요? 서류에 뭐라고 쓰여 있었는데요?
+Rasha|B1|Jag förstod inte pappret. Ingen översatte det. Så jag trodde på videon i stället.|그 서류를 이해 못 했어요. 아무도 번역해 주지 않았어요. 그래서 대신 영상을 믿었죠.
+Viktor|A2|Har du det kvar?|아직 갖고 계세요?
+Rasha|A2|Här. Jag har vikt det många gånger.|여기요. 여러 번 접었다 폈어요.
+Amira|B1|”Beslut om att inleda utredning.” Det betyder att de ska undersöka hur barnet har det. Det betyder inte att någon ska ta honom.|"조사 개시 결정." 아이가 어떻게 지내는지 살펴보겠다는 뜻이에요. 누가 아이를 데려간다는 뜻이 아니에요.
+Rasha|B1|Nu vet jag det. Men ordet ”utredning” lät som polis. Och i videon sa de att det alltid börjar med ett papper.|이젠 알아요. 근데 '조사'라는 말이 경찰 같았어요. 그리고 영상에서 늘 서류 한 장으로 시작한다고 했거든요.
+Viktor|A2|Vad hände egentligen?|실제로는 무슨 일이 있었어요?
+Rasha|B2|Han slog sig på fotbollen, och skolsköterskan såg blåmärket på armen. Hon måste anmäla när hon är orolig, det vet jag nu. Om någon hade förklarat det för mig på mitt språk den dagen, hade jag aldrig spelat in någonting.|축구하다 다쳤는데, 학교 보건교사가 팔의 멍을 봤어요. 걱정되면 신고해야 한다는 거, 이젠 알아요. 그날 누가 제 말로 설명해 줬더라면 아무것도 녹음하지 않았을 거예요.
+Viktor|A2|Vem förklarade det till slut?|결국 누가 설명해 줬어요?
+Rasha|B1|En tolk, på det första mötet, två veckor senare. Socialsekreteraren var snäll, men då hade jag redan skickat det till fem kvinnor.|통역사요, 첫 면담에서. 2주 뒤였어요. 사회복지사는 친절했는데, 그땐 이미 다섯 명한테 보낸 뒤였죠.
+Viktor|B1|Jag frågar inte vem socialsekreteraren var. Det ska inte stå i vår text.|그 사회복지사가 누구였는지는 묻지 않겠습니다. 저희 기사에 들어가선 안 되니까요.
+Rasha|B2|Bra. Hon gjorde inget fel, och nu får hon kanske höra samma saker som kvinnan i videon – på grund av min röst.|다행이에요. 그분은 잘못한 게 없는데, 이제 그분도 영상 속 그 여자분이 듣는 말을 똑같이 듣게 될지도 몰라요. 제 목소리 때문에요.
+Amira|A2|Hur slutade utredningen?|조사는 어떻게 끝났어요?
+Rasha|B1|Efter sju veckor lades den ner. De erbjöd mig en föräldrakurs på arabiska, och jag går dit på torsdagar.|7주 뒤에 종결됐어요. 아랍어로 하는 부모 교육을 제안받았고, 목요일마다 다녀요.
+Viktor|B2|Jag kom hit och trodde att jag skulle intervjua någon som hade gått på ett rykte. Men det var inte ryktet som kom först – det var ett papper på ett språk du inte kunde läsa.|저는 소문에 넘어간 사람을 인터뷰하러 온 줄 알았어요. 그런데 먼저 온 건 소문이 아니었네요. 읽을 수 없는 언어로 된 서류 한 장이었죠.
+Rasha|B2|Och sedan kom de som väntade på just sådana papper. Min röst finns kvar där ute, under bilder på barn som jag aldrig har sett. Jag bad dem ta bort den. De svarade att staten hade hjärntvättat mig.|그다음엔 바로 그런 서류만 기다리던 사람들이 왔죠. 제 목소리는 아직도 저기 남아 있어요, 본 적도 없는 아이들 사진 밑에요. 지워 달라고 부탁했어요. 국가가 저를 세뇌했다고 대답하더라고요.
+Amira|B2|Det de gör är att ta en verklig rädsla – att man inte förstår myndigheterna och att de har makt över ens barn – och blåsa upp den tills den blir en lögn. Därför fungerar det.|그 사람들이 하는 건 진짜 두려움을 가져다가 — 관청 말을 못 알아듣는데 그 관청이 내 아이에 대한 권한을 갖고 있다는 두려움 — 거짓말이 될 때까지 부풀리는 거예요. 그래서 먹히는 거고요.
+Viktor|A1|Är barnet tryggt?|아이는 안전한가요?
+Rasha|A2|Ja. Han är hemma. Han spelar fotboll igen.|네. 집에 있어요. 다시 축구해요.
+Amira|B1|Om du vill kan jag skicka numret till en jurist som hjälper familjer med papper från myndigheter. Gratis, och på arabiska.|원하시면 관공서 서류를 도와주는 법률가 번호를 보내 드릴게요. 무료고, 아랍어로요.
+# 장면 3 — 오후 2시 반, Källaren (노아의 책상 앞 모니터 두 대, 나란히 멈춘 두 영상, 아미라의 노트북 속 서버 기록, 소피아가 들고 온 출력물)
+Noah|A2|Ni kom precis i tid. Kolla här, två skärmar.|딱 맞춰 오셨네요. 여기 봐요, 화면 두 개.
+Viktor|A1|Vad är det?|그게 뭐야?
+Noah|B1|Till vänster: videon på arabiska, den med Hibas ansikte. Till höger: en video från kontona i vårt kluster, uppladdad i går kväll. ”Socialtjänsten vågar inte ingripa i invandrarfamiljer.”|왼쪽은 아랍어 영상, 히바 얼굴 나오는 거요. 오른쪽은 우리 군집 계정에서 어젯밤 올라온 영상이에요. "사회복지청은 이민자 가정에 개입할 용기가 없다."
+Amira|B2|Två budskap som tar ut varandra, om man tänker efter. Men ingen som delar dem tänker efter.|따져 보면 서로 상쇄되는 메시지 두 개네. 근데 그걸 공유하는 사람 중에 따져 보는 사람은 없지.
+Noah|B1|Den ena säger att socialtjänsten tar för många barn, den andra att den tar för få. Båda säger att man inte kan lita på den.|하나는 사회복지청이 아이를 너무 많이 데려간다고 하고, 다른 하나는 너무 적게 데려간다고 해요. 둘 다 사회복지청을 믿으면 안 된다고 하고요.
+Viktor|A2|Och de hatar varandra.|그리고 서로 증오하고.
+Noah|A1|Sjukt mycket, ja.|엄청나게요, 네.
+Amira|A1|Spela upp dem.|틀어 봐.
+Noah|A2|Kolla övergångarna. Samma glitch, samma font. Det är samma mall.|전환 효과 봐요. 같은 글리치, 같은 폰트. 같은 템플릿이에요.
+Viktor|B1|Många använder säkert samma redigeringsapp. Det kan vara en slump.|같은 편집 앱 쓰는 사람 많을 거야. 우연일 수도 있지.
+Noah|B2|En gratismall, visst. Men den här har ett fel: bokstaven ä i ”socialtjänsten” blir en fyrkant i tre bildrutor efter glitchen, i båda videorna, på exakt samma ställe. Det felet finns inte i appens egen version, så någon har ändrat mallen och sparat den.|무료 템플릿이면 그렇죠. 근데 이건 오류가 하나 있어요. 글리치 다음 세 프레임 동안 'socialtjänsten'의 ä가 네모로 깨져요. 두 영상 다, 정확히 같은 위치에서요. 앱 원래 버전엔 그 오류가 없으니까, 누가 템플릿을 고쳐서 저장한 거예요.
+Amira|A2|Och metadatan? Plattformarna tar ju bort den.|메타데이터는? 플랫폼이 지우잖아.
+Noah|B1|Plattformarna, ja. Men båda videorna länkar till originalfilerna via samma länkförkortare, och där ligger filerna orörda.|플랫폼은요. 근데 두 영상 다 같은 단축 링크로 원본 파일에 연결되고, 거기 파일은 손도 안 댄 채로 있어요.
+Viktor|A1|Och vad visar de?|그래서 뭐가 나와?
+Noah|B1|Samma program, samma version, samma upplösning. Den arabiska renderades i lördags klockan 21.04 och den svenska klockan 21.43.|같은 프로그램, 같은 버전, 같은 해상도요. 아랍어 영상은 토요일 21시 4분에, 스웨덴어 영상은 21시 43분에 렌더링됐어요.
+Viktor|A2|Fyrtio minuter. Samma kväll.|40분. 같은 날 밤.
+Amira|B1|Och nu min del. Länkförkortaren är ingen känd tjänst. Den ligger på en egen server hos ett hostingbolag utanför EU.|이제 내 차례. 그 단축 링크는 유명한 서비스가 아니야. 유럽연합 밖 호스팅 업체에 있는 개인 서버에 깔려 있어.
+Viktor|A1|Samma server?|같은 서버야?
+Amira|B2|Samma IP-adress, men två olika kundkonton hos bolaget – kundnumret syns i filernas sökväg. Någon har varit noga med att hålla isär dem, fast de står i samma rack.|IP 주소는 같은데, 그 업체 고객 계정이 두 개야. 고객 번호가 파일 경로에 보여. 누군가 둘을 따로 떼어 놓으려고 꽤 신경 썼어, 같은 랙에 꽂혀 있는데도.
+Sofia|A2|Hur vet du vem som betalar?|돈 내는 사람은 어떻게 알아?
+Amira|B2|Länkförkortarens statistiksida saknar lösenord, och längst ner finns en länk till ett kvitto för det ena kontot. Jag har inte gissat någon adress och inte loggat in någonstans. Länken låg öppen, och en sökmotor hade redan sparat den.|단축 링크 통계 페이지에 비밀번호가 없어. 맨 아래에 계정 하나의 영수증 링크가 있고. 난 주소를 추측하지도 않았고 어디에도 로그인하지 않았어. 링크는 열려 있었고, 검색엔진이 이미 저장해 둔 상태였어.
+Sofia|B2|Bra. Skriv ner exakt hur du hittade den, med tider och skärmbilder, och låt Lars läsa det innan vi använder ett enda tecken. En öppen dörr är inte samma sak som en inbjudan.|좋아. 어떻게 찾았는지 시간이랑 스크린샷까지 정확히 적어. 한 글자라도 쓰기 전에 라르스한테 읽혀. 열린 문이 초대장이랑 같은 건 아니니까.
+Viktor|A1|Vad står det på kvittot?|영수증엔 뭐라고 쓰여 있어?
+Amira|B1|Kontot med den arabiska kampanjen. Betalt med ett kort som slutar på 0417. Faktureringsland: Sverige. Inget namn.|아랍어 캠페인 계정. 끝자리 0417 카드로 결제. 청구 국가: 스웨덴. 이름은 없어.
+Noah|A1|Sverige? Seriöst?|스웨덴이요? 진짜요?
+Sofia|B2|Ett land på ett kvitto är ingen avsändare. Vem som helst kan ha ett svenskt kort. Men det är en tråd, och den följer vi.|영수증에 찍힌 나라 하나가 발신자는 아니야. 누구든 스웨덴 카드를 가질 수 있어. 하지만 실마리이긴 하니까, 따라가자.
+Noah|B1|Ska vi lägga upp videorna i artikeln? Folk måste ju se hur lika de är.|기사에 영상 올려요? 얼마나 똑같은지 사람들이 봐야 하잖아요.
+Sofia|B2|Nej. Om vi bäddar in dem får de fler visningar från oss än från sina egna kanaler. Vi beskriver mönstret, vi visar en stillbild av glitchen utan ansikten, och vi länkar aldrig till förkortaren.|안 돼. 영상을 삽입하면 자기네 채널보다 우리한테서 조회수를 더 받을 거야. 패턴은 설명하고, 얼굴 없는 글리치 정지 화면 하나만 보여 주고, 단축 링크는 절대 걸지 않아.
+Viktor|B2|Och rubriken får inte upprepa påståendet. Vi börjar med det som är sant – att ett omhändertagande enligt LVU beslutas av en domstol, inte av en ensam socialsekreterare – och först därefter vad videorna påstår.|그리고 제목은 그 주장을 되풀이하면 안 돼. 사실부터 시작하자. LVU에 따른 강제 보호조치는 사회복지사 한 명이 아니라 법원이 결정한다는 것. 영상이 뭘 주장하는지는 그다음이고.
+Sofia|B1|Och inga barn. Inte ens Rashas son utan namn – ingen ålder, ingen skola, ingen fotbollsklubb.|그리고 아이들은 안 돼. 이름을 빼더라도 라샤의 아들은 안 돼. 나이도, 학교도, 축구 클럽도.
+Amira|A2|Och Hiba? Hennes foto är överallt.|히바는? 사진이 사방에 있어.
+Noah|B1|Det är ännu värre. Kolla, kontona i vårt kluster använder samma foto av henne, med samma beskärning. Den ena sidan kallar henne kidnappare, den andra kallar henne feg.|그게 더 심해요. 봐요, 우리 군집 계정들도 그 사람 사진을 똑같이 잘라서 써요. 한쪽은 납치범이라 하고, 다른 쪽은 겁쟁이라고 해요.
+Viktor|B1|Samma kvinna, två fiender, ett foto. Och hon får inte svara någon av dem.|같은 여자, 두 적, 사진 한 장. 그리고 그 사람은 어느 쪽에도 대답할 수 없어.
+Sofia|B2|Då är hennes säkerhet viktigare än vår nyhet. Viktor, hör av dig till henne innan vi publicerar något alls, och fråga vad som skyddar henne och vad som gör det värre.|그럼 그 사람 안전이 우리 기사보다 중요해. 빅토르, 뭐든 내보내기 전에 그 사람한테 연락해서 뭐가 자기를 지켜 주고 뭐가 더 나쁘게 만드는지 물어봐.
+Amira|B1|Ge mig kvällen. Det andra kundkontot har också en statistiksida. Om den är lika slarvig vet vi snart vem som betalar för båda.|오늘 밤만 줘. 다른 고객 계정에도 통계 페이지가 있어. 그것도 똑같이 허술하면, 누가 양쪽 다 돈 내는지 곧 알게 될 거야.
+# 장면 4 — 오후 3시 30분 ~ 3시 52분, 바사가탄의 간판 없는 사무실 (모아의 자리, 회의실 벽의 "V. 31", 이다의 출력물, 모아의 바지 주머니 속 아미라의 소형 녹음기, 화장실 앞 복도)
+Ida|A2|Alla till rummet. Fem minuter.|다들 회의실로. 5분.
+Albin|A2|Moa, bror. Har du sett de nya klippen?|모아, 브로. 새 클립 봤어?
+Moa|B1|Vilka klipp? Sedan Ida flyttade mig har jag typ bara läst kommentarer, asså.|무슨 클립? 이다가 나 자리 옮긴 뒤로 댓글만 읽었는데.
+Albin|B1|De som kom från leverantören i morse. De har en sjuk glitch i början. Den mallen har inte ens vi.|오늘 아침에 납품업체에서 온 거. 앞부분 글리치 쩔어. 그 템플릿은 우리도 없어.
+Moa|A1|Leverantören? Vem är det?|납품업체? 그게 누군데?
+Albin|B1|Ingen aning, lowkey. Filerna dyker bara upp i en mapp på övervåningen, och Ida skickar ner dem till oss.|몰라, 은근. 파일이 위층 폴더에 그냥 뜨고, 이다가 우리한테 내려보내.
+Ida|A1|Kev. Rummet.|케브. 회의실.
+Theo|B1|Okej, familjen, snabbt. Vecka trettioett har ett enda tema, och det står på väggen.|자, 가족 여러분, 빨리. 31주 차는 주제가 딱 하나고, 벽에 붙어 있어.
+Ida|A2|Fokus på socialtjänsten den här veckan.|이번 주는 사회복지청에 집중.
+Moa|A2|Socialtjänsten? Typ barnen och sånt?|사회복지청이요? 애들 그런 거요?
+Theo|B2|Barnen, ja, men vinkeln är vår. Det blåser redan en storm därute om att socialtjänsten tar barn, och vi behöver inte skapa den. Vi vänder den: frågan är varför socialtjänsten är så rädd för vissa familjer att den inte ingriper alls.|애들, 맞아. 근데 각도는 우리 거야. 사회복지청이 애들을 데려간다는 폭풍이 이미 밖에서 불고 있고, 우리가 만들 필요는 없어. 뒤집는 거지. 질문은, 사회복지청이 왜 어떤 가정들을 그렇게 무서워해서 아예 개입을 안 하느냐는 거야.
+Moa|B1|Men om de andra säger att socialtjänsten tar för många barn, blir det inte typ konstigt att vi säger tvärtom?|근데 다른 쪽에선 사회복지청이 애들을 너무 많이 데려간다고 하는데, 우리가 반대로 말하면 좀 이상하지 않아요?
+Theo|B2|Det är det fina. Ingen av sidorna lyssnar på den andra, men båda blir lite mindre säkra på att socialtjänsten kan något alls. Förtroende är en tårta, Moa. Vi behöver inte äta den. Det räcker att den hamnar på golvet.|그게 멋진 점이야. 어느 쪽도 상대 말을 안 듣지만, 둘 다 사회복지청이 뭘 할 줄 안다는 확신이 조금씩 줄어들지. 신뢰는 케이크야, 모아. 우리가 먹을 필요는 없어. 바닥에 떨어지기만 하면 돼.
+Albin|A2|Kan vi göra memes om det? Typ en tårta?|그걸로 밈 만들어도 돼요? 케이크 같은 거?
+Ida|A2|Nej. Inga skämt den här veckan.|아니. 이번 주는 농담 금지.
+Theo|B1|Projekt Socialtjänsten går in i fas ett. Vi vill ha ilska, inte argument.|사회복지청 프로젝트가 1단계에 들어간다. 우린 논쟁이 아니라 분노를 원해.
+Moa|A2|Projekt vad? Är det typ den grå mappen?|프로젝트 뭐요? 그 회색 폴더 그거요?
+Ida|B1|Du ser mycket för att vara ny. Mappen är inte din. Du läser kommentarer.|새로 온 사람치고 많이 보네. 그 폴더는 네 거 아니야. 넌 댓글 읽어.
+Theo|B2|Lugn, Ida, hon har ögon, det är därför vi anställde henne. De ljusa kontona ställer frågor den här veckan – bara frågor, aldrig påståenden. Övervåningen sköter resten.|진정해, 이다. 눈이 있는 거야, 그래서 뽑은 거고. 이번 주 라이트 계정들은 질문을 던져. 질문만, 주장은 절대 안 해. 나머진 위층이 맡아.
+Moa|B1|Och den där socialsekreteraren som är typ överallt i kommentarerna? Hennes adress ligger ju ute, asså.|그리고 댓글에 막 도배된 그 사회복지사는요? 주소까지 다 나와 있던데요.
+Theo|B2|Vi publicerar aldrig adresser. Aldrig. Det står i riktlinjerna, och det kommer att stå i varenda artikel som Stockholmsposten skriver om oss. Det där gör andra.|우린 주소 절대 안 올려. 절대. 지침에 쓰여 있고, 스톡홀름스포스텐이 우리에 대해 쓰는 기사마다 그렇게 나올 거야. 그런 건 다른 사람들이 하지.
+Ida|A1|Moa. Fickan.|모아. 주머니.
+Moa|A2|Fickan? Vad är det med den?|주머니요? 왜요?
+Ida|A2|Den är tung. Vad har du där?|불룩하네. 뭐 들었어?
+Moa|B1|Asså, mensskydd, typ. Vill du verkligen se, liksom? Mitt i mötet?|아니, 생리대요, 뭐랄까. 진짜 보고 싶어요? 회의 중에?
+Ida|A1|Nej. Fortsätt.|아니. 계속해.
+Theo|B2|Bra. Och om någon av er känner någon som jobbar inom socialtjänsten, prata inte om det här hemma – inte för att det är fel, utan för att folk sällan förstår helheten. Kev, kaffe?|좋아. 그리고 너희 중에 사회복지청에서 일하는 사람을 아는 사람이 있으면, 이 얘긴 집에서 하지 마. 잘못된 일이라서가 아니라, 사람들은 전체 그림을 잘 이해 못 하거든. 케브, 커피?
+Moa|A2|Jag måste typ på toa. Mensgrejen, ni vet.|저 화장실 좀요. 그거 때문에, 아시죠.
+Albin|A2|Gå, bror. Jag tar en kaffe åt dig.|가, 브로. 네 커피 내가 챙겨 둘게.
+Elin|B1|Onsdag den tjugonionde juli, femton och femtiotvå. Jag står utanför toaletten, och jag stänger av nu.|7월 29일 수요일, 15시 52분. 화장실 앞이에요. 이제 끌게요.
+# 장면 5 — 밤 10시 20분 ~ 10시 50분경, Stockholmsposten 지하 주차장, 아미라의 차 안 (조수석의 빅토르와 수첩, 무릎 위 노트북, 대시보드에 붙인 포스트잇 "0417", 꺼진 엔진)
+Viktor|A2|Hesa ringde. Elin är hemma.|헤사가 전화했어. 엘린은 집에 왔대.
+Amira|A1|Tack och lov. Och?|다행이다. 그리고?
+Viktor|B1|Hon skrev på en pappersservett på toaletten och hade den i skon resten av dagen. Hesa läste upp den för mig i telefon.|화장실에서 종이 냅킨에 적어서 남은 하루 내내 신발 속에 넣고 다녔대. 헤사가 전화로 읽어 줬어.
+Amira|A2|Läs. Jag vill höra orden.|읽어 줘. 그 말 그대로 듣고 싶어.
+Viktor|B1|”Fas ett. Ilska, inte argument. Leverantören skickar klipp. Adresser gör andra.” Och längst ner: ”Ida såg fickan.”|"1단계. 논쟁 말고 분노. 납품업체가 클립을 보낸다. 주소는 다른 사람들이 한다." 그리고 맨 아래. "이다가 주머니를 봤다."
+Amira|A1|Fan.|젠장.
+Viktor|B2|Sofia pratar med Hesa i morgon bitti. Om Elin vill gå ut, går hon ut, och då får det räcka med det vi har. Men hon sa till Hesa att det var första gången hon blev rädd därinne på riktigt.|소피아가 내일 아침 일찍 헤사랑 얘기할 거야. 엘린이 나오고 싶으면 나오는 거고, 그럼 지금 가진 걸로 끝내야지. 근데 엘린이 헤사한테 그랬대. 그 안에서 진짜로 무서웠던 건 처음이라고.
+Amira|B1|Leverantören. Det stämmer med det jag ser. Folket på Vasagatan gör inte videorna själva. De får dem.|납품업체. 내가 보는 거랑 맞아. 바사가탄 사람들은 영상을 직접 안 만들어. 받는 거야.
+Viktor|B2|Från samma verkstad som gör de arabiska videorna, alltså. Då har partiet köpt sin ilska av samma folk som säljer motsatsen.|그러니까 아랍어 영상을 만드는 그 작업장에서. 그럼 당은 정반대 걸 파는 바로 그 사람들한테서 자기 분노를 사 온 거네.
+Amira|B1|Det kan vi inte säga än. Samma mall och samma server betyder samma verkstad. Det betyder inte samma beställare.|그건 아직 말 못 해. 같은 템플릿, 같은 서버는 같은 작업장이란 뜻이야. 같은 주문자란 뜻은 아니고.
+Viktor|B2|Tänk om det inte spelar någon roll. Om båda sidor blir arga på socialtjänsten, och Hiba kollar under bilen varje morgon, vem vinner då? Inte de som tror på videon. Inte de som hatar den.|상관없는 거라면? 양쪽 다 사회복지청한테 화가 나고, 히바는 매일 아침 차 밑을 확인하고. 그럼 누가 이기지? 영상을 믿는 사람들도 아니고, 그걸 증오하는 사람들도 아니야.
+Amira|B1|Någon som vill att folk ska sluta lita på allt som har statens logga på sig. Sex veckor före ett val.|사람들이 국가 로고가 붙은 건 뭐든 안 믿게 되길 바라는 누군가. 선거 6주 전에.
+Viktor|B2|Två lag som hatar varandra. Och en domare som säljer biljetter till båda.|서로 증오하는 두 팀. 그리고 양쪽에 표를 파는 심판 하나.
+Amira|A2|Har Hiba svarat på ditt sms?|히바는 네 문자에 답했어?
+Viktor|B1|För en timme sedan. Hon vill inte att vi skriver gatan eller stadsdelen, inte ens att hon har bytt bil. Och hon skrev: ”Tack för att ni inte tog någon bild.”|한 시간 전에. 거리 이름이나 동네는 물론이고 차를 바꿨다는 것도 쓰지 말래. 그리고 이렇게 썼어. "사진 안 찍어 줘서 고마워요."
+Amira|A1|Vänta. Den andra sidan.|잠깐. 두 번째 페이지.
+Viktor|A1|Öppen?|열려 있어?
+Amira|B1|Lika öppen som den första, med samma slarv. Kvittot för kontot med klippen från de mörka kontona: ett kort som slutar på 0417, faktureringsland Sverige.|첫 번째만큼 열려 있어, 똑같이 허술하게. 다크 계정 클립들이 있는 계정의 영수증. 끝자리 0417 카드, 청구 국가 스웨덴.
+Viktor|B2|Två kampanjer som säger sig hata varandra visar sig dela både server och betalningsuppgifter. Det är meningen vi måste kunna bevisa, rad för rad, innan Lars ens låter oss säga den högt.|서로 증오한다는 두 캠페인이 서버도, 결제 정보도 함께 쓰고 있었다. 우리가 한 줄 한 줄 증명해야 할 문장이 바로 그거야. 라르스가 그걸 소리 내어 말하는 것조차 허락하기 전에.
+Amira|A2|Samma server. Samma kort. Två fiender som delar på räkningen.|같은 서버. 같은 카드. 원수 둘이 계산서를 나눠 내고 있어.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Är barnet tryggt?** | 아이는 안전한가요? | *trygg*는 "안전하다고 느끼는, 마음 놓이는" 상태(*säker*는 위험이 없다는 객관적 안전). *barnet*은 정해진 그 아이 — *ett barn – barnet*. 빅토르는 이름·나이·학교를 하나도 묻지 않고 이 질문 하나만 했다. 아동 사건 취재에서 기자가 알아야 할 것과 알 필요 없는 것을 가르는 문장 |
+| `A2` | **Hon fick ett hot på telefonen i går kväll.** | 그녀는 어젯밤 전화로 협박을 받았다. | *få ett hot* = 협박을 받다(*hota någon* = 누구를 협박하다). *på telefonen* = 전화로(*i telefon*도 쓴다 — 헤사가 *läste upp den i telefon*). *i går kväll* = 어젯밤, *i kväll* = 오늘 밤, *i morse* = 오늘 아침 |
+| `B1` | **Socialtjänsten får inte berätta om enskilda fall, och det utnyttjar de som sprider rykten.** | 사회복지청은 개별 사건에 대해 말할 수 없고, 소문을 퍼뜨리는 사람들은 그걸 이용한다. | *får inte* = ~해서는 안 된다(금지). 뒷절은 목적어 *det*이 문장 맨 앞으로 나와 동사 *utnyttjar*가 두 번째 자리에 오고 주어 *de som sprider rykten*(소문을 퍼뜨리는 사람들)이 뒤로 갔다 — 강조를 위한 V2 도치 |
+| `B1` | **Jag förstod inte pappret. Ingen översatte det.** | 그 서류를 이해 못 했어요. 아무도 번역해 주지 않았어요. | *papper*(종이, 서류)의 한정형은 구어에서 *pappret*(문어 *papperet*). *ingen*이 주어일 때는 *inte*가 따로 필요 없다. *så … i stället* = 그래서 대신 ~ — *Så jag trodde på videon i stället.* |
+| `B2` | **Två kampanjer som säger sig hata varandra visar sig dela både server och betalningsuppgifter.** | 서로 증오한다는 두 캠페인이 알고 보니 서버도 결제 정보도 함께 쓰고 있었다. | 재귀 구문 두 개: *säga sig* + 부정사 = 스스로 ~라고 주장하다, *visa sig* + 부정사 = ~인 것으로 드러나다. *både … och* = ~도 ~도. 기사 리드 문장의 전형 — 주장(*säger sig*)과 확인된 사실(*visar sig*)을 한 문장 안에서 구분한다 |
+| `B2` | **Om någon hade förklarat det för mig på mitt språk, hade jag aldrig spelat in någonting.** | 누가 제 말로 설명해 줬더라면 아무것도 녹음하지 않았을 거예요. | 과거 사실에 반대되는 가정: *om* + *hade* + 과거분사, 주절도 *hade* + 과거분사(주절이 동사부터 시작 — V2). *förklara något för någon* = 누구에게 무엇을 설명하다(전치사 *för*). 라샤의 후회가 곧 행정의 빈틈이다 |
+| 구어 | **sprida sig som en löpeld** | 들불처럼 번지다 | *löpeld* = 땅을 타고 빠르게 번지는 불. 소문·영상·뉴스에 쓴다: *Ryktet spred sig som en löpeld.* *sprida sig*(퍼지다, 재귀)와 *sprida rykten*(소문을 퍼뜨리다, 타동)을 구분할 것 — 이번 화에는 둘 다 나온다 |
+| 미디어·정치 | **omhändertagande enligt LVU** | LVU에 따른 강제 보호조치 | *LVU* = *lagen med särskilda bestämmelser om vård av unga*(청소년 보호 특별법). *omhändertagande*는 *ta hand om*(돌보다)에서 온 명사로, 보호자의 동의 없이 아이를 사회의 보호 아래 두는 조치를 말한다. 보도에서는 "납치(*kidnappning*)"라는 허위 프레임과 정확히 구분해서 이 용어를 쓴다 |
+
+## 저널리즘·법 메모
+스웨덴 사회복지청은 공공정보·비밀유지법(*offentlighets- och sekretesslagen*)에 따라 개별 사건에 대해 확인도 부인도 할 수 없다. 거짓 영상이 어떤 가족을 지목해도 "그건 사실이 아니다"라고 말하는 순간 그 가족이 대상자라는 사실을 확인해 주는 셈이 되므로, 허위정보를 퍼뜨리는 쪽은 상대가 *반박할 수 없다는 것*을 무기로 쓴다. 실제로 LVU에 따른 강제 보호조치는 사회복지사 개인이 아니라 사회복지위원회(*socialnämnden*)의 신청을 받은 행정법원(*förvaltningsrätten*)이 결정하고, 부모에게는 국선 대리인(*offentligt biträde*)과 통역이 보장되며, 행정절차법(*förvaltningslagen*)은 필요하면 관청이 통역을 쓰고 문서를 번역하도록 요구한다 — 라샤의 이야기는 그 의무가 지켜지지 않은 틈에서 시작됐다. 이런 허위정보를 보도할 때는 증폭하지 않는 것이 원칙이다: 원 영상을 삽입하거나 링크하지 않고, 제목에 거짓 주장을 되풀이하지 않으며, 사실(누가 결정하는가)을 먼저 쓰고 주장은 그 뒤에 쓴다. LVU와 관련된 아이는 이름이 없어도 나이·학교·동네 같은 조각만으로 신원이 드러날 수 있으므로 언론윤리 규칙(*publicitetsregler*)에 따라 그런 세부까지 빼고, 위협받는 공무원의 주소·동네·차량 같은 정보도 본인과 상의해 싣지 않는다. 아미라가 찾은 영수증은 비밀번호 없이 열려 있던 페이지에서 나왔지만, 그렇다고 바로 쓸 수 있는 것은 아니다 — 컴퓨터 무단침입(*dataintrång*)에 해당하지 않는지, 어떻게 찾았는지를 시간과 화면 기록으로 남겨 법률고문이 먼저 검토한다.
+
+## 문화·현안 메모
+- **LVU "아동 납치" 허위정보 캠페인 (2021~2022~)** — 2021년 말부터 2022년 초까지 아랍어권 소셜미디어를 중심으로 "스웨덴 사회복지청이 무슬림 아이들을 납치해 다른 종교의 가정에 넘긴다"는 영상과 게시물이 대량으로 퍼졌고, 스웨덴 여러 도시에서 시위가 열렸으며 사회복지 공무원들이 협박을 받았다. 실제 부모들의 슬픔과 관청에 대한 불신, 언어 장벽 같은 진짜 문제를 출발점으로 삼았다는 점이 이 캠페인을 강하게 만들었다. 정부와 관련 기관은 여러 언어로 LVU 제도를 설명하는 자료를 내며 대응했다. 극중의 영상·채널·숫자는 모두 가상이다.
+- **같은 기관을 반대 방향에서 공격하기** — 하나의 공공기관을 두고 "너무 많이 개입한다"와 "너무 적게 개입한다"는 정반대 서사가 동시에 퍼지면, 어느 쪽도 설득되지 않은 채 기관에 대한 신뢰만 깎인다. 정보 영향 공작 연구에서 자주 지적되는 패턴으로, 목표는 특정 주장을 믿게 하는 것이 아니라 *아무것도 믿지 않게* 하는 데 있다.
+- **이번 화의 아랍어 단어** — *yalla*(자, 어서), *inshallah*(신의 뜻이라면 — "그러길 바라요"), *khalas*(됐어, 끝). 히바처럼 스웨덴어로 일하는 이중언어 사용자들이 감정이 실린 순간에 섞어 쓰는 말들이다.
+- ⚠️ 노르비크 시(가상 지자체), 히바 카림·라샤·오베, 두 영상과 캠페인, 단축 링크·호스팅 계정·카드 번호, Hemlandspartiet와 그 디지털팀은 모두 허구다. 실존 인물·단체·정당의 행위를 묘사하지 않는다. LVU, 비밀유지 규정, 행정법원 절차, 통역 의무는 실제 제도를 배경으로만 썼다.
+
+## 다음 화 예고
+> 8월 6일 목요일. 한 대사관 앞에서 코란을 태우겠다는 남자가 먼저 "독점 인터뷰"를 제안해 오고, 빅토르는 질문 하나만 들고 간다 — "Vem betalar?"
