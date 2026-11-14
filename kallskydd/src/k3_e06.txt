@@ -1,0 +1,188 @@
+@title 3부 6화 — Sjömannen
+@subtitle (선원)
+@meta 날짜|2026년 4월 4일 토요일(부활절 전야, *påskafton*) 오전 10시 ~ 저녁 7시 40분 (헬싱키 현지 시각 — 핀란드는 스웨덴보다 1시간 빠르다)
+@meta 장소|헬싱키 서항(Västra hamnen) 선원 선교센터 뒷방 (오전 10시) → 같은 뒷방 (오전 10시 40분) → 선교센터 뒤 부두 (낮 12시 15분) → 카우파토리(Salutorget) 시장 (오후 5시 30분) → 선원 호텔 3층 312호 앞 (저녁 7시 40분)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Sasha** (올렉산드르 "사샤" 코발렌코, 35, 선박 전문가 — 기사에 이름 안 나옴) · **Raj** (라제시 "라즈" 나이르, 26, *Eventide Star*의 인도인 갑판원 — 주로 영어, 스웨덴어 몇 마디) · **Mikaela** (미카엘라 린드루스, 58, 헬싱키 선원 선교센터 부제 — 핀란드 스웨덴어) · **Ann-Sofie** (안소피 홀름크비스트, 41, 헬싱키 일간지 *Nyländska Posten* 기자 — 핀란드 스웨덴어) · **Alva** (알바 홀름, 16, 빅토르의 딸 — 영상통화)
+@intro **지난 이야기** — 헬싱키에서 빅토르와 사샤는 나포된 *Eventide Star*의 우현 닻이 통째로 뜯겨 나간 것을 확인했고, 핀란드 기자 안소피와 "자료는 나누고 취재원은 나누지 않는다"는 약속에 건배했다. 성목요일, 선원 선교센터의 부제 미카엘라가 빅토르의 손에 접힌 쪽지를 쥐여 주었다. 그 사람이 말하고 싶어 한다고 — 배 위에서는 안 되고, 경찰에게도 안 된다고.
+@intro 쪽지에는 영어로 세 마디뿐이었다. "Saturday. Ten. Back room." 4월 4일, 부활절 전야. 압류된 유조선의 선원들이 몇 명씩 상륙을 허락받는 날이다. 선교센터 뒷방의 커튼 뒤에서, 주황색 작업복을 입은 젊은 남자가 두 손을 무릎 사이에 끼운 채 기다리고 있다.
+# 장면 1 — 오전 10시, 서항 선원 선교센터 뒷방 (쳐 놓은 커튼, 접이식 의자 셋, 빅토르의 작은 암호화 녹음기, 문틈에 선 미카엘라)
+Mikaela|A2|Här är rummet. Jag står utanför dörren hela tiden.|여기예요. 저는 내내 문밖에 서 있을게요.
+Viktor|A1|Tack. Var är han?|고마워요. 그 사람은 어디 있어요?
+Mikaela|B2|Bakom gardinen. Bussen tillbaka till hamnen går klockan tolv, och de andra fem tror att han sitter på toaletten – så om han är borta mycket längre än så, börjar någon undra.|커튼 뒤에요. 항구로 돌아가는 버스는 12시에 떠나요. 다른 다섯 명은 그 사람이 화장실에 있는 줄 알아요. 그러니까 그보다 훨씬 오래 자리를 비우면 누군가 이상하게 여기기 시작할 거예요.
+Raj|A1|Hello. Tack, tack.|(영어로) 안녕하세요. (스웨덴어로) 고마워요, 고마워요.
+Viktor|A2|Hello. My name is Viktor. I got your note – Saturday, ten o'clock.|(영어로) 안녕하세요. 빅토르예요. 쪽지 받았어요. 토요일, 10시.
+Raj|A2|Mikaela said one of you is a sailor. Is it you?|(영어로) 미카엘라 씨가 두 분 중 한 분은 선원이라던데요. 당신이에요?
+Sasha|A2|Navy. Twelve years. Now I drive a forklift in Stockholm.|(영어로) 해군. 12년. 지금은 스톡홀름에서 지게차 몰아.
+Raj|A2|Then you know. On a ship you don't talk. You work, you eat, you sleep.|(영어로) 그럼 아시겠네요. 배에선 말을 안 해요. 일하고, 먹고, 자고.
+Viktor|B2|Sasha, ta du frågorna. Han tittar bara på dig, och en sjöman som berättar för en annan sjöman säger nog mer än han någonsin skulle säga till en journalist.|사샤, 질문은 네가 해. 저 사람은 너만 보고 있어. 선원이 다른 선원한테 털어놓을 때는 기자한테 할 말보다 훨씬 많은 걸 말하게 마련이야.
+Sasha|A1|Okej, so… What is your name?|좋아요, 그럼… (영어로) 이름이 뭐야?
+Raj|A1|Rajesh Nair. Everybody says Raj.|(영어로) 라제시 나이르요. 다들 라즈라고 불러요.
+Sasha|A1|And home? Where?|(영어로) 고향은? 어디야?
+Raj|B1|Kerala. A small village near Alappuzha, with water everywhere – canals, boats, coconut trees. My father was a fisherman, like his father.|(영어로) 케랄라요. 알라푸자 근처 작은 마을인데, 사방이 물이에요. 수로, 배, 코코넛 나무. 아버지는 어부였어요. 할아버지처럼요.
+Sasha|A2|Han kommer från Kerala, i södra Indien. Pappan var fiskare.|케랄라 출신이래요. 인도 남부요. 아버지는 어부였고요.
+Raj|B1|He died four years ago, in the monsoon. Since then I am the one who pays for everything.|(영어로) 4년 전 우기에 돌아가셨어요. 그 뒤로는 제가 전부 책임져요.
+Viktor|B2|Fråga om familjen först. Lugnt – den som får börja med det han älskar brukar orka berätta resten också.|가족 얘기부터 물어봐. 천천히. 자기가 사랑하는 것부터 시작하게 해 주면, 나머지도 말할 힘이 생기는 법이야.
+Sasha|A1|Your mother?|(영어로) 어머니는?
+Raj|B1|My mother and my little sister. Anjali is studying to be a nurse in Kochi, and every month I send money for the school and for the house.|(영어로) 어머니랑 여동생이요. 안잘리는 코치에서 간호사 공부를 해요. 매달 학비랑 집에 쓸 돈을 보내요.
+Sasha|A2|Han heter Raj. Han skickar pengar till sin mamma varje månad.|이름은 라즈래요. 매달 어머니에게 돈을 보낸대요.
+Viktor|A1|Hur mycket?|얼마나?
+Raj|B1|I get eight hundred and fifty dollars a month, and I send six hundred. But since February the company has not paid anybody.|(영어로) 한 달에 850달러 받아서 600을 보내요. 근데 2월부터 회사가 아무한테도 돈을 안 줬어요.
+Sasha|B2|Ingen lön sedan februari. Det är vanligt på sådana fartyg: man håller kvar besättningen med pengar som man är skyldig dem, för den som går i land utan lön får aldrig se pengarna.|2월부터 월급이 없대요. 그런 배에선 흔한 일이에요. 줘야 할 돈으로 선원들을 붙잡아 두는 거죠. 월급 못 받고 배에서 내리는 사람은 그 돈을 영영 못 보니까요.
+Viktor|B1|Fråga hur han hamnade på just Eventide Star.|어떻게 하필 Eventide Star에 타게 됐는지 물어봐.
+Raj|B1|An agent in Mumbai. He took two months' salary for the job, and in January I flew to St Petersburg and took a bus to the ship in Primorsk.|(영어로) 뭄바이의 에이전트요. 일자리 값으로 두 달 치 월급을 가져갔어요. 1월에 상트페테르부르크로 날아가서 버스를 타고 프리모르스크에 있는 배로 갔어요.
+Sasha|A1|You said "tack". Swedish?|(영어로) 아까 '탁'이라고 했지. 스웨덴어야?
+Raj|B1|Before this ship I was two years on a tanker with a chief officer from Göteborg. He taught me "tack", "fika" and "lugnt" – and some bad words.|(영어로) 이 배 전에 예테보리 출신 일등항해사가 있는 유조선에서 2년 일했어요. 그 사람이 '탁(고마워)', '피카(커피 타임)', '루그트(괜찮아)'를 가르쳐 줬어요. 나쁜 말도 몇 개요.
+Viktor|A1|Lugnt. Ett bra ord.|'루그트'. 좋은 말이죠.
+Raj|A1|Jag är rädd.|(스웨덴어로) 저… 무서워요.
+Mikaela|B2|Det lärde han sig av mig i torsdags. Han frågade hur man säger det på svenska, som om det skulle bli lättare att bära om det fanns på ett språk till.|그건 목요일에 저한테 배운 거예요. 스웨덴어로 어떻게 말하냐고 묻더라고요. 언어 하나에 더 담아 두면 견디기가 좀 쉬워지기라도 할 것처럼요.
+Viktor|B1|Raj, listen. We don't write your name or your village, and nothing is printed before you are home with your mother. Okay?|(영어로) 라즈, 들어 봐요. 이름도 마을도 안 써요. 그리고 어머니 곁에 돌아가기 전엔 아무것도 안 나가요. 괜찮아요?
+Raj|A1|Okay. Okay.|(영어로) 네. 좋아요.
+Viktor|B2|Jag spelar in på den här, och den är krypterad. Namnet skriver jag bara i blocket, för ett block som ligger i min innerficka kan ingen läsa på avstånd.|이걸로 녹음할게. 암호화된 거야. 이름은 수첩에만 적어. 내 안주머니에 든 수첩은 아무도 멀리서 못 읽으니까.
+Sasha|B1|He records on this little box, and your name goes only on paper. Is that okay for you?|(영어로) 이 작은 기계에 녹음한대. 네 이름은 종이에만 적고. 그래도 괜찮아?
+Raj|B1|Paper is good. Since the police came, Pavel takes our phones every night and gives them back in the morning.|(영어로) 종이는 좋아요. 경찰이 온 뒤로 파벨이 밤마다 우리 휴대폰을 걷어 갔다가 아침에 돌려줘요.
+Viktor|A1|Pavel? Vem är det?|파벨? 그게 누구예요?
+# 장면 2 — 오전 10시 40분, 같은 뒷방 (빅토르의 수첩에 적힌 시간표, 화면에 금이 간 라즈의 휴대폰, 케이블로 연결한 오프라인 노트북)
+Raj|A2|He came on board in Primorsk. Him and another man, a quiet one.|(영어로) 프리모르스크에서 탔어요. 그 사람이랑 다른 남자 하나. 말 없는 사람이요.
+Sasha|A2|Han kom ombord i Primorsk. Två ryssar, säger han.|프리모르스크에서 탔대요. 러시아인 둘이래요.
+Viktor|A1|När?|언제?
+Raj|A2|The third of March. The ship was empty. The captain said they were security from the charterer.|(영어로) 3월 3일이요. 배는 비어 있었어요. 선장이 그러는데 용선주 쪽에서 보낸 보안요원이래요.
+Sasha|B2|Säkerhetsvakter från den som hyr fartyget, sa kaptenen. Men ett tomt fartyg har ingen last att vakta, så antingen skulle de vakta något annat – eller någon.|배를 빌린 쪽에서 보낸 보안요원이라고 선장이 했대요. 근데 빈 배엔 지킬 화물이 없잖아요. 그럼 다른 무언가를 지키러 온 거죠. 아니면 누군가를요.
+Viktor|B1|Fråga honom om Pavel är hans riktiga namn, eller bara något han säger.|파벨이 진짜 이름인지, 아니면 그냥 그렇게 부르라는 건지 물어봐.
+Raj|B1|He said, "Call me Pavel." The bosun laughed and said that on ships like ours everybody is called Pavel.|(영어로) "파벨이라고 불러"라고 했어요. 갑판장이 웃으면서, 우리 같은 배에선 다들 이름이 파벨이라고 하더라고요.
+Viktor|B2|Då skriver jag "Pavel" inom citattecken. Det är vad han kallade sig, inte nödvändigtvis vem han är, och den skillnaden måste synas i varje mening vi skriver.|그럼 '파벨'은 따옴표 안에 쓸게. 그건 그 사람이 자칭한 이름이지, 꼭 그 사람이 누군지는 아니니까. 그 차이는 우리가 쓰는 문장마다 드러나야 해.
+Sasha|A1|And the tenth of March?|(영어로) 그럼 3월 10일은?
+Raj|B1|East of Gotland we stopped for six hours. We put the anchor down and up again, two times, and Pavel wrote numbers in a small book.|(영어로) 고틀란드 동쪽에서 여섯 시간 멈췄어요. 닻을 내렸다 올렸다 두 번 했고, 파벨이 작은 수첩에 숫자를 적었어요.
+Sasha|B2|Generalrepetitionen, alltså. Jag sa det i Stockholm: man mäter djupet och provar kättingen en vecka innan man gör det på riktigt.|그러니까 예행연습이었네요. 스톡홀름에서 제가 말했잖아요. 진짜로 하기 일주일 전에 수심을 재고 사슬을 시험해 보는 거라고.
+Viktor|B2|Då var det en teori. Nu säger ett vittne samma sak utan att ha hört den, men även ett trovärdigt vittne behöver något som går att kontrollera bredvid sig.|그땐 가설이었지. 이제 그 가설을 들어 본 적도 없는 증인이 같은 말을 하는 거고. 하지만 믿을 만한 증인이라도 옆에 확인할 수 있는 뭔가가 있어야 해.
+Sasha|A1|The seventeenth. Tell me.|(영어로) 17일. 말해 봐.
+Raj|B1|In the evening we stopped again, with no lights. I brought tea to the bridge, and Pavel had a laptop with a cable to the AIS.|(영어로) 저녁에 또 멈췄어요. 불을 다 끄고요. 제가 브리지에 차를 갖다 줬는데, 파벨이 노트북을 AIS에 케이블로 연결해 놨더라고요.
+Sasha|A2|And the screen? What did it show?|(영어로) 화면은? 뭐가 보였어?
+Raj|B1|Our ship, going fast to the north. But we were not moving – I looked out of the window, and the sea was flat.|(영어로) 우리 배요. 북쪽으로 빠르게 가는. 근데 우린 안 움직이고 있었어요. 창밖을 봤는데 바다가 잔잔했어요.
+Sasha|B2|Två fartyg, ett på skärmen och ett i vattnet – precis det som Amira hittade i loggarna, och precis det som ingen hade kunnat ordna utan en dator på bryggan.|배가 두 척인 거죠. 화면에 한 척, 물 위에 한 척. 아미라가 로그에서 찾아낸 거랑 똑같아요. 그리고 브리지에 컴퓨터 없이는 아무도 못 꾸미는 거고요.
+Viktor|A2|Och ankaret? När kom ordern?|그럼 닻은? 명령은 언제 내려왔어?
+Raj|B1|Later. Pavel told the captain: starboard anchor, let it go, and keep going slowly, like nothing happened. The captain shouted "nelzja, nelzja" – that is Russian for no.|(영어로) 나중에요. 파벨이 선장한테 그랬어요. 우현 닻, 내려, 그리고 아무 일 없는 것처럼 천천히 계속 가. 선장은 "넬쟈, 넬쟈" 하고 소리를 질렀어요. 러시아어로 안 된다는 뜻이에요.
+Sasha|B1|Han sa att vi skulle släppa ankaret och sedan fortsätta som om ingenting hade hänt.|파벨이 그랬대요. 닻을 내리고, 그다음엔 아무 일도 없었던 것처럼 계속 가라고.
+Viktor|A1|Och sedan?|그다음엔?
+Raj|B1|Then Pavel spoke to him very quietly, very close. After that the captain said to us: do what the man says, I have a family.|(영어로) 그러자 파벨이 아주 가까이 붙어서 조용히 뭐라고 했어요. 그 뒤로 선장이 우리한테 그랬어요. 저 사람 말대로 해, 나도 가족이 있어.
+Viktor|A2|Vem stod vid ankaret? Var han själv där?|닻 옆엔 누가 있었어? 본인도 거기 있었어?
+Raj|A2|Me, the bosun and two other boys. The captain said: only one light. So we turned on one lamp at the bow.|(영어로) 저, 갑판장, 그리고 다른 애들 둘이요. 선장이 불은 하나만 켜라고 해서, 뱃머리에 등 하나를 켰어요.
+Viktor|B2|En enda lampa i fören, strax före elva. Det har vi redan från två andra håll, som inte vet om varandra – och nu från en tredje som stod under lampan.|뱃머리에 등 하나, 11시 조금 전. 그건 서로 모르는 다른 두 군데서 이미 들었어. 그리고 이제 그 등 밑에 서 있던 세 번째 사람한테서도.
+Raj|B1|Then hours of noise. The chain sounded like a train. After a long time Pavel came to the bow himself and said: more chain, two more shackles.|(영어로) 그다음엔 몇 시간 동안 소음이요. 사슬이 기차 같은 소리를 냈어요. 한참 뒤에 파벨이 직접 뱃머리로 와서 그랬어요. 사슬 더, 두 섀클 더.
+Sasha|B1|Två kättingslängder till, alltså drygt femtio meter. Ju mer kätting som är ute, desto djupare gräver ankaret i botten.|사슬 두 마디 더면 50미터 남짓이에요. 사슬이 많이 나갈수록 닻이 바닥을 더 깊이 파고들어요.
+Raj|A2|And on the radio he told the bridge: turn north. I took one photo. Nobody saw me.|(영어로) 그리고 무전으로 브리지에 북쪽으로 틀라고 했어요. 제가 사진을 한 장 찍었어요. 아무도 못 봤어요.
+Viktor|A1|Vilken tid? Exakt.|몇 시였죠? 정확히.
+Raj|A2|Here is the photo. The phone says sixteen minutes past two.|(영어로) 여기 사진이요. 휴대폰엔 2시 16분이라고 나와요.
+Viktor|B1|Två och sexton? Det går inte ihop med det som står i mitt block.|2시 16분? 내 수첩에 적힌 거랑 안 맞는데.
+Sasha|A1|Raj – which clock?|(영어로) 라즈, 어느 시계 기준이야?
+Raj|B1|Moscow time. Pavel's rule: every clock on board is in Moscow time, our phones too.|(영어로) 모스크바 시간이요. 파벨 규칙이에요. 배 안 시계는 전부 모스크바 시간, 우리 휴대폰도요.
+Sasha|B2|I mars låg Moskva två timmar före svensk tid, så om telefonen säger två och sexton, var klockan sexton över tolv hos oss – och Pavel kom en minut innan.|3월엔 모스크바가 스웨덴보다 두 시간 빨랐어요. 그러니까 휴대폰이 2시 16분이면 우리 시간으로는 12시 16분이에요. 그리고 파벨은 그 1분 전에 왔고요.
+Viktor|A2|Läs här. Bara klockslaget.|여기 읽어 봐. 시각만.
+Sasha|A2|Kvart över tolv. Det stämmer med radarn på minuten.|열두 시 15분. 레이더랑 분 단위로 맞아요.
+Viktor|B2|Men klockan i en telefon kan vem som helst ställa om. Innan jag tror på bilden vill jag se originalfilen och dess metadata, inte en skärmdump.|하지만 휴대폰 시계는 누구든 바꿀 수 있어. 이 사진을 믿기 전에 원본 파일이랑 메타데이터를 봐야겠어. 화면 캡처 말고.
+Raj|B1|You can take the cable. I trust the sailor, and the photo is the only thing I have.|(영어로) 케이블 꽂으셔도 돼요. 전 선원 아저씨를 믿어요. 그리고 그 사진이 제가 가진 전부예요.
+Sasha|B1|Filen skapades 02.16.43 i samma telefonmodell som han håller i handen, och den har aldrig redigerats. Platsdata saknas – han hade stängt av platstjänsterna.|파일 생성 시각 02시 16분 43초, 지금 손에 든 것과 같은 기종이고, 편집된 적이 없어요. 위치 정보는 없어요. 꺼 놨었대요.
+Viktor|A1|Och bilden? Vad syns?|사진은? 뭐가 보여?
+Sasha|B2|Ankarspelet, kättingen som löper ut över kanten och märket på sjunde längden. Den bevisar inte var de var, men den visar vad de gjorde och när.|양묘기, 갑판 끝 너머로 풀려 나가는 사슬, 그리고 일곱 번째 마디의 표시요. 어디 있었는지는 증명 못 해도, 뭘 했는지, 언제 했는지는 보여 줘요.
+Raj|B1|In Finland it was the same man. I was at the wheel, and Pavel just pulled the cable out of the AIS. The screen went black.|(영어로) 핀란드에서도 같은 사람이었어요. 제가 키를 잡고 있었는데, 파벨이 AIS에서 케이블을 그냥 뽑았어요. 화면이 까매졌어요.
+Sasha|A1|What time?|(영어로) 몇 시?
+Raj|A2|Twelve minutes past two. Same clock.|(영어로) 2시 12분이요. 같은 시계로요.
+Sasha|B2|Och sedan förra söndagen har Finland sommartid, så där är Moskvatid och finsk tid samma sak. 02.12 – exakt den minut då signalen slocknade i Amiras logg.|그리고 지난 일요일부터 핀란드는 서머타임이라, 거기선 모스크바 시간이랑 핀란드 시간이 같아요. 02시 12분. 아미라 로그에서 신호가 꺼진 바로 그 분이에요.
+Viktor|B2|Två nätter, två metoder, samma man vid samma apparat. Om han hade hittat på det här, hade han aldrig kunnat träffa båda klockslagen på minuten.|이틀 밤, 두 가지 방법, 같은 기계 앞의 같은 남자. 이걸 지어낸 거라면 두 시각을 다 분 단위로 맞출 수는 절대 없었을 거야.
+Raj|B1|Sir, one more thing. On Wednesday, when I lifted my hand to your boat – the man in the black jacket was Pavel. He saw me.|(영어로) 선생님, 하나 더요. 수요일에 제가 그쪽 배를 향해 손을 들었을 때요. 그 검은 재킷 입은 남자가 파벨이었어요. 그 사람이 절 봤어요.
+Mikaela|A2|Bussen går om tio minuter. Han måste ut nu, före de andra.|버스가 10분 뒤에 떠나요. 지금 나가야 해요. 다른 사람들보다 먼저.
+# 장면 3 — 낮 12시 15분, 선교센터 뒤 부두 (떠나간 선교회 버스, 바닷바람에 펄럭이는 수첩 장, 빅토르의 녹음기와 연필)
+Sasha|A2|Bussen åkte. Han tittade inte bakåt en enda gång.|버스 떠났어요. 한 번도 뒤를 안 돌아봤어요.
+Viktor|B2|Det var klokt av honom. Om Pavel står vid relingen när de kommer tillbaka, får han inte se en man som just har pratat med journalister.|현명했어. 돌아갔을 때 파벨이 난간에 서 있다면, 방금 기자들이랑 얘기하고 온 남자로 보이면 안 되니까.
+Sasha|B1|Jag hade hjärtat i halsgropen hela tiden. Varje gång någon gick förbi i korridoren trodde jag att det var han.|저 내내 심장이 목구멍까지 올라와 있었어요. 복도로 누가 지나갈 때마다 그 사람인 줄 알았어요.
+Viktor|B2|Inspelningen finns bara här, krypterad, och bilden ligger på den gamla datorn som aldrig har varit uppkopplad. Namnet skriver jag med blyerts, så att det bara finns på ett enda ställe – ett som jag kan bränna om det skulle behövas.|녹음은 여기에만, 암호화돼서 있어. 사진은 인터넷에 한 번도 연결된 적 없는 옛 노트북에 있고. 이름은 연필로 적어. 단 한 군데에만 있게. 필요하면 태워 버릴 수 있는 곳에.
+Sasha|A2|Och Stockholm? Vad får Sofia veta?|스톡홀름은요? 소피아는 뭘 알게 돼요?
+Viktor|B1|Att vi har en källa i besättningen. Inget namn, inget land – och inte ens det skriver jag i ett mejl.|선원 중에 취재원이 있다는 것만. 이름도, 나라도 없이. 그것조차 메일로는 안 써.
+Sasha|B1|Okay, so… nu skriver vi? Vi har tid, plats, metod och en man som såg allt – kanske till och med med hans namn, om han går med på det.|좋아요, 그럼… 이제 쓰는 거죠? 시간, 장소, 방법, 그리고 다 본 사람까지 있잖아요. 본인이 동의하면 이름까지 넣을 수도 있고요.
+Viktor|A1|Nej. Inte än.|아니. 아직은.
+Sasha|A1|Varför inte?|왜요?
+Viktor|B2|Om vi publicerar hans namn nu, innan han har lämnat landet, kan vi i värsta fall sätta hans liv på spel.|지금, 그가 이 나라를 떠나기 전에 이름을 내보내면, 최악의 경우 그의 목숨을 위험에 빠뜨릴 수 있어.
+Sasha|B2|Då tänker jag tvärtom. Ett vittne som hela världen känner till är svårare att få att försvinna än ett som ingen vet om – i Ukraina har vi lärt oss att tystnad skyddar dem som har makt, inte de svaga.|전 반대로 생각해요. 온 세상이 아는 증인은 아무도 모르는 증인보다 사라지게 만들기 어려워요. 우크라이나에서 배웠어요. 침묵은 힘 있는 사람을 지키지, 약한 사람을 지키지 않는다는 걸요.
+Viktor|B2|Ibland. Men det valet måste han göra själv, och han bad om motsatsen. Dessutom stod bara fyra män i fören den natten – även utan namn vet Pavel på en sekund vem som har pratat.|가끔은. 하지만 그건 본인이 골라야 하는 거고, 그는 정반대를 부탁했어. 게다가 그날 밤 뱃머리엔 네 명밖에 없었어. 이름을 안 써도 파벨은 1초 만에 누가 말했는지 알 거야.
+Sasha|B2|Och om han försvinner innan vi har skrivit en enda rad, då har ingen ens hört hans röst. Har du tänkt på det?|그리고 우리가 한 줄도 쓰기 전에 그가 사라지면, 아무도 그의 목소리를 못 들은 게 되는 거예요. 그 생각은 해 봤어요?
+Viktor|A2|Varje dag sedan 2019.|2019년부터 매일.
+Sasha|A1|2019?|2019년이요?
+Viktor|B2|Jag hade en källa en gång, sjutton år gammal, och hans händer skakade precis som Rajs. Någon läckte hans namn, och jag har aldrig fått veta vem.|예전에 취재원이 하나 있었어. 열일곱 살이었고, 라즈처럼 손을 떨었지. 누군가 그 애 이름을 흘렸어. 누군지는 끝내 알아내지 못했고.
+Sasha|A1|Lever han?|살아 있어요?
+Viktor|A1|Nej.|아니.
+Sasha|A2|Förlåt. Det visste jag inte.|미안해요. 몰랐어요.
+Viktor|A2|Artikeln kan vänta en vecka. Raj har bara ett liv.|기사는 일주일 기다릴 수 있어. 라즈 목숨은 하나뿐이고.
+Ann-Sofie|A2|Viktor? Det är Ann-Sofie. Har du en minut?|빅토르? 안소피예요. 잠깐 시간 있어요?
+Viktor|A2|Vi står nere vid hamnen. Berätta.|우리 항구에 나와 있어요. 말해 봐요.
+Ann-Sofie|B2|Polisen har hävt utreseförbudet för tjugoen av de tjugofyra. De får tillbaka sina pass i eftermiddag och flyttas till sjömanshotellet, tills bemanningsagenturen har bokat flyg hem åt dem.|경찰이 스물네 명 중 스물한 명의 출국 금지를 풀었어요. 오늘 오후에 여권을 돌려받고, 선원 송출 에이전시가 귀국 비행기를 예약할 때까지 선원 호텔로 옮겨진대요.
+Viktor|A2|Och de tre andra?|나머지 셋은요?
+Ann-Sofie|B1|Kaptenen och två till. Vilka de två är vill polisen int säga, fast jag har frågat tre gånger. I kväll åker jag till hotellet och pratar med dem som får åka hem.|선장이랑 두 명 더요. 그 둘이 누군지는 경찰이 말을 안 해요. 세 번이나 물어봤는데. 저녁에 호텔에 가서 집에 가게 된 사람들이랑 얘기해 볼 거예요.
+Sasha|B2|Två till. Om det är Pavel och den tyste, sitter de fast ombord, och då är Raj säkrare i land än han har varit på flera veckor.|두 명 더. 그게 파벨이랑 그 말 없는 남자라면 둘은 배에 묶여 있는 거고, 그럼 라즈는 몇 주 만에 처음으로 육지에서 더 안전한 거예요.
+Viktor|B1|Jag gav honom mitt Signalnummer på en papperslapp. Han skriver när han har fått passet.|시그널 번호를 종이쪽지에 적어 줬어. 여권 받으면 연락하기로 했어.
+# 장면 4 — 오후 5시 30분, 카우파토리(Salutorget) 시장 (하나둘 문 닫는 노점, 깃털 단 자작나무 가지 다발, 상자에 담긴 검은 부활절 푸딩, 빅토르의 휴대폰 화면 속 알바)
+Sasha|A2|Vad är det här? Det ser ut som tjära i en låda.|이게 뭐예요? 상자에 담긴 타르 같은데요.
+Viktor|B1|Mämmi, finsk påskpudding av råg och malt. Ann-Sofie säger att man antingen älskar den eller aldrig rör den igen.|맴미야. 호밀이랑 맥아로 만든 핀란드 부활절 푸딩. 안소피 말로는 좋아하게 되든가, 두 번 다시 손도 안 대든가 둘 중 하나래.
+Sasha|B1|Jag tar en bild till Olena. Vår påsk kommer först den tolfte april, och då ringer jag hem hela dagen – om nätet håller.|올레나한테 보내게 사진 찍을게요. 우리 부활절은 4월 12일에야 와요. 그날은 하루 종일 집에 전화할 거예요. 통신망이 버텨 주면요.
+Viktor|A2|Vänta. Alva ringer. Hon vill ha video.|잠깐. 알바 전화야. 영상통화 하재.
+Alva|A1|Hej pappa! Ser du?|아빠 안녕! 보여?
+Viktor|A1|Ägg! Vilka fina ägg.|달걀이네! 예쁘다.
+Alva|B1|Jag har målat tolv stycken med mamma. Det här ägget är du – med block och penna, förstås.|엄마랑 열두 개 칠했어. 이 달걀은 아빠야. 당연히 수첩이랑 펜 들고.
+Viktor|A2|Jag ser trött ut på ägget.|달걀 속 나 피곤해 보인다.
+Alva|B1|Du ser alltid trött ut. Var är du någonstans? Det låter som om du står mitt i en storm.|아빠는 늘 피곤해 보여. 근데 어디야? 폭풍 한가운데 서 있는 것 같은 소리가 나.
+Viktor|A2|I Helsingfors. På ett torg vid havet.|헬싱키. 바닷가 광장이야.
+Alva|A2|Pappa, jobbar du igen? Det är ju påskafton.|아빠, 또 일해? 부활절 전야잖아.
+Viktor|B1|Ja. Jag flög till Blåkulla i torsdags som alla andra påskkärringar, och sedan hittade jag inte hem igen.|응. 목요일에 다른 부활절 마녀들처럼 블로쿨라로 날아갔는데, 그다음에 집에 가는 길을 못 찾았어.
+Alva|A2|Det där var så dåligt. Du är världens sämsta påskkärring.|그거 진짜 별로야. 아빠는 세상에서 제일 못하는 부활절 마녀야.
+Viktor|A2|Jag vet. Förlåt för den här veckan.|알아. 이번 주는 미안해.
+Alva|B1|Det var ju din vecka, och mamma fick ändra hela påsken. Men hon har gjort Janssons, så det gör inget. Nästan.|아빠 주였잖아. 엄마가 부활절 계획을 다 바꿔야 했어. 그래도 엄마가 얀손 그라탱 만들어서 괜찮아. 거의.
+Viktor|A2|Spara ett ägg åt mig. Det med blocket.|달걀 하나 남겨 줘. 수첩 그려진 거.
+Alva|B1|Om du kommer hem på annandagen. Men vad håller du i handen hela tiden? Är det det där halsbandet?|부활절 월요일에 오면. 근데 손에 계속 뭘 쥐고 있어? 그 목걸이야?
+Viktor|B2|Ja. Det är en väns. Jag håller i det när jag behöver påminna mig om varför jag gör det här.|응. 친구 거야. 내가 왜 이 일을 하는지 되새겨야 할 때 쥐고 있어.
+Alva|A2|Du tänker för mycket. Glad påsk, pappa.|아빠는 생각이 너무 많아. 즐거운 부활절 보내, 아빠.
+Viktor|A1|Glad påsk, gumman.|즐거운 부활절, 우리 딸.
+Sasha|B1|Din telefon surrade två gånger medan du pratade med henne. Jag tittade inte.|알바랑 통화하는 동안 휴대폰이 두 번 울렸어요. 전 안 봤어요.
+Viktor|B1|Från honom, 17.10: "Passport OK. Hotel, room 312. I write you at seven." Då är han i land, med passet i handen.|그 사람한테서, 17시 10분. "여권 OK. 호텔 312호. 7시에 연락할게요." 그럼 육지에 있는 거네. 여권 들고.
+# 장면 5 — 저녁 7시 40분, 선원 호텔 3층 (복도의 형광등, 활짝 열린 312호 문, 반듯하게 정리된 침대, 탁자 위의 인도 여권)
+Sasha|B1|Tjugo i åtta. Han skulle skriva klockan sju, och han har inte ens läst ditt senaste meddelande.|8시 20분 전이에요. 7시에 연락한다더니, 당신이 보낸 마지막 메시지도 안 읽었어요.
+Ann-Sofie|A2|Viktor, det är Ann-Sofie. Kom till sjömanshotellet. Nu.|빅토르, 안소피예요. 선원 호텔로 와요. 지금.
+Viktor|A1|Vad har hänt?|무슨 일이에요?
+Ann-Sofie|B1|Jag är här för att intervjua dem som får åka hem. En av dem kom aldrig ner till middagen – den unga killen som höll upp handen mot oss i onsdags.|집에 가게 된 사람들 인터뷰하러 와 있거든요. 그중 하나가 저녁 먹으러 끝내 안 내려왔어요. 수요일에 우리한테 손 들어 보였던 그 젊은 친구요.
+Mikaela|A2|Där är ni. Rum 312. Jag öppnade med personalens nyckel.|오셨네요. 312호예요. 직원 열쇠로 열었어요.
+Sasha|A1|Är han inte där?|안에 없어요?
+Mikaela|B1|Sängen är bäddad, som om ingen har legat i den. Väskan står i garderoben, men telefonen och jackan är borta.|침대는 아무도 누운 적 없는 것처럼 정리돼 있어요. 가방은 옷장에 있는데, 휴대폰이랑 재킷이 없어요.
+Viktor|A2|Såg någon honom gå ut?|그가 나가는 걸 본 사람 있어요?
+Ann-Sofie|B1|Receptionisten säger att två män frågade efter en av sjömännen från Eventide Star strax före sju. De talade engelska, och ingen frågade vad de hette.|프런트 직원 말로는 7시 조금 전에 남자 둘이 Eventide Star 선원 하나를 찾았대요. 영어로 말했고, 아무도 그 사람들 이름을 안 물어봤대요.
+Viktor|A1|Och passet?|여권은요?
+Mikaela|A2|Det ligger på bordet. Han tog det inte ens med sig.|탁자 위에 있어요. 가져가지도 않았어요.
+Sasha|A2|Bozhe… ingen sjöman lämnar sitt pass. Aldrig.|맙소사… 선원은 절대 여권을 두고 가지 않아요. 절대로.
+Viktor|B2|Jag lät honom åka tillbaka till fartyget i morse och lovade honom en vecka, som om en vecka var något jag kunde ge bort. Jag kom för sent – igen.|오늘 아침 배로 돌려보내면서 일주일을 약속했어요. 일주일이 무슨 내가 줄 수 있는 거라도 되는 것처럼. 또 늦었어요.
+Mikaela|B2|Han sa nej till polisen för att skydda det han berättade för er. Men nu handlar det inte längre om hans ord, utan om var han är.|그 사람이 경찰은 싫다고 한 건 당신들한테 한 말을 지키려고였어요. 하지만 이제는 그의 말이 아니라, 그가 어디 있느냐의 문제예요.
+Viktor|B2|Ring dem. Men säg bara att en sjöman saknas – inte vad han har sagt, och inte att han har träffat oss.|전화하세요. 다만 선원 한 명이 없어졌다고만 하세요. 그가 무슨 말을 했는지도, 우리를 만났다는 것도 말하지 말고요.
+Ann-Sofie|B2|Jag frågar int varför. Men jag ringer, för det hade jag gjort även om jag aldrig hade sett er.|왜냐고는 안 물을게요. 그래도 전화는 해요. 두 분을 본 적이 없었더라도 그랬을 테니까.
+Sasha|B1|Han lämnade passet där vi skulle se det. Kanske ville han säga något som han inte vågade skriva.|우리가 보라고 여권을 거기 둔 거예요. 차마 문자로는 못 쓴 말을 하려던 건지도 몰라요.
+Ann-Sofie|A2|Hans rum är tomt. Passet ligger kvar på bordet.|(경찰에 전화로) 방이 비었어요. 여권은 탁자 위에 그대로 있고요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Jag är rädd.** | 저 무서워요. | *rädd*(두려운)는 형용사라 *vara*와 함께 쓴다: *Jag är rädd.* 무엇이 무서운지는 *för*: *Jag är rädd för honom.*(그 사람이 무서워요) 걱정되는 일은 *för att*: *Jag är rädd för att han ska försvinna.* 라즈가 목요일에 미카엘라에게 배워 와서 맨 먼저 꺼낸 스웨덴어 문장이다 |
+| `A2` | **Han kom ombord i Primorsk.** | 그는 프리모르스크에서 배에 탔다. | *komma ombord*(승선하다)의 과거형 *kom*. 장소는 *i* + 도시 이름. 반대말은 *gå i land*(상륙하다), 장면 3의 *i land*(육지에)도 같은 말이다. *ombord*는 원래 *om bord*(뱃전 안에) — 비행기·기차에도 쓴다 |
+| `B1` | **Han sa att vi skulle släppa ankaret och sedan fortsätta som om ingenting hade hänt.** | 그가 그랬다. 닻을 내리고, 그다음엔 아무 일도 없었던 것처럼 계속 가라고. | 명령을 간접화법으로 옮길 때는 *skulle* + 원형(~하라고). *som om*(마치 ~인 것처럼) 뒤에는 흔히 과거·과거완료가 온다: *som om ingenting hade hänt.* *släppa ankaret*(닻을 내리다/놓다) ↔ *hiva ankaret*(닻을 올리다) |
+| `B2` | **Om vi publicerar hans namn nu, innan han har lämnat landet, kan vi i värsta fall sätta hans liv på spel.** | 지금, 그가 이 나라를 떠나기 전에 이름을 내보내면, 최악의 경우 그의 목숨을 위험에 빠뜨릴 수 있다. | *om*절이 앞에 오면 주절은 동사부터: *…, kan vi…*(V2 어순). *innan han har lämnat* — 미래의 일이라도 '먼저 끝나 있을 일'은 현재완료. *i värsta fall*(최악의 경우), *sätta något på spel*(무엇을 걸다, 위태롭게 하다) |
+| `A1` | **Vilken tid? Exakt.** | 몇 시였죠? 정확히. | *Vilken tid?*는 *Hur mycket är klockan?*보다 짧은 '시각 확인' 질문. 빅토르식 인터뷰의 기본형 — 두 단어 질문으로 증언을 숫자로 바꾼다. 시각 읽기: *kvart över tolv*(12시 15분), *tjugo i åtta*(8시 20분 전 = 7시 40분), *sexton över tolv*(12시 16분) |
+| `A2` | **Artikeln kan vänta en vecka. Raj har bara ett liv.** | 기사는 일주일 기다릴 수 있어. 라즈 목숨은 하나뿐이고. | 짧은 두 문장의 대구. *kan vänta*(기다릴 수 있다) — 조동사 + 원형. *bara ett liv*: *liv*는 중성 명사라 *ett*. 이 화에서 빅토르가 내린 결정 전체가 이 두 문장에 들어 있다 |
+| 관용구 | **ha hjärtat i halsgropen** | 심장이 목구멍까지 올라오다 — 몹시 조마조마하다 | *halsgrop*은 목 아래 쇄골 사이의 오목한 곳. 긴장하면 심장 박동이 거기까지 느껴진다는 표현이다. 과거형으로 자주 쓴다: *Jag hade hjärtat i halsgropen hela tiden.* 비슷한 말: *vara nervös som en kiss*(구어) |
+| 안보·법 | **utreseförbud** | 출국 금지 | *utresa*(출국) + *förbud*(금지). 동사는 *häva*(해제하다): *Polisen har hävt utreseförbudet.*(경찰이 출국 금지를 풀었다) 관련어: *beslag*(압류), *flaggstat*(선적국), *bemanningsagentur*(선원 송출 에이전시) |
+
+## 저널리즘·법 메모
+이 화의 원칙은 단순하다: 취재원의 생명이 보도 가치보다 앞선다. 빅토르는 라즈의 이름을 기사에 쓰지 않기로 약속했지만, 그것만으로는 부족하다는 것도 안다 — 그날 밤 뱃머리에 서 있던 사람은 넷뿐이어서, "닻 옆에서 무슨 일이 있었는지"를 쓰는 순간 이름 없이도 취재원이 특정될 수 있다(이른바 '퍼즐 맞추기식 신원 노출'). 그래서 보도 시점 자체를 라즈가 무사히 귀국한 뒤로 미루고, 녹음은 암호화 장치에, 사진은 인터넷에 연결된 적 없는 컴퓨터에, 이름은 종이 수첩에만 남긴다. 동시에 증언은 '믿어 주는' 대상이 아니라 '확인하는' 대상이다: 빅토르는 라즈의 말을 레이더 항적(00:15), 공개 AIS 기록(02:12), 다른 두 목격자의 '불빛 하나', 그리고 사진 원본 파일의 메타데이터와 하나씩 대조하고, 모스크바·스웨덴·핀란드의 시차까지 계산해 분 단위로 맞는다는 것을 확인한다. 끝으로, 라즈가 사라졌을 때 실종 신고는 하되 그가 한 말과 기자를 만났다는 사실은 경찰에 넘기지 않는다 — 스웨덴 기자의 침묵 의무(*tystnadsplikt*)는 취재원이 위험에 처했을 때도 취재원의 동의 없이는 풀리지 않는다.
+
+## 문화·현안 메모
+- **부활절 전야(*påskafton*)** — 스웨덴에서는 부활절 당일보다 전날 토요일이 더 큰 명절이다. 저녁 *påskbord*에는 청어 절임(*sill*), 삶은 달걀, 연어, 감자와 안초비로 만든 그라탱 *Janssons frestelse*가 오르고, 아이들은 사탕을 채운 종이 달걀(*påskägg*)을 받는다. 성목요일에 마녀들이 빗자루를 타고 *Blåkulla*(블로쿨라)로 날아간다는 옛 민담 때문에 아이들이 *påskkärring*(부활절 마녀)로 꾸미고 다닌다 — 빅토르의 서툰 농담이 여기서 나왔다. 부활절 다음 월요일 *annandag påsk*도 공휴일이다.
+- **핀란드의 *mämmi*와 두 개의 부활절** — *mämmi*는 호밀가루와 맥아를 오래 구워 만든 검고 끈적한 핀란드 부활절 디저트로, 크림과 설탕을 얹어 먹는다. 한편 우크라이나처럼 정교회 달력을 따르는 나라는 부활절 날짜가 다르다 — 2026년 서방 교회의 부활절은 4월 5일, 정교회 부활절은 4월 12일이다.
+- **선원들의 처지** — 인도는 세계적인 선원 공급국이고, 케랄라는 대대로 선원과 해외 노동자를 많이 배출한 지역이다. 노후 유조선에서는 송출 에이전트가 불법으로 '취업비'를 떼 가거나, 몇 달씩 임금이 밀려 선원들이 돈 때문에 배를 떠나지 못하는 일이 국제 해운 단체들에 의해 반복적으로 보고되어 왔다. 항구마다 있는 선원 선교센터(핀란드 선원 선교회, 스웨덴 교회의 해외 선원 교회 등)는 무료 인터넷·충전기·커피를 내주며 선원들의 피난처 역할을 한다.
+- **시간대** — 모스크바는 1년 내내 UTC+3이다. 스웨덴은 겨울 UTC+1·여름 UTC+2, 핀란드는 겨울 UTC+2·여름 UTC+3이며, EU의 서머타임은 3월 마지막 일요일(2026년은 3월 29일)에 시작한다. 그래서 3월 17일 밤엔 모스크바가 스웨덴보다 두 시간 빨랐고, 3월 31일 핀란드만에서는 모스크바 시간과 핀란드 시간이 같았다.
+- ⚠️ 라즈(Rajesh Nair)와 그의 가족, "파벨", *Eventide Star*와 그 선원들, 미카엘라 린드루스, 안소피 홀름크비스트와 *Nyländska Posten*, 선원 호텔, Stockholmsposten은 모두 허구다. 헬싱키 서항·카우파토리 시장, 프리모르스크 항, 케랄라·알라푸자·코치는 실재하며, 이 화의 증언과 수사 상황은 극적 구성이다.
+
+## 다음 화 예고
+> 4월 9일, 스톡홀름 유르고르덴 다리 위. 헨릭의 옛 군 동기가 담배 연기 사이로 이름 대신 손가락만 세어 보인다: "Du har inte hört det här från mig, Hesa."
