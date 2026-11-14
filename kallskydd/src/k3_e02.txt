@@ -1,0 +1,187 @@
+@title 3부 2화 — AIS
+@subtitle (선박 위치 신호)
+@meta 날짜|2026년 3월 20일 금요일 새벽 6시 10분 ~ 밤 11시 50분 (케이블 절단 이틀 뒤)
+@meta 장소|베스트베리아 물류창고 직원 휴게실 (새벽 6시 10분) → 쿵스홀멘 Stockholmsposten 지하 "Källaren" (낮 12시 50분) → 같은 Källaren, 화상통화와 방문객 (오후 2시 30분 ~ 3시 10분) → 같은 Källaren, 아미라의 모니터 앞 (오후 5시 30분) → 피트야, 사샤의 원룸 (밤 11시 30분)
+@meta 등장인물|**Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Sasha** (올렉산드르 "사샤" 코발렌코, 35, 우크라이나 해군 대위 출신 — 임시보호 지위, 물류창고 야간 근무) · **Viktor** (빅토르, 47, 탐사기자) · **Noah** (노아 베리룬드, 24, 인턴) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Katja** (카탸 린델, 29, 위성사진을 파는 프리랜서) · **Olena** (올레나 코발렌코, 34, 사샤의 아내 — 하르키우)
+@intro **지난 이야기** — 3월 18일 새벽 2시 40분, 고틀란드–라트비아 해저케이블이 끊겼다. 상업용 AIS 아카이브 속 *Eventide Star*는 11노트로 곧게 지나갔지만, 고틀란드 수신국의 신호 세기는 밤새 변하지 않았다 — 위치가 위조된 '유령 항적'이었다. 배는 가봉 선적에 3년간 이름이 네 번 바뀌었고, 소유 회사의 주소는 다시 리마솔의 그 건물이었다. 저녁, 라우카르 위에서 헨릭이 말했다: "닻이 40킬로미터를 끌렸어. 실수로 그러는 사람은 없어."
+@intro 이틀 뒤, 3월 20일 금요일 새벽 6시 10분. 스톡홀름 남쪽 베스트베리아의 물류창고. 형광등이 윙윙거리는 직원 휴게실에서, 형광 조끼를 벗지 않은 남자가 자판기 앞에 서 있다. 아미라가 우크라이나 해양 OSINT 그룹 채팅에서 3년 동안 닉네임으로만 알던 사람이다.
+# 장면 1 — 새벽 6시 10분, 베스트베리아 물류창고 직원 휴게실 (윙윙거리는 형광등, 자판기 커피, 비닐 덮인 식탁, 각설탕 통, 야간 근무를 마친 사샤의 형광 조끼)
+Amira|A1|Hej. Är det du som är Sasha?|안녕하세요. 사샤 씨죠?
+Sasha|A2|Kanske. Mitt pass slutade för tio minuter sedan. Vem frågar?|그럴 수도요. 내 근무는 10분 전에 끝났어요. 누가 묻는 거죠?
+Amira|A2|Amira. Jag skrev till dig i går kväll, i gruppen.|아미라예요. 어젯밤에 메시지 보냈잖아요, 그룹에서.
+Sasha|A2|I gruppen finns det ingen Amira. Bara smeknamn.|그룹엔 아미라가 없어요. 닉네임뿐이죠.
+Amira|B1|Fyrskepp. Jag har varit med i Chvylja sedan 2023, och du rättade min första karta – jag hade blandat ihop knop och kilometer i timmen.|'등대선'이요. 2023년부터 흐빌랴에 있었고, 당신이 내 첫 지도를 고쳐 줬어요. 내가 노트랑 시속 킬로미터를 헷갈렸거든요.
+Sasha|B1|Fyrskepp! Okay… jag trodde att Fyrskepp var en gammal kapten från Göteborg, med skägg.|등대선! 오케이… 난 등대선이 수염 난 예테보리 출신 늙은 선장인 줄 알았어요.
+Amira|A2|Göteborg stämmer i alla fall. Skägget har jag inte.|예테보리는 맞아요. 수염은 없지만.
+Sasha|B1|Ta en kaffe från maskinen. Den smakar diesel, men den är varm. Varför kommer du hit klockan sex, när du kunde skriva i chatten?|자판기 커피 하나 마셔요. 디젤 맛인데 따뜻은 해요. 채팅으로 쓰면 될 걸 왜 새벽 6시에 여기까지 왔어요?
+Amira|B2|För att det jag vill fråga inte borde stå i en grupp med fyrahundra medlemmar, hur pålitliga de än verkar. Jag vet inte vilka alla är.|내가 묻고 싶은 건 회원 400명짜리 그룹에 남으면 안 되니까요. 다들 아무리 믿을 만해 보여도요. 그 사람들이 다 누군지 모르잖아요.
+Sasha|A1|Bra svar. Fråga.|좋은 대답이네요. 물어봐요.
+Amira|B2|Eventide Star. Natten till onsdag påstod dess AIS att fartyget gick elva knop rakt norrut, men en mottagare på Gotland hörde signalen med exakt samma styrka i sex timmar, som om sändaren aldrig hade rört sig.|Eventide Star요. 수요일 새벽에 그 배 AIS는 북쪽으로 11노트 직진 중이라고 했는데, 고틀란드의 한 수신기에선 여섯 시간 내내 신호 세기가 똑같았어요. 송신기가 한 번도 안 움직인 것처럼요.
+Sasha|A1|Och radarn?|레이더는요?
+Amira|B1|Det kan jag inte berätta. Men jag kan säga att någonting annat inte stämmer med signalen.|그건 말할 수 없어요. 하지만 다른 뭔가가 신호랑 안 맞는다는 건 말할 수 있어요.
+Sasha|B1|Okay, so… fartyg ljuger inte. Människor ljuger.|오케이, 그러니까… 배는 거짓말 안 해요. 사람이 거짓말하죠.
+Amira|A1|Hur menar du?|무슨 뜻이에요?
+Sasha|B2|AIS är en människa som pratar i radion: namn, kurs, fart, vart man ska. Men stålet, vattnet och motorn kan inte ljuga, så den som vill veta sanningen jämför det som fartyget säger med det som fartyget gör.|AIS는 무전으로 말하는 사람이에요. 이름, 침로, 속도, 목적지. 하지만 강철이랑 물이랑 엔진은 거짓말을 못 해요. 그러니까 진실을 알고 싶으면 배가 하는 말이랑 배가 하는 짓을 비교하는 거죠.
+Amira|A2|Kan du visa mig? Jag har datorn med mig.|보여 줄 수 있어요? 노트북 가져왔어요.
+Sasha|B1|Ingen dator. Här är bordet. Koppen är Gotland, sockerbiten är Ventspils, och mitt finger är fartyget.|컴퓨터 말고요. 여기 식탁이 있잖아요. 컵이 고틀란드, 각설탕이 벤츠필스, 내 손가락이 배예요.
+Amira|A1|Okej. Kör.|좋아요. 해 봐요.
+Sasha|B1|Fartyget går här, och några gånger i minuten ropar det: ”Här är jag.” Mottagare på land hör det ungefär fyrtio sjömil ut. Längre ut lyssnar satelliterna.|배가 여기로 가면서 1분에 몇 번씩 외쳐요. "나 여기 있어." 육지 수신기는 대략 40해리까지 들어요. 그보다 멀면 위성이 듣고요.
+Amira|A2|Och när den slutar ropa?|그럼 외치는 걸 멈추면요?
+Sasha|B2|Då finns det tre möjligheter: antingen är det fel på sändaren, eller så stör någon GPS-signalen i området, eller så har kaptenen helt enkelt tryckt på knappen. I skuggflottan är det tredje vanligast.|그럼 가능성이 세 개예요. 송신기가 고장 났거나, 누가 그 지역 GPS 신호를 교란하거나, 아니면 선장이 그냥 버튼을 눌렀거나. 그림자 선단에선 세 번째가 제일 흔해요.
+Amira|A1|Hur ser man skillnaden?|차이는 어떻게 알아요?
+Sasha|B1|Man tittar på grannarna. Om alla fartyg runt omkring tappar signalen samtidigt, är det störning. Om bara ett fartyg blir tyst, är det ett beslut.|이웃을 봐요. 주변 배가 다 동시에 신호를 잃으면 교란이에요. 한 척만 조용해지면, 그건 결정이고요.
+Amira|B1|Fan, så enkelt. Varför har jag aldrig tänkt på det?|젠장, 그렇게 간단하다니. 난 왜 그 생각을 한 번도 못 했지?
+Sasha|B1|För att du tittar på skärmar. Jag har stått på en brygga i tolv år.|당신은 화면을 보니까요. 난 12년 동안 함교에 서 있었어요.
+Amira|B2|I flottan? Det har du aldrig nämnt i gruppen, trots att du har rättat varenda karta jag har lagt upp i tre år.|해군에서요? 3년 동안 내가 올린 지도를 하나도 빠짐없이 고쳐 주면서, 그룹에선 그 얘기 한 번도 안 했잖아요.
+Sasha|B2|Kaptenlöjtnant i ukrainska flottan, utskriven 2023. Nu kör jag truck på natten och flyttar pallar med hundmat, vilket är ett ärligt jobb, men knappast vad jag hade tänkt mig.|우크라이나 해군 대위, 2023년 전역. 지금은 밤에 지게차 몰면서 개 사료 팔레트를 옮겨요. 정직한 일이지만, 내가 생각했던 삶은 아니죠.
+Amira|A2|Vill du hjälpa oss? På riktigt, på redaktionen?|우리 도와줄래요? 진짜로, 편집국에서요?
+Sasha|B2|Ett villkor. Mitt namn skriver du inte – inte Kovalenko, inte Sasha, inte ens ”en ukrainsk officer”. Min fru och min dotter bor kvar i Charkiv, och jag har bara tillfälligt skydd här.|조건 하나. 내 이름은 쓰지 마요. 코발렌코도, 사샤도, "우크라이나 장교"조차도요. 아내랑 딸이 아직 하르키우에 살고, 난 여기서 임시 보호 지위일 뿐이에요.
+Amira|B1|Jag är journalist, inte polis. Du bestämmer vad jag får skriva.|난 기자지 경찰이 아니에요. 뭘 써도 되는지는 당신이 정해요.
+Sasha|A2|Bra. Jag sover fyra timmar först. Var ligger er tidning?|좋아요. 먼저 네 시간 잘게요. 신문사가 어디예요?
+Amira|A2|På Kungsholmen. Kom klockan tolv, så käkar vi först. Jag bjuder.|쿵스홀멘이요. 12시에 와요, 밥부터 먹어요. 내가 살게요.
+# 장면 2 — 낮 12시 50분, Källaren (아미라의 모니터 두 대, Eventide Star의 12개월 AIS 기록, 항공기 GPS 교란 공개 지도, 빅토르의 종이 수첩)
+Viktor|A1|Välkommen. Jag är Viktor.|어서 와요. 빅토르예요.
+Sasha|A2|Sasha. Bara Sasha, här inne.|사샤예요. 여기 안에선 그냥 사샤.
+Viktor|B2|Amira har berättat om ditt villkor, och jag lovar att ditt namn inte kommer att stå i någon text och inte heller i någon av våra datorer, eftersom det som aldrig skrivs in aldrig kan läcka ut.|아미라한테 조건 들었어요. 약속하죠. 당신 이름은 어떤 기사에도, 우리 컴퓨터 어디에도 안 들어가요. 입력하지 않은 건 샐 수도 없으니까.
+Sasha|A1|Var står det, då?|그럼 어디 적혀요?
+Viktor|A1|Här. I mitt block. Bara ett S.|여기요. 내 수첩에. S 한 글자만.
+Sasha|B1|Bra. Papper kan man bränna, men en server glömmer aldrig.|좋네요. 종이는 태울 수 있지만, 서버는 절대 안 잊어요.
+Amira|B1|Okej, jobb. Jag har laddat ner Eventide Stars AIS-historik för de senaste tolv månaderna, från arkivet och från tre öppna mottagare.|좋아, 일하자. Eventide Star의 지난 12개월 AIS 기록을 받아 놨어. 아카이브랑 공개 수신기 세 곳에서.
+Noah|A1|Vad letar vi efter?|우리 뭘 찾는 거예요?
+Sasha|B1|När ett fartyg stänger av sin transponder kallar vi det för en mörk period. Vi letar efter mörker.|배가 트랜스폰더를 끄면, 그걸 '어두운 기간'이라고 불러요. 우린 어둠을 찾는 거예요.
+Noah|A2|Som när man går offline i ett spel, så att ingen ser var man är.|게임에서 아무도 내 위치를 못 보게 오프라인 하는 거네요.
+Sasha|B1|Exakt. Men på havet är det inte tillåtet, eftersom andra fartyg måste kunna se dig för att inte krocka.|정확해요. 하지만 바다에선 그게 허용이 안 돼요. 다른 배들이 부딪치지 않으려면 당신을 볼 수 있어야 하니까.
+Viktor|A1|Aldrig?|절대?
+Sasha|B2|Nästan aldrig. En kapten får stänga av om han tror att pirater lyssnar, men då ska det stå i loggboken – och i Östersjön finns det inga pirater, bara folk som inte vill bli sedda.|거의요. 해적이 엿듣는다고 판단하면 선장이 끌 수는 있어요. 하지만 그럼 항해일지에 적어야 하고, 발트해엔 해적이 없어요. 남 눈에 띄기 싫은 사람들만 있죠.
+Amira|B1|Jag har satt gränsen vid två timmar, eftersom allt kortare kan bero på en dålig mottagare. Då får jag sjutton luckor.|기준을 두 시간으로 잡았어. 그보다 짧은 건 수신기가 나빠서일 수도 있으니까. 그랬더니 공백이 열일곱 개야.
+Viktor|A1|Sjutton. På ett år.|열일곱. 1년에.
+Amira|B2|Och nu det roliga. Flygplan som tappar GPS syns i öppna flygdata, och någon sammanställer det varje dag till en karta – som en väderkarta, fast för störningar. Jag lägger den över våra luckor.|이제 재밌는 거. 비행기가 GPS를 잃으면 공개 비행 데이터에 드러나고, 누가 그걸 매일 지도로 정리해. 일기도 같은 건데, 날씨 대신 교란을 그린 거지. 그걸 우리 공백 위에 겹칠게.
+Noah|A2|Allt det röda – är det störning?|저 빨간 거 다 교란이에요?
+Amira|B1|Rött betyder att flygplan tappade GPS just där och just den dagen. Runt Kaliningrad och längst in i Finska viken är det rött nästan jämt.|빨간색은 비행기들이 바로 거기서, 바로 그날 GPS를 잃었다는 뜻이야. 칼리닌그라드 주변이랑 핀란드만 안쪽 끝은 거의 늘 빨개.
+Viktor|B1|Det betyder alltså att några luckor kan ha en oskyldig förklaring.|그러니까 어떤 공백은 무고한 설명이 있을 수 있다는 거네.
+Sasha|B2|Oskyldig för kaptenen, i alla fall. Störsändning är ingen olycka, men den är inte hans fel, så vi räknar bort varje lucka där både kartan och grannarna säger samma sak.|선장 입장에선 무고하죠. 전파 방해가 사고는 아니지만 선장 탓도 아니에요. 그러니까 지도랑 이웃 배들이 같은 말을 하는 공백은 전부 빼고 세요.
+Amira|A2|Vi tar dem en i taget. Noah, läs upp datumen.|하나씩 보자. 노아, 날짜 읽어 줘.
+Noah|A2|Fjortonde april i fjol, Finska viken. Sedan maj, nära Kaliningrad.|작년 4월 14일, 핀란드만. 그다음 5월, 칼리닌그라드 근처.
+Sasha|A1|Röd karta. Tysta grannar. Störning.|지도가 빨개요. 이웃도 조용하고. 교란이에요.
+Noah|A2|Och den sista är tionde mars, öster om Gotland.|그리고 마지막이 3월 10일, 고틀란드 동쪽이에요.
+Sasha|B1|Okay, so… sju av de här luckorna kan vara störning. Tio kan det inte.|좋아요, 그러니까… 이 공백 중 일곱 개는 교란일 수 있어요. 열 개는 아니에요.
+Viktor|A2|Tio gånger på ett år. Var?|1년에 열 번. 어디서?
+Amira|B1|Fyra utanför de ryska oljehamnarna, tre söder om Gotland och tre mitt ute på öppet hav där det inte finns någonting.|넷은 러시아 석유항 앞바다, 셋은 고틀란드 남쪽, 셋은 아무것도 없는 공해 한가운데.
+Sasha|B2|Ingenting, säger du. Titta på djupgåendet: före luckan i augusti låg fartyget åtta meter djupt, och efteråt tolv. Någon fyllde alltså tankarna mitt på havet, från ett annat fartyg som också var mörkt.|아무것도 없다고요? 흘수를 봐요. 8월 공백 전엔 배가 8미터 잠겨 있었고, 그 뒤엔 12미터예요. 그러니까 누가 바다 한가운데서 탱크를 채운 거예요. 역시 꺼져 있던 다른 배에서요.
+Noah|A2|Och det skriver de själva i AIS?|그걸 자기들이 직접 AIS에 써요?
+Sasha|B2|Djupgåendet knappar styrmannen in för hand, och det är just sådant man glömmer att ljuga om, eftersom man inbillar sig att ingen någonsin tittar.|흘수는 항해사가 손으로 입력해요. 바로 그런 데서 거짓말하는 걸 깜빡하죠. 아무도 안 볼 거라고 착각하니까.
+Amira|B1|Det kallas STS, ship-to-ship. Och flaggan har bytts tre gånger sedan 2024: Panama, Kamerun, Komorerna och nu Gabon.|그걸 STS, 선박 간 환적이라고 해. 그리고 국적은 2024년 이후 세 번 바뀌었어. 파나마, 카메룬, 코모로, 그리고 지금 가봉.
+Viktor|B2|Att ett fartyg byter flagg tre gånger på två år tyder på att någon vill dölja vem som egentligen äger det. Och att det lastar olja i mörker tyder på att någon vill dölja vad det bär.|배가 2년에 국적을 세 번 바꾼다는 건 누가 진짜 주인을 숨기고 싶어 한다는 뜻이야. 그리고 어둠 속에서 기름을 싣는다는 건 누가 뭘 싣고 다니는지 숨기고 싶어 한다는 뜻이고.
+Sasha|B2|Rysk olja, nästan säkert. Om den hade lastats i en hamn skulle papperen visa var den kom ifrån – på öppet hav finns inga papper, och så slinker den förbi sanktionerna.|러시아 원유일 거예요, 거의 확실히. 항구에서 실었다면 서류에 출처가 남았겠죠. 공해에선 서류가 없어요. 그렇게 제재를 빠져나가는 거예요.
+Viktor|A1|Och tionde mars?|그럼 3월 10일은?
+Amira|B1|Sex timmar mörk öster om Gotland. När signalen kom tillbaka låg fartyget bara tre sjömil från platsen där det försvann.|고틀란드 동쪽에서 여섯 시간 꺼져 있었어. 신호가 돌아왔을 때 배는 사라진 자리에서 고작 3해리 떨어져 있었고.
+Viktor|A2|Så var var det i sex timmar?|그럼 여섯 시간 동안 어디 있었던 거야?
+Sasha|A2|Det vet bara en satellit.|그건 위성만 알아요.
+# 장면 3 — 오후 2시 30분, Källaren (프레드릭의 노트북 화상통화 → 3시, 방문증을 단 카탸, 그녀의 태블릿 속 워터마크 찍힌 위성사진 세 장)
+Fredrik|B1|Då kanske jag har något åt er. En frilansare ringde mig för en timme sedan och sa att hon har satellitbilder på Eventide Star.|그럼 내가 뭔가 줄 수 있을지도. 한 시간 전에 프리랜서가 전화했는데, Eventide Star 위성사진이 있대.
+Viktor|A1|Vem är hon?|누군데?
+Fredrik|B1|Katja Lindell. Hon säljer satellitbilder till tidningar. Två finska sajter och en tysk dagstidning har köpt av henne i vinter, och jag har inte hört ett klagomål. Hon väntar i videosamtalet.|카탸 린델. 신문사들에 위성사진을 팔아. 이번 겨울에 핀란드 사이트 두 곳이랑 독일 일간지 하나가 샀는데, 불만 한 번 못 들었어. 화상통화로 기다리고 있어.
+Katja|A2|Fredrik, hej! Hör ni mig? Och du måste vara Amira.|프레드릭, 안녕하세요! 들려요? 그리고 아미라 씨겠네요.
+Amira|A1|Ja. Hej.|네. 안녕하세요.
+Katja|B2|Amira, jag läste er text i onsdags om fartygets kurs. Det var det enda vettiga som skrevs om kabeln den dagen – alla andra hade bestämt sig för vad som hade hänt innan de ens hade tittat på datan.|아미라, 수요일에 선박 항적 기사 읽었어요. 그날 케이블에 대해 나온 글 중에 유일하게 제대로 된 거였어요. 다른 데는 다 데이터를 보기도 전에 무슨 일이 있었는지 결론부터 냈더라고요.
+Amira|A2|Tack. Vad har du?|고마워요. 뭘 갖고 있어요?
+Katja|B2|Tre bilder. Jag sökte i leverantörens arkiv efter allt som liknar en tanker på hundraåttio meter längs kabeln de senaste veckorna, och fick två träffar den tionde mars och en från natten då kabeln gick av.|세 장이요. 공급사 아카이브에서 최근 몇 주간 케이블을 따라 180미터급 유조선처럼 보이는 걸 전부 찾아봤어요. 3월 10일에 두 장, 그리고 케이블이 끊긴 밤에 한 장이 걸렸어요.
+Viktor|A2|Från natten? Vilken tid?|그날 밤이요? 몇 시에?
+Katja|A2|Viktor, det får du se när vi har ett avtal.|빅토르, 그건 계약하면 보여 드릴게요.
+Fredrik|A2|Kom hit, så pratar vi. Vi sitter i källaren.|이리 오세요, 얘기합시다. 우린 지하에 있어요.
+Katja|A2|Jag sitter på ett kafé på Fleminggatan. Om tjugo minuter?|플레밍가탄 카페에 있어요. 20분 뒤에요?
+Noah|A2|Jag hämtar henne i receptionen. Hon behöver ett besökskort.|제가 리셉션에서 모셔 올게요. 방문증이 필요하니까요.
+Katja|A2|Tack, Noah. Vilken trappa! Är det därför ni kallas Källaren?|고마워요, 노아. 계단 대단하네요! 그래서 Källaren이라고 부르는 거예요?
+Viktor|A2|Det är därför. Sätt dig.|그래서예요. 앉으세요.
+Katja|B1|Och ni är…? Förlåt, jag vill bara hälsa ordentligt på alla.|그리고 그쪽은…? 죄송해요, 다들 제대로 인사드리고 싶어서요.
+Amira|B1|Han hjälper oss med fartygen. Inga namn, om det är okej.|배 관련해서 도와주시는 분이에요. 이름은 빼고요, 괜찮다면.
+Katja|A2|Självklart. Jag förstår precis.|물론이죠. 충분히 이해해요.
+Sasha|A1|Hej.|안녕하세요.
+Katja|B2|Då visar jag. Den optiska bilden är tagen den tionde mars klockan tolv över ett, med femtio centimeters upplösning, och radarbilden samma kväll fem i sju. Radar ser genom moln och mörker, och den ljusa pricken är stål.|그럼 보여 드릴게요. 광학 사진은 3월 10일 1시 12분, 해상도 50센티미터. 레이더 사진은 같은 날 저녁 7시 5분 전이에요. 레이더는 구름이랑 어둠을 뚫고 보고, 저 밝은 점이 강철이에요.
+Sasha|B1|Inget kölvatten bakom pricken. Den står still.|점 뒤에 항적이 없네요. 서 있는 거예요.
+Katja|B1|Precis, det var det jag också såg. Och längden går att mäta: ungefär hundraåttio meter.|맞아요, 저도 그걸 봤어요. 그리고 길이를 잴 수 있어요. 대략 180미터.
+Fredrik|A1|Vad kostar de?|얼마예요?
+Katja|B2|Femton tusen för alla tre, Fredrik. Med tanke på vad en egen beställning hos leverantören skulle ha kostat är det nästan ett vänskapspris.|세 장 전부 만 오천이요, 프레드릭. 공급사에 직접 촬영을 주문했으면 얼마 들었을지 생각하면, 거의 친구 가격이에요.
+Fredrik|B1|Tio tusen, och då vill jag ha ensamrätt i Sverige i trettio dagar. Ingen annan svensk redaktion får köpa dem.|만. 대신 스웨덴 내 독점권 30일. 다른 스웨덴 편집국은 못 사는 걸로.
+Katja|A2|Tolv tusen med ensamrätt. Mitt sista bud.|독점권 포함 만 이천. 마지막 제안이에요.
+Amira|B1|Innan vi pratar pengar vill jag ha originalfilerna, med metadata: exakt tid, vilken satellit och vilken leverantör.|돈 얘기 전에 원본 파일을 받고 싶어요. 메타데이터까지요. 정확한 시각, 어느 위성, 어느 공급사인지.
+Katja|B1|Amira, jag förstår dig. Men avtalet med leverantören tillåter bara skärmdumpar.|아미라, 이해해요. 하지만 공급사와의 계약상 화면 캡처만 돼요.
+Amira|A2|Vilken leverantör, då?|그럼 어느 공급사인데요?
+Katja|B2|Orbitum Imaging i Luxemburg. Tiden står i hörnet av varje bild, och de kan bekräfta den med ett intyg, vilket dock kostar runt tvåtusen euro per bild och tar några arbetsdagar.|룩셈부르크의 오르비툼 이미징이요. 시각은 사진마다 모서리에 찍혀 있고, 그쪽에서 증명서로 확인해 줄 수 있어요. 다만 한 장에 2천 유로쯤 들고 영업일로 며칠 걸려요.
+Viktor|B2|Så vi köper i dag bilder som vi inte kan verifiera, och betalar sedan dubbelt så mycket för att få veta om de är vad de påstås vara.|그러니까 오늘은 검증할 수 없는 사진을 사고, 그게 주장대로인지 알려면 나중에 두 배를 더 낸다는 거네요.
+Fredrik|B2|Vi tar dem. Jag skriver under – det är min budget. Vi köper nu och verifierar sedan: med ensamrätten kan ingen annan svensk tidning köra dem före oss, och ingenting publiceras förrän Amira har sagt ja och Sofia har sett intyget.|삽시다. 내가 서명할게요 — 내 예산이니까. 지금 사고 검증은 나중에. 독점권이 있으니 다른 스웨덴 신문이 우리보다 먼저 못 내고, 아미라가 오케이 하고 소피아가 증명서를 보기 전엔 아무것도 안 나가.
+Katja|B1|Tack, Fredrik. Länken kommer inom en timme. Och Amira – hör av dig om du vill att jag letar mer. Jag gillar att jobba med folk som är noggranna.|고마워요, 프레드릭. 링크는 한 시간 안에 갈 거예요. 그리고 아미라 — 더 찾아 줬으면 하는 게 있으면 연락 줘요. 꼼꼼한 사람들이랑 일하는 거 좋아하거든요.
+# 장면 4 — 오후 5시 30분, Källaren, 아미라의 모니터 앞 (화면 캡처 세 장, 선박 사진 사이트의 그단스크 사진, 태양 위치 계산기, 해도 위의 케이블 경로, 빅토르의 수첩)
+Amira|A2|Länken kom. Tre skärmdumpar, inga filer.|링크 왔어. 화면 캡처 세 장, 파일은 없고.
+Sasha|B1|Först fartyget. Om det inte är Eventide Star, spelar resten ingen roll.|먼저 배부터요. 이게 Eventide Star가 아니면 나머지는 의미 없어요.
+Noah|A2|Hur ser man det från rymden?|우주에서 그걸 어떻게 알아요?
+Sasha|B1|Längd, form och skorsten. Eventide Star har en vit ring på skorstenen och två kranar mitt på däck.|길이, 모양, 굴뚝이요. Eventide Star는 굴뚝에 흰 고리가 있고 갑판 가운데에 크레인이 두 개 있어요.
+Amira|B1|Jag har ett foto från en fartygssajt, taget i Gdańsk i december. Vit ring, två kranar.|선박 사진 사이트에서 12월 그단스크에서 찍힌 사진 구했어. 흰 고리, 크레인 두 개.
+Sasha|B1|Och på satellitbilden: vit ring, två kranar, hundraåttio meter. Samma typ av fartyg, i alla fall. Namnet kan jag inte läsa från rymden, men kranar kan jag räkna.|위성사진에도 흰 고리, 크레인 두 개, 180미터. 적어도 같은 유형의 배예요. 우주에서 이름은 못 읽지만, 크레인은 셀 수 있죠.
+Viktor|B2|Då skriver vi aldrig att satellitbilden visar Eventide Star. Vi skriver att ett fartyg med samma längd och samma kännetecken låg där, samtidigt som Eventide Stars egen signal var avstängd.|그럼 "위성사진에 Eventide Star가 보인다"고는 절대 안 써. 같은 길이에 같은 특징을 가진 배가 거기 있었고, 바로 그 시각에 Eventide Star 자체 신호는 꺼져 있었다고 쓰는 거지.
+Noah|A2|Och tiden? Den står ju bara i hörnet.|시각은요? 모서리에만 적혀 있잖아요.
+Amira|B1|Den kan vi kolla själva. Skuggorna, Noah. Solen ljuger inte heller.|그건 우리가 직접 확인할 수 있어. 그림자야, 노아. 해도 거짓말 안 해.
+Noah|B1|Jag har lagt in position och datum i en solkalkylator. Klockan tolv över ett den tionde mars stod solen i sydsydväst, ungefär tjugofem grader över horisonten.|위치랑 날짜를 태양 계산기에 넣었어요. 3월 10일 1시 12분에 해는 남남서쪽, 지평선 위 대략 25도였어요.
+Sasha|B1|Och kranarnas skuggor pekar mot nordnordost och är ungefär dubbelt så långa som kranarna är höga. Det stämmer.|그리고 크레인 그림자가 북북동쪽을 가리키고, 크레인 높이의 두 배쯤 돼요. 맞아요.
+Viktor|A2|Bra. Hur länge låg det där, då?|좋아. 그럼 거기 얼마나 있었어?
+Amira|B1|Signalen försvann fem över ett och kom tillbaka tio över sju, och båda bilderna visar fartyget på samma punkt, inom femtio meter. Lägg nu kabelns sträckning från sjökortet ovanpå, Noah.|신호는 1시 5분에 사라졌다가 7시 10분에 돌아왔어. 그리고 사진 두 장 다 배가 같은 지점에 있어, 50미터 이내로. 이제 해도에서 케이블 경로를 따서 위에 겹쳐 봐, 노아.
+Noah|A1|Wow. Rakt ovanpå.|와. 바로 그 위예요.
+Sasha|B1|Sex timmar på exakt samma ställe. Det är ingen paus, det är en generalrepetition.|정확히 같은 자리에 여섯 시간. 쉬는 게 아니에요, 총연습이에요.
+Viktor|A1|Repetition av vad?|뭘 연습해요?
+Sasha|B2|Man mäter djupet och strömmen, man provar hur mycket kätting som måste ut för att ankaret ska ta i botten, och man lär sig hur fartyget beter sig. Åtta dagar senare vet man exakt vad man ska göra, i mörker.|수심이랑 조류를 재고, 닻이 바닥을 물려면 체인을 얼마나 풀어야 하는지 시험하고, 배가 어떻게 움직이는지 익히는 거예요. 그러면 8일 뒤엔 어둠 속에서도 정확히 뭘 해야 하는지 알죠.
+Viktor|B2|Det är ett antagande, och dessutom ett bra. Men så länge ingen ombord har bekräftat det står det kvar i mittenkolumnen, hur övertygande det än låter.|그건 추정이에요. 그것도 좋은 추정이죠. 하지만 배에 탔던 누군가가 확인해 주기 전까지는, 아무리 그럴듯해도 가운데 칸에 남아요.
+Noah|A2|Och den tredje bilden? Den från natten?|그럼 세 번째 사진은요? 그날 밤 거요?
+Amira|B1|Fem över två, trettiofem minuter innan kabeln gick av. En ljus prick på ungefär hundraåttio meter, utan kölvatten.|2시 5분. 케이블 끊기기 35분 전. 180미터쯤 되는 밝은 점 하나, 항적 없음.
+Viktor|B2|Ge mig koordinaterna. Jag jämför dem med något som står i mitt block, och det gör jag ensam – ju färre som vet vad jag jämför med, desto bättre.|좌표 줘. 내 수첩에 적힌 거랑 비교해 볼게. 혼자서. 내가 뭐랑 비교하는지 아는 사람은 적을수록 좋아.
+Sasha|A1|Och?|그래서요?
+Viktor|B2|Fyrahundra meter från varandra. Mer än så säger jag inte, inte ens här inne. Men om den här bilden håller, har vi för första gången något som inte kommer från en källa som vi måste skydda.|400미터 차이. 그 이상은 말 안 해요, 여기 안에서도. 하지만 이 사진이 버텨 준다면, 처음으로 우리가 보호해야 하는 취재원한테서 나오지 않은 걸 갖게 되는 거예요.
+Amira|B2|Om. Den är för bra för att vara sant, Viktor. En radarbild precis den natten, precis på rätt ställe.|'라면'이지. 너무 좋아서 믿기 어려워, 빅토르. 딱 그날 밤, 딱 맞는 자리의 레이더 사진이라니.
+Sasha|B1|Sedan i höstas fotograferar de Östersjön varje natt. Det finns hundra satelliter som tittar på oss.|작년 가을부터 발트해는 매일 밤 찍혀요. 우릴 내려다보는 위성이 백 개는 돼요.
+Viktor|A2|Vad är det som stör dig, Amira?|뭐가 걸리는 거야, 아미라?
+Amira|A1|Ingenting. Jag vet inte. Glöm det.|아무것도. 모르겠어. 잊어버려.
+Fredrik|B2|Nå? Är jag tolv tusen fattigare för ingenting, eller har vi något som Kvällsbladet skulle ge sin högra arm för?|그래서? 내가 만 이천 크로나를 허공에 날린 거야, 아니면 Kvällsbladet이 오른팔이라도 내줄 만한 걸 건진 거야?
+Viktor|B2|Inte för ingenting. Men Noah beställer intyget från Orbitum i dag, och vi letar upp fartygen som passerade den tionde mars för att fråga om någon ombord såg en tanker som låg still över kabeln.|허공에 날린 건 아니야. 하지만 노아가 오늘 오르비툼에 증명서를 주문하고, 우리는 3월 10일에 지나간 배들을 찾아서 케이블 위에 가만히 떠 있던 유조선을 본 사람이 있는지 물어볼 거야.
+Fredrik|B1|Bra. Sofia får allt på måndag klockan nio. Och Noah – frågorna till Pelagos?|좋아. 소피아한테 월요일 9시에 전부 올려. 그리고 노아 — Pelagos에 보낸 질문은?
+Noah|A2|Skickade i går. Inget svar än. Sista dagen är onsdag.|어제 보냈어요. 아직 답 없어요. 기한은 수요일이에요.
+# 장면 5 — 밤 11시 30분, 피트야, 사샤의 원룸 (침대 위에 붙은 딸의 배 그림, 노트북 화면 속 확대된 광학 사진, 휴대폰 너머 하르키우 — 스웨덴보다 1시간 빠르다)
+Olena|A1|Sasha? Hör du mig?|사샤? 들려?
+Sasha|A2|Jag hör dig. Fem minuter på svenska först, som vi sa.|들려. 약속대로 먼저 5분은 스웨덴어로.
+Olena|A2|Okej. Jag… heter Olena. Jag bor i Charkiv. Det är kallt i dag.|오케이. 나는… 올레나예요. 하르키우에 살아요. 오늘은 추워요.
+Sasha|A2|Bra! Du blir bättre varje vecka. Sover Daryna?|좋아! 매주 늘고 있어. 다리나는 자?
+Olena|A2|Hon sover. Hon ritade en båt till dig i dag, en stor båt med en flagga.|자. 오늘 당신 주려고 배를 그렸어. 깃발 달린 큰 배.
+Sasha|B1|Den förra teckningen hänger ovanför sängen. Jag tittar på den varje morgon när jag kommer hem från lagret.|지난번 그림은 침대 위에 걸려 있어. 매일 아침 창고에서 돌아오면 그걸 봐.
+Olena|A2|Du låter glad i kväll. Varför?|오늘 밤엔 목소리가 밝네. 왜?
+Sasha|B2|I dag kallade någon mig expert. Inte trucken, inte nattpasset – för första gången sedan jag kom hit kändes det som om jag fick vara den jag var förut.|오늘 누가 날 전문가라고 불렀어. 지게차도 야간 근무도 아니고. 여기 온 뒤 처음으로, 예전의 나로 있어도 되는 것 같았어.
+Olena|A1|Vänta. Hör du?|잠깐. 들려?
+Sasha|A1|Sirenen?|사이렌이야?
+Olena|A2|Ja. Igen. Jag tar Daryna och går ner i källaren.|응. 또야. 다리나 데리고 지하실로 내려갈게.
+Sasha|A1|Gå. Nu. Ring sen.|가. 지금. 나중에 전화해.
+Amira|A2|Sasha? Klockan är tolv. Har det hänt något?|사샤? 12시예요. 무슨 일 있어요?
+Sasha|B1|Olena sitter i ett skyddsrum och jag kan inte sova, så jag zoomade in den optiska bilden igen. Bozhe… den där fören. Den känner jag igen.|올레나는 대피소에 있고 난 잠이 안 와서, 광학 사진을 다시 확대해 봤어요. 맙소사… 저 뱃머리. 저거 알아보겠어요.
+Amira|A1|Känner igen? Hur då?|알아본다고요? 어떻게요?
+Sasha|A2|Det här fartyget har jag sett förut. Under ett annat namn, i Novorossijsk, 2022.|이 배, 전에 본 적 있어요. 다른 이름으로. 2022년, 노보로시스크에서.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Signalen är borta.** | 신호가 사라졌어. | *vara borta* = 없어지다, 사라지고 없다. 1화의 *Kabeln är av*처럼 *vara* + 부사로 상태를 말한다. *borta*(없는, 떠나 있는)는 위치, *bort*(떠나서, 저리로)는 방향: *Signalen försvann bort*가 아니라 *Signalen försvann* / *Signalen är borta* |
+| `A2` | **Hon säljer satellitbilder till tidningar.** | 그 여자는 신문사들에 위성사진을 팔아. | *sälja – sålde – sålt*(팔다)는 과거형에서 모음이 바뀐다. 파는 상대는 *till*: *sälja något till någon*. *satellitbild* = *satellit* + *bild*, 복수 *-bilder* |
+| `B1` | **När ett fartyg stänger av sin transponder kallar vi det för en mörk period.** | 배가 트랜스폰더를 끄면, 우린 그걸 '어두운 기간'이라고 불러. | *När*-절이 앞에 오면 주절은 동사부터(*kallar vi*) — V2 어순. *stänga av* = 끄다(↔ *sätta på*). *sin*은 주어(*ett fartyg*)의 것을 가리키는 재귀 소유사. *kalla något för något* = ~을 …라고 부르다 |
+| `B2` | **Att ett fartyg byter flagg tre gånger på två år tyder på att någon vill dölja vem som egentligen äger det.** | 배가 2년에 국적을 세 번 바꾼다는 건, 누군가 진짜 주인을 숨기고 싶어 한다는 뜻이야. | *Att*-절 전체가 주어. *tyda på* = ~을 시사하다, ~의 징후다 — 단정 대신 근거와 추론을 잇는 기사체 동사. *dölja* = 숨기다. 간접의문절에서 의문사가 주어면 *som*(*vem som äger*). *tre gånger på två år* = 2년 동안 세 번(기간 안의 횟수는 *på*) |
+| `B1` | **Fartyg ljuger inte. Människor ljuger.** | 배는 거짓말 안 해. 사람이 거짓말하지. | 사샤의 첫 대사이자 그의 방법론. *ljuga – ljög – ljugit*(거짓말하다), *ljuga om något*(~에 대해 거짓말하다): *Det glömmer man att ljuga om.* 사람이 입력하는 AIS 항목(목적지·흘수)과 물리 법칙(신호 세기·그림자)을 대조하라는 뜻 |
+| `B2` | **Det är ingen paus, det är en generalrepetition.** | 쉬는 게 아니에요, 총연습이에요. | *ingen* + 명사 = '~이 아니다'(*inte en paus*보다 단호하다). *generalrepetition*은 연극의 최종 리허설에서 온 말로, 일상에서도 큰일 직전의 '예행연습'을 뜻한다 |
+| 관용구 | **för bra för att vara sant** | 너무 좋아서 믿기 어려운 | 영어 *too good to be true*와 같은 구조: *för* + 형용사 + *för att* + 부정사(너무 ~해서 …할 수 없다). *Det låter för bra för att vara sant*(믿기엔 너무 좋은 얘기다)처럼 의심을 부드럽게 꺼낼 때 쓴다 |
+| 안보·법 | **störsändning** | 전파 방해, (GPS) 재밍 | *störa*(방해하다) + *sändning*(송신). 위성 신호를 덮어 위치를 잃게 하는 재밍은 *störsändning*, 가짜 위치를 보내는 것은 *spoofing*(스웨덴어로도 흔히 영어 그대로). 동사 *störa ut*(전파를 교란해 무력화하다) |
+
+## 저널리즘·법 메모
+프리랜서나 외부에서 사 온 자료도 신문에 실리는 순간 신문의 책임이 된다. 스웨덴에서 기사에 대한 법적 책임은 발행책임자(*ansvarig utgivare*) 한 사람에게 모이고(단독 책임, *ensamansvar*), 언론윤리 규칙(*publicitetsregler*)은 사진·영상을 포함한 모든 자료가 정확하고 오해를 낳지 않을 것을 요구한다. 그래서 위성사진을 살 때는 최소한 촬영 일시, 어느 위성과 공급사인지, 원본 파일의 메타데이터를 확인해야 한다. 이번 화의 사진은 모서리에 시각만 찍힌 화면 캡처라 이 조건을 채우지 못했고, 팀은 스스로 할 수 있는 검증 — 굴뚝 표식과 크레인 수를 공개 선박 사진과 대조하고, 그림자의 방향과 길이로 촬영 시각을 계산하고, AIS 공백 시각과 맞춰 보는 것 — 부터 한다. 구매(데스크의 예산 결정)와 게재(발행책임자의 결정)는 별개다. 프레드릭이 독점권을 붙여 사진을 사되 "소피아가 증명서를 보기 전엔 아무것도 나가지 않는다"고 선을 긋는 것이 그 구분이다. 빅토르가 해안경비대 친구의 좌표를 혼자서만 대조하는 것도 같은 원칙의 다른 면이다 — 새 자료가 아무리 좋아도, 그것을 검증하는 과정에서 기존 취재원이 드러나서는 안 된다.
+
+## 문화·현안 메모
+- **AIS와 '어두운 기간'** — 국제 항해를 하는 일정 규모 이상의 선박은 AIS를 켜 두어야 하며, 해적 위협처럼 안전상 이유가 있을 때만 끌 수 있고 그 사실을 기록해야 한다. 그림자 선단 유조선들은 러시아 항구 근처나 공해에서 신호를 끈 채 다른 배와 원유를 옮겨 싣는(STS) 방식으로 원산지를 세탁한다는 의혹을 받아 왔다. 손으로 입력하는 흘수(*djupgående*)가 공백 앞뒤로 크게 달라지는 것은 화물을 실었다는 대표적 단서다.
+- **발트해의 GPS 교란** — 2023년 무렵부터 칼리닌그라드와 핀란드만 일대에서 항공기와 선박이 GPS 신호를 잃거나 엉뚱한 위치를 받는 일이 잦아졌다. 항공기가 방송하는 위치 데이터로 매일 교란 지도를 만드는 공개 프로젝트들이 있어, 기자와 OSINT 연구자들이 이를 선박 신호 공백과 겹쳐 본다. 주변 배들이 함께 신호를 잃었는지 보는 '이웃 검사'가 교란과 고의 소등을 가르는 기본 방법이다.
+- **임시보호 지위(*tillfälligt skydd*)** — 2022년 러시아의 전면 침공 뒤 EU는 '대량 난민 지침'을 처음으로 발동해, 우크라이나에서 피란한 사람들에게 망명 심사 없이 거주·노동 허가를 주었다. 스웨덴에서도 수만 명이 이 지위로 살며 일하고 있지만 지위가 '임시'인 만큼 장래가 불확실하고, 전쟁 중인 고향에 가족을 둔 경우가 많다. 우크라이나와 스웨덴은 1시간 시차가 있다.
+- ⚠️ 사샤(올렉산드르 코발렌코)와 올레나·다리나, 카탸 린델, OSINT 그룹 "Chvylja", 위성사진 공급사 Orbitum Imaging, *Eventide Star*와 그 옛 국적 이력, Pelagos Baltic Shipmanagement, Stockholmsposten은 모두 허구다. AIS 규정, GPS 교란 보도, 임시보호 제도는 실제이며, 그 적용 장면은 극적 구성이다.
+
+## 다음 화 예고
+> 3월 24일, 밤배에서 내린 빅토르·헨릭·사샤가 비스뷔 성벽 아래에 선다. 헨릭이 옛 학교를 가리킨다: "Här sprang jag när jag var pojke. Då fanns det inte en enda soldat kvar på ön."
