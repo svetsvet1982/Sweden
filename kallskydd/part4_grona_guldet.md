@@ -55,22 +55,22 @@
 
 ### 1화 — Konkursen (파산)
 - 📅 2026년 5월 4일 월요일 · 📍 Källaren → 셸레프테오 공장 정문 → 지호의 아파트(Morö Backe) → 시내 호텔 방 · 👥 빅토르, 아미라, 헨릭, 소피아, 박지호, 서연, Nordcell 노동자들, 파산관재인
-- **줄거리** 3부 보도 바로 다음 날인 월요일 아침, 제보함 Brevlådan에 한 줄이 뜬다. *"Nordcell går i konkurs i dag. Kolla vart maskinerna tog vägen."* 전날 밤 참새의 마지막 메시지 "Följ batterierna"를 떠올린 빅토르는 헨릭과 북행 첫 비행기에 오른다. 셸레프테오 공장 정문 앞, 석 달째 월급을 못 받은 노동자들 사이에서 한국인 엔지니어 박지호가 서툰 스웨덴어로 말을 건넨다 — "Ni är journalister? 진짜?" 그는 3월 어느 밤 셀 생산 라인의 핵심 설비가 트럭에 실려 나가는 걸 봤고, 상자 라벨을 휴대폰으로 찍어 두었다. 관재인은 자산 목록 공개를 미루지만, 아미라는 지방법원 파산 서류의 설비 일련번호가 사진 속 라벨과 같다는 것을 확인한다. 그날 밤 아미라는 그 서류를 법인등기와 대조해, 파산 3주 전 그 설비가 Arktis Mineral의 자회사로 "임대 후 매각"된 사실을 찾아낸다. 서연이 라면을 끓여 내는 동안, 지호는 흔들리는 가족의 체류허가를 처음 소리 내 말한다.
+- **줄거리** 3부 보도 바로 다음 날인 월요일 아침, 제보함 Brevlådan에 한 줄이 뜬다. *"Nordcell går i konkurs i dag. Kolla vart maskinerna tog vägen."* 전날 밤 참새의 마지막 메시지 "Följ batterierna"를 떠올린 빅토르는 헨릭과 북행 첫 비행기에 오른다. 셸레프테오 공장 정문 앞, 석 달째 월급을 못 받은 노동자들 사이에서 한국인 엔지니어 박지호가 서툰 스웨덴어로 말을 건넨다 — "Ni är journalister? 진짜?" 그는 3월 어느 밤 셀 생산 라인의 핵심 설비가 트럭에 실려 나가는 걸 봤고, 상자 라벨을 휴대폰으로 찍어 두었다. 관재인은 자산 목록 공개를 미루지만, 아미라는 지방법원 파산 서류의 설비 일련번호가 사진 속 라벨과 같다는 것을 확인한다. 그날 밤 아미라는 법인등기와 대조해, 파산 3주 전 그 설비가 Arktis Mineral의 자회사로 "임대 후 매각"된 사실을 찾아낸다. 서연이 라면을 끓여 내는 동안, 지호는 흔들리는 체류허가를 처음 소리 내 말한다.
 - **장면 구성**
   - 001–030 Källaren 아침: 제보 메시지를 화면에 띄운 노아, 참새의 마지막 말을 다시 읽는 빅토르. 소피아의 "Vad vet vi?" 에 대한 대답: *"Ingenting än. Följ pengarna."* 북행 결정 (`A1·A2`)
     - 전날 보도의 반응이 쏟아지는 모니터 옆, 빅토르는 수첩에 옮겨 적은 참새의 한 줄을 편다.
     - 💬 Viktor: "Sparven sa batterier. I dag går en batterifabrik i konkurs. Det är ingen slump." (참새는 배터리라고 했어. 오늘 배터리 공장이 파산해. 우연이 아니야.)
   - 031–068 공장 정문: 확성기 없는 조용한 분노, 파산관재인의 짧은 브리핑("Alla anställda får information i morgon."), 헨릭이 찍는 빈 주차장. 지호와의 첫 대화 — 서로 알아듣기 위해 천천히 말하는 두 사람 (`A1·A2` 단문 인터뷰)
-    - 관재인은 질문 세 개만 받고 들어간다. 지호는 같은 문장을 두 번씩 천천히 말한다.
+    - 관재인은 질문 세 개만 받고 들어간다.
     - 💬 Ji-ho: "Förlåt, min svenska är inte så bra. Men jag vet vad jag såg." (미안해요, 제 스웨덴어가 별로예요. 그래도 제가 본 건 알아요.)
   - 069–108 지호의 아파트: 냉장고에 붙은 딸 하은의 순록 그림, 아내 서연의 한국어 걱정("여보, 비자는?"), 지호의 설명 — 고용이 끝나면 체류허가가 흔들린다. "I mars kom lastbilarna på natten. Tre nätter, 빨리빨리." (`A2·B1`, 한국어 혼용)
     - 서연이 라면을 내오고, 지호는 3월 밤의 사진들을 넘겨 보인다.
     - 💬 Ji-ho: "Om jag inte har ett nytt jobb om tre månader måste vi kanske åka hem. Men 하은이는 drömmer på svenska." (석 달 안에 새 일자리가 없으면 돌아가야 할지도 몰라요. 그런데 하은이는 스웨덴어로 꿈을 꿔요.)
   - 109–150 호텔 방 화상회의: 아미라의 등기 분석("Arktis Processing AB, registrerat i januari. Göttigt, va?"), 소피아의 신중한 질문들, 창밖의 밝은 밤. 빅토르의 정리: *"Ett företag dör, ett annat får maskinerna. Vem tjänar på det?"* (`B1·B2`)
-    - 일련번호와 사진 라벨이 일치한다. 소피아: 관재인의 확인이 세 번째 출처가 되어야 한다.
+    - 법원 서류의 일련번호와 사진 라벨이 일치한다.
     - 💬 Amira: "Köpeavtalet skrevs den trettonde april, tre veckor före konkursen. Men maskinerna lämnade fabriken redan i mars." (매매 계약은 4월 13일, 파산 3주 전이야. 그런데 기계는 3월에 벌써 공장을 떠났어.)
 - **인물 감정선** "참새가 우리를 이용하는 건 아닐까" 의심하던 빅토르는 지호의 사진을 보며 다시 사냥꾼이 된다. 지호는 처음으로 자기 말을 끝까지 들어 주는 사람을 만난다.
-- **복선·연결** 3부 15화(5월 3일 일요일) 참새의 "Följ batterierna."와 Brevlådan 모티프(바이블 5-2)를 회수하고, "Vem tjänar på det?"를 1화에 놓는다. Arktis Processing AB는 4화 Arktis 구조로, 지호의 체류허가는 9화·15화로 이어진다.
+- **복선·연결** 3부 15화(5월 3일 일요일) 참새의 "Följ batterierna."와 Brevlådan 모티프(바이블 5-2)를 회수하고, "Vem tjänar på det?"를 1화에 놓는다. 지호의 체류허가는 9화·15화로 이어진다.
 - **현안 반영** 북부 배터리 기업의 파산과 붐타운 노동자·외국인 기술자 가족의 불안.
 - **저널리즘·법 포인트** 파산 서류는 지방법원(tingsrätt)에 있는 공문서 — 누구나 열람 가능. 파산 직전 자산 이전은 관재인이 *återvinning*(부인권)으로 되찾을 수 있으므로, 기자는 "누가, 언제, 얼마에"를 서류로 고정해 둔다.
 - **핵심 표현** A1 *Fabriken är stängd.* / A2 *Vi har inte fått lön sedan februari.* / B1 *Maskinerna flyttades tre veckor innan företaget gick i konkurs.* / B2 *Om tillgångarna fördes över i förväg kan konkursförvaltaren kräva tillbaka dem genom återvinning.*
