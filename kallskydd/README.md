@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (21/105화 완성)
+## 대본 목차 (22/105화 완성)
 
 ### 1부
 
@@ -55,3 +55,4 @@
 | 4 | [Legenden](episodes/k2_e04.md) | 위장 신분 |
 | 5 | [Trygga händer](episodes/k2_e05.md) | 안전한 손 |
 | 6 | [Spöktimmar](episodes/k2_e06.md) | 유령 시간 |
+| 7 | [Skolan](episodes/k2_e07.md) | 학교 |
