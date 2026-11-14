@@ -1,0 +1,187 @@
+@title 3부 8화 — Fällan
+@subtitle (함정)
+@meta 날짜|2026년 4월 10일 금요일 오전 8시 55분 ~ 저녁 6시 30분
+@meta 장소|Stockholmsposten 법무실 (오전 8시 55분) → Källaren, 보도 회의 (오전 10시 30분) → Källaren, 아미라의 오프라인 노트북 앞 (낮 1시) → Källaren (오후 3시 40분) → 쿵스홀름 스트란드(Kungsholms strand) 물가 산책로 (저녁 6시 10분)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Lars** (라르스 몰린, 62, 법률고문) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자 — 첫 장면만) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Noah** (노아 베리룬드, 24, 인턴) · **Katja** (카탸 린델, 29, 위성사진을 파는 프리랜서)
+@intro **지난 이야기** — 헨릭의 옛 해안포병대 동기는 이름 대신 손가락으로 숫자만 보여 주며, Säpo가 MUST 분석관의 형을 조사하고 있다고 흘렸다. 확인 전화는 모두 "개별 사안에 대해서는 논평하지 않습니다"로 끝났고, 바로 그날 밤 9시 14분, Brevlådan에 본문 없는 PDF 하나가 도착했다. 맨 위에는 빨간 도장 — HEMLIG.
+@intro 노트북은 밤새 소피아의 캐비닛에 잠겨 있었고, 열쇠는 아미라의 주머니에 있었다. 4월 10일 금요일 아침, 법무실 화이트보드 앞에 빅토르와 소피아, 아미라, 그리고 소피아가 불러낸 헨릭이 모여 라르스 몰린을 기다린다.
+# 장면 1 — 오전 8시 55분, Stockholmsposten 법무실 (빈 화이트보드, 마커 세 자루, 벽에 붙은 출판자유법 조문집, 구석의 낡은 금고)
+Viktor|A1|Var är Lars?|라르스 씨는 어디 있어?
+Sofia|A2|Lars kommer klockan nio. Han kommer aldrig för tidigt.|라르스는 9시에 와. 절대 일찍 오는 법이 없어.
+Henrik|A2|Och aldrig för sent heller. Det är en sak man kan lita på i det här huset.|늦는 법도 없지. 이 건물에서 믿을 수 있는 것 하나야.
+Amira|B1|Jag har nyckeln till Sofias skåp här. Datorn har inte rörts sedan i går kväll, det lovar jag.|소피아 캐비닛 열쇠 여기 있어요. 노트북은 어젯밤 이후로 아무도 안 건드렸어요. 약속해요.
+Sofia|A1|Vi väntar.|기다리자.
+Lars|A2|God morgon. Klockan är nio, och jag ser att ingen av er har sovit.|좋은 아침입니다. 9시군요. 다들 한숨도 못 잔 얼굴이네요.
+Viktor|A2|Inte mycket. Har Sofia berättat allt?|별로요. 소피아가 다 얘기했나요?
+Lars|B2|Hon har berättat tillräckligt för att jag inte ska vilja höra något mer i telefon. Innan vi pratar om själva dokumentet vill jag att ni förstår vilken lag det handlar om, så jag skriver på tavlan.|전화로는 더 듣고 싶지 않을 만큼은 얘기해 줬어요. 문서 자체를 얘기하기 전에, 이게 어떤 법에 관한 일인지 이해해 주셨으면 합니다. 그래서 칠판에 쓰겠습니다.
+Henrik|A1|Utlandsspioneri.|외국 첩보죄.
+Lars|B2|Precis. Brottet infördes den första januari 2023, och samtidigt ändrade riksdagen grundlagarna, så att det gäller även inom tryckfriheten och yttrandefriheten – alltså för tidningar, radio och tv.|맞습니다. 이 죄는 2023년 1월 1일에 도입됐어요. 그리고 동시에 의회가 기본법을 고쳐서, 출판의 자유와 표현의 자유 영역에도 적용되게 했습니다. 그러니까 신문, 라디오, TV에도요.
+Amira|A2|Vad betyder det för oss, konkret?|구체적으로 우리한테 무슨 뜻이에요?
+Lars|B2|Den som obehörigen skaffar, för vidare, lämnar ut eller röjer uppgifter för att gå en främmande makt tillhanda kan dömas – om uppgifterna kan skada Sveriges förhållande till en annan stat eller en internationell organisation allvarligt.|권한 없이, 외국 세력을 이롭게 하려고 정보를 입수하거나, 전달하거나, 내주거나, 누설하는 사람은 처벌받을 수 있습니다. 그 정보가 스웨덴과 다른 나라, 또는 국제기구의 관계를 심각하게 해칠 수 있다면요.
+Viktor|A1|Som Nato.|나토 같은.
+Lars|B1|Som Nato, eller EU, eller ett annat land. Straffet är fängelse i högst fyra år, och strängare om brottet är grovt.|나토, 아니면 EU, 아니면 다른 나라요. 형량은 최대 징역 4년이고, 중대한 경우엔 더 무겁습니다.
+Sofia|B1|Om vi publicerar uppgifter som skadar Sveriges relation till Nato kan det i värsta fall räknas som utlandsspioneri.|우리가 스웨덴과 나토의 관계를 해치는 정보를 보도하면, 최악의 경우 외국 첩보죄로 간주될 수 있다는 거군요.
+Lars|B2|I värsta fall, ja. Och det gäller inte bara publiceringen. För de här brotten gäller inte den vanliga friheten att skaffa uppgifter, så redan anskaffandet kan vara straffbart – och där skyddar grundlagen inte den enskilda reportern.|최악의 경우엔, 네. 그리고 보도만의 문제가 아닙니다. 이런 범죄에는 정보를 수집할 일반적인 자유가 적용되지 않아요. 그래서 입수하는 것 자체가 처벌 대상이 될 수 있고, 거기선 기본법이 개별 기자를 보호해 주지 않습니다.
+Henrik|A2|Men vi bad inte om det. Det bara kom.|하지만 우리가 달라고 한 게 아니잖아요. 그냥 온 거지.
+Lars|B2|Det är just därför vi sitter här. Att ta emot något oombett är inte detsamma som att skaffa det, men ju längre ni har det, och ju mer ni läser och kopierar, desto svårare blir det att hävda att ni bara råkade få det.|바로 그래서 우리가 여기 앉아 있는 겁니다. 청하지 않은 걸 받는 건 입수하는 것과 같지 않아요. 하지만 오래 갖고 있을수록, 더 많이 읽고 복사할수록, 그냥 어쩌다 받았을 뿐이라고 주장하기가 어려워지죠.
+Viktor|A2|Men vi är journalister. Vi vill inte hjälpa Ryssland.|하지만 우린 기자예요. 러시아를 도울 생각은 없어요.
+Lars|B2|Ingen här tror det. Men lagen har ett undantag, och det är det jag vill att ni ska komma ihåg. Gärningen är inte straffbar om den, med hänsyn till syftet och omständigheterna i övrigt, är försvarlig — men det är domstolen som avgör det i efterhand.|여기 그렇게 생각하는 사람은 없어요. 하지만 법에는 예외가 하나 있고, 그걸 기억해 주셨으면 합니다. 목적과 그 밖의 사정을 고려해 정당하다면, 그 행위는 처벌되지 않는다. 다만 그걸 판단하는 건 법원이고, 그것도 나중에 판단합니다.
+Amira|A1|Försvarlig?|정당하다?
+Lars|B1|Försvarlighet. Jag stryker under det tre gånger, för det är det enda ordet på tavlan som kan rädda er.|정당성. 세 번 밑줄 긋겠습니다. 칠판에 있는 단어 중에 여러분을 구할 수 있는 건 이것 하나뿐이거든요.
+Viktor|A1|Vad är försvarligt, då?|그럼 뭐가 정당한 건데요?
+Lars|B2|I förarbetena står det att journalistik om frågor av allmänt intresse normalt ska anses försvarlig, men ”normalt” är inte ”alltid”. Lagen frågar inte bara vad ni gjorde, utan varför och för vems skull.|입법 자료에는 공익적 사안에 관한 저널리즘은 통상 정당한 것으로 봐야 한다고 돼 있어요. 하지만 '통상'은 '언제나'가 아니죠. 법은 당신들이 무엇을 했는지만 묻지 않습니다. 왜, 누구를 위해 했는지를 묻지요.
+Henrik|B1|Och ”i efterhand” betyder att man får veta svaret först när man redan sitter på de åtalades bänk.|그리고 '나중에'라는 건, 이미 피고인석에 앉은 다음에야 답을 안다는 뜻이고요.
+Lars|B2|Ungefär så, Henrik. Om en sådan sak blir ett tryckfrihetsmål är det Justitiekanslern som åtalar och en jury som prövar, och för det publicerade står Sofia till svars som ansvarig utgivare. Men innan något är publicerat kan var och en av er bli föremål för en förundersökning.|대략 그렇습니다, 헨릭. 이런 일이 출판자유 사건이 되면 기소는 법무감찰관이 하고 배심원이 심리합니다. 그리고 보도된 내용에 대해선 발행책임자인 소피아가 책임을 지죠. 하지만 뭔가 보도되기 전에는 여러분 각자가 예비수사 대상이 될 수 있어요.
+Sofia|A2|Så vem har sett dokumentet?|그래서, 누가 문서를 봤지?
+Amira|A2|Jag, Viktor och Elin. Bara första sidan.|저, 빅토르, 엘린이요. 첫 쪽만요.
+Henrik|A1|Inte jag.|난 안 봤어.
+Lars|B1|Bra. Då vill jag att ni tre skriver under en lista i dag: datum, klockslag och exakt vad ni har sett. Elin får skriva under när hon kommer in i eftermiddag.|좋아요. 그럼 세 분은 오늘 목록에 서명해 주세요. 날짜, 시각, 그리고 정확히 무엇을 봤는지. 엘린 씨는 오후에 들어오면 서명하면 됩니다.
+Viktor|B1|Och Henriks vän på bron? Han gav oss inget på papper, och det här kom samma kväll.|그리고 다리 위 헨릭 친구는요? 종이로는 아무것도 안 줬는데, 이게 같은 날 저녁에 왔어요.
+Henrik|B2|Han skickade det inte, och jag tänker inte låta honom bli misstänkt för något som han uttryckligen vägrade göra. Han gav oss fingrar, inga dokument.|그 친구가 보낸 게 아니야. 그 친구가 분명히 거부했던 일로 의심받게 둘 생각도 없고. 손가락을 줬지, 문서를 준 게 아니야.
+Lars|B2|Det tror jag på. Och oavsett vem som skickade det har ni tystnadsplikt om det ni vet om era källor – men en avsändare som kanske vill skada er är inte nödvändigtvis en källa.|그 말 믿습니다. 그리고 누가 보냈든, 여러분은 취재원에 대해 아는 것에 비밀유지 의무가 있어요. 다만 여러분을 해치려 할지도 모르는 발신자가 꼭 취재원인 건 아니죠.
+Viktor|A2|Ett bete, alltså. Inte en källa.|그러니까 미끼네요. 취재원이 아니라.
+Lars|B2|Det vet vi inte än, och därför ska ni inte gå i fällan innan ni vet vilken sorts fälla det är. Svensk polis får inte framkalla brott genom brottsprovokation – men den som har skickat det här följer knappast svenska regler.|그건 아직 모릅니다. 그러니까 어떤 종류의 함정인지 알기 전에 함정에 빠지면 안 되는 거예요. 스웨덴 경찰은 범죄 유발로 범행을 끌어내선 안 됩니다. 하지만 이걸 보낸 사람이 스웨덴 규칙을 따를 것 같진 않군요.
+# 장면 2 — 오전 10시 30분, Källaren 보도 회의 (닫힌 문, 소피아의 커피잔, 라르스가 들고 온 갈색 봉투와 서명 목록 한 장)
+Fredrik|A2|Jag hörde att ni hade möte med Lars redan klockan nio. Vad har hänt?|9시에 벌써 라르스 씨랑 회의했다며. 무슨 일이야?
+Sofia|B1|Källaren har fått en handling som ser ut att komma från MUST. Den är stämplad hemlig och handlar om Eventide Star.|Källaren에 MUST에서 나온 것 같은 문서가 들어왔어. 기밀 도장이 찍혀 있고, Eventide Star에 관한 거야.
+Fredrik|A1|Jävlar. Äkta?|세상에. 진짜예요?
+Viktor|B1|Vi vet inte. Vi har bara sett första sidan, och Amira ska undersöka filen i dag.|몰라. 첫 쪽만 봤어. 아미라가 오늘 파일을 조사할 거야.
+Sofia|B2|Mitt beslut är enkelt: vi publicerar ingenting om dokumentet, vi citerar det inte och vi skriver inte ens att det finns, förrän Lars och jag är överens om att vi vet vad det är.|내 결정은 간단해. 그 문서에 대해선 아무것도 보도하지 않아. 인용도 안 하고, 그런 문서가 있다는 것조차 안 써. 라르스랑 내가 그게 뭔지 안다고 합의할 때까지는.
+Fredrik|A2|Inte ens en rad på webben?|웹에 한 줄도요?
+Sofia|A1|Inte en rad.|한 줄도.
+Fredrik|B2|Jag förstår risken, men tänk på det från andra hållet. Om någon skickar sådant här till oss, skickar de det kanske till fler. Och om en annan tidning har samma dokument? Då har vi suttit på det i onödan.|위험은 알아요. 근데 반대쪽에서도 생각해 보세요. 누가 이런 걸 우리한테 보냈다면, 다른 데도 보냈을 수 있어요. 다른 신문사가 같은 문서를 갖고 있으면요? 그럼 우린 괜히 깔고 앉아 있었던 거예요.
+Sofia|A2|Då får de stå för det. Inte vi.|그럼 그쪽이 책임지면 돼. 우리가 아니라.
+Lars|B2|Fredrik har en poäng när det gäller konkurrensen, men juridiskt spelar det ingen roll om vi är först eller sist. Om en annan redaktion publicerar, är det deras utgivare som får svara för det, inte Sofia.|경쟁 면에서는 프레드릭 씨 말에 일리가 있어요. 하지만 법적으로는 우리가 처음이든 마지막이든 상관없습니다. 다른 편집국이 보도하면, 책임은 그쪽 발행책임자가 지지 소피아가 아니에요.
+Fredrik|B1|Och om de skriver det, kan vi åtminstone följa upp? Utan att citera, bara med det som vi själva har tagit fram?|그럼 그쪽이 쓰면, 적어도 우린 후속 보도는 할 수 있어요? 인용 없이, 우리가 직접 취재한 것만으로요?
+Sofia|B1|Då tar vi ett nytt beslut den dagen. Men vi låter inte en annan tidning bestämma vad vi publicerar.|그럼 그날 새로 결정하자. 하지만 다른 신문이 우리 보도를 정하게 두진 않아.
+Fredrik|B1|Okej. Det är ju ditt namn som står där som ansvarig utgivare.|알겠어요. 발행책임자로 이름이 올라가 있는 건 국장님이니까요.
+Noah|A1|Och jag? Vad gör jag?|그럼 저는요? 전 뭐 해요?
+Amira|B1|Du hjälper mig. Jag behöver gamla dokument från Försvarsmakten som redan är offentliga, så att vi har något att jämföra med.|넌 나 도와줘. 이미 공개된 국군 옛 문서들이 필요해. 비교할 게 있어야 하니까.
+Noah|A2|Typ avhemligade grejer? Fett, det fixar jag.|기밀 해제된 그런 거요? 오케이, 그거 제가 구해 올게요.
+Fredrik|B1|Då lämnar jag er. Säg till om det händer något som webben måste veta, så håller jag resten av redaktionen utanför det här.|그럼 전 빠질게요. 웹이 알아야 할 일이 생기면 말해 줘요. 나머지 편집국은 이 일에서 떨어뜨려 놓을게요.
+Sofia|A2|Tack, Fredrik. Klockan tre som vanligt.|고마워, 프레드릭. 3시에 평소대로.
+Lars|B1|Nu till originalet. USB-minnet går in i ett kuvert, och kuvertet går in i mitt kassaskåp.|이제 원본입니다. USB는 봉투에 넣고, 그 봉투는 제 금고에 넣습니다.
+Amira|A2|Och offline-datorn? Filen ligger där också.|그럼 오프라인 노트북은요? 파일이 거기도 있는데요.
+Lars|B2|Du får behålla en arbetskopia på den datorn, men bara för att pröva om handlingen är äkta. Inga utskrifter, inga skärmbilder, ingenting som lämnar maskinen, och du läser bara så mycket som behövs för att bedöma den.|그 노트북에 작업용 사본 하나는 둬도 됩니다. 단, 문서가 진짜인지 확인하는 용도로만요. 출력 금지, 화면 캡처 금지, 그 기계 밖으로 나가는 건 아무것도 없어야 합니다. 그리고 판단에 필요한 만큼만 읽으세요.
+Amira|A1|Uppfattat.|알겠어요.
+Noah|B1|Varför ger vi den inte bara till Säpo? Då är vi av med problemet.|그냥 Säpo한테 주면 안 돼요? 그럼 문제 해결이잖아요.
+Viktor|B2|För att om det mot förmodan är en riktig visselblåsare, så har vi just gett polisen ett spår till någon som litade på oss. Vi lämnar inte ut något som kan leda till en källa – inte ens till en källa som vi inte känner.|만에 하나 진짜 내부고발자라면, 우리를 믿은 사람에게 가는 단서를 경찰한테 갖다 바치는 셈이니까. 우린 취재원으로 이어질 수 있는 건 아무것도 넘기지 않아. 우리가 모르는 취재원이라도.
+Lars|B2|Dessutom kan en överlämning tolkas som att vi bekräftar att vi vet vad handlingen innehåller. Vi förvarar, vi dokumenterar och vi väntar – det är det mest försvarliga just nu.|게다가 넘기는 것 자체가 우리가 문서 내용을 안다고 인정하는 걸로 해석될 수 있어요. 보관하고, 기록하고, 기다린다. 지금은 그게 가장 정당한 길입니다.
+Sofia|A2|Listan, Lars. Vi skriver under nu.|목록이요, 라르스. 지금 서명하죠.
+Lars|B1|Här. Namn, datum, klockslag och vad ni har sett. Sofia skriver under som den som har beslutat om förvaringen.|여기요. 이름, 날짜, 시각, 그리고 본 것. 소피아는 보관을 결정한 사람으로 서명합니다.
+Viktor|A2|Viktor Holm. Tionde april. Första sidan.|빅토르 홀름. 4월 10일. 첫 쪽.
+Amira|A2|Amira Saleh. Samma sak. Och hashen.|아미라 살레. 같은 내용. 그리고 해시값.
+Lars|A2|Kuvertet är förseglat. Jag skriver klockslaget över förseglingen.|봉투를 봉인했습니다. 봉인 위에 시각을 적겠습니다.
+Viktor|A1|Klockan?|몇 시예요?
+Lars|A1|Tio och femtiotvå.|10시 52분.
+Sofia|B2|Bra. Då vet vi exakt vad vi har gjort och när, om någon frågar. Och någon kommer att fråga, det är jag ganska säker på.|좋아. 그럼 누가 물어도 우리가 뭘 언제 했는지 정확히 알 수 있어. 그리고 누군가는 물을 거야. 그건 꽤 확신해.
+Amira|B1|Ge mig tre timmar med datorn och Noahs gamla dokument, så kan jag säga mer om filen.|노트북이랑 노아가 찾아 올 옛 문서들 갖고 세 시간만 주세요. 그럼 파일에 대해 더 말씀드릴 수 있어요.
+Sofia|A1|Tre timmar. Kör.|세 시간. 해 봐.
+# 장면 3 — 낮 1시, Källaren (인터넷에 연결된 적 없는 아미라의 낡은 노트북, 옆자리 노트북의 AIS 로그, 노아가 찾아 온 공개 문서 열두 건)
+Noah|A2|Jag har hittat tolv gamla dokument från Försvarsmakten. Alla är avhemligade och ligger öppet på nätet.|국군 옛 문서 열두 개 찾았어요. 전부 기밀 해제돼서 인터넷에 공개돼 있어요.
+Amira|A1|Göttigt. Ge hit.|좋았어. 줘 봐.
+Viktor|A2|Vad tittar du på först?|뭐부터 봐?
+Amira|B1|Filens metadata. Någon har tvättat bort författare och datum, men programmet som skapade pdf:en står kvar.|파일 메타데이터. 누가 작성자랑 날짜는 싹 지웠는데, PDF를 만든 프로그램은 남아 있어.
+Viktor|A1|Och?|그래서?
+Amira|B1|Det är en vanlig version av ett kontorsprogram, från i vintras. Det använder halva Sverige, och troligen Försvarsmakten också.|흔한 사무용 프로그램 버전이야, 지난겨울 거. 스웨덴 사람 절반이 쓰고, 아마 국군도 쓸 거야.
+Noah|A2|Så det säger ingenting?|그럼 아무것도 안 알려 주는 거예요?
+Amira|B1|Det säger att den som gjorde filen visste vad man ska radera. Det är ingen amatör.|파일 만든 사람이 뭘 지워야 하는지 알았다는 건 알려 주지. 아마추어가 아니야.
+Viktor|A2|Typsnittet, då?|그럼 글꼴은?
+Noah|B1|Samma som i alla tolv gamla dokument. Samma radavstånd, samma sidfot och samma lilla logga uppe i hörnet.|옛 문서 열두 개랑 전부 똑같아요. 줄 간격도 같고, 꼬리말도 같고, 위쪽 구석 작은 로고도 같아요.
+Amira|A1|Fan. Snyggt gjort.|젠장. 잘 만들었네.
+Viktor|A2|Eller så är den äkta.|아니면 진짜거나.
+Amira|A2|Eller så är den äkta. Jag vet. Nu diarienumret.|아니면 진짜거나. 알아. 이제 문서 번호.
+Noah|B1|Försvarsmaktens diarienummer börjar med FM, sedan årtalet och sedan ett löpnummer. Jag har hittat offentliga beslut från mars med nummer som ligger nära.|국군 문서 번호는 FM으로 시작해서, 그다음 연도, 그다음 일련번호예요. 3월에 나온 공개 결정문 중에 번호가 가까운 걸 찾았어요.
+Amira|B2|Och det här numret passar exakt in i serien, mellan ett beslut från den tjugofemte och ett från den trettioförsta mars. Om någon har hittat på det, har de gjort precis samma läxa som vi.|그리고 이 번호가 그 일련번호에 딱 들어맞아. 3월 25일 결정문이랑 31일 결정문 사이에. 누가 지어낸 거라면, 우리랑 똑같은 숙제를 한 거지.
+Viktor|A1|Så den är äkta?|그럼 진짜야?
+Amira|A2|Vänta. Jag är inte klar.|잠깐. 아직 안 끝났어.
+Noah|A1|Vad läser du nu?|지금 뭐 읽어요?
+Amira|B1|Sidan tre. Det enda stycket med datum och positioner. Lars sa att jag bara får läsa det som behövs.|3쪽. 날짜랑 위치가 나오는 유일한 단락. 라르스 씨가 필요한 것만 읽으랬어.
+Viktor|A2|Läs inte högt. Säg bara om det stämmer.|소리 내서 읽지 마. 맞는지만 말해.
+Amira|B1|Positionerna stämmer med våra AIS-loggar ner till decimalen. Men datumet för när hon gick in i Finska viken gör det inte.|위치는 우리 AIS 로그랑 소수점까지 맞아. 근데 그 배가 핀란드만에 들어간 날짜는 안 맞아.
+Noah|A1|Hur mycket fel?|얼마나 틀려요?
+Amira|A2|En dag. Dokumentet säger den sjuttonde mars, på kvällen.|하루. 문서엔 3월 17일 저녁이라고 돼 있어.
+Viktor|B1|Den kvällen låg hon stilla öster om Gotland. Kabeln gick av 02.40, och först på kvällen den artonde var hon i Finska viken.|그날 저녁엔 그 배가 고틀란드 동쪽에 멈춰 있었어. 케이블은 새벽 2시 40분에 끊겼고, 18일 저녁이 돼서야 핀란드만에 들어갔지.
+Amira|B1|Exakt. Våra loggar, två öppna AIS-arkiv och varje fartyg som låg runt henne säger den artonde. Alla som har följt henne på riktigt vet det.|맞아. 우리 로그도, 공개 AIS 아카이브 두 곳도, 주변에 있던 배들도 전부 18일이라고 해. 그 배를 제대로 쫓아 본 사람이면 다 알아.
+Noah|A2|Kanske ett skrivfel? Det händer.|오타 아닐까요? 그런 일 있잖아요.
+Amira|B1|Datumet är en dag fel. En riktig analytiker gör inte det misstaget. Det är en markör.|날짜가 하루 틀려. 진짜 분석관은 그런 실수 안 해. 이건 표지야.
+Viktor|A2|En markör för vad?|뭘 위한 표지?
+Amira|B2|Om vi skriver ”enligt en hemlig bedömning gick fartyget in i Finska viken den sjuttonde mars”, har vi visat för hela världen exakt vilket papper vi har läst. Det är ett fingeravtryck som vi själva skulle trycka på förstasidan.|우리가 "기밀 평가에 따르면 그 배는 3월 17일에 핀란드만에 들어갔다"라고 쓰면, 우리가 정확히 어떤 문서를 읽었는지 온 세상에 보여 주는 거야. 우리 손으로 1면에 찍는 지문이지.
+Viktor|B2|Och samtidigt skulle vi publicera ett fel. Då kan den som skickade det både peka ut oss och säga att Stockholmsposten inte ens kan läsa en AIS-logg.|그리고 동시에 틀린 걸 보도하게 되는 거고. 그럼 보낸 쪽은 우리를 지목할 수도 있고, 스톡홀름스포스텐은 AIS 로그도 못 읽는다고 떠들 수도 있지.
+Noah|A1|Sjukt.|미쳤다.
+Amira|B2|Men det gör den inte till en förfalskning. Någon kan ha tagit ett äkta dokument och ändrat en enda siffra – och då har vi fortfarande en riktig hemlig handling i vår dator.|하지만 그렇다고 위조라는 건 아니야. 누가 진짜 문서를 가져다가 숫자 하나만 바꿨을 수도 있어. 그럼 우리 컴퓨터엔 여전히 진짜 기밀문서가 있는 거고.
+Viktor|B1|Så vi kan inte säga att den är falsk, och vi kan inte säga att den är äkta. Vi kan bara säga att någon vill att vi ska använda den.|그러니까 가짜라고도, 진짜라고도 못 해. 누군가 우리가 그걸 쓰길 바란다는 것만 말할 수 있지.
+Amira|B1|En sak till. Jag tittade i Brevlådans logg i morse. Den sparar ingenting om avsändaren, men den sparar vilken dörr ett meddelande kom in genom.|하나 더. 오늘 아침에 Brevlådan 로그를 봤어. 보낸 사람에 대해선 아무것도 저장 안 하지만, 메시지가 어느 문으로 들어왔는지는 저장해.
+Viktor|A1|Vilken dörr?|어느 문?
+Amira|B2|Jag hade fel i går kväll. Formuläret på hemsidan tar bara emot text, inga filer. Filer kan bara komma in genom dörr två, som har en egen adress och en lösenfras, och den står inte någonstans på nätet.|어젯밤엔 내가 틀렸어. 홈페이지 양식은 텍스트만 받아, 파일은 안 돼. 파일은 2번 문으로만 들어올 수 있어. 따로 주소가 있고 암호 문구가 있는데, 그건 인터넷 어디에도 없어.
+Noah|A2|Vem vet om dörr två, då?|그럼 2번 문은 누가 알아요?
+Viktor|B1|Vi ger lappen till källor som behöver skicka dokument. Det har vi gjort i flera år. Jag letar inte efter källor, Amira.|파일을 보내야 하는 취재원한테 그 쪽지를 줘. 몇 년째 그렇게 해 왔어. 난 취재원을 찾지 않아, 아미라.
+Amira|B1|Jag letar inte efter en person. Jag tittar bara på vilken dörr den kom in genom: dörr två, rätt lösenfras, klockan 21.14.|사람을 찾는 게 아니야. 어느 문으로 들어왔는지만 보는 거야. 2번 문, 맞는 암호 문구, 밤 9시 14분.
+Viktor|A2|Då var det inte vem som helst.|그럼 아무나는 아니었네.
+# 장면 4 — 오후 3시 40분, Källaren (노크 소리, 커피 머신, 아미라의 평소 노트북 화면에 떠 있는 공개 국군 문서)
+Katja|A1|Hej! Stör jag?|안녕하세요! 방해되나요?
+Noah|A1|Nej då. Kom in.|아니요. 들어오세요.
+Katja|B1|Jag var ändå i huset och lämnade min faktura till ekonomiavdelningen, så jag tänkte säga hej.|어차피 건물에 와서 경리부에 청구서를 내고 가는 길이라, 인사나 하려고요.
+Noah|A2|Kaffe? Med mjölk?|커피요? 우유 넣어요?
+Katja|A2|Noah, tack. Lite mjölk, inget socker.|노아, 고마워요. 우유 조금, 설탕은 빼고요.
+Amira|A1|Hej, Katja.|안녕, 카탸.
+Katja|A2|Är det där Försvarsmaktens gamla mall? Den känner jag igen.|저거 국군 옛날 양식이에요? 알아보겠는데요.
+Amira|B1|Ett gammalt dokument som har legat öppet på nätet i flera år. Inget spännande.|몇 년째 인터넷에 공개돼 있는 옛 문서야. 별거 아니야.
+Katja|B1|Amira, behöver ni hjälp? Jag har jobbat med försvarsdokument förut.|아미라, 도움 필요해요? 나 전에 국방 문서 다뤄 봤어요.
+Amira|B1|Tack, men vi klarar oss. Jag stänger den här ändå, batteriet håller på att ta slut.|고맙지만 괜찮아. 어차피 이거 닫을 거야. 배터리가 다 돼 가거든.
+Katja|B1|Det var bara ett erbjudande. Jag sålde analyser av öppna försvarsdokument till en tysk tidning i vintras.|그냥 제안이었어요. 지난겨울에 독일 신문에 공개 국방 문서 분석을 팔았거든요.
+Noah|A2|Här. Lite mjölk. Inget socker.|여기요. 우유 조금. 설탕 없이.
+Katja|A2|Noah, du är en ängel. Hur går det med drönarna?|노아, 천사네요. 드론 건은 어떻게 돼 가요?
+Noah|B1|Typ samma som för alla andra. Polisen säger ingenting, så vi väntar.|다른 데랑 비슷해요. 경찰이 아무 말도 안 하니까 기다리는 중이에요.
+Katja|B1|Och Eventide Star? Jag såg att ni inte skrev något om henne i dag. Det är första gången på tre veckor.|그럼 Eventide Star는요? 오늘은 그 배에 대해 아무것도 안 썼더라고요. 3주 만에 처음이던데요.
+Viktor|A2|Ibland finns det inget nytt. Så enkelt är det.|가끔은 새로운 게 없을 때도 있어요. 그렇게 간단해요.
+Katja|B2|Viktor, det tror jag inte en sekund på, men jag respekterar det. Om ni vill ha nya bilder från Primorsk har jag tillgång till arkivet fram till slutet av månaden.|빅토르, 그 말은 1초도 안 믿지만, 존중할게요. 프리모르스크 새 사진이 필요하면 이달 말까지는 아카이브에 접근할 수 있어요.
+Viktor|A1|Tack. Vi hör av oss.|고마워요. 연락할게요.
+Katja|A2|Tack för kaffet. Ha det bra, allihop.|커피 고마워요. 다들 잘 있어요.
+Amira|B1|Från och med i dag tar jag hem min dator varje kväll. Den lämnar inte min väska.|오늘부터 내 노트북은 매일 밤 집에 가져갈 거야. 내 가방 밖으로 안 나와.
+Noah|A2|Vad? Hon ville ju bara hjälpa.|네? 그냥 도와주려던 거잖아요.
+Amira|B2|Kanske. Men just i dag vill jag inte att någon utanför det här rummet ens ser vilken mall jag har på skärmen, oavsett hur trevlig hen är.|그럴지도. 근데 하필 오늘은 이 방 밖의 누구도 내 화면에 무슨 양식이 떠 있는지조차 안 봤으면 해. 그게 누구든, 아무리 친절해도.
+# 장면 5 — 저녁 6시 10분, 쿵스홀름 스트란드 물가 산책로 (멜라렌으로 이어지는 물에서 부는 봄바람, 아직 잎이 없는 자작나무, 퇴근길 자전거들)
+Sofia|A2|Gå en bit med mig. Jag vill inte prata om det här på redaktionen.|나랑 좀 걷자. 이 얘긴 편집국에서 하고 싶지 않아.
+Viktor|A1|Okej.|그래.
+Sofia|B1|Det blåser fortfarande kallt från vattnet, men det luktar vår. Mormor sa alltid att man ska lita på näsan och inte på termometern.|물에서 아직 찬바람이 불지만, 봄 냄새가 나. 외할머니가 늘 그러셨어. 온도계 말고 코를 믿으라고.
+Viktor|A2|Du ville inte prata om vädret.|날씨 얘기하려던 거 아니잖아.
+Sofia|B2|Nej. Jag har läst Amiras sammanfattning två gånger. En äkta form, en falsk detalj och en avsändare som kan Brevlådan – det är inte någon som vill att vi ska avslöja något. Det är någon som vill att vi ska göra ett misstag.|아니. 아미라 요약을 두 번 읽었어. 진짜 같은 형식, 가짜 세부 하나, 그리고 Brevlådan을 아는 발신자. 우리가 뭔가를 폭로하길 바라는 사람이 아니야. 우리가 실수하길 바라는 사람이지.
+Viktor|A1|Jag vet.|알아.
+Sofia|B1|Och misstaget skulle inte bara ha mitt namn på sig, trots att jag är utgivare. Det var ditt bord, ditt fartyg och din vecka.|그리고 그 실수엔 내 이름만 붙진 않았을 거야, 내가 발행책임자인데도. 네 책상이었고, 네 배였고, 네 한 주였으니까.
+Viktor|B1|Brevlådan är hela Källarens. Vem som helst av oss kunde ha öppnat den.|Brevlådan은 Källaren 전체 거야. 우리 중 누구든 열 수 있었어.
+Sofia|B2|Men dokumentet handlar om ditt fartyg, det kom samma dag som du ringde MUST, och det är du som har skrivit varje artikel om Eventide Star. Den här gången är det inte källan som är måltavlan, Viktor. Det är du.|하지만 그 문서는 네 배에 관한 거고, 네가 MUST에 전화한 바로 그날 왔고, Eventide Star 기사는 전부 네가 썼어. 이번엔 취재원이 표적이 아니야, 빅토르. 너야.
+Viktor|A1|Ja.|그래.
+Sofia|B1|Du blir tyst. Det blir du bara när det är allvar.|너 조용해지네. 진짜 심각할 때만 그러잖아.
+Viktor|B2|Sedan 2019 har jag tänkt på varje källa som någon kunde komma åt genom mig. Jag har aldrig tänkt på att någon skulle vilja komma åt mig genom en källa som inte ens finns.|2019년부터 누가 나를 통해 손댈 수 있는 취재원이 누군지만 생각해 왔어. 존재하지도 않는 취재원을 통해 누가 나한테 손대려 할 거라곤 한 번도 생각 못 했지.
+Sofia|B2|Jag har skrivit under dina texter i många år, och jag tänker göra det igen. Men om de försöker en gång till, vill jag att du ringer mig först – inte efter att du har bestämt dig.|난 오랫동안 네 기사에 서명해 왔고, 앞으로도 그럴 거야. 하지만 그쪽이 한 번 더 시도하면, 먼저 나한테 전화해. 네가 결정한 다음이 아니라.
+Viktor|A2|Jag lovar. Där kommer Amira.|약속할게. 저기 아미라 온다.
+Amira|B2|Jag har datorn i väskan, och jag kollade en sak till innan jag gick. Adressen till dörr två har aldrig legat ute på nätet, och regeln om att filer ska skickas utan text, annars hamnar de i karantän ett dygn, står inte ens på lappen. Den står bara i vår interna rutin.|노트북은 가방에 있어요. 나오기 전에 하나 더 확인했어요. 2번 문 주소는 인터넷에 올라온 적이 한 번도 없어요. 그리고 파일은 텍스트 없이 보내야 한다는 규칙, 안 그러면 하루 동안 격리 보관된다는 규칙은 쪽지에도 안 적혀 있어요. 그건 우리 내부 절차 문서에만 있어요.
+Sofia|A2|Och den här filen?|그럼 이 파일은?
+Viktor|A1|Utan text.|텍스트 없이 왔지.
+Amira|B1|Avsändaren visste exakt hur Brevlådan fungerar. Inifrån.|보낸 사람은 Brevlådan이 어떻게 돌아가는지 정확히 알았어요. 안에서.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vi väntar.** | 기다리자. / 우리는 기다린다. | 현재형 *väntar*(기다리다)는 '지금 기다리는 중'과 '기다리기로 한다'를 둘 다 나타낸다. 소피아의 이 두 단어는 이 화 전체의 결정 — 보도 보류 — 을 미리 보여 준다. 반대말 격의 표현: *Vi kör.*(가자, 진행해) |
+| `A2` | **Lars kommer klockan nio.** | 라르스는 9시에 온다. | 스웨덴어는 정해진 미래 일정을 현재형으로 말한다: *kommer*(온다). 시각은 *klockan* + 숫자: *klockan nio*(9시), *klockan halv tio*(9시 반 — '10시의 절반'이라는 뜻이니 주의) |
+| `B1` | **Om vi publicerar uppgifter som skadar Sveriges relation till Nato kan det i värsta fall räknas som utlandsspioneri.** | 우리가 스웨덴과 나토의 관계를 해치는 정보를 보도하면, 최악의 경우 외국 첩보죄로 간주될 수 있다. | *om*-절이 앞에 오면 주절은 동사부터: *kan det…*(도치). *i värsta fall*(최악의 경우) ↔ *i bästa fall*(잘되면). *räknas som*(~로 간주되다) — *-s*로 끝나는 수동형 |
+| `B2` | **Gärningen är inte straffbar om den, med hänsyn till syftet och omständigheterna i övrigt, är försvarlig — men det är domstolen som avgör det i efterhand.** | 목적과 그 밖의 사정을 고려해 정당하다면 그 행위는 처벌되지 않는다 — 다만 그것은 법원이 나중에 판단한다. | 법조문체 문장: *om den, med hänsyn till…, är försvarlig*처럼 조건절 한가운데 삽입구가 들어간다. *med hänsyn till*(~을 고려하여), *i övrigt*(그 밖의). *det är X som…*(…하는 것은 바로 X다)는 강조 구문. *i efterhand*(사후에, 나중에) |
+| `B1` | **Datumet är en dag fel. Det är en markör.** | 날짜가 하루 틀렸어. 이건 표지야. | *vara fel*(틀리다) 앞에 양을 붙인다: *en dag fel*(하루 틀림), *två minuter fel*(2분 틀림). *markör*는 '표시, 표지' — 일부러 심어 둔 식별용 흔적. 비슷한 말: *spår*(흔적), *fingeravtryck*(지문) |
+| `B2` | **Lagen frågar inte bara vad ni gjorde, utan varför och för vems skull.** | 법은 당신들이 무엇을 했는지만 묻지 않는다. 왜, 누구를 위해 했는지를 묻는다. | *inte bara … utan (också)*(~뿐만 아니라 ~도). 간접의문문 *vad ni gjorde*는 어순 도치 없음. *för någons skull*(누구를 위해): *för min skull*(나를 위해), *för vems skull?*(누구를 위해?) |
+| 관용구 | **gå i fällan** | 함정에 빠지다 | *fälla*(덫, 함정)의 한정형 *fällan*. *gå i fällan*(덫에 걸리다) ↔ *gillra en fälla*(덫을 놓다), *lägga ut ett bete*(미끼를 놓다). 이 화의 제목 *Fällan*이 바로 이 말이다 |
+| 안보·법 | **brottsprovokation** | 범죄 유발 | *brott*(범죄) + *provokation*(유발, 도발). 수사기관이 함정을 놓아 원래 없던 범행을 끌어내는 것으로, 스웨덴에서 경찰의 범죄 유발은 원칙적으로 허용되지 않는다. 관련어: *förundersökning*(예비수사), *åtal*(기소), *försvarlig*(정당한) |
+
+## 저널리즘·법 메모
+2023년 1월 1일에 신설된 외국 첩보죄(*utlandsspioneri*)는 외국 세력을 이롭게 하려고 권한 없이 정보를 입수·전달·제공·누설해, 스웨덴과 다른 나라 또는 국제기구(예: 나토)의 관계를 심각하게 해칠 수 있게 하는 행위를 처벌한다(최대 징역 4년, 중대한 경우 더 무겁다). 같은 때 기본법인 출판자유법(TF)·표현자유기본법(YGL)도 개정되어, 이 죄는 언론 영역에도 적용된다 — 이런 국가안보 범죄에서는 정보를 '입수할 자유'의 보호도 미치지 않아, 보도 전 단계의 기자 개인이 문제 될 수 있다. 처벌을 막는 장치는 '정당성(*försvarlighet*)' 예외로, 입법 자료는 공익적 사안에 관한 저널리즘을 통상 정당한 것으로 보지만, 그 판단은 결국 법원이 사후에 내린다. 보도된 내용이 출판자유 사건이 되면 기소는 법무감찰관(*Justitiekanslern*)이 하고 배심원이 심리하며 책임은 발행책임자가 진다. 그래서 소피아는 문서를 인용도 언급도 하지 않기로 하고, 라르스는 원본을 봉인해 금고에 넣은 뒤 열람자·시각·열람 범위를 서명 목록으로 남긴다 — 넘기지도, 지우지도, 퍼뜨리지도 않는 것이 '정당성'을 지키는 가장 안전한 길이다.
+
+## 문화·현안 메모
+- **법무감찰관(*Justitiekanslern*, JK)과 배심원** — 스웨덴에서 출판·방송 내용이 범죄인지를 다투는 *tryckfrihetsmål*(출판자유 사건)은 일반 검사가 아니라 정부 법무감찰관만 기소할 수 있고, 스웨덴 재판에서는 드물게 배심원(*jury*)이 범죄 성립 여부를 판단한다. 언론의 자유에 관한 사건만큼은 시민이 직접 판단해야 한다는 오랜 전통이다.
+- **뉴스룸의 익명 제보함** — 스웨덴의 여러 언론사는 취재원 보호를 위해 보낸 사람의 정보를 남기지 않는 암호화 제보함을 운영한다. 이런 시스템은 신원을 지켜 주는 만큼, 누가 보냈는지 알 수 없는 문서 — 선물이든 함정이든 — 도 함께 받아들인다는 뜻이기도 하다.
+- **쿵스홀름 스트란드(*Kungsholms strand*)** — 쿵스홀멘 섬 북쪽 물가를 따라 이어지는 산책로로, 신문사가 있는 한트베르카르가탄에서 걸어서 갈 수 있다. 4월의 스톡홀름은 해가 저녁 8시 가까이까지 남아 있지만, 물에서 부는 바람은 아직 겨울처럼 차다.
+- ⚠️ 이 화의 기밀문서, 문서 번호, Brevlådan의 '2번 문'과 내부 절차, 인물은 모두 허구다. 외국 첩보죄와 출판자유 사건의 절차는 실제 제도를 일반적인 수준에서 설명한 것이며, 구체적 사건의 법률 판단을 대신하지 않는다.
+
+## 다음 화 예고
+> 4월 14일 화요일, 쿵스홀멘의 카페. Säpo의 안데르스 뤼덴은 시나몬롤에 손도 대지 않은 채 말한다: "Jag ställer inga frågor. Jag konstaterar bara en sak."
