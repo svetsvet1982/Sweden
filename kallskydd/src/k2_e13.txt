@@ -1,0 +1,186 @@
+@title 2부 13화 — Limassol
+@subtitle (리마솔)
+@meta 날짜|2026년 3월 4일 수요일 오후 ~ 3월 5일 목요일 밤 (귀국은 3월 6일 금요일 아침). 키프로스는 스웨덴보다 1시간 빠르다
+@meta 장소|라르나카 공항 도착장 → 리마솔행 택시 → 리마솔 옛 항구 (3월 4일 오후 3시경) → 리마솔 시내, 명의 이사의 법률사무소가 든 건물 로비 (3월 5일 오전 10시) → 구시가지, 오렌지 나무가 있는 안뜰 카페 (오후 1시) → 해변 호텔 테라스 (저녁 8시 ~ 밤 10시)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Eleni** (엘레니 게오르기우, 38, 리마솔의 키프로스 탐사기자 — 2010년 룬드 교환학생) · **Andreas** (안드레아스 미하일, 50대, 명의 이사 — 회사 약 300개의 이사) · **Christina** (크리스티나, 건물 리셉션 직원) · **Nikos** (니코스, 라르나카 공항 택시 기사) · **Alva** (알바, 16, 빅토르의 딸 — 영상통화)
+@intro **지난 이야기** — 사회보험청 심사관 한나 뢰브그렌은 빚을 갚아 준 "컨설턴트" 세바스티안 렌의 부탁으로 Omsorgia 계열 업체의 신청을 승인해 왔다고 털어놓았다. 빅토르는 그녀가 Nordhavn에 대해 말한 부분만 취재원으로 보호하겠다고 선을 그었고, 한나는 마지막에 이름 하나를 꺼냈다 — "늘 마그누스가 안부 전한다고 했죠."
+@intro 이틀 뒤, 3월 4일 수요일. 아침 7시 영하 9도의 알란다를 떠난 빅토르와 아미라가 오후 라르나카 공항에 내린다. Steget Vidare의 계좌 내역에 찍힌 리마솔 계좌의 주인 이름은 Eventide Holdings Ltd — 그 회사의 이사는 단 한 명이다.
+# 장면 1 — 3월 4일 수요일 오후 2시 30분, 라르나카 공항 도착장 → 리마솔행 택시 → 리마솔 옛 항구 (팔에 걸친 겨울 코트 두 벌, 선불 유심 두 개, 꺼 둔 스웨덴 휴대폰)
+Amira|A1|Herregud. Känn på luften!|세상에. 이 공기 좀 느껴 봐!
+Viktor|A2|I morse var det minus nio på Arlanda.|오늘 아침 알란다는 영하 9도였는데.
+Amira|A1|Och här? Arton grader.|여긴? 18도야.
+Viktor|A1|Det är varmt här.|여긴 따뜻하네.
+Amira|B1|Ta av dig rocken, då. Du ser ut som en man som har kommit för att stänga ett bolag.|그럼 코트 좀 벗어. 회사 하나 문 닫게 하러 온 사람 같잖아.
+Viktor|A2|Det är väl därför vi är här. Har du simkorten?|그러려고 온 거 아냐? 유심은 샀어?
+Amira|B1|Två kontantkort från kiosken vid bagageutlämningen. De ville se mitt pass, så anonyma är de inte.|수하물 찾는 곳 옆 매점에서 선불 유심 두 개. 여권을 보여 달래서 익명은 아니야.
+Viktor|A2|Men de är inte kopplade till våra svenska nummer.|그래도 우리 스웨덴 번호랑은 안 엮여 있지.
+Amira|B1|Precis. Våra egna telefoner har varit avstängda sedan Arlanda, och de förblir avstängda tills vi landar hemma igen.|맞아. 우리 폰은 알란다에서부터 꺼져 있고, 집에 착륙할 때까지 계속 꺼 둘 거야.
+Nikos|A1|Taxi? Limassol?|택시? 리마솔?
+Viktor|A1|Ja. Limassol, tack.|네. 리마솔이요.
+Nikos|A2|Forty-five minutes. First time in Cyprus, yes?|45분 걸려요. 키프로스는 처음이죠?
+Amira|A1|Yes. Första gången.|네. 처음이에요.
+Nikos|A2|Swedish? Many Swedish come in summer. In March, only business.|스웨덴 사람? 여름엔 많이 와요. 3월엔 일 때문에만 오고.
+Viktor|B1|Han har rätt, för vi har inte kommit hit för att bada. Vi har kommit för en adress.|맞는 말이네. 우린 수영하러 온 게 아니니까. 주소 하나 때문에 왔지.
+Amira|B1|Och för ett namn. Mottagaren på Steget Vidares kontoutdrag heter Eventide Holdings Ltd.|이름 하나 때문이기도 하고. Steget Vidare 계좌 내역에 찍힌 수취인 이름이 Eventide Holdings Ltd야.
+Viktor|A2|Samma konto som i Liams telefon.|리암 폰에 있던 거랑 같은 계좌.
+Amira|B2|Sju överföringar i telefonen och en i månaden från Steget Vidare – allt landar på ett konto i Limassol, och bolaget som äger kontot har en enda direktör: Andreas Michael.|폰에 있던 송금 일곱 건, Steget Vidare에서 매달 한 건씩 — 전부 리마솔의 한 계좌로 떨어지고, 그 계좌 주인인 회사의 이사는 딱 한 명이야. 안드레아스 미하일.
+Nikos|A2|Look. The new towers. Every year one more.|보세요. 새 타워들. 해마다 하나씩 늘어요.
+Viktor|A1|Och kranarna.|크레인도.
+Nikos|A2|Many cranes, many lawyers. Limassol is busy.|크레인도 많고 변호사도 많아요. 리마솔은 바빠요.
+Amira|B2|Han säger det som om det vore väder. Kranar och advokater.|날씨 얘기하듯 말하네. 크레인이랑 변호사.
+Viktor|A2|Var möter vi henne?|그 사람은 어디서 만나?
+Amira|B1|Vid gamla hamnen, vid fiskebåtarna. Hon valde platsen i går kväll, och hon föreslår aldrig samma tid två gånger.|옛 항구, 고깃배 있는 데. 어젯밤에 그 사람이 장소를 정했어. 같은 시간을 두 번 제안하는 법이 없어.
+Viktor|A1|Där. Gul jacka?|저기. 노란 재킷?
+Eleni|B1|Välkomna! Jag lärde mig svenska i Lund, så förlåt om jag låter som en student.|환영해요! 룬드에서 스웨덴어를 배워서, 학생처럼 들려도 이해해 줘요.
+Amira|A2|Du låter bättre än min kusin i Hammarkullen.|우리 하마르쿨렌 사촌보다 잘하시는데요.
+Eleni|B1|Ett år i Lund, 2010. Jag har aldrig frusit så mycket, och jag har aldrig ätit så många kanelbullar.|룬드에서 1년, 2010년이요. 그렇게 추웠던 적도, 시나몬롤을 그렇게 많이 먹은 적도 없어요.
+Viktor|B1|Tack för att du ville träffa oss, trots att du inte vet vad vi är för några.|우리가 어떤 사람들인지도 모르면서 만나 줘서 고마워요.
+Eleni|A2|Kom. Siga siga – i dag dricker vi kaffe, och i morgon klockan tio står vi framför huset.|가요. 시가 시가, 천천히요 — 오늘은 커피 마시고, 내일 10시에 그 건물 앞에 서는 거예요.
+# 장면 2 — 3월 5일 목요일 오전 10시, 리마솔 시내의 5층 사무 건물 로비 (바닥부터 천장까지 우편함으로 덮인 벽, 미소 짓는 리셉션 직원, 5층에 멈춰 있는 엘리베이터)
+Viktor|A2|Är det här? Fem våningar och ingen skylt utanför.|여기예요? 5층짜리에 밖엔 간판 하나 없네요.
+Eleni|A1|Här är det. Titta.|여기예요. 보세요.
+Amira|A1|Jävlar.|젠장.
+Eleni|B1|Fjortonhundra bolag har sin registrerade adress i det här huset, och nästan alla på samma våning.|이 건물에 등록 주소를 둔 회사가 1,400개예요. 거의 다 같은 층이고요.
+Viktor|A2|Fjortonhundra brevlådor. Från golvet till taket.|우편함 1,400개. 바닥부터 천장까지.
+Amira|B1|I Norrvik räknade vi fyrtiosju och tyckte att det var mycket. Det här är en hel vägg.|노르비크에선 마흔일곱 개 세고 많다고 생각했는데. 이건 벽 하나 통째네.
+Eleni|B1|Det är inte olagligt. En advokatbyrå på tredje våningen fungerar som adress åt dem allihop.|불법은 아니에요. 3층의 법률사무소 하나가 그 회사들 전부의 주소 역할을 하는 거죠.
+Viktor|A1|Vilken byrå?|어느 사무소요?
+Eleni|A2|Hans. Andreas Michael & Partners.|그 사람 거요. 안드레아스 미하일 & 파트너스.
+Amira|A2|Där. Fack 3-112. Eventide Holdings Ltd.|저기. 3-112번 칸. Eventide Holdings Ltd.
+Viktor|A1|Ta en bild. Bara facket.|사진 찍어. 그 칸만.
+Amira|B1|Redan gjort, utan blixt. På facket bredvid sitter en lapp med tre andra bolagsnamn.|벌써 찍었어, 플래시 없이. 옆 칸엔 다른 회사 이름 세 개가 적힌 쪽지가 붙어 있어.
+Christina|A2|Good morning. Can I help you?|안녕하세요. 도와드릴까요?
+Eleni|A2|Kalimera. We would like to see Mr Michael, please.|칼리메라. 미하일 씨를 뵙고 싶은데요.
+Christina|A1|Appointment?|약속하셨어요?
+Viktor|A1|Nej. Inte än.|아니요. 아직은요.
+Eleni|A2|No appointment. They are journalists, from Sweden.|약속은 없어요. 스웨덴에서 온 기자들이에요.
+Christina|A2|Mr Michael is very busy. Maybe next week.|미하일 씨는 아주 바쁘세요. 다음 주쯤이면 모를까요.
+Viktor|B1|Säg att vi kan vänta, och att vi har skriftliga frågor till honom.|기다릴 수 있다고, 그리고 미하일 씨께 드릴 서면 질문이 있다고 전해 줘요.
+Eleni|A2|They can wait. And they have written questions for him.|기다리실 수 있대요. 그리고 그분께 드릴 서면 질문이 있대요.
+Christina|A2|Sit there, please. The coffee machine is broken.|저기 앉으세요. 커피 머신은 고장이에요.
+Amira|B1|Hon lyfte luren innan vi ens hade satt oss. Hon ringer upp till tredje våningen.|우리가 앉기도 전에 수화기를 들었어. 3층에 전화하네.
+Viktor|B2|Bra. Om han vet att vi sitter här nere måste han bestämma sig för hur han ska ta sig in, och det säger oss också något.|잘됐네. 우리가 여기 앉아 있는 걸 알면 어떻게 들어올지 정해야 하잖아. 그것도 우리한테 뭔가를 말해 주지.
+Eleni|B2|Han kommer alltid tillbaka med kaffe vid halv elva. Jag har sett honom göra det i fem år, och han har aldrig ändrat sin vana för en journalist.|그 사람은 늘 10시 반에 커피를 들고 돌아와요. 5년 동안 봤는데, 기자 때문에 습관을 바꾼 적이 한 번도 없어요.
+Amira|A2|Hur många bolag har han?|회사가 몇 개예요?
+Eleni|A2|Han sitter i styrelsen för trehundra bolag.|회사 300개의 이사예요.
+Viktor|A1|Trehundra?|300개요?
+Eleni|B1|Ungefär. Hans arbete är att skriva under åt ägare som inte vill synas själva.|대략요. 자기는 드러나기 싫은 주인들 대신 서명해 주는 게 그 사람 일이에요.
+Amira|B2|En målvakt i kostym, alltså – skillnaden är att han får betalt, vilket Gunnar aldrig fick.|양복 입은 바지사장이네. 차이는 이 사람은 돈을 받는다는 거지. 군나르는 한 푼도 못 받았는데.
+Eleni|A1|Där. Grå kostym.|저기요. 회색 양복.
+Viktor|A2|Mr Michael? Viktor Holm, Stockholmsposten.|미하일 씨? 스톡홀름스포스텐의 빅토르 홀름입니다.
+Andreas|A2|Christina called me. Swedish journalists. The lift is slow.|크리스티나가 전화했어요. 스웨덴 기자들. 엘리베이터가 느려요.
+Amira|B1|Hissen står kvar på femte våningen, så vi har ungefär tre minuter.|엘리베이터가 아직 5층에 서 있어. 대략 3분 있어.
+Viktor|B2|Vi har redan skickat frågorna till bolagets adress, men eftersom ingen tycks tömma de där facken vill jag lämna dem till er personligen. Svar senast måndag klockan tolv.|질문은 이미 회사 주소로 보냈습니다. 하지만 저 우편함들은 아무도 비우지 않는 것 같아서 직접 드리고 싶습니다. 답변은 늦어도 월요일 12시까지 부탁드립니다.
+Andreas|A2|Give them to Christina. I read everything. Eventually.|크리스티나한테 주세요. 다 읽어요. 언젠가는.
+Viktor|A1|Vem äger Eventide Holdings?|Eventide Holdings 주인은 누구죠?
+Andreas|A1|No comment. … Hej då.|노 코멘트. … 안녕히.
+Eleni|B1|Han förstod frågan. Han svarade till och med på svenska.|질문을 알아들었어요. 심지어 스웨덴어로 대답했고요.
+Amira|B1|”Hej då” lär man sig när man har många svenska kunder.|"헤이도"는 스웨덴 고객이 많으면 배우게 되지.
+Viktor|B2|Trehundra bolag, och han behövde inte tänka en sekund på vilket vi menade. För en man utan kommentarer sa han ganska mycket.|회사가 300개인데, 우리가 어느 회사를 말하는지 1초도 생각할 필요가 없었어. 노 코멘트인 사람치고는 꽤 많이 말했지.
+# 장면 3 — 3월 5일 목요일 오후 1시, 리마솔 구시가지 안뜰 카페 (엘레니가 고른 자리, 와이파이도 카메라도 없는 오렌지 나무 그늘, 아미라의 배에 맨 가방 속 노트북, 등기 출력물)
+Eleni|B1|Här finns inget wifi och inga kameror, och ägaren har aldrig frågat vad jag heter.|여긴 와이파이도 카메라도 없어요. 주인은 제 이름을 물어본 적이 한 번도 없고요.
+Viktor|A2|Bra ställe. Vem valde apelsinträdet?|좋은 데네요. 오렌지 나무는 누가 골랐어요?
+Eleni|B1|Trädet stod här innan huset byggdes. Sätt er i skuggan, solen är starkare än ni tror.|이 집이 지어지기 전부터 나무가 여기 있었어요. 그늘에 앉으세요. 햇볕이 생각보다 세요.
+Amira|B2|Datorn bär jag på magen hela tiden. Ett kassaskåp på hotellet skyddar bara mot den som inte har huvudnyckeln, och den har personalen.|노트북은 계속 배에 매고 다녀요. 호텔 금고는 마스터키 없는 사람한테서만 지켜 주는데, 그 키는 직원들이 갖고 있잖아요.
+Viktor|A1|Visa registret.|등기 보여 줘.
+Amira|B1|Eventide Holdings Ltd, registrerat i april 2021. Utdragen köpte jag på registrets webbplats innan vi åkte, några euro styck.|Eventide Holdings Ltd, 2021년 4월 등록. 등기 사본은 출발 전에 등기소 웹사이트에서 건당 몇 유로씩 주고 샀어.
+Eleni|A2|Det är offentligt här också. Det mesta, i alla fall.|여기도 공개예요. 대부분은요.
+Amira|B1|Direktör sedan första dagen: Andreas Michael. Sekreterare: ett bolag med samma adress som hans byrå. Registrerad adress: fack 3-112, som vi fotade i morse.|첫날부터 이사는 안드레아스 미하일. 비서는 그 사람 사무소와 주소가 같은 회사. 등록 주소는 오늘 아침 찍은 3-112번 칸.
+Viktor|A1|Och ägaren?|주인은?
+Amira|B1|Hundra procent av aktierna ägs av Larkspur Ventures Ltd, ett bolag på Brittiska Jungfruöarna.|주식 100%를 영국령 버진아일랜드의 Larkspur Ventures Ltd가 갖고 있어.
+Eleni|B2|Och där tar det slut. Registret på Jungfruöarna är inte öppet, så den som vill gömma sig placerar ett sådant bolag mellan sig själv och Cypern.|그리고 거기서 끝나요. 버진아일랜드 등기부는 공개가 안 되니까, 숨고 싶은 사람은 그런 회사를 자기와 키프로스 사이에 끼워 넣는 거죠.
+Viktor|B1|Men det finns väl ett register över vem som verkligen äger bolagen? Det kräver ju EU.|그래도 회사를 실제로 누가 소유하는지 적은 등록부가 있지 않아? EU가 요구하잖아.
+Amira|B2|Registret över verkliga huvudmän är stängt för allmänheten sedan EU-domstolens dom. Jävla timing.|실소유자 등록부는 EU 사법재판소 판결 이후 일반에 닫혀 있어. 타이밍 끝내주네, 젠장.
+Eleni|B2|Domstolen slog fast i november 2022 att allmänhetens tillgång till registret kränkte ägarnas rätt till privatliv. Bara några dagar senare stängde Cypern sitt register, och sedan dess får vi journalister stå i kö.|재판소가 2022년 11월에 일반인의 등록부 열람이 소유자의 사생활권을 침해한다고 판단했어요. 며칠 만에 키프로스가 등록부를 닫았고, 그 뒤로 우리 기자들은 줄 서서 기다리는 신세죠.
+Viktor|A2|I kö? Går det att ansöka?|줄을 선다고요? 신청은 할 수 있어요?
+Eleni|B2|Man kan ansöka om man kan visa ett berättigat intresse, och journalister borde räknas dit. Men det tar månader, och svaret kommer i ett brev som inte förklarar någonting.|정당한 이해관계를 보여 주면 신청할 수 있고, 기자도 거기 들어가야 맞죠. 하지만 몇 달 걸리고, 답은 아무것도 설명하지 않는 편지 한 통으로 와요.
+Amira|A2|Månader. Vi har dagar.|몇 달. 우린 며칠밖에 없는데.
+Viktor|B1|Namnet på dörren är bara en fasad – de verkliga ägarna syns inte i registret.|문에 붙은 이름은 그냥 겉모습이야 — 진짜 주인은 등기부에 안 보여.
+Eleni|B1|Men pengarna syns ibland. Har ni läst bokslutet?|그래도 돈은 가끔 보여요. 결산서 읽어 봤어요?
+Amira|B2|Bokslutet för 2024: intäkter från konsulttjänster på drygt två miljoner euro, noll anställda, och nästan allt har lånats ut vidare till ett närstående bolag vars namn inte anges.|2024년 결산서요. 컨설팅 수입 200만 유로 남짓, 직원 0명, 그리고 거의 전부를 이름도 안 나오는 관계사에 다시 빌려줬어요.
+Viktor|A2|Konsulttjänster. Utan konsulter.|컨설팅 서비스. 컨설턴트도 없이.
+Eleni|B1|Det är det vanligaste ordet i den här stan, nästan lika vanligt som ”kalimera”.|이 도시에서 제일 흔한 단어예요. "칼리메라"만큼이나 흔하죠.
+Viktor|B2|Eleni, när vi publicerar kommer ditt namn inte att stå någonstans, och vi skriver inte ens att någon hjälpte oss på plats – även om det skulle göra texten starkare.|엘레니, 보도할 때 당신 이름은 어디에도 안 들어가요. 현지에서 누가 도와줬다는 말조차 안 쓸 거예요 — 그게 기사를 더 힘 있게 해 준다 해도요.
+Eleni|B2|Tack. Byråerna här har stämt mig två gånger, och båda gångerna handlade det mindre om att vinna än om att få mig att sitta i en rättssal i stället för att skriva.|고마워요. 여기 사무소들이 저를 두 번 고소했어요. 두 번 다 이기는 것보다는, 제가 기사를 쓰는 대신 법정에 앉아 있게 만드는 게 목적이었죠.
+Amira|A2|Vann du?|이겼어요?
+Eleni|A2|Ja, båda gångerna. Det tog tre år.|네, 두 번 다요. 3년 걸렸어요.
+Viktor|B2|Hemma har jag grundlagen i ryggen. Ingen myndighet får efterforska vem som har pratat med mig, och jag har tystnadsplikt om mina källor.|본국에선 헌법이 뒤를 받쳐 줘요. 어떤 기관도 누가 나랑 얘기했는지 캐낼 수 없고, 나는 취재원에 대해 침묵할 의무가 있어요.
+Eleni|B1|Och här är du bara en utlänning med ett anteckningsblock, som polisen kan ta ifrån dig om den vill.|그리고 여기선 그냥 수첩 든 외국인이죠. 경찰이 마음먹으면 뺏어 갈 수도 있는 수첩이요.
+Viktor|B2|Utanför Sverige skyddar grundlagen inte våra källor, så vi får skydda dem med metod i stället.|스웨덴 밖에서는 헌법이 우리 취재원을 지켜 주지 않아요. 그러니 대신 방법으로 지켜야죠.
+Amira|B2|Därför är telefonerna avstängda och därför väljer du appen och platsen, vilket också är skälet till att ditt namn inte ens står i hans block.|그래서 폰은 꺼 뒀고, 그래서 앱이랑 장소는 당신이 고르는 거예요. 빅토르 수첩에 당신 이름조차 없는 것도 그 때문이고요.
+Eleni|A2|Inte ens i blocket? Får jag se?|수첩에도요? 봐도 돼요?
+Viktor|A2|”Apelsinträdet, torsdag.” Det är allt.|"오렌지 나무, 목요일." 그게 다예요.
+Eleni|B1|Du är mer paranoid än vi, och vi bor ändå på en ö där alla känner allas kusiner.|우리보다 더 편집증이네요. 우린 모두가 서로의 사촌을 아는 섬에 사는데도요.
+Amira|A1|Han har sina skäl.|그럴 만한 이유가 있어요.
+Eleni|B2|Då förstår jag. Men ni har inte slutat jobba sedan ni landade, så ta igen er en stund innan vi ses i kväll – solen går ner vid sex.|그럼 이해해요. 근데 두 분 내리고 나서 한 번도 일을 멈춘 적이 없잖아요. 저녁에 만나기 전에 좀 숨 돌려요 — 해는 6시에 져요.
+Amira|A2|Ta igen mig? Jag vet inte ens hur man gör.|숨을 돌리라고요? 어떻게 하는 건지도 모르는데요.
+Eleni|A1|Så här. Fånga!|이렇게요. 받아요!
+Amira|A2|Den är varm! Göttigt, mitt i mars.|따뜻해! 3월 한복판에, 끝내준다.
+Viktor|B1|Du skrattar. Det har du inte gjort sedan jul.|너 웃는다. 크리스마스 이후로 처음이야.
+Amira|B1|Säg inget till Sofia. Hon tror att jag bara kan skratta åt Excel-filer.|소피아한테는 말하지 마. 내가 엑셀 파일 보고만 웃을 수 있는 줄 알거든.
+# 장면 4 — 3월 5일 목요일 저녁 8시, 해변 호텔 테라스 (어두워지는 바다, 현지 유심 폰의 영상통화, 밤 9시 반 엘레니가 가져온 종이 뭉치, 아미라의 노트북 화면 위 IMO 번호 네 개)
+Alva|A1|Pappa? Vems nummer är det här?|아빠? 이거 누구 번호야?
+Viktor|A2|Mitt. Bara i tre dagar, så spara det inte.|내 거. 사흘 동안만이니까 저장하지 마.
+Alva|A1|Din näsa är röd!|아빠 코 빨개!
+Viktor|B1|Jag satt i solen en timme i dag. Det har jag inte gjort sedan i höstas.|오늘 한 시간 햇볕에 앉아 있었어. 작년 가을 이후로 처음이야.
+Alva|A2|Är det sol där? Orättvist.|거기 해 떠 있어? 불공평해.
+Viktor|A1|Titta. Havet.|봐. 바다.
+Alva|B2|Här är det elva minus och mamma har lagt tre filtar på soffan. Och egentligen skulle jag ha varit hos dig den här veckan.|여긴 영하 11도고 엄마는 소파에 담요를 세 장이나 깔았어. 그리고 원래 이번 주는 아빠네 있어야 했잖아.
+Viktor|B2|Jag vet, och förlåt. Hade det gått att vänta en vecka hade jag gjort det.|알아, 미안해. 한 주 기다릴 수 있었으면 그렇게 했을 거야.
+Alva|B1|Men du sa vart du skulle åka den här gången. I november sa du bara ”söderut”.|그래도 이번엔 어디 가는지 말해 줬잖아. 11월엔 그냥 "남쪽"이라고만 했으면서.
+Viktor|B1|Jag lovade att sluta ljuga för dig. Men säg det inte till någon, inte ens till Elvin.|너한테 거짓말 그만한다고 약속했잖아. 그래도 아무한테도 말하지 마. 엘빈한테도.
+Alva|B1|Elvin har förresten gett datorn till sin pappa. Han vill träffa den där fritidsledaren som du pratade om.|그건 그렇고 엘빈이 컴퓨터를 자기 아빠한테 줬대. 아빠가 말했던 그 청소년 지도사 만나 보고 싶대.
+Viktor|B1|Bra. Säg att jag ringer fritidsledaren på måndag, så får Elvin bestämma själv om han vill träffa honom.|잘됐다. 월요일에 내가 그 지도사한테 전화한다고 전해 줘. 만날지는 엘빈이 직접 정하면 돼.
+Alva|B1|Är det farligt där? Du har den där rynkan som du får när du inte sover.|거기 위험해? 아빠 잠 못 잘 때 생기는 그 주름 생겼어.
+Viktor|B2|Inte farligt. Mest tråkigt, ärligt talat: brevlådor, register och en man som har lärt sig säga ”hej då” på svenska för att slippa svara på frågor.|위험하진 않아. 솔직히 대부분 지루해. 우편함, 등기부, 그리고 질문에 답 안 하려고 스웨덴어로 "헤이도"를 배운 남자 하나.
+Alva|A1|Typiskt dig.|아빠답네.
+Amira|B1|Hej Alva! Han ljuger inte, det var det tråkigaste jag har gjort på hela året.|안녕 알바! 아빠 거짓말 아니야. 올해 한 일 중에 제일 지루했어.
+Alva|A2|Amira! Ta en bild på honom i shorts. Annars tror jag inte på det.|아미라 언니! 아빠 반바지 입은 사진 찍어 주세요. 안 그러면 안 믿을래요.
+Viktor|A1|Aldrig. Puss, Alva.|절대 안 돼. 사랑해, 알바.
+Alva|A2|Puss. Och ta med något varmt hem till mig.|나도. 그리고 따뜻한 거 하나 사 와.
+Eleni|B2|Förlåt att jag är sen. Det här ville jag inte skicka i appen, för även ett meddelande som försvinner kan fotograferas av den som står bakom en.|늦어서 미안해요. 이건 앱으로 보내고 싶지 않았어요. 사라지는 메시지도 뒤에 서 있는 사람이 사진으로 찍을 수 있으니까요.
+Viktor|A1|Vad är det?|그게 뭐예요?
+Eleni|B2|En lista över alla bolag där Andreas Michael är direktör. Jag har laddat ner registret varje månad i fem år, så jag ser vad som har ändrats, även när byråerna helst inte vill det.|안드레아스 미하일이 이사로 있는 회사 전체 목록이에요. 5년 동안 매달 등기부를 내려받아 왔어요. 그래서 뭐가 바뀌었는지 보여요. 사무소들이 웬만하면 안 보이길 바랄 때도요.
+Amira|A1|Fem år? Varje månad?|5년이요? 매달?
+Eleni|B2|Någon måste göra det. Myndigheterna här jämför aldrig ett register med ett annat – det vore ju dåligt för affärerna.|누군가는 해야죠. 여기 당국은 등록부 하나를 다른 등록부와 대조하는 법이 없어요 — 그랬다간 장사에 안 좋을 테니까요.
+Amira|B1|Du låter som jag, och det är den finaste komplimang jag kan ge.|저랑 똑같은 말을 하네요. 제가 할 수 있는 최고의 칭찬이에요.
+Eleni|A2|Titta på sidan tre. Samma namn, ett annat bolag – ett rederi.|3페이지 봐요. 같은 이름, 다른 회사 — 해운사예요.
+Viktor|B1|Ett rederi? Jag trodde att rederier hade fartyg och hamnar, inte en brevlåda på tredje våningen.|해운사요? 해운사라면 배랑 항구가 있는 줄 알았는데요. 3층 우편함 하나가 아니라.
+Eleni|B1|Hälften av kontoren i den här stan sköter fartyg som aldrig har varit här. Bolaget heter Pelagos Baltic Shipmanagement Ltd, och Michael blev direktör i juni 2022.|이 도시 사무실 절반이 여기 와 본 적도 없는 배들을 관리해요. 회사 이름은 Pelagos Baltic Shipmanagement Ltd고, 미하일은 2022년 6월에 이사가 됐어요.
+Viktor|A1|Baltic?|발틱이요?
+Amira|B2|Ett rederi som sköter fartyg måste synas i de öppna sjöfartsdatabaserna, och där står varje fartyg med sitt IMO-nummer, under vilken flagga det än seglar.|배를 관리하는 회사라면 공개 해사 데이터베이스에 나와야 해. 거기엔 배마다 IMO 번호가 붙어 있어. 어느 나라 국기를 달고 다니든.
+Viktor|A1|Vad är ett IMO-nummer?|IMO 번호가 뭔데?
+Amira|B2|Ett fartygs personnummer. Ett fartyg kan byta namn, ägare och flagga hur många gånger som helst, men numret följer skrovet tills det skrotas.|배의 주민번호야. 배는 이름도, 주인도, 국기도 몇 번이든 바꿀 수 있지만, 번호는 선체가 해체될 때까지 따라다녀.
+Eleni|A1|Hur många fartyg?|배가 몇 척이에요?
+Amira|B2|Fyra, alla tankfartyg. Jag kontrollerar varje nummer mot en andra källa innan jag tror på något, eftersom databasen bara är så pålitlig som uppgifterna som rederierna själva lämnar.|네 척, 전부 유조선이에요. 뭘 믿기 전에 번호마다 두 번째 출처랑 대조할 거예요. 데이터베이스는 해운사들이 스스로 낸 정보만큼만 믿을 수 있으니까요.
+Viktor|A2|Läs dem högt. Ett i taget.|소리 내서 읽어. 하나씩.
+Amira|B1|Det första är en produkttanker från 2004. Det andra och det tredje ligger i Medelhavet just nu, enligt sina signaler.|첫 번째는 2004년식 석유제품 운반선. 두 번째랑 세 번째는 신호상으로 지금 지중해에 있어.
+Eleni|A2|Och det fjärde? Du har slutat skriva.|네 번째는요? 타자 치다 멈췄네요.
+Amira|B2|Jag har kontrollerat numret två gånger och fått samma namn båda gångerna. Och namnet börjar med samma ord som bolaget som fick pengarna från Steget Vidare.|번호를 두 번 확인했는데 두 번 다 같은 이름이 나왔어요. 그리고 그 이름이, Steget Vidare에서 돈을 받은 회사랑 같은 단어로 시작해요.
+Viktor|A1|Vilket namn, Amira?|무슨 이름인데, 아미라?
+Amira|B1|Samma direktör sitter i ett rederi. Rederiet sköter en tanker som heter Eventide Star.|같은 이사가 해운사에도 있어. 그 해운사가 관리하는 유조선 이름이 Eventide Star야.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Det är varmt här.** | 여긴 따뜻하네. | 날씨·온도는 비인칭 주어 *det*으로 말한다(*Det är kallt / Det regnar*). *varm*은 '따뜻한'과 '더운'을 함께 덮는다 — 더 세게는 *Det är hett*. *här*(여기)는 문장 끝에 와도 된다 |
+| `A1` | **Vem äger Eventide Holdings?** | Eventide Holdings 주인은 누구죠? | 의문사 *vem*이 주어일 때는 직접 의문문에서 *som*이 필요 없다(*Vem äger …?*). 간접 의문문이 되면 *som*이 붙는다: *Jag vill veta vem som äger bolaget.* 이 화의 모든 질문이 이 한 문장으로 모인다 |
+| `A2` | **Han sitter i styrelsen för trehundra bolag.** | 그는 회사 300개의 이사(회 구성원)예요. | *sitta i styrelsen för …* = ~의 이사회에 앉다 → 이사직을 맡다. 직책·자리를 말할 때 *sitta*를 쓰는 관용(*sitta i riksdagen* 국회의원이다). *styrelse*의 한정형은 *styrelsen* |
+| `B1` | **Namnet på dörren är bara en fasad – de verkliga ägarna syns inte i registret.** | 문에 붙은 이름은 겉모습일 뿐이다 — 진짜 주인은 등기부에 보이지 않는다. | *synas* = 보이다, 드러나다(-s 동사, 능동 의미). *verklig*(실제의) + 복수 한정 *de verkliga ägarna*: 형용사 앞에 *de*, 형용사는 -a 어미. *fasad*는 건물 정면이자 '허울' |
+| `B2` | **Utanför Sverige skyddar grundlagen inte våra källor, så vi får skydda dem med metod i stället.** | 스웨덴 밖에서는 헌법이 우리 취재원을 지켜 주지 않으니, 대신 방법으로 지켜야 한다. | 부사구(*Utanför Sverige*)가 맨 앞에 오면 동사가 두 번째(*skyddar*), 주어가 그 뒤(*grundlagen*), 부정어 *inte*는 주어 뒤 — V2 어순의 교과서. *få* + 동사 = (어쩔 수 없이) ~해야 한다 |
+| `B2` | **Registret över verkliga huvudmän är stängt för allmänheten sedan EU-domstolens dom.** | 실소유자 등록부는 EU 사법재판소 판결 이후 일반에 닫혀 있다. | *sedan* + 명사 = ~ 이후로(지금까지 계속). *stängd för allmänheten* = 일반에 비공개. 상태 수동(*är stängt*)은 '닫힌 상태'를, *stängdes*는 '닫혔다'는 사건을 말한다 |
+| 구어 | **ta igen sig** | 숨 돌리다, 기운을 되찾다 | 재귀대명사가 주어를 따라 바뀐다: *Ta igen dig!* / *Ta igen er en stund* (너희 좀 쉬어) / *Jag måste ta igen mig.* *ta igen* 단독으로는 '만회하다'(*ta igen förlorad tid*) |
+| 용어 | **verklig huvudman** | 실소유자 | 회사를 실제로 소유하거나 지배하는 자연인. EU 자금세탁방지 지침에 따라 회원국마다 등록부가 있으나, 2022년 11월 EU 사법재판소가 일반 공개를 사생활 침해로 판단한 뒤 여러 나라가 열람을 막았다. 스웨덴에서는 *Bolagsverket*가 관리한다 |
+
+## 저널리즘·법 메모
+스웨덴의 취재원 보호(*källskydd*)와 제보자 보호(*meddelarskydd*)는 출판자유법(TF)과 표현자유법(YGL)이라는 *스웨덴* 헌법에서 나온다. 국내에서는 어떤 기관도 기자의 취재원을 캐서는 안 되고(*efterforskningsförbud*) 기자에게는 침묵 의무가 있지만, 국경을 넘으면 그 헌법이 현지 경찰과 법원을 묶지 못한다. 그래서 해외 취재에서의 보호는 법이 아니라 *방법*이 된다 — 스웨덴 휴대폰을 끄고, 현지 유심을 쓰고(익명이 아니라 스웨덴 번호와 분리된 것뿐이다), 노트북은 마스터키가 있는 호텔 금고 대신 몸에 지니고, 연락 앱·시간·장소는 현지 파트너가 정하고, 그 파트너의 이름은 기사에도 수첩에도 남기지 않는다. 검증도 같은 원칙을 따른다. 명의 이사의 "No comment"는 기사 속 대답이 아니라 반론 기회를 준 기록이며, 그래서 빅토르는 질문을 등록 주소로 보내고 직접 건네며 답변 기한(월요일 12시)을 밝힌다. 회사 이름의 앞 단어가 같다는 것(Eventide Holdings와 Eventide Star)은 증거가 아니라 질문이다 — 아미라는 IMO 번호를 두 번째 출처와 대조한 뒤에야 이름을 소리 내 읽는다.
+
+## 문화·현안 메모
+- **키프로스의 명의 이사(*nominee director*)와 법인 서비스 업체** — 리마솔과 니코시아에는 수백, 수천 개 회사에 등록 주소·이사·비서를 빌려주는 법률·회계 사무소가 많다. 그 자체는 합법이지만, 실소유자를 버진아일랜드 같은 비공개 관할의 지주회사 뒤에 숨기면 돈의 주인을 추적하기 어려워진다. 키프로스는 2020년 투자 시민권("황금 여권") 제도를 폐지하면서 이 문제로 국제적 비판을 받았다.
+- **해운 도시 리마솔** — 리마솔은 세계적인 선박관리(*ship management*) 거점이다. 배는 다른 바다에 있어도 관리 회사는 이곳 사무실에 있을 수 있고, 국제해사기구가 부여하는 7자리 **IMO 번호**는 배가 이름·소유주·선적국을 바꿔도 해체될 때까지 그대로 남는다. 공개 해사 데이터베이스에서 번호와 관리 회사를 조회할 수 있다.
+- **그리스어 몇 마디** — *kalimera*(칼리메라, 좋은 아침), *siga siga*(시가 시가, 천천히 천천히) — 키프로스 사람들이 서두르는 손님에게 웃으며 하는 말. 3월 초 리마솔은 낮 18도 안팎, 스톡홀름보다 한 시간 빠르다.
+- ⚠️ 엘레니 게오르기우, 안드레아스 미하일과 그의 사무소, Eventide Holdings Ltd, Larkspur Ventures Ltd, Pelagos Baltic Shipmanagement Ltd, 유조선 *Eventide Star*는 모두 허구다. EU 사법재판소 판결과 실소유자 등록부 열람 제한은 실제 배경이며, 키프로스 등기 절차의 묘사는 극적 구성이다.
+
+## 다음 화 예고
+> 3월 10일 화요일, Kanal Sverige 편집실. 두 매체가 Omsorgia에 질문 스물세 개를 보내는 날, 조안나 베리가 시계를 본다 — "Vi har sju minuter, inte sjutton."
