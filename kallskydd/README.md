@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (91/105화 완성)
+## 대본 목차 (92/105화 완성)
 
 ### 1부
 
@@ -150,3 +150,4 @@
 | 화 | 제목 | 뜻 |
 |---|---|---|
 | 1 | [Klubbens bok](episodes/k7_e01.md) | 클럽의 장부 |
+| 2 | [Ägaren](episodes/k7_e02.md) | 사주 |
