@@ -1,0 +1,188 @@
+@title 3부 12화 — Kanariefågeln
+@subtitle (카나리아)
+@meta 날짜|2026년 4월 27일 월요일 오전 8시 30분 ~ 4월 29일 수요일 저녁 6시 38분
+@meta 장소|소피아의 사무실 (월 오전 8시 30분) → Källaren (월 오후 1시) → 3층 커피 머신 앞, 엘리베이터, Källaren (월 오후 3시 47분 ~ 5시) → 텅 빈 Källaren (화 밤 11시 10분) → Källaren, 노아의 모니터 앞 (수 저녁 6시 38분)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Noah** (노아 베리룬드, 24, 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Sasha** (사샤 코발렌코, 35, 우크라이나 전 해군 장교, Källaren 외부 자문) · **Katja** (카탸 린델, 29, 위성사진을 파는 프리랜서) · **Konsulten** (외부 IT 컨설턴트, 이름 없음) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장 — 잠깐)
+@intro **지난 이야기** — 노아가 찾아낸 접근 기록은 4월 8일 저녁 19시 52분, 게스트 계정 "Gäst-07"이 아미라의 취재원 폴더를 통째로 복사했다고 말했다. 그러나 그 계정은 카탸와 외부 IT 컨설턴트가 함께 쓰던 것이었고, 그날 저녁 두 사람 모두 건물 안에 있었다. 그리고 밤 10시, 예테보리의 아미라 어머니에게 모르는 남자가 전화를 걸어 이라크에 사는 사촌 카르완의 이름을 성까지 댔다.
+@intro 닷새 뒤, 4월 27일 월요일 아침. 카르완은 다음 날 아침 에르빌에서 "괜찮다"는 짧은 답을 보냈고, 어머니에게 두 번째 전화는 오지 않았다. 소피아는 목요일에 라르스와 두 시간을 앉아 있었고, 주말 내내 한 가지 질문만 생각했다. 오늘 아침, 그녀의 사무실 블라인드가 내려간다.
+# 장면 1 — 월요일 오전 8시 30분, 소피아의 사무실 (내려지는 블라인드, 소피아 책상 위의 손으로 쓴 조건 세 줄, 아직 비어 있는 갈색 봉투)
+Sofia|A1|Dra ner persiennen, Noah.|블라인드 내려, 노아.
+Noah|A1|Klart. Hela vägen ner.|다 됐어요. 끝까지 내렸어요.
+Sofia|B2|Bra. I torsdags satt jag här med Lars i två timmar, och i helgen har jag knappt tänkt på något annat än om det vi tänker göra är försvarbart.|좋아. 목요일에 라르스랑 여기서 두 시간을 앉아 있었고, 주말 내내 우리가 하려는 일이 정당화될 수 있는지 말고는 거의 생각을 못 했어.
+Viktor|A2|Och vad kom ni fram till?|그래서 결론은?
+Sofia|B2|Att vi vet mer än vi kan bevisa. Loggen pekar på Gäst-07, men det kontot hade två användare samma kväll, och ett antagande räcker inte för att peka ut någon.|우리가 증명할 수 있는 것보다 더 많이 안다는 거. 로그는 Gäst-07을 가리키지만, 그 계정은 그날 저녁 쓴 사람이 둘이었어. 짐작만으로 누군가를 지목할 순 없어.
+Amira|B1|Katja kom in genom entrén 19.41, alltså elva minuter innan mappen kopierades. Det såg vi på passerkorten.|카탸는 19시 41분에 정문으로 들어왔어요. 폴더가 복사되기 11분 전이요. 출입 카드 기록에서 봤잖아요.
+Henrik|B1|Konsulten också. Han kom redan före sju och stannade till halv tio, eftersom han skulle kontrollera servrarna.|컨설턴트도 그래. 그 사람은 일곱 시 전에 와서 아홉 시 반까지 있었어. 서버 점검을 한다고.
+Sofia|B1|Därför vill Viktor och jag pröva något som kallas en kanariefälla. Viktor, förklara du.|그래서 빅토르랑 내가 카나리아 함정이라는 걸 해 보려고 해. 빅토르, 네가 설명해.
+Viktor|B2|Varje person som vi misstänker får en uppgift som låter som en hemlighet men är påhittad. Versionerna är nästan likadana, så om en av dem dyker upp utanför huset vet vi vem den kom ifrån.|의심하는 사람마다 비밀처럼 들리지만 사실은 지어낸 정보를 하나씩 줘. 버전은 거의 똑같아. 그래서 그중 하나가 회사 밖에서 나타나면 누구한테서 나왔는지 알 수 있지.
+Noah|A2|Som i gamla spionfilmer?|옛날 스파이 영화처럼요?
+Viktor|B1|Ungefär. Namnet kommer från gruvorna, där man tog med sig en kanariefågel ner för att den skulle varna för gas innan människorna märkte något.|대충. 이름은 탄광에서 왔어. 사람들이 알아채기 전에 가스를 경고하라고 카나리아를 데리고 내려갔거든.
+Henrik|B2|Och fågeln dog först. Det glömmer folk gärna, men i en sådan fälla är det alltid någon som får betala, även om den är oskyldig.|그리고 새가 먼저 죽었지. 다들 그건 쉽게 잊더라. 이런 함정에선 늘 누군가 대가를 치러. 그 사람이 결백하더라도.
+Sofia|B2|Det är just därför jag har tvekat. Att medvetet ljuga för sina egna kolleger strider mot allt vi står för, även om syftet är att skydda våra källor.|바로 그래서 내가 망설였어. 의도적으로 자기 동료들한테 거짓말하는 건, 목적이 우리 취재원을 지키는 거라 해도, 우리가 지켜 온 모든 것에 어긋나.
+Amira|B1|Katja är ingen kollega. Hon kopierade min lista, och i onsdags ringde någon min mamma och sa Karwans namn.|카탸는 동료가 아니에요. 제 명단을 복사했고, 수요일엔 누가 우리 엄마한테 전화해서 카르완 이름을 댔어요.
+Sofia|B2|Det tror vi, Amira, men vi vet det inte än. Och konsulten kan vara helt oskyldig, en man som bara lånade ett konto för att vår IT inte hann skapa hans eget.|우린 그렇게 생각하지, 아미라. 하지만 아직 아는 건 아니야. 그리고 컨설턴트는 완전히 결백할 수도 있어. 우리 IT가 계정을 제때 못 만들어 줘서 남의 계정을 빌려 썼을 뿐인 사람.
+Amira|A1|Okej. Okej.|알겠어요. 알겠어요.
+Henrik|B2|Och vem mer? Om vi bara testade två personer, skulle folk efteråt kunna påstå att vi valde dem för att vi redan hade bestämt oss.|그리고 또 누구? 두 사람만 시험한다면, 나중에 사람들이 그렇게 주장할 수도 있어. 이미 마음을 정해 놓고 그 둘을 골랐다고.
+Viktor|A2|Sasha. Han kände till dörr två.|사샤. 그 친구는 2번 문을 알았어.
+Amira|A1|Nej. Inte igen.|안 돼요. 또요?
+Viktor|B2|Inte för att jag misstänker honom, utan för att han står på Sofias lista över dem som kände till rutinen. Och i Tallinn lovade jag att fråga honom först nästa gång, så han får veta det innan vi börjar.|의심해서가 아니야. 소피아가 만든 '절차를 알던 사람' 명단에 그 친구가 있으니까. 그리고 탈린에서 다음엔 먼저 묻겠다고 약속했어. 그러니까 시작하기 전에 알려 줄 거야.
+Noah|B1|Men om han vet att han testas, är det väl ingen riktig fälla?|근데 시험받는 걸 알면, 그건 진짜 함정이 아니잖아요?
+Viktor|B1|Nej, för hans del testar vi telefonen och mejlen, inte honom. Om hans version läcker, har någon annan varit inne i hans saker.|아니지. 그 친구 쪽은 사람이 아니라 휴대폰이랑 메일을 시험하는 거야. 그 친구 버전이 새면, 다른 누가 그 친구 물건 안에 들어와 있었다는 거고.
+Henrik|A2|Han kommer inte att gilla det.|그 친구 좋아하지 않을 거야.
+Sofia|B2|Nej. Det skulle inte jag heller, om någon som jag litade på gjorde så mot mig.|그렇겠지. 믿던 사람이 나한테 그런 짓을 하면, 나라도 안 좋아할 거야.
+Amira|B1|Och om ingenting händer? Då har vi ljugit för tre människor i onödan.|그리고 아무 일도 안 일어나면요? 그럼 괜히 세 사람한테 거짓말한 거잖아요.
+Sofia|B2|Därför har jag tre villkor, och Lars har läst dem. Det första: den påhittade uppgiften får aldrig, inte ens av misstag, stå i vår tidning.|그래서 조건이 세 개 있어. 라르스도 읽었고. 첫째, 지어낸 정보는 절대로, 실수로라도 우리 신문에 실리면 안 돼.
+Noah|A2|Hur stoppar man det?|그걸 어떻게 막아요?
+Sofia|B2|Jag lägger in spärrord i redaktionssystemet, så att varje text med de orden stoppas och skickas till mig. Och om något ändå skulle slinka igenom, publicerar vi en rättelse samma minut.|편집 시스템에 금칙어를 걸어 둘 거야. 그 단어가 들어간 글은 전부 멈추고 나한테 오게. 그래도 뭔가 빠져나가면, 그 자리에서 바로 정정 보도를 내고.
+Henrik|A1|Och resten?|나머지는?
+Sofia|B2|Om vi gör det här dokumenterar vi varje steg. Och efteråt ber vi om ursäkt.|이걸 한다면 모든 단계를 기록해. 그리고 나중에 사과하고.
+Viktor|A2|Även till Katja?|카탸한테도?
+Sofia|B2|Till alla som vi har ljugit för, också till henne, när det är över. Varje steg skrivs in i ett förseglat PM med datum, klockslag och vem som sa vad, och kuvertet ligger i Lars kassaskåp bredvid dokumentet från Brevlådan.|우리가 거짓말한 모든 사람한테. 끝나면 그 여자한테도. 모든 단계는 날짜, 시각, 누가 무슨 말을 했는지까지 봉인 메모에 적고, 봉투는 라르스 금고 안 Brevlådan 문서 옆에 둘 거야.
+Henrik|A1|Och om fågeln sjunger?|그리고 그 새가 노래하면?
+Sofia|B1|Då ringer jag Säpo, på våra villkor, men inte en minut innan. Utanför det här rummet vet bara Lars och, från i dag, Sasha.|그럼 Säpo에 전화할 거야. 우리 조건으로. 하지만 1분도 그 전엔 안 돼. 이 방 밖에선 라르스랑, 오늘부터는 사샤만 알아.
+Viktor|A1|Ingen får veta.|아무도 알면 안 돼.
+# 장면 2 — 월요일 오후 1시, Källaren (긴 책상 위 연필로 그린 세 칸짜리 표, 고틀란드 해도, 식은 커피 네 잔)
+Amira|B1|Okej, så här. Samma mening till alla tre, och bara tre saker ändras: hamnen, antalet fartyg och dagen.|좋아, 이렇게 하자. 세 사람 모두에게 같은 문장. 바뀌는 건 딱 세 가지야. 항구, 배 숫자, 요일.
+Noah|A2|Varje person får en egen version.|사람마다 자기 버전을 받는 거네요.
+Viktor|B1|Om uppgiften dyker upp någonstans vet vi exakt vem som har läckt den. Så resten av meningen måste vara exakt likadan.|그 정보가 어디서든 나타나면, 누가 흘렸는지 정확히 알 수 있어. 그러니까 문장의 나머지는 완전히 똑같아야 해.
+Amira|B1|”Marinen följer ett systerfartyg till Eventide Star utanför ... sedan i ...” Det låter som något som en källa skulle viska, men det är tillräckligt vagt för att ingen ska skadas.|"해군이 ... 앞바다에서 Eventide Star의 자매선을 ...부터 쫓고 있다." 취재원이 속삭일 법한 말처럼 들리지만, 아무도 다치지 않을 만큼 모호해.
+Henrik|B2|Vagt eller inte, det är fortfarande en lögn om marinen. Vill vi verkligen sprida falska uppgifter om försvaret i en tid då alla redan undrar vad de ska tro på?|모호하든 아니든 여전히 해군에 대한 거짓말이야. 다들 뭘 믿어야 할지 모르는 이런 때에, 정말 국방에 대한 거짓 정보를 퍼뜨리고 싶어?
+Viktor|B2|Vi sprider den inte, vi lämnar den hos en enda person. Om den når en rysk kanal är det inte vi som har spridit den, utan den som läckte, och det är precis det vi vill kunna visa.|퍼뜨리는 게 아니야. 딱 한 사람한테 두는 거지. 그게 러시아 채널에 닿는다면 퍼뜨린 건 우리가 아니라 흘린 사람이고, 그게 바로 우리가 보여 줄 수 있어야 하는 거야.
+Henrik|A2|Det låter bättre än det känns.|말은 그럴듯한데 기분은 별로다.
+Amira|B1|Och den kan inte skada någon. Marinen följer fartyg varje dag, det vet alla som läser en tidning.|그리고 아무도 해칠 수 없어. 해군은 매일 배를 쫓아. 신문 읽는 사람이면 다 알아.
+Noah|A1|Vilka hamnar?|항구는요?
+Amira|A2|Tre hamnar på Gotland. Slite, Fårösund och Visby.|고틀란드 항구 세 개. 슬리테, 파뢰순드, 비스뷔.
+Henrik|B1|Fårösund? Där låg mitt batteri 1986, så om någon frågar kan jag åtminstone låtsas att jag vet vad jag pratar om.|파뢰순드? 1986년에 내 포대가 거기 있었어. 그러니 누가 물어보면 적어도 아는 척은 할 수 있겠네.
+Amira|A2|Katja får Slite och två fartyg. IT-konsulten får Fårösund. Sasha får Visby.|카탸는 슬리테에 두 척. IT 컨설턴트는 파뢰순드. 사샤는 비스뷔.
+Noah|B1|Varför tre skillnader? Räcker det inte med hamnen?|왜 세 군데나 달라요? 항구만으로 충분하지 않아요?
+Amira|B2|Den som läcker ändrar ofta en detalj för att skydda sig, och om de byter hamn har vi fortfarande antalet och dagen kvar – förutsatt att de inte ändrar allt på en gång.|흘리는 사람은 자기를 지키려고 세부 하나를 바꾸곤 해. 항구를 바꿔도 우리한텐 숫자랑 요일이 남지. 한꺼번에 다 바꾸지만 않는다면.
+Viktor|A2|Katja: två fartyg, sedan i söndags.|카탸: 두 척, 일요일부터.
+Amira|A2|Konsulten: ett fartyg, sedan i fredags. Sasha: tre, sedan i lördags.|컨설턴트: 한 척, 금요일부터. 사샤: 세 척, 토요일부터.
+Noah|A1|Jag skriver tabellen.|제가 표 적을게요.
+Henrik|A1|För hand.|손으로.
+Noah|A2|För hand, ja. Med blyerts, som Viktor.|손으로요, 네. 연필로요. 빅토르처럼.
+Fredrik|A2|Hej, allihop. Stör jag? Jag letar efter Henrik.|다들 안녕. 방해돼? 헨릭 찾으러 왔어.
+Henrik|A1|Här. Vad gäller det?|여기 있어. 무슨 일인데?
+Fredrik|B1|Valborg på torsdag. Webben vill ha en bildserie från Gotland, och du har bättre bilder från ön än någon annan i huset.|목요일이 발보리잖아. 웹에서 고틀란드 사진 시리즈를 원하는데, 섬 사진은 사내에서 헨릭이 제일 좋잖아.
+Henrik|B1|Jag har brasor från Ljugarn från förra året, som ingen har sett. Du får dem i kväll.|작년 류가른 모닥불 사진이 있어. 아무도 안 본 거야. 오늘 저녁에 줄게.
+Fredrik|B1|Toppen. Och Viktor, har Källaren något till helgen, eller ska jag planera sidorna utan er?|좋아. 그리고 빅토르, Källaren은 주말에 낼 거 있어? 아니면 너희 빼고 지면 짤까?
+Viktor|A2|Planera utan oss. Vi hör av oss på torsdag.|우리 빼고 짜. 목요일에 연락할게.
+Fredrik|A1|Okej. Torsdag, då.|알았어. 그럼 목요일에.
+Viktor|A2|Noah, Sasha väntar i receptionen. Kan du hämta honom?|노아, 사샤가 리셉션에서 기다려. 데려올래?
+Sasha|A2|Hej. Noah sprang hela vägen upp och ner. Vad är det som är så bråttom?|안녕하세요. 노아가 위아래로 뛰어다니더라고요. 뭐가 그렇게 급해요?
+Viktor|B2|Inget är bråttom. Men i Tallinn lovade jag dig att fråga dig först nästa gång vi gör något som rör dig, och nu gör vi det.|급한 건 없어. 하지만 탈린에서 약속했잖아. 다음에 너와 관련된 일을 하면 먼저 묻겠다고. 지금이 그때야.
+Amira|B1|Vi lägger ut tre beten, Sasha. Katja och IT-konsulten får var sin falsk uppgift, och du får en egen.|미끼 세 개를 놓는 거예요, 사샤. 카탸랑 IT 컨설턴트가 가짜 정보를 하나씩 받고, 당신도 하나 받아요.
+Sasha|A2|Jag också? Varför?|저도요? 왜요?
+Viktor|B1|För att du kände till dörr två, och för att vi testar din telefon, inte dig. Om din version dyker upp, har någon läst ditt Signal.|2번 문을 알았으니까. 그리고 시험하는 건 네가 아니라 네 휴대폰이야. 네 버전이 나타나면, 누가 네 Signal을 읽었다는 거야.
+Sasha|A2|Så jag är också en kanariefågel. Okay. Jag förstår. Men jag gillar det inte.|그러니까 나도 카나리아군요. 좋아요. 이해해요. 하지만 마음에 들진 않아요.
+Henrik|B1|Ingen här gillar det, Sasha. Om någon gör det, är det den personen som borde gå hem.|여기 좋아하는 사람 아무도 없어, 사샤. 좋아하는 사람이 있다면, 그 사람이 집에 가야지.
+Sasha|B2|I flottan kallade vi sådant här för vilseledning, och ryssarna är mästare på det. Jag hade aldrig trott att en tidning skulle göra samma sak.|해군에선 이런 걸 기만 작전이라고 불렀어요. 러시아 놈들이 이 분야의 대가죠. 신문사가 같은 짓을 할 줄은 몰랐네요.
+Viktor|B2|Skillnaden är att vår lögn aldrig når läsarna, och att alla som vi har lurat får veta det efteråt. Allt står i ett förseglat PM, och du får läsa det när det är över.|차이는 우리 거짓말은 독자한테 절대 닿지 않는다는 거야. 그리고 우리가 속인 사람은 전부 나중에 알게 돼. 다 봉인 메모에 적혀 있고, 끝나면 너도 읽을 수 있어.
+Sasha|B1|Okay, so. Visby, tre fartyg, lördag. Skicka det på Signal som vanligt, så att det ser ut som alla andra meddelanden jag får från er.|좋아요, 그럼. 비스뷔, 세 척, 토요일. 평소처럼 Signal로 보내 주세요. 당신들한테 받는 다른 메시지들이랑 똑같아 보이게.
+# 장면 3 — 월요일 오후 3시 47분 ~ 5시, 3층 편집국 탕비실의 커피 머신 → 지하로 내려가는 엘리베이터 → Källaren (소피아가 연필로 채워 가는 봉인 메모)
+Katja|B1|Viktor! Vilken tur. Jag trodde att ni aldrig lämnade källaren, att ni fick maten nedskickad genom ett rör.|빅토르! 운이 좋네요. 당신들은 지하실에서 절대 안 나오는 줄 알았어요. 밥도 파이프로 내려받는 줄 알았죠.
+Viktor|A2|Kaffet är bättre här uppe. Vill du ha?|커피는 위층이 더 나아요. 드실래요?
+Katja|A1|Gärna. Lite mjölk.|좋아요. 우유 조금.
+Noah|A1|Inget socker. Jag vet.|설탕은 없이. 알아요.
+Katja|B1|Noah, du minns allt. Jag skrev just på kontraktet för maj, så nu har jag passerkort en månad till.|노아, 다 기억하네요. 방금 5월 계약서에 서명해서, 이제 한 달 더 출입 카드가 있어요.
+Viktor|B1|Bra, för jag kanske behöver dig. Har ni bilder från norra Gotland från de senaste dagarna?|잘됐네요. 당신이 필요할지도 몰라요. 최근 며칠 사이 고틀란드 북부 사진 있어요?
+Katja|A2|Kanske. Var exakt?|어쩌면요. 정확히 어디요?
+Viktor|A2|Säg inget till någon, men marinen följer ett systerfartyg utanför Slite.|아무한테도 말하지 마요. 해군이 슬리테 앞바다에서 자매선을 쫓고 있대요.
+Katja|A1|Verkligen?|정말요?
+Viktor|B1|Två fartyg, faktiskt, sedan i söndags. Systrar till Eventide Star, enligt min källa. Men vi har ingenting som vi kan publicera än.|사실 두 척이에요. 일요일부터요. 제 취재원 말로는 Eventide Star의 자매선들이래요. 하지만 아직 보도할 만한 건 없어요.
+Katja|B1|Viktor, du vet att jag aldrig frågar om källor. Men Slite, två fartyg – det kan jag söka på i arkivet i kväll.|빅토르, 내가 취재원은 절대 안 묻는 거 알죠. 그래도 슬리테, 두 척 — 그건 오늘 밤 아카이브에서 찾아볼 수 있어요.
+Noah|A2|Ska jag följa dig ner till entrén?|입구까지 모셔다 드릴까요?
+Katja|A2|Det behövs inte, jag hittar.|괜찮아요. 길 알아요.
+Noah|A2|Jag ska ändå ner. Kom.|어차피 내려가는 길이에요. 가요.
+Amira|A1|Håll dörren!|문 좀 잡아 주세요!
+Konsulten|A1|Varsågod. Vilken våning?|타세요. 몇 층이요?
+Henrik|A1|Källaren.|지하.
+Konsulten|A2|Samma här. Jag ska till serverrummet igen.|저도요. 또 서버실 가요.
+Amira|B1|Henrik, har du hört? Marinen följer ett systerfartyg utanför Fårösund, sedan i fredags. Ett enda fartyg, men stort.|헨릭, 들었어? 해군이 금요일부터 파뢰순드 앞바다에서 자매선을 쫓고 있대. 딱 한 척인데, 크대.
+Henrik|B2|Fårösund. Där frös jag i en bunker en hel vinter, och om det ligger ett ryskt fartyg utanför nu, har det tagit dem fyrtio år att komma.|파뢰순드. 내가 거기 벙커에서 겨울 한 철을 꼬박 얼었지. 지금 그 앞바다에 러시아 배가 떠 있다면, 오는 데 40년 걸린 셈이네.
+Konsulten|A2|Fårösund? Är det där militären är?|파뢰순드요? 거기가 군대 있는 데예요?
+Henrik|B1|Det var det förr. Nu är det mest turister och en färja som går över till Fårö.|옛날엔 그랬지. 지금은 거의 관광객이랑 포뢰섬 건너가는 페리뿐이야.
+Konsulten|A1|Spännande. Hej då!|흥미롭네요. 안녕히 가세요!
+Amira|A1|Var det för mycket?|너무 티 났어?
+Henrik|A2|Nej. Du lät som du brukar. Lite för snabb bara.|아니. 평소처럼 들렸어. 좀 빨랐을 뿐이지.
+Sofia|B1|Klockslag, tack. Exakt, inte ungefär.|시각 불러. 대충 말고 정확하게.
+Viktor|A2|Katja, 15.47, kaffemaskinen på tredje våningen. Noah var med.|카탸, 15시 47분, 3층 커피 머신. 노아도 같이 있었어.
+Amira|A2|Konsulten, 16.20, i hissen. Henrik och jag.|컨설턴트, 16시 20분, 엘리베이터 안. 헨릭이랑 저요.
+Viktor|B1|Sasha fick sin version på Signal klockan 16.35. Han svarade med en tumme upp.|사샤는 16시 35분에 Signal로 받았어. 엄지 하나로 답했고.
+Sofia|B1|Och spärrorden ligger inne sedan tre: ”systerfartyg”, och ”marinen” tillsammans med Slite, Fårösund eller Visby.|금칙어는 3시부터 걸려 있어. '자매선', 그리고 '해군'이 슬리테·파뢰순드·비스뷔 중 하나랑 같이 나오는 경우.
+Noah|B2|Och sedan i fredags har jag läsrätt till Marts arkiv i Tallinn. Jag har lagt in larm på de tre hamnarna, på ryska, i alla fyrtio kanalerna, så att telefonen piper så fort någon av dem nämns.|그리고 금요일부터 탈린의 마르트 아카이브 열람 권한이 있어요. 세 항구에 알람을 걸어 놨어요. 러시아어로, 채널 40곳 전부에요. 그중 하나라도 언급되면 바로 휴대폰이 울리게요.
+Sofia|A2|Vet Kadri varför?|카드리는 이유를 알아?
+Noah|B1|Nej. Jag sa bara att vi bevakar Gotland, vilket är sant, och hon frågade inte mer.|아뇨. 고틀란드를 지켜보고 있다고만 했어요. 사실이기도 하고요. 더는 안 물었어요.
+Sofia|A2|Bra. Nu väntar vi.|좋아. 이제 기다리자.
+# 장면 4 — 화요일 밤 11시 10분, 텅 빈 Källaren (노아의 꺼지지 않은 모니터, 오래된 커피 주전자, 헨릭의 의자에 걸린 낡은 해군 점퍼)
+Viktor|A2|Ingenting i dag heller. Noah gick hem vid nio.|오늘도 아무것도 없어. 노아는 9시쯤 집에 갔어.
+Sofia|B2|Två dygn. Jag har läst PM:et tre gånger i kväll, och för varje gång låter det mer som en bekännelse än som en metod.|꼬박 이틀이야. 오늘 밤 메모를 세 번 읽었어. 읽을 때마다 방법이라기보다 자백처럼 들려.
+Viktor|B1|Läckor tar tid. Hon kanske väntar på rätt tillfälle, eller på någon som hon ska träffa.|유출엔 시간이 걸려. 적당한 때를 기다리는 걸 수도 있고, 만날 사람을 기다리는 걸 수도 있고.
+Sofia|B2|Eller så har vi fel om henne, och då har vi ljugit för en kvinna vars enda brott är att hon är född i fel stad. Om ingenting har hänt på torsdag morgon, tar jag bort spärrorden och ringer konsulten.|아니면 우리가 그 여자를 잘못 본 거고, 그럼 우린 엉뚱한 도시에서 태어난 것 말고는 죄가 없는 여자한테 거짓말한 거야. 목요일 아침까지 아무 일 없으면 금칙어 지우고 컨설턴트한테 전화할 거야.
+Viktor|B1|Hon beställde en bild två dygn innan kabeln gick av, Sofia. Det har ingenting med hennes födelsestad att göra.|그 여자는 케이블이 끊기기 이틀 전에 사진을 주문했어, 소피아. 그건 태어난 도시랑은 아무 상관 없어.
+Sofia|A2|Jag vet. Jag har redan skrivit brevet till konsulten.|알아. 컨설턴트한테 보낼 편지는 벌써 써 놨어.
+Viktor|A1|Redan?|벌써?
+Sofia|B2|Ja. En ursäkt ska vara skriven innan man vet om man behöver den, annars skriver man den bara för att skydda sig själv.|응. 사과문은 필요한지 알기 전에 써 둬야 해. 안 그러면 자기 자신을 지키려고 쓰게 되거든.
+Henrik|B1|Gå hem, ni två. Vi sitter här i natt, och om telefonen piper ringer vi er innan vi ens har läst klart.|둘 다 집에 가. 오늘 밤은 우리가 있을게. 휴대폰이 울리면 다 읽기도 전에 전화할게.
+Sasha|B1|Jag bytte med Bogdan i natt, så nu är jag skyldig honom två nätter. Noahs larm går till hans telefon, men någon borde ändå titta på skärmen.|오늘 밤 근무는 보그단이랑 바꿨어요. 이제 그 친구한테 이틀 밤을 빚졌죠. 노아 알람은 노아 휴대폰으로 가지만, 그래도 누군가는 화면을 봐야죠.
+Viktor|A2|Ring om något händer. Vad som helst.|무슨 일 있으면 전화해. 뭐든.
+Henrik|A2|Kaffe? Det är gammalt, men det är varmt.|커피? 오래된 건데, 따뜻하긴 해.
+Sasha|A1|Tack.|고마워요.
+Henrik|A2|Svarta havet fryser väl aldrig?|흑해는 얼지 않지?
+Sasha|A2|Jo, ibland. Vid Odessa. Då är det lika tyst som här i natt.|얼어요, 가끔. 오데사 근처에서. 그땐 오늘 밤 여기만큼 조용하죠.
+Henrik|B1|Hemma i Ljugarn frös viken nästan varje vinter när jag var liten. Pappa gick ut på isen med en yxa för att se om den höll.|내가 어릴 때 류가른 집 앞 만은 거의 겨울마다 얼었어. 아버지가 도끼를 들고 얼음 위로 나가서 버티는지 봤지.
+Sasha|B1|Min pappa var också sjöman. Han sa att havet är ärligt, eftersom det aldrig låtsas att det är vänligt.|우리 아버지도 바다 사람이었어요. 바다는 정직하대요. 친절한 척을 절대 안 하니까.
+Henrik|B2|Där hade han rätt. Människor är värre, för de ler medan de räknar på en. Den skillnaden borde jag ha sett för två veckor sedan.|그 말이 맞아. 사람이 더 나빠. 웃으면서 속으로 계산하거든. 2주 전에 그 차이를 알아봤어야 했는데.
+Sasha|A2|Är det här en ursäkt, Henrik?|이거 사과예요, 헨릭?
+Henrik|A1|Det är kaffe.|커피야.
+Sasha|A2|Okay. Då dricker jag det.|좋아요. 그럼 마실게요.
+Henrik|B2|Den riktiga ursäkten får du när det här är över, ansikte mot ansikte, så som det ska gå till mellan sjömän.|진짜 사과는 이 일이 끝나면 할게. 얼굴 보고. 바다 사나이들끼리는 그렇게 하는 거니까.
+Sasha|B1|I februari 2012 frös hamnen i Odessa. Isbrytarna gick hela natten, och vi stod på däck och lyssnade när isen sjöng.|2012년 2월에 오데사 항구가 얼었어요. 쇄빙선이 밤새 다녔고, 우린 갑판에 서서 얼음이 노래하는 걸 들었죠.
+Henrik|B1|Isen sjunger här också, när det är riktigt kallt. Det låter som valar som har simmat vilse.|여기 얼음도 노래해. 아주 추울 때면. 길 잃은 고래 소리 같지.
+Sasha|B2|Olena tror inte på mig när jag berättar det. Hon säger att jag har varit för länge på havet och för kort tid hemma, och där har hon nog rätt.|올레나는 제가 그 얘기 하면 안 믿어요. 바다엔 너무 오래, 집엔 너무 잠깐 있었다고 하죠. 아마 그 말이 맞을 거예요.
+Henrik|B2|Det sa min bror om mig också, fast om fastlandet. Vi som lämnar något bakom oss tror alltid att det ska stå kvar och vänta på oss.|내 형도 나한테 그 말 했어. 바다가 아니라 본토 얘기였지만. 뭔가를 두고 떠나는 사람들은 늘 그게 그 자리에서 기다려 줄 거라고 믿지.
+# 장면 5 — 수요일 저녁 6시 38분, Källaren, 노아의 모니터 앞 (울리는 알림음, 화면 위의 키릴 문자 게시물, 스피커로 켠 휴대폰)
+Noah|A1|Larmet! Det är Slite.|알람이에요! 슬리테예요.
+Viktor|A1|Vilken kanal?|어느 채널?
+Noah|A2|”Baltijskij Dozor”. Den finns på Marts lista.|"발티스키 도조르". 마르트 목록에 있는 채널이에요.
+Amira|A2|Läs, Sasha. Ord för ord.|읽어 줘요, 사샤. 한 단어씩.
+Sasha|B1|”Den svenska flottan följer sedan söndag två fartyg utanför Slite. Enligt källor är det systerfartyg till Eventide Star.” Det är allt.|"스웨덴 해군이 일요일부터 슬리테 앞바다에서 배 두 척을 추적 중. 소식통에 따르면 Eventide Star의 자매선." 그게 다예요.
+Noah|A1|Slite. Två fartyg. Det är hennes.|슬리테. 두 척. 그 여자 거예요.
+Viktor|B1|Inte så fort. Kolla de andra hamnarna först, och sedan klockslaget på servern.|서두르지 마. 다른 항구부터 확인하고, 그다음에 서버 시각.
+Noah|B1|Inget om Fårösund och inget om Visby, i någon av de fyrtio kanalerna. Inlägget publicerades 16.28 UTC, alltså 18.28 här.|파뢰순드도 비스뷔도 없어요. 40개 채널 어디에도요. 게시는 UTC 16시 28분, 그러니까 여기 시각으로 18시 28분이에요.
+Sasha|B1|Visby finns ingenstans. Bra, då vet vi att ingen har läst min telefon.|비스뷔는 어디에도 없네요. 좋아요. 그럼 아무도 제 휴대폰을 안 읽었다는 거죠.
+Amira|B2|Och konsulten har inte läckt något, om han inte är smartare än vi tror. Han kommer att få ett brev från Sofia och aldrig riktigt förstå varför han fick det.|그리고 컨설턴트는 아무것도 안 흘렸어. 우리 생각보다 영리한 게 아니라면. 소피아한테 편지를 받겠지만, 왜 받았는지는 끝내 제대로 모르겠지.
+Viktor|B2|Spara allt innan någon hinner radera det. Kanaler som den här brukar ta bort sina inlägg efter ett par timmar, precis som Kompas gjorde.|누가 지우기 전에 다 저장해. 이런 채널은 몇 시간 뒤에 글을 지우곤 하잖아. 콤파스가 그랬던 것처럼.
+Noah|B2|Redan gjort. En skärminspelning på offline-datorn, Marts arkivkopia med serverns klockslag, och en utskrift som jag har signerat för Sofias kuvert.|벌써 했어요. 오프라인 컴퓨터에 화면 녹화, 서버 시각이 찍힌 마르트 아카이브 사본, 그리고 소피아 국장님 봉투에 넣을, 제가 서명한 출력본이요.
+Amira|A1|Tre ställen. Bra.|세 군데. 좋아.
+Viktor|B2|Det här bevisar att hennes version har nått kanalen, men inte hur. Hon kan ha berättat det för någon i en bar, och just den frågan måste hon få svara på innan vi skriver ett enda ord.|이건 그 여자 버전이 채널에 닿았다는 걸 증명할 뿐이야. 어떻게 닿았는지는 아니고. 바에서 누구한테 말했을 수도 있어. 우리가 한 단어라도 쓰기 전에, 그 여자가 바로 그 질문에 답할 기회를 가져야 해.
+Sasha|A2|Bozhe. Hon log när hon fick den, eller hur?|보제(맙소사). 그 여자, 그걸 받았을 때 웃었죠, 그렇죠?
+Viktor|A2|Hon sa mitt namn först. Ring Sofia, Noah.|내 이름부터 불렀어. 소피아한테 전화해, 노아.
+Sofia|A1|Noah? Säg det.|노아? 말해.
+Noah|A2|Kanalen postade det för tio minuter sen. Ordagrant Katjas version.|채널이 10분 전에 올렸어요. 카탸 버전 그대로요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Ingen får veta.** | 아무도 알면 안 돼. | *ingen*(아무도 ~않다)이 주어 자리에 오면 문장 전체가 부정이 된다. *få*는 여기서 '받다'가 아니라 '~해도 된다'(허락) — *Du får gå*(가도 돼), *Ingen får röka här*(여기선 아무도 담배 피우면 안 된다) |
+| `A2` | **Varje person får en egen version.** | 사람마다 자기 버전을 받아. | *varje*(각각의) 뒤에는 단수 명사. *egen*(자기 자신의)은 *en egen version*, *ett eget rum*, *egna källor*처럼 성·수에 따라 형태가 바뀐다 |
+| `B1` | **Om uppgiften dyker upp någonstans vet vi exakt vem som har läckt den.** | 그 정보가 어디서든 나타나면, 누가 흘렸는지 정확히 알 수 있어. | *dyka upp*(불쑥 나타나다)은 원래 '물속에서 떠오르다'. *om*-절이 앞에 오면 주절은 동사부터(*vet vi*). 간접의문문에서 의문사가 주어면 *som*: *vem som har läckt den* |
+| `B2` | **Att medvetet ljuga för sina egna kolleger strider mot allt vi står för, även om syftet är att skydda våra källor.** | 의도적으로 자기 동료들한테 거짓말하는 건, 목적이 우리 취재원을 지키는 거라 해도, 우리가 지켜 온 모든 것에 어긋나. | *att*-부정사구가 통째로 주어. *strida mot*(~에 어긋나다, 위배되다), *stå för*(~을 표방하다, 지지하다). *ljuga för någon*은 '~에게 거짓말하다' — 전치사가 *för*인 데 주의 |
+| `B2` | **Om vi gör det här dokumenterar vi varje steg. Och efteråt ber vi om ursäkt.** | 이걸 한다면 모든 단계를 기록해. 그리고 나중에 사과하고. | *be om ursäkt*(사과하다), 직역하면 '용서를 청하다'. 짧은 단어들이지만 소피아의 세 조건(지면 불게재·전 과정 기록·사후 공개와 사과)을 한 문장으로 묶은 발행책임자의 말 |
+| `A2` | **Svarta havet fryser väl aldrig?** | 흑해는 얼지 않지? | 문장 중간의 *väl*은 '설마 ~아니지?, ~겠지?' 하며 상대의 확인을 구하는 말투. 사샤의 대답 *Jo*는 부정 의문문에 '아니, 그렇다'고 반박할 때 쓰는 '예'다 |
+| 관용구 | **lägga ut ett bete** | 미끼를 놓다 | *bete*는 낚시 미끼. 아미라의 *Vi lägger ut tre beten*처럼 함정을 설계할 때 쓴다. 비슷한 말로 *nappa på kroken*(미끼를 물다) |
+| 안보·법 | **rättelse** | 정정 (보도) | 신문이 틀린 사실을 바로잡아 싣는 것. 스웨덴 언론윤리 규칙은 오류를 '즉시, 눈에 띄게' 정정하라고 요구한다. 소피아는 가짜 정보가 실수로라도 나가면 "그 자리에서" 정정하겠다고 조건을 건다 |
+
+## 저널리즘·법 메모
+카나리아 함정(canary trap)은 용의자마다 조금씩 다른 정보를 주고 어느 버전이 새어 나가는지 보는 방법이다. 효과는 분명하지만 대가가 있다: 기자가 함께 일하는 사람들에게 의도적으로 거짓을 말해야 하고, 그중에는 결백한 사람도 섞여 있다. 그래서 소피아는 세 가지 조건을 건다. 첫째, 가짜 정보는 절대 지면에 나가지 않는다 — 편집 시스템의 금칙어와 즉시 정정(*rättelse*) 약속은 언론윤리 규칙(*publicitetsregler*)의 첫 원칙인 '정확한 보도'를 지키기 위한 안전장치다. 둘째, 모든 단계를 시각과 함께 봉인 메모에 기록한다 — 나중에 함정 자체가 검증 대상이 될 수 있기 때문이다. 셋째, 끝나면 속인 모든 사람에게 알리고 사과한다. 사샤의 경우처럼 당사자에게 미리 알리는 버전은 '사람'이 아니라 '경로'(휴대폰·메일)를 시험하는 대조군 역할을 한다. 그리고 빅토르가 마지막에 짚듯, 함정이 맞아떨어져도 그것은 "어느 버전이 새었는가"를 증명할 뿐 "어떻게 새었는가"는 증명하지 못한다 — 그 질문에 답할 기회, 즉 반론권은 기사보다 먼저다.
+
+## 문화·현안 메모
+- **카나리아와 탄광** — 예전 광부들은 일산화탄소에 민감한 카나리아를 갱도에 데리고 들어가, 새가 쓰러지면 대피했다. 그래서 *kanariefågel*은 '먼저 위험을 알려 주는 존재'라는 비유로도 쓰인다. 정보 유출을 찾는 '카나리아 함정'이라는 이름은 냉전기 첩보 소설을 통해 널리 알려졌다.
+- **고틀란드 북부의 항구들** — 슬리테(Slite)는 시멘트 공장으로 알려진 동해안의 항구 마을이고, 파뢰순드(Fårösund)는 포뢰(Fårö)섬으로 건너가는 페리가 다니는 해협 마을로, 냉전기에는 해안포병대가 주둔했다. 비스뷔(Visby)는 섬의 중심 도시다. 세 곳 모두 실제 지명이지만, 극중 '해군의 자매선 추적'은 완전히 지어낸 미끼다.
+- **텔레그램 채널과 정보 유통** — 발트해 지역을 다루는 러시아어 텔레그램 채널들은 '소식통에 따르면' 같은 말로 확인되지 않은 정보를 빠르게 퍼뜨리고, 몇 시간 뒤 게시물을 지우기도 한다. 그래서 탐사 기자들은 서버 시각이 남는 아카이브와 화면 녹화로 증거를 보존한다.
+- **발보리(Valborg)** — 4월 30일 밤, 스웨덴 곳곳에서 모닥불을 피우고 봄노래를 부르며 겨울을 보낸다. 프레드릭이 찾는 '고틀란드 모닥불 사진'은 다음 날 저녁의 풍경이다.
+- ⚠️ 이 화의 텔레그램 채널 "Baltijskij Dozor", 해군의 '자매선 추적', IT 컨설턴트, 봉인 메모의 내용은 모두 허구다.
+
+## 다음 화 예고
+> 발보리의 밤, 리다르홀멘의 빈 사무실. 카탸는 웃으며 빅토르의 이름부터 부른다: "Viktor, alla gör fel ibland. Även du."
