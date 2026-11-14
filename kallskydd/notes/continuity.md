@@ -207,3 +207,15 @@
 - 약속: 월요일(1월 12일) Solbacka 원장과 자리를 사는 시(kommun)에 서면 질문(열쇠 보유자, 반출 기록). 보도 원칙: 군나르는 "en 92-årig man", 이름·얼굴 없음, 레나도 익명. 레나 허락 — 손과 전차 모자(방 옷걸이에 걸려 있음) 촬영 가능(촬영자·일정 미정). 소피아가 "치매 92세, 회사 11곳 대표" 식 제목을 경계.
 - 엘린의 외할머니: 4년 전 사망, 뜨개질하며 "Uti vår hage"를 불렀고 마지막 몇 해엔 노래만 알아봄(→ 4화 "제니"의 할머니 뜨개질).
 - 엔딩: 엘린이 로비 현판을 찍어 둔 사진을 Källaren에서 확대 — "Solbacka vård och omsorg — en del av Omsorgia." Omsorgia 소유는 이 순간 처음 확인(→ 3화).
+
+### 2부 3화
+- 날짜: 2026년 1월 14일(수) 09:40 스톡홀름메산(엘브셰) 가상 박람회 "Välfärdsdagarna 2026" → 10:00 C홀 패널 "Kvalitet i välfärden"(사회자 **Pernilla**, 가상) → 10:50 Omsorgia 부스 뒤 하역장 통로 → 13:30경 Källaren. 크리스마스 전구는 1월 13일(tjugondag Knut)에 철거됨. 헨릭 볼보 히터 여전히 고장. 프레드릭·엘린·노아는 등장·언급 없음(복선 없음).
+- 서면 질문: 빅토르가 **1월 12일(월)** Solbacka 원장·노르비크 시·Omsorgia 공보실에 발송(Omsorgia에는 5개). Solbacka는 Omsorgia 공보실로 넘김. 시는 1월 16일(금) 답변 약속. Omsorgia 공보실 1월 13일 오후 두 문장 회신 — "fullspäckat schema" + "Omsorgia välkomnar all granskning, men vi förbehåller oss rätten att bemöta felaktigheter." 펠트는 무대에서 같은 문장을 토씨까지 반복하고 "Vi har inga avtal med de bolag som ni syftar på"라고 답함(질문 회피). 이날 새 질문 발송: Omsorgia(시한 1월 16일 금) + Nordhavn("Omsorgia를 위해 무슨 일을 맡고 있나").
+- 등기 변화: **1월 13일(화) 16시** 변경 신고 — 군나르가 Nordic Omsorgspartner AB 대표에서 빠지고, 새 대표는 1화의 "보트실카 여성"(이사회 6곳), 본인 BankID로 서명. 군나르 BankID는 1월 9일 레나가 정지. 아미라 브로슈어 마지막 장 맨 아래 자회사 약 40개 중 "Solbacka vård och omsorg, Norrvik"(헨릭 촬영). 펠트 슬라이드: 만족도 94%("Egen enkät, 2025"), "varje krona ska gå till människan", Omsorgia 운영 시설 140곳(에크발 발언).
+- 인물: **Ulrika Fält** 첫 등장(준비된 문장, 빅토르가 "치매"라 할 때 반 초간 웃음이 멈춤 — 헨릭 사진). 공보 담당 **Tove**(30대, 가상). 로봇 업체 시연 직원 **Oskar**, 돌봄 로봇 "Hugo"(일회성).
+- **Magnus Ekwall** 첫 등장: 회색 코트, 맨 앞줄에서 빅토르 질문 순간 휴대폰에 뭔가 입력 후 옆문으로 퇴장. 빅토르를 처음부터 이름으로, 모두에게 *du*. 명함 없음("den som behöver mig brukar hitta mig ändå"). 고객에게 온 메일은 "늘 내가 제일 먼저 읽는다" — 월요일 질문의 "잠긴 서랍"을 알고 있었음(출처는 Omsorgia로 설명됨). 1부 경찰 유출 기사 칭찬. 알바: "Ettan på Bromma gymnasium"(조카딸이 다녔다고 함). 빅토르가 *ni*로 바꾸자 "hovmästare och arga människor" 조롱. 화법 기준 대사: "Sverige är ett litet land … Det är inget hot — det är geografi." / "Nej tack." → "Inte än." / "Vi ses, Viktor. Det gör vi alltid." 검은 아우디 뒷좌석에서 헨릭에게 손을 흔듦.
+- 소피아: **베도(Väddö)에 torp**, 선착장을 3년 여름 연속 직접 고침, 12월 폭풍에도 "멀쩡". 에크발 "Vi går långt tillbaka, hon och jag" — 소피아는 관계 설명을 피함("Han känner alla. Det är hans affärsidé.") → 열린 떡밥. 소피아는 이 일을 hotlogg에 기록하고 신변보호 **Ali Haddad** 경위에게 전화하기로 함. 빅토르는 이날 밤 알바에게 직접 전화하기로 함(내용은 화면 밖).
+- Nordhavn Strategi AB: 차량은 리스 회사 소유, 교통청 조회상 사용자(brukare) Nordhavn. 2018년 8월 등록, 창업자·이사회 의장 Magnus Ekwall(1967년생). 에크발은 **사회부(Socialdepartementet) 차관 4년**, **2018년 5월** 퇴임(karensregler 시행 몇 주 전). 고객 명단 비공개(로비 등록부 없음). 인터넷 사진 3장뿐. 헨릭의 기억: 10~15년 전 로센바드 기자회견마다 맨 뒤 문가.
+- 사무실 주소 **Strandvägen** — 빅토르가 1부 요세핀 알("스트란드베겐 PR 회사")을 떠올려 수첩에 적음. 아미라: "byrå만 30개, 주소는 연결이 아님" → 미확인, 열린 떡밥.
+- 알바 학교 정보의 출처: 아미라는 10월까지 공개였던 알바 인스타그램(학교 태그)을 가능성으로 듦 — 답 없이 남김.
+- 엔딩: 13시 50분경 Källaren, 빅토르 휴대폰에 모르는 번호(에크발, "번호는 기사마다 밑에 있다"), 스피커폰이라 소피아·헨릭·아미라가 모두 들음. 헨릭이 번호판 찍은 걸 알고 있었음(리스 차량이라 조회할 필요 없었다). 마지막 말 "Jag känner din chef, Viktor. Hälsa Sofia från mig."

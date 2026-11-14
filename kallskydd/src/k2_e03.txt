@@ -1,0 +1,186 @@
+@title 2부 3화 — Välfärdsdagarna
+@subtitle (복지 박람회)
+@meta 날짜|2026년 1월 14일 수요일 (성 크누트 날 다음 날, 해는 8시 35분쯤 떠서 3시 15분쯤 진다) 오전 9시 40분 ~ 오후 2시경
+@meta 장소|엘브셰 스톡홀름메산, 가상 박람회 "Välfärdsdagarna 2026" 전시홀 (오전 9시 40분) → 같은 건물 C홀, 패널 "Kvalitet i välfärden" (오전 10시) → Omsorgia 부스 뒤 하역장 쪽 통로 (오전 10시 50분) → 쿵스홀멘 "Källaren" (오후 1시 반 ~ 2시)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Oskar** (오스카르, 20대, 돌봄 로봇 업체 시연 직원) · **Pernilla** (페르닐라, 50대, 패널 사회자) · **Ulrika** (울리카 펠트, 49, Omsorgia CEO) · **Tove** (토베, 30대, Omsorgia 공보 담당) · **Ekwall** (마그누스 에크발, 58, 전 차관, Nordhavn Strategi 창업자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자)
+@intro **지난 이야기** — 92세 군나르 위클룬드의 이름은 회사 열한 곳에 올라 있었고, 그중 여섯 건의 BankID 서명은 요양원 입소자들이 모두 잠든 밤 11시 이후에 이루어졌다. 딸 레나는 "아빠를 웃음거리로 만들지 말라"는 조건으로 보도에 동의했다. 그리고 엘린이 찍어 온 요양원 로비 현판의 작은 글씨: "Solbacka vård och omsorg — en del av Omsorgia."
+@intro 닷새 뒤, 1월 14일 수요일 아침. 월요일에 빅토르는 Solbacka와 노르비크 시, 그리고 Omsorgia 공보실에 서면 질문을 보냈다. 돌아온 것은 두 문장짜리 메일뿐이었다. 그 메일에서 "일정이 꽉 찼다"던 CEO 울리카 펠트는 오늘 오전 10시, 엘브셰의 복지 박람회 무대에 기조연설자로 선다.
+# 장면 1 — 오전 9시 40분, 스톡홀름메산 전시홀 (출입증 목걸이, 공짜 커피와 시나몬 롤, 돌봄 로봇 시연, 벽마다 걸린 홍보 문구)
+Amira|A1|Kolla. Gratis kaffe.|봐. 공짜 커피.
+Henrik|A2|Och gratis kanelbullar. Det här är ingen fattig bransch.|공짜 시나몬 롤도 있구먼. 가난한 업계는 아니네.
+Amira|B1|Det står ”Välfärdsdagarna 2026” på bandet. Jag har aldrig sett så många kavajer på ett ställe som påstår att det handlar om omsorg.|목줄에 'Välfärdsdagarna 2026'이라고 써 있어. 돌봄 얘기를 한다는 데서 정장 재킷을 이렇게 많이 본 건 처음이야.
+Henrik|B1|Hallen är full av folk som säljer omsorg till kommunerna, men en enda gammal människa har jag inte sett än.|홀이 지자체에 돌봄을 파는 사람들로 꽉 찼는데, 정작 노인은 아직 한 명도 못 봤어.
+Oskar|A1|Hej! Vill ni testa?|안녕하세요! 시연해 보실래요?
+Amira|A1|Vad är det?|그게 뭐예요?
+Oskar|A2|Det här är Hugo. Han dammsuger och påminner om medicinen. Han kan prata också.|얘는 휴고예요. 청소도 하고 약 드실 시간도 알려 줘요. 말도 할 줄 알아요.
+Henrik|A1|Pratar han gotländska?|고틀란드 말도 하나?
+Oskar|A2|Nej, men han kan tjugo språk. Kommunerna köper honom i paket om hundra.|아뇨, 그래도 스무 개 언어를 해요. 지자체에서 백 대씩 묶음으로 사 가요.
+Amira|A2|Gratis kaffe och en robot som dammsuger. Göttigt. Men var är pengarna?|공짜 커피에 청소 로봇이라. 좋네. 근데 돈은 어디 있어?
+Oskar|A2|Pengarna? Ni kan få en broschyr om finansieringen.|돈이요? 자금 지원 브로슈어 드릴 수 있어요.
+Viktor|A1|Tack. Vi går vidare.|고마워요. 저흰 좀 더 둘러볼게요.
+Henrik|B1|Titta på väggarna. Varje monter har en mening som låter som en psalm.|벽 좀 봐. 부스마다 찬송가 같은 문구가 하나씩 걸려 있어.
+Amira|A2|”Kvalitet i varje möte.” Den är Omsorgias. Den stora montern där borta.|'모든 만남에 품질을.' 저게 Omsorgia 거야. 저기 큰 부스.
+Viktor|B1|Fält håller sitt tal klockan tio i sal C, så vi har tjugo minuter på oss att se oss omkring.|펠트는 10시에 C홀에서 연설해. 그러니까 둘러볼 시간이 20분 있어.
+Henrik|A2|Har du fått något svar från dem?|그쪽에서 답은 받았어?
+Viktor|B2|I går eftermiddag kom två meningar från presstjänsten: ”Ulrika Fält har tyvärr inte möjlighet att ställa upp på en intervju på grund av ett fullspäckat schema. Omsorgia välkomnar all granskning, men vi förbehåller oss rätten att bemöta felaktigheter.”|어제 오후에 공보실에서 두 문장이 왔어. "울리카 펠트는 빽빽한 일정 때문에 안타깝게도 인터뷰에 응할 수 없습니다. Omsorgia는 모든 검증을 환영하지만, 잘못된 내용에 대해서는 반박할 권리를 유보합니다."
+Henrik|A2|Fullspäckat schema. Men hon har tid att tala här.|일정이 꽉 찼다라. 그런데 여기서 연설할 시간은 있고.
+Viktor|B1|Därför står vi här. Om hon inte vill svara i telefon, får hon svara inför publik.|그래서 우리가 여기 서 있는 거지. 전화로 답하기 싫다면, 청중 앞에서 답하면 돼.
+Amira|B1|Solbacka skickade bara vidare våra frågor till Omsorgias presstjänst. Kommunen har i alla fall lovat att svara på fredag.|솔바카는 우리 질문을 Omsorgia 공보실로 넘기기만 했어. 그래도 시는 금요일에 답하겠다고 약속했고.
+Henrik|A2|Och bolagen? Har det hänt något där?|회사들은? 거기선 무슨 일 있었어?
+Amira|B2|I går klockan fyra, dagen efter Viktors frågor, kom en ändringsanmälan till Bolagsverket: Gunnar har lämnat posten som vd i Nordic Omsorgspartner, och den nya vd:n är kvinnan från Botkyrka som redan sitter i sex styrelser.|어제 4시, 빅토르가 질문을 보낸 다음 날, 볼라그스베르케트에 변경 신고가 들어왔어. 군나르가 Nordic Omsorgspartner 대표 자리에서 물러났고, 새 대표는 벌써 이사회 여섯 곳에 앉아 있는 보트실카 여자야.
+Viktor|A1|Så de städar.|그러니까 치우기 시작했군.
+Amira|B1|Ja, och den här gången signerade hon med sitt eget BankID. Gunnars fungerar ju inte längre, eftersom Lena spärrade det i fredags.|응. 이번엔 그 여자가 자기 BankID로 서명했어. 군나르 할아버지 건 이제 안 되니까. 레나 씨가 금요일에 정지시켰잖아.
+Henrik|A2|Fort gick det.|빠르기도 하지.
+Amira|A1|Vänta. Här.|잠깐. 여기.
+Viktor|A1|Vad?|뭔데?
+Amira|B1|Omsorgias egen broschyr. Sista sidan, längst ner, med pyttesmå bokstäver bland fyrtio andra namn: ”Solbacka vård och omsorg, Norrvik.”|Omsorgia 자체 브로슈어. 마지막 장 맨 아래, 다른 이름 마흔 개 사이에 깨알 같은 글씨로: '솔바카 요양원, 노르비크.'
+Henrik|A2|Håll nageln där. Jag tar en bild.|손톱 거기 그대로 대고 있어. 사진 한 장 찍을게.
+# 장면 2 — 오전 10시, C홀 패널 "Kvalitet i välfärden" (무대 위 대형 슬라이드, 객석 300석, 객석 통로의 무선 마이크)
+Pernilla|B1|Välkomna till panelen ”Kvalitet i välfärden”. Vi börjar med ett anförande av Ulrika Fält, vd för Omsorgia.|'복지의 질' 패널에 오신 걸 환영합니다. 먼저 Omsorgia 대표 울리카 펠트 님의 발표로 시작하겠습니다.
+Ulrika|B2|Tack, Pernilla. När jag började i branschen för tjugo år sedan mätte vi framgång i kronor. I dag mäter vi den i möten — i varje leende och i varje hand som någon håller.|고마워요, 페르닐라. 20년 전 제가 이 업계에 들어왔을 때 우리는 성공을 크로나로 쟀습니다. 오늘 우리는 그것을 만남으로 잽니다. 모든 미소, 누군가 잡아 주는 모든 손으로요.
+Henrik|A1|Hon har bra ljus.|조명 좋네.
+Amira|A2|Hon har säkert övat i en vecka.|일주일은 연습했겠지.
+Ulrika|B1|Nittiofyra procent av våra brukare säger att de är nöjda eller mycket nöjda. Det är siffror som vi är stolta över.|저희 이용자의 94퍼센트가 만족 또는 매우 만족한다고 답합니다. 저희가 자랑스러워하는 숫자입니다.
+Viktor|A2|Vem har gjort mätningen?|그 조사 누가 했어?
+Amira|B1|Det står längst ner på bilden: ”Egen enkät, 2025.” De har alltså frågat sig själva.|슬라이드 맨 아래 써 있어. '자체 설문, 2025.' 그러니까 자기들한테 물어본 거야.
+Ulrika|B2|Vårt löfte är enkelt: varje krona ska gå till människan. Inte till aktieägare, inte till byråkrati, utan till människan.|저희의 약속은 단순합니다. 모든 크로나는 사람에게 가야 한다. 주주에게도, 관료주의에도 아닌, 사람에게.
+Henrik|B1|Hon säger ”människan” på samma sätt som prästen säger ”amen”.|목사님이 '아멘' 하듯이 '사람'이라고 하는구먼.
+Ulrika|B2|Därför välkomnar vi också den skärpta kontrollen och den nya Utbetalningsmyndigheten. Seriösa aktörer har ingenting att frukta.|그래서 저희는 강화된 감독과 새 지급감독청도 환영합니다. 성실한 사업자는 두려워할 것이 없습니다.
+Amira|A1|Ingenting. Okej.|아무것도라. 그래.
+Pernilla|B1|Tack, Ulrika. Vi har några minuter för frågor från publiken. Ja, där bak — vänta på mikrofonen.|고마워요, 울리카. 객석 질문 몇 분 받겠습니다. 네, 저 뒤쪽 분 — 마이크 기다려 주세요.
+Viktor|B1|Viktor Holm, Stockholmsposten. Vi har skickat fem frågor skriftligt, och vi vill gärna ge Omsorgia möjlighet att svara på våra frågor.|스톡홀름스포스텐의 빅토르 홀름입니다. 저희는 서면으로 질문 다섯 개를 보냈고, Omsorgia에 저희 질문에 답할 기회를 드리고 싶습니다.
+Ulrika|A2|Vi har redan svarat på dem.|이미 답변 드렸는데요.
+Viktor|B1|Ni svarade att ni inte har tid, så jag ställer en av dem här. Ni säger att varje krona går till människan. Varför står en 92-årig dement man som vd för era underleverantörer?|시간이 없다고 답하셨죠. 그래서 그중 하나를 여기서 여쭙겠습니다. 모든 크로나가 사람에게 간다고 하셨죠. 왜 치매를 앓는 92세 남성이 당신들 하청업체 대표로 올라 있습니까?
+Henrik|A1|Nu blev det tyst.|이제야 조용해졌네.
+Pernilla|B1|Vi har tyvärr ont om tid, och det här är inte en presskonferens. Nästa fråga, kanske någon från kommunerna?|죄송하지만 시간이 부족하고, 여긴 기자회견장이 아닙니다. 다음 질문, 지자체에서 오신 분 계실까요?
+Viktor|A2|Hon kan svara med en mening.|한 문장으로 답하실 수 있잖아요.
+Ulrika|B2|Jag svarar gärna. Omsorgia välkomnar all granskning, men vi förbehåller oss rätten att bemöta felaktigheter. Vi har inga avtal med de bolag som ni syftar på.|기꺼이 답하죠. Omsorgia는 모든 검증을 환영하지만, 잘못된 내용에 대해서는 반박할 권리를 유보합니다. 저희는 말씀하신 회사들과 아무 계약도 맺고 있지 않습니다.
+Amira|B1|Exakt samma mening som i mejlet, ord för ord. Hon kan den utantill.|메일이랑 똑같은 문장이야, 토씨 하나 안 틀리고. 외우고 있어.
+Viktor|B1|Det var inte min fråga. Jag frågade varför han står där, inte vem ni har avtal med.|제 질문은 그게 아니었습니다. 왜 그분 이름이 거기 있는지 물었지, 누구와 계약했는지 묻지 않았습니다.
+Pernilla|A2|Tack. Nu går vi vidare. Ja, du med den röda halsduken.|감사합니다. 이제 넘어가죠. 네, 빨간 목도리 하신 분.
+Amira|B2|Hon log hela tiden, men hon svarade på en fråga som ingen hade ställt. Det är också ett svar, om man vet hur man ska läsa det.|계속 웃었지만, 아무도 안 한 질문에 답했어. 읽을 줄만 알면 그것도 답이야.
+Henrik|B1|Jag fick hennes ansikte när du sa ”dement”. Hon slutade le i en halv sekund.|자네가 '치매'라고 했을 때 얼굴 잡았어. 반 초 동안 웃음을 멈추더군.
+Amira|B1|Och mannen i grå rock på första raden skrev något i mobilen precis när du ställde frågan.|그리고 맨 앞줄 회색 코트 남자가 네가 질문하는 바로 그때 휴대폰에 뭔가 썼어.
+Viktor|A1|Vilken man?|어떤 남자?
+Amira|A2|Han är borta nu. Han gick ut genom sidodörren.|이제 없어. 옆문으로 나갔어.
+Henrik|B1|Montern har en bakdörr mot lastkajen, jag såg skylten i morse. Där går hon ut, inte genom huvudentrén.|부스 뒤로 하역장 쪽 뒷문이 있어. 아침에 표지판 봤어. 그 여자는 정문이 아니라 그쪽으로 나갈 거야.
+Viktor|A2|Då går jag dit. Ta du parkeringen.|그럼 내가 거기로 갈게. 자넨 주차장 맡아.
+Henrik|A2|Jag står vid utfarten. Jag har mössa.|출구 쪽에 서 있을게. 모자 썼어.
+Amira|B1|Jag stannar vid montern och plockar broschyrer. Ingen bryr sig om en tjej med en tygkasse.|난 부스에 남아서 브로슈어 챙길게. 에코백 든 여자한테는 아무도 신경 안 써.
+# 장면 3 — 오전 10시 50분, Omsorgia 부스 뒤 하역장 쪽 통로 (철제 문, 쌓인 배너 상자, 문틈으로 들어오는 영하의 바람)
+Viktor|A1|Ulrika Fält? Har du en minut?|울리카 펠트 씨? 잠깐 시간 되세요?
+Tove|A2|Hon har inte tid i dag. Jag heter Tove och sköter pressfrågorna. Mejla mig.|오늘은 시간이 없으세요. 전 공보 담당 토베예요. 저한테 메일 주세요.
+Viktor|A2|Jag har mejlat. Två gånger.|메일 보냈어요. 두 번.
+Ulrika|A2|Tove, vi måste gå. Bilen väntar.|토베, 가야 해. 차 기다려.
+Viktor|B1|En fråga bara. Solbacka står i er egen broschyr. Vem på Omsorgia har ansvaret för de boendes telefoner och BankID?|하나만요. 솔바카가 당신들 브로슈어에 있어요. Omsorgia에서 입소자 휴대폰과 BankID는 누가 책임집니까?
+Ulrika|A1|Inte här. Inte nu.|여기선 안 돼요. 지금은 안 돼요.
+Ekwall|B2|Viktor! Äntligen. Magnus Ekwall. Ulrika, gå du, jag tar det här. Tove, se till att bilen står vid lastkajen och inte vid huvudentrén.|빅토르! 드디어 만나는군. 마그누스 에크발이야. 울리카, 먼저 가. 이건 내가 맡지. 토베, 차는 정문 말고 하역장 쪽에 대 둬.
+Ulrika|A1|Tack, Magnus.|고마워요, 마그누스.
+Ekwall|B2|Så där. Nu kan vi prata utan publik. Du ställde en bra fråga därinne, Viktor — i fel rum, bara. Sådana frågor ställer man över en kopp kaffe, inte i en mikrofon.|됐다. 이제 관객 없이 얘기할 수 있겠군. 안에서 좋은 질문 하던데, 빅토르. 방을 잘못 골랐을 뿐이야. 그런 질문은 마이크가 아니라 커피 한 잔 앞에서 하는 거지.
+Viktor|A1|Vem är du?|당신 누구요?
+Ekwall|B2|Jag hjälper Omsorgia lite med kommunikationen. Mest hjälper jag människor att förstå varandra innan de säger saker som de sedan ångrar.|Omsorgia 홍보를 좀 돕고 있지. 주로는 사람들이 나중에 후회할 말을 하기 전에 서로를 이해하도록 돕는 일을 해.
+Viktor|A1|Vem betalar dig?|누가 돈을 줍니까?
+Ekwall|B1|Mina kunder, förstås. Du ser ut som en man som vill veta vem som betalar för allting.|내 고객들이지, 물론. 자넨 모든 것에 누가 돈을 내는지 알고 싶어 하는 사람처럼 보이는군.
+Viktor|A2|Det är mitt jobb.|그게 제 일입니다.
+Ekwall|B2|Och du gör det bra. Jag läste din text om läckan hos polisen i november. Den var bättre än allt annat som skrevs i fjol, och jag läser väldigt mycket.|그리고 잘하지. 11월에 경찰 유출 건 기사 읽었어. 작년에 나온 어떤 글보다 나았어. 난 정말 많이 읽는 사람이고.
+Viktor|A2|Tack. Jag ska gå nu.|감사합니다. 이만 가 보겠습니다.
+Ekwall|B2|Två minuter. Om den 92-årige mannen: om någon har missbrukat hans identitet, så är Omsorgia lika mycket ett offer som han. Det borde stå i din artikel.|2분만. 그 92세 남자 말인데, 누가 그의 신분을 도용했다면 Omsorgia도 그 사람만큼이나 피해자야. 그게 자네 기사에 들어가야 해.
+Viktor|A2|Han bor på ert boende.|그분은 당신들 요양원에 삽니다.
+Ekwall|B2|Han bor på ett av hundrafyrtio boenden. Ulrika kan inte hålla koll på varje låst låda i varje personalrum i hela landet.|요양원 140곳 중 한 곳에 살지. 울리카가 전국 모든 직원 휴게실의 잠긴 서랍을 하나하나 챙길 수는 없잖아.
+Viktor|A1|Vilken låda?|어떤 서랍 말입니까?
+Ekwall|B2|Den som du frågade om i ditt mejl i måndags. Jag läser allt som kommer till mina kunder, Viktor, och alltid först. Hur mår Alva förresten? Ettan på Bromma gymnasium, eller hur? Bra skola. Min brorsdotter gick där.|자네가 월요일 메일에서 물어본 그 서랍. 난 내 고객한테 오는 건 다 읽어, 빅토르. 늘 내가 제일 먼저. 그건 그렇고 알바는 잘 지내? 브롬마 고등학교 1학년이지? 좋은 학교야. 내 조카딸도 거기 다녔어.
+Viktor|A1|Vad sa du?|뭐라고 했습니까?
+Ekwall|B1|Att Bromma gymnasium är en bra skola. Det var en komplimang, Viktor, ingenting annat.|브롬마 고등학교가 좋은 학교라고. 칭찬이었어, 빅토르. 그 이상은 아니야.
+Viktor|A2|Ni ska inte prata om min dotter. Inte här och inte någon annanstans.|제 딸 얘기는 하지 마십시오. 여기서도, 다른 어디서도.
+Ekwall|B2|”Ni”? Så formellt helt plötsligt. Det är bara hovmästare och arga människor som säger ni nu för tiden. Vilken av dem är du?|'Ni'라고? 갑자기 왜 이렇게 격식을 차리나. 요즘 'ni'라고 하는 건 웨이터 지배인이랑 화난 사람들뿐인데. 자넨 어느 쪽이지?
+Viktor|A1|Ingen av dem.|어느 쪽도 아닙니다.
+Ekwall|B2|Bra. Då har vi ingenting att bråka om. Sverige är ett litet land, Viktor. Alla känner alla. Det är inget hot — det är geografi.|좋아. 그럼 다툴 일도 없군. 스웨덴은 작은 나라야, 빅토르. 다들 서로 알아. 그건 협박이 아니야. 지리지.
+Viktor|B1|Vi ska skicka nya frågor till Omsorgia, och svaren ska komma skriftligt. Inte över en kopp kaffe.|Omsorgia에 새 질문을 보낼 겁니다. 답은 서면으로 와야 하고요. 커피 한 잔 앞에서가 아니라.
+Ekwall|B2|Du skriver bra, Viktor. Lite för bra ibland. Ta en kaffe med mig, så pratar vi som vuxna människor.|글 잘 쓰더군, 빅토르. 가끔은 너무 잘 써. 커피 한잔하지, 어른답게 얘기해 보자고.
+Viktor|A1|Nej tack.|됐습니다.
+Ekwall|B1|Du behöver inte bestämma dig nu. Jag har inga visitkort, men den som behöver mig brukar hitta mig ändå.|지금 정할 필요는 없어. 난 명함이 없지만, 날 필요로 하는 사람은 어떻게든 날 찾아내더군.
+Viktor|A1|Nej tack.|됐습니다.
+Ekwall|B2|Inte än. Säg förresten till Sofia att jag hoppas att bryggan på Väddö klarade stormen i december. Hon har lagat den själv tre somrar i rad.|아직은 그렇겠지. 그건 그렇고, 소피아에게 전해 줘. 베도 섬 선착장이 12월 폭풍을 잘 버텼길 바란다고. 3년 여름 연속 자기 손으로 고쳤잖아.
+Viktor|A2|Hur känner du Sofia?|소피아는 어떻게 압니까?
+Ekwall|B1|Vi går långt tillbaka, hon och jag. Fråga henne, hon berättar det bättre än jag. Vi ses, Viktor. Det gör vi alltid.|우린 오래된 사이야, 그 사람이랑 나랑. 그 사람한테 물어봐. 나보다 이야기를 더 잘하니까. 또 보지, 빅토르. 늘 그렇게 되더라고.
+Henrik|B1|Viktor? Jag står vid utfarten. En svart Audi har kört fram till lastkajen med motorn igång. Är det din man i grå rock?|빅토르? 나 출구 쪽이야. 검은 아우디 한 대가 시동 건 채 하역장 앞에 섰어. 그 회색 코트가 자네 상대야?
+Viktor|A2|Ja. Han går ut nu. Ta plåten.|응. 지금 나가. 번호판 찍어.
+Henrik|A2|Tre bilder. Han satte sig i baksätet och vinkade åt mig.|세 장 찍었어. 뒷좌석에 앉더니 나한테 손을 흔들더군.
+Amira|A2|Viktor! Vem var det? Du är alldeles vit i ansiktet.|빅토르! 누구였어? 얼굴이 완전히 하얘.
+Viktor|B1|Han vet var Alva går i skolan. Han sa det som om han frågade om vädret.|그 사람, 알바가 어느 학교 다니는지 알아. 날씨 묻듯이 말하더라.
+Amira|A1|Fan.|젠장.
+# 장면 4 — 오후 1시 반, Källaren (어제 떼어 낸 크리스마스 전구 상자, 헨릭의 카메라 속 번호판 사진 세 장, 아미라의 노트북 속 차량 조회 화면)
+Henrik|A2|Här är plåten. Svart Audi, mörka rutor. Och värmen i Volvon är fortfarande trasig.|여기 번호판. 검은 아우디, 짙은 선팅. 그리고 볼보 히터는 아직도 고장이야.
+Amira|B1|Jag kör den i Transportstyrelsens fordonsupplysning. Ägaren är ett leasingbolag, men som brukare står Nordhavn Strategi AB.|교통청 차량 조회에 넣어 볼게. 소유자는 리스 회사인데, 사용자로 Nordhavn Strategi AB가 올라 있어.
+Viktor|A1|Nordhavn?|노르드하븐?
+Amira|B2|En strategi- och PR-byrå. Grundare och ordförande: Magnus Ekwall, född 1967. Han var statssekreterare på Socialdepartementet i fyra år och slutade i maj 2018, bara några veckor innan de nya karensreglerna för höga tjänstemän trädde i kraft. I augusti samma år registrerades Nordhavn.|전략·PR 회사야. 창업자 겸 의장: 마그누스 에크발, 1967년생. 사회부 차관을 4년 하다가 2018년 5월에 그만뒀어. 고위 공직자 이직 심사 규정이 시행되기 딱 몇 주 전이야. 그리고 같은 해 8월에 Nordhavn이 등록됐고.
+Viktor|B1|Så han var med och skrev reglerna för välfärden, och nu säljer han PR till dem som tjänar pengar på den.|그러니까 복지 규칙을 만드는 데 참여했던 사람이, 이제는 그걸로 돈 버는 사람들한테 홍보를 파는 거네.
+Amira|B1|Det kallas svängdörr. Man går ut genom en dörr på departementet och kommer tillbaka genom en annan, som konsult.|그걸 회전문이라고 해. 부처에서 한 문으로 나갔다가, 다른 문으로 컨설턴트가 돼서 돌아오는 거지.
+Henrik|A1|Och kunderna?|고객은?
+Amira|B2|Kundlistan är inte offentlig. Sverige har inget lobbyregister, så en byrå som Nordhavn behöver inte berätta för någon vem den arbetar åt.|고객 명단은 공개 안 돼. 스웨덴엔 로비 등록부가 없어서, Nordhavn 같은 회사는 누구를 위해 일하는지 아무한테도 밝힐 필요가 없어.
+Viktor|A1|Adressen?|주소는?
+Amira|A2|Strandvägen. Ett hus med utsikt över båtarna.|스트란드베겐. 배들이 내려다보이는 건물.
+Viktor|A1|Strandvägen.|스트란드베겐이라.
+Henrik|B1|Du tänker på Tobias Krons sambo, hon som jobbar på en PR-byrå på Strandvägen.|토비아스 크론 동거인 생각하는구먼. 스트란드베겐 PR 회사에서 일한다던 그 여자.
+Amira|B2|Det finns minst trettio byråer på Strandvägen, Viktor. Vi fick aldrig fram vilken byrå Josefin jobbar på, och en gatuadress är inget samband.|스트란드베겐엔 PR 회사가 적어도 서른 개는 있어, 빅토르. 요세핀이 어디서 일하는지는 끝내 못 찾았고, 길 주소 하나로는 연결이 안 돼.
+Viktor|A2|Nej. Men jag skriver upp det.|그래. 그래도 적어 둘게.
+Henrik|B2|Jag har sett honom förut, nu när jag tänker efter. Pressträffar på Rosenbad för tio, femton år sedan: han stod alltid längst bak vid dörren och sa aldrig något i mikrofonen, men efteråt visste alla reportrar precis vad ministern hade menat.|생각해 보니 전에 본 적 있어. 10년, 15년 전 로센바드 기자회견들. 늘 맨 뒤 문가에 서서 마이크엔 한마디도 안 했는데, 끝나고 나면 기자들이 다들 장관이 무슨 뜻으로 한 말인지 정확히 알고 있었지.
+Amira|A2|Det finns nästan inga bilder på honom på nätet. Tre stycken, och alla är gamla.|인터넷에 그 사람 사진이 거의 없어. 세 장인데, 다 오래된 거야.
+Henrik|B2|Han är som sjörök, han där. Syns överallt, men går int att ta på.|저 사람은 바다 안개 같아. 어디서나 보이는데 손에 잡히질 않아.
+Viktor|B1|Och han visste vad jag frågade Solbacka om i måndags. Han visste om lådan.|그리고 내가 월요일에 솔바카에 뭘 물었는지도 알았어. 서랍 얘기까지.
+Amira|B1|Frågorna har han fått av Omsorgia, det är inget konstigt. Och Alvas Instagram var öppen fram till oktober, med skolan taggad. Vem som helst kan ha sparat det.|질문은 Omsorgia한테서 받은 거니까 이상할 거 없어. 그리고 알바 인스타그램은 10월까지 공개였잖아, 학교 태그까지. 누구든 저장해 뒀을 수 있어.
+Henrik|A1|Ring henne.|알바한테 전화해.
+Viktor|A2|Och säga vad? Att en man i grå rock gav mig en komplimang?|그래서 뭐라고 해? 회색 코트 입은 남자가 나한테 칭찬을 했다고?
+Henrik|B1|Säg att du tänker på henne. Hon behöver inte veta varför.|네 생각 하고 있다고 해. 왜인지는 몰라도 돼.
+Sofia|A2|Jag hörde att ni träffade Ulrika Fält i dag.|오늘 울리카 펠트 만났다며.
+Viktor|B1|Vi träffade hennes mening. Den stod först i mejlet och kom sedan ordagrant ur hennes mun.|그 여자 문장을 만났지. 처음엔 메일에 있었고, 그다음엔 토씨 하나 안 틀리고 그 여자 입에서 나왔어.
+Sofia|B2|Så ser det ut när någon annan har skrivit svaret. Och mannen som tog dig åt sidan bakom montern?|다른 누군가가 답을 써 줬을 때 그렇게 보이지. 그리고 부스 뒤에서 자넬 따로 불러낸 남자는?
+Viktor|A1|Magnus Ekwall.|마그누스 에크발.
+Sofia|A1|Jaha.|그래.
+Amira|A2|Känner du honom, Sofia?|그 사람 아세요, 소피아?
+Sofia|B1|Alla i den här staden har träffat Magnus någon gång. Vad sa han?|이 도시 사람이면 누구나 한 번쯤은 마그누스를 만나 봤어. 뭐라고 했어?
+Viktor|B2|Han berömde min text, frågade hur Alva trivs på Bromma gymnasium och hoppades att din brygga på Väddö hade klarat stormen. Han sa det som om han räckte över små presenter, en i taget.|내 기사를 칭찬하고, 알바가 브롬마 고등학교에서 잘 지내는지 묻고, 네 베도 섬 선착장이 폭풍을 버텼길 바란대. 작은 선물을 하나씩 건네듯이 말하더라.
+Sofia|B1|Bryggan klarade sig. Och att jag har ett torp på Väddö är ingen hemlighet.|선착장은 멀쩡해. 그리고 내가 베도 섬에 오두막이 있다는 건 비밀도 아니고.
+Viktor|A2|Hur känner du honom?|그 사람 어떻게 알아?
+Sofia|B1|Han känner alla. Det är hans affärsidé.|그 사람은 모두를 알아. 그게 그 사람 사업 아이디어야.
+Amira|B1|Om de redan städar i bolagen kommer de att lägga locket på innan vi har hunnit skriva en enda rad.|저쪽이 벌써 회사들을 치우고 있으면, 우리가 한 줄 쓰기도 전에 뚜껑을 덮어 버릴 거예요.
+Sofia|B2|Låt dem försöka. Varje ändringsanmälan de skickar in hamnar hos Bolagsverket med datum och klockslag, så de städar bara i sådant som vi redan har sparat.|해 보라고 해. 저쪽이 내는 변경 신고는 전부 날짜와 시각이 찍혀서 볼라그스베르케트에 남아. 그러니까 저쪽은 우리가 이미 저장해 둔 것만 치우는 셈이야.
+Viktor|B1|Vi skickar nya frågor till Omsorgia i dag, med svarsfrist på fredag. Och en fråga till Nordhavn: vilket uppdrag har de för Omsorgia?|오늘 Omsorgia에 새 질문 보낼게. 답변 시한은 금요일. 그리고 Nordhavn에도 하나: Omsorgia를 위해 무슨 일을 맡고 있는지.
+Sofia|B2|Gör det. Omsorgia har rätt att bemöta varje påstående vi tänker publicera, och det är vår skyldighet att ge dem den chansen skriftligt. Men att deras konsult bjuder på kaffe och räknar upp våra familjer, det är något helt annat.|그렇게 해. Omsorgia는 우리가 낼 모든 주장에 반론할 권리가 있고, 서면으로 그 기회를 주는 건 우리 의무야. 하지만 그쪽 컨설턴트가 커피를 권하면서 우리 가족을 하나하나 읊는 건 완전히 다른 문제야.
+Viktor|B1|Han hotade ingen. Han sa bara saker som stämmer.|그 사람 아무도 협박 안 했어. 사실인 말만 했지.
+Sofia|B2|Det är just därför det är skickligt. Ett hot kan man polisanmäla, men en komplimang om din dotters skola kan man inte göra någonting åt, och den gör sitt jobb ändå. Jag skriver in det i hotloggen i alla fall, och jag ringer Ali Haddad i eftermiddag.|바로 그래서 능란한 거야. 협박은 경찰에 신고할 수 있지만, 딸 학교에 대한 칭찬은 어떻게 할 방법이 없어. 그런데도 제 할 일은 다 하지. 그래도 위협 기록엔 적어 둘게. 오후에 알리 하다드 경위한테도 전화하고.
+Henrik|B2|Förr i tiden ringde sådana som han till chefredaktören och bad om en tjänst. Nu behöver de inte ens ringa, det räcker att de visar att de skulle kunna.|옛날엔 저런 사람들이 편집국장한테 전화해서 부탁을 했지. 요즘은 전화할 필요도 없어. 할 수 있다는 걸 보여 주기만 하면 되니까.
+Viktor|A2|Tack. Alva ringer jag själv i kväll. Vänta, någon ringer. Okänt nummer.|고마워. 알바한텐 오늘 밤 내가 직접 전화할게. 잠깐, 전화 온다. 모르는 번호야.
+Amira|A1|Svara. Högtalare.|받아. 스피커로.
+Viktor|A1|Viktor Holm.|빅토르 홀름입니다.
+Ekwall|B1|Viktor, det är Magnus. Ditt nummer står under varje artikel, så du behöver inte undra hur jag fick det.|빅토르, 마그누스야. 자네 번호는 기사마다 밑에 나와 있으니, 어떻게 알았는지 궁금해할 필요는 없어.
+Viktor|A1|Vad vill du?|원하는 게 뭡니까?
+Ekwall|B2|Bara tacka för ett trevligt samtal. Och säg till Henrik att ni inte behövde slå upp bilen, den är leasad genom firman. Fråga mig nästa gång, så slipper han frysa vid utfarten.|즐거운 대화 고마웠다고 말하려고. 그리고 헨릭한테 전해 줘. 차는 조회할 필요 없었다고, 회사 명의 리스 차량이니까. 다음엔 나한테 물어봐. 그럼 출구에서 떨 일도 없을 테니.
+Amira|A1|Han såg honom.|헨릭을 봤어.
+Viktor|A2|Något mer?|더 할 말 있습니까?
+Ekwall|A2|Jag känner din chef, Viktor. Hälsa Sofia från mig.|자네 상사를 알아, 빅토르. 소피아에게 내 안부 전해 줘.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Har du en minut?** | 잠깐 시간 되세요? | 기자가 복도에서 취재원을 붙잡을 때 쓰는 가장 짧은 요청. *en minut*(1분)은 실제 1분이 아니라 "잠깐"이다. 비슷하게 *Har du tid?*(시간 있어?), 더 정중하게는 *Har du möjlighet att …?* |
+| `A2` | **Hon har inte tid i dag.** | 오늘은 시간이 없으세요. | 부정어 *inte*는 주절에서 동사 뒤에: *Hon har inte tid*. 시간 표현 *i dag*(오늘), *i går*(어제), *i morgon*(내일)은 모두 두 단어로 띄어 쓴다 |
+| `B1` | **Vi vill gärna ge Omsorgia möjlighet att svara på våra frågor.** | 저희는 Omsorgia에 저희 질문에 답할 기회를 드리고 싶습니다. | *gärna* = 기꺼이 → *vill gärna*는 "꼭 ~하고 싶다"는 정중한 표현. *ge någon möjlighet att* + 동사원형 = 누구에게 ~할 기회를 주다. 반론권을 제안할 때 기자들이 실제로 쓰는 문장 |
+| `B2` | **Omsorgia välkomnar all granskning, men vi förbehåller oss rätten att bemöta felaktigheter.** | Omsorgia는 모든 검증을 환영하지만, 잘못된 내용에 대해서는 반박할 권리를 유보합니다. | 기업 공보문의 전형. *förbehålla sig rätten att* = ~할 권리를 유보하다(재귀동사). *bemöta* = 반박·대응하다 → 명사 *bemötande*(반론). *granskning* = 검증, 탐사보도 |
+| `B2` | **Sverige är ett litet land. Alla känner alla. Det är inget hot — det är geografi.** | 스웨덴은 작은 나라야. 다들 서로 알아. 그건 협박이 아니야. 지리지. | 에크발의 화법: 짧은 문장 셋으로 위협을 "상식"처럼 포장한다. *inget* = *inte något*(어떤 ~도 아닌), 중성 명사 *hot*(위협) 앞이라 *inget* |
+| 구어 | **Ni ska inte prata om min dotter.** | 제 딸 얘기는 하지 마십시오. | 1960~70년대 *du-reformen* 이후 스웨덴에서는 거의 모두에게 *du*를 쓴다. 그래서 낯선 어른에게 갑자기 *ni*를 쓰면 공손함이 아니라 거리와 분노로 들린다 — 에크발이 "웨이터 지배인이랑 화난 사람들만 ni라고 한다"며 비웃는 이유 |
+| 관용구 | **lägga locket på** | 뚜껑을 덮다 → 쉬쉬하다, 덮어 버리다 | 끓는 냄비에 뚜껑을 덮듯 문제가 밖으로 새지 않게 막는 것. *De försöker lägga locket på.*(그들은 덮어 버리려 한다.) 신문 기사와 제목에서 은폐를 비판할 때 자주 쓴다 |
+| 언론·법 | **svängdörr** | 회전문 | 장관·차관 같은 고위 공직자가 퇴임 뒤 곧바로 PR·로비 업계로 옮겨, 옛 인맥과 내부 지식을 파는 관행. 원래 뜻은 호텔 입구의 회전문 — 한쪽으로 나가자마자 다른 쪽으로 다시 들어온다 |
+
+## 저널리즘·법 메모
+기사 대상에게 답할 기회를 주는 반론권(*bemötande*)은 스웨덴 언론윤리 규칙(*publicitetsregler*)의 핵심 의무다. 비판받는 쪽은 가능하면 같은 기사 안에서, 주장 하나하나를 미리 알고 답할 수 있어야 한다. 그래서 빅토르는 월요일에 서면 질문을 보냈고, "일정상 불가"라는 거절을 받은 뒤에도 공개 질의응답에서 같은 기회를 다시 제안하며, 마지막에는 시한(금요일)을 명시한 새 질문을 보내기로 한다 — 상대가 침묵을 택해도 기회를 준 기록은 남아야 한다. 그러나 반론권은 답할 권리이지 편집을 좌우할 권리가 아니다. 소피아가 선을 긋듯, 기업의 컨설턴트가 기자에게 "어른답게 커피 한잔"을 청하고, 발행책임자의 별장과 기자 딸의 학교를 입에 올리는 것은 반론이 아니라 편집 독립에 대한 압력이다. 협박은 경찰에 신고할 수 있지만 "칭찬"은 그럴 수 없다 — 그래서 Stockholmsposten은 그것을 위협 기록(*hotlogg*)에 남기고 신변보호 담당 경찰에 알리는, 1부에서 만든 절차를 그대로 따른다. 한편 차량 번호로 법인 리스 차량을 확인하고, 법인등기로 Nordhavn의 창업 시점을 맞춰 보는 것은 모두 공개 정보 조회다. 다만 아미라의 말처럼 "같은 길의 주소"는 연결의 증거가 아니라 수첩에 적어 둘 질문일 뿐이다.
+
+## 문화·현안 메모
+- **스톡홀름메산(Stockholmsmässan)과 업계 박람회** — 스톡홀름 남쪽 엘브셰의 대형 전시장. 돌봄·학교·의료 분야의 민간 사업자들이 지자체 구매 담당자를 상대로 부스를 차리는 박람회가 열린다. 스웨덴 복지 서비스의 상당 부분을 민간 업체가 세금으로 운영하기 때문에, 이런 자리는 사실상 "공공조달(*upphandling*) 시장"이기도 하다.
+- **karensregler와 로비 등록부** — 스웨덴은 2018년부터 장관·차관 등 고위 공직자가 퇴임 후 민간으로 옮길 때 심사를 받고 일정 기간(*karenstid*) 특정 업무를 제한받는 법을 시행했다. 그러나 EU 여러 나라와 달리 로비스트와 그 고객을 의무적으로 공개하는 로비 등록부(*lobbyregister*)는 없어, PR·로비 회사의 고객 명단은 대부분 비공개다.
+- **sjörök(바다 안개)** — 한겨울, 영하의 찬 공기가 아직 얼지 않은 따뜻한 바닷물 위를 지날 때 물 위로 연기처럼 피어오르는 김. 발트해 연안과 고틀란드의 겨울 풍경이다. 눈에는 선명하게 보이지만 손을 뻗으면 아무것도 잡히지 않는다 — 헨릭이 에크발을 빗댄 이유.
+- **torp(오두막)** — 원래 소작농의 작은 집을 뜻했지만, 지금은 도시 사람들이 여름을 보내는 시골·바닷가의 작은 별장을 흔히 이렇게 부른다. 소피아의 오두막이 있는 베도(Väddö)는 스톡홀름 북쪽 로슬라겐의 섬이다.
+
+## 다음 화 예고
+> 밖에서 볼 수 있는 건 서류뿐이다. 엘린이 거울 앞에서 베르나모 출신 "제니"가 된다: "Nämen, ja e ju från Värnamo, dä vet väl alla!"
