@@ -10,16 +10,16 @@ Elin|A1|Inese?|이네세?
 Inese|A1|Ja. Vem är du?|네. 누구세요?
 Elin|A2|Jag jobbar med Viktor. Han sitter i ett möte, så han bad mig komma.|빅토르랑 일해요. 회의 중이라 저한테 대신 가 달라고 했어요.
 Inese|B1|Du har ingen skylt. Viktor sa att någon skulle stå här och vänta på mig.|팻말이 없네요. 빅토르는 누가 여기서 저를 기다리고 있을 거라고 했는데.
-Elin|B1|Det var med flit. En skylt med ditt namn är det första som någon annan skulle fotografera.|일부러 그랬어요. 당신 이름이 적힌 팻말은 다른 누군가가 제일 먼저 사진 찍을 물건이니까요.
+Elin|B2|Det var med flit. En skylt med ditt namn vore det första som någon annan skulle fotografera, och då hade vi avslöjat dig redan i ankomsthallen.|일부러 그랬어요. 당신 이름이 적힌 팻말은 다른 누군가가 제일 먼저 사진 찍을 물건이고, 그럼 도착장에서부터 당신을 드러내 버리는 셈이었을 거예요.
 Inese|A2|Okej. Smart. Men how did you know it was me?|그렇군요. 똑똑하네요. 근데 저인 줄 어떻게 알았어요?
 Elin|B1|Viktor sa grön halsduk och bara en väska. Och du tittade bakåt två gånger innan du kom ut genom dörrarna.|빅토르가 초록 목도리에 가방 하나라고 했어요. 그리고 문을 나오기 전에 뒤를 두 번 돌아봤죠.
-Inese|A2|Gjorde jag? Jag märkte det inte ens.|제가요? 저도 몰랐어요.
+Inese|A1|Gjorde jag?|제가요?
 Elin|A1|Är det allt?|짐은 이게 다예요?
-Inese|A2|Ja. Jag stannar bara till söndag.|네. 일요일까지만 있어요.
+Inese|B1|Ja. Jag stannar bara till söndag, eftersom jag måste vara på jobbet på måndag.|네. 월요일엔 출근해야 해서 일요일까지만 있어요.
 Elin|A1|Är du rädd?|무서워요?
 Inese|B1|Ja. Men just nu är jag mer trött än rädd. Jag har inte sovit ordentligt sedan i tisdags.|네. 근데 지금은 무서운 것보다 피곤한 게 더 커요. 화요일부터 제대로 못 잤어요.
 Elin|A2|Du behöver inte prata. Vi tar en taxi, och sen får du sova.|말 안 해도 돼요. 택시 타고, 그다음엔 자요.
-Inese|B1|Jag vill inte sova. Jag vill träffa er jurist innan jag hinner ändra mig.|자고 싶지 않아요. 마음이 바뀌기 전에 당신들 변호사를 만나고 싶어요.
+Inese|B2|Jag vill inte sova. Om jag lägger mig nu är jag rädd att jag vaknar och har ändrat mig, så jag vill träffa er jurist först.|자고 싶지 않아요. 지금 누우면 깨어났을 때 마음이 바뀌어 있을까 봐 무서워요. 그러니까 당신들 변호사부터 만나고 싶어요.
 Elin|B1|Då gör vi så. Lars väntar klockan elva, och hotellet ligger fem minuter från tidningen.|그럼 그렇게 해요. 라르스가 11시에 기다리고 있고, 호텔은 신문사에서 5분 거리예요.
 Inese|A2|Jag betalade biljetten själv. Det är viktigt för mig.|비행기표는 제가 냈어요. 저한텐 중요한 일이에요.
 Elin|A1|Varför då?|왜요?
@@ -31,7 +31,7 @@ Inese|A2|Vad heter du? På riktigt, menar jag.|이름이 뭐예요? 진짜 이�
 Elin|A1|Elin. Bara Elin.|엘린이요. 그냥 엘린.
 Inese|B1|Viktor sa att du är väldigt bra på att vara andra människor.|빅토르가 그러던데, 당신은 다른 사람이 되는 걸 아주 잘한다고요.
 Elin|B1|Ibland. Men i dag behöver jag inte vara någon annan, och det är faktiskt ganska skönt.|가끔요. 근데 오늘은 다른 사람이 안 돼도 돼요. 그게 사실 꽤 좋아요.
-Inese|A2|Det är varmt här. Hemma var det minus femton i morse.|여긴 따뜻하네요. 오늘 아침 집은 영하 15도였어요.
+Inese|B1|Det är varmt här. Hemma var det minus femton när jag gick till bussen i morse.|여긴 따뜻하네요. 오늘 아침 버스 타러 나갈 때 집은 영하 15도였어요.
 Elin|A2|Minus fyra är varmt? Välkommen till Stockholm, då.|영하 4도가 따뜻하다고요? 그럼 스톡홀름에 온 걸 환영해요.
 Inese|B1|Jag bodde i Uppsala när jag var utbytesstudent. Då tyckte jag att det var kallt, men jag visste ingenting.|교환학생 때 웁살라에 살았어요. 그땐 춥다고 생각했는데, 아무것도 몰랐던 거죠.
 Elin|A2|Taxin står där borta. Sätt dig bak, så tar jag väskan.|택시는 저쪽에 있어요. 뒤에 타세요, 가방은 제가 들게요.
@@ -48,15 +48,14 @@ Inese|A2|Och det andra?|그럼 두 번째는요?
 Lars|B2|Det andra är äldre och starkare, nämligen vår grundlag. Den som lämnar uppgifter till svensk press för publicering har ett grundlagsskydd, oavsett vilket land hon kommer ifrån.|두 번째는 더 오래되고 더 강해요. 바로 우리 헌법이죠. 스웨덴 언론에 보도를 위해 정보를 주는 사람은, 어느 나라 출신이든 헌법상 보호를 받습니다.
 Inese|A1|Även jag?|저도요?
 Lars|B1|Även du. Viktor får inte avslöja vem du är, och det gäller även om polisen eller en domstol frågar honom.|당신도요. 빅토르는 당신이 누군지 밝혀선 안 되고, 그건 경찰이나 법원이 물어도 마찬가지예요.
-Viktor|A2|Och jag tänker inte göra det heller.|그리고 나도 그럴 생각 없어요.
 Inese|B1|Men grundlagen gäller i Sverige. Jag bor i Riga, och min arbetsgivare finns också i Riga.|하지만 헌법은 스웨덴에서 적용되잖아요. 저는 리가에 살고, 제 고용주도 리가에 있어요.
 Lars|B2|Precis, och därför behöver du båda skydden. Grundlagen skyddar dig som källa, men den kan inte hindra en arbetsgivare i Riga från att säga upp dig. Där kommer visselblåsarlagen in.|바로 그래서 두 보호가 다 필요한 거예요. 헌법은 취재원인 당신을 지켜 주지만, 리가의 고용주가 당신을 해고하는 걸 막지는 못해요. 거기서 내부고발자 보호법이 들어옵니다.
 Inese|A2|Vad säger den lagen, då?|그럼 그 법은 뭐라고 하는데요?
 Lars|B1|Lagen förbjuder arbetsgivaren att straffa den som slår larm.|그 법은 고용주가 경보를 울린 사람을 처벌하는 걸 금지합니다.
-Sofia|B1|Det kallas repressalier. Uppsägning, omplacering, sänkt lön, att man fryses ut på jobbet – allt det är förbjudet.|그걸 보복 조치라고 해요. 해고, 전보, 임금 삭감, 직장에서 따돌림당하는 것 — 전부 금지예요.
+Sofia|B2|Det kallas repressalier, och begreppet är brett. Uppsägning, omplacering, sänkt lön, att man fryses ut på jobbet – allt det är förbjudet om det sker för att man har slagit larm.|그걸 보복 조치라고 하는데, 범위가 넓어요. 해고, 전보, 임금 삭감, 직장에서 따돌림당하는 것 — 경보를 울렸다는 이유로 일어난다면 전부 금지예요.
 Inese|B1|Omplacering? De flyttade mig i december 2025, från utredningar till kundregistret.|전보요? 2025년 12월에 저를 옮겼어요. 조사 업무에서 고객 등록부로요.
 Lars|A2|Efter dina rapporter?|당신이 신고한 뒤에요?
-Inese|A2|Sju veckor efter den tredje.|세 번째 신고 7주 뒤에요.
+Inese|B1|Sju veckor efter den tredje, och ingen förklarade varför.|세 번째 신고 7주 뒤에요. 아무도 이유를 설명하지 않았어요.
 Lars|B2|Då skriver vi ner det datumet. Om flytten var ett straff för att du slog larm, är det just en sådan repressalie som lagen förbjuder. Men skyddet gäller inte vad som helst – det har villkor.|그럼 그 날짜를 적어 둡시다. 그 전보가 경보를 울린 데 대한 처벌이었다면, 바로 법이 금지하는 보복 조치예요. 하지만 보호가 아무 경우에나 적용되는 건 아니에요. 조건이 있어요.
 Inese|A1|Vilka villkor?|어떤 조건이요?
 Lars|B2|Det ska handla om missförhållanden som du har fått veta om genom ditt arbete, och som det finns ett allmänintresse av att de kommer fram – penningtvätt är just ett sådant område. Och du måste ha haft skälig anledning att tro att uppgifterna var sanna.|일을 통해 알게 된 부정행위여야 하고, 그게 드러나는 데 공익이 걸려 있어야 해요. 자금세탁이 바로 그런 영역이죠. 그리고 그 정보가 사실이라고 믿을 합리적인 이유가 있었어야 합니다.
@@ -64,9 +63,9 @@ Inese|B1|Jag skrev rapporterna själv. Jag vet att de är sanna, eftersom det va
 Lars|B2|Sedan finns det en ordning i tre steg. Först rapporterar man internt, i arbetsgivarens egen kanal. Sedan externt, till en myndighet. Och först i sista hand offentligt – till exempel genom pressen.|그리고 3단계 순서가 있어요. 먼저 고용주 자체 채널에 내부 신고. 그다음 기관에 외부 신고. 그리고 마지막 수단으로 공개 — 예를 들면 언론을 통해서요.
 Viktor|A2|Visa honom mejlen, Inese.|메일 보여 드려요, 이네세.
 Inese|A2|Här. Tre rapporter, i mars, juni och oktober 2025.|여기요. 신고 세 건, 2025년 3월, 6월, 10월.
-Lars|A2|Och vad svarade de?|그쪽에선 뭐라고 답했죠?
+Lars|B1|Och vad svarade de, om de svarade alls?|그쪽에선 뭐라고 답했죠, 답을 하긴 했다면요?
 Inese|B1|Ett enda svar, efter den tredje: ”Ärendet har bedömts och kräver inga ytterligare åtgärder.” Två rader, och ingen underskrift.|딱 한 번, 세 번째 뒤에요. "본 사안은 검토되었으며 추가 조치가 필요하지 않습니다." 두 줄, 서명도 없이요.
-Lars|B1|Enligt lagen ska man få en bekräftelse inom sju dagar och återkoppling inom tre månader. Fick du det efter de två första?|법에 따르면 7일 안에 접수 확인을, 3개월 안에 결과 회신을 받아야 해요. 처음 두 번 뒤에는 받았나요?
+Lars|B2|Enligt lagen ska den som rapporterar få en bekräftelse inom sju dagar och återkoppling inom tre månader, och en bank måste ha en sådan kanal oavsett hur liten den är. Fick du det efter de två första?|법에 따르면 신고한 사람은 7일 안에 접수 확인을, 3개월 안에 결과 회신을 받아야 하고, 은행은 규모와 상관없이 그런 채널을 갖춰야 해요. 처음 두 번 뒤에는 받았나요?
 Inese|A2|Nej. Jag rapporterade det internt, men ingen svarade.|아뇨. 내부에 신고했는데, 아무도 답하지 않았어요.
 Lars|A2|Och sedan? Gick du till någon myndighet?|그다음엔요? 어떤 기관에 갔나요?
 Inese|B1|I mars förra året skrev jag till finanstillsynen i Lettland. Jag fick ett automatiskt svar, och sedan dess har det gått tio månader utan ett ord.|작년 3월에 라트비아 금융감독기관에 썼어요. 자동 답장이 왔고, 그 뒤로 열 달 동안 한마디도 없었어요.
@@ -80,7 +79,7 @@ Lars|B2|Inte helt fel, men inte hela sanningen. Om du hade skälig anledning att
 Inese|B1|Jag hackade ingenting. Jag hade behörighet, och det var mina egna ärenden.|아무것도 해킹 안 했어요. 권한이 있었고, 제 담당 사건들이었어요.
 Lars|B2|Bra. Och en sak till: det är skillnad på att berätta vad man vet och att lämna över bankens egna handlingar. Där är skyddet svagare, både i grundlagen och i visselblåsarlagen, och jag tänker inte låtsas att det är riskfritt.|좋아요. 그리고 하나 더. 아는 걸 말하는 것과 은행의 문서 자체를 넘기는 건 달라요. 거기선 보호가 더 약해요, 헌법에서도 내부고발자 보호법에서도. 위험이 없는 척하지는 않겠습니다.
 Inese|B1|Därför tog jag inte med rapporterna. Bara en lista som jag har skrivit själv – nummer, datum, belopp och bolag.|그래서 보고서는 안 가져왔어요. 제가 직접 쓴 목록만요 — 번호, 날짜, 금액, 회사.
-Viktor|B1|Det räcker. Vi kontrollerar varje rad mot offentliga register, så att artikeln aldrig behöver vila på bankens papper.|그거면 돼요. 한 줄 한 줄 공개 등기부와 대조할게요. 기사가 은행 서류에 기댈 필요가 없도록.
+Viktor|B2|Det räcker. Vi kontrollerar varje rad mot offentliga register, så att artikeln aldrig behöver vila på bankens papper – och så att ingen kan spåra uppgifterna tillbaka till just dina ärenden.|그거면 돼요. 한 줄 한 줄 공개 등기부와 대조할게요. 기사가 은행 서류에 기댈 필요가 없도록 — 그리고 아무도 그 정보를 당신 담당 사건까지 거슬러 추적할 수 없도록.
 Inese|A2|Alla rader? Det är trehundratolv.|전부 다요? 312줄이에요.
 Viktor|B1|Vi börjar med tjugo. Elin, säg tjugo nummer mellan ett och trehundratolv, utan att titta på listan.|스무 줄부터요. 엘린, 목록 보지 말고 1에서 312 사이 숫자 스무 개만 불러 줘.
 Elin|A2|Sju. Fyrtiotvå. Hundraett. Resten skriver jag på en lapp.|7. 42. 101. 나머진 쪽지에 적을게.
@@ -91,17 +90,17 @@ Lars|B1|Under tiden skriver jag en överenskommelse om villkoren: att du är ano
 Viktor|A2|Tjugo av tjugo.|스무 개 중 스무 개.
 Lars|A1|Alla?|전부요?
 Viktor|B1|Alla tjugo bolagen finns i registren, och inget av dem har någon verksamhet. Fyra av dem tillhör de elva som vi hittade i Riga, och betalningarna gick inom tre dagar efter en Nordfast-affär.|스무 개 회사가 전부 등기부에 있고, 그중 어느 것도 실제 영업이 없어요. 넷은 리가에서 찾은 그 열한 곳에 속하고, 송금은 Nordfast 거래 뒤 사흘 안에 나갔어요.
-Inese|A2|Så nu tror ni mig?|그럼 이제 저를 믿어요?
+Inese|B2|Så nu tror ni mig? Eller måste en svensk tidning alltid kontrollera allt två gånger innan den litar på någon från Riga?|그럼 이제 저를 믿어요? 아니면 스웨덴 신문은 리가에서 온 사람을 믿기 전에 늘 모든 걸 두 번씩 확인해야 하나요?
 Viktor|B1|Jag trodde dig redan i tisdags. Nu kan jag bevisa det, och det är en annan sak.|화요일에 이미 믿었어요. 이제 증명할 수 있다는 거고, 그건 다른 얘기예요.
-Lars|A2|Här är överenskommelsen. Läs den i lugn och ro.|여기 합의서예요. 천천히 읽어 보세요.
+Lars|B2|Här är överenskommelsen. Läs den i lugn och ro, och stryk gärna allt som du inte känner dig trygg med innan du skriver under.|여기 합의서예요. 천천히 읽어 보시고, 서명하기 전에 마음이 놓이지 않는 건 얼마든지 지우세요.
 Inese|A2|Jag har läst den. Var ska jag skriva?|읽었어요. 어디에 서명하면 돼요?
 Lars|A1|Längst ner.|맨 아래요.
-Viktor|A2|Vänta. Det är Kristaps. Han ringer med video.|잠깐만요. 크리스탑스예요. 영상통화네.
+Viktor|A1|Vänta. Kristaps ringer.|잠깐만요. 크리스탑스 전화예요.
 Kristaps|A2|Viktor? Är Inese där? Jag är i hennes lägenhet nu.|빅토르? 이네세 거기 있어요? 나 지금 그녀 아파트예요.
-Inese|A2|Jag bad honom mata katten. Runcis.|고양이 밥 좀 주라고 부탁했어요. 룬치스.
+Inese|B1|Jag bad honom mata katten medan jag är borta. Han heter Runcis.|제가 없는 동안 고양이 밥 좀 주라고 부탁했어요. 이름은 룬치스예요.
 Kristaps|A2|Dörren är … broken. Sorry — trasig. Allt ligger på golvet.|문이… 부서졌어요. 미안 — 망가졌어요. 다 바닥에 있어요.
 Viktor|A1|Är du ensam där?|거기 혼자예요?
-Kristaps|A2|Ja. Ingen är här. I think they left long ago.|네. 아무도 없어요. 간 지 오래된 것 같아요.
+Kristaps|A1|Ja. Helt ensam.|네. 완전히 혼자예요.
 Viktor|A2|Rör ingenting. Filma långsamt, ett rum i taget.|아무것도 만지지 마요. 천천히 찍어요, 방 하나씩.
 Kristaps|A2|Okej. Här är hallen. Lampan är sönder, så jag använder telefonen.|오케이. 여기 현관. 전등이 깨져서 휴대폰 불빛을 써요.
 Sofia|A1|Visa låset.|자물쇠 보여 줘요.
@@ -110,11 +109,11 @@ Elin|A1|Ja. Splittrad.|네. 쪼개졌다, 맞아요.
 Kristaps|A2|Nu sovrummet. Alla lådor är utdragna. Kläder överallt.|이제 침실. 서랍이 전부 빠져 있어요. 옷이 사방에.
 Viktor|A1|Byrån. Visa byrån.|서랍장. 서랍장 보여 줘요.
 Kristaps|A2|Smyckeskrinet är öppet. Men ringarna ligger kvar. Ett halsband också.|보석함은 열려 있어요. 근데 반지들은 그대로 있어요. 목걸이도요.
-Lars|B1|En vanlig tjuv tar smycken. Den här personen letade efter något annat.|보통 도둑은 보석을 가져가요. 이 사람은 다른 걸 찾고 있었던 거예요.
-Kristaps|A2|Skrivbordet. Här stod en dator, tror jag. Sladden sitter kvar i väggen.|책상이에요. 여기 컴퓨터가 있었던 것 같아요. 충전선은 벽에 그대로 꽂혀 있고요.
+Lars|B2|En vanlig tjuv hade tagit smyckena först. Den som gjorde det här visste vad han letade efter, och det var inte guld.|보통 도둑이라면 보석부터 가져갔을 거예요. 이걸 한 사람은 자기가 뭘 찾는지 알고 있었고, 그건 금이 아니었어요.
+Kristaps|B1|Skrivbordet. Jag tror att det stod en dator här, för sladden sitter kvar i väggen.|책상이에요. 여기 컴퓨터가 있었던 것 같아요. 충전선이 벽에 그대로 꽂혀 있거든요.
 Elin|A1|Inese?|이네세?
 Kristaps|A2|Och katten lever. Han sitter under sängen och är jättearg.|그리고 고양이 살아 있어요. 침대 밑에서 엄청 화나 있어요.
-Viktor|B1|Ring polisen nu, Kristaps, och låt dem se allt innan du rör något. Och skicka inte filmen till oss den vanliga vägen.|지금 경찰 불러요, 크리스탑스. 뭘 만지기 전에 경찰이 다 보게 하고요. 그리고 영상은 평소 방식으로 보내지 마요.
+Viktor|B2|Ring polisen nu, Kristaps, och låt dem se allt innan du rör något. En polisanmälan kan bli viktigare än vi tror om det här hamnar i domstol, och filmen skickar du inte den vanliga vägen.|지금 경찰 불러요, 크리스탑스. 뭘 만지기 전에 경찰이 다 보게 하고요. 이게 법정까지 가면 경찰 신고서가 생각보다 중요해질 수 있어요. 그리고 영상은 평소 방식으로 보내지 마요.
 Sofia|B2|Inese, du behöver inte bestämma någonting i dag. Överenskommelsen ligger kvar här, och du kan dra dig ur när som helst – även efter att du har skrivit under.|이네세, 오늘 아무것도 결정하지 않아도 돼요. 합의서는 여기 그대로 있고, 언제든 빠질 수 있어요 — 서명한 뒤에라도요.
 Elin|B1|Du stannar på hotellet i helgen, och jag tar rummet bredvid ditt.|주말엔 호텔에 있어요. 제가 바로 옆방 쓸게요.
 Inese|A1|Okej.|네.
@@ -123,8 +122,6 @@ Elin|A2|Två koppar te. Jag lägger påsarna bredvid.|차 두 잔이요. 티백�
 Inese|A2|Tack, Elin. För allt i dag.|고마워요, 엘린. 오늘 전부.
 Elin|B1|Jag sover i rummet bredvid och låter dörren stå på glänt. Knacka i väggen om du behöver något.|저는 옆방에서 자고, 문은 살짝 열어 둘게요. 필요한 거 있으면 벽 두드려요.
 Viktor|A2|Tack. Jag går om en timme.|고마워. 한 시간 뒤에 갈게.
-Elin|A2|Ta inte med boken hem. Sofia vill ha den i kassaskåpet före midnatt.|수첩 집에 가져가지 마. 소피아가 자정 전에 금고에 넣으래.
-Viktor|A1|Jag vet.|알아.
 Inese|A2|Har Kristaps hört av sig igen?|크리스탑스한테서 또 연락 왔어요?
 Viktor|B1|Polisen har varit där. De har skrivit en anmälan och kallar det ett vanligt inbrott.|경찰이 다녀갔어요. 신고서를 작성했고, 평범한 빈집털이라고 하네요.
 Inese|B1|Ett vanligt inbrott där man lämnar guldet och tar en gammal dator. Väldigt vanligt.|금은 두고 낡은 컴퓨터를 가져가는 평범한 빈집털이. 아주 평범하네요.
@@ -133,29 +130,29 @@ Inese|B1|Min mamma, ni och Kristaps. Och min chef – jag bad om ledigt i går, 
 Viktor|B1|Och bilen utanför banken i tisdags. Jag har registreringsnumret i boken, men jag vet fortfarande inte vems bil det var.|그리고 화요일 은행 앞의 그 차. 번호판은 수첩에 있는데, 누구 차인지는 아직 몰라요.
 Inese|A1|Är du rädd?|당신은 무서워요?
 Viktor|B1|Ja. Varje gång någon litar på mig blir jag rädd.|네. 누가 날 믿을 때마다 무서워져요.
-Inese|B1|Varför bryr du dig så mycket? Du kunde ha tagit listan och åkt hem.|왜 그렇게까지 신경 써요? 목록만 받아서 집에 갈 수도 있었잖아요.
-Viktor|A2|Det har hänt förut. Att någon litade på mig.|전에도 그런 일이 있었어요. 누가 날 믿었던 일.
+Inese|B2|Varför bryr du dig så mycket? Du hade kunnat ta listan och åka hem, och ingen hade klandrat dig.|왜 그렇게까지 신경 써요? 목록만 받아서 집에 갈 수도 있었고, 아무도 당신을 탓하지 않았을 거예요.
+Viktor|B2|Det har hänt förut att någon litade på mig, och att jag inte kunde skydda den personen. Det tänker jag inte låta hända igen.|전에도 누가 날 믿었는데, 내가 그 사람을 지키지 못한 일이 있었어요. 그런 일이 다시 일어나게 두지 않을 거예요.
 Inese|B1|I Riga frågade du varför jag pratar nu, efter så många år. Jag svarade inte.|리가에서 왜 이렇게 오랜 뒤에 이제야 말하느냐고 물었죠. 전 대답 안 했어요.
 Viktor|A1|Nej.|그랬죠.
 Inese|B2|Det är dags att lägga korten på bordet. Rapporterna och mejlen – det är mitt jobb. Men det är inte därför jag sitter i ett hotellrum i Stockholm med en trasig dörr hemma.|이제 패를 다 보여 줄 때예요. 보고서랑 메일 — 그건 제 일이에요. 하지만 그것 때문에 집 문이 부서진 채로 스톡홀름 호텔 방에 앉아 있는 건 아니에요.
-Viktor|A2|Jag har tid. Hela natten om det behövs.|시간 있어요. 필요하면 밤새도록.
+Viktor|B2|Jag har tid. Och det du säger i det här rummet stannar här, om du inte själv bestämmer att det ska ut.|시간 있어요. 그리고 이 방에서 하는 말은, 당신이 직접 내보내기로 하지 않는 한 여기 남아요.
 Inese|B1|2019 jobbade jag på huvudkontoret här i Stockholm. Jag var ny och granskade betalningar från våra kunder i Riga.|2019년에 저는 여기 스톡홀름 본사에서 일했어요. 신입이었고, 리가 고객들의 송금을 검토했어요.
 Viktor|A2|Vad såg du?|뭘 봤어요?
 Inese|B2|En betalning från ett lettiskt bolag utan verksamhet till en privatperson i Stockholm. Fyrtiotusen euro, och i meddelandefältet stod det bara ”konsultarvode”.|영업 실체 없는 라트비아 회사에서 스톡홀름의 개인에게 간 송금이요. 4만 유로, 메시지란엔 "컨설팅 보수"라고만 적혀 있었어요.
 Viktor|A2|När var det?|그게 언제였어요?
-Inese|A2|I början av november. Jag minns det, för det snöade för första gången den veckan.|11월 초요. 기억나요, 그 주에 첫눈이 왔거든요.
+Inese|B2|I början av november. Jag minns det eftersom det snöade för första gången den veckan, och jag satt kvar på kontoret långt efter att alla andra hade gått hem.|11월 초요. 기억나요. 그 주에 첫눈이 왔고, 저는 다들 퇴근한 뒤에도 한참 사무실에 남아 있었거든요.
 Viktor|A1|November 2019.|2019년 11월.
 Inese|B1|Jag såg en adress i Stockholm på en betalning. Sedan dess har jag inte kunnat sluta tänka på den.|송금 기록에서 스톡홀름 주소를 봤어요. 그 뒤로 그걸 생각하지 않을 수가 없었어요.
 Viktor|A2|Varför just den adressen?|왜 하필 그 주소예요?
 Inese|B2|För att det inte var ett kontor. Det var en vanlig lägenhet i ett höghus i nordvästra Stockholm. Jag letade upp huset på kartan och tänkte: vem i ett sådant hus får fyrtiotusen euro för konsulttjänster?|사무실이 아니었으니까요. 스톡홀름 북서부 고층 건물의 평범한 아파트였어요. 지도에서 그 건물을 찾아보고 생각했죠. 저런 건물에 사는 누가 컨설팅으로 4만 유로를 받지?
 Viktor|A2|Vad gjorde du då?|그래서 어떻게 했어요?
-Inese|B1|Jag flaggade den. Två dagar senare var ärendet stängt, och min chef sa att det inte var vårt bord.|플래그를 달았어요. 이틀 뒤에 사건이 종결됐고, 상사는 우리 소관이 아니라고 했어요.
+Inese|B2|Jag flaggade den. Två dagar senare var ärendet stängt, och min chef sa att det inte var vårt bord – som om pengar slutar vara någons ansvar så fort de har lämnat banken.|플래그를 달았어요. 이틀 뒤에 사건이 종결됐고, 상사는 우리 소관이 아니라고 했어요 — 돈이 은행을 떠나는 순간 누구의 책임도 아니게 된다는 듯이요.
 Viktor|B1|Minns du vad mottagaren hette? Eller gatan?|받은 사람 이름 기억나요? 아니면 거리는요?
 Inese|B2|Inte namnet. Gatan kanske, om jag fick se den igen. Jag skrev den på en gul lapp som jag sedan slängde, och det har jag ångrat i sju år.|이름은 아니요. 거리는 다시 보면 아마도요. 노란 메모지에 적었다가 버렸는데, 7년 동안 그걸 후회했어요.
 Viktor|B1|Säg det inte till någon annan. Inte ens till Kristaps, inte än.|이 얘긴 다른 사람한테 하지 마요. 크리스탑스한테도, 아직은.
 Inese|B1|Du skrev något i boken nyss. Vad skrev du?|방금 수첩에 뭘 적었잖아요. 뭐라고 적었어요?
 Viktor|B2|Bara ett årtal. Det är ett år som jag själv har skäl att minnas, men det är min historia och inte din, och jag vill inte att den färgar det du berättar.|연도 하나만요. 나 스스로 기억할 이유가 있는 해예요. 하지만 그건 내 이야기지 당신 이야기가 아니고, 그게 당신이 하는 말에 물들지 않았으면 해요.
-Inese|A2|Okej. Då frågar jag inte.|알겠어요. 그럼 안 물을게요.
+Inese|B2|Okej. Då frågar jag inte, även om jag misstänker att vi har mer gemensamt än du vill erkänna.|알겠어요. 그럼 안 물을게요. 우리한테 당신이 인정하고 싶은 것보다 공통점이 더 많은 것 같긴 하지만요.
 Viktor|B2|Och överenskommelsen behöver du inte skriva under i kväll. Även om du åker hem på söndag och aldrig hör av dig igen, skyddar vi dig ändå.|그리고 합의서는 오늘 밤 서명 안 해도 돼요. 일요일에 돌아가서 다시는 연락하지 않더라도, 우린 그래도 당신을 보호해요.
 Inese|B2|I eftermiddags tänkte jag att jag skulle åka hem och försöka glömma alltihop. Men när jag såg Runcis under sängen förstod jag att det redan var för sent att glömma.|오후엔 집에 가서 다 잊어 보자고 생각했어요. 근데 침대 밑의 룬치스를 보고, 잊기엔 이미 늦었다는 걸 알았어요.
 Viktor|A1|Penna?|펜?
@@ -163,3 +160,27 @@ Inese|A2|Ja, tack. Jag skriver under nu.|네, 주세요. 지금 서명할게요.
 Viktor|B1|Vad tänker du på? Du har inte druckit ditt te.|무슨 생각 해요? 차도 안 마셨네요.
 Inese|B1|De tog inte smyckena. De tog bara min gamla dator. Den var tom — men nu vet de att jag pratar.|보석은 안 가져갔어요. 옛 노트북만요. 비어 있었어요 — 하지만 이제 그들은 제가 말한다는 걸 알아요.
 @@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Är du rädd?** | 무서워요? | *rädd* = 무서워하는. 엘린이 공항에서 묻고, 밤에 이네세가 빅토르에게 그대로 되돌려준다. 답은 둘 다 *Ja* — 이 화의 두 질문은 같은 문장이다 |
+| `A2` | **Jag rapporterade det internt, men ingen svarade.** | 내부에 신고했는데, 아무도 답하지 않았어요. | *rapportera* (규칙 동사, 과거형 *-ade*), *internt* = 내부적으로(형용사 *intern*의 부사형 *-t*). *ingen* + 동사 = 아무도 ~하지 않았다 |
+| `B1` | **Lagen förbjuder arbetsgivaren att straffa den som slår larm.** | 법은 고용주가 경보를 울린 사람을 처벌하는 걸 금지한다. | *förbjuda någon att* + 부정사 = 누구에게 ~하는 걸 금지하다. *slå larm* = 경보를 울리다 → 내부고발의 관용 표현. *den som* = ~하는 사람 |
+| `B2` | **Den som lämnar uppgifter till svensk press för publicering har ett grundlagsskydd, oavsett vilket land hon kommer ifrån.** | 스웨덴 언론에 보도를 위해 정보를 주는 사람은, 어느 나라 출신이든 헌법상 보호를 받는다. | *lämna uppgifter* = 정보를 제공하다(*meddelarfrihet*의 핵심 동사). *oavsett* + 의문사절 = ~와 상관없이. *komma ifrån*처럼 전치사가 절 끝으로 간다 |
+| `B1` | **Du har gjort precis det lagen kräver: först internt, sedan till oss.** | 당신은 법이 요구하는 걸 정확히 했어요: 먼저 내부에, 그다음 우리에게. | *det (som) lagen kräver* — 목적어 관계절에서 *som*은 생략할 수 있다. 빅토르가 곧바로 *Och till tillsynen däremellan.*(그 사이에 감독기관에도)를 덧붙이는 이유는 아래 법 메모 참고 |
+| `B2` | **En vanlig tjuv hade tagit smyckena först.** | 보통 도둑이라면 보석부터 가져갔을 것이다. | *hade* + 과거분사 = 사실과 반대되는 가정(과거). *Du hade kunnat ta listan och åka hem, och ingen hade klandrat dig.*(목록만 받아 집에 갈 수도 있었고, 아무도 탓하지 않았을 것)도 같은 틀 |
+| 구어 | **lägga korten på bordet** | 패를 다 보이다, 숨김없이 털어놓다 | 카드 게임에서 온 표현. 이네세: *Det är dags att lägga korten på bordet.* 반대말은 *hålla korten tätt intill kroppen*(패를 몸에 바짝 붙이다 — 속을 안 보이다) |
+| 법 | **repressalier** | 보복 조치 | 내부고발자 보호법이 고용주에게 금지하는 불이익 — 해고, 전보(*omplacering*), 임금 삭감, 따돌림 등. 단수 *en repressalie*. 이네세가 세 번째 신고 7주 뒤 조사 업무에서 밀려난 날짜를 라르스가 굳이 적어 두게 하는 이유다 |
+
+## 저널리즘·법 메모
+스웨덴의 이른바 *visselblåsarlagen* — 정식 명칭 *lagen om skydd för personer som rapporterar om missförhållanden* — 은 EU 내부고발자 지침(2019/1937)을 이행해 2021년 12월 시행됐다. 보호 대상은 일을 통해 알게 된, 공익과 관련된 부정행위(자금세탁처럼 EU 규정이 다루는 영역 포함)를 신고하는 사람이고, 그 정보가 사실이라고 믿을 합리적 이유가 있어야 한다. 신고 경로는 고용주의 내부 채널(일정 규모 이상의 사업장, 그리고 금융업은 규모와 무관하게 의무) → 감독기관 등 외부 채널 → 공개의 순서로 짜여 있다. 내부 채널은 7일 안에 접수를 확인하고 3개월 안에 결과를 회신해야 하며, 외부 신고 뒤에도 기한 안에 합당한 조치가 없을 때(또는 임박한 위험 같은 예외적인 경우) 공개까지 보호된다 — 그래서 라르스는 이네세의 내부 신고 메일만큼이나 라트비아 감독기관에 보낸 외부 신고를 중요하게 본다. 보호의 내용은 보복(*repressalier*)과 신고 방해의 금지, 그리고 조건을 갖춘 신고에 대해 비밀유지 의무 위반 책임을 묻지 않는 것이지만, 정보를 얻으려고 저지른 범죄(예: 무단 접속)는 보호하지 않으며 문서 자체를 넘기는 것은 말로 전하는 것보다 보호가 약하다. 여기에 헌법(TF·YGL)의 *meddelarfrihet*이 나란히 작동한다: 스웨덴 매체에 보도를 위해 정보를 준 사람은 국적과 무관하게 보호되고 기자는 취재원을 밝히지 않을 의무를 진다. 다만 헌법은 리가의 민간 고용주가 그녀를 어떻게 대할지까지는 막지 못한다 — 고용 관계에는 라트비아 법(같은 EU 지침을 이행한)이 적용되므로, 두 보호를 함께 갖춰야 하는 것이다. (작중 설명은 일반 원칙이며, 실제 사안의 판단은 개별 사정에 따라 달라진다.)
+
+## 문화·현안 메모
+- **북유럽 은행의 발트 지점과 내부고발** — 2018년 이후 드러난 북유럽 은행들의 발트 지점 자금세탁 스캔들은 상당수가 내부자 자료와 언론의 국제 공동취재에서 시작됐다. 그 뒤 EU는 내부고발자 지침과 자금세탁방지 패키지, 신설 감독기구 AMLA(2024)로 대응했다. 극중 Östersjöbanken과 리가 매체 *Atklāti*는 허구다.
+- **리가와 스톡홀름의 한 시간** — 라트비아는 스웨덴보다 한 시간 빠르다(동유럽 시간). 비행은 한 시간 남짓이라, 리가에서 아침 비행기를 타면 스톡홀름 시계로는 출발 시각과 거의 같은 시각에 도착한다. 크리스탑스가 고양이 밥을 주러 간 오후 3시는 스톡홀름의 오후 2시다.
+- **Runcis(룬치스)** — 라트비아어로 "수고양이". 스웨덴어로 치면 고양이 이름을 *Katten*이라 지은 셈인, 소박한 라트비아식 작명이다.
+- ⚠️ 이번 화의 Östersjöbanken, Atklāti, Nordfast Fastigheter와 모든 인물은 허구이며, 실존 은행·언론사·인물을 묘사하지 않는다.
+
+## 다음 화 예고
+> 닷새 뒤, 두바이 국제공항 입국 심사대. 엘린이 가짜 결혼반지를 빅토르의 손바닥에 올려놓는다. *"Från och med nu heter du Mats och jag heter Lotta. Glöm inte ringen."*
