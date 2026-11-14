@@ -1,0 +1,186 @@
+@title 2부 2화 — Målvakten
+@subtitle (바지사장)
+@meta 날짜|2026년 1월 9일 금요일 (해는 8시 40분쯤 떠서 3시가 조금 지나면 진다) 오후 1시 반 ~ 저녁 7시경
+@meta 장소|Norrvik 센트룸, 레나 위클룬드의 아파트 부엌 (오후 1시 반) → Norrvik 요양원 Solbacka 3층 공용 거실 창가 (오후 3시) → 같은 층 직원 휴게실 앞 복도와 1층 로비 (오후 3시 40분) → 쿵스홀멘 "Källaren" (저녁 6시 ~ 7시)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Elin** (엘린 셰크비스트, 28, 기자) · **Lena** (레나 위클룬드, 60, 간호조무사, 군나르의 딸) · **Gunnar** (군나르 위클룬드, 92, 전직 전차 운전사, Solbacka 입소자) · **Linnea** (린네아, 20대, Solbacka 요양보호사) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자)
+@intro **지난 이야기** — 제보함의 한 줄을 따라간 노르비크 인두스트리가탄 4번지에는 사람 대신 우편함 마흔여덟 개가 있었다. 그 주소에 등록된 회사는 마흔일곱 곳. 등기를 대조하던 아미라는 그중 한 회사의 대표가 1933년생이고, 치매 요양원에 산다는 것을 찾아냈다.
+@intro 이틀 뒤, 1월 9일 금요일. 아미라는 그 노인 — 군나르 위클룬드 — 의 이름이 회사 열한 곳에 올라 있다는 것을 확인했고, 엘린은 그의 딸 레나에게 전화를 걸었다. 야간 근무를 마치고 몇 시간 눈을 붙인 레나가 노르비크 센트룸의 아파트 문을 연다. 빅토르의 가방 속에는 등기 출력물 열한 장이 들어 있다.
+# 장면 1 — 오후 1시 반, 레나의 부엌 (식탁 위 등기 출력물 11장, 갓 내린 커피, 현관의 입소 서류철)
+Lena|A2|Kom in. Ursäkta röran, jag kom hem från nattpasset klockan sju.|들어오세요. 지저분해서 죄송해요. 야간 근무 끝나고 일곱 시에 들어왔거든요.
+Elin|B2|Tack för att du ville träffa oss. Om du hellre vill sova efter natten kan vi lika gärna komma tillbaka en annan dag.|만나 주셔서 고마워요. 밤새 일하셨으니 주무시고 싶으면, 저희가 다른 날 다시 와도 괜찮아요.
+Lena|B1|Nej, nu när du har ringt vill jag veta. Du lät så allvarlig i telefon i går att jag knappt kunde sova.|아뇨, 전화까지 하셨으니 알고 싶어요. 어제 전화로 너무 심각하게 말씀하셔서 잠도 제대로 못 잤어요.
+Viktor|A1|Får vi sitta?|앉아도 될까요?
+Lena|A2|Sätt er. Kaffet är nybryggt. Vad är det där för papper?|앉으세요. 커피 방금 내렸어요. 그 종이들은 뭐예요?
+Viktor|B1|Det är utskrifter från Bolagsverket. Din pappas namn och personnummer står i elva bolag, och vi tror inte att han vet om det.|볼라그스베르케트 등기 출력물이에요. 아버님 성함과 개인번호가 회사 열한 곳에 올라 있어요. 아버님은 그걸 모르실 거라고 저희는 생각합니다.
+Lena|A1|Elva bolag?|회사 열한 곳이요?
+Elin|B1|Han står som vd i fyra av dem och sitter i styrelsen i resten. I alla elva är han firmatecknare.|그중 네 곳에선 대표로, 나머지에선 이사로 올라 있어요. 그리고 열한 곳 전부에서 서명권자예요.
+Lena|A1|Firmatecknare?|서명권자요?
+Elin|B1|Det betyder att han får skriva under för bolaget. Avtal, fakturor, bankkonton, allt.|회사를 대표해서 서명할 수 있는 사람이라는 뜻이에요. 계약서, 청구서, 은행 계좌, 전부요.
+Lena|A2|Får jag läsa? ”Nordic Omsorgspartner AB. Verkställande direktör: Gunnar Wiklund.”|읽어 봐도 돼요? "노르딕 옴소리스파르트네르 AB. 대표이사: 군나르 위클룬드."
+Viktor|A1|Läs gärna alla.|전부 읽어 보세요.
+Lena|A2|”Omsorgslänken Väst AB.” ”Vårdkraft Mälardalen AB.” ”Trygg Bemanning Norr AB.” Det låter som min arbetsplats.|"옴소리스렌켄 베스트 AB." "보르드크라프트 멜라르달렌 AB." "트뤼그 베만닝 노르 AB." 무슨 우리 직장 이름들 같네요.
+Elin|A2|Var jobbar du?|어디서 일하세요?
+Lena|A2|På lasarettet. Jag är undersköterska, alltid natt.|병원이요. 간호조무사예요. 늘 밤 근무고요.
+Viktor|B1|Det första bolaget registrerades i maj 2023, och sedan kom ett nytt ungefär varannan månad.|첫 번째 회사가 2023년 5월에 등록됐고, 그 뒤로 거의 두 달에 한 곳씩 새로 생겼어요.
+Lena|A2|Pappa? Vd? Han kan inte ens byta kanal på tv:n.|아빠가? 대표? 리모컨 채널도 못 바꾸시는데.
+Elin|A2|Jag förstår att det låter absurt.|말도 안 되게 들리는 거 알아요.
+Lena|B2|Förlåt att jag skrattar. Men om ni hade sett honom i går, när han letade efter glasögonen som satt på näsan, skulle ni också ha skrattat.|웃어서 죄송해요. 근데 어제 아빠를 보셨으면… 안경이 코에 걸려 있는데 안경을 찾고 계셨거든요. 두 분도 웃으셨을 거예요.
+Viktor|A2|Han flyttade till Solbacka 2023?|아버님은 2023년에 솔바카로 들어가셨죠?
+Lena|A2|I mars. Två månader innan … det här.|3월에요. 그러니까 이거… 두 달 전이네요.
+Elin|B1|Någon har använt hans BankID utan att han förstod vad det var. Alla elva bolag registrerades med e-legitimation.|누군가 아버님 BankID를 썼어요. 아버님은 그게 뭔지도 모르신 채로요. 회사 열한 곳 전부 전자신분증으로 등록됐어요.
+Lena|A1|Hans telefon.|아빠 휴대폰.
+Viktor|A1|Var är den?|그게 어디 있어요?
+Lena|B2|Vänta. Pärmen från inflyttningen står i hallen, och där borde alla papper finnas som jag skrev på den veckan, fast jag knappt läste dem.|잠깐만요. 입소할 때 받은 서류철이 현관에 있어요. 그 주에 제가 서명한 서류가 다 거기 있을 거예요. 제대로 읽지도 않고 서명했지만요.
+Elin|A2|Ta den tid du behöver.|천천히 하세요.
+Lena|B2|Här. ”Samtycke till förvaring av mobiltelefon och e-legitimation. Personalen förvarar telefonen för att underlätta kontakten med vården, och den boende får tillgång till den på begäran.”|여기요. "휴대폰 및 전자신분증 보관 동의서. 의료기관과의 연락을 원활히 하기 위해 직원이 휴대폰을 보관하며, 입소자는 요청 시 이를 이용할 수 있다."
+Viktor|A1|Vem skrev under?|누가 서명했어요?
+Lena|A2|Jag. Det är min namnteckning.|저요. 제 서명이에요.
+Elin|B1|De sa säkert att det var för hans skull. Det är inte ditt fel att du litade på dem.|분명 아버님을 위해서라고 했겠죠. 그 사람들을 믿은 건 레나 씨 잘못이 아니에요.
+Lena|B2|Det värsta är att koden stod på en lapp i hans plånbok. Jag skrev den själv, med stora siffror, eftersom han glömde den varje gång han skulle hämta ut sin medicin.|제일 끔찍한 건, 비밀번호가 아빠 지갑 속 쪽지에 적혀 있었다는 거예요. 제가 직접 큰 숫자로 써 드렸어요. 약 타러 가실 때마다 잊어버리셔서.
+Viktor|B1|En sak till. Den här mannen sitter i samma styrelse som din pappa i tre av bolagen. Han är tjugofyra år.|하나 더요. 이 남자가 세 회사에서 아버님과 같은 이사회에 올라 있어요. 스물네 살이에요.
+Elin|A1|Känner du honom?|이 사람 아세요?
+Lena|A2|Nej. Aldrig hört talas om honom. Det är ju helt sjukt!|아뇨. 들어 본 적도 없어요. 완전 말도 안 돼요!
+Viktor|B1|Vi skulle vilja träffa din pappa. Bara om du är med, och bara om du tycker att han orkar.|아버님을 뵙고 싶어요. 레나 씨가 함께 계실 때만, 그리고 아버님이 감당하실 수 있다고 생각하실 때만요.
+Lena|B1|Klockan tre dricker de kaffe där. Då är han som piggast, innan mörkret kommer och han blir orolig.|거기서 세 시에 커피 시간이에요. 그때가 제일 기운이 좋으세요. 어두워지면 불안해하시니까, 그 전에요.
+# 장면 2 — 오후 3시, Solbacka 3층 공용 거실 창가 (블랙커피, 시나몬 롤, 창밖으로 지는 겨울 해)
+Gunnar|A1|Lena! Är det söndag?|레나! 오늘 일요일이냐?
+Lena|A2|Nej, pappa, det är fredag. Du har besök. Det här är Viktor och Elin.|아뇨, 아빠, 금요일이에요. 손님 왔어요. 이쪽은 빅토르, 이쪽은 엘린이에요.
+Elin|A1|Hej, Gunnar. Jag heter Elin.|안녕하세요, 군나르 할아버지. 저는 엘린이에요.
+Gunnar|A2|Elin. Fint namn. Och du, vad heter du?|엘린. 예쁜 이름이구먼. 그리고 자네는, 이름이 뭔가?
+Viktor|A1|Viktor.|빅토르입니다.
+Gunnar|A2|Viktor. Sätt dig här vid fönstret.|빅토르. 여기 창가에 앉게.
+Lena|B1|Vi har med oss kanelbullar från bageriet vid torget, de som du alltid säger är för små.|광장 옆 빵집에서 시나몬 롤 사 왔어요. 아빠가 맨날 너무 작다고 하시는 그거요.
+Gunnar|A2|Bra. Kaffet här smakar disktrasa.|좋아. 여기 커피는 행주 맛이 나.
+Elin|A2|Vill du ha mjölk i kaffet?|커피에 우유 넣어 드릴까요?
+Gunnar|A1|Svart. Alltid svart.|블랙. 언제나 블랙.
+Lena|A2|Pappa körde spårvagn i fyrtio år.|아빠는 40년 동안 전차를 모셨어요.
+Gunnar|A2|Sjuan. Jag körde sjuan.|7번. 나는 7번을 몰았지.
+Viktor|A1|Vart gick den?|어디까지 갔어요?
+Gunnar|A2|Från Norrmalmstorg. Sen Nybroplan … Strandvägen … Djurgårdsbron …|노르말름스토리에서. 그다음 뉘브로플란… 스트란드베겐… 유르고르스브론…
+Elin|A1|Och sen?|그다음엔요?
+Gunnar|A1|Sen … sen …|그다음… 그다음…
+Lena|B1|Han brukar fastna där. Förr kunde han rabbla alla hållplatser på tio sekunder, fram och tillbaka.|늘 거기서 막히세요. 예전엔 정류장을 10초 만에 줄줄 외우셨는데. 갈 때 올 때 다요.
+Gunnar|A2|Sjuan … ut till Djurgården. Vad sa du att du hette?|7번… 유르고르덴까지. 이름이 뭐라고 했지?
+Viktor|A1|Viktor.|빅토르요.
+Gunnar|B1|Viktor. På sommaren var vagnen full av folk som skulle till Skansen, och barnen ville alltid stå längst fram hos mig.|빅토르. 여름이면 전차가 스칸센 가는 사람들로 꽉 찼지. 애들은 늘 맨 앞, 내 옆에 서고 싶어 했고.
+Elin|A2|Fick de det?|서게 해 주셨어요?
+Gunnar|A2|Om de var tysta. Jag lät dem ringa i klockan.|조용히 하면. 종도 치게 해 줬지.
+Lena|B2|När de lade ner linjerna i stan 1967 körde han Lidingöbanan i stället. Han sa att högertrafiken tog hans sjua, och det har han aldrig förlåtit.|1967년에 시내 노선들이 없어지자 대신 리딩외 선을 모셨어요. 우측통행이 자기 7번을 빼앗아 갔다고, 그건 지금까지 한 번도 용서 안 하셨죠.
+Viktor|B1|Gunnar, har du skrivit på några papper på sistone? Något om bolag?|군나르 씨, 최근에 서류에 서명하신 적 있으세요? 회사에 관한 거요.
+Gunnar|A1|Papper? Nej.|서류? 아니.
+Lena|A2|Pappa, var är din telefon?|아빠, 휴대폰 어디 있어요?
+Gunnar|B1|Flickan tar den på kvällen. Hon är snäll. Ibland lyser den på natten, där ute i korridoren.|아가씨가 저녁에 가져가. 착한 애야. 가끔 밤에 그게 빛나, 저기 복도에서.
+Viktor|A2|Tack, Gunnar. Nu frågar jag inte mer.|고맙습니다, 군나르 씨. 이제 더 안 여쭐게요.
+Elin|A1|Viktor?|빅토르?
+Viktor|B2|Det han säger kan vi aldrig använda som bevis, och om vi pressar honom är det vi som utnyttjar honom. Resten får papperen visa.|저분 말씀은 절대 증거로 못 써. 그리고 몰아붙이면 그땐 우리가 저분을 이용하는 거야. 나머진 서류가 보여 줘야 해.
+Gunnar|A2|Vad viskar ni om? Är det något fel på vagnen?|뭘 속닥거려? 전차에 무슨 문제라도 있나?
+Elin|B1|Nej, vagnen går fint. Min mormor sjöng alltid en visa när hon stickade. Kan du den här? ”Uti vår hage …”|아뇨, 전차는 잘 가요. 우리 외할머니가 뜨개질하실 때 늘 부르시던 노래가 있어요. 이거 아세요? "우리 목장엔…"
+Gunnar|A2|”… där växa blå bär.” Klart jag kan den!|"…파란 열매가 자라네." 당연히 알지!
+Elin|A1|”Kom hjärtans fröjd!”|"오라, 내 마음의 기쁨이여!"
+Gunnar|A1|Du sjunger fint.|노래 잘하네.
+Lena|B1|Han skrattar. Det har han inte gjort sedan i julas, inte ens när barnbarnen var här.|웃으시네요. 크리스마스 이후로 처음이에요. 손주들 왔을 때도 안 웃으셨는데.
+Elin|B2|Mormor dog för fyra år sedan, och de sista åren kände hon bara igen sångerna, inte oss. Jag har inte tänkt på det på länge.|외할머니는 4년 전에 돌아가셨어요. 마지막 몇 년은 노래만 알아보시고 저희는 못 알아보셨죠. 오랫동안 그 생각을 안 했네요.
+Gunnar|A1|Och du där. Vad heter du?|그리고 거기 자네. 이름이 뭔가?
+Viktor|A2|Viktor. Jag heter Viktor, Gunnar.|빅토르요. 빅토르라고 합니다, 군나르 씨.
+Elin|A2|Jag måste gå på toaletten. Var ligger den?|저 화장실 좀 다녀올게요. 어디 있어요?
+Lena|A2|Längst bort i korridoren, förbi personalrummet.|복도 맨 끝이에요. 직원 휴게실 지나서요.
+# 장면 3 — 오후 3시 40분, Solbacka 직원 휴게실 앞 복도 → 1층 로비 (열린 서랍 속 이름표 붙은 휴대폰들, 높이 걸린 현판)
+Linnea|A2|Hej! Letar du efter någon?|안녕하세요! 누구 찾으세요?
+Elin|A2|Toaletten. Och jag behöver nog en kopp kaffe till.|화장실이요. 그리고 커피도 한 잔 더 필요할 것 같아요.
+Linnea|B1|Ta från personalrummet, vårt kaffe är bättre än det som de boende får. Säg inget.|휴게실에서 가져가세요. 저희 커피가 입소자분들 거보다 나아요. 비밀이에요.
+Elin|A1|Tack. Jag heter Elin.|고마워요. 저는 엘린이에요.
+Linnea|A2|Linnea. Du var med Gunnars dotter, va? Jag hörde att han sjöng.|린네아예요. 군나르 할아버지 따님이랑 오셨죠? 할아버지가 노래하셨다면서요.
+Elin|B1|Ja, vi sjöng tillsammans. Han är fin, Gunnar. Jobbar du här varje dag?|네, 같이 불렀어요. 좋은 분이세요. 여기서 매일 일하세요?
+Linnea|B2|Fem dagar i veckan. Jag pluggar till sjuksköterska på kvällarna, och om jag tog nätter också skulle jag nog somna mitt i en tenta.|일주일에 닷새요. 저녁엔 간호사 공부를 해서요. 밤 근무까지 하면 아마 시험 보다가 잠들 거예요.
+Elin|A1|Vad är det där?|그건 뭐예요?
+Linnea|A2|Det där? Telefonerna. De boendes telefoner.|저거요? 휴대폰이요. 입소자분들 휴대폰.
+Elin|B1|Med namnlappar på allihop. Hur många är det?|전부 이름표가 붙어 있네요. 몇 개나 돼요?
+Linnea|B1|Säkert tjugo. Vi laddar dem här och ger dem till de boende när de vill ringa sina barn.|스무 개는 될걸요. 여기서 충전했다가, 입소자분들이 자녀분께 전화하고 싶어 하시면 드려요.
+Elin|A1|Gör ni så för alla?|모두에게 그렇게 해요?
+Linnea|A2|Det gör vi för alla. Det står i inflyttningspappren.|모두에게 그래요. 입소 서류에 다 나와 있어요.
+Elin|B1|Skriver ni upp vem som tar ut en telefon, och när?|누가 언제 휴대폰을 꺼내 가는지 적어 두세요?
+Linnea|A1|Skriver upp?|적어 둬요?
+Elin|B1|Ja, en lista. Om en telefon försvinner måste ni väl kunna se vem som hade den sist.|네, 목록이요. 휴대폰이 없어지면 마지막에 누가 갖고 있었는지 알 수 있어야 하잖아요.
+Linnea|B1|Lådan är låst. Nyckeln sitter på chefens knippa, och nattpersonalen har en egen.|서랍은 잠겨 있어요. 열쇠는 원장님 열쇠 꾸러미에 있고, 야간 근무자들한테 따로 하나 있어요.
+Elin|A2|Och BankID? Använder ni det åt dem?|그럼 BankID는요? 그분들 대신 쓰세요?
+Linnea|B1|Ibland, när någon ska logga in på 1177 eller hämta ut medicin. Det är inget konstigt. Vänta, varför frågar du om det?|가끔요. 누가 1177에 로그인하거나 약을 타야 할 때요. 이상한 거 아니에요. 잠깐만요, 그건 왜 물으세요?
+Elin|B1|För att jag är journalist. Jag jobbar på Stockholmsposten, och jag är här med Lena och hennes tillåtelse.|제가 기자라서요. 스톡홀름스포스텐에서 일하고, 레나 씨 허락을 받고 같이 왔어요.
+Linnea|A1|Journalist?|기자요?
+Elin|B2|Jag borde ha sagt det direkt, och det är jag ledsen för. Du har inte gjort något fel, men jag måste vara ärlig om vem jag är innan du säger något mer.|처음부터 말했어야 했는데, 미안해요. 린네아 씨는 잘못한 거 하나도 없어요. 그래도 뭘 더 말씀하시기 전에 제가 누군지는 솔직히 밝혀야 해서요.
+Linnea|A2|Annars tappar de bort dem. Fråga chefen om du vill veta mer.|안 그러면 잃어버리시거든요. 더 알고 싶으면 원장님께 물어보세요.
+Elin|A2|Är chefen här i dag?|원장님 오늘 계세요?
+Linnea|A2|Hon har gått för dagen. Det är fredag. Jag måste jobba nu.|퇴근하셨어요. 금요일이잖아요. 저 이제 일해야 해요.
+Elin|B2|Jag förstår. Men om du någon gång vill prata har du rätt att göra det, och din chef får inte ens försöka ta reda på vem som har pratat.|이해해요. 그래도 언젠가 얘기하고 싶어지면, 그럴 권리가 있어요. 원장님은 누가 얘기했는지 알아내려고 시도조차 하면 안 되고요.
+Linnea|A1|Jag vet inte.|모르겠어요.
+Elin|A2|Här är mitt nummer. Du behöver inte göra något med det.|제 번호예요. 아무것도 안 하셔도 돼요.
+Viktor|A2|Elin? Lena väntar vid hissen. Vad hände?|엘린? 레나 씨가 엘리베이터 앞에서 기다려. 무슨 일이야?
+Elin|B2|Telefonerna ligger i en låst låda i personalrummet, med namnlappar, och nattpersonalen har en egen nyckel. Sedan sa jag vem jag var, och då tog samtalet slut.|휴대폰은 직원 휴게실의 잠긴 서랍에 있어요. 이름표 붙여서요. 그리고 야간 근무자들한테 열쇠가 따로 있대요. 그다음에 제가 누군지 밝혔더니, 대화가 끝났어요.
+Viktor|A2|Bra. Du sa sanningen.|잘했어. 사실대로 말했잖아.
+Elin|B2|Men hon är kanske tjugotre och pluggar på kvällarna. Om hennes chef får veta att hon pratade med mig, är det hon som får betala, inte de som har nyckeln.|근데 그 사람 많아야 스물셋이고 저녁엔 공부해요. 원장이 저랑 얘기한 걸 알면 대가를 치르는 건 그 사람이에요. 열쇠 가진 사람들이 아니라.
+Viktor|B1|Därför skriver vi inte hennes namn, och vi skickar våra frågor till chefen skriftligt på måndag. Då är det Solbacka som får svara, inte Linnea.|그래서 이름은 안 쓰고, 월요일에 원장한테 서면으로 질문을 보낼 거야. 그럼 대답하는 건 솔바카지, 린네아가 아니야.
+Elin|A2|Vänta. Jag vill ta en bild av skylten i entrén.|잠깐요. 로비 현판 사진 하나 찍을게요.
+Viktor|A1|Varför?|왜?
+Elin|B1|Skylten sitter högt, och texten under namnet är pytteliten. Jag zoomar in sen, när Lena inte står och väntar på oss.|현판이 높이 걸려 있고, 이름 밑 글씨가 엄청 작아요. 나중에 확대해 볼게요. 레나 씨가 저희 기다리고 있지 않을 때요.
+# 장면 4 — 저녁 6시, Källaren (서명 시각과 Solbacka 일과표를 겹친 아미라의 표, 레나와의 스피커폰, 엘린의 휴대폰 속 현판 사진)
+Amira|B1|Äntligen. Det är fredag, så någon har säkert tömt lådorna i Norrvik i dag medan ni satt på ett äldreboende.|드디어. 금요일이니까, 너희가 요양원에 앉아 있는 동안 누가 노르비크 우편함 비웠겠지.
+Viktor|B2|Låt honom tömma dem. Om vi stod där med en kamera skulle han förstå direkt vem som hade pratat, och Kjell har verkstaden vägg i vägg.|비우라고 해. 우리가 카메라 들고 거기 서 있으면 누가 입을 열었는지 바로 알 거야. 셸 정비소가 바로 벽 하나 건너야.
+Amira|B1|Okej, okej. Bolagsverket skickade ärendehandlingarna för alla elva registreringar i eftermiddag. Varje anmälan är signerad med BankID, och varje signatur har en tidpunkt.|알았어, 알았어. 볼라그스베르케트가 오후에 등록 열한 건의 사건 서류를 전부 보내 줬어. 신고서마다 BankID로 서명돼 있고, 서명마다 시각이 찍혀 있어.
+Elin|B2|Lena gav mig en kopia av Solbackas dagsrytm, som hade legat bortglömd i inflyttningspärmen: kvällsfika halv nio, och klockan tio lämnar dagpersonalen över till natten.|레나 씨가 솔바카 일과표 사본을 줬어요. 입소 서류철에 잊힌 채 들어 있던 거예요. 저녁 간식 8시 반, 그리고 10시에 주간 근무자가 야간 근무자한테 넘기고요.
+Amira|B2|Då lägger vi dem på varandra. Sex av elva signaturer gjordes efter klockan elva på kvällen, alltså när dagpersonalen hade gått och de boende sov. Den senaste kom tio över ett på natten.|그럼 둘을 겹쳐 보자. 열한 건 중 여섯 건이 밤 11시 이후에 서명됐어. 주간 근무자들은 퇴근하고 입소자들은 자고 있을 때. 제일 늦은 건 새벽 1시 10분이야.
+Viktor|A1|Och de andra fem?|나머지 다섯 건은?
+Amira|B1|Vardagar mitt på dagen. Och Lena har gått igenom sin almanacka med Elin: inte en enda signatur gjordes medan hon var där.|평일 한낮. 그리고 레나 씨가 엘린이랑 다이어리를 확인했는데, 레나 씨가 면회 와 있던 동안 서명된 건 한 건도 없어.
+Elin|B1|Gunnar sa att telefonen lyser i korridoren på nätterna. Det är ju exakt det här.|군나르 할아버지가 밤에 복도에서 휴대폰이 빛난다고 하셨어요. 바로 이거잖아요.
+Viktor|B2|Det är exakt det här, men vi kan inte skriva det. En man med demens som minns ett ljus i korridoren är inget vittne, och den som försöker göra honom till ett utnyttjar honom en gång till.|바로 이거지. 근데 그건 못 써. 복도의 불빛을 기억하는 치매 노인은 증인이 아니야. 그분을 증인으로 만들려는 사람은 그분을 한 번 더 이용하는 거고.
+Sofia|A2|God kväll. Jag hörde att ni har en tabell.|좋은 저녁. 표가 있다며.
+Amira|B1|Elva bolag och sex signaturer mitt i natten, när alla boende sov. Titta.|회사 열한 곳에, 입소자들이 다 자던 한밤중 서명 여섯 건이요. 보세요.
+Sofia|B2|Tabellen är stark, eftersom den bygger på allmänna handlingar och inte på vad någon minns. Men den visar när, inte vem. Vem som helst med telefonen och koden kan ha suttit i den korridoren.|표는 강해. 누가 기억하는 게 아니라 공문서에 기반하니까. 하지만 이건 '언제'를 보여 주지 '누가'를 보여 주진 않아. 폰이랑 비밀번호만 있으면 누구라도 그 복도에 앉아 있었을 수 있어.
+Viktor|B1|Därför skickar vi skriftliga frågor till Solbacka och till kommunen som köper platserna. Vem har nyckeln till lådan, och förs det någon logg?|그래서 솔바카랑, 거기 자리를 사는 시에 서면 질문을 보낼 거야. 서랍 열쇠는 누가 갖고 있는지, 기록은 남기는지.
+Sofia|A1|Och bilden?|그럼 사진은?
+Elin|B2|Jag tycker att vi ska visa honom. Om läsarna bara får ”en 92-årig man” blir han en siffra till i en tabell, och då bryr sig ingen.|저는 할아버지를 보여 줘야 한다고 생각해요. 독자들한테 '92세 남성'만 주면 표 속 숫자 하나가 될 뿐이고, 그럼 아무도 신경 안 써요.
+Viktor|B2|En människa som inte längre kan föra sin egen talan får inte bli en kuliss i vår berättelse.|더는 스스로를 대변할 수 없는 사람이 우리 이야기의 배경 소품이 돼선 안 돼.
+Elin|B1|Men han sjöng ju med mig i dag. Han ville att någon skulle lyssna.|그래도 오늘 저랑 노래하셨잖아요. 누가 들어 주길 원하셨어요.
+Viktor|B2|Han ville sjunga. Han vet inte att vi är journalister, och även om vi förklarade det skulle han ha glömt det innan vi var ute ur hissen.|노래하고 싶으셨던 거지. 우리가 기자란 것도 모르시고, 설명해 드려도 엘리베이터에서 내리기 전에 잊어버리셨을 거야.
+Elin|B1|Men Lena sa ja till att vi kom, och hon satt bredvid honom hela tiden.|그래도 레나 씨가 우리가 오는 걸 허락했고, 내내 할아버지 옆에 앉아 계셨어요.
+Sofia|B2|Samtycke från dottern räcker inte om bilden ändå gör honom till ett skämt.|딸의 동의가 있어도, 사진이 그를 웃음거리로 만든다면 충분하지 않아.
+Amira|B2|Ett skämt? Den som läser om en lurad gammal man borde väl bli arg, inte skratta, om vi skriver det ordentligt.|웃음거리요? 우리가 제대로 쓰면, 속은 노인 이야기를 읽은 사람은 웃는 게 아니라 화가 나야 정상이잖아요.
+Sofia|B2|Rubriken skriver sig själv: ”Dement 92-åring är vd för elva bolag.” Folk delar den för att den är rolig, inte för att den är upprörande, och det är hans ansikte de skrattar åt.|제목이 저절로 써져. '치매 92세, 회사 열한 곳 대표.' 사람들은 분노해서가 아니라 웃겨서 그걸 공유할 거고, 그때 사람들이 비웃는 건 그분 얼굴이야.
+Viktor|B1|Vi ringer Lena. Det är hennes pappa, och hon ska höra det från oss innan vi bestämmer något.|레나 씨한테 전화하자. 그분 아버지니까, 우리가 뭘 정하기 전에 우리한테서 직접 들어야 해.
+Lena|B1|Hallå? Jag sitter i bilen utanför jobbet, så jag har bara några minuter innan passet börjar.|여보세요? 직장 앞 차 안이에요. 근무 시작 전이라 몇 분밖에 없어요.
+Elin|B1|Det är Elin. Hela gruppen är här, och du är på högtalare. Vi vill fråga hur du vill att vi skriver om din pappa.|엘린이에요. 팀 전원이 여기 있고, 스피커폰이에요. 아버님에 대해 어떻게 써 주길 원하시는지 여쭤보려고요.
+Lena|B2|Jag har tänkt på det hela vägen. Skriv om det som har hänt, för andra måste få veta, men gör inte pappa till ett skämt. Inget namn och inget ansikte.|오는 내내 생각했어요. 일어난 일은 쓰세요. 다른 사람들도 알아야 하니까. 하지만 아빠를 웃음거리로 만들지는 마세요. 이름도, 얼굴도 안 돼요.
+Sofia|B1|Det lovar jag. Han blir ”en 92-årig man”, och du blir inte heller namngiven.|약속할게요. 아버님은 '92세 남성'이 되고, 레나 씨 이름도 나오지 않을 거예요.
+Lena|B1|Hans händer får ni fotografera. Och mössan från spårvägen, den hänger fortfarande på kroken i hans rum.|아빠 손은 찍으셔도 돼요. 그리고 전차 모자요. 아직 방 옷걸이에 걸려 있어요.
+Viktor|B2|Tack, Lena. En sak till, och den är viktigare än artikeln: om du vill spärra hans BankID i kväll, så gör det. Vänta inte för vår skull.|고마워요, 레나 씨. 하나 더요. 기사보다 중요한 거예요. 오늘 밤 아버님 BankID를 정지하고 싶으시면 그렇게 하세요. 저희 때문에 기다리지 마세요.
+Lena|B1|Spärrtjänsten har öppet dygnet runt. Jag ringer så fort vi har lagt på.|정지 신고는 24시간 돼요. 이 전화 끊자마자 걸게요.
+Amira|B2|Då vet de att något har hänt, Viktor. Om BankID slutar fungera i natt kan den som har telefonen börja städa redan i helgen.|그럼 저쪽도 뭔가 일어났다는 걸 알게 돼, 빅토르. 오늘 밤 BankID가 안 되면, 폰 가진 놈이 이번 주말부터 치우기 시작할 수 있어.
+Sofia|B2|Det får de göra. Bolagsverkets handlingar försvinner inte för att någon städar en låda, och en artikel som kräver att en gammal man fortsätter att utnyttjas är inte värd att publicera.|치우라지. 누가 서랍을 치운다고 볼라그스베르케트 서류가 사라지진 않아. 그리고 노인이 계속 이용당해야 성립하는 기사라면, 낼 가치가 없어.
+Elin|A1|Vänta.|잠깐만요.
+Amira|A1|Vad?|뭔데?
+Elin|B1|Skylten i entrén. Jag har inte hunnit titta på bilden, men nu zoomar jag in på texten under namnet.|로비 현판이요. 아직 사진을 못 봤는데, 지금 이름 밑 글씨를 확대해 볼게요.
+Viktor|A1|Läs.|읽어.
+Elin|A2|Solbacka vård och omsorg — en del av Omsorgia.|솔바카 요양원 — Omsorgia의 일원.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Känner du honom?** | 이 사람 아세요? | *känna* = (사람을) 알다. 사실·정보를 아는 것은 *veta*: *Jag vet inte.*(모르겠어요). 사람·장소에는 *känna*, 사실에는 *veta* — 레나의 대답 *Aldrig hört talas om honom*(들어 본 적도 없어요)의 *höra talas om* = ~에 대해 듣다 |
+| `A2` | **Pappa körde spårvagn i fyrtio år.** | 아빠는 40년 동안 전차를 모셨어요. | 과거형 *körde*(← *köra*). 기간을 말할 때는 *i* + 시간: *i fyrtio år*(40년 동안). "~ 전에"는 *för … sedan*: *för fyra år sedan*(4년 전에) — 엘린의 할머니 이야기 |
+| `A2` | **Annars tappar de bort dem.** | 안 그러면 잃어버리시거든요. | *tappa bort* = 잃어버리다(분리 동사, 강세는 *bort*). *annars* = 그렇지 않으면 — 문장 앞에 오면 V2 어순으로 동사가 바로 뒤에: *Annars tappar de …* |
+| `B1` | **Någon har använt hans BankID utan att han förstod vad det var.** | 누군가 그의 BankID를 썼어요. 그는 그게 뭔지도 모른 채로요. | 현재완료 *har använt*(썼다 — 결과가 지금까지 남아 있음). *utan att* + 절 = ~하지 않은 채. 간접의문문 *vad det var*는 평서문 어순 |
+| `B2` | **En människa som inte längre kan föra sin egen talan får inte bli en kuliss i vår berättelse.** | 더는 스스로를 대변할 수 없는 사람이 우리 이야기의 배경 소품이 돼선 안 돼. | *föra sin (egen) talan* = 자기 입장을 스스로 대변하다(법정 용어에서 온 표현). *kuliss* = 무대 배경. 관계절 안의 *inte längre*는 동사 앞에 온다: *som inte längre kan* |
+| `B2` | **Samtycke från dottern räcker inte om bilden ändå gör honom till ett skämt.** | 딸의 동의가 있어도, 사진이 그를 웃음거리로 만든다면 충분하지 않아. | *göra någon till något* = 누구를 ~로 만들다. *räcka* = 충분하다. *ändå* = 그래도, 결국 — 동의가 있어도 결과가 같다면 |
+| 구어 | **Det är ju helt sjukt!** | 완전 말도 안 돼! | *sjuk*(아픈)가 구어에서 "미친, 말도 안 되는"의 뜻. 젊은 층은 좋은 뜻으로도 쓴다(*sjukt bra* = 미치게 좋다). *ju*는 "알다시피, 정말" 같은 공감을 구하는 작은 말 |
+| 언론·법 | **firmatecknare** | 회사 서명권자 | 회사를 대표해 계약·청구서·은행 업무에 서명할 권한이 있는 사람. Bolagsverket 등기에 누구나 볼 수 있게 기록된다. 바지사장(*målvakt*)은 흔히 이 자리에 이름만 올려진다 |
+
+## 저널리즘·법 메모
+스웨덴 언론윤리 규칙(*publicitetsregler*)은 사생활을 존중하고, 특히 스스로 동의할 능력이 없는 사람을 보호하라고 요구한다. 군나르의 경우 딸 레나의 동의는 출발점일 뿐 충분조건이 아니다 — 소피아의 말처럼 동의가 있어도 기사가 그를 "웃음거리"로 만든다면 해를 끼치는 것이고, 그래서 그는 실명·얼굴 없이 "92세 남성"으로만, 손과 전차 모자로만 등장하게 된다. 같은 이유로 치매 노인의 "복도의 불빛" 기억은 증거가 될 수 없고, 팀은 대신 Bolagsverket에 공문서로 청구한 등록 서류의 서명 시각이라는 *allmänna handlingar*에 기댄다 — 다만 그것은 "언제"를 보여 줄 뿐 "누가"를 보여 주지는 않는다. 엘린은 요양보호사에게 신분을 밝혔고, 세금으로 운영되는 민간 돌봄 시설 종사자도 *meddelarskydd*(제보자 보호)를 가지므로 원장은 누가 언론과 말했는지 캐낼 수 없다. 마지막으로 빅토르와 소피아는 기사보다 사람을 앞에 둔다: 레나가 BankID를 즉시 정지하면 증거가 치워질 수 있지만, 한 노인이 계속 이용당해야만 성립하는 기사는 낼 가치가 없다.
+
+## 문화·현안 메모
+- **BankID** — 스웨덴인 대부분이 쓰는 전자신분증. 은행뿐 아니라 세금 신고, 의료 포털 *1177*, 약국, 회사 등록까지 거의 모든 공공·민간 서비스에 쓰인다. 그만큼 고령자·치매 환자의 BankID가 남의 손에 들어가면 피해가 크고, 요양 시설에서 입소자의 휴대폰과 BankID를 누가 어떻게 관리하는지가 사각지대로 지적돼 왔다. 분실·도용이 의심되면 은행의 정지 서비스(*spärrtjänst*)에 24시간 신고할 수 있다.
+- **스톡홀름의 전차와 1967년 "Dagen H"** — 1967년 9월 3일 스웨덴은 좌측통행에서 우측통행으로 바꿨고(*högertrafikomläggningen*), 이를 계기로 스톡홀름 시내 전차 노선 대부분이 폐지됐다. 유르고르덴으로 가던 7번 선(*sjuan*)도 그때 멈췄다가 1990년대에 관광·박물관 노선으로 되살아났고, 리딩외 선처럼 교외 노선은 계속 달렸다. 군나르가 "우측통행이 내 7번을 빼앗았다"고 하는 이유다.
+- **Uti vår hage** — "우리 목장엔 파란 열매가 자라네, 오라 내 마음의 기쁨이여!"로 시작하는 스웨덴 전래 민요. 학교와 가정에서 대대로 불려 온 노래라, 기억이 흐려진 노인도 후렴을 따라 부르는 경우가 많다.
+- **kanelbulle와 fika** — 요양원에도 오후 세 시 무렵의 커피 시간(*fika*)이 하루의 리듬으로 자리 잡고 있다. 시나몬 롤(*kanelbulle*)은 그 대표 간식이다.
+
+## 다음 화 예고
+> 복지 박람회 무대 위의 Omsorgia CEO, 그리고 부스 뒤에서 먼저 손을 내미는 회색 코트의 남자: "Jag känner din chef, Viktor. Hälsa Sofia från mig."
