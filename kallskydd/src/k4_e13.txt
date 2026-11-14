@@ -1,0 +1,186 @@
+@title 4부 13화 — Avbrottet
+@subtitle (중단)
+@meta 날짜|2026년 6월 15일 월요일 아침 7시 반 ~ 오후 4시경
+@meta 장소|쿵스홀멘 롤람스호브 공원, 멜라렌 호수가 보이는 벤치 (아침 7시 반) → Källaren (오전 9시) → Källaren 회의실, 화이트보드 앞 (오후 1시) → 아를란다 공항 5터미널 위층 난간, Källaren과 스피커폰 연결 (오후 3시 반)
+@meta 등장인물|**Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Staffan** (스타판 엑스트룀, 45, Säpo 연락관 — 첫 등장) · **Viktor** (빅토르, 47, 탐사기자 — 오늘 아침까지 투자 컨설턴트 "Erik Sand") · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Lars** (라르스 몰린, 62, 법률고문) · **Noah** (노아 베리룬드, 24, 기자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장 "Kapten")
+@intro **지난 이야기** — 스트란드베겐의 호텔 스위트에서 한웨이궈는 녹차를 따르며 "에릭"에게 대가를 말했다. 지금 2백만 크로나, 나머지는 장관이 서명한 뒤, 돈은 키프로스를 거쳐. 녹음을 초 단위로 되짚은 팀은 액수를 먼저 꺼낸 사람이 한웨이궈라는 것을 확인했고, 노아가 그린 지분 사슬의 끝에는 중국의 국가 소유주가 있었다. 한웨이궈는 답을 월요일까지 생각해 보라고 했다.
+@intro 그 월요일 아침이다. 일요일 밤 11시, 모르는 번호로 소피아에게 전화가 왔다 — "내일 아침 10분만 시간을 내 주실 수 있습니까. 사무실 말고." 해는 새벽 세 시 반에 떴고, 공원 잔디는 벌써 따뜻하다.
+# 장면 1 — 아침 7시 반, 쿵스홀멘 롤람스호브 공원 (멜라렌 호수를 마주한 벤치, 조깅하는 사람들, 종이컵 커피 두 잔)
+Staffan|B1|God morgon. Tack för att du kom så tidigt, trots att jag inte kunde säga varför i telefon.|좋은 아침입니다. 전화로는 이유도 말씀드리지 못했는데, 이렇게 일찍 나와 주셔서 고맙습니다.
+Sofia|B1|Du ringde klockan elva på en söndagskväll och ville inte säga vad det gällde. Då kommer man.|일요일 밤 11시에 전화해서 무슨 일인지도 말 안 하셨잖아요. 그럼 나오게 되죠.
+Staffan|A1|Kaffe? Jag köpte två.|커피 드릴까요? 두 잔 샀어요.
+Sofia|B1|Nej tack. Jag vill hellre veta varför Säpo vill träffa mig på en parkbänk i stället för på mitt kontor.|아뇨, 괜찮아요. 그보다 Säpo가 왜 제 사무실이 아니라 공원 벤치에서 보자고 하는지 알고 싶네요.
+Staffan|B2|Ett kontor har fler öron än man tror, och en parkbänk står inte i någons kalender, vilket gör den till det bästa mötesrummet i den här staden.|사무실엔 생각보다 귀가 많아요. 그리고 공원 벤치는 누구 일정표에도 남지 않으니, 이 도시에서 제일 좋은 회의실이죠.
+Sofia|B1|Rydén brukade åtminstone bjuda på kanelbullar när han ville något.|뤼덴 씨는 뭔가 원할 때 적어도 시나몬롤은 사 주곤 했는데요.
+Staffan|A2|Rydén hälsar. Men det här är inte hans avdelning.|뤼덴이 안부 전하랍니다. 그런데 이건 그 사람 부서 일이 아니에요.
+Sofia|A1|Vems då?|그럼 누구 부서요?
+Staffan|B1|Det kan jag inte säga. Vi kan inte gå in på detaljer, men… det gäller en person som ni har haft kontakt med.|그건 말할 수 없어요. 자세한 건 말씀드릴 수 없지만… 여러분이 접촉해 온 어떤 사람에 관한 겁니다.
+Sofia|B2|Om du tänker fråga vilka vi har kontakt med kan vi avsluta samtalet redan nu. Det vet du lika väl som jag.|저희가 누구와 접촉하는지 물으실 생각이라면 대화는 지금 끝내도 돼요. 그건 저만큼 잘 아시잖아요.
+Staffan|B1|Jag frågar ingenting. Jag säger ett namn, och du behöver inte svara. Han Weiguo.|아무것도 묻지 않아요. 이름 하나만 말할 테니 대답하실 필요는 없습니다. 한웨이궈.
+Sofia|A1|Fortsätt.|계속하세요.
+Staffan|B1|Det finns personer i hans närhet som… ja. Ni förstår vad jag menar.|그 사람 주변엔 어떤 사람들이… 네. 무슨 말인지 아시겠죠.
+Sofia|B2|Nej, det gör jag inte. Jag ansvarar för en tidning, och om jag ska fatta ett beslut som rör en medarbetares säkerhet kan jag inte göra det på halva meningar.|아뇨, 모르겠어요. 저는 신문 하나를 책임지는 사람이고, 직원의 안전이 걸린 결정을 반쪽짜리 문장으로 내릴 순 없어요.
+Staffan|B2|Personer som inte arbetar för ett bolag, utan för ett annat lands… myndigheter. Mer än så kan jag inte säga utan att bryta mot min egen sekretess.|회사가 아니라 다른 나라의… 기관을 위해 일하는 사람들이요. 그 이상은 제 비밀 유지 의무를 어기지 않고는 말할 수 없어요.
+Sofia|A2|Och varför berättar du det för mig?|그런데 그걸 왜 저한테 말씀하시는 거죠?
+Staffan|B1|För att vi vet att en av dina medarbetare har träffat honom flera gånger. Under ett annat namn.|여러분 직원 한 명이 그 사람을 여러 번 만났다는 걸 저희가 알기 때문입니다. 다른 이름으로요.
+Sofia|A2|Jag bekräftar ingenting.|저는 아무것도 확인해 드리지 않아요.
+Staffan|A2|Det behöver du inte. Namnet är Erik Sand.|그러실 필요 없어요. 이름은 에릭 산드죠.
+Sofia|A1|Hur vet ni det?|그걸 어떻게 아세요?
+Staffan|B2|Vi vet det för att andra vet det, och det är just därför vi sitter här. Om vi kan se det, så kan… ja. Så kan andra också se det.|다른 이들이 알기 때문에 저희도 아는 거고, 바로 그래서 우리가 여기 앉아 있는 겁니다. 저희가 볼 수 있다면… 네. 다른 이들도 볼 수 있죠.
+Sofia|B1|Säger du att Erik Sand är avslöjad?|에릭 산드가 들통났다는 말씀이에요?
+Staffan|B2|Jag säger att Erik Sand inte längre är en trygg plats att stå på. Om jag hade varit den som… ja. Då hade jag slutat i dag, inte i morgon.|에릭 산드가 더는 안전하게 서 있을 자리가 아니라는 겁니다. 제가 만약 그… 네. 그 사람이었다면 내일이 아니라 오늘 그만뒀을 거예요.
+Sofia|A1|Ett ögonblick.|잠깐만요.
+Staffan|A2|Vad skriver du?|뭘 쓰세요?
+Sofia|B2|Ett ord. Vi har ett avtal på papper, undertecknat av oss båda, som säger att han avbryter i samma sekund som jag skriver stopp – utan att fråga varför.|한 단어요. 저희 둘이 서명한 종이 약속이 있어요. 제가 멈추라고 쓰는 그 순간 그는 중단한다고요. 이유도 묻지 않고.
+Staffan|B1|Bra. Och om ni har inspelningar eller dokument som vi borde känna till, så är min dörr…|좋습니다. 그리고 저희가 알아야 할 녹음이나 문서가 있다면, 제 문은…
+Sofia|B2|Jag tackar för varningen, och jag tar den på allvar. Men ni får inte efterforska våra källor, och jag lämnar inte ut vårt material.|경고는 감사하고, 진지하게 받아들여요. 하지만 저희 취재원을 캐내서는 안 되고, 저는 저희 자료를 넘겨 드리지 않아요.
+Staffan|A2|Jag har inte frågat. Inte än.|안 물었어요. 아직은.
+Sofia|A2|Där ringer han redan. Ursäkta mig.|벌써 전화가 오네요. 실례할게요.
+Viktor|A2|Sofia? Jag fick ditt sms. Bara ”Stopp.”|소피아? 문자 받았어. "Stopp." 한 단어.
+Sofia|A1|Sluta nu. Ingen mer Erik.|이제 그만. 에릭은 더 없어.
+Viktor|A1|Varför?|왜?
+Sofia|A2|Inte på telefon. Kom till Källaren klockan nio.|전화로는 안 돼. 9시에 Källaren으로 와.
+Staffan|B2|Han lyssnade i alla fall. Det gör inte alla – en del tror att de kan spela sin roll en dag till, och det är oftast just den dagen som… ja.|어쨌든 말은 듣는 사람이군요. 다들 그러진 않거든요. 하루만 더 배역을 할 수 있다고 믿는 사람들이 있는데, 대개 바로 그날이… 네.
+# 장면 2 — 오전 9시, Källaren (식은 커피, 빅토르 책상 위의 도수 없는 안경, 포장도 안 뜯은 암호화 외장 디스크 두 개)
+Viktor|A2|Eriks glasögon ligger på bordet. Berätta nu.|에릭 안경은 책상 위에 뒀어. 이제 말해 줘.
+Sofia|B1|Säpo säger att det inte längre är säkert för dig att fortsätta. De vet vad Erik heter, och de säger att andra också vet det.|Säpo 말로는 네가 계속하는 건 더 이상 안전하지 않대. 에릭 이름을 알고 있고, 다른 사람들도 안다고 했어.
+Amira|A1|Vilka andra?|다른 사람들 누구?
+Sofia|B2|Han sa inga namn och ingen myndighet, bara att det finns personer kring Han Weiguo som arbetar för ett annat lands myndigheter. Resten var halva meningar.|이름도 기관도 말 안 했어. 한웨이궈 주변에 다른 나라 기관을 위해 일하는 사람들이 있다는 것만. 나머진 반쪽짜리 문장이었어.
+Henrik|B2|Säpofolk avslutar aldrig sina meningar. Den som bara säger halva saken kan aldrig citeras på hela, och det lär de sig första dagen.|Säpo 사람들은 문장을 끝내는 법이 없어. 반만 말한 사람은 나머지 반으로 인용될 일이 없거든. 그걸 첫날 배우지.
+Viktor|B1|Han väntar på ett svar i dag. Han sa ”tänk till måndag”, och nu är det måndag.|한은 오늘 답을 기다려. "월요일까지 생각해 보라"고 했는데 이제 월요일이야.
+Sofia|B2|Erik svarar inte, varken i dag eller senare. En roll som har avslöjats ska inte spelas en enda minut till, hur frestande det än är att höra vad han hade sagt.|에릭은 답 안 해. 오늘도, 나중에도. 들통난 배역은 1분도 더 연기하면 안 돼. 그가 뭐라고 했을지 아무리 궁금해도.
+Lars|B2|Juridiskt är det enkelt, eftersom Erik aldrig har skrivit under något och aldrig har lovat något. En konsult som slutar svara i telefon har inte brutit mot något avtal.|법적으로는 간단해요. 에릭은 아무것도 서명한 적도, 약속한 적도 없으니까요. 전화를 안 받는 컨설턴트는 어떤 계약도 어긴 게 아니에요.
+Viktor|A2|Och telefonen? Ska jag stänga av den?|휴대폰은요? 꺼야 하나요?
+Lars|B1|Nej, låt den vara på, men svara inte. Om någon hör av sig vill vi veta vem det är och vad de skriver.|아니요, 켜 두되 답하지 마요. 누가 연락해 오면 누군지, 뭐라고 쓰는지 알아야 하니까.
+Sofia|B1|Noah har telefonen från och med nu. Varje meddelande skrivs in i loggen med klockslag, och ingen svarar.|지금부터 휴대폰은 노아가 맡아. 메시지는 하나하나 시각과 함께 일지에 적고, 아무도 답하지 않아.
+Noah|A1|Okej. Jag tar den.|네. 제가 맡을게요.
+Sofia|B2|Sedan inspelningarna. Originalen från Luleå och från sviten på Strandvägen kopieras i dag till två krypterade diskar som aldrig har varit anslutna till något nätverk.|다음은 녹음. 룰레오와 스트란드베겐 스위트의 원본을 오늘, 한 번도 네트워크에 연결된 적 없는 암호화 디스크 두 개에 복사해.
+Amira|A2|Med kontrollsummor på papper?|체크섬은 종이에?
+Sofia|B1|På papper, som Viktor gjorde i Luleå. Den ena disken låses in i Lars kassaskåp, och den andra bär jag själv.|종이에. 빅토르가 룰레오에서 한 것처럼. 하나는 라르스 금고에 넣고, 다른 하나는 내가 직접 갖고 다녀.
+Lars|B1|Mitt kassaskåp är äldre än Noah, men ingen annan än jag har någonsin vetat koden.|제 금고는 노아보다 나이가 많지만, 저 말고 비밀번호를 아는 사람은 한 번도 없었어요.
+Amira|B2|Jag tycker att vi borde ge en kopia till Säpo. Inga källor, bara inspelningen från sviten. De sa själva att det handlar om en främmande stat, och vi är en tidning med en källare.|난 Säpo에 사본 하나를 줘야 한다고 생각해. 취재원은 빼고, 스위트 녹음만. 외국 국가 얘기라고 자기들 입으로 말했잖아. 우리는 지하실 하나 있는 신문사고.
+Sofia|A1|Nej.|안 돼.
+Amira|B1|Varför inte? I våras delade vi ju med Säpo det som Katja hade gjort.|왜? 지난봄엔 카탸가 한 일을 Säpo랑 공유했잖아.
+Sofia|B2|Vi delade fakta om vad hon hade gjort mot oss – inte vårt material och inga källor. Det är en skillnad som jag tänker hålla fast vid även när den känns obekväm.|우리가 공유한 건 그 사람이 우리한테 한 일에 대한 사실이지, 우리 자료나 취재원이 아니었어. 불편하게 느껴질 때도 그 차이는 붙잡고 있을 거야.
+Amira|B1|Men det här görs också mot oss! Någon vet vem Erik är. Om det har läckt inifrån igen, så…|그런데 이것도 우리한테 하는 짓이야! 누군가 에릭이 누군지 알아. 만약 또 안에서 샌 거라면…
+Henrik|A1|Amira.|아미라.
+Amira|A2|Glöm det. Jag sa ingenting.|잊어. 아무 말도 안 했어.
+Sofia|B2|Vi är inte en förlängning av Säpo. Den dagen vi blir det slutar källorna att prata med oss.|우리는 Säpo의 연장선이 아니야. 그렇게 되는 날, 취재원들은 입을 닫아.
+Lars|B2|Och det finns ett juridiskt skäl också. Viktors logg nämner en källa i finansvärlden som vi har lovat anonymitet, och där har vi tystnadsplikt – den gäller mot Säpo precis som mot alla andra.|법적인 이유도 있어요. 빅토르 일지에는 우리가 익명을 약속한 금융권 취재원이 나와요. 거기엔 비밀유지 의무가 있고, 그건 Säpo에도 다른 모두에게와 똑같이 적용돼요.
+Amira|B1|Vi kan ju ta bort allt som rör källan och ge dem bara ljudet från sviten, så att ingen kan pekas ut.|취재원에 관한 건 다 빼고 스위트 녹음 소리만 주면 되잖아. 아무도 특정되지 않게.
+Lars|B2|Och sedan? En myndighet som har fått en del vill ha resten, och nästa gång frågar den kanske inte på en parkbänk. Varje kopia vi lämnar ifrån oss är en kopia som vi inte längre kontrollerar.|그다음엔요? 일부를 받은 기관은 나머지를 원하고, 다음번엔 공원 벤치에서 묻지 않을지도 몰라요. 우리가 내준 사본은 하나하나가 더는 우리가 통제하지 못하는 사본이에요.
+Viktor|B2|Säpo kan läsa tidningen som alla andra när vi har publicerat. Det enda sättet vi lämnar ut något på är att trycka det, och då får alla det samtidigt.|Säpo도 우리가 보도하고 나면 남들처럼 신문을 읽으면 돼. 우리가 뭔가를 내놓는 유일한 방법은 찍어 내는 거고, 그때는 모두가 동시에 받아.
+Amira|B1|Och om människorna kring Han bestämmer sig för att göra något före dess? Mot dig?|그 전에 한 주변 사람들이 뭔가 하기로 마음먹으면? 너한테?
+Viktor|A2|Då har vi blivit varnade. Och vi har lyssnat.|그럼 우린 경고를 받았고, 귀 기울인 거지.
+Sofia|B2|Vi lyssnar på deras varning, men vårt material lämnar vi inte ut till någon myndighet. Det står i loggen från och med i dag, med min underskrift.|우리는 그들의 경고를 듣지만, 우리 자료는 어떤 기관에도 넘기지 않아. 오늘부터 일지에 그렇게 적혀 있어. 내 서명과 함께.
+Amira|A1|Okej. Okej.|알았어. 알았다고.
+Henrik|B1|Om det lugnar dig, Amira, så kör jag hem Viktor i kväll och kollar trapphuset innan han går in.|그게 좀 위안이 된다면, 아미라, 오늘 밤 내가 빅토르를 집에 태워다 주고 들어가기 전에 계단까지 확인할게.
+Viktor|A2|Jag är fyrtiosju, Hesa. Jag hittar hem.|나 마흔일곱이야, 헤사. 집은 알아서 찾아가.
+Henrik|A2|Det gjorde Erik också. Till Östermalm.|에릭도 그랬지. 외스테르말름으로.
+Noah|B1|Fredrik vill ha ett möte klockan ett om publiceringsplanen, eftersom han måste planera sidorna före semestrarna.|프레드릭이 1시에 보도 계획 회의를 하재요. 휴가철 전에 지면을 짜야 한대요.
+Sofia|A2|Bra. Då kopierar vi diskarna före lunch.|좋아. 그럼 점심 전에 디스크 복사하자.
+# 장면 3 — 오후 1시, Källaren 회의실 (화이트보드에 "PUBLICERINGSPLAN", 프레드릭의 결재 서류철, 노아 앞의 위장 휴대폰)
+Fredrik|B1|Okej, allihop. Sofia har berättat att Erik är avslutad, och jag förstår att det känns tungt efter tre veckor. Jag är ledsen, Viktor.|자, 다들. 에릭은 끝났다고 소피아한테 들었어. 3주를 했으니 마음이 무겁겠지. 유감이야, 빅토르.
+Viktor|A1|Det är okej.|괜찮아.
+Fredrik|B1|Jag stänger resebyråkontot i eftermiddag och säger upp kontantkortet på fredag, så att ingenting nytt hamnar på Eriks namn.|여행사 계정은 오늘 오후에 닫고, 선불 유심은 금요일에 해지할게. 에릭 이름으로 새로 뭐가 잡히지 않게.
+Sofia|B1|Först vill jag veta vad som har hänt sedan i fredags. Sedan pratar vi datum.|먼저 금요일 이후로 무슨 일이 있었는지 알고 싶어. 날짜 얘기는 그다음에.
+Noah|B1|Länsstyrelsen i Jämtland beslutade i morse att lämna ut Göran Nilssons mejl, men vissa delar är maskade. Göran själv har inte svarat på en enda av våra frågor.|옘틀란드 도청이 오늘 아침 예란 닐손 메일을 공개하기로 결정했어요. 일부는 가려졌고요. 예란 본인은 우리 질문에 하나도 답하지 않았어요.
+Fredrik|B2|Då föreslår jag att vi går ut före midsommar. Om Erik är bränd vet de redan att vi kommer, och varje dag vi väntar ger Nordhavn en dag till att förbereda sig.|그럼 미드섬머 전에 내보내자고 제안할게. 에릭이 들통났으면 우리가 온다는 걸 그쪽도 이미 알아. 우리가 하루 기다릴 때마다 Nordhavn한테 준비할 하루를 더 주는 거야.
+Sofia|B2|Nej. Varje påstående ska ha minst två källor, och alla som pekas ut ska få tid att svara. Jag vill hellre ha en bra artikel på måndag än en snabb på torsdag.|아니. 모든 주장엔 출처가 최소 두 개 있어야 하고, 지목되는 사람은 모두 답할 시간을 받아야 해. 목요일의 빠른 기사보다 월요일의 좋은 기사가 나아.
+Fredrik|A2|Måndag den tjugoandra, alltså?|그럼 22일 월요일?
+Sofia|B1|Om inget ändras. Jag bestämmer det slutgiltigt när jag har sett vilka som har svarat.|아무것도 안 바뀌면. 누가 답했는지 보고 나서 최종 결정할게.
+Noah|A1|Vänta. Den plingar.|잠깐만요. 울려요.
+Viktor|A1|Vem är det?|누구야?
+Noah|B1|Numret som ringde Erik den tionde. Det är Rydbergs mobil – det står ”C-J R” i kontakterna.|10일에 에릭한테 전화했던 번호예요. 뤼드베리 휴대폰이요. 연락처에 "C-J R"이라고 돼 있어요.
+Sofia|A2|Läs högt. Exakt som det står.|소리 내서 읽어. 쓰인 그대로.
+Noah|A2|Det är en länk. Och under länken står det bara en siffra.|링크 하나예요. 그리고 링크 밑에 숫자 하나만 있어요.
+Henrik|A1|Vilken siffra?|무슨 숫자?
+Noah|A1|Femhundratolv.|오백십이.
+Amira|A1|Öppna länken.|링크 열어 봐.
+Noah|B1|Det är Skuggflottan-artikeln från den tredje maj. Bylinen med Viktors foto – utan glasögon och utan skägg.|5월 3일 그림자 선단 기사예요. 빅토르 사진이 붙은 바이라인이요. 안경도 수염도 없는 거.
+Viktor|A2|Rum 512. Mitt rum i Luleå.|512호. 룰레오에서 내 방.
+Sofia|B1|Så de vill att vi ska veta två saker: att de vet vem du är, och att de visste var du sov.|그러니까 두 가지를 알리고 싶은 거네. 네가 누군지 안다는 것, 그리고 네가 어디서 잤는지 알았다는 것.
+Amira|A2|Hur visste de rumsnumret?|방 번호는 어떻게 알았지?
+Noah|B1|Jag skriver upp alla som kan ha känt till numret, så att vi ser hur lång listan blir. Hesa?|방 번호를 알았을 만한 사람을 다 적어 볼게요. 목록이 얼마나 길어지나 보게요. 헤사?
+Henrik|B1|Jag bokade rummet per telefon, på Erik Sands namn. Så receptionen visste, och alla som jobbade där det dygnet.|내가 전화로 에릭 산드 이름으로 방을 잡았어. 그러니까 프런트는 알았지. 그날 거기서 일한 사람은 전부.
+Fredrik|B1|Och resebyrån skickade betalningen till hotellet med namn och rumsnummer. Det är en hel kedja av människor som har sett det.|그리고 여행사가 이름이랑 방 번호를 넣어서 호텔에 결제를 보냈어. 그걸 본 사람이 줄줄이 있는 거야.
+Amira|B2|Och Lindbäck ringde Erik samma natt och sa att han kunde ha svurit på att Erik hette något annat. En man som samlar visitkort kan lika gärna fråga receptionen vem som bor i vilket rum.|그리고 린드베크가 그날 밤 에릭한테 전화해서 이름이 딴 거였다고 맹세할 수도 있었다고 했잖아. 명함 모으는 사람이면 프런트에 누가 몇 호에 묵는지도 얼마든지 물어볼 수 있지.
+Viktor|B2|Lindbäck förklarar ansiktet. Han hade sett mig i tv, och fyra timmar vid samma bord räcker för att en man som aldrig glömmer ett handslag ska komma ihåg.|린드베크로 얼굴은 설명돼. TV에서 날 봤고, 악수 한 번도 안 잊는 사람이면 한 식탁에서 네 시간이면 기억해 내고도 남지.
+Noah|A2|Men rummet? Han var ju aldrig i rummet.|그럼 방은요? 그 사람은 방에 온 적이 없잖아요.
+Fredrik|A2|Hotellpersonal. Det är alltid så. Okej, nästa punkt – publiceringsplanen.|호텔 직원이야. 늘 그래. 자, 다음 안건 — 보도 계획.
+Henrik|B2|Så nu får någon stackare i receptionen i Luleå bära hundhuvudet, utan att någon ens har frågat henne.|그럼 이제 룰레오 프런트의 어떤 딱한 사람이 누명을 쓰는 거네. 아무도 그 사람한테 물어보지도 않고.
+Fredrik|B2|Vi frågar hotellet skriftligt, Hesa, det lovar jag. Men om vi lägger en vecka på ett rumsnummer medan en minister väntar på att granskas, har vi gett dem precis det de ville ha.|호텔엔 서면으로 물어볼게, 헤사. 약속해. 하지만 장관 취재가 기다리는데 방 번호 하나에 일주일을 쓰면, 그쪽이 원하던 걸 그대로 내주는 거야.
+Noah|A2|Ska jag sudda ut listan på tavlan?|칠판에 적은 목록 지울까요?
+Fredrik|A2|Jag tar det. Viktor, du har ettan – hur lång blir texten?|내가 할게. 빅토르, 1면은 네 거야. 기사 얼마나 길어질 것 같아?
+Viktor|A1|Strax.|잠깐만.
+Noah|A2|Vad skriver du?|뭐 쓰세요?
+Viktor|A2|En siffra. Och ett frågetecken.|숫자 하나. 그리고 물음표 하나.
+Fredrik|A1|Viktor? Är du med?|빅토르? 듣고 있어?
+Viktor|A2|Jag är med. Åttatusen tecken, plus en faktaruta om pengarna.|듣고 있어. 8천 자, 그리고 돈에 관한 팩트 박스 하나.
+# 장면 4 — 오후 3시 반, 아를란다 공항 5터미널 위층 난간 (아래로 보안검색대와 유리벽, 출발 전광판, 헨릭의 카메라 — Källaren의 빅토르·노아와 스피커폰 연결)
+Henrik|A2|Vi står vid räcket på övre plan. Samma räcke som i maj.|위층 난간에 서 있어. 5월이랑 같은 난간이야.
+Viktor|A2|När Katja åkte. Jag minns.|카탸가 떠날 때. 기억나.
+Noah|A2|Jag ringde Arktis växel igen. Samma svar: ”Han flög i morse.”|Arktis 교환대에 다시 전화했어요. 같은 대답이에요. "오늘 아침에 출국하셨습니다."
+Amira|B1|Och tavlan här säger Helsingfors, kvart i fyra. Antingen ljuger växeln, eller så har någon sagt åt dem vad de ska säga.|그런데 여기 전광판엔 헬싱키행 3시 45분이야. 교환대가 거짓말을 하거나, 누가 뭐라고 말할지 정해 준 거지.
+Viktor|A1|Ser ni honom?|그 사람 보여?
+Henrik|B1|Inte än. Det är fullt av folk som ska fira midsommar utomlands, och alla verkar ha valt samma kö.|아직. 외국에서 미드섬머 보내려는 사람들로 꽉 찼어. 다들 같은 줄에 선 것 같아.
+Amira|B2|Vi har inte ens hunnit skicka våra frågor till honom. Om han sitter i Peking när vi publicerar kommer han att säga att ingen gav honom en chans att svara.|아직 질문도 못 보냈어. 우리가 보도할 때 그 사람이 베이징에 앉아 있으면, 아무도 자기한테 답할 기회를 안 줬다고 할 거야.
+Viktor|B2|Frågorna går till Arktis och till honom personligen i kväll, skriftligt och med samma frist som alla andra, oavsett var i världen han befinner sig när de kommer fram. Så gör vi det – inte genom att ropa i en terminal.|질문은 오늘 밤 Arktis와 그 사람 개인에게 서면으로 가. 다른 모두와 같은 기한으로. 질문이 도착할 때 그가 세상 어디에 있든. 우린 그렇게 해. 터미널에서 소리치는 게 아니라.
+Henrik|A1|Där. Grå rock.|저기. 회색 코트.
+Amira|A2|Han har bara en liten väska. Ingen är med honom.|작은 가방 하나뿐이야. 같이 가는 사람도 없어.
+Viktor|A1|Var är han nu?|지금 어디야?
+Henrik|B1|På andra sidan glaset, efter kontrollen. Han går långsamt, som om han hade all tid i världen.|유리 건너편, 검색대 지나서. 천천히 걸어. 세상 시간이 다 자기 것인 것처럼.
+Amira|A2|Han stannar. Han tittar upp.|멈췄어. 위를 봐.
+Viktor|A1|På er?|너희를?
+Henrik|A2|Rakt på oss. Jag tar bilden nu.|곧장 우리를. 지금 찍을게.
+Amira|B1|Han bugar. Han bugar lätt mot oss, som när man tackar för en middag.|고개를 숙여. 우리한테 가볍게 고개를 숙여. 저녁 대접 고맙다고 할 때처럼.
+Viktor|A2|Fick du bilden, Hesa?|사진 찍었어, 헤사?
+Henrik|B1|Tre stycken. Men först nu, när han har vänt sig om, börjar händerna skaka.|세 장. 그런데 그 사람이 돌아서고 난 지금에서야 손이 떨리기 시작하네.
+Amira|A2|Han går mot gaten. Han ser sig inte om.|게이트 쪽으로 가. 뒤돌아보지도 않아.
+Henrik|B1|Jag kan gå längs glaset till gaten och ta några till. Korridoren är lång.|유리벽 따라 게이트까지 가서 몇 장 더 찍을 수 있어. 복도가 길거든.
+Viktor|A2|Låt honom gå, Hesa. Vi har hans röst. Det räcker.|보내 줘, 헤사. 우린 그의 목소리를 가졌어. 그거면 돼.
+Amira|B1|Två miljoner, en ansökan i Bryssel som bygger på ett förfalskat protokoll – och han går ombord som om ingenting hade hänt.|2백만, 위조된 의사록에 기댄 브뤼셀 신청서. 그런데 아무 일도 없었던 것처럼 비행기에 타네.
+Viktor|B2|Han bryter inte mot någon lag genom att sätta sig på ett flyg, och vi är inte poliser. Vårt jobb är att se till att det han sa i sviten finns kvar när han själv inte längre är här.|비행기에 탄다고 법을 어기는 건 아니고, 우리는 경찰이 아니야. 우리 일은 그가 스위트에서 한 말이, 그가 여기 없어진 뒤에도 남아 있게 하는 거야.
+Noah|A1|Viktor. Eriks telefon.|빅토르. 에릭 휴대폰이요.
+Viktor|A2|Numret från teet?|차 마시자던 그 번호?
+Noah|A1|Ja. ”H”. Läs själv.|네. "H"요. 직접 읽어 보세요.
+Viktor|B1|”Ni var en bättre Erik än ni tror, herr Holm.”|"당신은 스스로 생각하는 것보다 더 나은 에릭이었습니다, 홀름 씨."
+Amira|A1|Herr Holm.|홀름 씨.
+Henrik|B1|Han visste. I Luleå och i sviten, varje gång han tog sin lilla paus före ”Sand”.|알고 있었네. 룰레오에서도, 스위트에서도. "산드" 앞에서 잠깐씩 멈출 때마다.
+Viktor|B2|Han visste ända sedan Kiruna, och han lät mig spela hela pjäsen ändå. Det jag inte vet är för vem han själv spelade.|키루나 때부터 알았던 거야. 그런데도 연극을 끝까지 하게 뒀지. 내가 모르는 건 그 사람 자신은 누구를 위해 연기했느냐야.
+Amira|B2|Om han visste att du spelade in, så valde han själv att ge oss Ekwalls namn och två miljoner på band. Ingen gör sånt av misstag.|네가 녹음하는 걸 알았다면, 에크발 이름이랑 2백만을 녹음에 남긴 건 그 사람이 직접 고른 거야. 그런 걸 실수로 하는 사람은 없어.
+Viktor|A2|Nej. Och nu sitter han på ett plan.|그래. 그리고 이제 그는 비행기 안에 있지.
+Henrik|A2|Tavlan har bytt. Helsingfors: avgått, fjorton minuter i fyra.|전광판 바뀌었어. 헬싱키행, 출발. 3시 46분.
+Viktor|A2|Skriv in det i loggen, Noah. Klockslaget och Hesas bilder.|일지에 적어, 노아. 시각이랑 헤사 사진.
+Noah|A1|Klart.|적었어요.
+Amira|B1|Vi åker tillbaka nu, så att vi hinner skriva frågorna till honom innan han landar.|우리 이제 돌아갈게. 그 사람이 착륙하기 전에 질문을 써 놓을 수 있게.
+Henrik|B2|Och i kväll kör jag hem dig, Viktor, vare sig du vill eller inte. Den som har blivit hälsad på det där sättet ska inte gå ensam genom ett trapphus.|그리고 오늘 밤엔 내가 널 집에 태워다 준다, 빅토르. 네가 원하든 말든. 저런 식으로 인사받은 사람은 계단을 혼자 올라가는 거 아니야.
+Noah|A1|Vänta. En till.|잠깐만요. 하나 더 왔어요.
+Viktor|A1|Från Han?|한한테서?
+Noah|A2|Nej. Ett nummer som jag aldrig har sett. Bara en rad.|아니요. 처음 보는 번호예요. 딱 한 줄이에요.
+Viktor|A1|”Trevlig midsommar, herr Holm.”|"즐거운 미드섬머 되세요, 홀름 씨."
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Sluta nu.** | 이제 그만해. | *sluta* = 그만두다, 멈추다. 명령형은 동사 원형에서 -a를 그대로 둔다(*sluta!*). *nu*가 붙으면 "지금 당장". 소피아와 빅토르가 7화에 서명한 노란 메모지의 조건 — "멈추라면 멈춘다" — 이 이 두 단어로 실행된다 |
+| `A2` | **Han flög i morse.** | 그는 오늘 아침에 떠났어요. | *flyga – flög – flugit* 강변화 동사. *i morse* = 오늘 아침(지난 시간), *i morgon* = 내일 — 학습자가 가장 자주 헷갈리는 짝이다. 비슷하게 *i går kväll* 어젯밤, *i kväll* 오늘 밤. Arktis 교환대의 이 한 문장은 거짓이었다 |
+| `B1` | **Säpo säger att det inte längre är säkert för dig att fortsätta.** | Säpo 말로는 네가 계속하는 건 더 이상 안전하지 않대. | 종속절(*att …*) 안에서는 부정어 *inte*가 동사 *är* 앞에 온다(*att det inte är*). *inte längre* = 더 이상 ~않다. *det är säkert för dig att* + 동사 원형 = 네가 ~하는 것이 안전하다 |
+| `B2` | **Vi lyssnar på deras varning, men vårt material lämnar vi inte ut till någon myndighet.** | 우리는 그들의 경고를 듣지만, 우리 자료는 어떤 기관에도 넘기지 않아. | 목적어 *vårt material*을 문장 앞으로 꺼내 강조하면 동사가 두 번째 자리로 온다(*vårt material lämnar vi…*). *lämna ut* = (문서·자료를) 내주다, 공개하다 — 공문서 청구에서도 쓰는 단어다(*handlingen lämnas ut*) |
+| `B1` | **Det finns personer i hans närhet som… ja. Ni förstår vad jag menar.** | 그 사람 주변엔 어떤 사람들이… 네. 무슨 말인지 아시겠죠. | *i hans närhet* = 그의 주변에. 끝나지 않은 관계절 *som…* 뒤에 *ja*를 붙여 말을 접는 것은 "말할 수 없는 것"을 말하는 스웨덴식 화법이다. *ni*는 여기서 존칭이 아니라 복수(신문사 여러분) |
+| `B2` | **Vi är inte en förlängning av Säpo. Den dagen vi blir det slutar källorna att prata med oss.** | 우리는 Säpo의 연장선이 아니야. 그렇게 되는 날, 취재원들은 입을 닫아. | *den dagen (som) vi blir det* — 시간 표현 뒤의 *som*은 흔히 생략된다. 시간 표현이 문장 앞에 오니 주절 동사 *slutar*가 바로 뒤에 온다. *det*은 앞 문장의 "Säpo의 연장선"을 받는다 |
+| 관용구 | **få bära hundhuvudet** | 개 머리를 짊어지다 | 자기 잘못이 아닌 일로 남 대신 비난을 뒤집어쓰다. 중세 형벌에서 죄인에게 죽은 개를 지고 걷게 한 데서 왔다는 설이 있다. 헨릭의 말처럼, "호텔 직원이야"라는 설명이 편할수록 누군가는 묻지도 않은 채 개 머리를 진다 |
+| 법·언론 | **tystnadsplikt** | 비밀유지 의무 | 출판자유법(TF) 3장: 익명을 약속받은 취재원의 신원을 기자·편집자가 밝혀서는 안 된다는 *의무*(권리가 아니다). 위반하면 처벌받을 수 있고, 상대가 Säpo든 법원이든 원칙은 같다(법정 증언 등 아주 좁은 예외만 있다). 의료·행정의 비밀유지 의무와 같은 단어지만 언론에서는 취재원 보호의 다른 이름이다 |
+
+## 저널리즘·법 메모
+보안경찰(Säpo)이 언론사에 위험을 경고하는 일은 드물지 않다. 그러나 경고를 *듣는 것*과 취재 자료를 *넘기는 것*은 전혀 다른 일이다. 출판자유법은 공권력이 보도 전에 내용을 심사하거나 막는 것을 금지하고(*censurförbud*), 기관이 기자의 취재원을 캐내는 것도 금지하며(*efterforskningsförbud*), 기자와 편집자에게는 익명 취재원을 밝히지 않을 의무(*tystnadsplikt*)를 지운다. 그래서 소피아는 3부 카탸 사건 때도 "그가 우리에게 한 일에 대한 사실"만 공유하고 원자료는 내주지 않았고, 이번에도 녹음 원본을 오프라인 디스크 두 개에 나눠 라르스의 금고와 자기 몸에 둔다. 라르스의 논리는 실무적이다 — 일부를 받은 기관은 나머지를 원하고, 내준 사본은 더 이상 신문사가 통제할 수 없다. 반대편의 책임도 있다: 한웨이궈가 출국해도 반론권은 사라지지 않는다. 빅토르는 터미널에서 소리치는 대신, 다른 모든 비판 대상과 같은 기한의 서면 질문을 그날 밤 보낸다. 위장이 벗겨진 뒤에도 기사의 근거는 "에릭"이 아니라 녹음·문서·공개 기록이어야 한다.
+
+## 문화·현안 메모
+- **롤람스호브 공원(Rålambshovsparken)** — 쿵스홀멘 서쪽, 멜라렌 호수에 면한 넓은 공원. 여름이면 아침 조깅과 저녁 피크닉으로 붐비고, 서쪽 끝은 베스테르브론 다리 아래로 이어진다. 회의실 대신 공원 벤치를 고르는 것은 "기록이 남지 않는 대화"를 원한다는 신호다.
+- **6월의 스톡홀름 — 해는 새벽 세 시 반에** — 하지 무렵 스톡홀름은 해가 밤 10시 넘어 지고 새벽 3시 반쯤 뜬다. 완전히 어두워지지 않는 밤이 이어지는 미드섬머 주간에는 휴가를 떠나는 사람이 많아, 아를란다는 국경일 전 주가 가장 붐비는 때 중 하나다.
+- **"Trevlig midsommar!"** — 미드섬머 이브(올해는 6월 19일 금요일) 전 주에 직장·상점·이웃 사이에서 가장 많이 오가는 인사. 친근하고 평범한 인사일수록, 모르는 번호에서 실명과 함께 오면 섬뜩해진다.
+- ⚠️ 스타판 엑스트룀, 한웨이궈, Arktis Mineral AB, 뤼드베리, 린드베크와 룰레오의 호텔은 모두 허구다. Säpo와 아를란다 공항은 실제 기관·장소를 배경으로만 썼으며, 그 안의 인물과 절차는 가상이다.
+
+## 다음 화 예고
+> 미드섬머 이브, 셸레프테오의 상에 청어 옆으로 김치가 놓이고 지호가 처음으로 빅토르를 "형"이라 부른다. 처음 아빠의 취재 길에 따라온 알바 옆에서, 빅토르는 휴대폰을 뒤집어 놓는다.
