@@ -22,3 +22,25 @@
 | [part5_trollfabriken.md](part5_trollfabriken.md) | 5부 *Trollfabriken* (트롤 공장) — 2026.6–9 |
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
+
+## 대본 목차 (15/105화 완성)
+
+### 1부
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Uppdraget](episodes/k1_e01.md) | 일감 |
+| 2 | [Prislistan](episodes/k1_e02.md) | 가격표 |
+| 3 | [Mamman](episodes/k1_e03.md) | 엄마 |
+| 4 | [Folkbokföringen](episodes/k1_e04.md) | 주민등록 |
+| 5 | [Insidern](episodes/k1_e05.md) | 내부자 |
+| 6 | [Dubai](episodes/k1_e06.md) | 두바이 |
+| 7 | [Alva](episodes/k1_e07.md) | 알바 |
+| 8 | [Liam](episodes/k1_e08.md) | 리암 |
+| 9 | [Södertälje](episodes/k1_e09.md) | 쇠데르텔리에 |
+| 10 | [Uppsala](episodes/k1_e10.md) | 웁살라 |
+| 11 | [Läckan](episodes/k1_e11.md) | 유출 |
+| 12 | [Istanbul](episodes/k1_e12.md) | 이스탄불 |
+| 13 | [Publiceringsbeslutet](episodes/k1_e13.md) | 보도 결정 |
+| 14 | [Smällen](episodes/k1_e14.md) | 폭발 |
+| 15 | [Telefonen](episodes/k1_e15.md) | 휴대폰 |

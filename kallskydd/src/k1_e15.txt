@@ -1,0 +1,187 @@
+@title 1부 15화 — Telefonen
+@subtitle (휴대폰)
+@meta 날짜|2025년 11월 30일 일요일 (첫 번째 대림절, *första advent*) 아침 8시 15분 ~ 자정
+@meta 장소|헤셀뷔 고르드 리암의 집 부엌 (아침 8시 15분) → 후스뷔 청소년센터, 문 닫은 일요일 (오후 1시) → 쿵스홀멘 Stockholmsposten 지하 "Källaren" (저녁 6시 반) → 같은 Källaren, 화이트보드 앞 (밤 9시) → 자정의 Källaren
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Liam** (리암 안데르손, 14) · **Petra** (페트라 안데르손, 44, 리암의 어머니·야간 간호사) · **Ebba** (에바 안데르손, 16, 리암의 누나·알바의 동급생) · **Dejan** (데얀 페트로비치, 38, 후스뷔 청소년 활동가) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Alva** (알바 홀름, 16, 빅토르의 딸 — 문자)
+@intro **지난 이야기** — 새벽 5시에 나간 기사 뒤, 신문사 정문에는 "다음엔 진짜다"라는 쪽지가 든 모형 폭탄이 놓였다. 저녁에는 경찰 민간 수사관 토비아스 크론이 체포됐지만, 이스탄불의 Kungen은 보스포루스를 배경으로 웃었다: "너희는 졸 하나 잡았어. 왕은 그대로 서 있지."
+@intro 그로부터 19일 뒤, 첫 번째 대림절 일요일 아침. 헤셀뷔 고르드의 아파트 창가에는 네 자루짜리 촛대가 놓여 있고, 야간 근무에서 막 돌아온 페트라는 아직 외투도 벗지 않았다. 리암은 식탁에 앉아 대답 없이 양말 끝만 만지작거린다 — 10월 말부터 아무에게도 보여 주지 않은 두 번째 휴대폰이, 거기 있다.
+# 장면 1 — 아침 8시 15분, 헤셀뷔 고르드 리암의 집 부엌 (창밖은 아직 캄캄하고, 대림절 촛대에 첫 초가 켜지기 직전)
+Ebba|A2|Vänta, mamma. Sätt dig inte än. Jag ska tända ljuset först.|잠깐, 엄마. 아직 앉지 마. 초부터 켤 거야.
+Petra|A1|Vilket ljus?|무슨 초?
+Ebba|A2|Det är första advent i dag. Man tänder det första ljuset.|오늘 첫 번째 대림절이잖아. 첫 번째 초를 켜는 거야.
+Petra|B1|Jag har jobbat hela natten och glömt vilken dag det är. Det är fortfarande mörkt ute, och jag ska sova till tre.|밤새 일하느라 오늘이 무슨 날인지도 잊었네. 밖은 아직 깜깜하고, 엄마는 세 시까지 자야 해.
+Ebba|A1|Liam, tändstickorna.|리암, 성냥.
+Liam|A1|Mm.|음.
+Petra|A2|Han har inte sagt något sedan i går kväll.|얘가 어젯밤부터 아무 말도 안 해.
+Ebba|A2|Han pratar aldrig före tolv på söndagar. Det är normalt.|일요일엔 원래 열두 시 전에 말 안 해. 정상이야.
+Petra|A1|Har vi lussebullar?|루세빵 있니?
+Ebba|A2|Lussebullar redan? Nej, det är bara första advent. Ta en pepparkaka.|벌써 루세빵? 아니, 아직 첫 대림절이야. 생강 쿠키나 먹어.
+Petra|A2|Tack, älskling. Liam, vill du ha en?|고마워, 우리 딸. 리암, 너도 하나 먹을래?
+Liam|A1|Nej.|아니.
+Ebba|B1|Varför håller du på med strumpan hela tiden? Du har dragit i den sedan vi satte oss.|왜 계속 양말을 만지작거려? 앉은 뒤로 계속 잡아당기고 있잖아.
+Liam|A1|Den kliar.|가려워.
+Petra|B1|Liam, titta på mig. Jag har sett det där ansiktet förut, i oktober, kvällen innan du försvann.|리암, 엄마 봐. 그 얼굴 전에 본 적 있어. 10월에, 네가 사라지기 전날 밤에.
+Liam|A1|Jag försvinner inte.|안 사라져.
+Petra|A2|Då säger du vad det är. Nu.|그럼 뭔지 말해. 지금.
+Liam|B1|Det är en grej som jag har gömt. Jag vill ge den till Viktor, men jag vill att Pizza är med.|숨겨 둔 게 있어. 그걸 빅토르 형한테 주고 싶은데, 피자 형도 같이 있었으면 좋겠어.
+Petra|A1|Pizza?|피자?
+Ebba|A2|Dejan, mamma. Från fritidsgården i Husby. Liam har honom som ”Pizza” i telefonen.|데얀 아저씨, 엄마. 후스뷔 청소년센터. 리암 폰에 '피자'로 저장돼 있어.
+Petra|B1|Är det farligt, Liam? Svara bara ja eller nej, så slipper du säga resten.|위험한 거야, 리암? 그냥 응, 아니로만 대답해. 나머진 말 안 해도 돼.
+Liam|A2|Det blir farligt om jag behåller den.|갖고 있으면 위험해져.
+Petra|A1|Ring honom. Nu.|전화해. 지금.
+Dejan|A2|Liam? Klockan är halv nio på en söndag, bror.|리암? 일요일 아침 여덟 시 반이야, 동생.
+Liam|A2|Förlåt. Det gäller telefonen. Den andra.|미안해, 형. 그 폰 때문이야. 두 번째 거.
+Dejan|B1|Okej. Säg inget mer i telefon. Kom till gården klockan ett. Den är stängd på söndagar, så det är bara vi.|알았어. 전화로는 더 말하지 마. 한 시에 센터로 와. 일요일엔 문 닫으니까 우리뿐이야.
+Liam|A1|Och Viktor?|빅토르 형은?
+Dejan|A2|Jag ringer len. Han kommer. Han kommer alltid, walla.|내가 그 형한테 전화할게. 올 거야. 그 형은 언제나 와, 진짜로.
+Petra|B1|Dejan, det är Petra, hans mamma. Jag måste sova nu, men jag vill veta allt när jag vaknar.|데얀 씨, 리암 엄마 페트라예요. 지금은 자야 하는데, 깨면 전부 알고 싶어요.
+Dejan|B2|Du får veta allt innan du åker till jobbet i kväll, och ingenting händer med det som Liam ger oss utan att du har sagt ja. Det lovar jag. Ebba, följ med honom till tunnelbanan.|오늘 밤 출근하시기 전에 다 아시게 될 거예요. 그리고 리암이 저희한테 주는 건 페트라 씨가 허락하기 전엔 아무것도 안 해요. 약속해요. 에바, 지하철역까지 같이 가 줘.
+Ebba|A1|Klart jag gör.|당연하지.
+# 장면 2 — 오후 1시, 후스뷔 청소년센터 (문 닫은 일요일, 커튼을 친 홀, 탁구대)
+Dejan|A1|In. Snabbt.|들어와. 빨리.
+Viktor|A2|Är det bara vi här?|여기 우리뿐이야?
+Dejan|B1|Bara vi. Jag har låst ytterdörren och dragit för gardinerna. Ingen kommer hit på en söndag, inte ens de som brukar sova på soffan.|우리뿐이야. 현관 잠그고 커튼도 쳤어. 일요일엔 아무도 안 와. 소파에서 자곤 하는 애들도.
+Viktor|A2|Hej, Liam. Hur mår du?|안녕, 리암. 잘 지냈어?
+Liam|A1|Sådär.|그냥 그래요.
+Viktor|B1|Du behöver inte göra någonting i dag. Om du vill gå hem igen, så går vi hem igen.|오늘 아무것도 안 해도 돼. 다시 집에 가고 싶으면 그냥 다시 가면 돼.
+Liam|A1|Nej. Jag vill.|아니요. 할래요.
+Dejan|A2|Ta det lugnt. Ingen stressar dig här.|천천히 해. 여기선 아무도 재촉 안 해.
+Liam|A1|Här. Ta den.|여기요. 가져가요.
+Viktor|A2|Du tog den ur strumpan.|양말에서 꺼냈구나.
+Liam|A2|Jag har gömt den i en strumpa sedan oktober.|10월부터 양말 속에 숨겨 놨어요.
+Dejan|A1|Hela tiden?|계속?
+Liam|B1|Överallt. När jag duschade låg den i skon. På natten laddade jag den under täcket, så att mamma inte skulle se ljuset.|어디서나. 샤워할 땐 신발 속에 뒀고. 밤엔 엄마가 불빛 못 보게 이불 속에서 충전했어.
+Viktor|A1|Varför laddade du den?|왜 충전했어?
+Liam|B1|N sa att den alltid måste vara på. Om den var avstängd skulle de komma och kolla varför.|N이 항상 켜 놔야 한다고 했어요. 꺼져 있으면 왜 그런지 확인하러 온다고.
+Viktor|A2|Och varför ger du den till mig i dag?|그럼 왜 오늘 나한테 주는 거야?
+Liam|A2|Han skrev igen i går. Han vet att jag är hemma. Jag vill inte ha den längre.|어제 또 썼어요. 내가 집에 있는 거 알아요. 이제 이거 갖고 있기 싫어요.
+Dejan|A1|Vad skrev han?|뭐라고 썼는데?
+Liam|A2|”Du har något som är mitt. Jag vet att du är hemma.”|"너한테 내 거 있지. 너 집에 있는 거 안다."
+Viktor|B1|Hade han skrivit något innan dess, sedan du kom hem från Uppsala?|그 전에 뭐 쓴 적 있어? 웁살라에서 돌아온 뒤로?
+Liam|B1|Ingenting. I en månad har den bara legat där och varit tyst. Jag trodde att han hade glömt mig.|아무것도요. 한 달 동안 그냥 조용히 있었어요. 날 잊은 줄 알았어요.
+Dejan|B2|Sådana som N glömmer aldrig, bror. De väntar tills polisen har tittat bort, och sedan hör de av sig precis när man har börjat sova igen.|N 같은 놈들은 절대 안 잊어, 동생. 경찰이 눈 돌릴 때까지 기다렸다가, 딱 다시 잠 좀 자기 시작할 때 연락하는 거야.
+Liam|A2|Jag är rädd att han kommer hem till oss. Till Ebba.|그 사람이 우리 집에 올까 봐 무서워요. 누나한테.
+Viktor|A1|Jag förstår.|알아.
+Liam|B2|Är det mitt fel? Om jag hade slängt den i sjön i oktober, hade han kanske lämnat oss i fred.|내 잘못이에요? 10월에 호수에 던져 버렸으면 우리를 그냥 내버려 뒀을지도 모르잖아요.
+Dejan|B1|Nej. Det är hans fel. Det är alltid den vuxnes fel, och det säger jag till varenda grabb som kommer hit.|아니. 그놈 잘못이야. 언제나 어른 잘못이야. 여기 오는 애들 하나하나한테 다 그렇게 말해.
+Viktor|B2|Och om du hade slängt den, hade vi aldrig fått veta vem som betalade barnen. Det du har burit i en strumpa i en månad kan vara det viktigaste någon har gett mig på länge.|그리고 네가 그걸 버렸으면, 누가 애들한테 돈을 줬는지 우린 영영 몰랐을 거야. 네가 한 달 동안 양말에 넣고 다닌 게, 오랜만에 누가 나한테 준 것 중에 제일 중요한 걸지도 몰라.
+Liam|A2|Vad händer med mig nu?|이제 저는 어떻게 돼요?
+Viktor|B1|Lyssna. Du är min källa. Ingen kommer att veta ditt namn — inte skolan, inte grannarna, ingen som läser tidningen.|들어 봐. 너는 내 취재원이야. 아무도 네 이름을 모를 거야. 학교도, 이웃도, 신문 읽는 누구도.
+Dejan|A2|Säg det en gång till, len. Titta på honom när du säger det.|한 번 더 말해, 형. 얘 눈 보면서.
+Viktor|A2|Liam. Du är min källa. Ingen kommer att veta ditt namn.|리암. 너는 내 취재원이야. 아무도 네 이름을 모를 거야.
+Liam|A1|Lovar du?|약속해요?
+Viktor|A1|Jag lovar.|약속해.
+Dejan|B1|En sak till, bror. Din mamma ska få veta. Klockan fyra sitter vi i ert kök och berättar alltihop, innan hon åker till jobbet.|하나 더, 동생. 엄마도 알아야 해. 네 시에 너희 부엌에 앉아서 다 얘기하자. 엄마 출근하기 전에.
+Liam|A2|Hon kommer att bli arg.|엄마 화낼 거야.
+Viktor|B2|Kanske. Men det vore värre för henne om hon fick höra det av någon annan. Och telefonen ska inte ligga hemma hos er en natt till.|그럴지도. 하지만 다른 사람한테서 듣게 되면 엄마한텐 더 힘들 거야. 그리고 이 폰은 하룻밤도 더 너희 집에 있으면 안 돼.
+Dejan|B1|Men den är på, len. Om N kan se var den är, så ser han att den ligger här hos mig.|근데 그거 켜져 있잖아, 형. N이 위치를 볼 수 있으면 여기 나한테 있는 것도 보겠지.
+Viktor|B1|Amira sa åt mig att lägga den i den här påsen. Den stoppar alla signaler, men den stänger inte av något.|아미라가 이 주머니에 넣으라고 했어. 신호는 다 막는데, 아무것도 끄지는 않아.
+# 장면 3 — 저녁 6시 반, Källaren (전파 차단 주머니, 인터넷에 한 번도 연결된 적 없는 낡은 노트북, 갈색 봉투)
+Amira|A2|Ge mig påsen. Rör ingenting mer.|주머니 줘. 더는 아무것도 만지지 마.
+Henrik|A2|Hur tog Petra det?|페트라는 어떻게 받아들였어?
+Viktor|B1|Hon grät först, sedan blev hon arg på mig, och sedan åkte hon till jobbet. I den ordningen.|처음엔 울었고, 그다음엔 나한테 화를 냈고, 그다음엔 출근했어. 그 순서대로.
+Henrik|B2|Så gör mammor som har jobbat natt i många år. De har inte tid att gå sönder, så de skjuter upp det till morgonen.|오래 야간 근무한 엄마들은 그래. 무너질 시간이 없으니까, 그걸 아침으로 미루는 거야.
+Viktor|B2|Hon sa ja till en kopia, under förutsättning att originalet så småningom hamnar hos polisen på ett sätt som inte pekar ut Liam.|사본은 괜찮대. 단, 원본은 결국 경찰한테 가야 한다는 조건으로. 리암을 드러내지 않는 방식으로.
+Amira|B1|Då gör vi det ordentligt. Först tar jag en kopia av hela minnet, bit för bit, och sedan räknar jag ut en hashsumma.|그럼 제대로 하자. 먼저 메모리 전체를 비트 단위로 그대로 복사하고, 그다음에 해시값을 계산할게.
+Viktor|A1|En vad?|뭐라고?
+Amira|B2|Ett slags fingeravtryck: en lång rad siffror och bokstäver, som skulle bli en helt annan om så mycket som en enda bit i telefonen ändrades.|일종의 지문이야. 숫자랑 글자로 된 긴 줄인데, 폰 안에서 비트 하나만 바뀌어도 완전히 다른 값이 돼.
+Henrik|A2|Så ingen kan säga att vi har fuskat.|그러니까 아무도 우리가 조작했다고 못 하겠구먼.
+Amira|B2|Precis. Om en domstol någon gång vill se det här, kan vi visa att kopian är exakt densamma som telefonen var i kväll, klockan 18.42.|맞아요. 언젠가 법원이 이걸 보겠다고 하면, 사본이 오늘 밤 18시 42분의 폰과 정확히 같다는 걸 보여 줄 수 있어요.
+Viktor|A2|Jag skriver upp tiden. Skriv du också.|내가 시각 적을게. 너도 적어.
+Amira|B1|Summan skriver jag på kuvertet. Sedan lägger vi telefonen i det, klistrar igen det och skriver båda två under, tvärs över förseglingen.|해시값은 봉투에 적고. 그다음에 폰을 넣고 봉해서, 봉인 위를 가로질러 둘 다 서명하는 거야.
+Henrik|A1|Och kopian?|사본은?
+Amira|B1|Den finns bara på den här gamla datorn. Den har aldrig varit uppkopplad mot internet, och det kommer den aldrig att bli.|이 낡은 노트북에만 있어요. 인터넷에 한 번도 연결된 적 없고, 앞으로도 절대 안 될 거예요.
+Viktor|A2|En dator som är som papper. Den gillar jag.|종이 같은 컴퓨터네. 마음에 들어.
+Amira|A1|Klart. Nu tittar vi.|됐다. 이제 보자.
+Henrik|A2|Vad ser du?|뭐가 보여?
+Amira|B1|Först en chattapp med en enda kontakt: ”N”. Inget namn, ingen bild. Han gav Liam telefonen den fjortonde oktober, och det första meddelandet är ”Ha den på. Alltid.”|먼저 채팅 앱. 연락처는 딱 하나, "N". 이름도 사진도 없어. 10월 14일에 리암한테 폰을 줬고, 첫 메시지가 "켜 둬. 항상."이야.
+Viktor|A1|Läs fler.|더 읽어 봐.
+Amira|B1|Tjugoförsta oktober: en dörr och en smäll, samma tecken som på prislistan, och sedan ”Vänta på adressen”. Och den tjugofemte, klockan 23.10: ”I natt. Tunnelbanan. Ta inget med dig.”|10월 21일. 문 이모지랑 '쾅' 이모지, 가격표에 있던 거랑 같은 표시야. 그다음엔 "주소 기다려." 그리고 25일 23시 10분. "오늘 밤. 지하철. 아무것도 갖고 오지 마."
+Viktor|B2|Trettioåtta minuter innan han försvann från Ebbas karta. Det var N som skickade honom till Uppsala, och hade vi vetat det i oktober, hade vi kunnat ge polisen något mer än en prick på en karta.|에바 지도에서 사라지기 38분 전이야. 리암을 웁살라로 보낸 게 N이었어. 10월에 그걸 알았으면, 경찰한테 지도 위의 점 하나보다 나은 걸 줄 수 있었을 텐데.
+Henrik|B2|Och den som skriver så kort och så korrekt, med punkt efter varje mening, har inte vuxit upp på Snapchat, om du frågar mig.|그리고 이렇게 짧고 정확하게, 문장마다 마침표 찍어 가며 쓰는 사람은 스냅챗 보면서 자란 놈이 아니야, 내가 보기엔.
+Amira|B1|Kanske. Men att någon kan sätta punkt bevisar ingenting. Titta på det här i stället.|그럴지도요. 근데 마침표 찍을 줄 안다고 증명되는 건 없어요. 대신 이거 봐요.
+Viktor|A1|En grupp?|그룹?
+Amira|B2|En gruppchatt som heter ”Jobb”, med tjugotre medlemmar. Telefonen kan inte ha varit ny när Liam fick den, eftersom chatten går tillbaka till augusti, alltså långt innan någon ens hade lagt till honom på Snap.|"일"이라는 그룹 채팅, 멤버 스물세 명. 리암이 받았을 때 폰이 새것이었을 리가 없어. 채팅이 8월까지 거슬러 올라가거든. 누가 스냅에서 리암을 추가하기도 한참 전이야.
+Henrik|A2|Och vad skriver de där?|거기선 뭘 쓰는데?
+Amira|B1|Barnen skickar kvitton. När ett jobb är gjort och de har fått betalt, tar de en skärmdump av Swish och lägger upp den som bevis.|애들이 영수증을 보내요. 일을 끝내고 돈을 받으면, Swish 화면을 캡처해서 증거로 올리는 거죠.
+Viktor|A1|Hur många?|몇 개야?
+Amira|B1|Sjutton Swish-betalningar, samma avsändare. Göttigt — de har inte ens bytt konto.|Swish 송금 17건, 같은 송금인. 끝내주네 — 계좌도 안 바꿨어.
+Henrik|B2|Samma avsändare i tre månader, fast varenda polis i landet letar efter just sådana betalningar? Det låter nästan för dumt för att vara sant.|석 달 내내 같은 송금인이라고? 전국 경찰이 다 바로 그런 송금을 찾고 있는데? 너무 멍청해서 거짓말 같구먼.
+Amira|B2|Kanske för att det inte ens är en person. I oktober såg vi tre nummer som var registrerade på privatpersoner, men det här är ett företagsnummer, och det som står under beloppet är ett bolagsnamn: SV Logistik & Bemanning AB.|사람이 아니라서 그런가 봐요. 10월엔 개인 명의로 된 번호 세 개를 봤잖아요. 근데 이건 법인 번호예요. 금액 밑에 적힌 건 회사 이름이고요. SV 로지스티크 오 베만닝 AB.
+Viktor|A1|Ett bolag.|회사라.
+Amira|A2|Från femhundra till femtusen kronor. Totalt fyrtioentusen femhundra.|500크로나부터 5천 크로나까지. 다 합치면 4만 1,500크로나.
+Viktor|A1|Följ pengarna.|돈을 따라가.
+# 장면 4 — 밤 9시, Källaren 화이트보드 앞 (헨릭이 출력해 온 법인등기와 Omsorgia 연례보고서, 소피아의 젖은 코트)
+Sofia|B1|Jag kom så fort jag kunde, men tunnelbanan stod stilla vid Fridhemsplan i tjugo minuter. Var är telefonen?|최대한 빨리 왔는데, 지하철이 프리드헴스플란에서 20분이나 서 있었어. 폰은 어디 있어?
+Viktor|B1|I ett förseglat kuvert med Amiras och min namnteckning. Hashsumman står på framsidan.|봉인한 봉투 안에. 아미라랑 내 서명이 있고, 해시값은 앞면에 적혀 있어.
+Sofia|B1|Då ligger den i mitt kassaskåp i natt. Henrik, du har skrivit ut något.|그럼 오늘 밤은 내 금고에 둔다. 헨릭, 뭘 출력해 왔네.
+Henrik|B1|Bolagsverket. SV Logistik & Bemanning AB registrerades 2021, och adressen är ett industriområde i Norrvik.|법인등기소 자료야. SV 로지스티크 오 베만닝 AB는 2021년에 등록됐고, 주소는 노르비크의 공업지구야.
+Sofia|A1|Styrelsen?|이사회는?
+Henrik|B1|En enda ledamot, en man på tjugofyra år som inte har några andra uppdrag. Enligt årsredovisningen har bolaget inga anställda, men det omsatte fyra miljoner i fjol.|이사는 딱 한 명. 스물네 살 남자고, 다른 직함은 하나도 없어. 연차보고서상 직원은 한 명도 없는데, 작년 매출이 400만이야.
+Amira|A2|Fyra miljoner utan en enda anställd. Fan.|직원 하나 없이 400만. 젠장.
+Viktor|A1|Från vem?|누구한테서?
+Amira|B1|Det är nästa sak. När jag tog kopian hittade jag också raderade bilder, och de låg kvar i minnet. Det är foton av fakturor.|그게 다음이야. 사본 뜰 때 지워진 사진들도 찾았는데, 메모리에 그대로 남아 있었어. 청구서 사진들이야.
+Sofia|A2|Fakturor till vem?|누구 앞으로 된 청구서?
+Amira|B1|Alla från SV Logistik, och alla till samma kund: Trygga Händer Assistans AB. En i månaden, från januari till oktober, för ”bemanning”.|전부 SV 로지스티크가 보낸 거고, 전부 같은 고객 앞이야. 트뤼가 헨데르 아시스탄스 AB. 1월부터 10월까지 매달 한 장씩, 항목은 '인력 파견'.
+Henrik|B1|Och här är Omsorgias årsredovisning. Sidan fyrtiosju, listan över dotterbolag: Trygga Händer Assistans AB, helägt.|그리고 이게 옴소리아 연례보고서야. 47쪽, 자회사 목록. 트뤼가 헨데르 아시스탄스 AB, 100퍼센트 소유.
+Viktor|B1|Pengarna till pojkarna kom från ett bolag som fakturerar Omsorgia varje månad.|애들한테 간 돈은 매달 옴소리아에 청구서를 보내는 회사에서 나왔어.
+Sofia|B2|Via ett dotterbolag, Viktor. Den skillnaden kan låta som en juridisk detalj, men det är den som avgör om vi skriver sanningen eller bara något som liknar den.|자회사를 거쳐서야, 빅토르. 그 차이가 법률적인 사소한 문제처럼 들릴지 몰라도, 우리가 진실을 쓰는지 그냥 진실 비슷한 걸 쓰는지는 바로 그게 가르는 거야.
+Henrik|A2|Glansigt papper. Fina bilder på glada gamlingar. Det är inte guld allt som glimmar.|반들반들한 종이. 웃는 노인들 사진. 반짝인다고 다 금은 아니지.
+Amira|B1|Och Trygga Händer lever på assistansersättning. Försäkringskassan betalar för varje timme en assistent jobbar hos någon med funktionsnedsättning.|그리고 트뤼가 헨데르는 개인보조 수당으로 먹고살아. 보조인이 장애인 곁에서 일하는 시간마다 사회보험청이 돈을 내거든.
+Viktor|B2|Om skattepengar till assistans används för att betala barn för våld, då är välfärden själv en del av maskinen.|개인보조에 쓰라는 세금이 애들한테 폭력의 대가로 쓰인다면, 복지 자체가 그 기계의 일부인 거야.
+Sofia|B2|Om. Vi vet inte om någon på Omsorgia vet om det här, och vi vet inte om Trygga Händer har blivit lurade eller är med på det. Innan vi vet det, är det här ingen artikel.|'만약'이야. 옴소리아에 이걸 아는 사람이 있는지 우린 몰라. 트뤼가 헨데르가 속은 건지 한패인지도 모르고. 그걸 알기 전까진 이건 기사가 아니야.
+Amira|B2|Och det här är bara toppen av isberget. I en annan mapp finns det skärmdumpar från en bankapp med över tvåhundra betalningar, och jag har inte ens börjat räkna.|그리고 이건 빙산의 일각일 뿐이에요. 다른 폴더에 은행 앱 캡처가 있는데, 송금이 200건이 넘어요. 아직 세어 보기 시작도 안 했어요.
+Sofia|A2|Hur lång tid behöver du?|시간이 얼마나 필요해?
+Amira|A2|Veckor. Kanske hela julen.|몇 주요. 크리스마스 내내일 수도 있어요.
+Viktor|A2|Och Liam? Vad händer med honom?|그럼 리암은? 리암은 어떻게 돼?
+Sofia|B2|Vi lämnar aldrig ut honom. Men bevisen måste förr eller senare hamna hos polisen. Hur, det får Lars hjälpa oss med.|우리는 절대 그 애를 넘기지 않아. 하지만 증거는 언젠가 경찰에 닿아야 해. 어떻게 할지는 라르스가 도와줄 거야.
+Henrik|B1|Kan polisen inte bara komma hit och ta kuvertet? Det står ju i ditt kassaskåp.|경찰이 그냥 여기 와서 봉투를 가져가면 안 되나? 당신 금고에 있잖아.
+Sofia|B2|Beslag hos en tidning av material som kan röja en källa är kraftigt begränsat i lag, och det gäller en fjortonåring lika mycket som en minister. Men skyddet är vårt att hålla, inte en ursäkt för att gömma bevis om barn som köps för våld.|취재원을 드러낼 수 있는 신문사 자료의 압수는 법으로 엄격히 제한돼 있어. 그건 장관이든 열네 살이든 똑같이 적용돼. 하지만 그 보호는 우리가 지켜야 할 의무지, 폭력에 팔려 가는 애들에 대한 증거를 숨기는 핑계가 아니야.
+Viktor|B1|Petra ringer polisen i morgon om meddelandet från i går. Det handlar om Liams säkerhet, inte om vår artikel.|페트라 씨가 내일 어제 온 메시지 때문에 경찰에 전화할 거야. 그건 리암의 안전 문제지, 우리 기사 문제가 아니야.
+Sofia|A2|Bra. Jag ringer Lars klockan sju.|좋아. 일곱 시에 라르스한테 전화할게.
+# 장면 5 — 자정, Källaren (화이트보드의 사슬, 빅토르의 종이 수첩, 반쯤 꺼진 형광등)
+Henrik|A1|Klockan är tolv.|열두 시다.
+Amira|A2|Jag stänger datorn nu. Den följer med mig ingenstans.|이제 노트북 닫을게요. 이건 어디에도 안 가지고 나가요.
+Sofia|A1|Gå hem, Amira.|집에 가, 아미라.
+Amira|A2|Om fem minuter. Jag vill titta på tavlan en gång till.|5분만요. 화이트보드 한 번만 더 볼래요.
+Henrik|A2|Zenit. SV Logistik. Trygga Händer. Omsorgia.|제니트. SV 로지스티크. 트뤼가 헨데르. 옴소리아.
+Viktor|A2|Och längst ner: en pojke med en strumpa.|그리고 맨 아래엔 양말 신은 남자애 하나.
+Sofia|A1|Vad skriver du?|뭘 쓰는 거야?
+Viktor|B1|Första sidan i blocket. Den sjunde oktober skrev jag ”Vem visste?” och lämnade tre tomma rader under.|수첩 첫 장. 10월 7일에 "누가 알았나?"라고 쓰고 밑에 빈 줄 세 개를 남겨 뒀어.
+Henrik|B1|Du sa att du bara skulle fylla dem när du var säker.|확실할 때만 채우겠다고 했잖아.
+Viktor|B2|Jag är inte säker på svaret. Men jag är säker på frågan, och det är första gången på sju veckor. På första raden skriver jag: ”Vem betalade?”|답은 확실하지 않아. 하지만 질문은 확실해. 7주 만에 처음으로. 첫 줄에 쓸게. "누가 돈을 냈나?"
+Amira|A2|Din telefon lyser, Viktor.|빅토르, 휴대폰 불 들어왔어.
+Alva|A2|Pappa. Polisen slutar köra förbi i morgon. Mamma säger att det är bra. Är det bra?|아빠. 내일부터 경찰이 집 앞에 안 온대. 엄마는 잘된 거래. 잘된 거야?
+Henrik|A1|Svara henne.|답장해.
+Viktor|A2|Vad ska jag skriva? Att jag inte vet?|뭐라고 써? 모르겠다고?
+Henrik|B2|Det har du aldrig skrivit till någon, inte ens till mig, och det kanske är därför hon fortfarande frågar.|그런 말은 누구한테도 써 본 적 없잖아. 나한테도. 그래서 걔가 아직도 묻는 걸지도 모르지.
+Amira|B2|Jag går hem nu. Men om jag hade varit Alva, hade jag hellre fått ett ”jag vet inte” än ingenting alls.|이제 집에 갈게요. 근데 내가 알바였으면, 아무 답도 없는 것보다는 '모르겠다'라도 받는 게 나았을 거예요.
+Sofia|A2|Vem tjänar på det, Viktor?|누가 이득을 보지, 빅토르?
+Viktor|B2|Inte pojkarna. Jonte fick aldrig sina pengar, och Liam fick en skuld som aldrig fanns. Den som tjänar på det sitter någonstans där ingen av dem någonsin kommer att se honom.|애들은 아니야. 욘테는 끝내 돈을 못 받았고, 리암은 있지도 않은 빚을 졌어. 이득을 보는 놈은 그 애들 누구도 평생 못 볼 데 앉아 있어.
+Henrik|B1|Assistansersättning. Det är skattepengar, Viktor. Våra pengar.|개인보조 수당. 그건 세금이야, 빅토르. 우리 돈이라고.
+Viktor|A2|Det här handlar inte om gäng. Det handlar om pengar.|이건 갱단 얘기가 아니야. 돈 얘기야.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Här. Ta den.** | 여기요. 가져가요. | 무언가를 건네는 가장 짧은 문장. *här*(여기) 하나로 "자, 받아"가 되고, 명령형 *ta*(가져가다) + 목적어 대명사 *den*(공성 명사 *telefonen*을 받음). 물건이 중성 명사면 *det*: *Ta det.* |
+| `A2` | **Jag har gömt den i en strumpa sedan oktober.** | 10월부터 양말 속에 숨겨 놨어요. | 현재완료 *har gömt*(← *gömma*, 숨기다) + *sedan*(~부터) = 과거에 시작해 지금까지 이어지는 일. 한국어 "~해 왔다"에 가깝다. 과거형 *gömde*를 쓰면 "숨겼다(그리고 끝났다)"가 된다 |
+| `A2` | **Jag vill inte ha den längre.** | 이제 이거 갖고 있기 싫어요. | *inte … längre* = 더 이상 ~ 않다. *vill ha* = 갖고 싶다. 리암이 무서웠던 것은 "보여 주는 것"이 아니라 "갖고 있는 것" 자체였다 |
+| `B1` | **Pengarna till pojkarna kom från ett bolag som fakturerar Omsorgia varje månad.** | 애들한테 간 돈은 매달 옴소리아에 청구서를 보내는 회사에서 나왔어. | 관계절 *som fakturerar …*가 *ett bolag*를 꾸민다. *fakturera* = 청구서를 발행하다(명사 *faktura*). 소피아가 바로 "자회사를 거쳐서"라고 고치는 것처럼, 기사 문장에서는 이런 압축이 사실보다 앞서 나가지 않게 조심해야 한다 |
+| `B2` | **Om skattepengar till assistans används för att betala barn för våld, då är välfärden själv en del av maskinen.** | 개인보조에 쓰라는 세금이 애들한테 폭력의 대가로 쓰인다면, 복지 자체가 그 기계의 일부인 거야. | *-s* 수동형 *används*(쓰이다) + *för att* + 부정사(~하기 위해). *om …, då …* 구조로 조건을 세우고 결론을 *då*로 받는다. *själv*는 명사 뒤에서 "그 자체" |
+| 구어 | **toppen av isberget** | 빙산의 일각 | 아미라: *Det här är bara toppen av isberget.* 한국어와 같은 이미지의 관용구. 보이는 17건 뒤에 은행 앱 캡처 200여 건이 숨어 있다 |
+| 구어 | **Det är inte guld allt som glimmar.** | 반짝인다고 다 금은 아니다. | 헨릭이 Omsorgia의 반들반들한 연례보고서를 보며 하는 옛 속담. 어순에 주의 — 직역하면 "반짝이는 모든 것이 금은 아니다" |
+| 언론·법 | **beslag** | 압수 | 수사기관이 증거물을 강제로 가져가는 것. 언론사가 가진 자료 중 취재원을 드러낼 수 있는 것에 대한 압수는 법으로 엄격히 제한된다. 동사는 *ta i beslag*(14화 요한나: *har vi tagit i beslag*) |
+
+## 저널리즘·법 메모
+스웨덴의 *meddelarskydd*(제보자 보호)는 나이를 묻지 않는다 — 열네 살 리암도 기자에게 정보를 건넨 순간 보호받는 제보자이고, 빅토르의 "아무도 네 이름을 모를 거야"는 개인적 약속이기 전에 법적 의무(*tystnadsplikt*)다. 취재원을 드러낼 수 있는 언론사 자료에 대한 *beslag*(압수)가 법으로 엄격히 제한되는 것도 같은 원칙에서 나온다. 그러나 소피아가 말하듯 그 보호는 증거를 숨기는 핑계가 될 수 없다: 팀은 휴대폰을 "가져가는" 대신 포렌식 사본을 뜨고, 원본의 해시값을 봉투에 적어 봉인하고, 사본은 인터넷과 단절된 노트북에만 둔다. 언젠가 원본이 수사기관에 닿을 때, 그것이 기자 손을 거치는 동안 한 비트도 바뀌지 않았음을 증명하기 위해서다. 또 하나 — "애들 돈을 낸 회사가 Omsorgia에 청구한다"는 문장과 "Omsorgia가 애들에게 돈을 냈다"는 문장 사이에는 큰 거리가 있다. 누가 무엇을 알았는지 확인하기 전까지, 탐사보도는 그 거리를 한 단어도 줄여 쓰지 않는다.
+
+## 문화·현안 메모
+- **Första advent(첫 번째 대림절)** — 크리스마스 전 네 번째 일요일. 창가에 네 자루짜리 촛대(*adventsljusstake*)를 두고 일요일마다 한 자루씩 더 켠다. 사프란 빵 *lussebulle*는 원래 12월 13일 루시아 축일의 빵이라, 에바는 "아직 이르다"고 놀린다 — 물론 요즘은 11월부터 가게에 나온다.
+- **Swish** — 휴대폰 번호로 즉시 송금하는 스웨덴의 국민 결제 서비스. 개인 번호와 달리 사업자용 번호(*Swish för företag*)는 받는 쪽 화면에 회사 이름이 찍힌다. 이번 화에서 그 한 줄이 사슬의 첫 고리가 됐다.
+- **assistansersättning(개인보조 수당)** — 중증 장애인이 일상생활에 필요한 보조인 시간을 사회보험청(*Försäkringskassan*)이 업체에 시간 단위로 지급하는 제도. 막대한 공공 예산이 민간 업체를 통해 흐르기 때문에, 실제로 일하지 않은 시간의 청구나 범죄 조직의 업체 장악이 반복해서 문제가 되어 왔다 — 2부 *Välfärdsmaskinen*의 무대다.
+- **Bolagsverket과 연례보고서** — 스웨덴의 법인등기소. 회사의 이사, 등록 주소, 연례보고서(*årsredovisning*)를 누구나 열람할 수 있다. "직원 0명, 매출 400만"처럼 공개 문서끼리의 모순이 탐사보도의 출발점이 된다.
+
+## 다음 화 예고
+> 2부 *Välfärdsmaskinen* — 새해 첫 출근날, 아미라가 크리스마스 내내 정리한 송금 212건과 함께 제보함에 한 줄이 도착한다: "Industrigatan 4, Norrvik. Räkna brevlådorna."
