@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (29/105화 완성)
+## 대본 목차 (30/105화 완성)
 
 ### 1부
 
@@ -63,3 +63,4 @@
 | 12 | [Försäkringskassan](episodes/k2_e12.md) | 사회보험청 |
 | 13 | [Limassol](episodes/k2_e13.md) | 리마솔 |
 | 14 | [Sändningen](episodes/k2_e14.md) | 방송 |
+| 15 | [Efterspelet](episodes/k2_e15.md) | 후폭풍 |
