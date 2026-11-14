@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (39/105화 완성)
+## 대본 목차 (40/105화 완성)
 
 ### 1부
 
@@ -78,3 +78,4 @@
 | 7 | [MUST](episodes/k3_e07.md) | 군 정보국 |
 | 8 | [Fällan](episodes/k3_e08.md) | 함정 |
 | 9 | [Misstanken](episodes/k3_e09.md) | 의심 |
+| 10 | [Tallinn](episodes/k3_e10.md) | 탈린 |

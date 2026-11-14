@@ -1,0 +1,188 @@
+@title 3부 10화 — Tallinn
+@subtitle (탈린)
+@meta 날짜|2026년 4월 17일 금요일 오전 10시 ~ 4월 18일 토요일 정오 (현지 시각). 에스토니아는 스웨덴보다 1시간 빠르다
+@meta 장소|탈린 구시가지, 비루 문 옆 성벽 (금요일 오전 10시) → 텔리스키베(Telliskivi) 옛 공장 건물의 *Uurija* 편집실 (오전 11시 30분) → 같은 건물의 유리 회의실 "어항" (오후 3시경) → 탈린 동쪽 무가(Muuga) 항구 방파제 (토요일 오전 11시) → 방파제 옆 주차장 (정오)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Kadri** (카드리 탐, 38, 탈린의 탐사매체 *Uurija* 기자 — 웁살라 유학, 에스토니아 억양의 스웨덴어에 *ju*를 자주 섞고 가끔 에스토니아어) · **Mart** (마르트, 30대, *Uurija*의 데이터 개발자 — 영어로 말함) · **Noah** (노아 베리룬드, 24, 기자 — 스톡홀름에서 화상통화·전화로) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자 — 전화로) · **Sasha** (올렉산드르 "사샤" 코발렌코, 35, 우크라이나 전 해군 장교)
+@intro **지난 이야기** — Säpo의 뤼덴은 질문 대신 사실 하나만 탁자에 두고 갔다: 사샤의 처남이 러시아 벨고로드에 산다. 팀은 갈라졌고, 소피아는 '판결이 아니라 예방 조치'로 사샤의 계정을 닫았다. 체인을 건 문 앞에서 사샤는 말했다 — "나라를 한 번 잃었어요. 이제 당신들도 잃네요."
+@intro 사흘 뒤, 4월 17일 금요일. 헬싱키의 안소피가 소개한 에스토니아 기자 카드리 탐이 "당신들 유조선의 보험에 관해 보여 줄 게 있다"고 연락해 왔다. 아침 비행기로 탈린에 내린 빅토르와 아미라가 비루 문 옆 성벽 아래에서 그녀를 기다린다.
+# 장면 1 — 금요일 오전 10시, 탈린 구시가지 비루 문 옆 성벽 (자갈길, 자전거를 끌고 오는 카드리, 관광객이 없는 이른 봄의 골목)
+Kadri|A1|Tere! Ni måste vara Viktor och Amira.|(에스토니아어로) 안녕하세요! (스웨덴어로) 빅토르 씨랑 아미라 씨죠?
+Viktor|A1|Det stämmer. Kadri?|맞아요. 카드리 씨?
+Kadri|A1|Välkommen till Tallinn!|탈린에 오신 걸 환영해요!
+Amira|A2|Tack. Kom du på cykel, över de här stenarna?|고마워요. 이 돌길을 자전거로 왔어요?
+Kadri|B1|Kullerstenarna är ju hemska, men i gamla stan är cykeln snabbare än bilen. Och den låter inte när jag följer efter någon.|자갈길은 끔찍하죠. 그래도 구시가지에선 자전거가 차보다 빨라요. 그리고 누굴 따라갈 때 소리도 안 나고요.
+Viktor|A2|Följer du efter folk ofta?|사람들 자주 따라다녀요?
+Kadri|A2|Bara dem som ljuger för mig. Kom ni med morgonplanet?|저한테 거짓말하는 사람만요. 아침 비행기로 오셨어요?
+Amira|A2|Från Arlanda klockan sju. Viktor sov hela vägen.|7시에 아를란다에서요. 빅토르는 내내 잤어요.
+Kadri|B2|Ställ om klockan, för här går den ju en timme före Stockholm. I mitt jobb är tidszoner halva arbetet: ryska kanaler skriver i Moskvatid, fartygen i UTC och ni svenskar i er egen tid – och den som räknar fel publicerar fel.|시계 맞추세요. 여긴 스톡홀름보다 한 시간 빠르거든요. 제 일에선 시간대가 일의 절반이에요. 러시아 채널은 모스크바 시간으로, 배는 UTC로, 당신네 스웨덴 사람들은 자기네 시간으로 써요. 계산을 틀리면 틀린 걸 내보내게 되죠.
+Viktor|A2|Ann-Sofie sa att du är noggrann.|안소피가 당신이 꼼꼼하다고 하더군요.
+Kadri|B1|Det säger Ann-Sofie ju om alla som hon har druckit vodka med. Hon ringde mig i onsdags och sa att ni behövde någon som kan försäkringar.|안소피는 같이 보드카 마셔 본 사람한텐 다 그렇게 말해요. 수요일에 전화해서 당신들한테 보험 아는 사람이 필요하다고 하더라고요.
+Amira|A2|Vi visste inte ens att vi behövde det.|우리가 그게 필요한 줄도 몰랐어요.
+Kadri|B1|Det vet ingen förrän en tanker börjar läcka. Kom, vi går längs muren. Redaktionen ligger i Telliskivi, tio minuter härifrån.|유조선에서 기름이 새기 전엔 아무도 몰라요. 가요, 성벽 따라 걸어요. 편집실은 텔리스키베에 있어요. 여기서 10분이에요.
+Viktor|A1|Du pratar bra svenska.|스웨덴어 잘하시네요.
+Kadri|B1|Jag pluggade ju i Uppsala, så jag vet hur ni tänker.|웁살라에서 공부했잖아요. 그러니 당신들이 어떻게 생각하는지 알죠.
+Amira|A1|Och hur tänker vi?|그럼 우리가 어떻게 생각하는데요?
+Kadri|B2|Ni tror att allt går att lösa med en fika och ett möte, och att ingen egentligen vill er något ont. Och ni svenskar tror ju att Östersjön är er insjö.|피카 한 번이랑 회의 한 번이면 다 해결된다고, 사실 아무도 당신들한테 나쁜 마음은 없다고 생각하죠. 그리고 당신네 스웨덴 사람들은 발트해가 자기네 호수인 줄 알잖아요.
+Viktor|A2|Det var den en gång.|한때는 그랬죠.
+Kadri|B2|Ja, på sextonhundratalet. Här säger man fortfarande ”den gamla goda svensktiden”, men det säger man ju mest för att det som kom efter var värre.|네, 1600년대에요. 여기선 아직도 "좋았던 옛 스웨덴 시절"이라고들 해요. 근데 그건 주로 그 뒤에 온 게 더 나빴기 때문에 하는 말이죠.
+Amira|A2|Var bodde du i Uppsala?|웁살라에서는 어디 살았어요?
+Kadri|B1|I en studentkorridor i Flogsta, i två år. Där lärde jag mig svenska – och att man aldrig tar den sista kanelbullen.|플로그스타의 학생 기숙사 복도에서 2년이요. 거기서 스웨덴어를 배웠죠. 그리고 마지막 시나몬롤은 절대 가져가면 안 된다는 것도요.
+Amira|A2|Varför flyttade du hem igen?|왜 다시 고향으로 돌아왔어요?
+Kadri|B2|Min mormor satt tio år i Sibirien för att hon hade skrivit fel sak i ett brev. När jag själv fick skriva vad jag ville, kändes det fel att göra det någon annanstans än här.|우리 외할머니는 편지에 써선 안 될 걸 썼다고 시베리아에서 10년을 사셨어요. 제가 쓰고 싶은 걸 쓸 수 있게 됐을 때, 그걸 여기 말고 다른 데서 한다는 게 맞지 않는 것 같았어요.
+Viktor|A2|Hur många är ni på Uurija?|우리야에는 몇 명이 있어요?
+Kadri|B1|Elva personer och en hund. Uurija betyder ”den som utreder”, och hunden är den enda av oss som aldrig har blivit stämd.|열한 명이랑 개 한 마리요. '우리야'는 '조사하는 사람'이라는 뜻이고, 우리 중에 고소 한 번 안 당해 본 건 그 개뿐이에요.
+Amira|A1|Vem stämde er?|누가 고소했는데요?
+Kadri|A2|Ett rederi. Två gånger. Ni får snart se varför.|선박 회사요. 두 번이나요. 왜 그랬는지 곧 보게 될 거예요.
+# 장면 2 — 오전 11시 30분, 텔리스키베 옛 공장 건물의 *Uurija* 편집실 (벽 한 면을 가득 채운 보험 증서 사본, 발트해 지도에 꽂힌 빨간 핀들, 책상 밑에서 자는 개 킬루)
+Amira|A1|Herregud. Hela väggen?|맙소사. 벽 전체가요?
+Kadri|B1|Akta hunden under bordet, han heter Kilu. Och ja: trehundrafyrtio dokument från två år – hamnstatskontroller, försäkringskontroller till sjöss och papper som fartygen själva har mejlat till våra myndigheter.|책상 밑에 개 조심하세요, 이름이 킬루예요. 네, 맞아요. 2년 동안 모은 서류 340건이에요. 항만국 통제 기록, 해상 보험 점검, 그리고 배들이 직접 우리 당국에 메일로 보낸 서류들.
+Viktor|A2|Hur fick du tag på dem?|그걸 어떻게 구했어요?
+Kadri|B2|De flesta genom begäran om allmänna handlingar, precis som hos er, fast vår lag är ju mycket yngre. Resten kommer från folk i hamnen, och om dem säger jag ingenting, inte ens till er.|대부분은 공문서 공개 청구로요. 당신네랑 똑같이요. 우리 법이 훨씬 젊긴 하지만요. 나머지는 항구 사람들한테서 왔는데, 그 사람들에 대해선 아무 말도 안 해요. 당신들한테도요.
+Viktor|A2|Bra. Vi frågar inte.|좋아요. 우린 안 물어요.
+Kadri|B1|Då förstår vi varandra. Titta här: tjugotre tankers, och alla har försäkringsbevis från samma bolag – Halcyon Marine i Limassol.|그럼 서로 이해한 거예요. 여길 봐요. 유조선 23척, 전부 같은 회사의 보험 증서를 갖고 있어요. 리마솔의 핼시온 마린.
+Amira|A1|Limassol. Igen.|리마솔. 또.
+Kadri|A2|Igen? Har ni varit där?|또요? 거기 가 봤어요?
+Viktor|B1|I början av mars, för en helt annan historia. Den slutade också vid ett fartyg.|3월 초에요. 완전히 다른 기사 때문에. 그 기사도 결국 배 한 척에서 끝났죠.
+Kadri|B1|Då kommer ni att gilla det här. Titta på numren. Alla bevis har samma mönster: HM, årtal, snedstreck, fyra siffror och sedan BLT, för Baltic, tror vi. Inget riktigt försäkringsbolag numrerar så.|그럼 이거 마음에 드실 거예요. 번호를 봐요. 증서마다 패턴이 똑같아요. HM, 연도, 빗금, 숫자 네 개, 그리고 BLT. 발틱이란 뜻 같아요. 진짜 보험사는 그렇게 번호를 안 매겨요.
+Viktor|A1|Och Eventide Star?|그럼 Eventide Star는요?
+Kadri|B1|Hon hette Noor Seven när vår marin kontrollerade henne i oktober. Kaptenen mejlade det här beviset inom tio minuter: HM, tjugofem, snedstreck, noll fyra ett sju, BLT.|작년 10월에 우리 해군이 점검했을 땐 이름이 누르 세븐이었어요. 선장이 10분 만에 이 증서를 메일로 보냈죠. HM, 25, 빗금, 0417, BLT.
+Amira|A1|Och adressen?|주소는요?
+Kadri|A2|Försäkringsbolaget har bara en adress och en brevlåda.|그 보험사엔 주소 하나랑 우편함 하나뿐이에요.
+Amira|B1|Vänta, jag jämför med vårt eget material… Fan. Det är samma hus som Eventide Stars ägarbolag. Huset med fjortonhundra brevlådor.|잠깐만요, 우리 자료랑 대조해 볼게요… 젠장. Eventide Star 소유 회사랑 같은 건물이에요. 우편함 1,400개짜리 그 건물.
+Viktor|B1|Intressant. Men att två bolag har samma brevlåda bevisar ingenting – det har tusen andra bolag också.|흥미롭네. 하지만 두 회사 우편함이 같다는 건 아무것도 증명 못 해. 다른 천 개 회사도 그러니까.
+Amira|B1|Ge mig tio minuter. Jag vill veta om Halcyon ens har rätt att sälja försäkringar.|10분만 줘. 핼시온이 보험을 팔 자격이라도 있는지 알고 싶어.
+Kadri|B2|Ta tjugo – lösenordet till wifi sitter på kylskåpet. Och medan hon letar, Viktor: förstår du varför det här är farligt? Det handlar inte bara om sanktioner, utan om vem som betalar när en gammal tanker går på grund i Finska viken.|20분 쓰세요. 와이파이 비밀번호는 냉장고에 붙어 있어요. 그리고 그분이 찾는 동안요, 빅토르. 이게 왜 위험한지 아세요? 제재만의 문제가 아니에요. 낡은 유조선이 핀란드만에서 좌초하면 누가 돈을 내느냐의 문제죠.
+Viktor|A1|Vem betalar?|누가 내는데요?
+Kadri|B2|Normalt försäkringen. En P&I-klubb täcker oljeutsläpp upp till enorma belopp, och därför släpper ingen seriös hamn in ett fartyg utan ett sådant bevis. Men om beviset är falskt betalar vi – du, jag och alla skattebetalare runt Östersjön.|보통은 보험이죠. P&I 클럽이 기름 유출을 엄청난 금액까지 보상해요. 그래서 제대로 된 항구는 그런 증서 없는 배를 안 받아 주고요. 그런데 증서가 가짜면 우리가 내요. 당신, 나, 그리고 발트해 주변 모든 납세자가.
+Viktor|A2|Och om hon läcker här?|그럼 그 배가 여기서 기름을 흘리면요?
+Kadri|B2|Titta på kartan. Fyrtio tusen ton råolja utanför Porkala når vår kust på två dygn. Sedan har vi ett grunt innanhav som byter vatten ungefär vart trettionde år, is som gör sanering omöjlig på vintern och fiskebyar som kan förlora ett helt decennium.|지도를 봐요. 포르칼라 앞바다에서 원유 4만 톤이 새면 이틀 만에 우리 해안에 닿아요. 그다음엔 물이 30년쯤에 한 번 바뀌는 얕은 내해, 겨울엔 방제를 불가능하게 만드는 얼음, 그리고 10년을 통째로 잃을 수 있는 어촌들이 남죠.
+Amira|A1|Jag är tillbaka.|나 왔어요.
+Kadri|A1|Och?|그래서요?
+Amira|B2|Halcyon Marine registrerades 2023 med tusen euro i aktiekapital och en direktör som sitter i fyrtio andra bolag. Bolaget finns inte i Cyperns register över försäkringsbolag med tillstånd, och jag har gått igenom alla tolv klubbarna i den internationella P&I-gruppen.|핼시온 마린은 2023년에 자본금 천 유로로 등록됐고, 이사 한 명은 다른 회사 40곳에도 이름이 올라 있어요. 키프로스의 허가받은 보험사 등록부에도 없고, 국제 P&I 그룹 12개 클럽도 전부 뒤져 봤어요.
+Viktor|A1|Andreas Michael?|안드레아스 미하일?
+Amira|A2|Nej, en annan direktör. Jag kollade det först.|아니, 다른 이사야. 그것부터 확인했어.
+Viktor|A1|Och klubbarna?|그럼 클럽은?
+Amira|B1|Halcyon finns inte i en enda P&I-klubb. Det är en brevlåda med en logga.|핼시온은 P&I 클럽 어디에도 없어. 로고 붙은 우편함일 뿐이야.
+Kadri|B1|Utan giltig försäkring borde fartyget aldrig ha fått segla genom Östersjön.|유효한 보험 없이는 그 배가 발트해를 지나가게 해선 절대 안 됐어요.
+Amira|B2|Och flaggstaten bryr sig inte. Gabon har aldrig bett om att få se beviset, för ett register som lever på avgifter har inget intresse av att granska sina egna kunder.|그리고 선적국은 신경도 안 써요. 가봉은 그 증서를 보여 달라고 한 적이 한 번도 없어요. 수수료로 먹고사는 등록처가 자기 고객을 들여다볼 이유가 없으니까요.
+Viktor|B2|Då är frågan inte bara vem som äger fartyget, utan vem som tjänar på att det får fortsätta segla med ett papper som ingen har kontrollerat.|그럼 문제는 누가 그 배 주인이냐만이 아니네요. 아무도 확인 안 한 종이 한 장으로 계속 항해하게 해서 누가 이득을 보느냐죠.
+Kadri|B2|Precis. Och därför vill jag lägga korten på bordet: jag har papperen, ni har fartyget och Limassol, och ingen av oss klarar det här ensam.|맞아요. 그래서 패를 다 펼쳐 놓고 싶어요. 저한텐 서류가 있고, 당신들한텐 그 배랑 리마솔이 있어요. 우리 중 누구도 혼자선 이걸 못 해요.
+Viktor|B1|Då föreslår jag samma regler som vi har med Helsingfors. Vi delar material, vi bestämmer publiceringsdagen tillsammans, och var och en skyddar sina egna källor.|그럼 헬싱키랑 하는 것과 같은 규칙을 제안할게요. 자료는 나누고, 보도일은 같이 정하고, 취재원은 각자 자기 걸 보호하고.
+Kadri|B2|Det sista är viktigast för mig. Om mina källor i hamnen tror att jag har gett deras papper till en utländsk tidning, slutar de prata med mig samma dag – och ingen kan ersätta dem.|마지막 게 저한텐 제일 중요해요. 항구의 제 취재원들이 제가 자기네 서류를 외국 신문에 넘겼다고 생각하면, 그날로 저랑 말을 끊을 거예요. 그리고 그 사람들을 대신할 사람은 없고요.
+Viktor|B2|Därför ser ni aldrig våra källor, och vi aldrig era. Vi delar det som går att kontrollera – dokument, register och satellitdata – och var och en ansvarar för sitt eget folk.|그러니까 당신들은 우리 취재원을 절대 못 보고, 우리도 당신들 걸 못 보는 거죠. 확인할 수 있는 것, 그러니까 문서, 등록부, 위성 데이터는 나누고, 사람은 각자 자기가 책임지는 거예요.
+Kadri|A2|Och om någon annan kommer nära?|다른 누가 가까이 오면요?
+Viktor|A2|Då ringer vi varandra. Ett dygn innan.|그럼 서로 전화하죠. 하루 전에.
+Kadri|B1|Avtalat. En sak till, innan vi äter: Mart har ett program som sparar allt som fyrtio ryska Telegramkanaler skriver om Östersjön, och i går sökte jag på er tidning.|합의된 걸로요. 하나 더요, 밥 먹기 전에. 마르트한테 러시아 텔레그램 채널 40개가 발트해에 대해 쓰는 걸 전부 저장하는 프로그램이 있어요. 어제 당신네 신문 이름으로 검색해 봤어요.
+Amira|A1|Hittade du något?|뭐 나왔어요?
+Kadri|B1|Ett inlägg från den nionde april. Det är raderat nu, men vi sparade det, och jag tror att ni vill läsa det med stängd dörr.|4월 9일 게시물 하나요. 지금은 지워졌지만 우리가 저장해 뒀어요. 문 닫고 읽고 싶으실 것 같아요.
+# 장면 3 — 오후 3시경, 같은 건물의 유리 회의실 "어항" (마르트의 노트북 화면에 뜬 키릴 문자 게시물, 빅토르의 수첩, 화상통화 속 노아)
+Mart|A2|The program saves every post with the server time, in UTC – deleted posts too. This one came at eight o'clock UTC, April ninth, and was deleted two hours later.|(영어로) 프로그램은 게시물마다 서버 시각을 UTC로 저장해요. 지워진 것도요. 이건 4월 9일 UTC 8시에 올라왔고, 두 시간 뒤에 지워졌어요.
+Amira|B1|Åtta UTC. Det betyder tio hos oss i Stockholm, och elva här och i Moskva.|UTC 8시. 그럼 스톡홀름은 10시고, 여기랑 모스크바는 11시야.
+Kadri|B2|Kanalen heter Baltijskij Kompas – liten men elak. Jag översätter: ”Svenska Stockholmsposten jagar sjömän. Besättningarna på följande fartyg står på deras lista. Sjömän, kom ihåg vem som betalar er lön, och vad som händer med dem som pratar.”|채널 이름은 '발티스키 콤파스'예요. 작지만 악랄하죠. 번역할게요. "스웨덴의 스톡홀름스포스텐이 선원 사냥을 하고 있다. 다음 배들의 선원들이 그들 명단에 올라 있다. 선원들이여, 누가 너희 월급을 주는지 기억하라. 그리고 입을 연 자들에게 무슨 일이 생기는지도."
+Viktor|A2|Och sedan? Fartygen?|그다음은요? 배들은요?
+Amira|B1|Sju namn. Saga Tern, Vinga Star, Ocean Lark, Baltic Wren… Det är min lista. Fartygen som passerade Eventide Star den tionde mars, när hon låg stilla i sex timmar.|이름 일곱 개. 사가 턴, 빙아 스타, 오션 라크, 발틱 렌… 내 명단이에요. 3월 10일에 Eventide Star가 여섯 시간 멈춰 있을 때 옆을 지나간 배들.
+Kadri|B2|Då är det här inte min sak längre. Det är ert hus och era källor, och jag vill inte veta mer än jag redan har sett. Ni får rummet och arkivet resten av eftermiddagen.|그럼 이건 이제 제 일이 아니네요. 당신들 집이고 당신들 취재원이에요. 이미 본 것보다 더 알고 싶지 않아요. 남은 오후 동안 이 방이랑 아카이브는 마음대로 쓰세요.
+Viktor|A1|Tack, Kadri.|고마워요, 카드리.
+Kadri|A2|Mart, lähme! Vi går ut med Kilu.|(에스토니아어로) 마르트, 가자! (스웨덴어로) 킬루 데리고 나가자.
+Amira|B1|Viktor, Sasha hade den listan. Jag skickade den till honom så att han kunde leta efter besättningarna, men jag minns inte vilken dag. Vi ringer Noah.|빅토르, 사샤가 그 명단 갖고 있었어. 선원들 찾아보라고 내가 보냈어. 근데 무슨 요일이었는지 기억이 안 나. 노아한테 전화하자.
+Noah|A1|Hallå! Jag ser er. Sitter ni i ett akvarium?|여보세요! 보여요. 어항 속에 앉아 있는 거예요?
+Viktor|B1|Ett mötesrum av glas. Noah, jag behöver tre tider, och jag vill att du läser dem direkt ur källan, inte ur minnet.|유리로 된 회의실이야. 노아, 시각 세 개가 필요해. 기억 말고 원본에서 바로 읽어 줘.
+Noah|B1|Okej, protokollet från mötet då Amira visade listan. Onsdag den åttonde april, klockan nio, och jag skrev det själv: ”Amira: sju fartyg som passerade den tionde mars. Listan läggs i hennes mapp i eftermiddag.”|알겠어요, 아미라 씨가 명단 보여 준 회의 회의록이요. 4월 8일 수요일 9시, 제가 직접 썼어요. "아미라: 3월 10일 통과 선박 7척. 명단은 오후에 본인 폴더에 올림."
+Viktor|A2|Var Sasha med på mötet?|사샤가 그 회의에 있었어?
+Noah|A2|Nej. Han sover på förmiddagarna, efter nattskiftet.|아뇨. 오전엔 자요. 야간 근무 끝나고요.
+Amira|B1|Listan låg i min mapp från fyra på eftermiddagen den åttonde. Och Sashas gästkonto kommer inte åt min mapp, bara AIS-mappen.|명단은 8일 오후 4시부터 내 폴더에 있었어. 그리고 사샤 게스트 계정은 내 폴더엔 못 들어가. AIS 폴더만.
+Viktor|A2|Så när fick han listan?|그럼 그는 명단을 언제 받았어?
+Amira|B1|Här, i Signal. Den nionde april, tolv och femtioåtta: jag lade listan i AIS-mappen och skrev till honom. Han svarade ”Got it” klockan ett och tre.|여기, 시그널에. 4월 9일 12시 58분. 명단을 AIS 폴더에 올리고 그에게 메시지를 보냈어. 그는 1시 3분에 "Got it"이라고 답했고.
+Noah|B1|Och hans gästkonto öppnade filen första gången 13.04. Innan dess hade kontot inte loggat in sedan den sjätte april.|그리고 그 사람 게스트 계정이 그 파일을 처음 연 게 13시 4분이에요. 그 전엔 4월 6일 이후로 로그인한 적도 없고요.
+Viktor|A2|Inlägget kom ut klockan tio. Sasha fick veta det först klockan ett.|게시물은 10시에 올라왔어. 사샤는 1시에야 알았고.
+Noah|A2|Tre timmar! Då var det ju inte han, va?|세 시간! 그럼 사샤 씨가 아니었던 거잖아요, 그렇죠?
+Viktor|B2|Om tiderna stämmer. Men klockor kan ställas om och loggar kan läsas fel, så jag vill ha något som ingen kan ställa om.|시각이 맞다면. 하지만 시계는 바꿀 수 있고 로그는 잘못 읽을 수 있어. 그러니까 아무도 바꿀 수 없는 게 필요해.
+Amira|B2|Då har jag något som ingen kan ställa om: Baltic Wren. Jag strök henne halv tolv den nionde, när jag såg att hon låg vid kaj i Gdańsk den tionde mars – det var ett annat fartyg med samma namn. Felet fanns bara i min första version.|그럼 아무도 못 바꾸는 게 나한테 있어. 발틱 렌. 9일 11시 반에 지웠어. 3월 10일에 그 배가 그단스크 부두에 있었다는 걸 봤거든. 이름만 같은 다른 배였던 거야. 그 실수는 내 첫 번째 버전에만 있었어.
+Viktor|A2|Och kanalen har sju namn.|그런데 채널엔 이름이 일곱 개고.
+Amira|B1|Med Baltic Wren. Sasha fick bara sex. Den som läckte har läst min första lista, med mitt fel i.|발틱 렌까지 포함해서. 사샤는 여섯 개만 받았어. 유출한 사람은 내 첫 번째 명단을 읽은 거야. 내 실수가 들어 있는 그대로.
+Viktor|B2|Två saker, oberoende av varandra, som pekar åt samma håll: tiden och felet. Sasha kan inte ha läckt listan, eftersom han inte hade den och aldrig har sett den versionen.|서로 독립된 두 가지가 같은 쪽을 가리켜. 시각과 실수. 사샤는 명단을 유출했을 수가 없어. 갖고 있지도 않았고, 그 버전은 본 적도 없으니까.
+Amira|B2|Vilket betyder att någon annan har läst min mapp mellan fyra den åttonde och tio den nionde. Noah, kan du få ut mappens åtkomstlogg från IT?|그 말은 다른 누군가가 8일 4시부터 9일 10시 사이에 내 폴더를 읽었다는 거지. 노아, IT에서 그 폴더 접근 로그 받아 줄 수 있어?
+Noah|B1|IT har gått hem för helgen. Men jag ringer dem på måndag morgon och sitter kvar tills de ger mig den.|IT는 주말이라 퇴근했어요. 그래도 월요일 아침에 전화해서 줄 때까지 버티고 있을게요.
+Amira|B2|Och tänk på varför inlägget raderades efter två timmar. Den som skrev det ville inte att vi skulle se det – bara att rätt sjömän skulle hinna läsa det.|그리고 그 게시물이 왜 두 시간 만에 지워졌는지 생각해 봐. 쓴 사람은 우리가 보길 원한 게 아니야. 딱 맞는 선원들이 읽을 시간만 있으면 됐던 거지.
+Viktor|B2|Då var målet aldrig vi, utan besättningarna: någon ville att ingen ombord på de sju fartygen skulle våga prata med oss. Gör det, Noah, och inte ett ord till någon om varför – inte ens i protokollet. Nu ringer jag Sofia.|그럼 목표는 처음부터 우리가 아니라 선원들이었네. 누군가 그 일곱 척에 탄 사람 누구도 감히 우리랑 말하지 못하게 하고 싶었던 거야. 그렇게 해, 노아. 그리고 왜 그러는지는 누구한테도 한마디도 하지 마. 회의록에도. 이제 소피아한테 전화할게.
+Sofia|A2|Viktor. Du låter annorlunda. Bra eller dåligt?|빅토르. 목소리가 다르네. 좋은 거야, 나쁜 거야?
+Viktor|B1|Båda. Sasha läckte inte. Vi har tiderna och ett fel i Amiras lista som bara fanns i en version som han aldrig fick.|둘 다. 사샤는 유출 안 했어. 시각이 있고, 그가 한 번도 못 받은 버전에만 있던 아미라 명단의 실수가 있어.
+Sofia|B2|Då har vi en läcka, och den heter inte Sasha. Det är en sämre nyhet för tidningen än den vi hade i tisdags, men en bättre för honom. Jag öppnar hans konto på måndag, och jag skriver själv ner varför.|그럼 유출이 있고, 그게 사샤는 아니라는 거네. 신문사로선 화요일 소식보다 더 나쁜 소식이야. 하지만 그 사람한텐 더 좋은 소식이고. 월요일에 계정 열어 줄게. 왜 여는지도 내가 직접 적어 둘 거고.
+Viktor|A2|Jag vill säga det till honom själv. Inte i telefon.|내가 직접 말하고 싶어. 전화로 말고.
+# 장면 4 — 토요일 오전 11시, 탈린 동쪽 무가(Muuga) 항구 방파제 (밤배로 막 도착한 사샤의 배낭, 동쪽으로 지나가는 유조선 세 척, 차가운 바닷바람)
+Amira|A2|Här är han. Han sov inte på färjan.|여기 왔어. 배에서 한숨도 못 잤대.
+Sasha|A2|Bogdan tog mitt skift i natt. Nu är jag skyldig honom en natt.|어젯밤 근무는 보그단이 대신 들어갔어요. 이제 제가 하룻밤 빚졌죠.
+Viktor|A1|Tack för att du kom.|와 줘서 고마워.
+Sasha|B1|Du sa i telefon att du inte ville säga det i telefon. Så nu står jag här, med en ryggsäck och utan sömn.|전화로는 말하기 싫다고 전화로 말했잖아요. 그래서 지금 여기 서 있어요. 배낭 하나 메고, 잠도 못 자고.
+Viktor|A2|Ser du fartygen där ute?|저기 배들 보여?
+Sasha|B1|Tre tankers på väg österut, mot Primorsk eller Ust-Luga. Den mittersta ligger högt i vattnet, så den är tom. Varför står vi här, Viktor?|유조선 세 척이 동쪽으로 가네요. 프리모르스크나 우스트루가로. 가운데 건 물 위로 높이 떠 있으니 빈 배고요. 우리 왜 여기 서 있는 거예요, 빅토르?
+Viktor|B2|För att jag ville säga det här någonstans där du kan titta på något annat än mig. I går hittade vi bevis för att det inte var du – två saker, oberoende av varandra – och Sofia har sett dem.|네가 나 말고 다른 걸 볼 수 있는 데서 이 말을 하고 싶었으니까. 어제 네가 아니었다는 증거를 찾았어. 서로 독립된 두 가지. 소피아도 봤어.
+Sasha|A1|Vilka saker?|어떤 두 가지요?
+Amira|B1|En rysk kanal publicerade min fartygslista tre timmar innan du fick den. Och den hade ett fel som bara fanns i den version som du aldrig såg.|러시아 채널이 당신이 받기 세 시간 전에 내 배 명단을 올렸어요. 그리고 거기엔 당신이 한 번도 못 본 버전에만 있던 실수가 들어 있었어요.
+Sasha|B1|Så någon läser era mappar, och ni trodde att det var jag eftersom jag har en svåger.|그러니까 누가 당신들 폴더를 읽고 있었고, 당신들은 그게 저라고 생각했네요. 처남이 있으니까.
+Viktor|B2|Ja. Och det värsta är hur lite som krävdes: en svåger, en lapp och en fråga som du inte ville svara på räckte för att vi skulle glömma allt du har gjort för oss.|그래. 그리고 제일 끔찍한 건 그게 얼마나 적은 걸로 충분했냐는 거야. 처남 하나, 쪽지 하나, 네가 대답하기 싫어한 질문 하나. 그걸로 네가 우리한테 해 준 걸 다 잊어버렸어.
+Sasha|A2|Vem är det?|누군데요?
+Viktor|B1|Det vet vi inte än. Och när vi vet, tänker jag inte gissa högt den här gången.|아직 몰라. 그리고 알게 되더라도, 이번엔 큰 소리로 짐작하지 않을 거야.
+Sasha|A2|Bra. Fortsätt.|좋아요. 계속해요.
+Viktor|B2|Jag hade fel, Sasha. Och jag lät andra misstänka dig utan att säga emot. Jag satt på ett kafé och lät en främling lägga ditt namn på bordet, och sedan bar jag själv in det namnet i vårt rum. Att du blev misstänkt var inte ditt fel. Det var mitt.|내가 틀렸어, 사샤. 그리고 다른 사람들이 너를 의심하는 걸 반박하지 않고 내버려 뒀지. 카페에 앉아서 낯선 사람이 네 이름을 탁자에 올려놓게 내버려 뒀고, 그다음엔 내가 직접 그 이름을 우리 방으로 들고 들어갔어. 네가 의심받은 건 네 잘못이 아니야. 내 잘못이지.
+Amira|B1|Och jag gav dig lappen, men sa aldrig tillräckligt högt att det var mitt misstag och inte ditt. Förlåt, Sasha.|그리고 난 당신한테 쪽지를 줘 놓고, 그게 당신 잘못이 아니라 내 실수였다고 충분히 크게 말하지 않았어요. 미안해요, 사샤.
+Sasha|B2|I Odessa lärde jag mig att inte lita på en ursäkt som kommer för snabbt. Er kom efter fyra dagar, och med bevis i handen. Det är ovanligt.|오데사에서 너무 빨리 오는 사과는 믿지 말라고 배웠어요. 당신들 사과는 나흘 만에 왔어요. 증거를 손에 들고. 그건 흔치 않죠.
+Viktor|A2|Tar du emot det?|받아 줄 거야?
+Sasha|A2|Jag tar emot det. Men ge mig lite tid.|받아들일게요. 하지만 시간을 좀 줘요.
+Viktor|A1|Så mycket du behöver.|필요한 만큼.
+Sasha|B1|Och en sak till. Nästa gång någon lägger mitt namn på ert bord, fråga mig först – innan ni stänger något konto.|그리고 하나 더요. 다음에 누가 제 이름을 당신들 탁자에 올려놓으면, 저한테 먼저 물어봐요. 계정 같은 걸 닫기 전에요.
+Viktor|A1|Det lovar jag.|약속할게.
+Sasha|B2|Ni stängde mitt konto på en eftermiddag, och ni kan säkert öppna det lika snabbt. Men jag kommer länge att undra vem i rummet som tittade på mig och tänkte på Belgorod.|당신들은 오후 한나절 만에 제 계정을 닫았죠. 여는 것도 아마 그만큼 빠르겠죠. 하지만 전 오랫동안 궁금할 거예요. 그 방에서 누가 절 보면서 벨고로드를 떠올렸는지.
+Viktor|B1|Det kommer jag också att undra. Sofia öppnar kontot på måndag, och hon skriver själv ner varför.|나도 그게 궁금할 거야. 소피아가 월요일에 계정을 열어. 왜 여는지도 직접 적어 두고.
+Sasha|A2|Och Henrik? Vad säger han?|그럼 헨릭은요? 뭐래요?
+Amira|B1|Han vill säga det själv. Han sa att en sjöman ber om ursäkt ansikte mot ansikte, inte i telefon.|직접 말하고 싶대요. 바다 사나이는 전화 말고 얼굴 보고 사과하는 거라고 하더라고요.
+Sasha|A1|Typiskt Henrik.|헨릭답네요.
+Viktor|A2|Skakar vi hand på det?|악수할까?
+Sasha|B1|Vi skakar hand. Men le kan jag inte, inte i dag. Det får komma senare.|악수는 해요. 하지만 웃지는 못하겠어요. 오늘은요. 그건 나중에 올 거예요.
+# 장면 5 — 정오, 방파제 옆 주차장 (빅토르의 휴대폰 스피커, 바람을 피해 모인 세 사람, 수평선으로 멀어지는 빈 유조선)
+Noah|A1|Viktor! Har du högtalare på?|빅토르! 스피커 켜져 있어요?
+Viktor|A2|Nu har jag det. Amira och Sasha hör dig.|이제 켰어. 아미라랑 사샤도 듣고 있어.
+Noah|A2|Hej, Sasha! Okej. Ni vet Katjas tredje bild? Radarbilden från den artonde mars, klockan två och fem?|안녕하세요, 사샤 씨! 좋아요. 카탸의 세 번째 사진 알죠? 3월 18일 2시 5분 레이더 사진이요.
+Amira|A1|Trettiofem minuter före kabeln.|케이블 끊기기 35분 전.
+Noah|B1|Orbitums intyg kom till slut i måndags, och tiderna stämmer. Men vid den tredje bilden står det ”beställd tagning”, inte ”arkiv” som vid de andra två.|오르비툼 증명서가 결국 월요일에 왔는데, 시각은 맞아요. 근데 세 번째 사진엔 다른 두 장처럼 '아카이브'가 아니라 '주문 촬영'이라고 돼 있어요.
+Amira|B1|Hon sa att hon hade hittat den i leverantörens arkiv, när hon sökte efter tankers längs kabeln.|그 여자, 케이블 따라 유조선을 검색하다가 공급사 아카이브에서 찾았다고 했잖아.
+Noah|B1|Exakt. Så i onsdags frågade jag Orbitum när den tredje bilden hade beställts.|그러니까요. 그래서 수요일에 오르비툼에 세 번째 사진이 언제 주문됐는지 물어봤어요.
+Viktor|A1|Och sedan?|그래서?
+Noah|B1|De sa nej först. Sen skickade jag köpeavtalet, och då fick vi beställningsdatumet.|처음엔 고객 정보라면서 거절했어요. 그다음 구매 계약서를 보냈더니 주문일을 받았어요.
+Sasha|A2|Varför hjälpte avtalet?|계약서가 왜 도움이 됐어요?
+Noah|B2|Avtalet visar att vi har licensen till just den bilden, så jag bad dem bara bekräfta när en bild som vi själva har köpt beställdes – inget kundnamn. Svaret kom i morse, och de lade till en mening: beställningen gjordes från samma kundkonto som sedan sålde licensen till oss.|계약서를 보면 우리가 바로 그 사진의 라이선스를 갖고 있잖아요. 그래서 우리가 직접 산 사진이 언제 주문됐는지만 확인해 달라고 했어요. 고객 이름은 빼고요. 답이 오늘 아침에 왔는데, 한 문장을 덧붙였더라고요. 그 주문은 나중에 우리한테 라이선스를 판 바로 그 고객 계정에서 들어왔다고요.
+Amira|A1|Datumet, Noah.|날짜, 노아.
+Noah|A2|Sextonde mars. Klockan två och trettioen på natten.|3월 16일. 새벽 2시 31분.
+Sasha|B2|Två dygn innan. För att beställa en bild av en punkt mitt i havet två dygn i förväg måste man veta att fartyget kommer att ligga just där – och det vet bara den som bestämmer över fartyget.|이틀 전이네요. 바다 한복판의 한 지점을 이틀 전에 미리 찍어 달라고 주문하려면, 배가 바로 거기 있을 거라는 걸 알아야 해요. 그건 그 배를 좌우하는 사람만 알죠.
+Viktor|B2|Bilden beställdes två dygn innan kabeln skadades, vilket innebär att någon visste exakt var fartyget skulle befinna sig.|그 사진은 케이블이 손상되기 이틀 전에 주문됐어. 그 말은 누군가 배가 정확히 어디 있을지 알고 있었다는 뜻이지.
+Noah|A2|Och jag som försvarade henne. Jag bjöd henne på kaffe.|저는 그 사람 편까지 들었는데. 커피도 타 줬고요.
+Viktor|B1|Det gjorde vi alla, Noah. Ring Sofia nu, och skriv inte ett ord om det här i något system.|우리 다 그랬어, 노아. 지금 소피아한테 전화해. 그리고 이건 어떤 시스템에도 한 글자도 쓰지 마.
+Noah|A1|Jag ringer nu.|지금 걸게요.
+Sasha|A2|Amira? Du säger ingenting.|아미라? 아무 말도 안 하네요.
+Amira|A2|Hon beställde bilden två dygn innan kabeln gick av.|그 여자, 케이블이 끊기기 이틀 전에 그 사진을 주문했어.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Välkommen till Tallinn!** | 탈린에 오신 걸 환영해요! | *välkommen till* + 장소. 여러 사람을 맞을 때는 복수형 *välkomna*: 장면 2의 편집실에서처럼 *Välkomna till Uurija*라고도 한다. 에스토니아어 인사 *Tere!*(안녕하세요)는 스웨덴어 *Hej!*에 해당한다 |
+| `A2` | **Försäkringsbolaget har bara en adress och en brevlåda.** | 그 보험사엔 주소 하나랑 우편함 하나뿐이에요. | *försäkring*(보험) + *bolag*(회사) = *försäkringsbolag*, 끝의 *-et*는 정관사(그 보험사). *bara*(~뿐)가 동사 바로 뒤에서 목적어 전체를 한정한다. 서류상 회사를 비꼬는 이 시리즈의 단골 표현: *ett brevlådeföretag*(우편함 회사) |
+| `B1` | **Utan giltig försäkring borde fartyget aldrig ha fått segla genom Östersjön.** | 유효한 보험 없이는 그 배가 발트해를 지나가게 해선 절대 안 됐다. | *borde ha* + 과거분사(supinum)는 '~했어야 했다 / ~하지 말았어야 했다'는 과거에 대한 판단. 여기에 *få*(허락받다)의 supinum *fått*가 겹쳐 *borde … ha fått segla*(항해하도록 허락받지 말았어야 했다)가 된다. *giltig*(유효한) ↔ *ogiltig*(무효인) |
+| `B2` | **Bilden beställdes två dygn innan kabeln skadades, vilket innebär att någon visste exakt var fartyget skulle befinna sig.** | 그 사진은 케이블이 손상되기 이틀 전에 주문됐다. 그 말은 누군가 배가 정확히 어디 있을지 알고 있었다는 뜻이다. | *beställdes*, *skadades*는 과거 수동(-*des*). 앞 문장 전체를 받는 관계사 *vilket*(그리고 그것은) + *innebär att*(~을 의미하다). *skulle befinna sig*는 과거에서 본 미래(~에 있게 될). *ett dygn*은 24시간 한 바퀴 — '이틀'이 정확히 48시간일 때 쓴다 |
+| `A2` | **Inlägget kom ut klockan tio. Sasha fick veta det först klockan ett.** | 게시물은 10시에 올라왔어. 사샤는 1시에야 알았고. | *få veta*는 '알게 되다'(정보를 전달받다). *först*는 '처음'이 아니라 시각 앞에서 '~에야 비로소'라는 뜻: *först klockan ett* = 1시가 되어서야. 타임라인 대조에서 가장 많이 쓰는 짝 |
+| `A2` | **Jag tar emot det. Men ge mig lite tid.** | 받아들일게요. 하지만 시간을 좀 줘요. | *ta emot*(받다, 받아들이다)는 분리동사 — 강세는 *emot*에. 사과를 받아들일 때 *Jag tar emot din ursäkt*라고도 한다. *ge mig lite tid*의 *lite*는 셀 수 없는 명사 앞의 '조금' |
+| 관용구 | **lägga korten på bordet** | 패를 탁자 위에 펼치다 → 숨김없이 털어놓다 | 카드 게임에서 온 말. 공동취재를 제안하는 카드리처럼 '내가 가진 걸 다 보여 주겠다'는 뜻으로 쓴다. 비슷한 말 *spela med öppna kort*(펼친 패로 게임하다 = 정정당당하게 하다) |
+| 안보·법 | **hamnstatskontroll** | 항만국 통제 | *hamn*(항구) + *stat*(국가) + *kontroll*(검사). 자기 항구에 들어온 외국 선박의 안전·환경·보험 서류를 그 항구의 국가가 검사하는 제도. 선적국(*flaggstat*)이 제 역할을 못 하는 배를 걸러 내는 마지막 그물이다 |
+
+## 저널리즘·법 메모
+국경을 넘는 공동취재는 '신뢰의 계약'으로 굴러간다. 빅토르와 카드리가 확인한 원칙은 세 가지다: 확인 가능한 자료(문서, 등기, 위성 데이터)는 나누고, 보도 시점은 함께 정하며(엠바고), 취재원의 신원은 각자 보호한다 — 그래서 카드리는 Stockholmsposten 내부 문제가 드러나는 순간 스스로 방을 나간다. 사샤의 결백은 '느낌'이 아니라 서로 독립된 두 증거로 확인된다: 게시물의 서버 시각(UTC를 스톡홀름·탈린 시간으로 환산)과 사샤가 명단을 처음 받은 기록 사이의 세 시간, 그리고 첫 번째 명단에만 있던 실수 하나(*Baltic Wren*)가 유출된 글에 그대로 남아 있었다는 사실이다. 실수가 지문이 되는 이 원리는 12화의 '카나리아' 함정으로 이어진다. 노아의 위성사 확인도 같은 원칙 위에 있다: 공급사는 고객 정보를 지킬 의무가 있지만, 신문사가 *구매 계약서*로 그 사진의 정당한 권리자임을 보이자 '우리가 산 사진의 원 주문일'이라는 최소한의 사실만 확인해 줬다 — 2화에서 소피아가 증명서 없이는 게재하지 않겠다고 한 검증 의무가 여기서 회수된다.
+
+## 문화·현안 메모
+- **"좋았던 옛 스웨덴 시절"** — 에스토니아는 1561년부터 1710년 대북방전쟁 무렵까지 스웨덴의 지배를 받았다. 에스토니아어로 *vana hea Rootsi aeg*라는 말이 남아 있는데, 타르투 대학 설립(1632) 같은 기억과 함께, 그 뒤에 이어진 러시아 제국 시대와 비교한 향수가 담긴 표현이다.
+- **P&I 클럽과 그림자 선단의 보험** — P&I(Protection and Indemnity)는 선주들이 모여 만든 상호보험으로, 기름 유출·선원 사고 같은 제3자 책임을 보상한다. 세계 대형 선박 대부분은 국제 P&I 그룹의 12개 클럽에 가입해 있다. 제재를 피해 다니는 노후 유조선 상당수는 이 클럽 밖의 불투명한 보험 증서를 들고 다닌다는 지적을 받아 왔고, 에스토니아·핀란드 등 연안국은 자국 수역을 지나는 유조선의 보험 서류를 확인하기 시작했다.
+- **탈린의 텔리스키베와 무가 항구** — 텔리스키베는 옛 공장 지대를 개조한 '창조 도시'로 스타트업과 작은 매체가 많이 모여 있다. 무가는 탈린 동쪽의 대형 화물·석유 항구로, 방파제에서 핀란드만을 오가는 유조선 항로가 보인다. 탈린은 스톡홀름보다 1시간 빠르고, 여름 시간 동안에는 모스크바와 같은 시각을 쓴다.
+- **플로그스타(Flogsta)** — 웁살라의 대표적인 학생 기숙사 단지. 복도(*korridor*)마다 부엌을 함께 쓰는 구조라 유학생들이 스웨덴어와 '마지막 시나몬롤은 남겨 두는' 예절을 함께 배우는 곳으로 통한다.
+- ⚠️ 이 화의 인물(카드리 탐, 마르트 등), 매체 *Uurija*, 보험사 Halcyon Marine, 텔레그램 채널 "Baltijskij Kompas", 위성사진 공급사 Orbitum Imaging, 선박 *Eventide Star*와 명단 속 배 이름은 모두 허구다. P&I 제도와 항만국 통제는 실재하는 제도이며, 그 적용 장면은 극적 구성이다.
+
+## 다음 화 예고
+> 4월 22일 수요일, Källaren. 엘린이 카탸의 기사 40편 위에 빨간 화살표를 긋는다: "Riktiga misstag är slumpmässiga. Hennes har en riktning."
