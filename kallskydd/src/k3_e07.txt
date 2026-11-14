@@ -1,0 +1,187 @@
+@title 3부 7화 — MUST
+@subtitle (군 정보국)
+@meta 날짜|2026년 4월 9일 목요일 오전 7시 40분 ~ 밤 11시 20분
+@meta 장소|유르고르덴 다리(Djurgårdsbron) 위 (오전 7시 40분) → Källaren (낮 1시) → Källaren, 확인 전화들 (오후 3시 30분) → Källaren (밤 9시 14분) → 베링뷔, 빅토르의 아파트 (밤 11시 20분)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Kamraten** (헨릭의 해안포병대 시절 동기, 60세 전후, 작년 가을 퇴직 — 이름은 끝까지 나오지 않는다) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Elin** (엘린 셰크비스트, 28, 기자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Lars** (라르스 몰린, 62, 법률고문 — 전화) · **MUST** (국군 공보실의 MUST 담당) · **Säpo** (보안경찰 공보실) · **Pressjouren** (검찰청 공보 당직)
+@intro **지난 이야기** — 부활절 전야의 헬싱키, 갑판원 라즈는 3월 17일 밤 "파벨"이라는 남자가 닻을 내리게 하고 AIS를 속였다고 증언했고, 빅토르는 그의 말을 레이더 기록과 분 단위로 맞춰 본 뒤 그가 무사히 출국할 때까지 보도를 미뤘다. 그날 저녁 선원 호텔 312호는 비어 있었다. 정돈된 침대, 그리고 탁자 위에 남겨진 여권.
+@intro 빅토르는 부활절 월요일에 스톡홀름으로 돌아왔다. 라즈의 소식은 아직 없다. 4월 9일 목요일 이른 아침, 헨릭은 40년 동안 연락이 없던 번호의 전화를 받고 유르고르덴 다리로 나간다. 빅토르는 다리 끝 박물관 앞에서 기다린다 — 그 사람은 기자를 만나고 싶어 하지 않았다.
+# 장면 1 — 오전 7시 40분, 유르고르덴 다리 위 (차가운 봄바람, 난간, 담배 두 개비, 다리 끝 북방박물관 앞에 서 있는 빅토르)
+Kamraten|A2|Du kom. Jag trodde att du hade glömt bort mig.|왔구나. 날 잊어버린 줄 알았는데.
+Henrik|B1|Fyrtio år, och sedan ringer du från ett nummer som jag inte känner igen. Klart att jag kom.|40년 만에, 그것도 모르는 번호로 전화를 하는데. 당연히 왔지.
+Kamraten|A1|Vill du ha en?|한 대 피울래?
+Henrik|B1|Jag slutade 2004, men ge mig en ändå. Det ser konstigt ut om bara en av oss står här och röker.|2004년에 끊었어. 그래도 하나 줘. 둘 중 하나만 서서 피우고 있으면 이상해 보이잖아.
+Kamraten|B1|Du är dig lik, Hesa. Du tänker fortfarande på vem som tittar. Vem är det där borta vid museet?|넌 여전하구나, 헤사. 아직도 누가 보고 있는지부터 생각해. 저기 박물관 옆에 있는 건 누구야?
+Henrik|A2|Viktor. Vi jobbar ihop. Han stannar där tills jag vinkar.|빅토르. 같이 일해. 내가 손 흔들 때까지 거기 있을 거야.
+Kamraten|B1|Bra. Jag pratar med dig, inte med tidningen. Det är skillnad, även om du inte tror det.|좋아. 난 너랑 얘기하는 거지, 신문이랑 하는 게 아니야. 넌 안 믿겠지만 그건 다른 거야.
+Henrik|B2|Det tror jag visst. Men du ringde knappast en gammal fotograf för att prata minnen från Fårösund, så det är lika bra att du säger det du kom hit för att säga.|믿고말고. 그래도 포로순드 시절 추억 얘기나 하자고 늙은 사진쟁이한테 전화하진 않았겠지. 그러니 하러 온 말을 하는 게 낫겠어.
+Kamraten|B1|Jag har varit pensionär sedan i höstas. Men jag äter fortfarande lunch med folk som inte är det.|난 작년 가을부터 연금 생활자야. 그래도 아직 현역인 사람들이랑 점심은 먹지.
+Henrik|A1|Och?|그래서?
+Kamraten|B1|Säpo har suttit i deras korridorer i tre veckor. De ställer frågor om en av analytikerna på MUST.|Säpo가 3주째 그쪽 복도에 죽치고 있어. MUST 분석관 하나에 대해 묻고 다녀.
+Henrik|A2|Vad har han gjort?|그 사람이 뭘 했는데?
+Kamraten|B2|Kanske ingenting alls. Det är hans storebror som de är intresserade av, och det är därför jag står här och fryser i stället för att sitta hemma med morgontidningen.|어쩌면 아무것도 안 했을지 몰라. 그쪽이 관심 있는 건 그 사람 형이야. 내가 집에서 조간신문이나 보지 않고 여기 서서 떨고 있는 것도 그래서고.
+Henrik|A1|Brodern?|형?
+Kamraten|A2|Brodern träffade en rysk diplomat flera gånger. I höstas och i vintras.|형이 러시아 외교관을 여러 번 만났어. 작년 가을이랑 겨울에.
+Henrik|A1|Namn?|이름은?
+Kamraten|B2|Inga namn. Om jag säger ett namn på en bro mitt i Stockholm är jag inte längre en gammal man som pratar för mycket, utan någon som har röjt en hemlig uppgift.|이름은 없어. 스톡홀름 한복판 다리 위에서 이름 하나 말하면, 난 더 이상 말 많은 늙은이가 아니라 기밀을 누설한 사람이 되는 거야.
+Henrik|A2|Då säger du något annat. Hur gammal är han?|그럼 다른 걸 말해. 몇 살이야?
+Kamraten|A1|Så här.|이만큼.
+Henrik|A2|Tre fingrar, sedan nio. Trettionio år. Och hur länge har han jobbat där?|손가락 셋, 그다음 아홉. 서른아홉. 거기서 일한 지는 얼마나 됐어?
+Kamraten|A2|Räkna själv. En hand och fyra fingrar.|직접 세 봐. 한 손이랑 손가락 넷.
+Henrik|B2|Nio år, alltså. Och om jag gissar att han sitter vid det som vi kallade östra skrivbordet när vi var unga, så säger du ingenting?|그러니까 9년. 그리고 우리 젊을 때 '동쪽 책상'이라고 부르던 데 그 사람이 앉아 있다고 내가 짐작하면, 넌 아무 말도 안 하는 거고?
+Kamraten|B1|Det har jag inte sagt. Men du har alltid varit bra på att läsa kartor.|그런 말 한 적 없어. 근데 넌 원래 지도를 잘 읽었지.
+Henrik|B2|Varför berättar du det här för mig och inte för någon som bär uniform? Du vet bättre än jag vad det kan kosta dig om någon får reda på att vi har stått här.|왜 이걸 군복 입은 사람이 아니라 나한테 말하는 거야? 우리가 여기 서 있었다는 걸 누가 알면 너한테 무슨 대가가 따를지, 너도 나보다 잘 알잖아.
+Kamraten|B2|Därför att jag har sett sådant här sopas under mattan förr. Kabeln gick av utanför din brors fiskevatten, Hesa. Någon borde åtminstone ställa frågorna högt.|이런 일이 덮이는 걸 전에도 봤으니까. 그 케이블, 네 형이 그물 치는 바다 앞에서 끊겼잖아, 헤사. 적어도 누군가는 그 질문들을 큰 소리로 해야지.
+Henrik|A2|Jag skriver inte ner ditt namn. Inte ens i min bok.|네 이름은 안 적을게. 내 수첩에도.
+Kamraten|A2|Du har inte hört det här från mig, Hesa.|이건 나한테서 들은 거 아니야, 헤사.
+Henrik|A1|Sköt om dig.|몸조심해.
+Viktor|A1|Vem var det?|누구였어?
+Henrik|B1|Ingen. Och så får det förbli, även i din bok. Men vi har en ålder, nio år i tjänst och en storebror som har ätit middag med fel människor.|아무도 아니야. 그리고 계속 그래야 해. 네 수첩에서도. 하지만 우린 나이 하나, 근속 9년, 그리고 엉뚱한 사람들이랑 밥을 먹은 형 하나를 얻었어.
+# 장면 2 — 낮 1시, Källaren (화이트보드의 빈 세 칸, 엘린의 노트북 화면 속 낚시 사진, 출력하지 않은 메모들)
+Fredrik|B1|Fortifikationsverket har svarat på er begäran om kontrakten för bygget i Tofta. Fyrtio sidor, och ungefär hälften är svartmålade.|요새청이 토프타 공사 계약서 청구에 답을 보냈어. 40쪽인데, 절반쯤은 새까맣게 칠해져 있어.
+Henrik|A1|Typiskt.|그럴 줄 알았어.
+Fredrik|B1|Det som syns räcker ändå till en notis om att bygget har stått still sedan mars. Vill ni ha den, eller ska webben ta den?|그래도 보이는 것만으로 3월부터 공사가 멈춰 있다는 단신은 나와. 너희가 가져갈래, 아니면 웹에서 처리할까?
+Viktor|A2|Ge oss en vecka. Den hänger ihop med annat.|일주일만 줘. 다른 거랑 엮여 있어.
+Fredrik|B1|En vecka går bra. Jag lägger papperen i ditt fack, och grafiken över kabeln från i mars finns kvar om ni behöver den.|일주일 괜찮아. 서류는 네 우편함에 넣어 둘게. 3월에 만든 케이블 그래픽도 남아 있으니까 필요하면 써.
+Sofia|A2|Tack, Fredrik. Vi ses på eftermiddagsmötet.|고마워, 프레드릭. 오후 회의 때 봐.
+Fredrik|A1|Klockan tre. Ses.|3시죠. 이따 봬요.
+Sofia|A2|Henrik, du sa att du hade något från i morse.|헨릭, 오늘 아침 일로 할 얘기 있다며.
+Henrik|B1|En gammal vän från kustartilleriet. Han säger att Säpo utreder en analytiker på MUST, eller rättare sagt hans storebror.|해안포병대 시절 옛 친구야. Säpo가 MUST 분석관 하나를, 정확히 말하면 그 사람 형을 조사하고 있대.
+Amira|A1|Fan. Är du säker?|젠장. 확실해?
+Henrik|B2|Jag är säker på att han tror det, och han är inte en man som brukar tro saker i onödan. Men han gav mig inte ett enda namn, bara siffror på fingrarna.|그 친구가 그렇게 믿는다는 건 확실해. 그리고 괜히 뭘 믿는 사람이 아니야. 하지만 이름은 하나도 안 줬어. 손가락으로 숫자만.
+Viktor|A2|Trettionio år gammal. Nio år på MUST. En storebror.|서른아홉 살. MUST에서 9년. 형이 하나.
+Elin|B2|Och storebrodern har träffat en rysk diplomat? Då påminner det ju om fallet för några år sedan, där två bröder dömdes för att ha sålt hemligheter till Ryssland.|그리고 형이 러시아 외교관을 만났다고요? 그럼 몇 년 전 그 사건이 떠오르네요. 형제 둘이 러시아에 기밀을 팔아서 유죄 판결을 받았던.
+Sofia|B2|Det gör det, och just därför måste vi vara extra försiktiga. Ett mönster som vi känner igen är inte ett bevis, det är en frestelse.|그렇지. 그래서 더 조심해야 해. 우리가 알아보는 패턴은 증거가 아니라 유혹이야.
+Viktor|B1|Säpo vet vem han är. MUST vet det också. Vi vet bara en ålder och ett antal år.|Säpo는 그 사람이 누군지 알아. MUST도 알고. 우린 나이랑 햇수만 알지.
+Elin|B2|Jag har letat sedan Viktor skickade siffrorna i morse. MUST publicerar inga namn på sina anställda, men den som jobbar i hemlighet lämnar ofta spår överallt annars.|빅토르가 아침에 숫자 보내 준 뒤로 계속 찾았어요. MUST는 직원 이름을 하나도 공개 안 하지만, 비밀스럽게 일하는 사람일수록 다른 데 온갖 흔적을 남기거든요.
+Amira|A2|Hur många hittade du?|몇 명 찾았어?
+Elin|B1|Först fjorton män som skriver ”Försvarsmakten” och ”ryska” på Linkedin. Sedan tog jag bort alla som inte är födda 1986 eller 1987.|먼저 링크드인에 '국군'이랑 '러시아어'라고 써 놓은 남자 열네 명이요. 그다음 1986년이나 87년생이 아닌 사람은 다 뺐어요.
+Viktor|A1|Hur vet du åldern?|나이는 어떻게 알아?
+Elin|B2|Loppresultat, mest. Midnattsloppet och orienteringsklubbarna publicerar födelseår, och den som har sprungit samma lopp i tio år har sällan tänkt på att resultatlistorna ligger kvar på nätet.|주로 대회 기록이요. 미드나트스로페트랑 오리엔티어링 클럽들은 출생연도를 공개하거든요. 같은 대회를 10년째 뛴 사람은 결과표가 인터넷에 남아 있다는 걸 생각해 본 적이 거의 없고요.
+Henrik|A2|Och hur många blev kvar?|그래서 몇 명 남았어?
+Elin|A1|Tre.|셋이요.
+Sofia|A2|Berätta om dem. Utan namn.|그 사람들 얘기해 봐. 이름은 빼고.
+Elin|B2|Den första har bott i Boden i två år och tränar ett pojklag i hockey där, enligt lokaltidningen. Det är långt att pendla till ett kontor i Stockholm, även om det inte är omöjligt.|첫 번째는 2년째 보덴에 살고, 지역 신문에 따르면 거기서 소년 하키팀을 가르쳐요. 스톡홀름 사무실까지 통근하기엔 멀죠. 불가능하진 않지만요.
+Amira|A1|Och tvåan?|두 번째는?
+Elin|B1|Han har ingen bror. Hans mammas dödsannons från 2022 nämner bara honom, ”vår älskade son”.|형이 없어요. 2022년 어머니 부고에 그 사람 하나만 나와요. '사랑하는 우리 아들'.
+Viktor|A2|Och den tredje?|그럼 세 번째는?
+Elin|A2|Han har ett öppet Instagramkonto. Det heter bara ”Mikael S”.|공개 인스타그램 계정이 있어요. 이름은 그냥 'Mikael S'고요.
+Amira|B1|En analytiker på den militära underrättelsetjänsten med ett öppet konto. Jävlar, det är nästan för lätt.|군 정보국 분석관이 공개 계정이라니. 젠장, 거의 너무 쉬운데.
+Elin|A2|Här. Fiskeresa i Härjedalen, 'med storebror'. Bilen syns, registreringsnumret också.|여기. 헤리에달렌 낚시 여행, '형이랑'. 차가 보이고, 번호판도 보여.
+Henrik|B2|Två män vid en fjällsjö och en svart Volvo med takbox bakom dem. Om datumet stämmer togs bilden i augusti, långt innan någon på Säpo hade börjat ställa frågor i korridorerna.|산속 호숫가에 남자 둘, 그 뒤에 루프박스 얹은 검은 볼보. 날짜가 맞다면 8월에 찍은 사진이야. Säpo 누가 복도에서 질문하고 다니기 한참 전이지.
+Viktor|A1|Vems bil?|누구 차야?
+Elin|B1|Jag förstorade bilden tills skylten gick att läsa. Ägaruppgifter i vägtrafikregistret är offentliga, och bilen ägs av en Tobias Strand, fyrtiofyra år, i Upplands Väsby.|번호판이 읽힐 때까지 사진을 확대했어요. 차량등록부의 소유자 정보는 공개거든요. 차 주인은 토비아스 스트란드, 마흔네 살, 웁란스 베스뷔 거주예요.
+Amira|B2|Och för att vara säker på att de verkligen är bröder letade jag i lokaltidningens arkiv: ”Grattis mamma på 70-årsdagen, från Tobias och Mikael.” Strand, båda två, 2023.|진짜 형제인지 확실히 하려고 내가 지역 신문 아카이브를 뒤졌어. "엄마, 일흔 생신 축하해요. 토비아스와 미카엘이." 둘 다 스트란드, 2023년.
+Sofia|B2|Bra jobbat, båda två. Men från och med nu gäller en regel: tills någon har bekräftat det här skriver ingen deras namn någonstans, inte ens i ett internt mejl eller i loggboken. I våra anteckningar heter de Lillebror och Storebror.|잘했어, 둘 다. 하지만 지금부터 규칙 하나. 누군가 이걸 확인해 주기 전까진 아무도 그 이름을 어디에도 안 써. 내부 메일에도, 업무일지에도. 우리 메모에서 그 사람들은 '동생'과 '형'이야.
+Viktor|B1|Och vi ringer inte bröderna. Inte än. Om Säpo har en pågående utredning kan ett enda samtal från oss förstöra den.|그리고 형제한테는 전화 안 해. 아직은. Säpo 수사가 진행 중이라면 우리 전화 한 통이 그걸 망칠 수 있어.
+Amira|B2|Storebror har ett enmansbolag som registrerades 2021, för ”konsulttjänster inom handel”. Omsättningen var nästan noll förra året, men ändå köpte han en ny bil i november.|형은 1인 회사가 있어. 2021년에 '무역 컨설팅'으로 등록됐고. 작년 매출은 거의 0인데, 그런데도 11월에 새 차를 샀어.
+Viktor|B2|Följ pengarna, ja – men först måste någon med insyn säga att vi har rätt person. Annars har vi bara byggt en historia av två fiskare och en takbox.|돈을 따라가야지, 맞아. 하지만 그 전에 내부 사정을 아는 누군가가 우리가 맞는 사람을 짚었다고 말해 줘야 해. 안 그러면 우린 낚시꾼 둘이랑 루프박스 하나로 이야기를 지어낸 것뿐이야.
+# 장면 3 — 오후 3시 30분, Källaren (세 대의 전화, 스피커폰, 엘린이 시각을 적는 종이 한 장)
+Elin|A2|Jag ringer Säpo. Tar du MUST?|저는 Säpo에 전화할게요. MUST는 빅토르가 맡을래요?
+Viktor|A1|Ja. MUST först.|응. MUST부터.
+MUST|A2|Försvarsmaktens presstjänst, MUST. Vad gäller det?|국군 공보실, MUST 담당입니다. 무슨 일이시죠?
+Viktor|B1|Viktor Holm, Stockholmsposten. Vi har uppgifter om att Säpo utreder en av era analytiker. Stämmer det?|스톡홀름스포스텐의 빅토르 홀름입니다. Säpo가 그쪽 분석관 한 명을 조사하고 있다는 정보가 있습니다. 사실입니까?
+MUST|A2|Vi kommenterar inte enskilda ärenden.|개별 사안에 대해서는 논평하지 않습니다.
+Viktor|B1|Kan ni åtminstone bekräfta att det pågår en utredning, även om ni inte säger vem den gäller?|누구에 관한 건지는 말씀 안 하시더라도, 수사가 진행 중이라는 것만이라도 확인해 주실 수 있나요?
+MUST|B1|Som jag sa: vi kommenterar inte enskilda ärenden, och inte heller frågor som rör vår personal.|말씀드렸듯이 개별 사안엔 논평하지 않습니다. 저희 직원에 관한 질문도 마찬가지고요.
+Viktor|A1|Har någon annan frågat?|다른 데서도 물어봤나요?
+MUST|A1|Ingen kommentar.|노코멘트입니다.
+Viktor|B1|Tack. Jag mejlar frågorna också, så att ni har dem skriftligt.|감사합니다. 질문은 서면으로도 갖고 계시도록 메일로 보내겠습니다.
+Säpo|A2|Säkerhetspolisens presstjänst.|보안경찰 공보실입니다.
+Elin|B1|Hej, Elin Sjöqvist från Stockholmsposten. Jag undrar om ni har en pågående förundersökning som rör en anställd på MUST.|안녕하세요, 스톡홀름스포스텐의 엘린 셰크비스트입니다. MUST 직원과 관련해 진행 중인 예비수사가 있는지 여쭤보려고요.
+Säpo|A2|Vi kommenterar inte enskilda ärenden.|개별 사안에 대해서는 논평하지 않습니다.
+Elin|A1|Inte ens ja eller nej?|예, 아니오도 안 되나요?
+Säpo|B1|Vi bekräftar aldrig om en person är föremål för våra åtgärder. Det gäller alla som frågar, inte bara er.|어떤 사람이 저희 조치 대상인지 아닌지는 절대 확인해 드리지 않습니다. 묻는 분 누구에게나 마찬가지예요, 기자님만이 아니라.
+Elin|A2|Jag förstår. Tack ändå.|알겠습니다. 그래도 감사합니다.
+Amira|B1|Två av två. Då tar jag åklagarna, alltså Riksenheten för säkerhetsmål.|둘 중 둘. 그럼 난 검찰 맡을게. 안보사건 전담부서.
+Pressjouren|A2|Åklagarmyndighetens pressjour, hej.|검찰청 공보 당직입니다, 안녕하세요.
+Amira|B1|Hej, Amira Saleh, Stockholmsposten. Har Riksenheten för säkerhetsmål inlett någon förundersökning om spioneri med koppling till Försvarsmakten?|안녕하세요, 스톡홀름스포스텐의 아미라 살레입니다. 안보사건 전담부서가 국군과 관련된 간첩 예비수사를 개시한 게 있나요?
+Pressjouren|B1|Vi kommenterar inte enskilda ärenden. Om det blir ett åtal, blir det en offentlig handling.|개별 사안에 대해서는 논평하지 않습니다. 기소가 되면 그건 공문서로 공개될 겁니다.
+Amira|A1|Och innan dess?|그 전에는요?
+Pressjouren|A1|Ingenting.|아무것도요.
+Amira|A1|Tre gånger. Samma mening.|세 번. 같은 문장.
+Viktor|B2|Det betyder ingenting, och det är just det som är poängen. De säger exakt samma sak oavsett om det finns en utredning eller inte, annars skulle tystnaden i sig vara ett svar.|그건 아무 의미 없어. 그리고 바로 그게 핵심이야. 수사가 있든 없든 똑같은 말을 하는 거야. 안 그러면 침묵 자체가 대답이 돼 버리니까.
+Elin|A2|Lars ringer. Jag sätter på högtalaren.|라르스 씨 전화예요. 스피커 켤게요.
+Lars|B2|Sofia har berättat i stora drag, och jag vill inte höra mer i telefon än nödvändigt. Bara en fråga: har er källa gett er något på papper?|소피아가 대강 얘기해 줬어요. 전화로는 필요 이상 듣고 싶지 않습니다. 하나만 묻죠. 취재원이 종이로 뭘 준 게 있습니까?
+Viktor|A1|Nej. Bara ord.|아뇨. 말뿐이에요.
+Lars|B2|Bra. Det han säger muntligt kan skyddas av meddelarfriheten, men skyddet gäller inte om han avsiktligt lämnar ut uppgifter som rör rikets säkerhet – och då kan han hamna i en förundersökning, oavsett vad ni har lovat honom.|좋아요. 그가 말로 하는 건 제보의 자유로 보호받을 수 있어요. 하지만 국가 안보에 관한 정보를 고의로 넘기면 그 보호는 적용되지 않습니다. 그러면 당신들이 무슨 약속을 했든 그 사람이 예비수사에 걸릴 수 있어요.
+Elin|A2|Och vi? Vad händer med oss?|그럼 우리는요? 우리는 어떻게 돼요?
+Lars|B2|Journalistyrket är ingen sköld när det gäller hemliga handlingar. Den som utan behörighet skaffar sig eller för vidare hemliga uppgifter kan dömas för obehörig befattning med hemlig uppgift, och efteråt är det svårt att bevisa att man bara råkade ta emot något. Så: ta inte emot något.|기밀 문서에 관해서라면 기자라는 직업은 방패가 아니에요. 권한 없이 기밀 정보를 손에 넣거나 넘기는 사람은 '기밀 정보 무단 취급'으로 처벌받을 수 있고, 나중에 그냥 우연히 받았을 뿐이라는 걸 증명하기는 어렵습니다. 그러니까 아무것도 받지 마세요.
+Viktor|A2|Uppfattat. Vi tar inte emot något.|알겠습니다. 아무것도 안 받을게요.
+Lars|B1|Bra. Och om något ändå dyker upp, ring mig innan ni gör något annat med det.|좋아요. 그래도 뭔가 나타나면, 그걸로 다른 일을 하기 전에 저한테 먼저 전화하세요.
+# 장면 4 — 밤 9시 14분, Källaren (비어 있는 편집국, 천장 형광등 하나, 아미라의 낡은 오프라인 노트북, 포장도 안 뜯은 USB)
+Elin|A2|Viktor, det plingade. Det är Brevlådan.|빅토르, 알림 울렸어요. Brevlådan이에요.
+Viktor|A1|Klockan?|몇 시야?
+Elin|A1|Fjorton över nio.|9시 14분이요.
+Viktor|B1|Ett meddelande utan text. Bara en bifogad fil, en pdf på fjorton sidor.|텍스트 없는 메시지야. 첨부 파일 하나뿐. 14쪽짜리 PDF.
+Amira|A2|Rör den inte, för fan! Först till offline-datorn, sen kollar vi hashen.|건드리지 마, 젠장! 먼저 오프라인 컴퓨터로, 그다음 해시 확인.
+Viktor|B1|Jag har inte öppnat den. Jag har bara sett filnamnet, eftersom det syns i notisen.|안 열었어. 알림에 보이니까 파일 이름만 봤어.
+Amira|A1|Vad heter den?|이름이 뭔데?
+Viktor|A2|”Bedömning Eventide Star.” Inget mer.|'평가 Eventide Star.' 그게 다야.
+Elin|B2|Det är ju just det fartyget vi har jagat i tre veckor. Antingen är det en slump, eller så vet någon precis vad vi håller på med.|그거 우리가 3주째 쫓고 있는 바로 그 배잖아요. 우연이거나, 아니면 누가 우리가 뭘 하고 있는지 정확히 아는 거예요.
+Amira|B2|Eller så läser någon bara tidningen. Vi har skrivit om Eventide Star varje dag sedan finländarna bordade henne, och adressen till Brevlådan står på vår hemsida.|아니면 그냥 신문을 읽는 사람이거나. 핀란드가 그 배에 올라탄 뒤로 우리 매일 Eventide Star 기사 썼잖아. 그리고 Brevlådan 주소는 우리 홈페이지에 있어.
+Viktor|A1|Isolera den, då.|그럼 격리해.
+Amira|B1|USB-minnet är nytt, direkt ur förpackningen. Jag flyttar filen dit och sedan in i den gamla datorn, som aldrig har varit uppkopplad.|USB는 새거야, 포장에서 막 꺼낸. 파일을 거기로 옮기고, 그다음 한 번도 인터넷에 연결된 적 없는 낡은 노트북에 넣을 거야.
+Elin|A2|Varför kan vi inte bara öppna den här?|그냥 여기서 열면 왜 안 돼요?
+Amira|B2|För att en pdf kan innehålla kod som ringer hem i samma sekund som du öppnar den. Då vet avsändaren att vi har läst, när vi läste och kanske vilken dator vi satt vid.|PDF엔 여는 순간 집으로 신호를 보내는 코드가 들어 있을 수 있거든. 그러면 보낸 사람이 우리가 읽었다는 것, 언제 읽었는지, 어쩌면 어느 컴퓨터로 읽었는지까지 알게 돼.
+Viktor|A2|Och hashen? Förklara för Elin.|그리고 해시는? 엘린한테 설명해 줘.
+Amira|B1|En hash är filens fingeravtryck, en lång rad siffror och bokstäver. Ändras en enda punkt i dokumentet, blir fingeravtrycket ett helt annat.|해시는 파일의 지문이야. 숫자랑 글자로 된 긴 줄. 문서에서 점 하나만 바뀌어도 지문이 완전히 달라져.
+Elin|B1|Så om någon senare påstår att vi har ändrat i den, kan vi visa att den är exakt som när den kom.|그러니까 나중에 누가 우리가 손댔다고 주장하면, 도착했을 때 그대로라는 걸 보여 줄 수 있는 거네요.
+Amira|A2|Precis. Jag skriver den på papper också. Viktor, läs högt.|바로 그거. 종이에도 적어 둘게. 빅토르, 소리 내서 읽어 줘.
+Viktor|A2|Fyra, a, sju, f… Jag läser de första och sista åtta tecknen. Resten står på lappen.|4, a, 7, f… 앞뒤 여덟 자리만 읽을게. 나머지는 쪽지에 있어.
+Amira|B1|Okej. Nu öppnar jag den, men bara första sidan. Ingen läser mer förrän Sofia har sagt ja.|좋아. 이제 열게. 근데 첫 쪽만. 소피아가 허락하기 전엔 아무도 더 안 읽어.
+Elin|A1|Herregud.|맙소사.
+Viktor|B1|Militära underrättelse- och säkerhetstjänsten. Ett diarienummer, ett datum i slutet av mars och en röd stämpel högst upp: HEMLIG.|군 정보보안국. 문서 번호 하나, 3월 말 날짜 하나, 그리고 맨 위에 빨간 도장. '기밀'.
+Elin|A1|Vem skickade det här?|누가 이걸 보냈어요?
+Amira|B2|Brevlådan sparar ingenting om avsändaren – det var ju hela poängen när vi byggde den. Så just nu vet vi exakt lika lite som vem som helst som skulle få en sådan här fil.|Brevlådan은 보낸 사람에 대해 아무것도 저장 안 해. 그걸 만들 때 그게 핵심이었잖아. 그러니까 지금 우린 이런 파일을 받은 아무개랑 똑같이 아는 게 없어.
+Viktor|B1|Dokumentet är stämplat som hemligt, och vi vet inte hur det har hamnat hos oss. Jag ringer Sofia.|문서에 기밀 도장이 찍혀 있고, 이게 어떻게 우리한테 왔는지 몰라. 소피아한테 전화할게.
+Sofia|A2|Viktor? Klockan är halv tio.|빅토르? 9시 반이야.
+Viktor|B2|Vi har fått en handling i Brevlådan som ser ut att komma från MUST, stämplad hemlig och med Eventide Star i rubriken. Den ligger på Amiras offline-dator, och vi har bara sett första sidan.|Brevlådan으로 MUST에서 나온 것 같은 문서가 왔어. 기밀 도장이 찍혀 있고 제목에 Eventide Star가 있어. 아미라의 오프라인 컴퓨터에 있고, 우린 첫 쪽만 봤어.
+Sofia|B2|Då stannar den där. Redan det faktum att vi har handlingen kan dra in tidningen i en förundersökning, så ingen läser vidare, ingen kopierar och ingen pratar om den i telefon mer än nu.|그럼 거기 그대로 둬. 우리가 그 문서를 갖고 있다는 사실만으로도 신문사가 예비수사에 끌려들어갈 수 있어. 그러니까 아무도 더 읽지 말고, 아무도 복사하지 말고, 지금 이상으로 전화로 얘기하지도 마.
+Amira|B1|Ska jag radera meddelandet i Brevlådan? Hashen har jag redan.|Brevlådan에 있는 메시지 지울까요? 해시는 벌써 있어요.
+Sofia|B2|Nej. Radera ingenting som vi kanske måste kunna redovisa senare. Lars är här klockan nio i morgon, och fram till dess låser du in datorn i mitt skåp och tar med dig nyckeln hem.|아니. 나중에 해명해야 할지도 모르는 건 아무것도 지우지 마. 라르스가 내일 아침 9시에 와. 그때까지 노트북은 내 캐비닛에 넣어 잠그고, 열쇠는 네가 집에 가져가.
+Elin|B2|Det känns som en present som någon har slagit in åt oss. Ett hemligt dokument om exakt det vi jagar, samma dag som vi ringde MUST.|누가 우리 주려고 포장한 선물 같아요. 우리가 쫓는 바로 그것에 관한 기밀 문서가, 하필 우리가 MUST에 전화한 날.
+Viktor|B2|Det finns inga gratisluncher, Elin. Om någon ger oss något som vi aldrig har bett om, måste vi först fråga vad givaren vill ha tillbaka.|공짜 점심은 없어, 엘린. 누가 우리가 달라고 한 적도 없는 걸 주면, 먼저 주는 사람이 뭘 돌려받고 싶어 하는지 물어야 해.
+# 장면 5 — 밤 11시 20분, 베링뷔 빅토르의 아파트 (꺼진 TV, 식은 차, 식탁 위의 종이 수첩, 손바닥 위의 작은 은색 닻)
+Henrik|A1|Sover du?|자?
+Viktor|A2|Nej. Teet är kallt och tv:n är av.|아니. 차는 식었고 TV는 꺼져 있어.
+Henrik|A2|Sofia ringde mig. Hon sa ingenting i telefon, bara att jag skulle komma klockan nio.|소피아가 전화했어. 전화로는 아무 말 안 하고, 9시에 오라고만 하더라.
+Viktor|A2|Bra. Då vet du lika mycket som jag.|잘됐네. 그럼 너도 나만큼 아는 거야.
+Henrik|B1|Jag vet att du sitter med boken framför dig och att halsbandet ligger i din hand. Det hör jag på rösten.|네가 수첩을 앞에 펴 놓고 앉아 있고, 목걸이가 손에 있다는 건 알아. 목소리로 들려.
+Viktor|A1|Det stämmer.|맞아.
+Henrik|B2|Han på bron gav mig fingrar, inte papper. Om du undrar om det var han, så kan jag lova dig att han hellre hade hoppat i Djurgårdsbrunnsviken än skickat något sådant.|다리 위 그 친구는 나한테 손가락을 줬지, 종이를 준 게 아니야. 혹시 그 친구였나 싶은 거라면, 장담하는데 그런 걸 보내느니 차라리 유르고르스브룬스비켄에 뛰어들었을 거야.
+Viktor|A2|Jag tror dig. Han ville inte ens träffa mig.|믿어. 날 만나려고도 안 했잖아.
+Henrik|A2|Har du skrivit hans namn någonstans?|그 친구 이름 어디 적었어?
+Viktor|A1|Jag vet inte ens vad han heter.|난 이름도 몰라.
+Henrik|B1|Bra. Då fortsätter vi så. Och sjömannen i Helsingfors?|좋아. 그럼 계속 그렇게 가자. 그리고 헬싱키 선원은?
+Viktor|B1|Ingenting. Ann-Sofie ringer varje kväll, och polisen där behandlar det fortfarande som ett försvinnande.|아무 소식 없어. 안소피가 매일 저녁 전화하는데, 거기 경찰은 아직도 실종으로만 다루고 있어.
+Henrik|A2|Vad har du skrivit i boken i kväll?|오늘 밤엔 수첩에 뭐라고 썼어?
+Viktor|A2|En rad. En fråga.|한 줄. 질문 하나.
+Henrik|A1|Läs den.|읽어 봐.
+Viktor|B1|Vem vill att jag ska ha det här?|누가 내가 이걸 갖기를 원하지?
+Henrik|B2|Det är rätt fråga, och just därför ska du inte svara på den i natt. Den som har valt dig vill att du ska vara trött, ivrig och ensam när du bestämmer dig.|맞는 질문이야. 그러니까 오늘 밤엔 대답하지 마. 너를 고른 놈은 네가 지치고, 들뜨고, 혼자일 때 결정하길 바라는 거야.
+Viktor|A2|HEMLIG. Det här borde inte finnas på mitt bord.|기밀. 이게 내 책상 위에 있으면 안 되는 건데.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vem skickade det här?** | 누가 이걸 보냈어요? | 의문사 *vem*(누가)가 주어일 때는 바로 동사가 온다: *Vem skickade…?* *skicka*(보내다)의 과거형 *skickade*. *det här*(이것) ↔ *det där*(저것). 받은 쪽의 첫 질문이지만, Brevlådan의 원칙 때문에 빅토르 팀은 이 질문에 답을 찾아 나서지 않는다 |
+| `A2` | **Brodern träffade en rysk diplomat flera gånger.** | 형이 러시아 외교관을 여러 번 만났다. | *bror*의 한정형 *brodern*(그 형). *träffa*(만나다)의 과거형 *träffade*. *flera gånger*(여러 번) — *gång*(번)의 복수 *gånger*. 형/오빠는 *storebror*, 동생은 *lillebror*: 소피아가 메모용 암호명으로 쓴 말이다 |
+| `B1` | **Dokumentet är stämplat som hemligt, och vi vet inte hur det har hamnat hos oss.** | 문서에 기밀 도장이 찍혀 있는데, 그게 어떻게 우리한테 오게 됐는지 모른다. | *vara stämplad som*(~로 도장이 찍혀 있다): *dokument*은 중성이라 *stämplat*, *hemligt*. 간접의문문 *hur det har hamnat*에서는 주어 다음에 동사(어순 도치 없음). *hamna hos någon*(어쩌다 누구 손에 들어가다) |
+| `B2` | **Redan det faktum att vi har handlingen kan dra in tidningen i en förundersökning.** | 우리가 그 문서를 갖고 있다는 사실만으로도 신문사가 예비수사에 끌려들어갈 수 있다. | *redan*(이미, ~만으로도) + *det faktum att…*(~라는 사실) — 긴 주어 덩어리 전체가 *kan*의 주어다. *dra in någon i något*(누구를 무엇에 끌어들이다). *handling*은 법률 문맥에서 '문서'(*allmän handling* 공문서, *hemlig handling* 기밀문서) |
+| `A2` | **Vi kommenterar inte enskilda ärenden.** | 개별 사안에 대해서는 논평하지 않습니다. | 스웨덴 기관 공보실의 표준 문장. *enskild*(개별의) + *ärende*(사안, 건)의 복수 *ärenden*. 수사가 있든 없든 똑같이 말하기 때문에 '아무 의미 없음' 자체가 이 문장의 기능이다 |
+| `A2` | **Du har inte hört det här från mig.** | 이건 나한테서 들은 거 아니야. | 현재완료 부정: *har inte hört*. 취재원이 '비보도·익명'을 다짐받을 때 흔히 하는 말. 비슷한 말: *Det här stannar mellan oss.*(이건 우리끼리만 아는 거야) |
+| 관용구 | **Det finns inga gratisluncher.** | 공짜 점심은 없다 — 대가 없는 선물은 없다 | 영어 *There's no such thing as a free lunch*에서 온 표현. *gratis*(공짜의) + *lunch*의 복수 *luncher*. 비슷한 스웨덴어 속담: *Ingenting är gratis.* 같은 화의 *sopa under mattan*(카펫 밑으로 쓸어 넣다 — 덮어 버리다)도 함께 익혀 두자 |
+| 안보·법 | **obehörig befattning med hemlig uppgift** | 기밀 정보의 무단 취급 | *obehörig*(권한 없는) + *befattning*(관여, 다룸) + *hemlig uppgift*(기밀 정보). 권한 없이 기밀을 손에 넣거나 넘기거나 누설하는 죄. 관련어: *röja*(누설하다), *rikets säkerhet*(국가 안보), *förundersökning*(예비수사), *åtal*(기소) |
+
+## 저널리즘·법 메모
+스웨덴에서는 공무원을 포함한 누구나 언론에 정보를 제공할 자유(*meddelarfrihet*)가 있고, 기관은 누가 말했는지 캐서는 안 된다(*efterforskningsförbud*). 하지만 이 보호에는 예외가 있다 — 국가 안보에 관한 기밀을 고의로 넘기는 일 같은 중대한 범죄는 제보자 보호로 덮이지 않는다. 그래서 헨릭의 옛 동기는 이름도 문서도 주지 않고 손가락으로 숫자만 보여 주며, 라르스는 "종이로 받은 게 있느냐"부터 묻는다. 그리고 *받는 쪽*도 안전하지 않다: 기밀 문서를 손에 넣거나 갖고 있는 행위는 기자에게도 '기밀 정보의 무단 취급'으로 문제가 될 수 있어서, 원치 않은 문서가 도착했을 때는 열기 전에 오프라인 컴퓨터로 격리하고, 해시값으로 '받은 그대로'임을 기록하고, 아무것도 지우지 않은 채 발행책임자와 법률고문에게 넘긴다. 한편 공개 자료(대회 결과표, 부고, 지역 신문, 차량등록부의 소유자 정보)로 후보를 좁히는 것은 정당한 취재지만, 확인되기 전의 이름은 내부 메모에도 남기지 않고, 수사 중일 수 있는 당사자에게는 아직 연락하지 않는다 — 반론권은 보도 전에, 확인된 사실을 들고 보장한다.
+
+## 문화·현안 메모
+- **MUST와 Säpo** — *Militära underrättelse- och säkerhetstjänsten*(MUST)는 국군(Försvarsmakten) 소속의 군 정보·보안 기관이고, *Säkerhetspolisen*(Säpo)는 방첩·대테러를 맡는 보안경찰이다. 군 내부의 스파이 혐의는 Säpo가 수사하고, 기소는 검찰청의 안보사건 전담부서(*Riksenheten för säkerhetsmål*)가 맡는다. 스웨덴에서는 실제로 정보기관 근무 경력자 형제가 러시아 군 정보기관에 정보를 넘겨 유죄 판결을 받은 사건이 있었다 — 이 화의 형제는 그 유형만 빌린 가상 인물이다.
+- **공개 정보의 나라** — 공문서 공개 원칙(*offentlighetsprincipen*) 덕분에 스웨덴에서는 차량등록부(*vägtrafikregistret*)의 소유자 정보, 회사 등기, 많은 판결문이 누구에게나 열려 있다. 신문의 생일 축하·부고 광고(*födelsedagsannons, dödsannons*)도 오랫동안 가족 관계를 보여 주는 공개 기록 역할을 해 왔다. 그만큼 "무엇을 찾을 수 있는가"보다 "무엇을 써도 되는가"가 기자의 더 큰 질문이 된다.
+- **유르고르덴 다리와 *Midnattsloppet*** — 유르고르덴 다리(*Djurgårdsbron*)는 스톡홀름 시내와 유르고르덴 섬을 잇는 다리로, 아래로 유르고르스브룬스비켄 만이 흐르고 다리 끝에는 북방박물관(*Nordiska museet*)이 있다. *Midnattsloppet*은 매년 8월 쇠데르말름에서 밤에 열리는 대규모 10km 달리기 대회다.
+- ⚠️ 헨릭의 옛 동기, 미카엘·토비아스 스트란드 형제, 문서 속 *Eventide Star*, 각 기관의 공보 담당자, Stockholmsposten은 모두 허구다. MUST·Säpo·검찰청·요새청은 실재하는 기관이지만 이 화의 사건과 답변은 극적 구성이다.
+
+## 다음 화 예고
+> 4월 10일 아침 9시, 법무실 화이트보드 앞. 라르스 몰린이 '정당성'에 밑줄을 세 번 긋는다: "Lagen frågar inte bara vad ni gjorde, utan varför och för vems skull."
