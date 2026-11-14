@@ -1,0 +1,187 @@
+@title 2부 11화 — Avslöjad
+@subtitle (정체 노출)
+@meta 날짜|2026년 2월 27일 금요일 오후 2시 ~ 2월 28일 토요일 아침 6시경
+@meta 장소|Källaren (오후 2시, 보안 회의) → 노르비크, 베니의 아파트 거실 (밤 10시 45분 ~ 새벽 1시) → 베니의 현관과 계단 (새벽 1시 4분) → 쇠데르말름, 쇠데르 병원 응급실 (새벽 2시 40분) → Källaren (새벽 5시) → 헨릭의 볼보 안 (아침 6시)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Elin** (엘린 셰크비스트, 28, 잠입 기자 — 위장 신분 "제니 칼손") · **Benny** (베니 란츠, 34, Trygga Händer 이용자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Noah** (노아 베리룬드, 24, 인턴) · **Lars** (라르스 몰린, 62, 법률고문) · **Alex** (알렉스, 27, 문을 두드리는 남자 — 극 중에서 이름이 불리지 않는다) · **Maria** (마리아 벤베리, 50, 경찰 국가작전국 경감) · *Mattias* (매티아스 브링크, 41, Trygga Händer 지역 관리자 — 문자로만)
+@intro **지난 이야기** — 빅토르는 노르비크 시청에 공문서를 청구해, 시의회 의장 페테르 산델이 청소 하청 사장 케네스 외른이 빌린 요트를 타고 스플리트에서 휴가를 보냈다는 사실을 확인했다. 산델의 아내는 시 재가 돌봄 조달을 따낸 Omsorgia 자회사의 이사였고, 세 번의 입찰은 모두 1점 차로 갈렸다. 그날 밤 빈 의장실에서 산델은 누군가와 통화하며 물었다. "무슨 여자? 베니네 집이라니?"
+@intro 사흘 뒤, 2월 27일 금요일 오후 2시. Källaren의 문이 닫혀 있다. 오늘 밤은 "제니"가 베니의 집에서 보내는 마지막 밤이고, 탁자 위에는 그 밤의 모든 것 — 시간, 위치, 신호 — 이 적힌 종이 한 장이 놓여 있다.
+# 장면 1 — 오후 2시, Källaren 보안 회의 (닫힌 문, 화이트보드에 그린 베니네 건물과 주차장, 탁자 위의 근무 계획서 한 장, 참석자 여덟 명)
+Sofia|A2|Dörren är stängd. Är alla här?|문 닫았어. 다 왔지?
+Noah|A1|Åtta stycken. Jag räknade.|여덟 명이요. 세어 봤어요.
+Sofia|B2|Bra. Det här mötet handlar om en enda sak: att Elin kommer ut ur Trygga Händer i morgon bitti, utan att någon där hinner förstå varför. Viktor, tavlan.|좋아. 이 회의는 딱 하나 때문이야. 엘린이 내일 아침 일찍, 거기 누구도 이유를 알아채기 전에 Trygga Händer에서 빠져나오는 것. 빅토르, 칠판.
+Viktor|B1|I kväll har Elin sitt sista pass hos Benny. Det står inte på Mattias schema, eftersom Monika själv bad henne att ta natten.|오늘 밤이 엘린의 베니네 마지막 근무야. 마티아스 근무표엔 없어. 모니카가 직접 밤을 맡아 달라고 부탁했거든.
+Elin|B1|Hennes syster fyller sextio i Eskilstuna. Monika åker vid halv tio och kommer tillbaka i morgon förmiddag.|모니카 씨 언니가 에스킬스투나에서 환갑이에요. 9시 반에 출발해서 내일 오전에 돌아와요.
+Viktor|B1|Passet är från tio i kväll till sju i morgon, och allt som Henrik behöver veta står på det här papperet.|근무는 오늘 밤 10시부터 내일 아침 7시까지. 헨릭이 알아야 할 건 전부 이 종이에 적혀 있어.
+Henrik|B2|Jag står på parkeringen från kvart i tio, med fri sikt mot porten, och ingen går in i det huset utan att jag ser det, om det så är grannens katt.|난 9시 45분부터 주차장에 있을게. 현관이 훤히 보이는 데. 내가 못 보고 그 건물에 들어가는 건 아무도 없어. 이웃집 고양이라도.
+Amira|B1|Och baksidan? Det finns en dörr mot soprummet, som jag såg på ritningarna i bygglovet.|뒤쪽은? 쓰레기 보관실 쪽에 문이 하나 있잖아. 건축 허가 도면에서 봤어.
+Henrik|A2|Den är låst på natten. Jag kollade i tisdags.|그건 밤엔 잠겨. 화요일에 확인했어.
+Sofia|B2|Varje timme skickar du en rad från Jennys telefon till Henrik, inte bara när passet är slut. Ett pass som inte står på något schema är också ett pass som ingen annan håller koll på, så i natt vill jag ha det tätare.|매시간 제니 폰으로 헨릭한테 한 줄씩 보내. 근무 끝날 때만이 아니라. 어느 근무표에도 없는 근무는 아무도 챙겨 주지 않는 근무이기도 하니까, 오늘 밤은 더 촘촘하게 하고 싶어.
+Elin|A2|Varje timme. Jag ställer ett alarm på telefonen.|매시간. 폰에 알람 맞춰 둘게요.
+Henrik|B1|Kommer det ingen rad, ringer jag. Svarar du inte, kommer jag.|한 줄이 안 오면 내가 전화해. 안 받으면 올라가고.
+Viktor|A1|Och signalen?|신호는?
+Elin|A2|”Det snöar i Värnamo.” Jag har den sparad som utkast.|"베르나모에 눈 온다." 임시 저장해 뒀어요.
+Henrik|B1|Skriver du ”Det snöar i Värnamo” är jag uppe på trettio sekunder. Och jag frågar ingenting förrän vi sitter i bilen.|네가 '베르나모에 눈 온다'고 쓰면 30초 안에 올라간다. 그리고 차에 탈 때까지 아무것도 안 물어.
+Lars|B2|På måndag lämnar Elin en skriftlig uppsägning i sitt eget namn, Jenny Karlsson. Först därefter skickar vi våra frågor till Trygga Händer, så att de får bemöta allt innan vi publicerar.|월요일에 엘린이 본인 이름, 제니 칼손으로 서면 사직서를 냅니다. 그다음에야 Trygga Händer에 질문을 보냅니다. 보도 전에 모든 걸 반박할 기회를 주려고요.
+Noah|A2|Varför inte skicka frågorna i dag?|왜 오늘 질문을 보내면 안 돼요?
+Viktor|B2|För att en fråga också är ett besked. Så fort Trygga Händer läser den vet de att någon har sett deras tidrapporter inifrån, och då vill jag att Elin redan är ute.|질문도 하나의 통보니까. Trygga Händer가 그걸 읽는 순간 누군가 안에서 근무 기록을 봤다는 걸 알게 돼. 그땐 엘린이 이미 빠져나와 있어야 해.
+Amira|B2|Sandell har redan fått våra tolv frågor. Han lät fristen gå ut i går utan ett ord, men Omsorgia Hemtjänst Norr stod i fråga fyra, så vad vi frågar om har han knappast hållit för sig själv.|산델은 벌써 우리 질문 열두 개를 받았어. 어제 기한을 한마디 없이 넘겼지만, 4번 질문에 Omsorgia Hemtjänst Norr가 들어 있었어. 우리가 뭘 묻는지 혼자만 알고 있진 않았겠지.
+Henrik|B2|Då vet Omsorgia att vi rotar i Norrvik, och den som vet var man rotar brukar till slut gissa var man gräver.|그럼 Omsorgia도 우리가 노르비크를 뒤지고 있다는 걸 알겠구먼. 어디를 뒤지는지 아는 놈은 결국 어디를 파는지도 짐작하는 법이지.
+Viktor|B2|De vet att vi granskar kommunen. Men så länge Trygga Händer inte har fått en enda fråga från oss, har de ingen anledning att tro att vi sitter hemma hos Benny.|시청을 들여다본다는 건 알지. 하지만 Trygga Händer가 우리한테서 질문 하나 받지 않은 이상, 우리가 베니네 집에 있다고 생각할 이유는 없어.
+Noah|B1|Jag har gått igenom allas konton, som Sofia bad om. Elins gamla Instagram är privat, men profilbilden syns fortfarande.|소피아 국장님이 부탁하신 대로 다들 계정을 훑어봤어요. 엘린 씨 옛날 인스타그램은 비공개인데, 프로필 사진은 아직 보여요.
+Elin|B1|Den är från teaterskolan, 2019. Jag har blont hår och en clownnäsa, så ingen känner igen Jenny i den.|연극학교 때 거예요, 2019년. 금발에 빨간 광대 코를 달고 있어서, 그걸 보고 제니를 알아볼 사람은 없어요.
+Fredrik|B2|Ta bort den ändå. Och Sofia, om något händer i natt måste någon på desken veta vem som ska ringas och var alla befinner sig, annars står vi där och gissar.|그래도 지워. 그리고 소피아, 오늘 밤 무슨 일이 생기면 데스크의 누군가는 누구한테 전화해야 하는지, 다들 어디 있는지 알아야 해요. 안 그러면 서서 추측만 하고 있을 거예요.
+Sofia|B1|Nattdesken behöver inte veta allt. Ju färre som vet, desto bättre.|야간 데스크가 다 알 필요는 없어. 아는 사람이 적을수록 좋아.
+Fredrik|B1|Nej, men jag har jouren i helgen. Jag tar en kopia, för bemanningens skull. Ifall nåt händer.|네, 근데 이번 주말 당직이 저예요. 사본 하나 가져갈게요, 인력 배치 때문에. 무슨 일 생길지 모르니까.
+Viktor|A2|Skrivaren här nere är fortfarande trasig.|여기 아래 프린터 아직 고장이야.
+Fredrik|A2|Då kopierar jag den uppe. Två minuter.|그럼 위에서 복사할게. 2분이면 돼.
+Sofia|B2|En kopia, och den ligger i ditt skåp, inte i din väska. Viktor, sudda tavlan när vi är klara, och originalet går till mitt kassaskåp.|사본 한 장. 그리고 그건 가방이 아니라 네 사물함에 둬. 빅토르, 끝나면 칠판 지우고, 원본은 내 금고로.
+Fredrik|A1|Självklart. Kapten lovar.|물론이죠. 캡틴이 약속해요.
+# 장면 2 — 밤 10시 45분 ~ 새벽 1시, 노르비크, 베니의 아파트 거실 (빨대 꽂은 파란 머그, 부엌 벽의 도어락 태블릿, 소파 위에 개켜 둔 모니카의 담요, 진동하는 "제니 폰")
+Benny|A2|Sista natten, Jenny. Eller vad du nu heter.|마지막 밤이네, 제니. 아니 네 이름이 뭐든.
+Elin|A2|I natt heter jag Jenny. I morgon får du välja.|오늘 밤엔 제니예요. 내일은 골라 부르세요.
+Benny|B1|Jag väljer Elin. Jenny kokar sämre kaffe, och hon säger ”dä” när hon är trött.|난 엘린으로 할래. 제니는 커피를 더 못 타고, 피곤하면 '대'라고 하거든.
+Elin|A1|Dä gör ja inte!|저 안 그래요!
+Benny|A1|Där. Två gånger.|봐. 두 번.
+Elin|B1|Din mamma ringde från Eskilstuna. Hon var framme kvart över tio och lovade att bara ringa en gång till.|어머님이 에스킬스투나에서 전화하셨어요. 10시 15분에 도착하셨고, 딱 한 번만 더 전화하겠다고 약속하셨어요.
+Benny|B1|Hon har ringt tre gånger på en timme. Hon tror att jag dör så fort hon lämnar kommunen.|한 시간에 세 번 전화했어. 자기가 시 경계만 넘으면 내가 죽는 줄 알아.
+Elin|B1|Hon är bara orolig, eftersom hon vet att det är min sista natt.|그냥 걱정되셔서 그래요. 제 마지막 밤인 걸 아시니까.
+Benny|B2|Alla är oroliga i kväll utom jag. Jag har ju en assistent som faktiskt kommer, och det har inte hänt en fredag sedan Ahmed slutade.|오늘 밤엔 나 빼고 다 걱정이야. 난 진짜로 오는 보조인이 있잖아. 아흐메드 그만둔 뒤로 금요일에 그런 적이 없었어.
+Elin|A2|Klockan är elva. Jag skriver till Henrik.|11시예요. 헨릭한테 보낼게요.
+Benny|A1|Vad skriver du?|뭐라고 써?
+Elin|A1|”Allt lugnt. Kaffe.”|"이상 없음. 커피."
+Benny|A2|Och han svarar?|그럼 답해?
+Elin|A2|Alltid. Ett ord. ”Uppfattat.”|항상요. 한 단어. "알았다."
+Benny|B1|Han låter som någon som har stått vakt på en klippa i hela sitt liv.|평생 절벽 위에서 보초 선 사람 같네.
+Elin|A2|Nästan. Kustartilleriet. Vänta, ett sms till. Från Mattias.|거의요. 해안포병이요. 잠깐만요, 문자 또 왔어요. 마티아스예요.
+Benny|A2|Klockan elva en fredag? Läs.|금요일 밤 11시에? 읽어 봐.
+Elin|B1|”Hej Jenny! Kan du byta ditt pass på måndag mot ett kvällspass? Ring mig i morgon. /M”|"안녕 제니! 월요일 근무를 저녁 근무로 바꿔 줄 수 있어? 내일 전화 줘. /M"
+Benny|B1|Han skickar alltid schemat på söndagar. Mamma har aldrig fått ett sms från honom en fredagskväll.|그 사람 근무표는 늘 일요일에 보내. 엄마는 금요일 밤에 그 사람 문자를 받아 본 적이 없어.
+Elin|B1|Jag svarar inte. Jag skickar det till Henrik, ord för ord, precis som vi sa.|답 안 할래요. 헨릭한테 그대로 보낼게요. 한 글자도 안 바꾸고, 약속한 대로.
+Benny|A2|Och vad säger kustartilleriet?|해안포병은 뭐래?
+Elin|B1|”Svara inte. Jag sitter kvar.” Han tycker också att det är konstigt.|"답하지 마. 계속 있을게." 그분도 이상하다고 생각하나 봐요.
+Benny|B2|Kanske vill han bara att du ska jobba fler timmar som han kan fakturera dubbelt. Det vore i alla fall typiskt Mattias.|그냥 두 배로 청구할 시간을 더 일하게 하고 싶은 걸 수도 있지. 그거라면 적어도 딱 마티아스답네.
+Elin|A2|Kanske. Vill du ha mer kaffe?|그럴지도요. 커피 더 드릴까요?
+Benny|B1|Nej, då somnar jag aldrig. Men när artikeln kommer skriver jag autografer, och du får en gratis.|아니, 그럼 절대 못 자. 근데 기사 나오면 내가 사인해 줄게. 넌 공짜로.
+Elin|B1|Du har inte ens bestämt om du vill synas med namn. Sofia sa att det är ditt beslut.|실명으로 나올지도 아직 안 정하셨잖아요. 소피아 국장님이 베니 씨가 결정할 일이라고 했어요.
+Benny|B2|Jag har bestämt mig för att bestämma mig senare. Det är den enda makt jag har över det här bolaget, och den tänker jag njuta av ett tag.|나중에 정하기로 정했어. 이 회사에 대해 내가 가진 유일한 권력이 그거야. 한동안 그걸 즐길 생각이야.
+Elin|B1|Det är rättvist. Och allt som handlar om dig får du läsa innan det publiceras, precis som Sofia lovade.|공평하네요. 그리고 베니 씨에 관한 건 전부 보도되기 전에 읽으실 수 있어요. 소피아 국장님이 약속한 대로요.
+Benny|B2|Jag vet. Men jag kommer att sakna dig, och det är irriterande, för du kom ju hit för att ljuga för mig, och folk som ljuger för en borde man inte sakna.|알아. 근데 네가 보고 싶을 거야. 그게 짜증 나. 넌 나한테 거짓말하려고 여기 온 거잖아. 거짓말한 사람을 그리워하면 안 되는 건데.
+Elin|B2|Jag ljög om namnet och om Värnamo, men inte om något annat, även om jag vet att det är precis vad en lögnare skulle säga.|이름이랑 베르나모는 거짓말했어요. 하지만 다른 건 아니에요. 그게 딱 거짓말쟁이가 할 법한 말이라는 건 알지만요.
+Benny|A2|Inte om din mormor?|외할머니 얘기는?
+Elin|B1|Aldrig om henne. Det var hon du hörde, den kvällen när Värnamo försvann.|할머니 얘기는 절대요. 그날 밤 베르나모가 사라졌을 때 들으신 게 할머니였어요.
+Benny|A2|Klockan är snart ett. Skriv till Henrik.|곧 1시야. 헨릭한테 써.
+Elin|A1|”Allt lugnt.” Skickat.|"이상 없음." 보냈어요.
+Benny|A2|Hörde du? Det var hissen.|들었어? 엘리베이터 소리야.
+Elin|B1|Det är fredag. Grannen på trean brukar komma hem sent när han har varit på puben.|금요일이잖아요. 3층 이웃은 펍에 갔다 오면 늦게 들어오곤 해요.
+Benny|A1|Den stannade här.|여기서 섰어.
+Elin|A1|På vår våning?|우리 층에요?
+# 장면 3 — 새벽 1시 4분, 베니의 현관과 계단 (노크, 체인, 문틈, 휠체어, 비상 알람 버튼, 계단을 울리는 고함과 플래시)
+Benny|A1|Någon knackar.|누가 두드려.
+Alex|A2|Jenny? Det är Ahmed. Jag har nattpasset.|제니? 아흐메드야. 나 야간 근무야.
+Benny|A2|Ahmed slutade i oktober.|아흐메드는 10월에 그만뒀어.
+Elin|A2|Jag vill se vem det är. Bara på kedjan.|누군지 보고 싶어요. 체인만 걸고요.
+Benny|A1|Nej! Gör inte det!|안 돼! 그러지 마!
+Elin|A1|Du e inte Ahmed.|당신 아흐메드 아니잖아요.
+Alex|A1|Nej. Släpp in mig.|아니지. 들여보내.
+Elin|A1|Aj! Min hand!|아! 내 손!
+Benny|A1|Dra ut den! Nu!|빼! 지금!
+Alex|A1|Öppna dörren!|문 열어!
+Benny|A2|Nu är den stängd. Stå bakom mig.|이제 닫혔어. 내 뒤에 서.
+Alex|A2|Öppna! Elin, jag vet att du är där.|열어! 엘린, 거기 있는 거 알아.
+Elin|A2|Benny. Han vet vad jag heter.|베니 씨. 저 사람이 내 이름을 알아요.
+Benny|A1|Larmet. Jag trycker.|알람. 누를게.
+Elin|A2|Och jag skriver till Henrik. Det snöar i Värnamo.|그리고 전 헨릭한테 쓸게요. 베르나모에 눈 온다.
+Alex|A1|Öppna, sa jag!|열라고 했지!
+Benny|A2|Här kommer ingen in. Jag och stolen väger hundra kilo.|여긴 아무도 못 들어와. 나랑 휠체어 합쳐서 100킬로야.
+Alex|B1|Du skriver ingenting om oss, hör du? Nästa gång är det inte en dörr.|우리에 대해선 아무것도 쓰지 마, 알아들어? 다음엔 문 하나로 안 끝나.
+Elin|A1|Gå härifrån!|여기서 꺼져요!
+Benny|A2|Larmcentralen? Benny Lantz här. Någon försöker ta sig in.|알람 센터죠? 베니 란츠예요. 누가 들어오려고 해요.
+Henrik|A1|Hallå där! Polisen är på väg!|어이, 거기! 경찰 오고 있어!
+Alex|A1|Fan!|젠장!
+Henrik|A1|Stanna! Titta hit!|멈춰! 여기 봐!
+Benny|A2|Han springer. Jag hör trappan.|도망가. 계단 소리 들려.
+Henrik|A2|Elin! Det är jag, Hesa. Öppna nu.|엘린! 나야, 헤사. 이제 열어.
+Elin|A1|Är han borta?|갔어요?
+Henrik|B1|Han sprang ner förbi mig, mot garaget. Jag fick fem bilder med blixt.|내 옆을 지나 아래로, 지하 주차장 쪽으로 뛰어갔어. 플래시로 다섯 장 찍었어.
+Benny|A1|Trettio sekunder?|30초?
+Henrik|A2|Tjugofem. Hissen stod still här uppe, så jag tog trappan.|25초. 엘리베이터가 여기 위층에 서 있길래 계단으로 왔지.
+Elin|B1|Han höll kvar hissen på vår våning. Han hade tänkt igenom allt.|그 남자가 엘리베이터를 우리 층에 잡아 뒀던 거예요. 다 계산해 둔 거예요.
+Henrik|A1|Visa handen.|손 보여 봐.
+Elin|A2|Dä gör inte ont. Dä e bara lite blått.|안 아파요. 그냥 좀 멍든 거예요.
+Henrik|B1|Du pratar som Jenny. När polisen har kommit åker vi till akuten.|너 제니처럼 말한다. 경찰 오면 응급실 가자.
+Benny|B1|Larmcentralen sa fem minuter, och mamma är på väg hem från Eskilstuna. Det var nära ögat.|알람 센터가 5분이래. 엄마도 에스킬스투나에서 오는 중이고. 아슬아슬했어.
+Henrik|B1|Du räddade henne, Benny. Med en rullstol och en larmknapp.|네가 살렸어, 베니. 휠체어 하나랑 알람 버튼 하나로.
+# 장면 4 — 새벽 2시 40분, 쇠데르 병원 응급실 대기실 (자판기 커피, 엑스레이 결과지, 부목을 댄 왼쪽 손목, 헨릭의 카메라 화면)
+Viktor|A2|Hesa. Var är hon?|헤사. 어디 있어?
+Henrik|B1|På röntgen. Hon kommer snart, och Maria har redan suttit här i tjugo minuter.|엑스레이 찍으러. 곧 나와. 마리아는 벌써 20분째 여기 앉아 있고.
+Viktor|B1|Jag ringde henne från bilen. Hon var den enda jag kunde komma på som inte skulle fråga varför först.|차에서 전화했어. 먼저 이유부터 묻지 않을 사람이 그 사람밖에 생각이 안 났어.
+Maria|B1|Jag frågar alltid varför. Jag gör det bara inte först, eftersom folk ljuger mer när de är rädda.|난 늘 이유를 물어. 다만 먼저 묻지 않을 뿐이야. 사람은 겁먹었을 때 거짓말을 더 하거든.
+Elin|A2|Ingen fraktur. Bara stukad. Två veckor med skena.|골절은 아니래요. 그냥 삐었대요. 2주 동안 부목이요.
+Viktor|A1|Elin. Förlåt.|엘린. 미안해.
+Elin|A2|Dä e ingen fara. Ja e okej.|괜찮아요. 저 괜찮아요.
+Henrik|B2|Hon har pratat småländska ända sedan Norrvik. Jenny är nog det enda skal hon har kvar i natt, och det tänker jag inte ta ifrån henne.|노르비크에서부터 줄곧 스몰란드 말을 해. 오늘 밤 저 애한테 남은 껍데기는 제니뿐인가 봐. 그걸 뺏을 생각은 없어.
+Maria|A1|Tid? Hur många? Såg du bilen?|시간? 몇 명? 차 봤어요?
+Elin|A2|Fyra minuter över ett. En man. Ingen bil, ja såg bara trappan.|1시 4분이요. 남자 한 명. 차는 못 봤어요. 계단만 봤어요.
+Maria|A1|Vad sa han?|뭐라고 했어요?
+Elin|B1|Först sa han att han hette Ahmed. Sedan ropade han mitt namn, och till sist sa han att nästa gång är det inte en dörr.|처음엔 자기가 아흐메드래요. 그다음엔 제 이름을 불렀고, 마지막엔 다음엔 문 하나로 안 끝난다고 했어요.
+Maria|B2|Det räcker för en anmälan om olaga hot, och handleden kan bli misshandel, men det avgör åklagaren. Henrik, du har bilder, har jag hört.|불법 협박으로 신고하기엔 충분해요. 손목은 폭행이 될 수도 있는데, 그건 검사가 판단하고요. 헨릭, 사진이 있다면서요.
+Henrik|A2|Fem. En är skarp. Halva ansiktet och halsen.|다섯 장. 한 장은 선명해. 얼굴 반쪽이랑 목.
+Maria|A2|Tatueringen. Visa den en gång till.|문신. 한 번 더 보여 줘요.
+Viktor|A1|Känner du igen honom?|알아보겠어?
+Maria|B1|Jag säger bara så här: det där är Zenits sida. En underleverantör. Mer får du inte, Viktor.|이것만 말할게. 저건 Zenit 쪽이야. 하청. 그 이상은 안 돼, 빅토르.
+Viktor|B2|Zenit tar alltså uppdrag från någon som vill skrämma en reporter som granskar välfärdsbolag. Det säger en hel del om vem som beställer.|그러니까 Zenit이 복지 업체를 취재하는 기자를 겁주고 싶은 누군가의 일감을 받는다는 거네. 누가 주문하는지 꽤 많은 걸 말해 주는군.
+Maria|B1|Det säger du. Jag säger att ingen av er ska sova hemma i natt.|그건 네 말이고. 내 말은, 오늘 밤엔 너희 누구도 집에서 자지 말라는 거야.
+Elin|A2|Och Benny? Är han ensam?|베니 씨는요? 혼자 있어요?
+Henrik|B1|Monika kom hem halv tre, och en patrull står utanför porten tills det blir ljust.|모니카가 2시 반에 왔어. 그리고 날이 밝을 때까지 순찰차가 현관 앞에 서 있을 거야.
+# 장면 5 — 새벽 5시, Källaren 사후 점검 (지워진 화이트보드, 식은 커피, 당직이라 불려 나온 프레드릭의 재킷) → 아침 6시, 한트베르카르가탄에 세워 둔 헨릭의 볼보 안
+Sofia|B2|Jag har skrivit in allt i hotloggen och ringt Ali Haddad, och Fredrik, som har jouren. Elin, du borde ligga på ett hotellrum nu, inte sitta här, för om de vet vad du heter vet de kanske också var du bor.|위협 기록에 전부 적었고, 알리 하다드한테 전화했어. 당직인 프레드릭한테도. 엘린, 넌 지금 여기 앉아 있을 게 아니라 호텔 방에 누워 있어야 해. 네 이름을 안다면 어디 사는지도 알지 모르니까.
+Elin|B1|Jag vill höra vad ni tror. Bara de som satt i mötet visste vilket pass jag hade i kväll.|여러분 생각을 듣고 싶어요. 오늘 밤 제가 무슨 근무인지는 회의에 있던 사람들만 알았어요.
+Amira|B2|Och Benny och Monika. Och låset. Kontoret har en egen nyckel i appen, och om de kan läsa loggen såg de att Jennys nyckel öppnade dörren tio i tio, fast hon inte stod på schemat.|그리고 베니랑 모니카. 그리고 도어락. 사무실도 앱에 자기 열쇠가 있어. 기록을 볼 수 있다면, 근무표에 없는 제니 열쇠로 9시 50분에 문이 열린 걸 봤겠지.
+Noah|A2|Men namnet? Hur visste han att hon heter Elin?|근데 이름은요? 엘린이란 건 어떻게 알았죠?
+Amira|B2|Personnumret. Kör man det i vilken söktjänst som helst, står det Elin Jenny Karlsson Sjöqvist, och om Trygga Händer gjorde en bakgrundskontroll i januari har de kanske vetat det hela tiden.|개인번호. 아무 검색 서비스에 넣어도 엘린 제니 칼손 셰크비스트라고 떠. Trygga Händer가 1월에 신원 조회를 했다면 처음부터 알고 있었을 수도 있어.
+Elin|B2|Och Linnea på Solbacka vet vem jag är sedan januari. Solbacka är också Omsorgia, och om hon har sagt något till fel person räcker det med ett foto av Jenny för att lägga ihop det.|그리고 솔바카의 린네아는 1월부터 제가 누군지 알아요. 솔바카도 Omsorgia고요. 그 사람이 엉뚱한 사람한테 무슨 말이라도 했다면, 제니 사진 한 장이면 이어 붙이기에 충분해요.
+Fredrik|B2|Eller så är det ännu enklare. Profilbilden visar hennes ansikte, och vem som helst på Trygga Händer kan göra en bildsökning på en kvart. Hon kan ha blivit avslöjad via sin Instagram.|아니면 더 간단할 수도 있죠. 프로필 사진에 얼굴이 나오잖아요. Trygga Händer 누구라도 15분이면 이미지 검색을 할 수 있어요. 인스타그램에서 들켰을 수도 있어요.
+Elin|A2|Med blont hår och clownnäsa?|금발에 광대 코 단 걸로요?
+Fredrik|B2|Ansiktsigenkänning bryr sig inte om näsor. Jag säger bara att vi borde börja med det uppenbara, innan vi börjar misstänka varandra.|안면 인식은 코 따위 신경 안 써. 난 그냥 우리끼리 서로 의심하기 전에 뻔한 것부터 시작하자는 거야.
+Viktor|B2|Det uppenbara är Sandell. Han fick våra frågor i tisdags, han ville veta vem mer som hade sett bilden, och tre dagar senare står någon utanför Bennys dörr.|뻔한 건 산델이야. 화요일에 우리 질문을 받았고, 사진을 또 누가 봤는지 알고 싶어 했고, 사흘 뒤에 누군가 베니네 문 앞에 서 있었어.
+Henrik|B1|Och han kom inte genom porten. Jag satt med ögonen på den hela natten. Han kom underifrån, från garaget.|그리고 그 남자 현관으로 안 왔어. 밤새 현관만 보고 있었거든. 아래에서, 지하 주차장에서 올라왔어.
+Noah|B1|Men om han kom från garaget, visste han kanske att du satt vid porten?|근데 주차장으로 왔다면, 헨릭 씨가 현관 앞에 있다는 걸 알았던 걸까요?
+Henrik|B2|Kanske. Eller så parkerade han bara där, eftersom det är så man kommer in i ett hus utan att synas från gatan. Det borde jag ha tänkt på.|그럴지도. 아니면 그냥 거기 차를 댔거나. 길에서 안 보이게 건물에 들어가려면 원래 그렇게 하니까. 그걸 생각했어야 했는데.
+Sofia|A1|Kopiorna. Var är de?|사본들. 어디 있어?
+Fredrik|B1|Min ligger i skåpet, som du sa. Jag kopierade den vid desken, och halva redaktionen stod runt kaffemaskinen.|제 건 말씀하신 대로 사물함에 있어요. 데스크에서 복사했는데, 편집국 절반이 커피 머신 주위에 서 있었고요.
+Amira|B1|Och kopiatorn sparar varje sida på en hårddisk. Det vet nästan ingen, men det gör den.|그리고 복사기는 모든 페이지를 하드디스크에 저장해. 거의 아무도 모르지만, 정말 그래.
+Viktor|B2|Antingen har vi slarvat själva, eller så finns det en läcka närmare än vi vill tro.|우리가 스스로 허술했거나, 아니면 우리가 믿고 싶은 것보다 더 가까운 곳에 구멍이 있는 거야.
+Noah|B1|Kapten, det ringer i din jacka. Det är inte din vanliga signal.|캡틴, 재킷에서 전화 울려요. 평소 벨소리가 아닌데요.
+Fredrik|B1|Jobbtelefonen. Nattdesken vill säkert veta om vi har något till morgonen, och det har vi inte.|업무폰이야. 야간 데스크가 아침 판에 넣을 거 있냐고 묻고 싶은 거겠지. 없는데.
+Viktor|A1|Den ringde två gånger.|두 번 울렸어.
+Fredrik|B1|Nu har den slutat. De ringer igen om det brinner. Fortsätt, Sofia.|이제 끊겼네. 불나면 다시 걸겠죠. 계속하세요, 소피아.
+Sofia|B2|Vi kan inte be polisen leta efter en läcka här inne, för då öppnar vi våra egna källor för dem. Tills vidare skriver jag i loggen: Omsorgias bakgrundskontroll och Sandell. Hesa, kör henne till hotellet.|이 안에서 새는 구멍을 찾아 달라고 경찰에 부탁할 순 없어. 그러면 우리 취재원들을 그쪽에 열어 주는 거니까. 당분간 기록엔 이렇게 쓸게. Omsorgia 쪽 신원 조사, 그리고 산델. 헤사, 엘린 호텔에 데려다줘.
+Elin|A2|Värmen i din bil är fortfarande trasig, Hesa.|헤사, 차 히터 아직도 고장이네요.
+Henrik|A1|Ta min halsduk.|내 목도리 둘러.
+Elin|A1|Han sa Elin. Inte Jenny. Elin.|그 남자가 엘린이라고 했어요. 제니가 아니라. 엘린.
+Henrik|A2|Int ett ord till nån. Int ens till folk på redaktionen.|아무한테도 한마디 하지 마. 편집국 사람들한테도.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Öppna dörren!** | 문 열어! | 명령형은 동사 원형에서 -a를 그대로 둔다: *öppna*(열다) → *Öppna!* 부정은 *Öppna inte!*(열지 마!). 이 화에서 문 안팎의 두 사람이 정반대의 명령형을 주고받는다 — *Öppna!* 와 *Gör inte det!* |
+| `A2` | **Han vet vad jag heter.** | 그 사람은 내 이름을 알아. | *vad jag heter*는 간접 의문문 — 직접 의문문 *Vad heter du?* 와 달리 주어가 동사 앞에 온다(*jag heter*). *Jag vet var hon bor*(그녀가 어디 사는지 안다), *Vet du vem han är?* 도 같은 꼴 |
+| `B1` | **Skriver du ”Det snöar i Värnamo” är jag uppe på trettio sekunder.** | 네가 '베르나모에 눈 온다'고 쓰면 30초 안에 올라간다. | *om* 없이 동사로 시작하는 조건절(*Skriver du …* = *Om du skriver …*). 구어에서 아주 흔하고, 뒤따르는 주절은 동사가 먼저 온다(*är jag*). *Kommer det ingen rad, ringer jag* 도 같은 구조 |
+| `B1` | **Bara de som satt i mötet visste vilket pass jag hade i kväll.** | 오늘 밤 내가 무슨 근무인지는 회의에 있던 사람들만 알았어요. | *de som* = ~한 사람들(관계절), *vilket pass* = 어떤 근무(간접 의문, *pass*는 중성이라 *vilket*). *pass*는 근무 교대 한 차례: *nattpass, kvällspass, ta natten* |
+| `B2` | **Antingen har vi slarvat själva, eller så finns det en läcka närmare än vi vill tro.** | 우리가 스스로 허술했거나, 아니면 우리가 믿고 싶은 것보다 더 가까운 곳에 구멍이 있는 거야. | *antingen … eller (så)* = ~이거나 ~이거나. *eller så* 뒤에서는 동사가 먼저 온다(*finns det*). *slarva* = 일을 대충 하다, 부주의하다. *läcka* = 누출, (정보가) 새는 곳 |
+| `B2` | **Jag tar en kopia, för bemanningens skull.** | 사본 하나 가져갈게, 인력 배치 때문에. | *för …s skull* = ~를 위해서, ~ 때문에(*för din skull* = 너를 위해). *bemanning* = 인력 배치·충원 — 2부 내내 청구서에 적혀 있던 바로 그 단어(*bemanning*)이기도 하다 |
+| 관용구 | **Det var nära ögat.** | 아슬아슬했다. | 직역 "눈에 가까웠다". 큰일이 날 뻔했지만 피했을 때 쓴다. 비슷한 말로 *Det var på håret*(머리카락 한 올 차이였다) |
+| 용어 | **olaga hot** | 불법 협박죄 | 형법(*brottsbalken*) 4장 5조. 범죄 행위를 하겠다고 위협해 상대가 자신이나 남의 안전에 대해 심각한 두려움을 느낄 만할 때 성립한다. "다음엔 문 하나로 안 끝나"처럼 구체적인 폭력을 말하지 않아도, 상황 전체가 위협으로 읽히면 해당될 수 있다 |
+
+## 저널리즘·법 메모
+기자에 대한 위협은 개인의 사건인 동시에 보도 자체를 겨냥한 공격이다. 그래서 스웨덴의 많은 언론사는 위협을 날짜·시각·내용과 함께 기록하는 위협 기록(*hotlogg*)을 두고, 경찰에 신고하며, 필요하면 기자를 집이 아닌 곳에 재운다. 하지만 이 화의 진짜 질문은 범인이 *어떻게 알았는가*다. 공문서 공개 원칙과 짝을 이루는 *efterforskningsförbud*(취재원 색출 금지)는 공공기관이 언론의 제보자를 캐는 것을 막을 뿐, 뉴스룸 *안에서* 정보가 새는 것을 막아 주는 법은 없다. 그렇다고 경찰에게 편집국을 조사해 달라고 하면, 그 조사 과정에서 신문사가 지켜야 할 취재원과 미공개 자료가 수사기관 앞에 열린다 — 소피아가 "이 안의 구멍은 경찰에게 찾아 달라 할 수 없다"고 말하는 이유다. 그래서 첫 단계는 언제나 가장 지루한 일이다. 누가 무엇을 알았는지, 사본은 몇 장이고 어디 있는지, 도어락 기록과 복사기 메모리까지 하나씩 적어 보는 것.
+
+## 문화·현안 메모
+- **안심 알람(*trygghetslarm*)** — 혼자 있는 시간이 있는 장애인·노인이 손목이나 목에 거는 비상 버튼. 누르면 지자체나 위탁 업체의 알람 센터(*larmcentral*)와 바로 통화가 연결되고, 센터가 직원이나 경찰을 보낸다.
+- **쇠데르 병원(*Södersjukhuset*, 줄여서 *SÖS*)** — 스톡홀름 남부 쇠데르말름에 있는 큰 응급 병원. 금요일 밤과 토요일 새벽은 응급실이 가장 붐비는 시간이다.
+- **스몰란드 말투** — 엘린의 "제니"는 *det är*를 *dä e*로, *jag*를 *ja*로 줄여 말한다. 두려움이나 충격 속에서 사람은 가장 오래 연습한 목소리로 돌아가곤 한다 — 엘린에게 그건 이제 자기 목소리가 아니라 제니의 목소리다.
+- ⚠️ Trygga Händer Assistans, Omsorgia, 노르비크 시, Zenit, 베니와 모니카 란츠, "알렉스", 매티아스 브링크는 모두 허구다. 실제 기관(경찰, 쇠데르 병원)은 배경으로만 등장한다.
+
+## 다음 화 예고
+> 3월 2일 월요일, 순드뷔베리의 카페. 사회보험청 심사관 한나가 휴대폰 두 대 중 한 대를 엎어 두고, 다른 한 대를 빅토르 앞에 올려놓는다.
