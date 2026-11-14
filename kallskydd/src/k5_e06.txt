@@ -1,0 +1,187 @@
+@title 5부 6화 — Provokatören
+@subtitle (도발자)
+@meta 날짜|2026년 8월 6일 목요일 오전 10시 ~ 밤 10시경
+@meta 장소|호른스툴 물가의 카페 (창가 테이블, 라스무스의 셀카봉과 휴대폰 거치대, 오전 10시) → 쿵스홀멘 경찰청 허가 담당 부서 복도 (오후 1시) → Källaren, 노아의 책상 앞 모니터 두 대 (오후 3시 반) → Källaren, 아미라의 책상 (저녁 7시 ~ 9시 10분경) → 디플로마트스타덴, 한 대사관 앞의 빈 거리 (밤 9시 40분 ~ 10시경)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Noah** (노아 베리룬드, 24, 기자) · **Rasmus** (라스무스 크비스트, 43, 대사관 앞 코란 소각을 계획하는 도발자) · **Maria** (마리아 벤베리, 50, 경찰 국가작전국(NOA) 경감) · **Zainab** (자이납, 52, 스톡홀름 북서부 한 모스크의 여성회 회장, 성인 대상 스웨덴어 교사 — 이름만 보도 조건) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자·엘린의 핸들러)
+@intro **지난 이야기** — 노르비크의 사회복지사 히바는 "아동 납치범"이라는 영상 때문에 매일 아침 차 밑을 확인하고 출근한다. 노아와 아미라는 서로를 증오하는 두 캠페인 — 아랍어권의 "납치" 영상과 Hemlandspartiet 다크 계정의 "개입할 용기가 없다" 영상 — 이 같은 편집 템플릿, 같은 서버, 끝자리 0417인 같은 카드를 쓴다는 걸 찾아냈다. 같은 날 바사가탄에서 이다는 모아의 불룩한 주머니를 짚었고, 엘린은 그날 처음으로 진짜 무서웠다고 했다.
+@intro 8일 뒤인 8월 6일 목요일. 월요일 아침, Stockholmsposten 대표 메일로 "독점 인터뷰" 제안이 들어왔다 — 다음 주 토요일 한 대사관 앞에서 코란을 태우겠다는 라스무스 크비스트였다. 소피아는 "대화는 허락, 기사는 아직"이라고 했다. 오전 10시, 호른스툴의 카페. 라스무스는 벌써 휴대폰을 거치대에 꽂아 두고 있다.
+# 장면 1 — 오전 10시, 호른스툴 물가의 카페 (창가 테이블, 거치대에 꽂힌 라스무스의 휴대폰, 노아의 종이 수첩, 테이블 위에 펼쳐진 영수증 두 장)
+Rasmus|B1|Där är ni ju! Jag började tro att Stockholmsposten inte vågade komma. Sätt er, sätt er.|아, 왔군! 스톡홀름스포스텐이 겁나서 못 오는 줄 알았소. 앉으시오, 앉아요.
+Viktor|A1|God morgon.|안녕하세요.
+Rasmus|A2|Bara ni två? Ingen fotograf?|두 사람뿐이오? 사진기자는 없고?
+Noah|B1|Nej, bara vi två. Vi har bestämt att ingen av oss filmar i dag.|네, 저희 둘뿐이에요. 오늘은 둘 다 아무것도 안 찍기로 했어요.
+Rasmus|B1|Då filmar jag själv. Jag sänder alltid själv, så att ingen kan klippa bort det jag säger.|그럼 내가 직접 찍지. 난 늘 직접 방송하오. 아무도 내 말을 잘라 내지 못하게.
+Viktor|A2|Du får filma dig själv. Inte oss.|본인은 찍으셔도 돼요. 저희는 안 됩니다.
+Rasmus|B2|Som ni vill. Men ni förstår väl vad det här är? Nästa vecka står jag framför en ambassad och gör det som politikerna i det här landet inte ens vågar tänka, och ni får vara först med att berätta varför.|좋을 대로. 하지만 이게 뭔지는 알겠지? 다음 주에 나는 한 대사관 앞에 서서, 이 나라 정치인들은 생각조차 못 하는 일을 할 거요. 그 이유를 제일 먼저 전할 기회를 당신들한테 주는 거고.
+Noah|B1|Du skrev ”exklusiv intervju” i mejlet i måndags. Vilka andra tidningar har fått samma mejl?|월요일 메일에 "독점 인터뷰"라고 쓰셨죠. 같은 메일을 받은 신문사가 또 어디예요?
+Rasmus|B1|Alla. Men ni var de enda som svarade, och det säger en del om resten.|전부. 하지만 답장한 건 당신들뿐이었소. 나머지가 어떤지 알 만하지.
+Viktor|A1|Jag vet.|알아요.
+Rasmus|B2|Lördag den femtonde, klockan två. Jag har sökt tillstånd, och polisen kommer inte att kunna säga nej, eftersom grundlagen fortfarande gäller – även om politikerna helst skulle riva den.|15일 토요일, 두 시. 허가 신청은 했고, 경찰은 거절 못 할 거요. 헌법은 아직 살아 있으니까. 정치인들은 그걸 찢어 버리고 싶어 하겠지만.
+Noah|A2|Och vad ska hända där?|거기서 뭘 하실 건데요?
+Rasmus|A2|Jag ska bränna boken. Framför kameran.|그 책을 태울 거요. 카메라 앞에서.
+Noah|A1|Varför?|왜요?
+Rasmus|B2|För att någon måste visa att ingen bok, ingen religion och ingen främmande regering bestämmer vad en svensk får göra på svensk mark! Jag är den sista fria rösten i det här landet! Filmar du? Du måste filma det här!|누군가는 보여 줘야 하니까. 어떤 책도, 어떤 종교도, 어떤 외국 정부도 스웨덴 땅에서 스웨덴 사람이 뭘 할지 정하지 못한다는 걸! 나는 이 나라의 마지막 자유로운 목소리요! 찍고 있소? 이건 꼭 찍어야 해!
+Noah|A2|Nej. Jag skriver bara.|아뇨. 받아 적기만 해요.
+Rasmus|B1|Skriv då att alla fyra partierna har tagit avstånd från mig. Alla! Det säger väl allt om hur rädda de är.|그럼 이렇게 쓰시오. 네 정당이 전부 나와 선을 그었다고. 전부! 그들이 얼마나 겁먹었는지 그걸로 다 설명되지.
+Noah|A1|Viktor?|빅토르?
+Rasmus|A2|Varför säger han ingenting? Är han sjuk?|저 사람은 왜 아무 말도 안 하오? 어디 아프오?
+Noah|B1|Han gör så. Han lyssnar tills folk säger mer än de hade tänkt.|원래 저래요. 사람들이 생각했던 것보다 더 많이 말할 때까지 듣기만 해요.
+Rasmus|B2|Bra, det borde fler göra. Jag har talat på torg i Göteborg, Malmö och Örebro, och varje gång har medierna bara visat lågorna och aldrig mina argument.|좋군. 더 많은 사람이 그래야 하오. 예테보리, 말뫼, 외레브로 광장에서 연설했는데, 언론은 매번 불길만 보여 주고 내 논리는 한 번도 안 보여 줬소.
+Viktor|A1|Vem betalar?|누가 돈을 내죠?
+Rasmus|A1|Förlåt?|뭐라고?
+Viktor|A2|Kameran, routern, advokaten. Vem betalar?|카메라, 라우터, 변호사. 누가 돈을 내냐고요.
+Rasmus|B1|Mina supportrar, förstås. Folk som är trötta på att ingen vågar. Jag har tusentals, i hela Europa.|내 후원자들이지, 당연히. 아무도 용기를 안 내는 데 질린 사람들. 유럽 전역에 수천 명이 있소.
+Viktor|A1|Namn?|이름은요?
+Rasmus|B2|De vill vara anonyma, och det borde du förstå bättre än någon, med tanke på hur det här landet behandlar folk som säger det som alla andra bara tänker.|익명이길 원하오. 당신이 누구보다 잘 알 텐데. 남들이 속으로만 생각하는 걸 입 밖에 내는 사람을 이 나라가 어떻게 대하는지.
+Noah|A2|Hur betalar de? Med Swish?|어떻게 보내요? 스위시로요?
+Rasmus|B1|Krypto, via en betaltjänst. Helt lagligt. Här, titta själv – jag har ingenting att dölja.|암호화폐로, 결제 대행업체를 통해서. 완전히 합법이오. 자, 직접 보시오. 숨길 건 하나도 없으니.
+Viktor|A2|Får jag fotografera kvittona?|영수증 사진 찍어도 될까요?
+Rasmus|B1|Ta hur många bilder du vill! Trettioåttatusen för sändningsutrustningen, och advokaten fick tjugotvåtusen när polisen krånglade med mitt förra tillstånd i våras.|얼마든지 찍으시오! 방송 장비에 3만 8천, 그리고 지난봄 경찰이 내 지난번 허가를 두고 트집 잡았을 때 변호사한테 2만 2천.
+Noah|A2|Det står ett långt nummer längst ner. Vad är det?|맨 아래에 긴 번호가 있네요. 이게 뭐예요?
+Rasmus|B1|Ingen aning, sånt sköter betaltjänsten. Jag bryr mig om resultatet, inte om siffrorna.|모르오. 그런 건 대행업체가 알아서 하지. 나는 결과에 관심이 있지, 숫자엔 관심 없소.
+Viktor|B2|Tack. Då ska du veta en sak innan vi går, Rasmus: vi kommer inte att skriva om lördagen. Om vi skriver något alls, handlar det om pengarna.|고맙습니다. 그럼 가기 전에 하나 알아 두세요, 라스무스. 저희는 토요일에 대해 쓰지 않을 겁니다. 뭔가를 쓴다면, 그건 돈에 관한 기사일 거예요.
+Rasmus|B2|Om ni tror att någon läser om kvitton när det brinner framför en ambassad, då förstår ni ingenting om det här landet!|대사관 앞에서 불이 타는데 누가 영수증 얘기를 읽을 거라 생각한다면, 당신들은 이 나라를 하나도 모르는 거요!
+# 장면 2 — 오후 1시, 쿵스홀멘 경찰청 허가 담당 부서 복도 (창구에서 받은 집회 허가 신청서 사본, 개인번호는 검게 지워져 있다, 마리아의 손에 든 종이컵 커피, 옆 회의실 문 위의 "Dialogmöte")
+Noah|B1|Han pratar om yttrandefrihet, men han tittar bara på kameran. Han tittade inte på oss en enda gång.|표현의 자유를 말하면서 카메라만 봐요. 저희는 한 번도 안 봤어요.
+Viktor|B2|Just därför är vi här och inte i hans livesändning. Ansökan om tillstånd är en allmän handling, och den säger ofta mer än mannen som har skrivit den.|바로 그래서 우리가 그 사람 생방송이 아니라 여기 와 있는 거야. 허가 신청서는 공문서고, 그걸 쓴 사람보다 더 많은 걸 말해 줄 때가 많거든.
+Noah|A2|Han vill bränna boken på lördag. Står det så i ansökan?|토요일에 그 책을 태우고 싶어 하잖아요. 신청서에도 그렇게 써 있어요?
+Viktor|B1|Det står ”manifestation för yttrandefriheten, klockan 14 till 15, cirka tio deltagare”. Och längst ner: ”En religiös skrift kommer att brännas.”|"표현의 자유를 위한 집회, 14시~15시, 참가자 약 10명"이라고 돼 있어. 그리고 맨 아래에 "종교 경전 한 권을 태울 예정".
+Maria|A2|Viktor. Jag trodde väl att det var du.|빅토르. 역시 너일 줄 알았어.
+Viktor|B1|Maria. Jag gissar att du inte är här för att söka tillstånd själv.|마리아. 네가 직접 허가 신청하러 온 건 아닐 테고.
+Maria|B2|Jag sitter i planeringsgruppen. När en ambassad och terrorhotnivån hamnar i samma mening, brukar de vilja ha någon från NOA i rummet.|기획팀에 들어가 있어. 대사관이랑 테러 위협 수준이 한 문장에 같이 들어가면, 다들 NOA 사람 하나는 방에 앉혀 두고 싶어 하거든.
+Viktor|A2|Och kaffet? Du dricker det ju ändå inte.|그 커피는? 어차피 안 마시잖아.
+Maria|B1|Det är för att ha något i handen när journalister frågar saker som jag inte får svara på. Vad vill du?|기자들이 내가 대답하면 안 되는 걸 물어볼 때 손에 쥘 게 필요하니까. 뭐가 궁금한데?
+Viktor|A2|Kommer han att få tillstånd?|그 사람, 허가 받을까?
+Maria|B2|Det bestämmer inte jag, men jag kan berätta hur lagen ser ut. Mötesfriheten står i grundlagen, och enligt ordningslagen får vi bara neka en allmän sammankomst om ordningen eller säkerheten på själva platsen inte går att upprätthålla.|그건 내가 정하는 게 아니지만, 법이 어떻게 돼 있는지는 말해 줄 수 있어. 집회의 자유는 헌법에 있고, 질서법에 따르면 우린 그 장소 자체에서 질서나 안전을 유지할 수 없을 때만 공공 집회를 불허할 수 있어.
+Noah|B1|Men om det blir farligt för alla andra, kan ni inte säga nej då?|그럼 다른 사람들 모두한테 위험해지면요? 그땐 거절 못 해요?
+Maria|B2|Det var precis den frågan domstolarna prövade 2023. Polisen nekade flera bränningar med hänvisning till hotet mot Sverige, och förvaltningsrätten och kammarrätten sa att det inte räckte – hotet måste ha med själva sammankomsten att göra. Vi kan inte förbjuda en åsikt.|그게 바로 2023년에 법원이 따진 질문이야. 경찰이 스웨덴에 대한 위협을 이유로 소각 집회 몇 건을 불허했는데, 행정법원이랑 행정항소법원이 그걸로는 부족하다고 했어. 위협이 그 집회 자체와 관련이 있어야 한다고. 우린 의견을 금지할 순 없어.
+Viktor|B1|Så han får ett ja, men med villkor som ni bestämmer?|그럼 허가는 나오는데, 조건은 너희가 정하는 거고?
+Maria|B1|Troligen. En plats på andra sidan gatan, staket, en bestämd tid och elden i en plåtbalja som räddningstjänsten har godkänt.|아마도. 길 건너편 자리, 울타리, 정해진 시간, 그리고 소방서가 승인한 철제 통 안에서만 불.
+Noah|B1|Men är det inte hets mot folkgrupp att bränna en helig bok?|근데 성스러운 책을 태우는 건 민족 집단 선동죄 아니에요?
+Maria|B2|Domstolarna har tittat på helheten: vad som bränns, vad som sägs och hur. I några fall har det blivit dom för hets mot folkgrupp. Går han över gränsen på lördag griper vi honom, och då spelar det ingen roll hur många som filmar.|법원은 전체를 봤어. 뭘 태우는지, 무슨 말을 하는지, 어떻게 하는지. 몇몇 사건은 민족 집단 선동죄 유죄가 나왔고. 토요일에 그 사람이 선을 넘으면 체포하는 거야. 그땐 몇 명이 찍고 있든 상관없어.
+Viktor|A1|Och hotnivån?|그럼 위협 수준은?
+Maria|B2|Den höjdes till fyra av fem i augusti 2023, efter bränningarna, och den har sänkts sedan dess. Säpo bestämmer den, inte vi. Men jag skulle inte bli förvånad om den höjs igen, om bilderna från lördag sprids på rätt ställen.|2023년 8월, 소각 사건들 이후에 5단계 중 4단계로 올라갔고, 그 뒤로는 내려갔어. 정하는 건 우리가 아니라 Säpo고. 근데 토요일 영상이 '알맞은' 곳에 퍼지면 다시 올라가도 난 안 놀랄 거야.
+Viktor|B2|Rätt ställen. Du menar att någon redan sitter och väntar på bilderna, och att det inte är någon som bor här.|알맞은 곳. 누군가 벌써 그 영상을 기다리고 있다는 거구나. 여기 사는 사람이 아닌 누군가가.
+Maria|B1|Jag menar att jag har gjort det här förut. Mitt jobb är inte att gilla honom. Mitt jobb är att ingen dör på lördag.|내 말은, 이 일 전에도 해 봤다는 거야. 내 일은 그 사람을 좋아하는 게 아니야. 토요일에 아무도 죽지 않게 하는 거지.
+Viktor|A2|Tack. Jag citerar dig inte på det.|고마워. 그건 인용 안 할게.
+Maria|A2|Bra. Dialogpolisen är klar med församlingarna nu. Jag måste gå.|좋아. 대화경찰이 공동체 대표들이랑 면담 끝냈네. 난 가 봐야 해.
+Zainab|B1|Ursäkta, är ni från Stockholmsposten? Polisen sa att det satt en journalist i korridoren, och jag vill hellre att ni hör det från oss än från honom.|실례합니다, 스톡홀름스포스텐에서 오셨어요? 경찰이 복도에 기자가 있다고 해서요. 그 사람 입보다는 저희 입으로 들으셨으면 해서요.
+Viktor|A2|Ja. Viktor Holm. Och det här är Noah.|네. 빅토르 홀름입니다. 이쪽은 노아고요.
+Zainab|B2|Zainab. Jag är ordförande i en kvinnoförening vid en moské i nordvästra Stockholm och undervisar i svenska för vuxna på dagarna. Skriv gärna det, men inte vilken moské det gäller.|자이납이에요. 스톡홀름 북서부의 한 모스크에서 여성회 회장을 맡고 있고, 낮에는 성인들에게 스웨덴어를 가르쳐요. 그건 써 주셔도 되지만, 어느 모스크인지는 쓰지 말아 주세요.
+Noah|A2|Varför kom ni till polisen i dag?|오늘은 왜 경찰에 오셨어요?
+Zainab|B2|För att våra barn frågar om de kan gå till moskén nästa lördag, och jag vill kunna svara ja. Jag kom inte hit för att be polisen förbjuda honom. Jag är svensk, och jag vill att samma lag ska gälla för honom som för mig.|아이들이 다음 주 토요일에 모스크에 가도 되냐고 묻는데, 그렇다고 대답할 수 있고 싶어서요. 그 사람을 금지해 달라고 부탁하러 온 게 아니에요. 저는 스웨덴 사람이고, 그 사람한테도 저한테도 같은 법이 적용되길 바라요.
+Viktor|B1|Vad tänker ni göra den dagen, medan han står vid ambassaden?|그 사람이 대사관 앞에 서 있는 그날, 여러분은 뭘 하실 생각이세요?
+Zainab|B2|Vi har öppet hus med te, kakor och högläsning för grannarna, långt därifrån. Om vi står där och skriker tillbaka, häller vi bara bensin på elden – och det är precis det han vill.|이웃들을 위해 오픈 하우스를 열어요. 차와 과자, 그리고 낭독. 거기서 멀리 떨어진 곳에서요. 저희가 거기 서서 맞받아 소리치면 불에 기름을 붓는 것뿐이에요. 그게 바로 그 사람이 원하는 거고요.
+Noah|A2|Gör det inte ont ändå? Att han bränner den?|그래도 아프지 않으세요? 그걸 태운다는 게.
+Zainab|B2|Jo. Boken är inte papper för mig – den är min mammas röst när hon läste för mig vid köksbordet. Han kan bränna ett exemplar. Min mammas röst kan han inte bränna.|아프죠. 저한테 그 책은 종이가 아니에요. 부엌 식탁에서 읽어 주던 엄마 목소리예요. 그 사람은 책 한 권은 태울 수 있어요. 엄마 목소리는 못 태워요.
+Viktor|B1|Får jag citera det, med bara ditt förnamn och utan bild?|그 말, 인용해도 될까요? 이름만, 사진 없이요.
+Zainab|B2|Ja, på ett villkor: skriv inte om oss som hans reaktion. Vi är inte motspelare i hans film, vi är grannar som dricker te på lördag.|네, 조건이 하나 있어요. 저희를 그 사람에 대한 '반응'으로 쓰지 마세요. 저희는 그 사람 영화의 상대역이 아니라, 토요일에 차 마시는 이웃이에요.
+# 장면 3 — 오후 3시 반, Källaren, 노아의 책상 앞 모니터 두 대 (왼쪽 화면에 해외 공개 텔레그램 채널들, 오른쪽 화면에 자막 파일 여섯 개, 책상 위 라스무스의 영수증 사진)
+Amira|A2|Har ni kvittona? Ge mig numret.|영수증 있어? 번호 줘.
+Viktor|B1|Här. Numret längst ner, under summan – han visste inte ens vad det var.|여기. 맨 아래, 금액 밑에 있는 번호. 본인은 그게 뭔지도 모르더라.
+Amira|B2|Ett transaktions-id från en betaltjänst som växlar krypto till kronor. Om tjänsten är så slarvig som jag tror, ser jag exakt vilken plånbok som betalade och när.|암호화폐를 크로나로 바꿔 주는 결제 대행업체의 거래 ID네. 그 업체가 내 생각만큼 허술하면, 어느 지갑이 언제 냈는지 정확히 보일 거야.
+Noah|B1|Medan du kollar: jag har följt kanalerna sedan i måndags, när han mejlade oss. Det här vill ni se.|확인하시는 동안요. 월요일에 그 사람이 메일 보낸 뒤로 채널들을 계속 지켜봤거든요. 이거 보셔야 해요.
+Viktor|A1|Visa.|보여 줘.
+Noah|B1|Det här är öppna Telegramkanaler utomlands, med hundratusentals följare. Ingen av dem är svensk. I går började de posta samma bild: en svensk flagga och en nedräkning.|해외의 공개 텔레그램 채널들이에요. 팔로워가 수십만 명씩이고, 스웨덴 채널은 하나도 없어요. 어제부터 똑같은 이미지를 올리기 시작했어요. 스웨덴 국기랑 카운트다운.
+Amira|A2|En nedräkning till vad?|뭘 향한 카운트다운?
+Noah|A2|Till lördag. Klockan två och tio.|토요일이요. 2시 10분.
+Viktor|B1|Han har sökt tillstånd från klockan två. Det stämmer på minuten.|그 사람이 허가 신청한 게 2시부터야. 분 단위로 맞아떨어지네.
+Noah|B2|Exakt. Videon är schemalagd som premiär tio minuter efter att han har tänt, och i kanalen ligger en öppen länk till undertexterna, som vem som helst kan ladda ner.|맞아요. 영상이 불붙이고 10분 뒤에 '최초 공개'로 예약돼 있고, 채널에 자막 파일 링크가 열려 있어서 누구나 받을 수 있어요.
+Amira|A1|Undertexter? Redan?|자막? 벌써?
+Noah|A1|Kolla filerna.|파일 보세요.
+Viktor|A2|Arabiska, turkiska, urdu, persiska, engelska och franska.|아랍어, 튀르키예어, 우르두어, 페르시아어, 영어, 프랑스어.
+Noah|A2|De har redan textat videon. På sex språk. Och det har inte ens hänt än.|벌써 자막을 달아 놨어요. 6개 국어로. 아직 일어나지도 않은 일인데.
+Amira|A2|Vad står det i texten?|자막에 뭐라고 써 있어?
+Noah|B1|Den engelska versionen säger: ”Se hur svensk polis skyddar mannen som bränner er bok.” Med tidskoder, som om någon redan har klippt filmen.|영어 버전은 이래요. "스웨덴 경찰이 당신들의 책을 태우는 남자를 어떻게 보호하는지 보라." 타임코드까지 있어요. 누가 벌써 영상을 편집해 놓은 것처럼요.
+Viktor|B2|De har skrivit manus till ilskan innan någon ens har tänt en tändsticka. Lördagens bilder är ingen nyhet för dem, de är råmaterial.|성냥 하나 긋기도 전에 분노의 대본을 써 놨네. 그 사람들한테 토요일 영상은 뉴스가 아니라 원재료야.
+Amira|B1|Vem har laddat upp filerna, och när?|파일은 누가 올렸어? 언제?
+Noah|B2|Ett konto utan namn som skapades i juli. Filerna ändrades senast den fjärde augusti, alltså två dagar innan han ens hade satt sig mittemot oss på kaféet.|7월에 만들어진 이름 없는 계정이요. 파일 마지막 수정일이 8월 4일이에요. 그러니까 그 사람이 카페에서 저희 맞은편에 앉기도 이틀 전이요.
+Viktor|B1|Och de fyrahundra kontona som vi redan följer?|그럼 우리가 이미 추적하고 있는 400개 계정은?
+Noah|B1|Tysta. Inte ett enda av dem har nämnt honom. Det här är någon annans maskin, inte partiets.|조용해요. 하나도 그 사람 얘기를 안 했어요. 이건 당이 아니라 다른 누군가의 기계예요.
+Amira|B2|Eller så väntar de bara till lördag. Det vet vi inte än, och det vi inte vet skriver vi inte, hur gärna vi än skulle vilja.|아니면 토요일까지 기다리는 걸 수도 있고. 아직 몰라. 그리고 모르는 건 안 써. 아무리 쓰고 싶어도.
+Noah|B1|En sak till. Svenska muslimer har också börjat skriva om lördagen, men det är något helt annat.|하나 더요. 스웨덴 무슬림들도 토요일 얘기를 쓰기 시작했는데, 그건 완전히 달라요.
+Viktor|A1|Hur då?|어떻게?
+Noah|B1|En imam i Göteborg skriver: ”Ge honom inte det han vill ha. Stanna hemma, be, drick te med grannen.” Det har delats tusentals gånger, på svenska.|예테보리의 한 이맘이 이렇게 썼어요. "그 사람이 원하는 걸 주지 마세요. 집에 있고, 기도하고, 이웃과 차를 마시세요." 수천 번 공유됐어요, 스웨덴어로.
+Viktor|B1|Spara inlägget och fråga honom om vi får citera det, med namn eller utan.|그 글 저장해 두고, 인용해도 되는지 물어봐. 이름을 넣을지 말지도.
+Amira|B2|Det är de rösterna som brukar försvinna i flödet, eftersom lugn sprids sämre än ilska. Det är ingen slump att kanalerna utomlands aldrig delar dem.|그런 목소리가 피드에서 늘 사라지는 거야. 차분함은 분노보다 안 퍼지니까. 해외 채널들이 그런 걸 절대 안 퍼 나르는 게 우연이 아니지.
+Viktor|B2|Då gör vi tvärtom. Vi länkar inte till kanalerna, vi publicerar inte undertexterna och vi visar inte en enda låga. Vi visar vem som har förberett ilskan och vem som betalar för scenen.|그럼 우린 반대로 하는 거야. 채널에 링크 안 걸고, 자막도 안 싣고, 불꽃 하나도 안 보여 줘. 누가 분노를 미리 준비했는지, 누가 그 무대 값을 내는지를 보여 주는 거지.
+Noah|A2|Ska vi berätta för polisen om videon?|영상 얘기, 경찰한테 해야 해요?
+Viktor|B2|Kanalerna är öppna, så polisen hittar dem lika lätt som du. Vi är inte deras spaningsavdelning. Men jag ringer Sofia i kväll, och Lars får läsa allt innan vi skriver en enda rad.|채널은 공개돼 있으니까 경찰도 너만큼 쉽게 찾을 수 있어. 우린 경찰 정보팀이 아니야. 그래도 오늘 밤 소피아한테 전화할 거고, 한 줄이라도 쓰기 전에 라르스가 전부 읽을 거야.
+Amira|A1|Viktor. Kom hit.|빅토르. 이리 와 봐.
+Viktor|A2|Har du hittat plånboken?|지갑 찾았어?
+Amira|B2|Jag har hittat plånboken som betalade betaltjänsten, men den har i sin tur fått pengarna från någon annan. Det blir en lång kväll, så gå du med Hesa till ambassaden.|대행업체에 돈을 낸 지갑은 찾았어. 근데 그 지갑도 다른 누군가한테서 돈을 받았어. 긴 밤이 될 거야. 넌 헤사랑 대사관에 가 봐.
+# 장면 4 — 저녁 7시 ~ 9시 10분경, Källaren, 아미라의 책상 (체인 분석 프로그램 두 개가 나란히 뜬 화면, 노아가 사 온 팔라펠, 노아의 노트북에 열린 작년 11월 베링뷔 폭발 사건 판결문 PDF)
+Noah|A2|Jag köpte falafel. Du har inte ätit sedan lunch.|팔라펠 사 왔어요. 점심 이후로 아무것도 안 드셨잖아요.
+Amira|A1|Tack. Sätt dig.|고마워. 앉아.
+Noah|B1|Hur långt har du kommit sedan Viktor gick?|빅토르 나간 뒤로 어디까지 가셨어요?
+Amira|B2|Betaltjänsten fick sextiotusen kronor i bitcoin från en plånbok som bara har använts två gånger, och båda gångerna gick pengarna till honom.|대행업체는 지갑 하나에서 비트코인으로 6만 크로나를 받았어. 그 지갑은 딱 두 번 쓰였는데, 두 번 다 그 사람한테 간 돈이야.
+Noah|A1|Bara två gånger?|딱 두 번이요?
+Amira|B1|En gång till advokaten i våras och en gång till kameran i juli. Plånboken skapades för honom och för ingenting annat.|한 번은 지난봄 변호사, 한 번은 7월 카메라. 그 지갑은 그 사람을 위해서, 오직 그것만을 위해 만들어진 거야.
+Noah|B1|Och var kom pengarna ifrån innan dess?|그럼 그 전엔 돈이 어디서 왔어요?
+Amira|B1|Från en mixer. En tjänst som blandar många människors pengar, så att ingen ska kunna följa dem.|믹서에서. 여러 사람 돈을 섞어서 아무도 추적 못 하게 만드는 서비스야.
+Noah|A1|Så det är kört?|그럼 끝난 거예요?
+Amira|B2|Inte med den här. Den är slarvig: den släpper ut nästan samma belopp som går in, med några minuters mellanrum, och om man lägger belopp och tider bredvid varandra syns mönstret ändå.|이건 아니야. 허술하거든. 들어간 거랑 거의 같은 금액을 몇 분 간격으로 내보내. 금액이랑 시각을 나란히 놓고 보면 패턴이 그래도 보여.
+Noah|B1|Och innan mixern, var låg pengarna då?|믹서 전에는요? 돈이 어디 있었어요?
+Amira|B2|Hos två växlingstjänster utomlands. Pengarna gick in i den första, ut till den andra och därifrån vidare till mixern samma natt, som om någon följde en lista.|해외 거래소 두 곳에. 돈이 첫 번째로 들어갔다가 두 번째로 나가고, 거기서 같은 날 밤 믹서로 갔어. 누가 목록을 보면서 따라 한 것처럼.
+Noah|B1|Men man kan ju inte se in i en växlingstjänst. Hur vet du att det är samma pengar?|근데 거래소 안은 들여다볼 수 없잖아요. 같은 돈인지 어떻게 알아요?
+Amira|B2|Säkert vet jag det inte, och det är därför jag inte litar på ett enda verktyg. Jag har kört hela vägen i två olika program för kedjeanalys, som bygger på olika metoder, och båda hamnar på samma adress.|확실히는 몰라. 그래서 도구 하나만 믿지 않는 거고. 서로 다른 방법을 쓰는 체인 분석 프로그램 두 개로 경로 전체를 돌려 봤는데, 둘 다 같은 주소에 도착해.
+Noah|A1|Vilken adress?|어떤 주소요?
+Amira|A2|Den här. Den började skicka pengar för två år sedan.|이거. 2년 전부터 돈을 보내기 시작했어.
+Noah|B1|Den ser ut som alla andra adresser, bara siffror och bokstäver i en lång rad.|다른 주소랑 똑같아 보이는데요. 그냥 숫자랑 글자가 길게 늘어선 거.
+Amira|A2|Nej. Den här har jag sett förut. Vänta.|아니. 이거 전에 본 적 있어. 잠깐만.
+Noah|A1|Var då?|어디서요?
+Amira|B2|I en pdf som jag har sparat sedan november: domen efter sprängningen i Vällingby, där polisens analys av pojkens telefon ligger som bilaga.|11월부터 저장해 둔 PDF에. 베링뷔 폭발 사건 판결문. 소년 휴대폰에 대한 경찰 분석이 첨부돼 있어.
+Noah|A2|Vällingby? Pojken med dörren?|베링뷔요? 그 문 폭파한 애요?
+Amira|B2|Pojken med dörren. Kanalen skickade honom skärmdumpar på betalningar till andra pojkar, för att visa att de alltid betalar, och tingsrätten återgav hela adressen i domen.|그 문 폭파한 애. 채널이 그 애한테 다른 애들한테 보낸 송금 캡처를 보냈어. 자기들은 늘 돈을 준다는 걸 보여 주려고. 그리고 지방법원이 판결문에 그 주소를 통째로 옮겨 적었어.
+Noah|A2|Läs högt. Jag har domen här.|크게 읽어 주세요. 판결문은 제가 볼게요.
+Amira|A1|Be, ce, ett, ku. Sju, ex, fyra, em.|b, c, 1, q. 7, x, 4, m.
+Noah|A1|Samma. Fortsätt.|같아요. 계속요.
+Amira|A1|De sista sex: noll, kå, nio, nio, te, två.|마지막 여섯 자리. 0, k, 9, 9, t, 2.
+Noah|A1|Samma. Allt är samma.|같아요. 전부 같아요.
+Amira|B1|Två verktyg, samma väg. Och adressen står i domen från i höstas, tecken för tecken.|도구 두 개, 같은 경로. 그리고 그 주소가 작년 가을 판결문에 한 글자 한 글자 그대로 있어.
+Noah|A2|Uppdrag Sthlm. Det är Kungens kassa.|"웁드라그 스톡홀름". Kungen의 금고네요.
+Amira|A2|Ring inte Viktor. Jag åker dit. Det här säger jag inte i telefon.|빅토르한테 전화하지 마. 내가 직접 갈게. 이건 전화로 할 얘기가 아니야.
+# 장면 5 — 밤 9시 40분 ~ 10시경, 디플로마트스타덴, 한 대사관 앞의 빈 거리 (철제 울타리와 굳게 닫힌 정문, 길 건너편 잔디밭에서 돌아가는 스프링클러, 헨릭의 카메라)
+Henrik|A2|Här ska han stå. Tjugo meter från grinden, på andra sidan gatan.|여기 설 거다. 정문에서 20미터, 길 건너편.
+Viktor|A1|Så tomt.|텅 비었네.
+Henrik|B2|Om nio dagar står här poliser, kravallstaket och en plåtbalja med eld, och halva världen tittar. I kväll har vi en katt och en vattenspridare som ingen har stängt av.|아흐레 뒤면 여기 경찰이랑 바리케이드랑 불 담은 철제 통이 서 있고, 세상 절반이 보고 있겠지. 오늘 밤엔 고양이 한 마리랑 아무도 안 끈 스프링클러뿐이고.
+Viktor|B1|Hur går det för Elin? Sofia sa att du visste mer än hon.|엘린은 어때? 소피아가 너한테 물어보라던데. 자기보다 네가 더 잘 안다고.
+Henrik|B2|Hon är kvar därinne. Vi satt med henne i torsdags morse, Sofia och jag, och det var hon själv som ville fortsätta – men inspelaren ligger hos Amira nu, och där stannar den.|아직 안에 있다. 지난 목요일 아침에 소피아랑 나랑 같이 앉아서 얘기했는데, 계속하겠다고 한 건 엘린 자신이었어. 대신 녹음기는 이제 아미라한테 있고, 거기 그대로 둔다.
+Viktor|A1|Och Ida?|이다는?
+Henrik|B2|Dagen efter satte Ida upp en ny regel: inga väskor och inga jackor vid skrivborden, för någon. Och i fredags stod det en ny ask mensskydd på toaletten. Ida hade köpt den, sa Albin. Själv sa hon ingenting.|그다음 날 이다가 새 규칙을 붙였어. 책상에 가방도 겉옷도 금지, 누구든. 그리고 지난 금요일엔 화장실에 생리대 새 상자가 놓여 있었대. 이다가 사 왔다고 알빈이 그러더라. 이다 본인은 아무 말도 안 했고.
+Viktor|B1|Hon talar om att hon har sett. Utan att säga det.|봤다는 걸 알리는 거네. 말하지 않고.
+Henrik|B2|Sofias villkor är enkelt: frågar Ida en gång till, går Elin ut samma dag, vad vi än har kvar att hämta. I går sa hon koden högt i bilen, bara för att höra att den satt.|소피아 조건은 간단해. 이다가 한 번만 더 물으면, 우리가 아직 못 가져온 게 뭐든 엘린은 그날로 나온다. 어제 차에서 엘린이 암호를 소리 내 말해 보더라. 아직 입에 붙어 있는지 들어 보려고.
+Viktor|B1|Och du tänker alltså inte stå här på lördag och fotografera honom när han tänder?|그럼 토요일에 여기 서서 그 사람이 불붙이는 걸 찍을 생각은 없다는 거지?
+Henrik|B1|Jag fotograferar inte honom. Jag fotograferar staketet. Det säger mer.|그놈을 찍진 않아. 울타리를 찍지. 그게 더 많은 걸 말해.
+Viktor|A1|Vad säger det?|뭘 말하는데?
+Henrik|B2|Att ett land som skrev in mötesfriheten i grundlagen måste bygga ett staket runt en ambassad varje gång en man vill ha uppmärksamhet. Det här staketet var en meter lägre för tre år sedan, pojk.|집회의 자유를 헌법에 새겨 넣은 나라가, 한 남자가 관심받고 싶어 할 때마다 대사관 둘레에 울타리를 쳐야 한다는 거. 이 울타리, 3년 전엔 1미터 더 낮았다, 이 녀석아.
+Viktor|A2|Han är inte provokatören. Han är verktyget.|그 사람은 도발자가 아니야. 도구지.
+Henrik|A2|Och vems verktyg? Där kommer Amira. Jag har aldrig sett henne springa.|누구의 도구냐가 문제지. 저기 아미라 온다. 쟤가 뛰는 건 처음 보네.
+Amira|B1|Fan, Viktor. Jag ville inte säga det i telefon. Två program, samma väg, och adressen finns i domen. Jag har läst bilagan tre gånger.|젠장, 빅토르. 전화로는 말하기 싫었어. 프로그램 두 개, 같은 경로, 그리고 그 주소가 판결문에 있어. 첨부 자료를 세 번 읽었어.
+Viktor|B2|Den som finansierar en provokation behöver inte dela provokatörens åsikter – bara vilja ha konsekvenserna. Vems plånbok, Amira?|도발에 돈을 대는 사람은 도발자의 생각에 동의할 필요가 없어. 그 결과를 원하기만 하면 되지. 누구 지갑이야, 아미라?
+Amira|A2|Plånboken. Jag har sett den förut. Den betalade pojkarna i Vällingby.|그 지갑. 전에 본 적 있어. 베링뷔의 애들한테 돈을 보낸 지갑이야.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vem betalar?** | 누가 돈을 내죠? | 의문사 *vem*이 주어일 때는 도치 없이 *vem* + 동사. 빅토르가 라스무스의 긴 연설 끝에 던진 유일한 질문이다. 도발자의 "이유"가 아니라 "자금"을 묻는 것 — 시리즈의 *Följ pengarna.*를 두 단어로 줄인 문장 |
+| `A2` | **Han vill bränna boken på lördag.** | 그는 토요일에 그 책을 태우고 싶어 한다. | 조동사 *vill* + 원형 *bränna*. *på lördag* = 이번(다가오는) 토요일, *på lördagar* = 토요일마다, *i lördags* = 지난 토요일. 헨릭의 *i torsdags*(지난 목요일)·*i fredags*(지난 금요일)와 비교해 볼 것 |
+| `B1` | **Han pratar om yttrandefrihet, men han tittar bara på kameran.** | 그는 표현의 자유를 말하지만 카메라만 본다. | *prata om* = ~에 대해 말하다, *titta på* = ~을 보다 — 전치사가 붙는 동사 두 개를 *men*으로 대비했다. *yttrandefrihet*(표현의 자유)는 *yttra*(말로 드러내다) + *frihet*. 짝 개념 *mötesfrihet*(집회의 자유), *demonstrationsfrihet*(시위의 자유) |
+| `B1` | **Mitt jobb är inte att gilla honom. Mitt jobb är att ingen dör på lördag.** | 내 일은 그 사람을 좋아하는 게 아니다. 토요일에 아무도 죽지 않게 하는 것이다. | *Mitt jobb är att* + 부정사 / + 절. 두 번째 문장은 *att* 뒤에 완전한 절(*ingen dör*)이 온다. *ingen*이 주어이므로 *inte*가 필요 없다. 경찰이 집회의 *내용*이 아니라 *안전*을 책임진다는 원칙을 한 줄로 말한다 |
+| `B2` | **Den som finansierar en provokation behöver inte dela provokatörens åsikter – bara vilja ha konsekvenserna.** | 도발에 돈을 대는 사람은 도발자의 생각에 동의할 필요가 없다. 그 결과를 원하기만 하면 된다. | *den som* + 동사 = ~하는 사람(불특정). *behöver inte* + 원형 = ~할 필요가 없다 — 대시 뒤에서 *behöver*가 생략되고 *bara vilja ha*만 남았다. 이번 화의 결론 문장: 동기(*åsikter*)와 이익(*konsekvenser*)을 분리해서 본다 |
+| `B2` | **Han kan bränna ett exemplar. Min mammas röst kan han inte bränna.** | 그는 책 한 권은 태울 수 있다. 엄마 목소리는 못 태운다. | 같은 동사를 두 번 쓰되, 두 번째 문장은 목적어 *min mammas röst*를 맨 앞으로 끌어내 강조했다(V2 규칙에 따라 *kan*이 둘째 자리, 주어 *han*은 그 뒤). *ett exemplar* = (책의) 한 부 — 책이라는 물건과 그 안의 의미를 구분하는 단어 |
+| 구어 | **hälla bensin på elden** | 불에 기름을 붓다 | 직역하면 "불에 휘발유를 붓다". 갈등을 더 키운다는 뜻으로 한국어 관용구와 거의 같다. *Om vi skriker tillbaka, häller vi bara bensin på elden.* *hälla*(붓다) – *hällde* – *hällt* |
+| 미디어·정치 | **terrorhotnivå** | 테러 위협 수준 | *terror* + *hot*(위협) + *nivå*(수준). 스웨덴 보안경찰(Säpo)이 정하는 5단계 척도(1 *inget hot* ~ 5 *mycket högt hot*). 기사에서는 *Säpo höjde terrorhotnivån till fyra*(Säpo가 테러 위협 수준을 4로 올렸다)처럼 쓴다 |
+
+## 저널리즘·법 메모
+스웨덴 헌법(*regeringsformen* 2장)은 집회의 자유(*mötesfrihet*)와 시위의 자유(*demonstrationsfrihet*)를 기본권으로 보장하고, 공공장소의 집회는 질서법(*ordningslagen*)에 따라 경찰 허가를 받는다. 경찰은 그 장소와 주변에서의 질서·안전을 이유로만 불허할 수 있고 의견의 내용을 이유로는 막을 수 없다 — 2023년 경찰이 스웨덴 전체에 대한 테러 위협 상승을 근거로 소각 집회를 불허하자 행정법원과 행정항소법원이 "위협이 그 집회 자체와 연결돼야 한다"며 결정을 뒤집은 것이 그 예이고, 이후 정부는 국가 안보를 허가 판단에 넣는 법 개정을 검토했다. 반면 표현의 자유에도 한계가 있어, 경전을 태우며 특정 종교 집단을 위협하거나 경멸하는 발언을 하면 민족 집단 선동죄(*hets mot folkgrupp*)로 처벌될 수 있고, 법원은 행위와 발언을 함께 놓고 판단해 왔다. 언론이 도발자를 다룰 때의 원칙은 "확성기"가 되지 않는 것이다: 행위 자체(불길, 연설)가 아니라 자금과 증폭 구조를 보도하고, 미리 준비된 선동 영상이나 채널은 싣지도 링크하지도 않으며, 상처받는 공동체의 목소리는 도발에 대한 "반응"이 아니라 그 자체의 이야기로 전한다. 암호화폐 추적은 확률적이므로, 서로 다른 분석 도구 두 개로 같은 경로를 재현하고 공문서(판결문)의 기록과 한 글자씩 대조하는 식으로 독립된 근거를 겹쳐야 한다 — 그래도 "누가 송금 버튼을 눌렀는가"는 별개의 질문으로 남는다.
+
+## 문화·현안 메모
+- **코란 소각과 외교 위기, 테러 위협 수준 상향 (2023)** — 2023년 스웨덴에서 대사관 앞 등지의 코란 소각 시위가 잇따르자 여러 이슬람권 국가가 강하게 항의했고, 해외 스웨덴 공관 앞 시위와 공관 습격 사건, 스웨덴의 NATO 가입 협상 지연까지 이어졌다. 스웨덴 정부는 소각 행위를 공개적으로 비판하면서도 표현·집회의 자유라는 헌법 원칙을 지켜야 했다. 보안경찰(Säpo)은 같은 해 8월, 스웨덴이 "정당한 표적"으로 그려지는 선전이 늘었다며 테러 위협 수준을 5단계 중 4단계("높음")로 올렸고, 이후 하향 조정했다. 정부는 외국 세력이 도발 영상을 번역·증폭해 스웨덴에 대한 분노를 키우는 정보 영향 공작이 있었다고 지적했다.
+- **스웨덴의 무슬림 공동체** — 스웨덴에는 수십만 명의 무슬림이 살고 있고, 소각 사건 때마다 많은 모스크와 단체가 "도발에 반응하지 말라", "폭력으로 답하지 말라"고 신자들에게 호소했다. 이웃을 초대하는 오픈 모스크 행사, 종교 간 대화 모임도 열렸다. 이런 차분한 목소리는 분노만큼 빠르게 퍼지지 않는다 — 자이납의 오픈 하우스와 예테보리 이맘의 글은 그 현실을 반영한 허구의 장면이다.
+- **dialogpolis(대화경찰)** — 스웨덴 경찰에는 집회 주최자, 지역 공동체와 미리 소통해 충돌을 줄이는 "대화경찰"이 있다. 시위 전후로 관련 단체들을 만나 안전 문제를 듣고 경찰의 계획을 설명하는 역할을 한다.
+- ⚠️ 라스무스 크비스트, 자이납, 예테보리의 이맘, 극중 대사관·채널·자막 파일, 결제 대행업체·믹서·거래소·지갑 주소, 베링뷔 사건 판결문의 내용은 모두 허구다. 실존 인물(실제 소각 시위자 포함)·단체·국가·정당의 행위를 묘사하지 않으며, Hemlandspartiet를 비롯한 네 정당도 가상이다. 집회 허가 제도, 2023년 법원 판단의 취지, 테러 위협 수준 척도는 실제 제도를 배경으로만 썼다.
+
+## 다음 화 예고
+> 8월 14일 금요일 아침. 빅토르가 Omsorgia 임원에게서 돈 봉투를 받는 41초짜리 영상이 퍼지고 — 알바가 그걸 아빠보다 먼저 본다.
