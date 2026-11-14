@@ -2,7 +2,7 @@
 @subtitle (소년원)
 @meta 날짜|2026년 11월 3일 화요일 오후 1시 40분 ~ 저녁 7시 반경
 @meta 장소|브롬마, 알바의 고등학교 정문 앞 (오후 1시 40분) → 웁란드의 가상 SiS 시설 *Björkbacken* 면회실 (오후 3시 반) → 같은 시설 직원 주차장 (오후 4시 40분경, 이미 어둡다) → Källaren (저녁 7시)
-@meta 등장인물|**Alva** (알바 홀름, 16, 빅토르의 딸) · **Viktor** (빅토르 홀름, 47, 탐사기자) · **Karin** (카린 홀름, 46, 변호사·빅토르의 전처 — 전화) · **Liam** (리암 안데르손, 15, 7월부터 SiS 시설에 수용 중) · **Robban** (로베르트 "롭반" 할린, 46, *Björkbacken*의 치료 보조원) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장 — 사내 별명 "Kapten") · **Noah** (노아 베리룬드, 24, 기자) · **Agnes** (아그네스 에크만, 39, 야간 편집자) · **Hedvig** (헤드비그 팔크, 36, 사주가 보낸 외부 보안감사관)
+@meta 등장인물|**Alva** (알바 홀름, 16, 빅토르의 딸) · **Viktor** (빅토르 홀름, 47, 탐사기자) · **Karin** (카린 홀름, 46, 변호사·빅토르의 전처 — 전화) · **Liam** (리암 안데르손, 15, 7월부터 SiS 시설에 수용 중) · **Janne** (로베르트 "야네" 할린, 46, *Björkbacken*의 치료 보조원) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장 — 사내 별명 "Kapten") · **Noah** (노아 베리룬드, 24, 기자) · **Agnes** (아그네스 에크만, 39, 야간 편집자) · **Hedvig** (헤드비그 팔크, 36, 사주가 보낸 외부 보안감사관)
 @intro **지난 이야기** — 제보함에 한 줄이 도착했다. "후스뷔를 주문한 전화는 안에서 걸려 왔다." 빅토르와 엘린은 엔셰핑 외곽의 교도소 *Granhed*에서 30년 차 교도관 키키를 만났고, 빚과 협박에 묶여 휴대폰을 반입해 온 신입 교도관의 이야기를 들었다. 기사가 준비되던 날 아침, 키키는 200킬로미터 떨어진 교도소로 발령이 났다고 전화했다. "누군가 찾기 시작했어요."
 @intro 일주일 뒤, 11월 3일 화요일 오후 1시 40분. 일요일 밤, 알바의 휴대폰에 처음 보는 스냅챗 계정이 메시지 하나를 보냈고, 다음 날 아침 그 계정은 사라졌다. 빅토르는 월요일 하루를 전화로 보냈다 — 리암의 어머니, 리암의 담당 사회복지사, 그리고 웁란드의 한 시설.
 # 장면 1 — 오후 1시 40분, 브롬마, 알바의 고등학교 정문 앞 (자전거 거치대, 하교하는 학생들, 알바의 손에 접힌 공책 한 장)
@@ -35,9 +35,9 @@ Viktor|A1|Jag lovar.|약속해.
 Karin|B1|Du har lovat förut, Viktor. Ring mig när du har kommit hem i kväll.|전에도 약속했잖아, 빅토르. 오늘 밤 집에 도착하면 전화해.
 Alva|B1|Fråga om han äter ordentligt. Eva säger att han har blivit jättesmal sedan i somras.|밥은 제대로 먹는지 물어봐. 에바 말로는 여름부터 엄청 말랐대.
 # 장면 2 — 오후 3시 반, 웁란드, 가상의 SiS 시설 *Björkbacken* 면회실 (금속탐지기, 회색 사물함, 플라스틱 테이블 하나와 의자 둘, 문가의 직원 의자)
-Robban|A2|Telefon, nycklar och plånbok i skåpet. Allt.|휴대폰, 열쇠, 지갑은 사물함에. 전부요.
+Janne|A2|Telefon, nycklar och plånbok i skåpet. Allt.|휴대폰, 열쇠, 지갑은 사물함에. 전부요.
 Viktor|A2|Penna och anteckningsbok också?|펜이랑 수첩도요?
-Robban|B1|Också. Inga papper in eller ut, det är reglerna här. Du har trettio minuter, och jag sitter vid dörren hela tiden.|그것도요. 종이는 들어오지도 나가지도 못합니다, 여기 규칙이에요. 30분이고, 저는 계속 문가에 앉아 있을 겁니다.
+Janne|B1|Också. Inga papper in eller ut, det är reglerna här. Du har trettio minuter, och jag sitter vid dörren hela tiden.|그것도요. 종이는 들어오지도 나가지도 못합니다, 여기 규칙이에요. 30분이고, 저는 계속 문가에 앉아 있을 겁니다.
 Liam|A1|Len. Du kom.|형. 왔네.
 Viktor|A2|Klart jag kom. Är du okej, Liam?|당연히 왔지. 괜찮아, 리암?
 Liam|A2|Okej, typ. Maten suger.|괜찮은 편. 밥이 구려.
@@ -59,11 +59,11 @@ Viktor|A1|Och personalen?|직원들은?
 Liam|B1|De är nya varje vecka, och en vikarie visste inte ens vad jag hette.|매주 새 사람이야. 어떤 대타는 내 이름도 몰랐어.
 Viktor|B2|Det låter som om ingen här egentligen vet vem du är, och ännu mindre vad du behöver.|여기선 아무도 네가 누군지 제대로 모르는 것 같네. 네가 뭐가 필요한지는 더더욱.
 Liam|B1|Här inne blir man inte bättre, len. Man blir bara bättre på att vara kriminell.|여기선 나아지는 게 아니야, 형. 범죄를 더 잘하게 될 뿐이지.
-Robban|A1|Tjugo minuter kvar.|20분 남았습니다.
+Janne|A1|Tjugo minuter kvar.|20분 남았습니다.
 Liam|A2|Hur mår Pizza?|피자 형은 어때?
 Viktor|B2|Han sover. Läkarna håller honom nedsövd ett tag till, och de säger att det är kroppens bästa chans att läka.|자고 있어. 의사들이 당분간 재워 두고 있는데, 그게 몸이 나을 제일 좋은 방법이래.
 Liam|B1|En kille här visste det innan det kom på nyheterna. Samma kväll. Han skrattade, len.|여기 어떤 애는 뉴스 나오기 전에 알았어. 그날 밤에. 웃더라, 형.
-Robban|A2|Jag hämtar vatten. Trettio sekunder.|물 가지러 갑니다. 30초.
+Janne|A2|Jag hämtar vatten. Trettio sekunder.|물 가지러 갑니다. 30초.
 Liam|B1|Walla, det finns en hos er som snackar med Kungen, len. De kallar honom Kapten.|진짜야, 형네 쪽에 Kungen이랑 얘기하는 사람이 있어. 걔네는 그 사람을 '캡틴'이라고 불러.
 Viktor|A2|Hos oss? På tidningen?|우리 쪽? 신문사에?
 Liam|A2|Han sa ”hos Holm”. Det är ju du.|"홀름네"라고 했어. 형이잖아.
@@ -79,38 +79,38 @@ Viktor|B2|Liam, jag skriver ingenting om dig. Inte ditt namn, inte det här stä
 Liam|B1|Jag vet. Det är därför jag skrev till Alva och inte till nån annan.|알아. 그래서 다른 사람 말고 알바한테 연락한 거야.
 Viktor|B1|Lämna tillbaka telefonen i kväll, innan någon märker att du har använt den.|그 폰 오늘 밤에 돌려줘. 네가 썼다는 걸 누가 눈치채기 전에.
 Liam|A2|Den är inte min, len. Den finns inte ens.|내 거 아니야, 형. 그런 폰은 있지도 않아.
-# 장면 3 — 오후 4시 40분경, *Björkbacken* 직원 주차장 (교대 시간, 이미 깜깜한 하늘, 가로등 하나, 롭반의 낡은 차 옆)
-Robban|A2|Holm. Vänta lite.|홀름 씨. 잠깐만요.
+# 장면 3 — 오후 4시 40분경, *Björkbacken* 직원 주차장 (교대 시간, 이미 깜깜한 하늘, 가로등 하나, 야네의 낡은 차 옆)
+Janne|A2|Holm. Vänta lite.|홀름 씨. 잠깐만요.
 Viktor|A2|Du gick ut med flit.|일부러 나가셨죠.
-Robban|B1|Trettio sekunder. Mer kan jag inte ge honom, och det var redan trettio sekunder för mycket.|30초. 그 이상은 못 줍니다. 그것도 이미 30초 넘친 거고요.
+Janne|B1|Trettio sekunder. Mer kan jag inte ge honom, och det var redan trettio sekunder för mycket.|30초. 그 이상은 못 줍니다. 그것도 이미 30초 넘친 거고요.
 Viktor|B1|Hörde du något av det som han sa?|그 애가 한 말, 조금이라도 들으셨어요?
-Robban|B2|Nej. Och jag vill inte veta det, för hade jag hört något hade jag varit tvungen att skriva det i en rapport.|아니요. 알고 싶지도 않아요. 뭐라도 들었으면 보고서에 써야 했을 테니까.
+Janne|B2|Nej. Och jag vill inte veta det, för hade jag hört något hade jag varit tvungen att skriva det i en rapport.|아니요. 알고 싶지도 않아요. 뭐라도 들었으면 보고서에 써야 했을 테니까.
 Viktor|A1|Varför stannade du?|그럼 왜 기다리셨어요?
-Robban|B2|För att jag vet vem du är, och för att jag har jobbat här i nio år och skrivit fyra avvikelserapporter som ingen har läst. Kanske läser någon en tidning.|당신이 누군지 알고, 제가 여기서 9년 일하면서 아무도 안 읽은 사고 보고서를 네 번 썼거든요. 신문은 누가 읽을지도 모르죠.
+Janne|B2|För att jag vet vem du är, och för att jag har jobbat här i nio år och skrivit fyra avvikelserapporter som ingen har läst. Kanske läser någon en tidning.|당신이 누군지 알고, 제가 여기서 9년 일하면서 아무도 안 읽은 사고 보고서를 네 번 썼거든요. 신문은 누가 읽을지도 모르죠.
 Viktor|B1|Får jag citera dig i en artikel om hur det ser ut här?|여기 실태에 관한 기사에 당신 말을 인용해도 될까요?
-Robban|B1|Inte med namn. Inte med titel. Och inte så att någon här förstår att det är jag.|이름은 안 돼요. 직함도요. 그리고 여기 누가 저라는 걸 알아챌 수 있게도 안 되고요.
+Janne|B1|Inte med namn. Inte med titel. Och inte så att någon här förstår att det är jag.|이름은 안 돼요. 직함도요. 그리고 여기 누가 저라는 걸 알아챌 수 있게도 안 되고요.
 Viktor|B2|Du är statligt anställd, så du har meddelarskydd. Din chef får inte ens försöka ta reda på vem som har pratat med oss.|당신은 국가 공무원이니까 제보자 보호를 받아요. 상사는 누가 우리한테 말했는지 알아내려고 시도조차 해선 안 됩니다.
-Robban|B2|Det står i lagen, ja. Men på en avdelning med tolv anställda vet alla allt om alla ändå, och lagen har aldrig hindrat någon från att sluta hälsa på en kollega.|법에는 그렇게 쓰여 있죠. 근데 직원 열두 명인 병동에선 어차피 다들 서로 다 알아요. 그리고 동료한테 인사를 끊는 걸 법이 막아 준 적은 없고요.
+Janne|B2|Det står i lagen, ja. Men på en avdelning med tolv anställda vet alla allt om alla ändå, och lagen har aldrig hindrat någon från att sluta hälsa på en kollega.|법에는 그렇게 쓰여 있죠. 근데 직원 열두 명인 병동에선 어차피 다들 서로 다 알아요. 그리고 동료한테 인사를 끊는 걸 법이 막아 준 적은 없고요.
 Viktor|A2|Vad är det gula i schemat?|근무표에 노란 건 뭐예요?
-Robban|B1|Bemanning. Folk från ett bemanningsföretag som kör hit från Stockholm för ett pass i taget.|파견이요. 파견 회사에서 한 번에 한 근무씩 하러 스톡홀름에서 차 몰고 오는 사람들.
+Janne|B1|Bemanning. Folk från ett bemanningsföretag som kör hit från Stockholm för ett pass i taget.|파견이요. 파견 회사에서 한 번에 한 근무씩 하러 스톡홀름에서 차 몰고 오는 사람들.
 Viktor|A1|Så mycket?|그렇게나 많이요?
-Robban|B1|Hälften av passen förra månaden gick till bemanningspersonal som aldrig hade träffat ungdomarna.|지난달 근무의 절반은 아이들을 한 번도 본 적 없는 파견 인력이 맡았어요.
+Janne|B1|Hälften av passen förra månaden gick till bemanningspersonal som aldrig hade träffat ungdomarna.|지난달 근무의 절반은 아이들을 한 번도 본 적 없는 파견 인력이 맡았어요.
 Viktor|B1|Men det finns ju pengar. Regeringen har lovat miljarder till SiS.|그래도 돈은 있잖아요. 정부가 SiS에 수십억을 약속했는데.
-Robban|B2|Pengar finns det, men inte folk. De som har erfarenhet slutar, de nya hinner inte lära sig namnen, och ungarna märker det redan första kvällen.|돈은 있죠. 사람이 없어요. 경험 있는 사람은 그만두고, 새로 온 사람은 이름 외울 틈도 없고, 애들은 그걸 첫날 저녁에 벌써 알아채요.
+Janne|B2|Pengar finns det, men inte folk. De som har erfarenhet slutar, de nya hinner inte lära sig namnen, och ungarna märker det redan första kvällen.|돈은 있죠. 사람이 없어요. 경험 있는 사람은 그만두고, 새로 온 사람은 이름 외울 틈도 없고, 애들은 그걸 첫날 저녁에 벌써 알아채요.
 Viktor|B1|Och de äldre killarna utnyttjar det, antar jag.|그리고 나이 많은 애들이 그걸 이용하겠군요.
-Robban|B1|Personalen byts hela tiden, så ingen vet vem som bestämmer här.|직원이 계속 바뀌니까, 여기서 누가 결정하는지 아무도 몰라요.
+Janne|B1|Personalen byts hela tiden, så ingen vet vem som bestämmer här.|직원이 계속 바뀌니까, 여기서 누가 결정하는지 아무도 몰라요.
 Viktor|A2|Och telefonerna?|그럼 휴대폰은요?
-Robban|B1|De kommer in via besök, via tvätten, ibland via personal. Vi hittar en, och veckan efter finns det en ny.|면회로, 세탁물로, 가끔은 직원을 통해서 들어와요. 하나 찾으면, 다음 주엔 새 게 있어요.
+Janne|B1|De kommer in via besök, via tvätten, ibland via personal. Vi hittar en, och veckan efter finns det en ny.|면회로, 세탁물로, 가끔은 직원을 통해서 들어와요. 하나 찾으면, 다음 주엔 새 게 있어요.
 Viktor|A2|Hur mycket kostar en?|하나에 얼마예요?
-Robban|A2|Två lax att hyra en vecka. Ungarna betalar med jobb.|일주일 빌리는 데 2천이요. 애들은 일로 갚아요.
+Janne|A2|Två lax att hyra en vecka. Ungarna betalar med jobb.|일주일 빌리는 데 2천이요. 애들은 일로 갚아요.
 Viktor|A1|Vilka jobb?|무슨 일이요?
-Robban|B2|Jobb som börjar när de kommer ut. De äldre rekryterar de yngre här inne, och när en femtonåring skrivs ut har han redan en skuld till någon.|나가면 시작되는 일이요. 안에서 나이 많은 애들이 어린 애들을 모집해요. 열다섯 살짜리가 퇴소할 때쯤이면 이미 누군가한테 빚이 있어요.
+Janne|B2|Jobb som börjar när de kommer ut. De äldre rekryterar de yngre här inne, och när en femtonåring skrivs ut har han redan en skuld till någon.|나가면 시작되는 일이요. 안에서 나이 많은 애들이 어린 애들을 모집해요. 열다섯 살짜리가 퇴소할 때쯤이면 이미 누군가한테 빚이 있어요.
 Viktor|B2|Att placera en femtonåring bland dem som rekryterade honom är knappast vad lagen menar med vård.|열다섯 살을 자기를 끌어들인 애들 사이에 넣어 두는 건, 법이 말하는 보호와는 거리가 멀죠.
-Robban|B2|På papperet är vi ett särskilt ungdomshem. I verkligheten är det här inte vård, det är förvaring.|서류상으로 우린 특별 청소년 시설이에요. 현실에선 여긴 치료가 아니라 보관이고요.
+Janne|B2|På papperet är vi ett särskilt ungdomshem. I verkligheten är det här inte vård, det är förvaring.|서류상으로 우린 특별 청소년 시설이에요. 현실에선 여긴 치료가 아니라 보관이고요.
 Viktor|B1|Är Liam säker efter i dag, nu när de har sett mig?|그 애들이 저를 봤는데, 오늘 이후로 리암은 안전한가요?
-Robban|B2|De såg att han fick besök, och i kväll kommer de att fråga vem du var. Han säger att du är hans mammas kompis, och jag har bytt pass med en kollega så att jag har hans avdelning på nätterna resten av veckan.|면회 온 건 봤으니까, 오늘 밤엔 당신이 누구였는지 물어볼 거예요. 그 애는 엄마 친구라고 할 거고요. 저는 동료랑 근무를 바꿔서 이번 주 남은 밤엔 그 애 병동을 맡아요.
+Janne|B2|De såg att han fick besök, och i kväll kommer de att fråga vem du var. Han säger att du är hans mammas kompis, och jag har bytt pass med en kollega så att jag har hans avdelning på nätterna resten av veckan.|면회 온 건 봤으니까, 오늘 밤엔 당신이 누구였는지 물어볼 거예요. 그 애는 엄마 친구라고 할 거고요. 저는 동료랑 근무를 바꿔서 이번 주 남은 밤엔 그 애 병동을 맡아요.
 Viktor|B1|Ring mig om något händer med honom, vilken tid som helst.|그 애한테 무슨 일 생기면 전화 주세요. 몇 시든 상관없어요.
-Robban|A2|Från min egen telefon. Aldrig härifrån.|제 개인 폰으로요. 여기서는 절대 안 하고요.
+Janne|A2|Från min egen telefon. Aldrig härifrån.|제 개인 폰으로요. 여기서는 절대 안 하고요.
 Viktor|B2|Sofia, det är jag. Jag har något som du måste höra innan någon annan gör det, och jag vill inte säga det i telefon.|소피아, 나야. 다른 누구보다 먼저 네가 들어야 할 게 있어. 전화로는 말하고 싶지 않아.
 Sofia|A2|Kom till mitt rum. Halv sju.|내 방으로 와. 6시 반.
 # 장면 4 — 저녁 7시, Källaren (화이트보드, 식은 커피, 야간 근무 전에 내려온 아그네스, 노트북을 펼친 노아, 헤드비그의 출력 체크리스트)
@@ -149,7 +149,7 @@ Sofia|B2|Den som har en källa inne på en redaktion ger honom inte ett namn som
 Agnes|A2|Så nu misstänker vi alla som inte heter Kapten. Toppen.|그럼 이제 캡틴 아닌 사람 전부를 의심하는 거네. 끝내준다.
 Viktor|B2|Jag vill tro dig, Sofia. Det billigaste sättet att förstöra oss är att få oss att misstänka varandra, och Kungen har alltid varit bra på att räkna.|네 말을 믿고 싶어, 소피아. 우릴 무너뜨리는 제일 싼 방법은 우리끼리 서로 의심하게 만드는 거고, Kungen은 늘 계산이 빨랐으니까.
 Hedvig|B2|Och Säpo? Om uppgiften stämmer är det en säkerhetsfråga snarare än en personalfråga, och då vore det oansvarigt att behålla den här nere i källaren.|그럼 Säpo는요? 정보가 맞다면 이건 인사 문제라기보다 보안 문제고, 그렇다면 이 지하실 안에만 두는 건 무책임한 일입니다.
-Sofia|B2|Staffan vet redan att vi har en läcka. Han får veta att vi har fått en uppgift, men aldrig varifrån, och det här spåret hanterar du och jag. Ingen annan.|스타판은 우리한테 유출이 있다는 거 이미 알아요. 정보를 받았다는 건 알려 주겠지만 어디서 왔는지는 절대 안 돼요. 그리고 이 단서는 당신과 나만 다뤄요. 다른 사람은 안 돼요.
+Sofia|B2|Polisen vet redan om bilden på anteckningarna, och Staffan kan räkna. Han får veta att vi har fått en uppgift, men aldrig varifrån, och det här spåret hanterar du och jag. Ingen annan.|경찰은 메모 사진 얘기를 이미 알고, 스타판도 셈은 할 줄 알아요. 정보를 받았다는 건 알려 주겠지만 어디서 왔는지는 절대 안 돼요. 그리고 이 단서는 당신과 나만 다뤄요. 다른 사람은 안 돼요.
 Viktor|B2|Om det här kommer ut är det inte vi som är i fara. Det är källan, och källan har ingen dörr att stänga om sig.|이게 새 나가면 위험한 건 우리가 아니야. 취재원이지. 그리고 그 취재원한텐 닫고 숨을 문 하나가 없어.
 Agnes|A2|Noah? Du har inte sagt ett ord.|노아? 너 한마디도 안 했다.
 Noah|A2|Det är inget, asså. Jag är bara trött.|아무것도 아니에요. 그냥 피곤해서요.
@@ -171,16 +171,16 @@ Fredrik|A2|Kapten? Då är det väl jag. Grattis, ni har löst fallet.|캡틴? �
 | `B1` | **Walla, det finns en hos er som snackar med Kungen, len. De kallar honom Kapten.** | 진짜야, 형네 쪽에 Kungen이랑 얘기하는 사람이 있어. 걔네는 그 사람을 '캡틴'이라고 불러. | 교외 슬랭 세트: *walla*(진짜로, 맹세코 — 아랍어 *wallah*), *len*(친구·형 — 친근한 호칭), *snacka*(떠들다·얘기하다). 문법은 표준 그대로: *det finns en … som …* 존재문 + 관계절, *hos er*(너희 쪽에서, 너희 집에서) |
 | `B2` | **Att placera en femtonåring bland dem som rekryterade honom är knappast vad lagen menar med vård.** | 열다섯 살을 자기를 끌어들인 애들 사이에 넣어 두는 건, 법이 말하는 보호와는 거리가 멀죠. | *att* + 동사원형 구가 문장의 주어. *knappast*(거의 ~ 않다)는 부정의 완곡어. *vad lagen menar med X* = 법이 X라고 할 때 뜻하는 것 — *mena med*(~을 ~의 뜻으로 말하다) |
 | `B2` | **Den som vill att en redaktion ska slita sig själv i stycken väljer precis det namnet.** | 편집국이 스스로를 갈가리 찢어 놓길 바라는 사람이라면 딱 그 이름을 고르지. | *den som …*(~하는 사람)이 긴 주어가 되고 본동사 *väljer*가 뒤따른다. 관용구 *slita i stycken*(갈가리 찢다) + 재귀 *sig själv* |
-| 보안·법 | **särskilt ungdomshem** | 특별 청소년 시설 | 국가기관 SiS(*Statens institutionsstyrelse*)가 운영하는 청소년 시설의 법적 명칭. LVU(청소년 보호 특별법)나 LSU(소년 폐쇄 보호 처분)에 따라 아이를 맡는다. 롭반의 "서류상으로는 특별 청소년 시설"은 이 이름과 현실의 거리를 꼬집는 말 |
+| 보안·법 | **särskilt ungdomshem** | 특별 청소년 시설 | 국가기관 SiS(*Statens institutionsstyrelse*)가 운영하는 청소년 시설의 법적 명칭. LVU(청소년 보호 특별법)나 LSU(소년 폐쇄 보호 처분)에 따라 아이를 맡는다. 야네의 "서류상으로는 특별 청소년 시설"은 이 이름과 현실의 거리를 꼬집는 말 |
 
 ## 저널리즘·법 메모
-열다섯 살 취재원은 어른 취재원보다 몇 겹 더 조심스럽게 다뤄야 한다. 빅토르는 면회 전에 보호자(리암의 어머니)와 담당 사회복지사에게 자기 이름으로 연락했고, 면회실에서는 녹음도 메모도 하지 않았다 — 시설 규칙이기도 하지만, 리암이 한 말이 종이로 남는 것 자체가 위험하기 때문이다. 정보가 밀반입 휴대폰이라는 규칙 위반을 거쳐 왔다고 해서 기자가 그것을 쓸 수 없는 것은 아니지만, 쓸 수 있다는 것과 써야 한다는 것은 다르다. 이번 화의 결정은 "리암을 *보도하지 않는* 것"이다. 리암이 누구인지는 발행책임자 소피아만 알고, 사주가 보낸 감사관 헤드비그에게도 알리지 않는다 — 기자와 편집국의 취재원 비밀유지 의무(*tystnadsplikt*)는 신문사 사주에 대해서도 그대로 유지되고, 발행책임자는 그 예외로 취재원을 알 수 있는 사람이다. 반대로 시설 직원 롭반은 국가기관 SiS의 공무원이므로 *meddelarskydd*로 보호받는다. 그의 상사는 누가 기자에게 말했는지 찾아서는 안 된다(*efterforskningsförbud*). 다만 롭반의 말처럼 법은 색출을 금지할 뿐, 열두 명이 일하는 병동에서 서로 알아보는 눈까지 막아 주지는 못한다. 그래서 인용은 이름도 직함도 없이, 알아볼 수 있는 세부도 빼고 쓴다. 마지막으로 정보의 질: "캡틴"은 취재원이 스피커폰 너머로 엿들은 제3자의 말이다. 프레드릭의 지적대로 그대로는 기사가 될 수 없고, 빅토르의 말대로 이것은 "기사가 아니라 질문"이다.
+열다섯 살 취재원은 어른 취재원보다 몇 겹 더 조심스럽게 다뤄야 한다. 빅토르는 면회 전에 보호자(리암의 어머니)와 담당 사회복지사에게 자기 이름으로 연락했고, 면회실에서는 녹음도 메모도 하지 않았다 — 시설 규칙이기도 하지만, 리암이 한 말이 종이로 남는 것 자체가 위험하기 때문이다. 정보가 밀반입 휴대폰이라는 규칙 위반을 거쳐 왔다고 해서 기자가 그것을 쓸 수 없는 것은 아니지만, 쓸 수 있다는 것과 써야 한다는 것은 다르다. 이번 화의 결정은 "리암을 *보도하지 않는* 것"이다. 리암이 누구인지는 발행책임자 소피아만 알고, 사주가 보낸 감사관 헤드비그에게도 알리지 않는다 — 기자와 편집국의 취재원 비밀유지 의무(*tystnadsplikt*)는 신문사 사주에 대해서도 그대로 유지되고, 발행책임자는 그 예외로 취재원을 알 수 있는 사람이다. 반대로 시설 직원 야네은 국가기관 SiS의 공무원이므로 *meddelarskydd*로 보호받는다. 그의 상사는 누가 기자에게 말했는지 찾아서는 안 된다(*efterforskningsförbud*). 다만 야네의 말처럼 법은 색출을 금지할 뿐, 열두 명이 일하는 병동에서 서로 알아보는 눈까지 막아 주지는 못한다. 그래서 인용은 이름도 직함도 없이, 알아볼 수 있는 세부도 빼고 쓴다. 마지막으로 정보의 질: "캡틴"은 취재원이 스피커폰 너머로 엿들은 제3자의 말이다. 프레드릭의 지적대로 그대로는 기사가 될 수 없고, 빅토르의 말대로 이것은 "기사가 아니라 질문"이다.
 
 ## 문화·현안 메모
 - **SiS와 특별 청소년 시설** — 스웨덴에서는 위험에 처한 청소년을 보호하기 위해 지자체 사회복지 당국이 LVU에 따라 국가 시설에 배치할 수 있다. 그런데 최근 몇 년간 감독기관과 언론은 이런 시설에서의 폭력, 마약, 인력 부족, 그리고 시설 안에서 나이 많은 아이들이 어린 아이들을 범죄 조직으로 끌어들이는 문제를 거듭 지적해 왔다. "보호하려고 맡긴 곳에서 더 깊이 빠진다"는 비판이다.
-- **교외 슬랭** — 리암의 말에는 스톡홀름 교외 청소년 은어가 가득하다: *len*(친구·형), *walla*(진짜로), *para*(돈), *guss*(여자애), *shuno*(녀석, 여기선 '만만한 놈'), *gola*(밀고하다), *lax*(천 크로나 — 롭반의 "två lax"는 2천 크로나). 여러 언어(아랍어, 튀르키예어, 소말리어 등)에서 온 단어가 섞인 이 말투를 스웨덴에서는 흔히 *förortssvenska*라고 부른다.
+- **교외 슬랭** — 리암의 말에는 스톡홀름 교외 청소년 은어가 가득하다: *len*(친구·형), *walla*(진짜로), *para*(돈), *guss*(여자애), *shuno*(녀석, 여기선 '만만한 놈'), *gola*(밀고하다), *lax*(천 크로나 — 야네의 "två lax"는 2천 크로나). 여러 언어(아랍어, 튀르키예어, 소말리어 등)에서 온 단어가 섞인 이 말투를 스웨덴에서는 흔히 *förortssvenska*라고 부른다.
 - **사내 별명 "Kapten"** — 스웨덴 직장에서는 별명이 흔하고, 프레드릭의 별명은 요트 취미에서 왔다. 이번 화에서 그 별명이 사내 채팅과 신문사 사이트에까지 공개돼 있다는 사실은, 이 단서가 가리키는 사람을 좁혀 주기보다 오히려 넓혀 놓는다.
-- ⚠️ 이번 화의 시설 *Björkbacken*, 인물(리암, 롭반, 시설의 소년들), 사건은 모두 허구이며 실제 시설·직원·수용자를 묘사하지 않는다.
+- ⚠️ 이번 화의 시설 *Björkbacken*, 인물(리암, 야네, 시설의 소년들), 사건은 모두 허구이며 실제 시설·직원·수용자를 묘사하지 않는다.
 
 ## 다음 화 예고
 > 40개 지자체에 시스템을 공급하는 회사가 뚫렸다. 300기가바이트가 다크웹에 풀리고, 아미라가 말한다 — "Vi öppnar fillistan först. Inte filerna."
