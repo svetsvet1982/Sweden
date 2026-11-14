@@ -1,0 +1,186 @@
+@title 5부 10화 — Operation Augusti
+@subtitle (8월 작전)
+@meta 날짜|2026년 8월 31일 월요일 오후 4시 55분 ~ 9월 1일 화요일 저녁 6시 10분경 (선거까지 2주)
+@meta 장소|바사가탄의 간판 없는 사무실 — Hemlandspartiet 디지털팀, 모아의 자리 (8월 31일 오후 5시 직전) → 같은 사무실, 유리방 앞 (오후 5시 40분 ~ 6시 20분경) → 같은 사무실, 이다의 책상 (9월 1일 오전 9시 5분 ~ 11시 반) → 쇠데르말름 진켄스담 지하철역 개찰구와 승강장 → 링베겐에 세운 아미라의 차 → 릴리에홀멘 승강장 (9월 1일 저녁 5시 41분 ~ 6시 10분경)
+@meta 등장인물|**Moa** (모아 린드 — 엘린 셰크비스트의 위장 인물, "23세 라이프스타일 크리에이터") · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자 — 사무실 장면에서는 소리 내지 않는 속말) · **Albin** (알빈 "케브" 룬드, 26, 디지털팀 밈 제작자, 모아의 옆자리) · **Ida** (이다 발린, 29, 디지털팀 관리자) · **Theo** (테오 말름, 36, Hemlandspartiet 커뮤니케이션 책임자) · **Ekwall** (마그누스 에크발, 58, Nordhavn Valanalys 선거 전략 자문) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자 — 잠입의 핸들러) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자)
+@intro **지난 이야기** — 정당 대표 TV 토론 세 시간 전, 11개 언론사에 같은 압축 파일이 도착했다. 알그렌 대표가 산델의 이해충돌을 알고 있었다는 메일 14통 — 서명은 진짜였고, 출처는 지자체 IT 공급사 Kommundata를 턴 랜섬웨어 해킹이었다. 소피아는 "해커의 일정표대로 보도하지 않는다"며 기사를 내지 않았고, Kvällsbladet이 먼저 터뜨렸다. 알그렌은 생방송에서 7초 동안 말을 잃었고, 400개 군집 중 280개가 1분 안에 "Hon visste."를 올렸다. 자정, 노아는 나머지 파일의 목록만 보고 노트북을 덮었다 — 노르비크 아이들 4,312명의 사회복지 기록이었다.
+@intro 나흘 뒤인 8월 31일 월요일, 선거까지 2주. 7월 말 이다가 모아의 주머니를 지적한 뒤로 소피아는 조건 하나를 걸어 두었다 — 이다가 모아에게 한 번만 더 물으면, 엘린은 그날로 나온다. 그 뒤 한 달 동안 이다는 모아에게 질문을 하지 않았다. 명령만 했다. 오후 5시 직전, 바사가탄 디지털팀의 사람들이 하나둘 퇴근한다.
+# 장면 1 — 8월 31일 월요일 오후 4시 55분 ~ 5시 반, 바사가탄 디지털팀 사무실 (창가의 모아 자리, 알빈 모니터의 고양이 스티커, 화분과 커피 머신과 소화기와 벽시계, 반밖에 안 내려가는 유리방 블라인드, 이다가 새로 사 온 도자기 컵)
+Albin|B1|Klockan är fem, bror, och jag har lovat mamma att äta middag hos henne. Jag drar.|다섯 시야, 브로. 엄마네서 저녁 먹기로 약속했거든. 나 간다.
+Moa|A1|Redan? Okej.|벌써? 알았어.
+Albin|A2|Kommer du inte med till tunnelbanan?|지하철까지 같이 안 가?
+Moa|B1|Asså, Ida vill ha höstbilder till mammakontona i morgon, och jag har typ inte ens börjat, liksom.|아, 이다가 내일까지 엄마 계정들용 가을 사진을 달래. 근데 나 아직 시작도 못 했거든.
+Albin|A2|Stannar du kvar? Cringe, Moa. Ingen får betalt för övertid här.|남게? 오글거려, 모아. 여기선 야근해도 돈 안 줘.
+Moa|B1|Jag vet. Men jag vill inte att Ida ska titta på mig sådär i morgon bitti, typ.|알아. 근데 내일 아침에 이다가 나 그렇게 쳐다보는 거 싫단 말이야.
+Albin|B1|Hon tittar på alla sådär. Men du har rätt, hon har varit konstig hela dagen. Hon städade köket på lunchen.|원래 다 그렇게 쳐다봐. 근데 맞아, 오늘 하루 종일 이상했어. 점심시간에 탕비실 청소를 하더라.
+Moa|A1|Ida? Städade?|이다가? 청소를?
+Albin|B1|Theo får besök halv sex. Någon i kostym, säger hon. Hon har till och med köpt riktiga koppar i stället för pappmuggar.|테오한테 5시 반에 손님 온대. 양복 입은 누구래. 종이컵 대신 진짜 컵까지 사 왔어.
+Moa|A2|Riktiga koppar? Sjukt fancy, asså. Vem är det?|진짜 컵? 완전 고급이네. 누군데?
+Albin|A2|Ingen aning. Ingen säger något här, det vet du.|몰라. 여기선 아무도 아무 말 안 하잖아, 알면서.
+Moa|A1|Typiskt.|역시.
+Albin|B2|Och om du går sist, rör inte persiennen i glasrummet. Den har varit trasig sedan midsommar och går bara halvvägs ner, men Theo vägrar ringa fastighetsskötaren eftersom han inte vill ha främlingar här inne.|그리고 네가 마지막에 나가면 유리방 블라인드는 건드리지 마. 미드섬머 때부터 고장 나서 반밖에 안 내려가는데, 테오가 외부 사람 들이기 싫다고 관리인을 안 불러.
+Moa|B1|Varför skulle jag röra den? Jag ska typ bara göra löv som ser ut som höst, liksom.|내가 그걸 왜 건드려? 난 그냥 가을처럼 보이는 낙엽이나 만들 건데.
+Albin|A2|Lycka till med löven. Vi ses i morgon, bror.|낙엽 잘 만들어. 내일 봐, 브로.
+Moa|A1|Hej då, Kev!|잘 가, 케브!
+Ida|A2|Moa. Ingenting av vårt på skärmen när gästen kommer. Bara dina löv.|모아. 손님 오면 화면에 우리 거 아무것도 띄우지 마. 네 낙엽만.
+Moa|A2|Okej! Det är typ bara löv ändå, asså.|네! 어차피 낙엽밖에 없어요.
+Ida|A1|Bara löv. Jag är på övervåningen.|낙엽만. 난 위층에 있어.
+Theo|B1|Moa! Du är kvar? Bra, då ser det inte ut som om vi har gett upp två veckor före valet.|모아! 아직 있어? 잘됐다. 그럼 선거 2주 앞두고 우리가 포기한 것처럼은 안 보이겠네.
+Moa|B1|Asså, jag gör höstbilder till mammakontona. Fast hösten vill typ inte komma ut ur generatorn.|저 엄마 계정용 가을 사진 만들고 있어요. 근데 가을이 생성기에서 영 안 나오네요.
+Theo|B2|Höst är svårt, för folk vill känna sig trygga och oroliga på samma gång. Ett tänt ljus i fönstret, men en räkning på bordet som ingen har råd att öppna.|가을은 어렵지. 사람들은 아늑하면서 동시에 불안하고 싶어 하거든. 창가엔 켜 둔 촛불, 식탁엔 아무도 열어 볼 엄두를 못 내는 고지서.
+Moa|A2|Ljus och räkning. Sjukt bra, asså.|촛불이랑 고지서. 완전 좋네요.
+Theo|B2|Vi får besök om tio minuter, och han gillar inte publik. Om han hälsar, hälsar du tillbaka och fortsätter med dina löv. Om han inte hälsar, finns du inte.|10분 뒤에 손님 와. 구경꾼 싫어하는 사람이야. 인사하면 인사하고 하던 낙엽 계속해. 인사 안 하면 넌 없는 사람이고.
+Moa|A1|Fattar. Jag finns inte.|알겠어요. 전 없는 사람이에요.
+Ekwall|B1|Ingen skylt på dörren och inget namn vid ringklockan. Du har äntligen lyssnat på mig, Theo.|문에 간판도 없고 초인종에 이름도 없군. 드디어 내 말을 들었네, 테오.
+Theo|A2|Magnus! Välkommen. Kaffe? Ida har köpt riktiga koppar.|마그누스! 어서 오세요. 커피 드릴까요? 이다가 진짜 컵을 사 놨어요.
+Ekwall|B2|Sedan. Men säg mig, du, vem är det som sitter kvar vid fönstret när alla andra redan har gått hem? Jag trodde att vi skulle vara ensamma.|나중에. 그런데 말이야, 다들 집에 갔는데 창가에 남아 있는 저건 누구지? 우리끼리일 줄 알았는데.
+Theo|A2|Moa. Hon är ny sedan juli. Hon gör bilder.|모아예요. 7월에 왔어요. 이미지 만들어요.
+Ekwall|B2|Hej, Moa. Då har du säkert redan lärt dig att man inte fotograferar gäster här, hur fina de än är.|안녕, 모아. 그럼 여기선 손님 사진은 안 찍는다는 것쯤은 벌써 배웠겠지. 손님이 아무리 멋져도.
+Moa|B1|Asså, min telefon ligger typ i skåp fjorton. Jag kan inte ens fota mina egna löv, liksom.|어, 제 폰은 14번 사물함에 있어요. 제 낙엽도 못 찍는걸요.
+Ekwall|A2|Bra svar. Hon är rolig, Theo.|좋은 대답이야. 재밌는 애네, 테오.
+Theo|A2|Hon är bra. Vi tar glasrummet.|괜찮은 애예요. 유리방으로 가시죠.
+Ekwall|A1|Persiennen, du.|블라인드.
+Theo|B1|Den går bara halvvägs, den har varit trasig hela sommaren. Men det räcker, ingen här kan läsa på läpparna.|반밖에 안 내려가요. 여름 내내 고장이었거든요. 그래도 충분해요. 여기 입 모양 읽을 줄 아는 사람 없으니까.
+# 장면 2 — 오후 5시 40분 ~ 6시 20분경, 같은 사무실, 유리방 앞 (반쯤 내려온 블라인드 아래의 화이트보드, 저절로 살짝 열리는 유리문, 커피 머신 앞의 테오, 모아의 자리 — 엘린의 대사는 소리 내지 않는 속말)
+Elin|A2|Dörren står på glänt. Persiennen bara halvvägs. Jag hör dem.|문이 살짝 열려 있다. 블라인드는 반만. 들린다.
+Theo|B1|Det här är hela planen för de sista fjorton dagarna. Jag har skrivit den så att du ser allt på en gång.|이게 마지막 14일 전체 계획이에요. 한눈에 보이게 써 놨어요.
+Ekwall|B2|”Operation Augusti.” Du har alltid haft en förkärlek för stora namn, Theo, även när det räcker med ett datum.|"8월 작전." 넌 늘 거창한 이름을 좋아했지, 테오. 날짜 하나면 충분할 때도.
+Theo|B1|Det började i augusti. Och folk jobbar hårdare för något som har ett namn.|8월에 시작했으니까요. 그리고 사람들은 이름 있는 일에 더 열심히 해요.
+Ekwall|A2|Kaffe nu, tack. Svart.|이제 커피. 블랙으로.
+Theo|A2|Moa, kan du göra två svarta? Maskinen hatar mig.|모아, 블랙 두 잔 해 줄래? 기계가 날 싫어해.
+Moa|A1|Klart! Två svarta.|그럼요! 블랙 두 잔.
+Theo|B1|Tio sekunder per kopp, jag har räknat. Det är det enda i det här huset som går att förutsäga.|한 잔에 10초. 재 봤어. 이 건물에서 예측 가능한 건 그거 하나야.
+Elin|A1|Tavlan. Hela tavlan. Tio sekunder.|보드. 보드 전체. 10초.
+Moa|B1|Asså, den här maskinen låter typ som ett flygplan som inte vill lyfta.|이 기계 소리 완전 이륙하기 싫은 비행기 같아요.
+Elin|B1|Rad ett på krukväxten: ”Operation Augusti – sista 14 dagarna.” Rad två på kaffemaskinen: ”T–48: C. A. – ljud.”|첫 줄은 화분에: "8월 작전 — 마지막 14일." 둘째 줄은 커피 머신에: "T–48: C. A. — 음성."
+Theo|B1|Socker? Nej, han tar aldrig socker. Han säger att det är för folk som behöver tröst.|설탕? 아니다, 그 사람은 설탕 절대 안 넣지. 설탕은 위로가 필요한 사람들 거래.
+Elin|B1|Rad tre på brandsläckaren: ”Alla röster – samma kväll.” Rad fyra på Doris på Kevs skärm: ”Extern partner – förstärkning.”|셋째 줄은 소화기에: "모든 목소리 — 같은 날 밤." 넷째 줄은 케브 화면의 도리스에: "외부 파트너 — 증폭."
+Moa|A1|Varsågod. Två svarta.|여기요. 블랙 두 잔.
+Theo|B1|Tack, du räddade mig. Gå hem snart, okej? Ingen får betalt för övertid här, som Kev brukar säga.|고마워, 살았다. 곧 집에 가, 알았지? 케브 말마따나 여기선 야근해도 돈 안 나와.
+Elin|B1|Rad fem på väggklockan, längst ner och understruken två gånger: ”Fas 2 – efter valet.”|다섯째 줄은 벽시계에. 맨 아래, 밑줄 두 번: "2단계 — 선거 후."
+Ekwall|B2|Fyrtioåtta timmar innan vallokalerna stänger är precis rätt. Tillräckligt sent för att ingen ska hinna kontrollera, tillräckligt tidigt för att alla ska hinna dela.|투표소가 닫히기 48시간 전이 딱 맞아. 아무도 확인할 시간이 없을 만큼 늦고, 모두가 공유할 시간은 있을 만큼 이르지.
+Theo|B2|Ljudfilen är klar på torsdag. Hon låter som sig själv, nästan för mycket – leverantören har haft tre år av hennes tal att träna på.|음성 파일은 목요일에 완성돼요. 진짜 본인 같아요, 거의 지나칠 정도로. 납품업체가 3년 치 연설로 학습시켰거든요.
+Ekwall|B2|Och rösterna? Ett ljud som ingen delar är bara ett ljud, hur bra det än är gjort.|그럼 목소리들은? 아무도 공유하지 않는 소리는 아무리 잘 만들어도 그냥 소리일 뿐이야.
+Theo|B1|I torsdags gick tvåhundraåttio ut på en minut. Resten sover, men de vaknar när vi säger till.|지난 목요일에 280개가 1분 만에 나갔어요. 나머지는 자고 있는데, 우리가 말하면 깨요.
+Elin|A2|Tvåhundraåttio. Debattkvällen. Det var de.|280. 토론 날 밤. 저 사람들이었다.
+Ekwall|B2|Och partnern sköter resten av förstärkningen, precis som i juli. Du behöver inte veta vad de heter. Ingen av oss behöver det.|그리고 증폭의 나머지는 파트너가 맡아. 7월이랑 똑같이. 그쪽 이름은 몰라도 돼. 우리 중 누구도 알 필요 없어.
+Theo|B2|Men jag vill förstå vem jag jobbar med, Magnus. Om något går snett är det mitt namn som står på avtalet med partiet, inte ditt.|그래도 제가 누구랑 일하는지는 알고 싶어요, 마그누스. 뭐가 잘못되면 당이랑 맺은 계약서에 있는 건 제 이름이지, 당신 이름이 아니잖아요.
+Ekwall|B2|Du behöver inte förstå helheten, Theo. Du behöver bara leverera på fredag.|전체를 이해할 필요는 없어, 테오. 금요일에 납품만 하면 돼.
+Elin|A2|C. A. är Ahlgren. Och fredag är den fjärde.|C. A.는 알그렌이다. 그리고 금요일은 4일.
+Ekwall|A1|Stäng dörren, Theo.|문 닫아, 테오.
+Theo|A2|Förlåt. Den glider upp av sig själv.|죄송해요. 저절로 열려요.
+Elin|B2|Nu hör jag ingenting. Bara hans mun under persiennens kant, och den rör sig långsamt, som om han dikterade för någon som inte får skriva ner det.|이제 아무것도 안 들린다. 블라인드 끝 아래로 그 사람 입만 보인다. 천천히 움직인다. 받아 적으면 안 되는 사람한테 불러 주는 것처럼.
+Ekwall|B2|Jag har andra kunder den här hösten, och alla vill samma sak som du: vinna utan att det syns vem som spelade.|나도 이번 가을엔 다른 고객들이 있어. 다들 너랑 같은 걸 원하지. 누가 판을 짰는지 안 보이게 이기는 것.
+Theo|B2|Och om någon läcker? Det har hänt förut. Hon som slutade i maj gick inte härifrån som en vän, och hon vet hur siffrorna ser ut.|누가 흘리면요? 전에도 있었잖아요. 5월에 그만둔 여자는 좋게 나가지 않았고, 숫자가 어떻게 생겼는지 알아요.
+Ekwall|B2|Därför har vi byggt det så att det inte spelar någon roll. Ingenting i mejl, ingenting i avtal, inga fakturor med rätt namn.|그래서 상관없게 만들어 둔 거야. 메일에도 없고, 계약서에도 없고, 진짜 이름이 적힌 청구서도 없어.
+Theo|A1|Och tavlan?|그럼 보드는요?
+Ekwall|B1|Den suddar du ut innan du går. Ingen ska kunna bevisa någonting.|나가기 전에 지워. 아무도 아무것도 증명할 수 없어야 해.
+Elin|B1|”Ingen ska kunna bevisa någonting.” Det sa han, ord för ord. Det är det enda jag är säker på.|"아무도 아무것도 증명할 수 없어야 해." 그렇게 말했다. 한 단어씩. 내가 확신하는 건 그것 하나다.
+Ekwall|B2|Och fas två pratar vi inte om förrän rösterna är räknade. Inte här, inte i telefon och inte med Ida.|그리고 2단계는 표를 다 셀 때까지 입에 올리지 않는다. 여기서도, 전화로도, 이다한테도.
+Elin|A2|Han tittar ut. Rakt på mig.|밖을 본다. 나를 똑바로.
+Moa|A2|Haha, nej, nej, nej! Varför blir alla löv bruna, typ?|하하, 아니, 아니, 아니! 왜 낙엽이 다 갈색이 되는 거야?
+Ekwall|A2|Hon pratar med sin dator.|쟤 컴퓨터랑 얘기하네.
+Theo|B1|Det gör alla kreatörer. Hon har typ fyratusen följare och tror att datorn är en av dem.|크리에이터들은 다 그래요. 팔로워가 4천 명쯤 되는데 컴퓨터도 그중 하나인 줄 알아요.
+Ekwall|B2|Tack för kaffet, Moa. Det var det bästa jag har druckit under hela valrörelsen, och jag har druckit kaffe i fyra partiers kök.|커피 고마웠어, 모아. 이번 선거운동 통틀어 마신 것 중 최고였어. 네 정당 부엌에서 다 마셔 봤는데.
+Moa|A2|Asså, det var typ bara maskinen. Men tack!|아, 그냥 기계가 한 건데요. 그래도 감사해요!
+Ida|A1|Theo. Tavlan.|테오. 보드.
+Theo|A2|Jag vet. Jag suddar nu.|알아. 지금 지울게.
+Ida|A2|Moa. Gå hem nu. Släck skärmen.|모아. 이제 집에 가. 화면 끄고.
+# 장면 3 — 9월 1일 화요일 오전 9시 5분 ~ 11시 반, 같은 사무실, 이다의 책상 (회색 플라스틱 바구니, 사물함에서 꺼내 온 휴대폰들, 지운 자국이 희미하게 남은 유리방 화이트보드, 문가에 선 테오의 커피잔)
+Theo|B2|Godmorgon, familjen. Innan någon får panik: det här är rutin, och vi hade gjort exakt samma sak även om allt vore lugnt.|좋은 아침, 가족 여러분. 누가 겁먹기 전에 말해 둘게. 이건 절차야. 모든 게 평온했어도 똑같이 했을 거야.
+Ida|A2|Alla måste lämna sina mobiler före lunch. Hämta dem i skåpen nu.|모두 점심 전까지 휴대폰 제출해. 지금 사물함에서 가져와.
+Albin|A1|Våra privata?|개인 폰도요?
+Ida|B1|Allt som har varit i det här huset sedan juli. Det här är valrörelsens slutspurt, och ingenting får läcka nu.|7월 이후 이 건물에 들어온 건 전부. 지금은 선거운동 막판 스퍼트야. 이제는 아무것도 새면 안 돼.
+Theo|B2|Ingen här är misstänkt för något. Men om ett enda skärmklipp hamnar i fel tidning de här veckorna, kostar det oss mer än alla annonser vi har köpt i år.|여기 누구도 뭘 의심받는 거 아니야. 하지만 요 몇 주 사이에 스크린샷 하나라도 엉뚱한 신문에 들어가면, 올해 산 광고 전부보다 더 비싸게 먹혀.
+Moa|A2|Okej… men typ, får ni ens göra så?|네… 근데, 그거 해도 되는 거예요?
+Theo|B2|Ingen tvingar dig, Moa. Du kan säga nej, och då tackar vi för sommaren. Avtalet är ett uppdrag, inte ett äktenskap.|아무도 강요 안 해, 모아. 싫다고 해도 돼. 그럼 여름 동안 고마웠다고 하는 거지. 계약은 일감이지 결혼이 아니니까.
+Moa|A2|Nej, nej, det är lugnt. Jag har typ inget att dölja, asså.|아니에요, 아니에요, 괜찮아요. 저 숨길 거 하나도 없어요.
+Ida|A2|Korgen står här. Kev först.|바구니 여기 있어. 케브부터.
+Albin|A2|Varför är det alltid jag först?|왜 맨날 저부터예요?
+Ida|A1|Ge mig telefonen.|휴대폰 줘.
+Albin|A2|Okej, okej. Koden är min födelsedag.|알았어요, 알았어요. 비번은 제 생일이에요.
+Ida|B1|Varför har du en skärmdump av Doris bland dina bilder? Och vem har du skickat den till?|왜 사진첩에 도리스 스크린샷이 있어? 그리고 누구한테 보냈어?
+Albin|B1|Till min mamma! Hon älskar katter och vet inte ens att Doris är vår. Lowkey är hon hennes största fan.|엄마한테요! 엄마가 고양이를 엄청 좋아하는데, 도리스가 우리 건 줄도 몰라요. 은근 최대 팬이에요.
+Ida|A2|Radera. Och tråden med mamma. Vad heter din gruppchatt?|지워. 엄마랑 대화도. 단톡방 이름은 뭐야?
+Albin|A2|”Cringegänget”. Det är bara gamers, jag lovar.|"오글 패거리"요. 그냥 게이머들이에요, 진짜로.
+Ida|A2|Inga memes därifrån till jobbet. Nästa. Moa.|거기서 회사로 밈 가져오지 마. 다음. 모아.
+Moa|A2|Asså, kolla bara, jag har typ bara selfies.|뭐, 그냥 보세요, 저 거의 셀카밖에 없어요.
+Ida|A1|Lås upp. Ge mig den. Sätt dig.|잠금 풀어. 이리 줘. 앉아.
+Moa|B1|Det är typ femhundra bilder på mig och en enda på en kanelbulle, så, asså, bli inte rädd.|저 사진 오백 장쯤에 시나몬롤 사진 딱 한 장이에요. 그러니까, 놀라지 마세요.
+Albin|B1|Hon tittar länge, bror. Min tog typ två minuter, och jag har tusen memes.|오래 본다, 브로. 내 건 2분쯤 걸렸는데, 난 밈이 천 개야.
+Moa|A1|Shh, Kev.|쉿, 케브.
+Ida|A1|Meddelanden. Fyra trådar. Sökhistorik.|메시지. 대화방 네 개. 검색 기록.
+Moa|B2|Asså, sedan jag flyttade till stan har jag typ tappat alla vänner, och när man säger det högt låter det sjukt deppigt, som om jag vore en sån som pratar med sin dator.|아, 시내로 이사 온 다음부터 친구가 거의 다 끊겼어요. 소리 내서 말하니까 완전 우울하네요. 컴퓨터랑 얘기하는 사람 같잖아요.
+Ida|A2|Här. Du kan gå tillbaka till din plats.|여기. 자리로 돌아가.
+Albin|A2|Klar! Hon höll din längre än min, men du är ren, bror.|끝! 내 것보다 오래 들고 있었지만, 넌 깨끗하네, 브로.
+Moa|A2|Jag sa ju det. Bara selfies, typ.|내가 말했잖아. 셀카뿐이라고.
+Theo|B1|Ida, kom in till mig när du är klar med alla. Ta med listan, jag vill se den före lunch.|이다, 다 끝나면 내 방으로 와. 목록 가져오고. 점심 전에 보고 싶어.
+Elin|B2|Hon frågade mig ingenting. Kev fick tre frågor, jag fick tre order, och nu går hon in till Theo med en lista där mitt namn står sist.|나한테는 아무것도 묻지 않았다. 케브는 질문 세 개, 나는 명령 세 개. 그리고 지금 내 이름이 맨 끝에 적힌 목록을 들고 테오 방으로 들어간다.
+Albin|B1|Moa? Du ser helt vit ut. Ska jag hämta kaffe, eller vill du gå ut och ta lite luft?|모아? 얼굴이 완전 하얘. 커피 갖다줄까, 아니면 나가서 바람 좀 쐴래?
+# 장면 4 — 9월 1일 화요일 저녁 5시 41분 ~ 6시 10분경, 쇠데르말름 진켄스담 지하철역 (모아가 늘 걷는 호른스가탄 산책의 끝, 개찰구, 헨릭이 겨드랑이에 낀 종이 신문, 승강장 전광판의 남은 분) → 링베겐에 세운 아미라의 차 → 릴리에홀멘 승강장, 켜 둔 모아 폰
+Henrik|A1|Ursäkta.|실례합니다.
+Moa|A1|Ingen fara.|괜찮아요.
+Henrik|A1|Du tappar den. Håll i.|떨어뜨린다. 꽉 쥐어.
+Elin|A1|Mina händer…|손이…
+Henrik|A2|Andas, flicka. Ett tåg i taget.|숨 쉬어라, 아가씨. 기차는 한 대씩이다.
+Elin|B1|Jag har den inte längre. Tog du den, eller ligger den kvar på golvet?|이제 저한테 없어요. 가져가셨어요, 아니면 아직 바닥에 있어요?
+Henrik|B1|Den ligger i min tidning nu. Gå ner till perrongen, så kommer jag efter och sätter mig på bänken bredvid.|이제 내 신문 속에 있다. 승강장으로 내려가. 뒤따라가서 옆 벤치에 앉으마.
+Elin|A1|Sex minuter.|6분이요.
+Henrik|B2|Sex minuter räcker. Titta på skylten, int på mig. Och du var arg på mig i går när jag sa nej till att ses, det hörde jag på rösten.|6분이면 충분해. 전광판 봐, 날 보지 말고. 그리고 어젯밤 만나지 말자고 했을 때 너 나한테 화났지. 목소리로 다 들렸다.
+Elin|B1|Jag ringde från min egen telefon och sa bara att jag hade något. Du sa: int i kväll, int i telefon.|제 폰으로 전화해서 뭔가 있다고만 했어요. 헤사가 그랬죠. 오늘 밤은 안 된다, 전화로도 안 된다.
+Henrik|B2|Om någon följde efter dig efter ett sånt besök, skulle de se en trött tjej som gick raka vägen hem. Int en tjej som träffade en gubbe på en bänk.|그런 손님이 다녀간 뒤에 누가 널 따라왔다면, 곧장 집에 가는 피곤한 아가씨를 봤어야 했다. 벤치에서 늙은이를 만나는 아가씨가 아니라.
+Elin|B2|Så jag skrev ingenting i går, eftersom papper i min lägenhet hade varit farligare än en tanke i mitt huvud.|그래서 어제는 아무것도 안 적었어요. 우리 집에 있는 종이가 제 머릿속 생각보다 더 위험했을 테니까요.
+Henrik|A1|Ingenting? Hela natten?|아무것도? 밤새?
+Elin|B1|Jag såg bara tavlan i tio sekunder, men jag kommer ihåg varenda rad.|보드는 10초밖에 못 봤지만, 한 줄 한 줄 다 기억해요.
+Henrik|A2|Hur då? Berätta.|어떻게? 말해 봐.
+Elin|B2|Som på teaterskolan: man hänger varje replik på en sak i rummet. En krukväxt, en kaffemaskin, en brandsläckare, en tecknad katt och en klocka. Jag gick igenom rummet hundra gånger i natt, och på lunchen skrev jag ner allt på toaletten.|연극학교에서처럼요. 대사 하나하나를 방 안 물건 하나에 걸어 두는 거예요. 화분, 커피 머신, 소화기, 그림 고양이, 시계. 밤새 그 방을 백 번 걸어 다녔고, 점심때 화장실에서 다 적었어요.
+Henrik|B1|På jobbet? Med Ida i korridoren? Var hade du den i eftermiddags?|회사에서? 복도에 이다가 있는데? 오후 내내 어디 뒀어?
+Elin|B1|I skon, som förra gången. Ingen letar i skor när det är telefoner de vill ha.|신발 속에요, 지난번처럼. 휴대폰을 찾는 사람들은 신발은 안 뒤져요.
+Henrik|B1|Fan, flicka. Det var därför dina händer skakade vid spärrarna.|제기랄, 아가씨. 그래서 개찰구에서 손이 떨렸구나.
+Elin|B2|Nej. De skakade för att Ida tittade på min sökhistorik i nästan fem minuter i morse, och den var tom. Jag har tömt den varje kväll sedan juli, och ingen tjugotreåring tömmer någonting.|아니요. 떨린 건 오늘 아침 이다가 제 검색 기록을 거의 5분 동안 봤기 때문이에요. 텅 비어 있었거든요. 7월부터 매일 밤 비웠어요. 근데 스물세 살짜리는 아무것도 안 비워요.
+Henrik|A2|Frågade hon något?|그 애가 뭘 물었냐?
+Elin|B1|Inte en enda fråga. Tre order: lås upp, ge mig den, sätt dig. Kev fick tre frågor. Jag räknade.|질문은 하나도요. 명령 세 개요. 잠금 풀어, 이리 줘, 앉아. 케브는 질문 세 개. 제가 셌어요.
+Henrik|B2|Sofias regel gäller om Ida frågar dig en gång till, och en order är ingen fråga. Men det är Sofia som bestämmer i kväll, int du och int jag.|소피아 규칙은 이다가 너한테 한 번 더 물으면이다. 명령은 질문이 아니고. 하지만 오늘 밤 정하는 건 소피아다. 너도 아니고 나도 아니고.
+Elin|B1|Jag vet. Och telefonen var tom för att den alltid har varit Moas, inte min. J finns inte där. Ingen av er finns där.|알아요. 그리고 폰이 빈 건 그게 처음부터 모아 거였지 제 게 아니었기 때문이에요. J는 거기 없어요. 여러분 누구도 거기 없고요.
+Henrik|B2|Det är därför vi gör så. Om de tar telefonen ska de hitta en tråkig flicka, int en tidning. Det som är farligt finns på papper, och papperet finns hos mig.|그래서 그렇게 하는 거다. 폰을 가져가면 지루한 아가씨가 나와야지, 신문사가 나오면 안 돼. 위험한 건 종이에 있고, 그 종이는 나한테 있다.
+Elin|A1|Två minuter.|2분이요.
+Henrik|B1|Jag måste fråga en sak, och jag frågar bara en gång. Vill du säga det där om färjan?|하나 물어야겠다. 딱 한 번만 묻는다. 그 배 얘기, 하고 싶냐?
+Elin|B1|Nej. Färjan går i dag, Hesa. I morgon också. De suddade ut tavlan, så nu finns den bara i mitt huvud och i din tidning.|아니요. 배는 오늘 떠요, 헤사. 내일도요. 그 사람들이 보드를 지웠으니까, 이제 그건 제 머릿속이랑 헤사 신문 속에만 있어요.
+Henrik|B1|Du höll masken hela dagen, och det är det ingen som ser utom jag. Bra.|하루 종일 표정 관리를 했구나. 그건 나 말고는 아무도 못 봐. 잘했다.
+Elin|B2|Det farligaste med planen var inte lögnen i sig, utan att den skulle släppas när ingen hann granska den.|그 계획에서 가장 위험한 건 거짓말 자체가 아니었어요. 아무도 검증할 시간이 없을 때 풀린다는 거였죠.
+Henrik|A2|Där är tåget. Gå av i Liljeholmen, som Moa.|기차 온다. 릴리에홀멘에서 내려라, 모아처럼.
+Amira|A2|Hesa! Hoppa in. Har du den?|헤사! 타. 그거 있어?
+Henrik|B2|I tidningen. Läs den här i bilen, men skriv inget i datorn förrän originalet ligger i Sofias kassaskåp i kväll.|신문 속에. 여기 차 안에서 읽어. 하지만 원본이 오늘 밤 소피아 금고에 들어가기 전엔 컴퓨터에 아무것도 치지 마라.
+Amira|B1|Jag skriver av den för hand först, precis som med J:s lista. ”Alla röster – samma kväll.” Fan. Det betyder fyrahundra konton på en kväll, Hesa.|먼저 손으로 옮겨 적을게. J의 목록 때처럼. "모든 목소리 — 같은 날 밤." 젠장. 하룻밤에 계정 사백 개라는 뜻이야, 헤사.
+Henrik|A1|Går det? Tekniskt?|가능하냐? 기술적으로?
+Amira|B2|I torsdags gick tvåhundraåttio ut på en minut. De hundratjugo andra har legat tysta sedan juli, men de har bytt profilbild de senaste tio dagarna, och det syns helt öppet. Någon väcker dem. Med ett schemaläggningsverktyg räcker det med en person och en timme.|지난 목요일엔 280개가 1분 만에 움직였어. 나머지 120개는 7월부터 조용했는데, 최근 열흘 사이에 프로필 사진을 바꿨어. 완전히 공개적으로 보여. 누가 깨우고 있는 거야. 예약 도구만 있으면 한 사람이 한 시간이면 돼.
+Henrik|B1|Och de sextio på andra sidan? Sofia vill ha samma mått på båda.|반대편 육십 개는? 소피아는 양쪽에 같은 잣대를 원한다.
+Amira|B2|Jag kör samma metod på dem i natt. Om de också börjar vakna, skriver vi det med samma ord och på samma sida, annars är det inte journalistik.|오늘 밤 그쪽에도 같은 방법을 돌릴게. 그쪽도 깨어나기 시작하면 같은 단어로, 같은 면에 쓰는 거야. 안 그러면 저널리즘이 아니지.
+Theo|A2|Moa? Theo här. Är du hemma än?|모아? 테오야. 아직 집 아니야?
+Moa|A2|Typ nästan, asså. Jag står i Liljeholmen. Har det hänt något?|거의요. 지금 릴리에홀멘이에요. 무슨 일 있어요?
+Theo|A2|Din telefon är ren, Moa. Lite för ren.|네 폰은 깨끗해, 모아. 좀 지나치게 깨끗해.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Ge mig telefonen.** | 휴대폰 줘. | *ge* + 사람 + 물건 = ~에게 …을 주다(간접목적어가 먼저). 명령형은 동사 원형 그대로: *ge, lås upp, sätt dig*. 이다는 모아에게 이런 명령문만 쓴다 — 질문은 단 하나도 하지 않는다 |
+| `A1` | **Lås upp. Ge mig den. Sätt dig.** | 잠금 풀어. 이리 줘. 앉아. | 분리동사 *låsa upp*(잠금을 풀다)의 명령형 *lås upp*, 재귀동사 *sätta sig*(앉다)의 명령형 *sätt dig*. 세 단어씩 끊어지는 이다의 말투 — 엘린은 그 명령의 수와 질문의 수를 따로 센다 |
+| `A2` | **Alla måste lämna sina mobiler före lunch.** | 모두 점심 전까지 휴대폰을 내야 한다. | *måste* + 원형 = ~해야 한다. 주어가 *alla*(모두)라도 소유대명사는 재귀형 *sina*를 쓴다(주어 자신의 것). *lämna*는 '떠나다'와 함께 '건네다, 맡기다'라는 뜻도 있다: *lämna in en rapport*(보고서를 제출하다) |
+| `B1` | **Jag såg bara tavlan i tio sekunder, men jag kommer ihåg varenda rad.** | 보드는 10초밖에 못 봤지만, 한 줄 한 줄 다 기억해요. | *komma ihåg* = 기억하다(분리동사, 과거형 *kom ihåg*). *varenda* = 하나도 빠짐없이 모든(*varje*의 강조형, 중성 명사 앞에선 *vartenda*: *vartenda ord*). 시간의 길이는 *i* + 기간: *i tio sekunder* |
+| `B2` | **Det farligaste med planen var inte lögnen i sig, utan att den skulle släppas när ingen hann granska den.** | 그 계획에서 가장 위험한 건 거짓말 자체가 아니라, 아무도 검증할 시간이 없을 때 그것이 풀린다는 점이었다. | *inte A, utan B* = A가 아니라 B(앞 문장이 부정일 때의 '그게 아니라'는 *men*이 아니라 *utan*). *i sig* = 그 자체로. *skulle släppas* = 풀리게 되어 있었다(과거에서 본 미래 + -s 수동태). *hinna* + 원형 = ~할 시간이 있다 |
+| `B2` | **Du behöver inte förstå helheten, Theo. Du behöver bara leverera på fredag.** | 전체를 이해할 필요는 없어, 테오. 금요일에 납품만 하면 돼. | *behöva inte* = ~할 필요가 없다 / *behöva bara* = ~만 하면 된다. *helhet*(전체, 큰 그림) ← *hel*(온전한). 요일 앞의 *på*: *på fredag*(이번 금요일에), *på fredagar*(매주 금요일에). Ekwall에게 테오는 동업자가 아니라 납품업자다 |
+| 구어 | **hålla masken** | 표정 관리를 하다, 태연한 척하다 | 직역하면 '가면을 유지하다'. 웃음이 터지거나 놀랄 상황에서도 얼굴에 드러내지 않는다는 뜻: *Hon höll masken hela dagen.* 반대로 참지 못하고 웃음이 터지면 *spricka*(갈라지다)를 쓴다 |
+| 미디어·정치 | **valrörelsens slutspurt** | 선거운동 막판 스퍼트 | *valrörelse*(선거운동) + *slutspurt*(결승 직전 전력 질주, 스포츠 용어). 스웨덴 언론은 선거 전 마지막 1~2주를 이렇게 부른다. 사전투표가 이미 시작된 시기라 이 기간의 허위정보는 정정이 닿기 전에 표가 된다 |
+
+## 저널리즘·법 메모
+잠입 기자의 휴대폰은 압수되거나 검사당할 것을 전제로 준비한다. 모아 폰에는 모아의 삶만 있고, 신문사·핸들러·취재원(J)의 흔적은 처음부터 없다 — 그래서 이다가 화면을 아무리 넘겨도 *källskydd*는 무너지지 않는다. 위험한 정보는 종이에 적어 사람 손으로만 옮기고, 원본은 발행책임자의 금고에, 작업은 손으로 옮긴 사본으로 한다(2화 J의 목록과 같은 원칙). 다만 이번 화가 보여 주듯 "너무 깨끗한" 기기는 그 자체로 신호가 된다: 매일 밤 비운 검색 기록은 아무것도 말하지 않지만, 스물세 살의 휴대폰으로서는 이상하다. 엘린이 유리문 틈으로 듣고 입 모양으로 읽은 것은 범죄가 아니다 — 형법의 *olovlig avlyssning*(불법 도청)은 기술 장비로 남의 대화를 몰래 듣거나 녹음하는 행위를 처벌하며, 그래서 4화 이후 녹음기를 반납한 엘린은 자기 눈과 귀와 기억만 썼다. 그러나 기억에 의존한 메모는 증거로서 약하다: 언제, 어떤 조건(10초, 반쯤 내려온 블라인드, 열린 문)에서 무엇을 확실히 봤고 무엇은 추론했는지(C. A. = 알그렌은 엘린의 추론이다)를 나눠 기록하고, 다른 자료로 교차 확인한 부분만 기사에 쓴다. 마지막으로 소피아의 철수 조건은 문자 그대로 지켜진다 — 이다가 모아에게 한 것은 명령 세 개였고 질문은 없었으므로 조건은 발동하지 않았지만, 계속할지 판단하는 사람은 기자 본인도 핸들러도 아닌 발행책임자다.
+
+## 문화·현안 메모
+- **스톡홀름 지하철 빨간 선(*röda linjen*)** — 시내 중심 T-Centralen에서 감라스탄·슬루센을 지나 쇠데르말름의 마리아토리에트·진켄스담·호른스툴을 거쳐 릴리에홀멘으로 이어진다. 역마다 개찰구(*spärrarna*)가 있고, 승강장 전광판이 다음 열차까지 남은 분을 보여 준다. 사람이 많은 퇴근 시간의 개찰구는 낯선 두 사람이 어깨를 스쳐도 아무도 눈여겨보지 않는 곳이다.
+- **장소법(기억의 궁전)** — 외울 것을 익숙한 공간의 물건이나 위치에 하나씩 붙여 두는 고대의 기억술로, 배우들이 긴 대사를 외울 때도 쓴다. 엘린은 사무실의 화분·커피 머신·소화기·고양이 스티커·벽시계에 화이트보드의 다섯 줄을 걸었다.
+- **선거 막판의 "타이밍 공작"** — 유럽 여러 선거에서 투표 직전 이틀, 정정 보도가 유권자에게 닿기 어려운 시점에 조작된 음성·영상이나 유출물이 풀리는 일이 반복됐다. 언론·플랫폼·선거 당국이 사전에 대응 원칙을 논의하는 이유다.
+- ⚠️ 이번 화의 정당(Hemlandspartiet, Arbetarpartiet), 테오 말름·이다 발린·알빈 룬드·Ekwall·세실리아 알그렌, Nordhavn Valanalys, "Operation Augusti"의 내용은 모두 허구이며, 실제 정당·정치인·기업이나 실제 2026년 선거를 묘사하지 않는다.
+
+## 다음 화 예고
+> 같은 9월 1일 화요일 아침 8시, 빅토르의 메일함에는 검찰 안보사건국의 통지가 와 있었다 — 외국 첩보죄 예비수사 개시.
