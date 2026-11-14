@@ -1,0 +1,186 @@
+@title 2부 5화 — Trygga händer
+@subtitle (안전한 손)
+@meta 날짜|2026년 1월 26일 월요일 ~ 29일 목요일 (해는 8시 15분쯤 떠서 3시 45분쯤 진다)
+@meta 장소|노르비크, 베니의 아파트 앞 헨릭의 볼보 → 베니의 침실과 부엌 (월요일 오전 6시 50분) → 같은 집 부엌 (화요일 오후 3시 20분) → 노르비크 센트룸 약국 위층 Trygga Händer Assistans 사무실 → 헨릭의 볼보 (목요일 오후 1시) → 베니의 거실 (목요일 저녁 7시 40분 ~ 10시 50분)
+@meta 등장인물|**Elin** (엘린 셰크비스트, 28, 잠입 전문 기자 / 위장 신분 "제니 칼손") · **Benny** (베니 란츠, 34, 뇌성마비, Trygga Händer 이용자, 우메오 대학 원격 경제학 수강생) · **Monika** (모니카 란츠, 61, 베니의 어머니, 점심 식당 주방 직원) · **Mattias** (마티아스 브링크, 41, Trygga Händer 지역 관리자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자)
+@intro **지난 이야기** — 엘린은 자신의 진짜 중간 이름으로 "제니 칼손"이 되었다. 소피아와 라르스는 위조 금지, 일하지 않은 시간에 서명 금지, 이용자의 몸과 사생활 녹음 금지를 조건으로 걸었고, 헨릭은 탈출 신호 "Det snöar i Värnamo"를 받아 두었다. Trygga Händer의 면접은 12분 — 신분증도 범죄경력 조회서도 없었다.
+@intro 1월 22일 목요일, 베니의 어머니 모니카가 두 시간 동안 리프트와 휠체어와 약 상자를 보여 준 입문일이 지나갔다. 1월 26일 월요일 아침 6시 50분, 노르비크는 아직 캄캄하고 헨릭의 볼보 히터는 여전히 고장이다. 오늘부터 제니의 정식 근무표가 시작된다.
+# 장면 1 — 월요일 오전 6시 50분, 베니의 아파트 앞 헨릭의 볼보 → 베니의 침실과 부엌 (천장 리프트, 전동 휠체어, 냉장고에 붙은 전화번호)
+Henrik|A2|Klockan är tio i sju. Har du Jennys telefon?|7시 10분 전이야. 제니 폰 챙겼어?
+Elin|A1|Ja. Laddad.|네. 충전했어요.
+Henrik|B2|Jag står här tills du har kommit in, och när passet slutar klockan tre står jag på samma ställe igen, som om jag aldrig hade åkt.|네가 들어갈 때까지 여기 있을게. 그리고 근무 끝나는 3시엔 한 번도 안 떠났던 것처럼 같은 자리에 다시 서 있을 거다.
+Elin|B1|I torsdags visade hans mamma mig allt på två timmar. Lyften, rullstolen, medicinerna. Jag minns ungefär hälften.|목요일에 그 사람 엄마가 두 시간 만에 다 보여 줬어요. 리프트, 휠체어, 약. 절반쯤 기억나요.
+Henrik|B2|Då gör du som alla nya gör och frågar honom om resten. Det är int du som vet hur hans kropp fungerar, det är han, och det har han vetat i trettiofyra år.|그럼 신입들이 다 하는 대로 나머진 그 사람한테 물어. 그 사람 몸이 어떻게 돌아가는지 아는 건 네가 아니라 그 사람이야. 서른네 해 동안 알아 왔다고.
+Monika|A2|Hej, Jenny. Kom in. Han är vaken, han har varit vaken sen fem.|안녕, 제니. 들어와요. 깼어요, 다섯 시부터 깨 있었어요.
+Benny|B2|Jag hör dig, mamma. Jag ligger tre meter bort, inte i Norge, och om du fortsätter prata om mig som om jag inte vore här börjar jag ta betalt.|다 들려, 엄마. 나 3미터 떨어져 누워 있는 거지, 노르웨이에 있는 게 아니야. 계속 나 없는 사람처럼 내 얘기 하면 돈 받기 시작한다.
+Monika|B1|Jag måste gå nu, köket på restaurangen öppnar halv åtta. Ring om det är något, numret sitter på kylskåpet. Hej då!|난 이제 가야 해요. 식당 주방이 7시 반에 열거든요. 무슨 일 있으면 전화해요, 번호는 냉장고에 붙어 있어요. 갈게요!
+Elin|A1|Hej då! Vem var här i natt?|안녕히 가세요! 어젯밤엔 누가 있었어요?
+Benny|A2|Ingen kom i natt. Mamma sov på soffan. Som vanligt.|어젯밤엔 아무도 안 왔어. 엄마가 소파에서 잤지. 늘 그렇듯.
+Elin|A1|Okej. Vad gör vi först?|알았어요. 뭐부터 해요?
+Benny|B1|Först lyften. Selen ligger på stolen. Du har sett mamma göra det, så nu får vi se om du var vaken i torsdags.|먼저 리프트. 슬링은 의자 위에 있어. 엄마가 하는 거 봤으니까, 목요일에 정신 차리고 있었는지 보자고.
+Elin|A1|Så här?|이렇게요?
+Benny|A2|Nej. Andra hållet. Den gröna kanten mot huvudet.|아니. 반대로. 초록 테두리가 머리 쪽.
+Elin|A2|Förlåt. Ja e lite nervös.|죄송해요. 저 좀 긴장했어요.
+Benny|B1|Det är bra. De som inte är nervösa första dagen tappar en på golvet andra dagen.|좋아. 첫날 긴장 안 하는 사람들이 둘째 날 사람을 바닥에 떨어뜨리거든.
+Elin|A2|Och sen ner i rullstolen?|그다음 휠체어에 내려요?
+Benny|A2|Ja. Sen tröjan. Höger arm först.|응. 그다음 셔츠. 오른팔 먼저.
+Elin|A1|Höger. Okej.|오른팔. 네.
+Benny|A2|Inte så. Vänster arm först, annars blir jag origami.|그렇게 말고. 왼팔 먼저, 안 그러면 나 종이접기 돼.
+Elin|A2|Men du sa ju höger.|근데 오른팔이라고 하셨잖아요.
+Benny|B1|Jag vet. Jag sa fel med flit. Mamma visade dig vänster i torsdags, och jag ville se vem du lyssnar på.|알아. 일부러 틀리게 말했어. 목요일에 엄마가 왼팔 먼저 보여 줬잖아. 네가 누구 말을 듣는지 보고 싶었어.
+Elin|A1|Och?|그래서요?
+Benny|B2|Du lyssnade på mig, och det är rätt, för det är jag som bestämmer här. Men en riktigt bra assistent säger emot när jag säger något dumt, även om hon bara har jobbat här i en timme.|내 말을 들었지. 그게 맞아, 여기서 정하는 사람은 나니까. 근데 진짜 좋은 보조인은 내가 바보 같은 말을 하면 반박해. 여기서 일한 지 한 시간밖에 안 됐어도.
+Elin|B1|Nämen. Då säger ja emot nästa gång, om du lovar att inte säga fel med flit hela dagen.|어머. 그럼 다음엔 반박할게요. 하루 종일 일부러 틀리게 말하지 않겠다고 약속하시면요.
+Benny|A1|Inga löften. Kaffe?|약속은 없어. 커피?
+Elin|A1|Hur vill du ha det?|어떻게 드세요?
+Benny|B1|Svart, i den blå muggen med sugrör. Smörgåsen skär du i fyra bitar, sen äter jag själv.|블랙, 빨대 꽂은 파란 머그에. 샌드위치는 네 조각으로 잘라 줘, 그다음엔 내가 알아서 먹어.
+Elin|A1|Kan du hjälpa mig? Var är kniven?|저 좀 도와주실래요? 칼이 어디 있어요?
+Benny|A2|Andra lådan. Du lär dig snabbare än Ahmed.|두 번째 서랍. 아흐메드보다 빨리 배우네.
+Elin|A1|Vem är Ahmed?|아흐메드가 누구예요?
+Benny|B1|Den sista som kom på riktigt. Han slutade i oktober. Du är den första på fyra månader som har kommit två gånger.|마지막으로 진짜 왔던 사람. 10월에 그만뒀어. 넉 달 동안 두 번 온 사람은 네가 처음이야.
+Elin|A1|Dä låter ensamt.|외로우셨겠어요.
+Benny|B2|Ensamt är fel ord. Det är mer som att bo på ett hotell där personalen bara finns på hemsidan. Och en sak till: titta inte på mig när jag äter, för folk stirrar som om det vore ett trolleritrick.|외롭다는 건 틀린 단어야. 직원이 홈페이지에만 있는 호텔에 사는 거랑 더 비슷하지. 그리고 하나 더. 내가 먹을 때 쳐다보지 마. 사람들은 무슨 마술 묘기라도 보는 것처럼 빤히 보거든.
+Elin|A2|Då tittar ja på disken i stället.|그럼 대신 설거지 볼게요.
+# 장면 2 — 화요일 오후 3시 20분, 같은 집 부엌 (식은 커피, 의자에 걸린 식당 유니폼, 벽에 달린 잠금장치 태블릿, 닫힌 베니의 방문)
+Benny|A2|Mamma, jag har seminarium i en timme. Stäng dörren och prata inte om mig.|엄마, 나 한 시간 동안 세미나야. 문 닫고 내 얘기 하지 마.
+Monika|A1|Vi pratar om vädret, älskling.|날씨 얘기할게, 아들.
+Elin|A1|Vad läser han?|뭘 공부하세요?
+Monika|B1|Nationalekonomi, på distans från Umeå. Han har läst i två år, och han är bättre på siffror än hela familjen tillsammans.|경제학이요, 우메오에서 원격으로. 2년째 공부하는데, 숫자는 온 가족 합친 것보다 잘해요.
+Elin|A2|Vill du ha kaffe? Dä e kallt, men...|커피 드실래요? 식었지만...
+Monika|B2|Kallt kaffe är det enda jag hinner dricka. Jag har stått i köket på lunchrestaurangen vid verkstäderna sedan halv åtta, måndag till fredag, och när jag går därifrån kommer jag direkt hit.|식은 커피가 제가 마실 시간 있는 유일한 거예요. 월요일부터 금요일까지 정비소 단지 옆 점심 식당 주방에 7시 반부터 서 있고, 거기서 나오면 곧장 여기 와요.
+Elin|B1|Vem är hos Benny på dagen, då, när du är på jobbet?|그럼 어머님이 일하실 땐 낮에 누가 베니 씨 곁에 있어요?
+Monika|B1|Om ingen kommer är han ensam med larmet, och jag springer hit på lunchen. Den här veckan är det du.|아무도 안 오면 알람이랑 혼자 있고, 저는 점심시간에 뛰어와요. 이번 주엔 아가씨고요.
+Elin|A2|Och på kvällen? Vem kommer då?|그럼 저녁엔요? 그땐 누가 와요?
+Monika|A2|På nätterna kommer ingen. Ingen. Det är jag som är natten.|밤엔 아무도 안 와요. 아무도. 밤은 저예요.
+Elin|B1|Men ja trodde att Benny hade hjälp dygnet runt? Dä sa dom på kontoret.|근데 베니 씨는 24시간 도움을 받는 줄 알았어요. 사무실에서 그러던데요.
+Monika|B1|Schemat kommer på mejlen den första varje månad. Sju namn i januari, och jag har sett en enda av dem.|근무표는 매달 1일에 메일로 와요. 1월엔 이름이 일곱 개인데, 그중 본 사람은 딱 한 명이에요.
+Elin|A1|Vem då?|누구요?
+Monika|B1|Ahmed. Och han slutade i oktober. Ändå står han kvar på januarischemat, mitt i natten mellan tisdag och onsdag.|아흐메드요. 근데 그 사람은 10월에 그만뒀어요. 그런데도 1월 근무표에 아직 있어요, 화요일에서 수요일 넘어가는 한밤중에.
+Elin|B1|Har du sagt nåt till kontoret om att ingen kommer?|아무도 안 온다고 사무실에 말씀하셨어요?
+Monika|B2|Första året ringde jag varje vecka. Mattias sa att det var svårt att rekrytera, att hela branschen hade det så, och att Benny skulle förlora timmarna vid nästa omprövning om Försäkringskassan fick veta att de inte användes.|첫해엔 매주 전화했어요. 마티아스는 채용이 어렵다고, 업계 전체가 그렇다고, 시간이 안 쓰인다는 걸 사회보험청이 알면 다음 재심사 때 베니가 그 시간을 잃는다고 했어요.
+Elin|B2|Så du slutade ringa, eftersom du var rädd att det skulle drabba honom i stället.|그래서 전화를 그만두셨군요. 그게 오히려 베니 씨한테 불똥이 튈까 봐.
+Monika|B1|Jag står själv på schemat, som anhörigassistent. Åtta timmar om dagen. Jag är här sexton.|저도 근무표에 있어요, 가족 보조인으로. 하루 8시간. 실제론 16시간 여기 있어요.
+Elin|A2|Får du betalt för resten?|나머지는 돈 받으세요?
+Monika|B2|Nej. Och sedan Trygga Händer tog över för tre år sedan har jag inte sovit en hel natt. Han vänder sig i sömnen, larmet piper, och jag är vaken innan det har slutat pipa.|아뇨. 그리고 Trygga Händer가 맡은 3년 전부터 밤에 한 번도 푹 못 잤어요. 그 애가 자다가 몸을 돌리고, 알람이 울리면, 알람이 그치기도 전에 깨 있어요.
+Elin|A2|Ja förstår. Min mormor var också...|이해해요. 우리 외할머니도...
+Monika|B1|Nej, du förstår inte, gumman. Men det är snällt av dig att låtsas.|아니, 몰라요, 아가씨. 그래도 아는 척해 주니 고맙네요.
+Elin|A1|Förlåt.|죄송해요.
+Monika|B1|Det är inte ditt fel. Nu ska jag lära dig låset, så att du kan gå in själv i morgon.|아가씨 잘못 아니에요. 이제 잠금장치 알려 줄게요, 내일은 혼자 들어올 수 있게.
+Elin|A2|Är dä appen på plattan?|태블릿에 있는 그 앱요?
+Monika|B1|Ja. Varje nyckel har ett namn. Din heter Jenny, och här ser du vem som har öppnat dörren och när.|네. 열쇠마다 이름이 있어요. 아가씨 건 '제니'고, 여기서 누가 언제 문을 열었는지 보여요.
+Elin|A2|Vilka nycklar finns dä?|어떤 열쇠들이 있어요?
+Monika|B1|Min, Bennys, din och kontorets. Ahmeds stängdes av i oktober. Titta själv: efter sex på kvällen är det bara min.|제 거, 베니 거, 아가씨 거, 그리고 사무실 거. 아흐메드 건 10월에 꺼졌어요. 직접 봐요. 저녁 6시 이후엔 제 것뿐이에요.
+Elin|A1|Hela december?|12월 내내요?
+Monika|B2|Hela december, hela november. Kontorets kod användes två gånger före jul, när Mattias kom med mina tidrapporter som jag skulle skriva under, men de andras papper har jag aldrig fått se.|12월 내내, 11월 내내. 사무실 코드는 크리스마스 전에 두 번 쓰였어요. 마티아스가 제가 서명할 제 근무 기록을 들고 왔을 때요. 다른 사람들 서류는 한 번도 못 봤어요.
+Benny|A2|Mamma! Seminariet är slut. Toaletten, tack.|엄마! 세미나 끝났어. 화장실, 부탁해.
+Monika|A2|Jag kommer! Titta du, Jenny, jag är strax tillbaka.|가! 보고 있어요, 제니. 금방 올게요.
+Elin|A2|Får ja ta ett foto? Så ja minns hur man gör.|사진 찍어도 돼요? 어떻게 하는지 기억하려고요.
+Monika|A1|Gör det, gumman.|그래요, 아가씨.
+# 장면 3 — 목요일 오후 1시, 노르비크 센트룸 약국 위층 Trygga Händer Assistans 사무실 (빈칸이 다 채워진 근무 기록 한 묶음, 엘린의 코트 주머니 속 녹음기) → 헨릭의 볼보
+Mattias|A2|Jenny! Sätt dig. Hur går det hos Benny?|제니! 앉아. 베니네는 어때?
+Elin|A2|Bra, tror ja. Han e rolig.|좋은 것 같아요. 재밌는 분이에요.
+Mattias|B2|Rolig, ja. Han klagar på allt, så ta det inte personligt, och prata inte scheman med mamman, för hon blir bara stressad. Här är förresten dina tidrapporter, hela veckan, klart och fint.|재밌지. 뭐든 다 불평하니까 개인적으로 받아들이지 마. 그리고 엄마랑은 근무표 얘기 하지 마, 스트레스만 받으니까. 그건 그렇고 여기 네 근무 기록. 일주일 치, 깔끔하게 다 됐어.
+Elin|A2|Oj, vad mycket. Får ja läsa?|어머, 많네요. 읽어 봐도 돼요?
+Mattias|A1|Visst. Snabbt bara.|그럼. 빨리만.
+Elin|B1|Här står dä att ja jobbade sju till sju i måndags. Men ja gick ju hem klockan tre.|여기 제가 월요일에 7시부터 7시까지 일했다고 돼 있어요. 근데 저 3시에 집에 갔잖아요.
+Mattias|B1|Det är så schemat ser ut. Timmarna är beviljade, och då ska de rapporteras. Det är inte din grej.|근무표가 그렇게 생겼어. 시간은 승인된 거고, 그럼 보고돼야 해. 네가 신경 쓸 일 아냐.
+Elin|B1|Och natten till onsdag? Där står mitt namn också, fast ja aldrig var där.|그리고 수요일 새벽은요? 거기도 제 이름이 있어요, 저는 거기 간 적도 없는데.
+Mattias|B1|Det är jour. Du är anmäld som jour, och det räknas så. Ingen behöver sitta där och glo hela natten.|그건 대기야. 넌 대기로 등록돼 있고, 그렇게 계산돼. 밤새 거기 앉아서 멍하니 있을 필요는 없어.
+Elin|A2|Men ja var ju hemma och sov.|근데 저 집에서 자고 있었는데요.
+Mattias|A2|Precis. Det är jour. Du sov. Toppen.|그렇지. 그게 대기야. 넌 잤어. 좋아.
+Elin|A1|Ja förstår inte.|이해가 안 돼요.
+Mattias|A2|Skriv på för hela veckan. Alla gör så, det är bara pappersarbete.|일주일 치 다 서명해. 다들 그래, 그냥 서류 작업이야.
+Elin|B1|Nämen, kan ja ta med dä hem? Mamma säger alltid att man ska läsa allt två gånger innan man skriver under.|어머, 집에 가져가도 돼요? 엄마가 늘 서명하기 전에 다 두 번 읽으라고 하거든요.
+Mattias|B1|Din mamma låter klok, men papperen stannar här. Försäkringskassan ska ha dem på måndag.|네 엄마 현명하시네. 근데 서류는 여기 있어야 해. 사회보험청에 월요일까지 내야 하거든.
+Elin|A2|Då gör ja dä i morgon. Ja e så trött i dag.|그럼 내일 할게요. 오늘 너무 피곤해요.
+Mattias|B1|I morgon före lunch, då. Annars kommer ingen lön den tjugofemte, och det vill vi inte, eller hur?|그럼 내일 점심 전까지. 안 그러면 25일에 월급 안 나와. 그건 원하지 않잖아, 그렇지?
+Elin|A1|Nej, nej.|네, 그럼요.
+Mattias|B2|Bra. Vi tar hand om dem som tar hand om oss. Benny har haft otur med folk som inte orkar, men du verkar vara en sån som stannar.|좋아. 우린 우릴 챙기는 사람은 챙겨. 베니가 못 버티는 사람들 때문에 운이 없었는데, 넌 남는 타입 같아.
+Elin|A2|Hur många jobbar hos Benny?|베니 씨네서 몇 명이 일해요?
+Mattias|B2|Tillräckligt många. Det är vårt jobb att räkna, inte ditt. Ditt schema smsar jag varje söndag kväll, och i kväll har du honom själv till elva, eftersom Monika ska på något kalas. Lycka till med frågesporten, han vinner alltid.|충분히 많아. 세는 건 우리 일이지 네 일이 아냐. 네 근무표는 매주 일요일 저녁에 문자로 보낼게. 그리고 오늘 밤엔 11시까지 네가 혼자 맡아. 모니카가 무슨 파티에 간대서. 퀴즈쇼 행운을 빌어, 그 친구가 늘 이기거든.
+Henrik|A1|Lyser den fortfarande?|아직 불 켜져 있어?
+Elin|B1|Ja. Tjugotre minuter, hela samtalet. Den låg i rockfickan hela tiden.|네. 23분, 대화 전부요. 내내 코트 주머니에 있었어요.
+Henrik|A1|Skrev du på?|서명했어?
+Elin|A2|Nej. Jag sa att jag gör det i morgon.|아뇨. 내일 하겠다고 했어요.
+Henrik|B1|Bra. Då gör vi som Lars sa: du dokumenterar, men du deltar int.|좋아. 그럼 라르스 말대로 하는 거다. 기록은 하되 가담은 안 한다.
+Elin|B1|Bolaget fakturerar tjugofyra timmar om dygnet, men efter sex på kvällen är ingen här. Det syns i låsloggen, tre månader bakåt.|회사는 하루 24시간을 청구하는데, 저녁 6시 이후엔 아무도 없어요. 잠금장치 기록에 보여요, 석 달 전까지.
+Henrik|A2|Du fotade loggen?|기록 찍었어?
+Elin|B2|I tisdags, när Monika hjälpte Benny på toaletten. Hon sa ”gör det”, men hon trodde att jag ville komma ihåg hur låset fungerar, inte att jag samlade bevis.|화요일에요, 모니카가 베니 화장실 도울 때. "그래요" 하셨는데, 제가 잠금장치 쓰는 법을 기억하려는 줄 아셨지, 증거를 모으는 줄은 모르셨어요.
+Henrik|B2|Och det är Bennys dörr. Ett lås vet mer om ett hem än grannarna gör: när folk lägger sig, vem som kommer och vem som aldrig gör det.|그리고 그건 베니의 문이야. 자물쇠는 한 집에 대해 이웃보다 더 많이 알아. 언제 잠자리에 드는지, 누가 오고 누가 절대 안 오는지.
+Elin|B2|Det är hans dörr, hans liv och hans siffror. Jag har inte frågat honom om någonting, och varje gång han skämtar med mig känns det som om jag tar lite mer av honom.|그 사람 문이고, 그 사람 삶이고, 그 사람 숫자예요. 저는 그에게 아무것도 묻지 않았고, 그가 저한테 농담할 때마다 그에게서 조금씩 더 가져가는 기분이에요.
+Henrik|B1|Lars sa att du skulle fråga dig själv varje dag. Vad svarar du i dag?|라르스가 매일 스스로 물으라고 했지. 오늘은 뭐라고 답하냐?
+Elin|B2|Än så länge att det går att försvara, eftersom ingenting om honom publiceras utan hans samtycke. Men svaret blir tyngre för varje dag, och i kväll ska jag sitta ensam med honom i fem timmar.|아직은 정당화할 수 있다고요. 그에 관한 건 그의 동의 없이는 아무것도 보도되지 않으니까요. 근데 대답이 하루하루 무거워져요. 그리고 오늘 밤엔 그와 단둘이 다섯 시간을 있어야 해요.
+Henrik|B2|Jag står på parkeringen till elva, och skulle du skriva något om snö i Värnamo är jag uppe i trappan innan du hunnit lägga ifrån dig telefonen.|11시까지 주차장에 있을게. 베르나모에 눈 온다는 말이라도 쓰면, 네가 전화기를 내려놓기도 전에 계단 위에 가 있을 거다.
+Elin|A1|Med trasig värme?|고장 난 히터로요?
+Henrik|A2|Jag har ullstrumpor. Två par.|양모 양말 있어. 두 켤레.
+# 장면 4 — 목요일 저녁 7시 40분, 베니의 거실 (텔레비전 퀴즈쇼, 소파 위 모니카의 개어 둔 이불, 욕실의 얇은 벽, 엘린의 수첩)
+Benny|A2|Fråga sju. Lyssna nu. Jag har aldrig förlorat mot en assistent.|7번 문제. 잘 들어. 나 보조인한테 진 적 없어.
+Elin|A2|Hur många har du tävlat mot?|몇 명이랑 겨뤄 보셨는데요?
+Benny|A2|Två. Mamma räknas inte. Vilket år gick Sverige med i EU? Nittiofem. Där. Ett–noll.|두 명. 엄마는 안 쳐. 스웨덴이 EU에 가입한 해는? 95년. 봐. 1 대 0.
+Elin|A2|Ja hann inte ens tänka.|생각할 틈도 없었어요.
+Benny|B1|Det är det som är poängen. Folk tror att jag är långsam eftersom jag pratar långsamt. Men hjärnan sitter inte i rullstol.|그게 요점이야. 사람들은 내가 말을 천천히 하니까 느린 줄 알아. 근데 뇌는 휠체어에 안 앉아 있거든.
+Elin|B1|Pratar folk långsamt med dig också, som om du inte förstod?|사람들이 베니 씨가 못 알아듣는 것처럼 천천히 말하기도 해요?
+Benny|B2|Hela tiden, och högt, som om jag vore en turist som har gått vilse. Att jag pratar långsamt betyder inte att jag tänker långsamt, och de flesta lär sig aldrig skillnaden. Och du säger ”dä” precis som mormor gjorde. Hon bodde i Växjö.|맨날. 그것도 크게, 길 잃은 관광객한테 하듯이. 내가 천천히 말한다고 천천히 생각하는 건 아닌데, 대부분은 그 차이를 끝내 못 배워. 그리고 너 '대'라고 하는 게 딱 우리 외할머니 같아. 할머니는 벡셰에 사셨어.
+Elin|A2|Nämen! Då e vi nästan grannar.|어머! 그럼 거의 이웃이네요.
+Benny|B2|Värnamo och Växjö är inte grannar, det är som att påstå att Norrvik och Uppsala är grannar bara för att båda har en Ica. Min mormor gjorde ostkaka varje jul. Vad gjorde din?|베르나모랑 벡셰는 이웃 아니야. 노르비크랑 웁살라가 둘 다 이카가 있으니까 이웃이라고 우기는 거랑 같지. 우리 외할머니는 크리스마스마다 오스트카카를 만드셨어. 너희 할머니는?
+Elin|B1|Min mormor stickade mest. Hon sjöng när hon stickade, samma sång i trettio år.|우리 외할머니는 주로 뜨개질하셨어요. 뜨개질하면서 노래하셨어요, 30년 동안 같은 노래를.
+Benny|A1|Vilken sång?|무슨 노래?
+Elin|B1|”Uti vår hage”. Till slut var det det enda hon kände igen.|"우티 보르 하게"요. 마지막엔 그것만 알아보셨어요.
+Benny|B1|Det där var sant. Jag hör skillnad. När du pratar om henne försvinner Värnamo lite.|그건 진짜였네. 차이가 들려. 할머니 얘기할 때 베르나모가 조금 사라져.
+Elin|A2|Va? Vad menar du?|네? 무슨 뜻이에요?
+Benny|B1|Ingenting. Men får jag fråga en sak? Vad skriver du på toaletten?|아무것도. 근데 하나 물어봐도 돼? 화장실에서 뭘 써?
+Elin|A1|Skriver?|쓴다고요?
+Benny|B2|Väggarna här är tunna som tidrapporter. Varje gång du har hjälpt mig med något går du in på toaletten, och sedan hör jag en penna. Tre gånger i kväll.|여기 벽이 근무 기록지만큼 얇아. 네가 날 뭘 도와줄 때마다 화장실에 들어가고, 그다음엔 펜 소리가 들려. 오늘 밤에만 세 번.
+Elin|A2|Ja skriver bara inköpslistor.|그냥 장 볼 목록 쓰는 거예요.
+Benny|B2|Tre inköpslistor på två timmar? Jag har suttit på fyra möten med Försäkringskassan, och där skriver handläggarna hela tiden medan de låtsas lyssna. Det låter precis så. Spelar du in mig också?|두 시간에 장보기 목록 세 개? 사회보험청 면담만 네 번 했어. 거기 심사관들도 듣는 척하면서 계속 쓰거든. 소리가 딱 그래. 나 녹음도 해?
+Elin|A1|Nej. Inte här. Aldrig.|아뇨. 여기선 안 해요. 절대요.
+Benny|A2|Bra. Fråga nio. Vilken ö ligger Gamla stan på?|좋아. 9번 문제. 감라스탄은 어느 섬에 있게?
+Elin|A2|Stadsholmen, asså, det vet ju alla som har bott i stan typ en vecka.|스타드스홀멘이요, 아니, 그거 시내에 한 일주일만 살아 봐도 다 알잖아요.
+Benny|B1|Där. Där försvann Värnamo helt. Du lät som en tjej från Söder som är sen till tunnelbanan.|거기. 방금 베르나모가 완전히 사라졌어. 지하철 늦은 쇠데르 여자애 같았어.
+Elin|B2|Nämen, ja e bara trött. Har man varit vaken sedan sex på morron blir man ju lite konstig i munnen, dä vet väl alla.|어머, 그냥 피곤해서 그래요. 새벽 6시부터 깨 있으면 입이 좀 이상해지잖아요, 다들 알죠.
+Benny|A1|Lägg av!|웃기지 마!
+Elin|A1|Förlåt.|죄송해요.
+Benny|B2|Jag ska säga en sak, och sedan får du bestämma vad du gör med den. Jag har läst mitt beslut från Försäkringskassan, jag vet hur många timmar jag har, och eftersom jag läser nationalekonomi vet jag vad en timme kostar.|하나 말할게. 그다음 그걸로 뭘 할지는 네가 정해. 나 사회보험청 결정문 읽었어. 내가 몇 시간을 받는지 알고, 경제학을 공부하니까 한 시간이 얼마인지도 알아.
+Elin|A1|Och vad kostar den?|그래서 얼마예요?
+Benny|B1|Mer än vad mamma får, och mycket mer än vad någon har jobbat här. Jag har räknat på det i tre år.|엄마가 받는 것보다 많고, 여기서 누가 일한 것보다 훨씬 많아. 3년 동안 계산해 왔어.
+Elin|B2|Men om du har vetat det i tre år, varför har du då aldrig sagt något till någon?|근데 3년 동안 알고 계셨다면, 왜 아무한테도 아무 말 안 하셨어요?
+Benny|B2|För att Mattias sa att om jag klagade skulle Försäkringskassan se att timmarna inte användes, och då skulle de ta dem. Utan timmarna har mamma ingen lön alls, och då har jag ingen mamma som orkar.|마티아스가 내가 불평하면 사회보험청이 시간이 안 쓰인다는 걸 보게 되고, 그럼 그 시간을 빼앗을 거라고 했거든. 그 시간이 없으면 엄마는 월급이 아예 없고, 그럼 나한텐 버틸 힘 있는 엄마가 없는 거야.
+Elin|B1|Så du har hållit tyst för hennes skull.|그러니까 어머니를 위해 입 다물고 계셨던 거네요.
+Benny|B2|Jag är både den som blir lurad och den som de tjänar pengar på. Det är en ganska ovanlig position, även för någon som läser nationalekonomi.|난 속는 사람이면서 동시에 그 사람들이 돈을 버는 대상이야. 꽤 드문 처지지, 경제학 공부하는 사람한테도.
+Elin|B1|Dä låter som att du aldrig fick välja.|한 번도 고를 수 없으셨던 것 같아요.
+Benny|B1|Jag vet att folk tjänar pengar på mig. Jag visste bara inte att de var så lata.|사람들이 나로 돈 버는 건 알아. 그렇게 게으른 줄은 몰랐을 뿐이지.
+Elin|A1|Lata?|게으르다고요?
+Benny|B2|De orkar inte ens fuska ordentligt. Ahmed står kvar på schemat fast han slutade i oktober. Om man ska stjäla från staten kunde man åtminstone byta namn på spökena.|제대로 속일 의욕도 없어. 아흐메드는 10월에 그만뒀는데 아직 근무표에 있어. 국가 돈을 훔칠 거면 최소한 유령들 이름이라도 바꾸지.
+Elin|A2|Har du sett schemat?|근무표 보셨어요?
+Benny|B1|Mamma tror att jag inte läser hennes mejl. Hon har samma lösenord som till låset.|엄마는 내가 자기 메일 안 읽는 줄 알아. 잠금장치랑 비밀번호가 같거든.
+Elin|A1|Benny, ja...|베니 씨, 저...
+Benny|B1|Vänta. Du skulle säga emot när jag säger något dumt, minns du? Nu säger jag inget dumt. Nu frågar jag.|잠깐. 내가 바보 같은 말 하면 반박하기로 했지, 기억나? 지금은 바보 같은 말 하는 거 아니야. 지금은 묻는 거야.
+Elin|B1|Ja har inte ljugit om allt. Det om mormor var sant.|저 모든 걸 거짓말한 건 아니에요. 할머니 얘기는 진짜예요.
+Benny|B1|Jag vet. Det är därför jag frågar dig och inte Mattias.|알아. 그래서 마티아스가 아니라 너한테 묻는 거야.
+Elin|A2|Vad vill du veta?|뭘 알고 싶으세요?
+Benny|B1|Du pratar som min mormor i Växjö, men du antecknar som en snut. Vad är du?|넌 벡셰 우리 외할머니처럼 말하는데, 메모하는 건 짭새 같아. 너 뭐야?
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Kan du hjälpa mig?** | 저 좀 도와주실래요? | *Kan du …?*는 부탁의 가장 기본 틀. 이 화에서는 보조인 엘린이 칼 위치를 몰라 이용자 베니에게 이 말을 한다 — 개인보조에서 "아는 사람"이 누구인지 보여 주는 작은 뒤집기 |
+| `A2` | **Ingen kom i natt.** | 어젯밤엔 아무도 안 왔어. | *ingen*(아무도 ~않다)이 주어 자리에 오면 따로 *inte*가 필요 없다. *i natt*는 문맥에 따라 "어젯밤"과 "오늘 밤" 둘 다 된다(*Han kommer inte i natt.* = 오늘 밤 안 온다) |
+| `A2` | **På nätterna kommer ingen. Ingen. Det är jag som är natten.** | 밤엔 아무도 안 와요. 아무도. 밤은 저예요. | *på nätterna* = 밤마다(복수형으로 반복을 나타냄). *Det är jag som …* 는 강조 구문(분열문)으로 "바로 내가 ~이다". 근무표의 "야간 보조인" 칸을 실제로 채우는 사람이 누구인지를 한 문장에 담았다 |
+| `B1` | **Bolaget fakturerar tjugofyra timmar om dygnet, men efter sex på kvällen är ingen här.** | 회사는 하루 24시간을 청구하는데, 저녁 6시 이후엔 아무도 없다. | *om dygnet* = 하루(24시간)당. *dygn*은 낮과 밤을 합친 24시간 단위로, *dag*(낮·하루)와 구별된다. *fakturera* = 청구서를 발행하다(*faktura*의 동사형) |
+| `B2` | **Jag är både den som blir lurad och den som de tjänar pengar på.** | 난 속는 사람이면서, 그 사람들이 돈을 버는 대상이기도 해. | *både … och …* = ~이면서 ~이기도. *den som* = ~하는 사람. 전치사가 문장 끝으로 가는 구조(*tjäna pengar på någon* → *den som de tjänar pengar på*)는 스웨덴어 관계절의 전형이다 |
+| `A2` | **Inte så. Vänster arm först, annars blir jag origami.** | 그렇게 말고. 왼팔 먼저, 안 그러면 나 종이접기 돼. | *annars* = 그렇지 않으면. 지시를 내리는 사람은 이용자다 — 베니는 일부러 틀린 지시로 보조인이 "누구 말을 듣는지", 그리고 반박할 줄 아는지를 시험한다 |
+| 구어 | **Lägg av!** | 그만해! / 웃기지 마! | *lägga av* = 그만두다. 명령형으로 쓰면 상대의 변명이나 과장을 끊는 말이 된다. 친한 사이의 가벼운 핀잔부터 진짜 짜증까지 억양에 따라 달라진다 |
+| 용어 | **brukare** | (복지 서비스) 이용자 | *bruka*(쓰다, 이용하다)에서 온 행정 용어. 개인보조·재가 돌봄을 받는 사람을 가리킨다. 환자(*patient*)도 고객(*kund*)도 아닌 말을 고른 것은, 서비스를 "받는" 사람이 아니라 "쓰는" 사람이라는 뜻을 담기 위해서다 |
+
+## 저널리즘·법 메모
+스웨덴에서 자신이 참여한 대화를 상대 몰래 녹음하는 것은 원칙적으로 합법이다 — 형법의 도청죄(*olovlig avlyssning*)는 제3자가 남의 대화를 엿들을 때에 적용된다. 그래서 엘린이 사무실에서 마티아스와 나눈 23분은 녹음할 수 있었고, 이것은 "일하지 않은 시간에 서명하라"는 요구의 가장 강한 증거가 된다. 그러나 합법이라는 것과 정당하다는 것은 다르다. 언론윤리 규칙(*publicitetsregler*)은 사생활 보호를 요구하고, 2022년 신설된 *kränkande fotografering*(모욕적 촬영죄)은 집 안·화장실 같은 공간에서 동의 없이 사람을 찍는 것을 처벌한다 — 엘린이 찍은 것은 잠금장치 화면이지 베니가 아니며, 베니의 집에서는 아무것도 녹음하지 않는다. 그래도 그 기록은 베니의 문, 베니의 생활 리듬이다. 보도의 증거로 쓰려면 결국 베니 본인의 동의가 필요하고, 그 동의는 진실을 말한 뒤에만 구할 수 있다. 위장 취재가 끝나는 지점은 기자가 정하는 것이 아니라, 때로는 취재 대상이 먼저 정한다.
+
+## 문화·현안 메모
+- **개인보조와 *brukare*의 자기결정** — 스웨덴의 장애인 지원법(LSS)은 중증 장애인이 스스로 보조인을 고르고 일상을 지시할 권리를 보장한다. 기본적 필요가 주당 20시간을 넘으면 사회보험청이 개인보조 수당을 지급하고, 이용자는 지자체·민간 업체·협동조합 중 운영자를 고른다. 이용자가 "작업 지휘자(*arbetsledare*)"라는 원칙 때문에 베니는 지시를 시험할 수 있다.
+- **가족 보조인(*anhörigassistent*)** — 부모나 배우자가 업체에 고용되어 보조인으로 일하는 것은 흔하고 합법이다. 그러나 근무표에 적힌 시간보다 훨씬 오래, 무급으로 공백을 메우는 가족의 부담은 업계의 오래된 그늘이다. 2010년대 후반 재심사(*omprövning*)로 많은 이용자의 시간이 깎인 기억 때문에, "불평하면 시간을 잃는다"는 두려움은 지금도 이용자와 가족 사이에 남아 있다.
+- **디지털 잠금장치** — 재가 돌봄과 개인보조 현장에서는 열쇠 대신 앱으로 여는 디지털 잠금장치가 널리 쓰인다. 열쇠마다 이름과 시각이 남기 때문에, 누가 언제 실제로 문을 열었는지가 청구서와는 별개의 기록으로 쌓인다.
+- **벡셰와 스몰란드의 *ostkaka*** — 벡셰와 베르나모는 둘 다 스몰란드 지방이지만 차로 한 시간 넘게 떨어져 있다. *ostkaka*(치즈 케이크)는 우유를 응고시켜 구운 스몰란드 전통 디저트로, 잼과 생크림을 곁들여 크리스마스나 명절에 먹는다.
+
+## 다음 화 예고
+> 엘린은 처음으로 자기 목소리로 베니에게 모든 것을 털어놓고, 베니는 조건을 건다: "Det här är min historia också."
