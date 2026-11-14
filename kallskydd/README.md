@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (90/105화 완성)
+## 대본 목차 (91/105화 완성)
 
 ### 1부
 
@@ -144,3 +144,9 @@
 | 13 | [Mullvaden](episodes/k6_e13.md) | 두더지 |
 | 14 | [Noah](episodes/k6_e14.md) | 노아 |
 | 15 | [Lucia](episodes/k6_e15.md) | 루시아 |
+
+### 7부
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Klubbens bok](episodes/k7_e01.md) | 클럽의 장부 |
