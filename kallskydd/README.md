@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (24/105화 완성)
+## 대본 목차 (25/105화 완성)
 
 ### 1부
 
@@ -58,3 +58,4 @@
 | 7 | [Skolan](episodes/k2_e07.md) | 학교 |
 | 8 | [Rusta och matcha](episodes/k2_e08.md) | 준비와 매칭 |
 | 9 | [Arbetstillståndet](episodes/k2_e09.md) | 노동허가 |
+| 10 | [Kommunalrådet](episodes/k2_e10.md) | 시의회 의장 |

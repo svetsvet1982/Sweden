@@ -1,0 +1,187 @@
+@title 2부 10화 — Kommunalrådet
+@subtitle (시의회 의장)
+@meta 날짜|2026년 2월 24일 화요일 (스톡홀름 스포츠 방학 주간 — 알바는 카린과 셀렌에)
+@meta 장소|노르비크 시청 1층 기록 창구 (오전 10시) → 시청 앞 광장 주차장, 헨릭의 볼보 안 (오전 11시) → 시청 3층 시의회 의장실 (오후 3시) → Källaren (저녁 6시 반) → 다시 의장실 (밤 9시)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Agneta** (아그네타, 61, 노르비크 시청 기록 담당 공무원 *registrator*) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자 — 전화) · **Sandell** (페테르 산델, 55, 노르비크 시의회 의장, Arbetarpartiet) · **Linus** (리누스 에크, 29, 산델의 정무비서) · **Alva** (알바, 16, 빅토르의 딸 — 영상통화) · **Karin** (카린, 46, 빅토르의 전처 — 영상통화)
+@intro **지난 이야기** — 청소 하청 Glans Städservice AB에서 일하는 몽골 출신 투울은 15만 크로나를 주고 산 일자리의 월급을 매달 현금으로 사장 케네스 외른에게 돌려주고 있었다. 2월 18일 새벽, 헨릭의 망원렌즈는 Glans 사무실 문 앞에서 29분 동안 오간 봉투 열네 개와 손들만 담았다. 그리고 투울이 전화로 말했다. 자기 같은 사람이 마흔 명 더 있고, 모두 같은 지하실에 산다고.
+@intro 일주일 뒤, 2월 24일 화요일 오전 10시. 빅토르는 Glans에 1,100만 크로나를 지급하는 노르비크 시청의 기록 창구 앞에 번호표를 들고 서 있다. 지난 수요일 이메일로 보낸 공문서 청구에는 같은 한 줄짜리 답장만 세 번 돌아왔다. 스톡홀름은 스포츠 방학이고, 알바는 카린과 함께 셀렌의 스키장에 있다.
+# 장면 1 — 오전 10시, 노르비크 시청 1층 기록 창구 (번호표 기계, 유리창 너머의 기록관, 접수 날짜 도장, 빅토르가 들고 온 청구서 사본)
+Agneta|A1|Nummer fjorton?|14번이세요?
+Viktor|A1|Det är jag. God morgon.|저예요. 안녕하세요.
+Agneta|A2|God morgon. Vad gäller det?|안녕하세요. 무슨 일로 오셨어요?
+Viktor|B1|Jag mejlade en begäran om allmänna handlingar i onsdags. Jag har fått samma svar tre gånger, så jag kom hit själv.|지난 수요일에 공문서 청구를 메일로 보냈어요. 같은 답을 세 번 받아서 직접 왔습니다.
+Agneta|B1|Har du ett diarienummer? Då kan jag leta fram ärendet medan du väntar.|등록번호 있으세요? 그럼 기다리시는 동안 건을 찾아볼게요.
+Viktor|B1|KS 2026/112. Jag begär ut alla handlingar som rör upphandlingen av städtjänster. Och av hemtjänsten, från 2023 till 2025.|KS 2026/112요. 청소 용역 조달에 관한 모든 문서를 청구합니다. 그리고 재가 돌봄 조달도요. 2023년부터 2025년까지.
+Agneta|A2|Ja, här är det. Det är mycket papper.|네, 여기 있네요. 서류가 많네요.
+Viktor|B1|Och kvitton för kommunalrådets representation under 2025, som jag skrev på andra sidan.|그리고 2025년 시의회 의장 접대비 영수증도요. 뒷장에 적어 뒀어요.
+Agneta|A1|Det tar tid.|시간이 걸려요.
+Viktor|A1|Hur lång tid?|얼마나요?
+Agneta|A2|Det kan jag inte säga. Ärendet är under handläggning.|그건 말씀드릴 수 없어요. 검토 중이에요.
+Viktor|B2|Det var just det svaret jag fick i torsdags, i fredags och i går, och ingen har kunnat förklara vad det är som tar sådan tid.|목요일에도, 금요일에도, 어제도 바로 그 답을 받았어요. 그런데 뭐가 그렇게 오래 걸리는지는 아무도 설명을 못 하더군요.
+Agneta|B2|Anbuden kan innehålla affärshemligheter, och innan vi lämnar ut något måste någon läsa varje sida och pröva om uppgifterna omfattas av sekretess.|입찰서에 영업 비밀이 들어 있을 수 있어요. 뭘 내드리기 전에 누군가 한 장 한 장 읽고, 비밀로 보호되는 내용인지 따져 봐야 해요.
+Viktor|B2|Det förstår jag, men upphandlingarna är avslutade och avtalen är påskrivna. Då kan ni maskera det som är hemligt och lämna ut resten, sida för sida.|이해합니다. 하지만 조달은 끝났고 계약서에도 서명이 됐어요. 그러면 비밀인 부분만 가리고 나머지는 한 장씩 내주시면 됩니다.
+Agneta|B1|Det är inte jag som bestämmer det. Jag registrerar bara det som kommer in.|그건 제가 정하는 게 아니에요. 전 들어오는 걸 등록만 해요.
+Viktor|A1|Vem bestämmer, då?|그럼 누가 정하죠?
+Agneta|B2|Kommunledningskontoret. Sedan i höstas vill de se allt som rör upphandlingar innan det går ut, och då hamnar det i en kö som jag inte styr över.|시 행정총괄실이요. 작년 가을부터 조달 관련 문서는 나가기 전에 전부 보고 싶어 해요. 그러면 제가 어쩔 수 없는 줄에 서게 되는 거죠.
+Viktor|A2|Sedan i höstas? Bara för de här ärendena?|작년 가을부터요? 이 건들만요?
+Agneta|A2|Det har jag inte sagt.|그렇게 말한 적 없어요.
+Viktor|B2|Nej, det har ni inte. Men lagen säger att en allmän handling ska lämnas ut skyndsamt, och JO brukar mena samma dag eller inom några dagar. Ett ärende som ligger en vecka utan besked kan räknas som ett avslag.|네, 안 하셨죠. 그런데 법에는 공문서를 "지체 없이" 내줘야 한다고 돼 있고, 의회 옴부즈만(JO)은 보통 그걸 당일이나 며칠 안으로 봅니다. 아무 결정 없이 일주일 묵은 건은 거부로 볼 수도 있어요.
+Agneta|A2|Jag gör så gott jag kan. Vi är bara två här.|저도 최선을 다하고 있어요. 여기 둘밖에 없어요.
+Viktor|B1|Jag tror er, och det är inte er jag klagar på.|믿어요. 그리고 제가 불만인 건 당신이 아니에요.
+Agneta|A2|Vad vill du att jag ska göra?|그럼 제가 어떻게 해 드리면 될까요?
+Viktor|B1|Om ni inte kan lämna ut handlingarna i dag vill jag veta varför. Då vill jag ha ett skriftligt beslut, så att jag kan överklaga.|오늘 내주실 수 없다면 이유를 알고 싶어요. 그럼 서면 결정을 주세요. 불복할 수 있게요.
+Agneta|A2|Till kammarrätten? För några kvitton?|행정고등법원에요? 영수증 몇 장 때문에요?
+Viktor|A2|Om det behövs. Och kan ni stämpla min kopia?|필요하면요. 그리고 제 사본에 도장 좀 찍어 주시겠어요?
+Agneta|A1|Stämpla den?|도장을요?
+Viktor|B1|Med datumet då begäran kom in. Då vet vi båda hur länge den har legat.|청구가 들어온 날짜로요. 그래야 이게 얼마나 묵었는지 우리 둘 다 알죠.
+Agneta|B1|”Inkom 18 februari.” Vänta här. Kvittona ligger i en pärm, dem kan jag hämta själv. Resten ska jag fråga om.|"2월 18일 접수." 여기서 기다리세요. 영수증은 바인더에 있으니까 제가 직접 가져올 수 있어요. 나머지는 물어볼게요.
+Viktor|B1|Tack. Jag väntar här, hur lång tid det än tar.|고맙습니다. 여기서 기다릴게요. 얼마가 걸리든.
+# 장면 2 — 오전 11시, 시청 앞 광장 주차장, 헨릭의 볼보 안 (여전히 고장 난 히터, 보온병, 무릎 위의 영수증 열일곱 장, 헨릭의 노트북에 열린 스플리트 항구 사진, 스피커로 연결된 아미라)
+Henrik|A2|Hoppa in. Värmen funkar int, men kaffet är varmt.|타. 히터는 안 되지만 커피는 뜨거워.
+Viktor|B1|Sjutton sidor kvitton för representation. Luncher, kaffe och ett julbord för partiets folk. Men juli är helt tom.|접대비 영수증 열일곱 장. 점심, 커피, 당 사람들 송년 뷔페. 근데 7월은 완전히 비었어.
+Henrik|B1|Semester. Då äter man på egen bekostnad, eller på nån annans om man har tur.|휴가철이잖아. 그땐 자기 돈으로 먹지. 운이 좋으면 남의 돈으로.
+Viktor|B1|Vad har du hittat som du inte ville säga i telefon?|전화로는 말하기 싫었던 게 뭔데?
+Henrik|B2|I onsdags, när Kenneth kom ut och rökte, hade han en fleecetröja med ett båtnamn på bröstet. ”Morska Vila, Split.” Jag har den på bild.|지난 수요일에 케네스가 담배 피우러 나왔을 때, 가슴에 배 이름이 수놓인 플리스를 입고 있었어. "모르스카 빌라, 스플리트." 사진에 찍혔지.
+Viktor|A2|En fleecetröja. Det är inget bevis.|플리스 한 벌. 그건 증거가 아니야.
+Henrik|B2|Nä. Men när jag jobbade på tidningen i Visby hade vi en fotograf, Bosse, som numera seglar i Kroatien varje sommar. Honom ringde jag i torsdags.|아니지. 근데 내가 비스뷔 신문사 다닐 때 보세라는 사진기자가 있었거든. 요즘은 여름마다 크로아티아에서 배를 타. 목요일에 그 친구한테 전화했지.
+Viktor|A1|Och?|그래서?
+Henrik|B2|Han låg i samma hamn i Split i juli och tog hundratals bilder, och eftersom han är fotograf ut i fingerspetsarna har han sparat varenda en. Originalfilerna kom i går kväll.|7월에 스플리트 같은 항구에 정박해 있으면서 사진을 수백 장 찍었대. 뼛속까지 사진쟁이라 한 장도 안 지웠고. 원본 파일이 어젯밤에 왔어.
+Viktor|A1|Visa.|보여 줘.
+Henrik|A2|Där. Den stora vita båten bakom hans segelbåt. Läs namnet på aktern.|저기. 그 친구 범선 뒤에 있는 큰 흰 배. 선미에 적힌 이름 읽어 봐.
+Viktor|A1|Morska Vila.|모르스카 빌라.
+Henrik|B1|Titta på däcket nu. Han i vit skjorta med glaset är Kenneth. Och han bredvid, med solglasögonen, känner du igen honom?|이제 갑판을 봐. 잔 든 흰 셔츠가 케네스야. 그리고 옆에 선글라스 낀 사람, 알아보겠어?
+Viktor|A2|Peter Sandell. Kommunalrådet. Han hänger på en affisch i entrén.|페테르 산델. 시의회 의장. 로비 포스터에 걸려 있는 사람이야.
+Henrik|B1|Just det. Och han ser int ut som en man som har betalat för nånting.|바로 그거야. 그리고 뭐 하나 제 돈 낸 사람 얼굴은 아니지.
+Viktor|A1|Vems båt är det?|누구 배야?
+Henrik|B1|Ingens, egentligen. Den hyrs ut veckovis av ett charterbolag i Split. Fråga Amira, hon har suttit med den sedan i morse.|사실 누구 것도 아니지. 스플리트의 전세 회사가 주 단위로 빌려주는 배야. 아미라한테 물어봐. 아침부터 그거 붙잡고 있었어.
+Amira|B1|Hej! Jag hör er, men Henrik, din bil låter som om den håller på att gå sönder.|안녕! 다 들려. 근데 헨릭, 차 소리가 꼭 지금 망가지는 중인 것 같아.
+Henrik|A1|Den är äldre än du.|너보다 나이 많아.
+Amira|B2|Charterbolaget har en öppen bokningskalender på sin hemsida. Morska Vila var bokad från lördag den femte till lördag den tolfte juli, och det var den enda bokningen den sommaren som var längre än fyra dagar.|전세 회사 홈페이지에 예약 달력이 공개돼 있어. 모르스카 빌라는 7월 5일 토요일부터 12일 토요일까지 예약돼 있었고, 그해 여름 나흘 넘는 예약은 그거 하나였어.
+Viktor|A2|Men kalendern säger inte vem som bokade.|근데 달력엔 누가 예약했는지는 안 나오잖아.
+Amira|B1|Nej, men gästboken gör det. ”Tack för en fantastisk vecka! Kenneth och vänner, KÖ Förvaltning AB.” Publicerad den fjortonde juli.|안 나오지. 근데 방명록엔 나와. "환상적인 한 주 감사합니다! 케네스와 친구들, KÖ Förvaltning AB." 7월 14일에 올라왔어.
+Viktor|A1|KÖ Förvaltning?|KÖ Förvaltning?
+Amira|A2|Kenneth Örns andra bolag. Han äger hundra procent. Jag kollade hos Bolagsverket.|케네스 외른의 다른 회사. 지분 100퍼센트. 등기청에서 확인했어.
+Viktor|B1|Och bilden? Hur vet vi att den togs just den veckan och inte någon annan sommar?|그럼 사진은? 다른 여름이 아니라 딱 그 주에 찍혔다는 걸 어떻게 알아?
+Amira|B2|Filen har kvar all metadata, eftersom Bosse skickade originalet i stället för att lägga upp det på Facebook: den nionde juli 2025, kvart över sju på kvällen. Och hamnen har en webbkamera som sparar en bild varje timme.|파일에 메타데이터가 다 남아 있어. 보세가 페이스북에 올리지 않고 원본을 보냈으니까. 2025년 7월 9일 저녁 7시 15분. 그리고 그 항구엔 매시간 사진을 한 장씩 저장하는 웹캠이 있어.
+Henrik|A2|Och båten syns där?|거기에 배가 보여?
+Amira|B2|Vid samma kaj från den femte till den tolfte, med samma blå solsegel. Även om han skulle påstå att bilden är från en annan sommar, ligger andra veckan i juli fast.|5일부터 12일까지 같은 부두에, 같은 파란 차양을 달고. 설령 그 사람이 다른 해 여름 사진이라고 우겨도, 7월 둘째 주는 확정이야.
+Viktor|A2|Bilden togs i Split i juli. Och just den veckan finns det inga kvitton i hans pärm.|사진은 7월에 스플리트에서 찍혔다. 그리고 바로 그 주엔 그 사람 바인더에 영수증이 하나도 없고.
+Henrik|B2|Den som bjuds på båt ror int mot strömmen sen. Det sa de gamla fiskarna i Slite om tullkarlarna som fick sill gratis.|배 얻어 탄 사람은 나중에 물살 거슬러 노 못 젓지. 슬리테의 늙은 어부들이 청어를 공짜로 받아 가던 세관원들 보고 하던 말이야.
+Amira|B1|En sak till, och den är värre. Omsorgia Hemtjänst Norr AB, som vann hemtjänsten i Norrvik 2024. Styrelseledamot sedan 2022: Annika Sandell.|하나 더 있어. 이건 더 나빠. 2024년에 노르비크 재가 돌봄을 따낸 Omsorgia Hemtjänst Norr AB. 2022년부터 이사: 아니카 산델.
+Viktor|A1|Hans fru?|그 사람 부인?
+Amira|A2|Samma adress i folkbokföringen, femtiotre år. Det är hans fru.|주민등록상 같은 주소, 53세. 부인 맞아.
+Henrik|B2|Han har smort kråset på Kenneths båt, och hans fru sitter i styrelsen hos kommunens leverantör. Det är mycket på en gång för ett enda kommunalråd. Bosse säger ja till bilden, förresten, men int till sitt namn.|케네스 배에서 남의 돈으로 실컷 배를 불렸고, 부인은 시 납품업체 이사회에 앉아 있고. 의장 한 사람한테 한꺼번에 많기도 하네. 그리고 보세는 사진은 써도 되는데, 자기 이름은 안 된대.
+Viktor|B2|Intervjun är klockan tre. Vi låter honom säga sitt innan vi visar bilden, för den som redan har gett sin version har svårare att byta den. Bosses namn nämner vi aldrig.|인터뷰는 3시야. 사진은 그 사람이 할 말을 다 한 다음에 보여 준다. 자기 말을 이미 해 버린 사람은 그걸 바꾸기가 더 어렵거든. 보세 이름은 절대 입에 올리지 않고.
+# 장면 3 — 오후 3시, 시청 3층 시의회 의장실 (단단한 악수, 새로 찍은 시정 홍보 책자, 메모하는 정무비서, 테이블 위에 놓이는 요트 사진 한 장)
+Sandell|A2|Välkomna! Peter Sandell. Sätt er, sätt er.|어서 오세요! 페테르 산델입니다. 앉으세요, 앉으세요.
+Viktor|A2|Viktor Holm. Och det här är Henrik, som tar bilderna.|빅토르 홀름입니다. 이쪽은 사진 담당 헨릭이고요.
+Sandell|B1|Och det här är Linus, min politiska sekreterare. Han antecknar, om det är okej. Ta gärna en broschyr, vi har precis tryckt nya.|이쪽은 제 정무비서 리누스예요. 괜찮으면 메모를 할 겁니다. 홍보 책자도 하나 가져가세요. 막 새로 찍었거든요.
+Linus|A2|”Norrvik – nära till allt.” Det är vår nya slogan.|"노르비크 — 모든 것이 가까운 곳." 저희 새 슬로건이에요.
+Henrik|A1|Nära till allt. Bra.|모든 게 가깝다. 좋네요.
+Sandell|B1|Du skrev att du ville prata om välfärdsbrott. Det blev jag glad för, för ingen kommun har gjort mer än vi.|복지 범죄 얘기를 하고 싶다고 쓰셨죠. 반가웠어요. 우리만큼 많이 한 지자체가 없거든요.
+Viktor|A2|Vad har kommunen gjort, konkret?|구체적으로 시가 뭘 했나요?
+Sandell|B2|Vi har nolltolerans. Vi har infört kontroller av alla leverantörer, och vi var först i länet med att kräva att varje utförare redovisar sina underleverantörer.|무관용이에요. 모든 납품업체에 점검을 도입했고, 모든 사업자에게 하청업체를 보고하라고 요구한 것도 도내에서 우리가 처음이었어요.
+Viktor|A2|Glans Städservice, till exempel?|예를 들면 Glans Städservice요?
+Sandell|B1|Glans städar kommunhuset och tre skolor, och de har aldrig fått en enda anmärkning. Varför frågar du om dem?|Glans는 시청이랑 학교 세 곳을 청소하는데, 지적을 한 번도 받은 적이 없어요. 왜 그 회사를 물어요?
+Viktor|A1|Känner du ägaren?|사장을 아세요?
+Sandell|B2|Kenneth? Alla känner Kenneth, vi gick på samma gymnasium. Norrvik är en liten stad, och om jag slutade umgås med alla som gör affärer med kommunen skulle jag inte ha många vänner kvar.|케네스요? 케네스는 다들 알아요. 같은 고등학교를 다녔고요. 노르비크는 작은 도시예요. 시와 거래하는 사람들하고 다 안 만나면 저한텐 친구가 별로 안 남을 거예요.
+Viktor|A2|Nej. Har ni två träffats privat det senaste året?|아니죠. 지난 1년 사이에 두 분이 사적으로 만나신 적 있나요?
+Sandell|A2|Säkert, på någon fest eller en match. Jag har inget att dölja.|그렇겠죠, 무슨 파티나 경기장에서. 저는 숨길 게 없어요.
+Viktor|A1|Var var du i juli?|7월엔 어디 계셨어요?
+Sandell|A2|På semester, som alla andra. Hurså?|휴가였죠, 다들 그렇듯이. 왜요?
+Viktor|A1|Var?|어디서요?
+Sandell|B2|Lite här och där. Vi var i stugan en tid och reste sedan söderut. Om det här skulle vara en intervju om min semester borde du ha sagt det från början.|여기저기요. 별장에 좀 있다가 남쪽으로 여행을 갔어요. 이게 제 휴가에 관한 인터뷰였다면 처음부터 그렇게 말했어야죠.
+Henrik|A2|Får jag lägga en bild på bordet?|사진 한 장 테이블에 올려도 될까요?
+Sandell|A1|Vad är det?|그게 뭡니까?
+Linus|A1|Peter …|페테르…
+Viktor|B1|Split, den nionde juli förra året. Båten heter Morska Vila. Mannen i vit skjorta är Kenneth Örn, och mannen bredvid honom är du.|작년 7월 9일, 스플리트. 배 이름은 모르스카 빌라. 흰 셔츠 입은 남자가 케네스 외른이고, 그 옆 남자가 당신이에요.
+Sandell|A2|Var har ni fått den här ifrån?|이거 어디서 났어요?
+Viktor|B1|Det säger vi aldrig. Det är en av de få saker som vi aldrig säger.|그건 절대 말 안 합니다. 우리가 절대 말하지 않는 몇 안 되는 것 중 하나죠.
+Sandell|B1|Det var en privat semester. Kenneth bjöd några gamla vänner, och jag betalade min del.|사적인 휴가였어요. 케네스가 옛 친구 몇 명을 초대했고, 제 몫은 제가 냈어요.
+Viktor|A1|Hur då?|어떻게요?
+Sandell|A2|Hur då? Jag betalade, bara.|어떻게라니요? 그냥 냈죠.
+Viktor|A1|Swish? Kort? Kvitto?|스위시요? 카드요? 영수증은요?
+Sandell|A1|Kontant.|현금으로요.
+Henrik|A2|Kontant. I Kroatien. Till en vän.|현금. 크로아티아에서. 친구한테.
+Sandell|B2|Jag behöver inte sitta här och redovisa min plånbok för en tidning. Ni sa att den här intervjun skulle handla om välfärdsbrott, inte om vem som köpte vinet.|여기 앉아서 신문사한테 제 지갑 내역을 보고할 필요는 없어요. 이 인터뷰는 복지 범죄에 관한 거라고 하셨잖아요. 와인을 누가 샀느냐가 아니라.
+Viktor|B1|Det gör den också. Glans fick elva miljoner av kommunen i fjol, och samma sommar seglade ni på ägarens båt.|그 얘기 맞습니다. Glans는 작년에 시로부터 1,100만 크로나를 받았고, 같은 여름 의장님께서는 그 회사 사장의 배를 타셨습니다.
+Sandell|A2|”Ni”? Nu blev du plötsligt artig.|"의장님"이라. 갑자기 깍듯해지셨네.
+Henrik|A1|Det betyder int nåt gott.|좋은 징조는 아닙니다.
+Viktor|B1|Jag förstår. Då kan ni säkert förklara vem som betalade båten.|알겠습니다. 그렇다면 요트 값을 누가 냈는지도 분명 설명하실 수 있겠군요.
+Sandell|B1|Kenneths bolag hyrde den, och jag gav honom pengar för min del. Det är allt.|케네스 회사가 빌렸고, 저는 제 몫으로 그 사람한테 돈을 줬어요. 그게 다예요.
+Viktor|A1|Hur mycket?|얼마를요?
+Sandell|A2|Jag minns inte exakt. Några tusen.|정확히 기억 안 나요. 몇천.
+Viktor|B2|Enligt charterbolagets egen prislista kostar båten omkring hundrafemtiotusen kronor i veckan. Några tusen räcker knappt till dieseln.|전세 회사 자체 가격표에 따르면 그 배는 일주일에 15만 크로나 안팎입니다. 몇천이면 경유값도 겨우 됩니다.
+Sandell|B2|Det här är ett drev. Ni bestämde er för en rubrik långt innan ni kom hit, och nu letar ni bara efter en bild som passar till den.|이건 마녀사냥이에요. 여기 오기 한참 전에 제목을 정해 놓고, 이제 거기 맞는 사진만 찾고 있는 거죠.
+Viktor|B2|Vi har inte skrivit en rad ännu. Ni kommer att få alla våra frågor skriftligt, och tid att svara, innan vi publicerar någonting. Men det finns en sak till.|아직 한 줄도 쓰지 않았습니다. 저희가 뭘 내보내기 전에 모든 질문을 서면으로 받으실 거고, 답하실 시간도 드립니다. 그런데 한 가지가 더 있습니다.
+Linus|A2|Peter, vi har ett möte halv fyra.|페테르, 3시 반에 회의 있어요.
+Sandell|A2|Det får vänta. Fortsätt.|기다리라고 해. 계속하세요.
+Viktor|B1|Omsorgia Hemtjänst Norr AB vann kommunens upphandling av hemtjänst 2024. Annika Sandell har suttit i styrelsen sedan 2022.|Omsorgia Hemtjänst Norr AB가 2024년 시의 재가 돌봄 조달을 따냈습니다. 아니카 산델은 2022년부터 그 회사 이사회에 있고요.
+Sandell|B2|Min fru har sitt eget yrkesliv. Hon har jobbat inom omsorgen i trettio år, långt innan jag blev kommunalråd, och jag tänker inte låta henne straffas för att hon är gift med en politiker.|제 아내는 자기 직업이 있는 사람이에요. 제가 의장이 되기 한참 전부터 30년 동안 돌봄 분야에서 일했고요. 정치인하고 결혼했다는 이유로 아내가 벌을 받게 두진 않을 겁니다.
+Viktor|B2|Att er fru sitter i styrelsen för ett bolag som vinner kommunens upphandlingar är, oavsett avsikt, en uppenbar jävssituation.|부인께서 시 조달을 따내는 회사의 이사회에 계신다는 건, 의도가 어떻든 명백한 이해충돌 상황입니다.
+Sandell|B1|Jag har aldrig lagt mig i en upphandling. Det sköter tjänstemännen, inte politikerna.|저는 조달에 끼어든 적이 한 번도 없어요. 그건 공무원들이 하는 일이지 정치인이 하는 게 아니에요.
+Viktor|B2|Enligt protokollet från kommunstyrelsens möte den elfte juni 2024 var det ni som ledde mötet där tilldelningen godkändes, och ingen anmälde jäv.|2024년 6월 11일 시 집행위원회 회의록에 따르면, 낙찰을 승인한 그 회의를 주재하신 분이 의장님이었고, 이해충돌을 신고한 사람은 아무도 없었습니다.
+Sandell|B1|Vem mer har sett den där bilden? … Jag tror att ni ska gå nu.|그 사진 또 누가 봤어요? … 이제 그만 가 주셨으면 합니다.
+Viktor|B1|Frågorna kommer i kväll, med svar senast på torsdag klockan tolv. Tack för att ni tog emot oss.|질문은 오늘 밤 보내겠습니다. 답은 목요일 12시까지 주시면 됩니다. 만나 주셔서 감사합니다.
+# 장면 4 — 저녁 6시 반, Källaren (아미라의 모니터에 나란히 띄운 입찰 평가표 세 장, 가려진 이름 두 개, 빅토르의 휴대폰에 울리는 영상통화)
+Amira|B1|Mejlet från kommunen kom tjugo i sex, två timmar efter att ni hade lämnat kommunhuset. Trehundra sidor, och en del är maskerat.|시청 메일이 5시 40분에 왔어. 둘이 시청을 나오고 두 시간 뒤에. 300쪽이고, 일부는 가려져 있어.
+Viktor|A2|Hon höll ord, registratorn.|약속 지켰네, 그 기록관.
+Henrik|A1|Och?|그래서?
+Amira|B2|Det mesta är prisbilagor, men anbudsutvärderingen finns med. Tre upphandlingar: städningen av kommunhuset 2023, hemtjänsten 2024 och skolstädningen 2025. Titta på slutpoängen.|대부분 가격 부속서인데, 입찰 평가서가 들어 있어. 조달 세 건이야. 2023년 시청 청소, 2024년 재가 돌봄, 2025년 학교 청소. 최종 점수 봐.
+Viktor|A1|Läs högt.|소리 내서 읽어 봐.
+Amira|B1|Kommunhuset 2023: Glans 87 poäng, tvåan 86. Hemtjänsten 2024: Omsorgia Hemtjänst Norr 91, tvåan 90. Skolorna 2025: Glans igen, 78 mot 77.|2023년 시청: Glans 87점, 2위 86점. 2024년 재가 돌봄: Omsorgia Hemtjänst Norr 91점, 2위 90점. 2025년 학교: 또 Glans, 78 대 77.
+Henrik|A1|En poäng. Tre gånger.|1점. 세 번.
+Viktor|A2|Var de billigast?|제일 쌌어?
+Amira|B2|Nej, och det är det sjuka. Alla tre gångerna hade tvåan lägre pris men förlorade ändå, eftersom Glans och Omsorgia fick full pott på kvalitet. Kriteriet heter ”förmåga till samverkan med kommunen”, och det poängsätts av en utvärderingsgrupp.|아니, 그게 어이없는 거야. 세 번 다 2위가 더 쌌는데도 졌어. Glans랑 Omsorgia가 품질 점수에서 만점을 받았거든. 기준 이름이 "시와의 협력 역량"이고, 평가단이 점수를 매겨.
+Viktor|A2|Vilka sitter i gruppen?|평가단엔 누가 있어?
+Amira|B1|Två namn är maskerade. Det tredje är detsamma alla tre gångerna: Linus Ek, politisk sekreterare.|두 명은 가려져 있어. 세 번째는 세 번 다 같아. 리누스 에크, 정무비서.
+Henrik|A2|Han med broschyren. Han satt bredvid och antecknade.|책자 든 그 친구. 옆에 앉아서 메모하던.
+Viktor|B2|En politisk sekreterare är politikerns förlängda arm. Att han sätter kvalitetspoäng i tre upphandlingar som avgörs med en poäng kan vi inte kalla mutor, men vi kan visa det, svart på vitt.|정무비서는 정치인의 손발이야. 그 사람이 1점 차로 갈린 조달 세 건에서 품질 점수를 매겼다는 걸 뇌물이라고 부를 순 없어. 하지만 보여 줄 순 있지, 문서로 똑똑히.
+Amira|B1|Och båten kostade hundrafemtiotusen för en vecka. Lika mycket som Tuul betalade för sitt jobb.|그리고 배는 일주일에 15만이었어. 투울이 일자리 값으로 낸 거랑 똑같아.
+Henrik|A2|Hur är det med henne?|그 사람은 좀 어때?
+Amira|B1|Hon träffade juristen i torsdags. Nu har hon ett ärende, och för första gången har hon någon som ringer åt henne.|목요일에 법률가를 만났어. 이제 정식 사건이 생겼고, 처음으로 대신 전화를 걸어 주는 사람이 생겼어.
+Viktor|B2|Då väntar vi med frågorna till Kenneth tills juristen säger att det är säkert. Sandell får svara på torsdag, men Kenneth ska inte behöva gissa vem som har pratat.|그럼 케네스한테 보낼 질문은 법률가가 안전하다고 할 때까지 미룬다. 산델은 목요일까지 답하면 되지만, 케네스가 누가 말했는지 짐작할 여지는 주면 안 돼.
+Henrik|B2|Klokt. Och på fredag går vi igenom Elins sista pass hos Benny, så att hon är ute innan nån hinner undra varför Jenny ställer så många frågor.|현명하네. 그리고 금요일엔 엘린의 베니네 마지막 근무를 점검하자. 제니가 왜 그렇게 질문이 많은지 누가 궁금해하기 전에 빠지게.
+Viktor|A2|Det är Alva. Videosamtal. Två minuter.|알바야. 영상통화. 2분만.
+Alva|A2|Pappa! Ser du mig? Vi är högst upp i backen.|아빠! 나 보여? 우리 슬로프 맨 꼭대기야.
+Viktor|A2|Jag ser mest snö och en röd mössa.|눈이랑 빨간 모자밖에 안 보여.
+Alva|A2|Pappa, jag ramlade typ tio gånger. Mamma filmade allt.|아빠, 나 열 번은 넘어졌어. 엄마가 다 찍었어.
+Viktor|A1|Tio gånger?|열 번?
+Alva|B1|Typ. Första gången i liften, när jag skulle hoppa av, och sedan bara hela tiden. Det var sjukt pinsamt, en sjuåring körde om mig.|대충. 처음엔 리프트에서 내리다가, 그다음부턴 그냥 계속. 진짜 쪽팔렸어. 일곱 살짜리가 나를 추월했다니까.
+Karin|B1|Hej, Viktor! Elva gånger, faktiskt, för jag räknade varenda en.|안녕, 빅토르! 정확히는 열한 번이야. 내가 하나하나 다 셌거든.
+Viktor|A1|Elva! Hej, Karin.|열한 번! 안녕, 카린.
+Alva|B1|Du skrattar! Mamma, han skrattar. Det har jag inte hört sedan jul.|웃는다! 엄마, 아빠 웃어. 크리스마스 이후로 처음 들어.
+Viktor|A2|Jag har inte skrattat en enda gång i dag. Tack, gumman.|오늘 한 번도 안 웃었어. 고마워, 우리 딸.
+Alva|B1|Du borde åka med nästa år. Du skulle ramla minst tjugo gånger.|아빠도 내년엔 같이 가. 아빠는 적어도 스무 번은 넘어질걸.
+Viktor|B2|Skicka filmen, alla elva. Och om jag lovar att lämna telefonen hemma kanske jag faktiskt följer med nästa år.|영상 보내 줘, 열한 번 다. 그리고 휴대폰을 집에 두고 오겠다고 약속하면, 내년엔 정말 따라갈지도 몰라.
+# 장면 5 — 밤 9시, 시청 3층 시의회 의장실 (복도 불이 하나둘 꺼진다, 책상 위에 엎어 둔 홍보 책자, 산델의 휴대폰)
+Sandell|A1|Linus, är du kvar?|리누스, 아직 있어?
+Linus|B1|Ja. Journalisten har mejlat sina frågor, tolv stycken. Han vill ha svar senast på torsdag klockan tolv.|네. 그 기자가 질문을 메일로 보냈어요. 열두 개요. 목요일 12시까지 답을 달래요.
+Sandell|A2|Svara inte. Gå hem nu, och stäng dörren efter dig.|답하지 마. 이제 집에 가. 나가면서 문 닫고.
+Linus|A1|God natt, Peter.|안녕히 계세요, 페테르.
+Sandell|A2|Han vet om båten. … Vilken tjej? Vad menar du, hos Benny?|그 사람 요트 건을 알아. … 무슨 여자? 베니네 집이라니, 무슨 말이야?
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vems båt är det?** | 누구 배야? | *vem*(누구)의 소유격 *vems* = 누구의. 뒤에 오는 명사는 한정형이 아니라 기본형(*vems båt*, *vems telefon*). 대답은 *Det är Kenneths.* 처럼 이름에 -s만 붙이면 된다. 헨릭의 대답 "Ingens"(아무의 것도 아니다)는 *ingen*의 소유격 |
+| `A1` | **Det tar tid. — Hur lång tid?** | 시간이 걸려요. — 얼마나요? | *ta tid* = 시간이 걸리다(직역 "시간을 가져가다"). *Hur lång tid tar det?* 은 일상에서 가장 많이 쓰는 질문 중 하나. 관청의 상투적인 답을 두 단어로 되받는 빅토르의 화법 |
+| `A2` | **Bilden togs i Split i juli.** | 사진은 7월에 스플리트에서 찍혔다. | *-s* 수동태 과거: *ta* → *togs*(찍혔다). 누가 찍었는지 말하지 않아도 되는 형태라 취재원을 감출 때도 쓸모가 있다. 달 이름은 소문자로 쓰고 "~월에"는 *i*: *i juli, i februari* |
+| `B1` | **Jag begär ut alla handlingar som rör upphandlingen av städtjänster.** | 청소 용역 조달에 관한 모든 문서를 청구합니다. | *begära ut* = (공문서를) 내달라고 청구하다 — 공문서 공개 원칙의 핵심 동사. *handling* = 문서, *som rör* = ~에 관한(관계절). 이유도, 신분도 밝힐 필요가 없다는 것이 이 문장의 힘이다 |
+| `B1` | **Då vill jag ha ett skriftligt beslut, så att jag kan överklaga.** | 그럼 서면 결정을 주세요. 불복할 수 있게요. | *så att* = ~하도록(목적). *överklaga* = 불복하다, 상급 기관에 다투다. 거부는 결정이고, 결정이 있어야 법원에 갈 수 있다 — 정중하지만 가장 날카로운 문장 |
+| `B2` | **Att er fru sitter i styrelsen för ett bolag som vinner kommunens upphandlingar är, oavsett avsikt, en uppenbar jävssituation.** | 부인께서 시 조달을 따내는 회사의 이사회에 계신다는 건, 의도가 어떻든 명백한 이해충돌 상황입니다. | *Att*절 전체가 주어(~라는 것은). 삽입구 *oavsett avsikt* = 의도와 상관없이. *er* = *ni*의 소유격 — 빅토르가 *du*(*din fru*)에서 *ni*로 바꾼 순간 문장의 온도가 내려간다 |
+| 관용구 | **smörja kråset** | 실컷 먹고 마시다 → 남의 돈으로 배를 불리다 | *kråset* = 새의 모이주머니(목). 직역 "모이주머니에 기름칠하다". 보통 *på någon annans bekostnad*(남의 비용으로)와 함께 쓰여 비꼬는 뜻이 된다: *Han smorde kråset på skattebetalarnas bekostnad.* |
+| 용어 | **anbudsutvärdering** | 입찰 평가 | *anbud*(응찰, 입찰서) + *utvärdering*(평가). 가격과 품질 기준에 점수를 매겨 낙찰자를 고르는 절차. 가격은 숫자지만 "품질"은 사람이 매기는 점수다 — 1점 차가 세 번 반복될 때 봐야 할 곳은 평가한 사람의 명단이다 |
+
+## 저널리즘·법 메모
+스웨덴 출판자유법(TF) 2장은 누구에게나 공문서(*allmän handling*)를 볼 권리를 주고, 기관은 청구를 "지체 없이"(*skyndsamt*) 처리해야 한다. 의회 옴부즈만(JO)은 보통 당일, 검토가 필요해도 며칠 안을 기준으로 보며, 이유 없는 지연은 사실상 거부로 간주될 수 있다. 기관은 청구인의 신원이나 목적을 캐물을 수 없고(*efterfrågeförbud*), 비밀로 보호되는 부분이 있으면 그 부분만 가리고(*maskera*) 나머지를 내줘야 한다 — 입찰서의 절대적 비밀은 낙찰 결정까지만 유지된다. 거부할 때는 청구인이 원하면 사유와 불복 방법을 적은 서면 결정을 내야 하고, 그 결정은 행정고등법원(*kammarrätten*)에서 다툴 수 있다. 접수 날짜 도장 하나, 비어 있는 7월의 영수증 바인더 하나가 기사 증거가 되는 이유다. 대면 인터뷰에서 빅토르는 상대가 먼저 말하게 한 뒤 증거를 보이고, 보도 전에 서면 질문과 답변 기한을 준다(반론권). 사진을 준 옛 동료의 이름은 끝까지 밝히지 않는다 — 출처를 묻는 정치인에게 하는 "Det säger vi aldrig"가 곧 *källskydd*다.
+
+## 문화·현안 메모
+- **스포츠 방학(*sportlov*)** — 2월 말~3월 초 일주일, 지역마다 주가 다르다(스톡홀름은 보통 9주 차). 많은 가족이 달라르나의 셀렌(*Sälen*)이나 예믈란드의 오레(*Åre*) 같은 스키장으로 떠나고, 남은 사람들의 직장은 눈에 띄게 조용해진다.
+- **시의회 의장(*kommunalråd*)과 정무비서** — *kommunalråd*는 지자체 정치의 상근 지도자로, 그중 가장 높은 사람이 대개 집행위원회(*kommunstyrelsen*) 의장을 겸한다. 정무비서(*politisk sekreterare*)는 정당이 임명하는 정치적 보좌진이라, 공무원이 맡아야 할 입찰 평가에 들어가 있다면 그 자체로 의문이다. 이해충돌(*jäv*)이 있는 사람은 그 안건 심의에서 빠져야 하고(*anmäla jäv*), 그 기록은 공개 회의록에 남는다.
+- ***Du*와 *ni*** — 1960~70년대 "du 개혁" 이후 스웨덴에서는 처음 만난 사람, 상사, 장관에게도 *du*를 쓴다. 그래서 한 사람에게 *ni*를 쓰면 공손함보다 거리를 두는 차가움으로 들릴 수 있다. 산델이 "Ni? Nu blev du plötsligt artig."라고 받아치는 것도 그 온도 변화를 알아챘기 때문이다.
+- ⚠️ 노르비크 시, 산델 부부, 리누스 에크, Glans Städservice AB, KÖ Förvaltning AB, Omsorgia Hemtjänst Norr AB, 요트 *Morska Vila*와 그 전세 회사, 점수는 모두 허구다.
+
+## 다음 화 예고
+> 2월 27일 금요일, 엘린의 마지막 야간 근무. 새벽 1시, 베니의 현관문을 두드리는 남자가 부르는 이름은 "제니"가 아니다.
