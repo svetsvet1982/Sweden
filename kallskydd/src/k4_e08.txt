@@ -1,0 +1,188 @@
+@title 4부 8화 — Middagen i Luleå
+@subtitle (룰레오의 만찬)
+@meta 날짜|2026년 5월 29일 금요일 저녁 8시 ~ 5월 30일 토요일 0시 반경
+@meta 장소|룰레오 강변 호텔 꼭대기 층 개인 연회실 (저녁 8시) → 같은 층 복도 끝 화장실 (밤 10시 반) → 다시 연회실, 디저트 (밤 11시) → 호텔 512호 (자정 무렵)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자 — 오늘 밤은 투자 컨설턴트 "Erik Sand") · **Rydberg** (칼요한 뤼드베리, 61, Arktis Mineral AB 이사회 의장) · **Lindbäck** (토마스 린드베크, 49, 노르보텐 지역의원, Samlingspartiet) · **Han** (한웨이궈, 52, Arktis 이사회 기술 고문) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자 — 호텔 주차장의 차 안) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자 — 스톡홀름에서 원격)
+@intro **지난 이야기** — 빅토르는 처음으로 직접 위장 잠입을 하기로 했다. 칼마르 출신 전직 은행가, 투자 컨설턴트 "Erik Sand". 소피아는 조건을 종이에 적어 함께 서명했고, 라르스는 배역과 범죄 사이에 선을 그었으며, 엘린은 안경과 짧은 수염, 느린 모음, 그리고 "매일 밤 진짜 이름을 소리 내 말하라"는 규칙을 남겼다. 소개 메일을 보낸 지 1시간 20분 만에 뤼드베리의 초대장이 왔다 — 금요일 저녁 8시, 룰레오.
+@intro 나흘 뒤, 룰레 강이 내려다보이는 호텔 꼭대기 층. 안주머니의 위장 휴대폰은 7시 55분부터 녹음 중이고, 헨릭은 512호 창문 아래 주차장에 차를 세워 두었다. 금융권 취재원은 한웨이궈가 뤼드베리의 만찬에는 절대 오지 않는다고 했다. 둥근 식탁에는 이름 카드가 네 장 놓여 있다.
+# 장면 1 — 저녁 8시, 꼭대기 층 개인 연회실 (강 쪽 통유리, 네 사람 자리의 둥근 식탁, 이름 카드 네 장, 부르고뉴 와인)
+Rydberg|A2|Erik! Välkommen till Luleå. Du hittade hit.|에릭! 룰레오에 잘 오셨어요. 길은 잘 찾았네요.
+Viktor|A1|Carl-Johan. Tack för inbjudan.|칼요한. 초대해 주셔서 감사합니다.
+Rydberg|B1|Det här är Tomas Lindbäck, regionråd här i Norrbotten. Utan Tomas händer ingenting norr om Skellefteå.|이쪽은 토마스 린드베크, 여기 노르보텐 지역의원이에요. 토마스 없이는 셸레프테오 북쪽에선 아무 일도 안 일어나죠.
+Lindbäck|A2|Han överdriver. Lite grann. Tomas.|과장이 심하네요. 아주 조금. 토마스예요.
+Viktor|A1|Erik Sand. Trevligt.|에릭 산드입니다. 반갑습니다.
+Lindbäck|A2|Har du ett kort? Jag samlar på visitkort.|명함 있어요? 내가 명함 모으는 게 취미라서.
+Viktor|B2|Självklart. Bara namn och nummer – den som behöver en lång titel på sitt kort har oftast inget annat att erbjuda.|물론이죠. 이름이랑 번호뿐이에요. 명함에 긴 직함이 필요한 사람은 대개 그거 말곤 내놓을 게 없거든요.
+Rydberg|B1|Och den fjärde gästen har du säkert hört talas om. Weiguo kom med sista planet från Stockholm.|그리고 네 번째 손님은 분명 들어 보셨을 거예요. 웨이궈는 스톡홀름에서 막차 비행기로 왔어요.
+Han|A2|Han Weiguo. Det gläder mig, herr Sand.|한웨이궈입니다. 반갑습니다, 산드 씨.
+Viktor|A1|Detsamma.|저도 반갑습니다.
+Rydberg|B1|Weiguo går nästan aldrig på mina middagar, så du ska veta att det här är en ära. Jag har satt dig mitt emot honom.|웨이궈는 내 만찬엔 거의 안 와요. 그러니 이건 영광인 줄 아세요. 자리는 그 사람 맞은편으로 해 뒀어요.
+Viktor|A1|Mitt emot. Utmärkt.|맞은편이라. 훌륭하네요.
+Han|B1|Jag är bara rådgivare. Jag sitter där man sätter mig, och för det mesta lyssnar jag.|저는 그저 고문입니다. 앉으라는 데 앉고, 대개는 듣기만 하지요.
+Rydberg|B2|Vin, Erik? En bourgogne från ett år då ingen av oss hade hört talas om sällsynta jordartsmetaller.|와인 드실래요, 에릭? 우리 중 누구도 희토류란 말을 들어 본 적 없던 해의 부르고뉴예요.
+Viktor|A1|Gärna. Lite.|좋죠. 조금만.
+Rydberg|B2|Det här är representation, så ta för dig. Skatteverket gråter lite över vinet, men Arktis betalar gärna för ett gott samtal.|이건 접대니까 마음껏 드세요. 국세청은 와인 때문에 좀 울겠지만, Arktis는 좋은 대화라면 기꺼이 돈을 내요.
+Lindbäck|A2|Och maten? Jag är hungrig som en varg.|음식은요? 늑대처럼 배고픈데.
+Rydberg|B1|Först löjrom från Kalix, sedan ren. Lokalt och hållbart – det är vad investerarna vill höra nuförtiden.|먼저 칼릭스산 뢰이롬(작은 흰송어 알), 그다음 순록. 로컬하고 지속 가능하게. 요즘 투자자들은 그런 말을 듣고 싶어 하거든요.
+Viktor|A1|Skål!|건배!
+Lindbäck|A2|Skål! Var kommer du ifrån, Erik?|건배! 에릭은 어디 출신이에요?
+Viktor|A2|Jag kommer från Kalmar. Men jag har bott i Stockholm i tjugo år.|칼마르에서 왔어요. 그래도 스톡홀름에서 산 지 20년 됐죠.
+Lindbäck|A1|Fru? Familj?|부인은요? 가족은?
+Viktor|B1|Skild sedan tre år. Hon fick huset i Kalmar, och jag fick golfklubborna.|3년 전에 이혼했어요. 그 사람은 칼마르 집을 갖고, 나는 골프채를 가졌죠.
+Rydberg|A1|Ett dåligt byte, Erik!|손해 보는 거래였네요, 에릭!
+Viktor|A2|Skilsmässan? Äh, det bästa som har hänt mig. Skål för friheten!|이혼요? 아, 제게 일어난 최고의 일이죠. 자유를 위해 건배!
+Lindbäck|A2|För friheten! Och barn, har du några?|자유를 위해! 그럼 아이는 있어요?
+Viktor|B1|En dotter… skulle jag ha velat ha. Men nej, inga barn. Det blev aldrig så.|딸 하나… 있었으면 했죠. 하지만 아뇨, 아이는 없어요. 그렇게 되질 않더라고요.
+Han|B1|Barn är en investering med mycket lång horisont. Jag förstår dem som avstår.|아이는 투자 기간이 아주 긴 투자지요. 포기하는 분들도 이해합니다.
+Viktor|A1|Precis. Absolut.|그렇죠. 물론이죠.
+Rydberg|B1|Nog om kärlek och barn. Weiguo, berätta för Erik varför vi sitter här i kväll.|사랑이랑 아이 얘긴 이쯤 하죠. 웨이궈, 우리가 오늘 밤 왜 여기 앉아 있는지 에릭한테 말해 줘요.
+# 장면 2 — 저녁 8시 반부터, 같은 연회실 (순록 등심, 두 번째 병, 창밖에서 좀처럼 내려가지 않는 해)
+Han|B2|Arktis har ansökt om status som strategiskt projekt enligt EU:s förordning om kritiska råmaterial. Kommissionen beslutar om listan, men Sverige måste ge sitt godkännande.|Arktis는 EU 핵심원자재법에 따라 전략 프로젝트 지위를 신청했습니다. 목록은 집행위원회가 결정하지만, 스웨덴이 승인을 해 줘야 합니다.
+Viktor|A2|Och sedan går allt fortare?|그럼 그다음엔 전부 빨라지고요?
+Han|B2|En strategisk status förkortar tillståndsprocessen. Men någon måste fortfarande öppna dörren.|전략 지위는 허가 절차를 줄여 줍니다. 그래도 누군가는 문을 열어야 하죠.
+Viktor|A1|Vilken dörr?|어떤 문이요?
+Rydberg|B2|Förädlingstillståndet, Erik. Parken i Kiruna är så stor att regeringen själv prövar om den får byggas, och i praktiken är det ministern som bestämmer.|가공 허가요, 에릭. 키루나 단지는 규모가 커서 정부가 직접 지어도 되는지를 심사하는데, 실제로는 장관이 결정하는 거죠.
+Viktor|A2|Och har han bråttom?|그 사람은 급한가요?
+Rydberg|B1|Ministern vill ha jobb i norr före valet, och vi vill ha ett beslut före semestern. Det borde gå ihop, som när man spelar en bra foursome.|장관은 선거 전에 북부 일자리를 원하고, 우린 휴가철 전에 결정을 원해요. 손발이 맞아야죠. 골프에서 포섬을 잘 칠 때처럼.
+Lindbäck|B1|Och regionen vill ha båda. Efter Nordcell behöver vi varenda arbetstillfälle vi kan få.|지역은 둘 다 원하고요. Nordcell 이후론 얻을 수 있는 일자리는 하나도 놓칠 수 없어요.
+Viktor|A1|Nordcell. Ett sorgligt slut.|Nordcell이라. 슬픈 결말이었죠.
+Rydberg|B2|Sorgligt för pensionärerna, visst, men maskinerna hamnade åtminstone i goda händer innan förvaltaren hann sätta lås på dem.|연금 생활자들한텐 슬프죠, 물론. 그래도 관재인이 자물쇠를 채우기 전에 기계들은 적어도 좋은 손에 들어갔어요.
+Han|A1|Carl-Johan.|칼요한.
+Rydberg|B1|Ja, ja, inga affärer före varmrätten. Men säg mig, Erik – känner du ministern?|네, 네, 메인 요리 전엔 사업 얘기 안 하죠. 그런데 하나만, 에릭. 장관을 알아요?
+Viktor|B1|Jag har arbetat nära beslutsfattare i många år. Men namn tar jag aldrig upp vid ett middagsbord.|저는 오랫동안 의사 결정자들 가까이에서 일했어요. 하지만 식탁에서 이름은 절대 꺼내지 않습니다.
+Han|B1|Det är klokt. Den som säger namn högt brukar inte ha några dörrar kvar.|현명하십니다. 이름을 크게 말하는 사람에겐 보통 남은 문이 없지요.
+Lindbäck|A2|Hör ni hur han pratar? Weiguo, din svenska är bättre än min!|들었어요, 저 말하는 거? 웨이궈, 당신 스웨덴어가 나보다 낫다니까!
+Han|B1|Det var vänligt sagt, Tomas. Jag har märkt att svenskar ofta säger något vänligt precis innan de frågar det de egentligen vill veta.|친절한 말씀이군요, 토마스. 스웨덴 분들은 정말 알고 싶은 걸 묻기 직전에 친절한 말을 하시는 경우가 많더군요.
+Lindbäck|A2|Haha! Avslöjad. Hur lärde du dig?|하하! 들켰네. 어떻게 배웠어요?
+Han|B2|Med en grammatikbok och era tidningars ledarsidor, herr Sand. Konjunktiven har jag fortfarande svårt för – ”vore det så väl”.|문법책 한 권과 여러분 신문의 사설란으로요, 산드 씨. 접속법은 아직도 어렵습니다. "그렇다면야 좋으련만."
+Viktor|B2|Ledarsidor? Jag läser bara börssidorna – där finns åtminstone ingen som låtsas veta hur världen borde se ut.|사설요? 저는 증권면만 읽어요. 거기엔 적어도 세상이 어때야 하는지 아는 척하는 사람은 없으니까.
+Han|A2|Då missar ni mycket, herr Sand.|그럼 많은 걸 놓치시는군요, 산드 씨.
+Rydberg|B2|Weiguo läser allt, till och med det journalisterna skriver. I Kiruna satt en reporter från Stockholmsposten längst bak och frågade om och om igen vem som äger Arktis.|웨이궈는 다 읽어요. 기자들이 쓰는 것까지. 키루나에선 Stockholmsposten 기자 하나가 맨 뒷줄에 앉아서 Arktis 주인이 누구냐고 묻고 또 묻더라고요.
+Lindbäck|A2|Stockholmsposten? Var det Holm? Den där från tv?|Stockholmsposten요? 홀름이었어요? TV 나오는 그 사람?
+Rydberg|B2|Kanske. Jag tittade mest i mina papper, men han ställde samma fråga fyra gånger, som en hund som har fått vittring på ett ben.|그럴지도. 난 주로 서류만 보고 있었는데, 같은 질문을 네 번이나 하더라고요. 뼈다귀 냄새 맡은 개처럼.
+Viktor|A2|Journalister. De är som myggor här uppe.|기자들이라. 여기 북쪽 모기 같네요.
+Lindbäck|A2|Myggorna kommer i juni. Journalisterna är redan här.|모기는 6월에 와요. 기자들은 벌써 와 있고.
+Han|B2|Journalister ställer frågor, och det är deras arbete. Vårt arbete är att se till att svaren redan finns på rätt ställe när frågorna kommer.|기자들은 질문을 하고, 그게 그들의 일입니다. 우리 일은 질문이 올 때 답이 이미 제자리에 있도록 해 두는 것이고요.
+Lindbäck|B1|Apropå rätt ställe – hur går det egentligen för Stålgryning i Boden? Där har vi också många jobb.|제자리 얘기가 나와서 말인데, 보덴의 Stålgryning은 실제로 어때요? 거기도 일자리가 많은데.
+Rydberg|B1|Stålgryning? Stålet faller före hösten. Bankerna har redan slutat svara i telefon.|Stålgryning? 강철은 가을 전에 무너져요. 은행들이 벌써 전화를 안 받아요.
+Lindbäck|A2|Säg inte så. Det är min region.|그런 말 마요. 내 지역이라고요.
+Rydberg|B2|Jag säger bara det som alla vet på golfklubben, Tomas – och det vet ministern också. När ett bolag faller finns det alltid någon som kan plocka upp bitarna till ett bra pris.|골프 클럽에서 다 아는 얘기를 하는 것뿐이에요, 토마스. 장관도 알고요. 회사가 무너지면 늘 좋은 값에 조각을 주워 가는 누군가가 있죠.
+Han|A1|Carl-Johan. Varmrätten.|칼요한. 메인 요리요.
+Rydberg|A2|Ja, renen! Ät, Erik. Den kommer från Jokkmokk.|네, 순록! 드세요, 에릭. 요크모크산이에요.
+Viktor|A2|Jokkmokk. Där har jag aldrig varit.|요크모크라. 거긴 한 번도 안 가 봤네요.
+Han|B2|Det är ett vackert land, där marken har många ägare som alla vill bli tillfrågade innan någonting händer.|아름다운 땅이지요. 땅 주인이 많고, 무슨 일이 일어나기 전에 다들 의견을 묻기를 바라는 곳입니다.
+Viktor|A2|Och blir de det?|그래서 묻긴 하나요?
+Han|B1|Det sköter tjänstemännen. Så fungerar det svenska systemet, eller hur, herr Sand?|그건 공무원들이 처리합니다. 스웨덴 제도는 그렇게 돌아가지요, 안 그렇습니까, 산드 씨?
+Rydberg|B2|Och det är därför vi behöver dig, Erik. Ministern lyssnar på sina tjänstemän, och tjänstemännen lyssnar på den som ringer i rätt ögonblick.|그래서 당신이 필요한 거예요, 에릭. 장관은 자기 공무원들 말을 듣고, 공무원들은 적절한 순간에 전화하는 사람 말을 들으니까.
+Viktor|B2|Rätt ögonblick är min specialitet. Men förtroende i Rosenbad byggs inte på en middag – det byggs genom att man aldrig har läckt någonting.|적절한 순간이 제 전문이죠. 하지만 로센바드에서의 신뢰는 만찬 한 번으로 쌓이지 않아요. 한 번도 뭘 흘린 적이 없어야 쌓이는 거죠.
+Han|B2|Tid har jag, herr Sand. Det jag saknar är någon som vet var regeringens dörrar öppnas – och vem som står bakom dem.|시간은 있습니다, 산드 씨. 제게 없는 건 정부의 문이 어디서 열리는지, 그리고 그 뒤에 누가 서 있는지 아는 사람입니다.
+Rydberg|B2|Ministern har fullt i kalendern ända fram till midsommar, men hans statssekreterare äter lunch på samma ställe varje torsdag. Sådant vet du säkert redan.|장관은 미드섬머까지 일정이 꽉 차 있지만, 그 사람 차관은 목요일마다 같은 데서 점심을 먹어요. 그런 건 당신도 분명 이미 알겠지만.
+Viktor|B2|Torsdagar är bra dagar. Men om jag började berätta vem som äter lunch med vem, skulle ni aldrig kunna lita på mig nästa gång.|목요일은 좋은 요일이죠. 하지만 제가 누가 누구랑 점심 먹는지 떠들기 시작하면, 다음번엔 저를 절대 못 믿으실 겁니다.
+Lindbäck|B2|Ska jag vara ärlig, så är det därför jag kom i kväll. Om regionen ska få sina jobb behöver vi också någon som kan prata med Stockholm utan att det hamnar i tidningen.|솔직히 말하면 그래서 오늘 밤 온 거예요. 지역이 일자리를 얻으려면, 신문에 안 나고 스톡홀름이랑 얘기할 수 있는 사람이 우리한테도 필요하거든요.
+Rydberg|B2|Om arvodet pratar vi på måndag. Mitt kontor skickar ett sekretessavtal redan i morgon bitti, för ministern väntar inte, och det gör inte jag heller.|보수 얘기는 월요일에 하죠. 내 사무실에서 내일 아침 일찍 비밀유지 계약서를 보낼게요. 장관은 기다려 주지 않고, 나도 마찬가지니까.
+Viktor|B1|Min advokat läser det först. Det gör hon alltid, och hon är noggrann.|제 변호사가 먼저 읽을 겁니다. 늘 그래요. 꼼꼼한 사람이거든요.
+Han|B1|Bra. Jag litar mer på dem som inte skriver under på en gång.|좋습니다. 저는 바로 서명하지 않는 사람을 더 믿습니다.
+Viktor|B1|Ursäkta mig en stund – vinet, ni förstår. Och telefonen, förstås. Den glömmer jag alltid.|잠시 실례하겠습니다. 와인 때문에, 아시죠. 아, 휴대폰도 챙겨야지. 이걸 맨날 두고 다닌다니까.
+Han|B1|Man ska aldrig lämna något på bordet som man vill ha tillbaka, herr Sand.|돌려받고 싶은 건 절대 테이블에 두고 가면 안 되지요, 산드 씨.
+# 장면 3 — 밤 10시 반, 같은 층 복도 끝 화장실 (세면대의 찬물, 거울, 손에 쥔 위장 휴대폰의 Signal 창)
+Viktor|A2|Nästan. Jag lämnade den nästan på bordet.|하마터면. 하마터면 테이블에 두고 나올 뻔했어.
+Henrik|A1|Ok?|괜찮아?
+Viktor|A1|Ok.|괜찮아.
+Henrik|A2|Var är du nu?|지금 어디야?
+Viktor|A1|På toaletten. Fem minuter.|화장실. 5분.
+Henrik|A2|Jag står under ditt fönster. Det är fortfarande ljust ute.|네 창문 밑에 있어. 밖은 아직도 밝다.
+Viktor|B1|Det är lagligt att spela in ett samtal som man själv deltar i. Det sa Lars, och jag satt vid bordet hela tiden.|자기가 참여한 대화를 녹음하는 건 합법이야. 라르스가 그랬지. 그리고 난 내내 테이블에 앉아 있었고.
+Amira|A2|Jag är här. Vilka sitter vid bordet?|나 여기 있어. 테이블에 누구누구 앉아 있어?
+Viktor|A1|Rydberg. Tomas Lindbäck. Och Han.|뤼드베리. 토마스 린드베크. 그리고 한.
+Amira|A1|Han? Fan.|한이? 젠장.
+Viktor|A2|Mitt emot mig. Han har inte sagt något.|내 맞은편이야. 아무 말도 안 했어.
+Amira|B2|Lindbäck är regionråd för Samlingspartiet, samma parti som ministern, och han har varit med på varenda pressbild om Arktis i vår. Om någon i det rummet känner igen dig, är det han.|린드베크는 Samlingspartiet 지역의원이야. 장관이랑 같은 당이고, 올봄 Arktis 관련 보도사진엔 빠짐없이 나왔어. 그 방에서 누가 널 알아본다면, 그 사람이야.
+Viktor|A2|Han samlar på visitkort. Han fick mitt.|명함 모으는 게 취미래. 내 것도 받아 갔어.
+Amira|B1|Och på ansikten. Folk i Luleå säger att han aldrig glömmer någon som han har skakat hand med.|얼굴도 모아. 룰레오 사람들 말로는, 한 번 악수한 사람은 절대 안 잊는대.
+Viktor|A2|Vi har aldrig skakat hand. Inte förrän i kväll.|우린 악수한 적 없어. 오늘 밤 전까진.
+Henrik|A1|Ät inte efterrätten.|디저트는 먹지 마.
+Viktor|A1|Varför inte?|왜?
+Henrik|B1|Vid efterrätten slutar folk prata om affärer och börjar titta på varandra på riktigt.|디저트 때가 되면 사람들은 사업 얘기를 그만두고 서로를 제대로 쳐다보기 시작하거든.
+Viktor|B2|Om jag lämnar telefonen på bordet och går ut blir det plötsligt olovlig avlyssning. Två sekunder till, och jag hade gjort precis det Lars varnade för.|내가 휴대폰을 테이블에 두고 나가면 갑자기 불법 도청이 되는 거야. 2초만 더 있었으면, 라르스가 경고한 바로 그 짓을 할 뻔했어.
+Amira|B1|Men du tog den med dig, och det är det enda som räknas. Spelar den fortfarande in?|그래도 들고 나왔잖아. 그것만 중요해. 아직 녹음 중이야?
+Viktor|B1|Ja. Rydberg har sagt ”ministern” sju gånger. Och Han sa samma sak som i Kiruna, om konjunktiven. Ord för ord.|응. 뤼드베리가 '장관'을 일곱 번 말했어. 그리고 한은 키루나에서랑 똑같은 말을 했어. 접속법 얘기. 토씨 하나 안 틀리고.
+Amira|A2|Till dig? Eller till alla?|너한테? 아니면 다들한테?
+Viktor|B1|Till bordet. Men han sa ”era tidningar” och tittade på mig när han sa det.|테이블 전체한테. 근데 '여러분의 신문'이라고 하면서 나를 봤어.
+Amira|B2|Han kanske har tre färdiga repliker om svenskan som han drar för varenda svensk han träffar. Eller så vet han exakt vem du är och har bestämt sig för att låta dig spela vidare.|스웨덴어에 대해 준비된 대사 세 개를 만나는 스웨덴 사람마다 써먹는 걸 수도 있지. 아니면 네가 누군지 정확히 알면서 계속 연기하게 두기로 한 거거나.
+Viktor|A2|Jag vet inte vilket som är värst.|어느 쪽이 더 나쁜지 모르겠다.
+Henrik|B1|Ha is i magen, Viktor. Det har du alltid haft, även när du var ung och dum.|침착해, 빅토르. 넌 늘 그랬잖아. 어리고 멍청하던 시절에도.
+Viktor|A1|Viktor. Jag heter Viktor.|빅토르. 내 이름은 빅토르야.
+# 장면 4 — 밤 11시, 다시 연회실, 디저트 (북극산딸기 소르베와 클라우드베리, 커피, 해가 강물에 닿을 듯 말 듯한 창)
+Rydberg|B1|Där är du! Jag berättade just om när ministern missade en putt på en meter och skyllde på vinden. Vi trodde att du hade rymt.|거기 있었네! 장관이 1미터 퍼팅을 놓치고 바람 탓을 했던 얘기를 막 하던 참이에요. 도망간 줄 알았잖아요.
+Viktor|A1|Aldrig före efterrätten.|디저트 전엔 절대요.
+Rydberg|B1|Åkerbärssorbet med hjortron. Ministern beställer alltid hjortron när han är i norr, har jag hört.|북극산딸기 소르베에 클라우드베리예요. 장관은 북쪽에 오면 늘 클라우드베리를 시킨대요.
+Lindbäck|A1|Hjortron är Norrbottens guld.|클라우드베리는 노르보텐의 황금이죠.
+Han|B1|Jag trodde att det var det gröna guldet vi pratade om i kväll.|오늘 밤 우리가 얘기한 건 녹색 황금인 줄 알았는데요.
+Lindbäck|B1|Erik, säg mig en sak. Har inte vi setts förut?|에릭, 하나만 물어봐요. 우리 전에 본 적 있지 않아요?
+Viktor|A2|Vi två? Nej, det tror jag inte.|우리 둘이요? 아뇨, 그런 것 같진 않은데요.
+Lindbäck|B1|Jo, det är något med rösten. Och sättet du lutar huvudet på när någon annan pratar.|아니, 목소리에 뭔가 있어요. 그리고 다른 사람이 말할 때 고개를 기울이는 방식도.
+Viktor|B1|Haha! Det säger alla. Jag har ett sådant ansikte som folk tror att de har sett på en bank någon gång.|하하! 다들 그래요. 언젠가 은행에서 본 것 같은, 그런 얼굴이거든요.
+Lindbäck|A2|Almedalen kanske? Eller på tv?|알메달렌이었나? 아니면 TV?
+Viktor|A2|På tv? Jag är alldeles för tråkig för tv.|TV요? 저는 TV에 나오기엔 너무 따분한 사람이에요.
+Han|B2|Tomas, så sa ni till mig också första gången vi träffades, och då hade jag aldrig satt min fot i Norrbotten. Ni ser bekanta ansikten överallt – det är därför väljarna tycker om er.|토마스, 처음 만났을 때 저한테도 그렇게 말씀하셨지요. 그땐 제가 노르보텐에 발을 디딘 적도 없었는데요. 어디서나 낯익은 얼굴을 보시니까, 유권자들이 당신을 좋아하는 겁니다.
+Lindbäck|A1|Det är sant. Jag är hopplös.|맞아요. 난 구제불능이야.
+Rydberg|B1|Skål för Tomas minne, då! Och för ministern, som snart skriver under.|그럼 토마스의 기억력을 위해 건배! 그리고 곧 서명할 장관을 위해.
+Viktor|A1|Skål!|건배!
+Rydberg|B2|Erik, jag ringer dig på måndag. Ministern åker på semester i början av juli, så vi har ungefär en månad på oss, och den som inte är med på första tee blir inte med alls.|에릭, 월요일에 전화할게요. 장관이 7월 초에 휴가를 떠나니까 우리한텐 한 달쯤 있어요. 첫 티샷에 함께하지 않는 사람은 아예 못 끼는 거고.
+Han|B1|God natt, herr… Sand. Vi ses kanske i Stockholm. Vila er – här blir det aldrig riktigt mörkt.|안녕히 주무십시오, 음… 산드 씨. 스톡홀름에서 뵐지도 모르겠군요. 쉬십시오. 여긴 결코 제대로 어두워지지 않으니까요.
+Viktor|A1|God natt, herr Han.|안녕히 주무세요, 한 선생님.
+Han|B1|Ni vet att familjenamnet kommer först. Det är inte alla svenskar som vet det.|성이 먼저 온다는 걸 아시는군요. 모든 스웨덴 분들이 아는 건 아닌데요.
+Viktor|A2|Man lär sig. Tjugo år på bank.|배우게 되죠. 은행에서 20년이면.
+Han|B2|Naturligtvis. Tjugo år är lång tid, och under den tiden lär man sig mycket som man aldrig har bett om att få veta.|물론이지요. 20년은 긴 시간이고, 그동안 알려 달라고 한 적도 없는 것들을 많이 배우게 되지요.
+# 장면 5 — 자정 무렵, 호텔 512호 (풀어 던진 넥타이, 오프라인 암호화 디스크, 종이 수첩, 창밖의 밝은 자정)
+Viktor|A2|Viktor Holm. Jag är tillbaka på rummet.|빅토르 홀름. 방에 돌아왔어.
+Amira|A2|Hörs jag? Är dörren låst?|내 목소리 들려? 문 잠갔어?
+Viktor|A2|Låst, med kedjan på. Slipsen ligger på golvet.|잠갔어, 체인까지. 넥타이는 바닥에 있고.
+Amira|B1|Bra. Stoppa inspelningen och säg tiden högt, så att den hamnar i filen.|좋아. 녹음 멈추고 시간을 소리 내 말해. 파일에 남게.
+Viktor|A2|Sju minuter över tolv. Nu stoppar jag.|자정 7분 지났어. 지금 멈춘다.
+Amira|B1|Fyra timmar och tolv minuter. Flytta över den till offline-disken innan du gör något annat.|4시간 12분. 다른 거 하기 전에 오프라인 디스크로 옮겨.
+Viktor|B1|Den kopieras nu. Jag skriver kontrollsumman på papper, precis som med ingenjörens USB.|지금 복사 중이야. 체크섬은 종이에 적을게. 엔지니어 USB 때처럼.
+Amira|B2|När summorna stämmer raderar du filen från telefonen. En telefon kan försvinna från ett hotellrum, men en disk i innerfickan måste någon först hitta.|체크섬이 맞으면 휴대폰에서 파일 지워. 휴대폰은 호텔 방에서 없어질 수 있지만, 안주머니의 디스크는 누가 먼저 찾아내야 하잖아.
+Viktor|A1|Summorna stämmer.|체크섬 맞아.
+Amira|A1|Nu anteckningarna. Medan du minns.|이제 메모. 기억날 때.
+Viktor|B1|Tjugo och fyrtio: Han säger att någon fortfarande måste öppna dörren. Tjugoett och femton: Rydberg, ”Stålet faller före hösten”.|20시 40분: 한, 누군가는 여전히 문을 열어야 한다. 21시 15분: 뤼드베리, "강철은 가을 전에 무너진다".
+Amira|A1|Göttigt. Mer.|좋아. 더.
+Viktor|B1|Tjugotvå och trettio: toaletten, telefonen med mig. Tjugotre och tio: Lindbäck frågar om vi har setts förut.|22시 30분: 화장실, 휴대폰 지참. 23시 10분: 린드베크가 전에 본 적 있냐고 물음.
+Amira|B1|Och Han? Sa han något mer som bara du kunde förstå?|그리고 한은? 너만 알아들을 만한 말 또 했어?
+Viktor|B2|Två saker. Han gjorde en paus före ”Sand” när han sa god natt, och han påpekade att jag visste att familjenamnet kommer först – något som jag lärde mig av honom själv, i Kiruna.|두 가지. 잘 자라고 할 때 '산드' 앞에서 잠깐 멈췄어. 그리고 내가 성이 먼저 온다는 걸 안다고 짚었어. 그건 키루나에서 바로 그 사람한테 배운 거고.
+Amira|B2|Om han vet och ändå tiger, då har han ett skäl, och jag gillar inte att vi inte har en aning om vilket.|알면서도 입을 다문다면 이유가 있는 거야. 그 이유가 뭔지 짐작도 못 한다는 게 마음에 안 들어.
+Viktor|B2|Inte jag heller. Det skriver jag i loggboken, och Sofia får en skriftlig rapport innan jag somnar – med orden ”Han kan veta”, understrukna två gånger.|나도. 일지에 적을게. 그리고 소피아한텐 자기 전에 서면 보고서 보낼 거야. '한은 알 수도 있음', 밑줄 두 번 그어서.
+Amira|B1|Skriv också hur det kändes. Elin bad mig påminna dig om det.|어땠는지도 적어. 엘린이 꼭 상기시켜 달라고 했어.
+Viktor|B2|Jag skrattade på riktigt två gånger i kväll – den ena gången åt Lindbäcks myggor, den andra åt ministerns missade putt. Det skriver jag också, eftersom det var precis det jag lovade att säga om Erik började trivas.|오늘 밤 진짜로 두 번 웃었어. 한 번은 린드베크의 모기 얘기에, 또 한 번은 장관이 놓친 퍼팅 얘기에. 그것도 적을게. 에릭이 편해지기 시작하면 말하겠다고 약속한 게 바로 그거니까.
+Amira|A2|Och ministern? Hur många gånger blev det? Sedan lägger jag på.|그럼 장관은? 결국 몇 번이었어? 그거 듣고 끊을게.
+Viktor|A2|Tjugotre och fyrtio. Rydberg sa 'ministern' elva gånger.|23시 40분. 뤼드베리는 '장관'을 열한 번 말했다.
+Henrik|A1|Sov.|자라.
+Lindbäck|A2|Erik? Det är Tomas. Förlåt att jag ringer mitt i natten.|에릭? 토마스예요. 한밤중에 전화해서 미안해요.
+Viktor|A2|Ingen fara, Tomas. Det här är Erik Sand.|괜찮아요, 토마스. 에릭 산드입니다.
+Lindbäck|B1|Erik Sand, sa du? Konstigt. Jag kunde ha svurit på att du hette nåt annat.|에릭 산드라고 했죠? 이상하네. 다른 이름이었다고 맹세할 수도 있었는데.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Skål!** | 건배! | 잔을 들 때 하는 말. *skåla* = 건배하다, *skåla för* + 대상 = ~을 위해 건배하다(*Skål för friheten!*). 스웨덴식 건배는 잔을 부딪치기보다 서로 눈을 맞추고 마신 뒤 다시 한 번 눈을 맞추는 것이 예의다 |
+| `A2` | **Jag kommer från Kalmar.** | 칼마르에서 왔어요. / 칼마르 출신이에요. | *komma från* + 장소 = ~ 출신이다. 질문은 *Var kommer du ifrån?* — 의문사 *var*와 함께 쓸 때는 *från* 대신 *ifrån*이 문장 끝에 오는 경우가 많다 |
+| `B1` | **Det är lagligt att spela in ett samtal som man själv deltar i.** | 자기가 참여한 대화를 녹음하는 것은 합법이다. | *Det är* + 형용사 + *att* 부정사 = ~하는 것은 …하다(가주어 *det*). *spela in* = 녹음·녹화하다(분리동사, 강세는 *in*). *delta i* = ~에 참여하다 — 관계절에서는 전치사 *i*가 절 끝에 남는다(*som man deltar i*) |
+| `B2` | **Om jag lämnar telefonen på bordet och går ut blir det plötsligt olovlig avlyssning.** | 휴대폰을 테이블에 두고 나가면 갑자기 불법 도청이 된다. | *om*절이 앞에 오면 주절은 동사부터 시작한다(V2 어순: *… blir det*). *bli* = ~이 되다. *olovlig* = 허가받지 않은, 불법의(*lov* = 허락), *avlyssning* = 도청(*lyssna av*) |
+| `B2` | **En strategisk status förkortar tillståndsprocessen. Men någon måste fortfarande öppna dörren.** | 전략 지위는 허가 절차를 줄여 준다. 그래도 누군가는 문을 열어야 한다. | *förkorta* = 줄이다(*kort* = 짧은). *tillståndsprocess* = 허가 절차 — 스웨덴어는 명사를 붙여 긴 합성어를 만든다(*tillstånd* + *s* + *process*). *fortfarande* = 여전히, 아직도 |
+| `B1` | **Har inte vi setts förut?** | 우리 전에 본 적 있지 않아요? | *ses* = 서로 만나다(-s로 끝나는 상호동사: *Vi ses i morgon!* 내일 봐요). 현재완료 *har setts*. 부정 의문문에는 *ja*가 아니라 *jo*로 긍정한다 — 린드베크의 *Jo, det är något med rösten.* |
+| 관용구 | **ha is i magen** | 배 속에 얼음을 품다 | 긴장되는 순간에도 침착함을 잃지 않다. 헨릭: *Ha is i magen, Viktor.* 반대로 겁이 나서 몸이 굳는 것은 *få kalla fötter*(발이 차가워지다 — 막판에 겁먹다) |
+| 법·산업 | **representation** | 접대 | 업무상 고객·거래처에 식사·음료를 대접하는 것. 스웨덴 세법은 외부 접대의 식음료 비용을 소득세 계산에서 공제해 주지 않아 뤼드베리가 "국세청이 운다"고 농담한다. 공직자에게 하는 과도한 접대는 *otillbörlig förmån*(부당한 이익), 곧 뇌물죄 판단의 근거가 될 수 있다 |
+
+## 저널리즘·법 메모
+스웨덴 형법(*brottsbalken*) 4장 9a조의 불법 도청(*olovlig avlyssning*)은 자신이 참여하지 않는 대화를 기술 장치로 몰래 녹음하는 행위를 처벌한다. 거꾸로 말하면 자기가 참여한 대화는 상대에게 알리지 않고 녹음해도 범죄가 아니다 — 흔히 '한 당사자 동의' 원칙이라고 부른다. 그래서 빅토르가 휴대폰을 테이블에 두고 화장실에 가는 순간, 같은 녹음이 합법적인 취재에서 범죄로 바뀐다. 다만 형법상 합법이라고 해서 언론윤리상 자동으로 정당한 것은 아니다. 몰래 녹음한 내용을 보도하려면 위장 취재와 마찬가지로 공익이 크고 다른 방법이 없었다는 점을 설명할 수 있어야 하며, 그래서 빅토르는 녹음 시작·종료 시각을 파일에 말로 남기고, 오프라인 사본의 체크섬과 시각순 메모를 종이에 기록한다. 한편 지역의원 같은 선출직 공직자도 뇌물죄의 '직무 수행자'에 해당하므로, 허가 결정을 기다리는 기업이 베푼 만찬은 그 자체로 기사의 한 줄이 될 수 있다.
+
+## 문화·현안 메모
+- **칼릭스 뢰이롬(Kalix löjrom)** — 보트니아만 북쪽 칼릭스 연안의 작은 흰송어류(*siklöja*)에서 얻는 주황빛 알. 2010년 스웨덴 식품 가운데 처음으로 EU 원산지명칭보호(PDO)를 받았고, 왕실 만찬과 노벨상 만찬에도 오르는 북부의 고급 식재료다. 뤼드베리가 "로컬하고 지속 가능하게"를 강조하며 첫 접시로 고른 이유다.
+- **북극산딸기와 클라우드베리** — *åkerbär*(북극산딸기)는 노르보텐의 '주(州) 꽃'이고, *hjortron*(클라우드베리)은 습지에서 한여름에 손으로 따는 귀한 열매라 '습지의 황금'으로 불린다. 린드베크의 "노르보텐의 황금"과 한웨이궈의 "녹색 황금"이 디저트 위에서 부딪친다.
+- **룰레오의 밝은 밤** — 룰레오는 북극권(위도 66.5도)보다 조금 남쪽이라 엄밀한 의미의 백야(해가 아예 지지 않는 밤)는 드물지만, 5월 말이면 해가 밤 11시 무렵 졌다가 두세 시간 만에 다시 떠서 밤새 하늘이 어두워지지 않는다. 한웨이궈의 "여긴 결코 제대로 어두워지지 않는다"는 말은 날씨 이야기이자 경고처럼 들린다.
+- **성이 먼저 오는 이름** — 중국·한국 이름은 성이 앞에 온다. 한웨이궈의 성은 *Han*이므로 정중한 호칭은 *herr Han*이고, 친한 사이인 뤼드베리와 린드베크는 이름 *Weiguo*로 부른다. 4화에서 한웨이궈가 빅토르에게 직접 이 점을 설명했기 때문에, 오늘 밤 "에릭"의 *God natt, herr Han.*은 그 자체로 작은 흔적이 된다.
+- ⚠️ 룰레오 강변 호텔, Arktis Mineral AB, Stålgryning, 칼요한 뤼드베리, 토마스 린드베크, 한웨이궈와 이 화의 장관은 모두 허구다. 녹음·도청과 접대·뇌물에 관한 법은 실제를 배경으로 했으나 단순화했다.
+
+## 다음 화 예고
+> 만찬에서 들은 한 문장 — "강철은 가을 전에 무너진다." 빅토르와 헨릭은 보덴의 그린스틸 공장 Stålgryning으로 향하고, 수소 전해조가 웅웅거리는 홀에서 CEO 요한나는 돈이 9월까지밖에 없다고 털어놓는다.
