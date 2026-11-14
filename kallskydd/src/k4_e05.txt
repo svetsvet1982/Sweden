@@ -1,0 +1,187 @@
+@title 4부 5화 — Jokkmokk
+@subtitle (요크모크)
+@meta 날짜|2026년 5월 16일 토요일 오전 9시 ~ 저녁 8시경 (요크모크는 북극권 바로 위, 밤 11시에도 하늘이 다 어두워지지 않는다)
+@meta 장소|요크모크 중심가, 윌바 사리의 법률사무소 (오전 9시) → 같은 사무실, 협의 의사록과 목축 일지 검토 (오전 9시 반) → 숲속 순록 출산지(kalvningsland) 가장자리, 바람이 순록 쪽에서 불어오는 언덕 (오후 3시) → 요크모크 외곽, 사리 가족의 부엌 (저녁 6시 반)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Ylva** (윌바 사리, 45, 사미 변호사, 순록 목축 가족의 sameby 구성원) · **Nilla** (닐라 사리, 72, 윌바의 아버지, 은퇴한 순록 목축인) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자, 원격) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자, 원격)
+@intro **지난 이야기** — 키루나에서 Arktis Mineral이 "산에서 자석까지" 가는 북극 가공단지를 발표했다. 아미라는 지분 9.9%씩 가진 스웨덴 회사 네 곳이 같은 법률사무소 주소를 쓰고, 같은 날 홍콩의 한 회사에서 같은 액수의 "주주 대출"을 받았다는 사실을 찾아냈다. 빅토르의 이름을 먼저 부른 한웨이궈는 이렇게 말했다 — "저는 광산을 사지 않습니다. 시간을 삽니다."
+@intro 이틀 뒤 토요일. 아미라는 광산청(Bergsstaten) 등록부에서 Arktis가 지난겨울 사들인 탐사 허가 가운데 요크모크 근처의 한 건을 찾았고, 서류철에 사미 마을(sameby)의 대리인으로 변호사 윌바 사리의 이름이 있었다. 빅토르의 메일에 온 답장은 한 줄이었다 — "Lördag kl. 9. Ni får en timme." 금요일 오후, 헨릭이 키루나에서 남쪽으로 세 시간을 달렸다. 사무실 창밖으로는 녹다 만 눈과 자작나무 사이로 아침 해가 이미 높다.
+# 장면 1 — 오전 9시, 요크모크 윌바 사리의 법률사무소 (서류 상자, 벽의 오래된 신문 스크랩 세 장, 창가의 커피 보온병)
+Ylva|A1|Bures! Kom in.|부레스! 들어와.
+Viktor|A1|Hej. God morgon.|안녕하세요. 좋은 아침입니다.
+Ylva|A2|Man svarar bures. Det är inte svårt.|'부레스'라고 대답하는 거야. 어렵지 않아.
+Henrik|A1|Bures.|부레스.
+Ylva|B1|Bra. Det är nordsamiska och betyder ungefär hej. Min mamma var från Karesuando, så det är så vi hälsade hemma – här i Jokkmokk säger många buoris, på lulesamiska.|좋아. 북사미어고, 대충 '안녕'이라는 뜻이야. 엄마가 카레수안도 출신이라 집에서는 그렇게 인사했어. 여기 요크모크에선 룰레 사미어로 '부오리스'라고 하는 사람이 많고.
+Viktor|B1|Jag visste inte att det fanns flera samiska språk som skiljer sig så mycket åt.|사미어가 서로 그렇게 다른 여러 언어로 나뉘는 줄은 몰랐습니다.
+Ylva|B1|Nej. Det är det sällan någon från Stockholm som vet.|그렇겠지. 스톡홀름에서 오는 사람 중에 그걸 아는 사람은 드물어.
+Henrik|A2|Jag är från Gotland, om det hjälper.|전 고틀란드 출신인데, 도움이 된다면요.
+Ylva|A1|Lite. Sätt er.|조금. 앉아.
+Viktor|B1|Tack för att du ville träffa oss. Jag förstod av ditt mejl att du inte har mycket tid.|만나 주셔서 고맙습니다. 메일을 보니 시간이 많지 않으신 것 같더군요.
+Ylva|B2|Tid har jag. Det jag saknar är tålamod med journalister som flyger hit en dag när det är gruvbråk och sedan aldrig hör av sig igen, hur det än gick.|시간은 있어. 없는 건 인내심이야. 광산 분쟁이 터지면 하루 날아왔다가, 일이 어떻게 됐든 다시는 연락 한 번 없는 기자들한테 쓸 인내심.
+Viktor|A1|Jag förstår.|이해합니다.
+Ylva|A2|Gör du? Titta här.|그래? 여기 봐.
+Henrik|A2|Det är gamla tidningsklipp.|오래된 신문 스크랩이네요.
+Ylva|B1|Tre artiklar om gruvor här i trakten, från tre olika tidningar. Titta på bilderna först och sedan på citaten.|이 근처 광산에 관한 기사 세 개야. 신문사도 세 군데고. 사진을 먼저 보고, 그다음에 인용을 봐.
+Viktor|A2|Bilderna är stora. Citaten är korta.|사진은 크고, 인용은 짧네요.
+Ylva|B2|En hel sida med min kusin i kolt framför renhjorden, och under bilden en enda mening som han aldrig sa på det sättet. Kolten hade han på sig för att fotografen bad honom byta om.|한 면 가득 순록 무리 앞에서 콜트(사미 전통 의상)를 입은 내 사촌. 사진 밑엔 그 애가 그런 식으로 말한 적도 없는 문장 딱 하나. 콜트도 사진기자가 갈아입으라고 해서 입은 거였어.
+Viktor|A2|Vilken tidning var det?|어느 신문이었습니까?
+Ylva|A2|Den här är från er. Hösten 2018.|이건 당신네 거야. 2018년 가을.
+Viktor|A2|Det var inte jag som skrev den.|제가 쓴 기사는 아닙니다.
+Ylva|A1|Nej. Det är aldrig någon.|그렇겠지. 늘 아무도 아니지.
+Henrik|B1|Den fotografen borde skämmas. Det säger jag som fotograf.|그 사진기자는 부끄러운 줄 알아야 해요. 사진기자로서 하는 말입니다.
+Ylva|B2|Det är vänligt sagt, men det är inte fotografen jag är arg på. Det är att berättelsen om oss alltid verkar vara färdigskriven innan ni ens har klivit av planet.|고마운 말이지만, 내가 화난 건 사진기자가 아니야. 우리에 관한 이야기가 당신들이 비행기에서 내리기도 전에 늘 다 쓰여 있는 것 같다는 거지.
+Viktor|A2|Vad vill du att vi gör?|저희가 어떻게 하길 바라십니까?
+Ylva|B1|Tre villkor. Inga bilder utan lov, inga kartor, och du klipper inte i det vi säger.|조건 세 개. 허락 없는 사진은 안 되고, 지도도 안 되고, 우리 말을 자르지 말 것.
+Viktor|A1|Inga kartor?|지도는 안 된다고요?
+Ylva|B1|Inga kartor, inga koordinater, ingenting som visar var hjorden finns under våren.|지도도, 좌표도 안 돼. 봄에 순록 무리가 어디 있는지 보여 주는 건 아무것도.
+Henrik|A2|Och bilder tar jag bara när någon säger ja.|그리고 사진은 누가 허락할 때만 찍고요.
+Ylva|A2|När den det gäller säger ja. Inte jag.|당사자가 허락할 때. 내가 아니라.
+Viktor|B1|Vi går med på alla tre, och om vi bryter mot något av dem får du ringa mig när som helst.|세 가지 다 받아들이겠습니다. 그중 하나라도 어기면 언제든 제게 전화하셔도 됩니다.
+# 장면 2 — 오전 9시 반, 같은 사무실 (광산청 서류철, 2023년 5월 17일자 "협의 기록", 윌바의 노트북 화면 공유, 아미라의 영상 통화)
+Ylva|A2|Då har ni femtio minuter kvar. Läs det här.|그럼 50분 남았어. 이거 읽어.
+Viktor|A1|Vad är det här?|이게 뭡니까?
+Ylva|B2|Anteckningar från ett samråd mellan ett litet prospekteringsbolag och vår sameby, bifogade till bolagets ansökan om undersökningstillstånd. Bolaget fick tillståndet hösten 2023, och i vintras köptes det av Arktis.|작은 탐사 회사와 우리 사미 마을 사이의 협의 기록이야. 그 회사의 탐사 허가 신청서에 첨부된 거고. 회사는 2023년 가을에 허가를 받았고, 지난겨울 Arktis가 그걸 사들였어.
+Henrik|A1|Undersökningstillstånd?|탐사 허가요?
+Ylva|B2|Ett tillstånd att leta efter mineraler – att borra och ta prover. Det ger ingen rätt att bryta, för då krävs en bearbetningskoncession, men den som har letat först brukar stå först i kön när en koncession ska prövas.|광물을 찾아도 된다는 허가야. 시추하고 시료를 채취하는 거. 캐낼 권리는 아니야. 그러려면 채굴권(bearbetningskoncession)이 따로 필요하거든. 하지만 채굴권을 심사할 땐 보통 먼저 찾은 쪽이 줄 맨 앞에 서.
+Viktor|A2|Var fick du tag på papperen?|이 서류는 어디서 구하셨습니까?
+Ylva|B1|Från Bergsstaten. Ansökan och bilagorna är allmänna handlingar, så jag begärde ut hela akten i mars när Arktis tog över tillståndet.|광산청(Bergsstaten)에서. 신청서와 첨부 서류는 공문서니까, 3월에 Arktis가 허가를 넘겨받았을 때 서류철 전체를 청구했어.
+Viktor|B1|Och det var då du hittade något som inte stämde.|그리고 그때 뭔가 맞지 않는 걸 찾으신 거군요.
+Ylva|B2|I beslutet från 2023 står det bara att samråd har skett med berörd sameby. Vi hade skickat ett skriftligt yttrande med våra invändningar, så vi utgick från att det var det som myndigheten syftade på.|2023년 결정문엔 "해당 사미 마을과 협의가 이뤄졌다"고만 돼 있어. 우린 이의를 적은 서면 의견서를 보냈으니까, 기관이 그걸 말하는 거라고 생각했지.
+Viktor|A1|Men?|그런데요?
+Ylva|B2|Men i akten ligger det här: anteckningar från ett möte i Jokkmokk den sjuttonde maj 2023, där samebyn sägs ha ”informerats och inte haft några invändningar”. Längst ner står tre namn från samebyn. Mötet har aldrig ägt rum.|근데 서류철에 이게 있었어. 2023년 5월 17일 요크모크에서 열렸다는 회의 기록. 사미 마을이 "설명을 들었고 이의가 없었다"고 돼 있어. 맨 아래엔 사미 마을 사람 이름 셋. 그 회의는 열린 적이 없어.
+Henrik|A2|Vems namn står där?|누구 이름이 적혀 있어요?
+Ylva|B1|Min pappa, Nilla Sarri. Min kusin Ánte. Och den som var samebyns ordförande då.|우리 아빠, 닐라 사리. 내 사촌 안테. 그리고 그때 사미 마을 대표였던 사람.
+Viktor|A2|Och längst ner till höger?|오른쪽 맨 아래는요?
+Ylva|B2|”Justerat av Göran Nilsson, Länsstyrelsen i Norrbottens län.” Myndighetens man, vars underskrift ska intyga att mötet gick rätt till – och som Bergsstaten därför inte hade någon anledning att ifrågasätta.|"확인: 노르보텐 도청 예란 닐손." 기관 쪽 사람이지. 그 서명이 회의가 제대로 진행됐다는 걸 보증하는 거고, 그래서 광산청은 의심할 이유가 없었던 거야.
+Viktor|A1|Känner du honom?|그 사람을 아십니까?
+Ylva|A2|Nej. Jag har aldrig träffat honom.|아니. 한 번도 만난 적 없어.
+Henrik|B1|Titta på de tre underskrifterna. Det ser ut som samma penna, och alla lutar åt samma håll.|서명 세 개 좀 봐요. 같은 펜 같고, 전부 같은 쪽으로 기울어 있어요.
+Ylva|B1|Pappa skriver ett stort N och sedan en rak linje. Här har någon skrivit ut hela namnet, prydligt, som i en skrivbok.|아빠는 큰 N 하나 쓰고 그다음은 일자로 쭉 그어. 여기선 누가 이름 전체를 또박또박 써 놨어. 습자 공책처럼.
+Viktor|B2|En underskrift som ser fel ut räcker inte, för bolaget kommer att säga att din pappa hade en dålig dag. Vi måste kunna visa var ni befann er, timme för timme.|서명이 이상해 보이는 것만으론 부족합니다. 회사는 아버님이 그날 컨디션이 안 좋으셨다고 할 테니까요. 여러분이 어디 계셨는지 시간 단위로 보여 줄 수 있어야 해요.
+Ylva|B1|Vi var på kalvningslandet den dagen, så ingen av oss kan ha skrivit under.|그날 우린 출산지에 있었어. 그러니까 우리 중 누구도 서명했을 리 없어.
+Viktor|A2|Kan du visa det?|그걸 보여 주실 수 있습니까?
+Ylva|B2|Styrelsen i samebyn gav mig lov i går kväll – att visa, inte att lämna ut. Ni får se positionerna från renarnas halsband och våra loggböcker på min skärm, men ni kopierar ingenting, fotograferar ingenting och tar inte med er en enda fil.|사미 마을 이사회가 어젯밤 허락했어. 보여 주는 것까지만, 넘겨주는 건 아니고. 순록 목걸이 위치 기록이랑 우리 목축 일지를 내 화면으로 보는 건 돼. 하지만 복사도, 촬영도 안 되고, 파일 하나도 가져갈 수 없어.
+Viktor|B1|Det är rimligt. Kan vår datareporter titta med via video? Hon kan jämföra med protokollet utan att spara något.|합당합니다. 저희 데이터 기자가 영상으로 같이 봐도 될까요? 아무것도 저장하지 않고 의사록과 대조할 수 있습니다.
+Ylva|A2|Hon får titta. Ingen inspelning.|봐도 돼. 녹화는 안 되고.
+Amira|A2|Hej! Jag hör er. Ingen inspelning, jag lovar.|안녕하세요! 잘 들려요. 녹화 안 해요, 약속해요.
+Ylva|A1|Här. Halsbanden.|여기. 목걸이 기록.
+Amira|B1|Okej, jag ser tolv punkter som rör sig. Är det tolv renar?|좋아요, 움직이는 점이 열두 개 보여요. 순록 열두 마리예요?
+Ylva|B2|Tolv vajor, alltså renkor, som bär GPS-halsband. Resten av hjorden håller sig nära dem under kalvningen, så punkterna visar ganska exakt var hela hjorden befinner sig.|암순록(vaja) 열두 마리가 GPS 목걸이를 차고 있어. 출산 철엔 나머지 무리가 그 애들 곁에 붙어 있으니까, 점들이 무리 전체가 어디 있는지를 꽤 정확하게 보여 주지.
+Amira|A2|Och de skickar en position varannan timme?|그리고 두 시간마다 위치를 보내고요?
+Ylva|A1|Ja. Dygnet runt.|응. 24시간 내내.
+Amira|B2|Den sjuttonde maj 2023, från sex på morgonen till midnatt, ligger alla tolv inom ett par kilometer från varandra. Till Jokkmokk är det ungefär sextio kilometer, och ingen punkt kommer ens i närheten av en väg.|2023년 5월 17일, 아침 6시부터 자정까지 열두 개가 전부 서로 몇 킬로미터 안에 있어요. 요크모크까진 60킬로미터쯤이고, 어느 점도 도로 근처에조차 가지 않아요.
+Viktor|B1|Men halsbanden visar var renarna var. De visar inte var människorna var.|하지만 목걸이는 순록이 어디 있었는지를 보여 주죠. 사람이 어디 있었는지가 아니라.
+Ylva|B2|Rätt, och därför för vi loggböcker. Varje dag skriver någon vem som är på plats, hur vädret är och vad som har hänt med hjorden – det har vi gjort långt innan någon talade om gruvor här.|맞아. 그래서 일지를 쓰는 거야. 매일 누군가가 누가 현장에 있는지, 날씨가 어떤지, 무리에 무슨 일이 있었는지 적어. 여기서 광산 얘기가 나오기 훨씬 전부터 그래 왔어.
+Henrik|A2|Vem skrev den dagen?|그날은 누가 썼어요?
+Ylva|B1|Pappa. Hör här: ”Sjuttonde maj. Kallt, nordlig vind. Första kalven vid bäcken. Nilla, Ánte, ordföranden och Ylva i kåtan.”|아빠. 들어 봐. "5월 17일. 추움, 북풍. 개울가에서 첫 새끼. 닐라, 안테, 대표, 윌바 코타에서."
+Viktor|A1|Du var där?|거기 계셨어요?
+Ylva|B1|Jag tar ledigt från byrån två veckor varje vår. Det har jag gjort sedan jag blev advokat.|난 해마다 봄이면 사무소를 2주 쉬어. 변호사가 된 뒤로 쭉 그랬어.
+Amira|B1|Hjorden var sextio kilometer bort hela dagen, och era loggböcker säger att ni var med den.|무리는 하루 종일 60킬로미터 떨어져 있었고, 일지엔 여러분이 함께 있었다고 적혀 있어요.
+Viktor|B2|Men en loggbok som är skriven av dem som anklagar bolaget kommer motparten att kalla en partsinlaga. Finns det något som ingen av er har kunnat ändra i efterhand?|하지만 회사를 고발하는 사람들이 쓴 일지는, 상대편이 '일방적 주장'이라고 부를 겁니다. 여러분 누구도 나중에 고칠 수 없었던 게 있나요?
+Ylva|B1|Ánte hade en satellitsändare på sig, en sådan som man larmar med i fjällen. Den sparar hans position var tionde minut, och loggen ligger hos tillverkaren.|안테가 위성 송신기를 차고 있었어. 산에서 조난 신호 보낼 때 쓰는 그런 거. 10분마다 위치를 저장하고, 그 기록은 제조사 쪽에 있어.
+Amira|A2|Kan han visa den för oss?|그분이 그걸 저희한테 보여 줄 수 있어요?
+Ylva|B1|Han är hos hjorden nu, men jag ringer honom i eftermiddag när han har täckning.|지금은 무리 곁에 있는데, 오후에 신호 잡힐 때 전화할게.
+Amira|B1|En sak till. Det fanns en Göran Nilsson som handläggare på länsstyrelsen i Norrbotten fram till 2023. I år finns han inte med i deras personallista.|하나 더요. 2023년까지 노르보텐 도청에 예란 닐손이라는 담당 공무원이 있었어요. 올해 직원 명단에는 없고요.
+Ylva|B2|Ett samråd som aldrig har ägt rum kan inte ligga till grund för ett tillstånd. Och den som har justerat ett möte som aldrig fanns har gjort betydligt mer än ett misstag.|열린 적 없는 협의는 허가의 근거가 될 수 없어. 그리고 있지도 않았던 회의를 확인해 준 사람은 실수보다 훨씬 큰 일을 한 거고.
+# 장면 3 — 오후 3시, 숲속 순록 출산지 가장자리 (멀리서만, 바람이 순록 쪽에서 불어오는 언덕, 습지와 자작나무, 헨릭의 카메라 가방)
+Nilla|A1|Här. Inte längre.|여기. 더는 안 가.
+Viktor|A2|Vi ser dem inte ens härifrån.|여기선 순록이 보이지도 않는데요.
+Nilla|A2|Nej. Och de ska inte se oss.|그래. 그리고 순록도 우릴 보면 안 돼.
+Ylva|B1|Pappa har valt en plats där vinden blåser från renarna mot oss, så att de inte känner lukten av oss.|아빠가 바람이 순록 쪽에서 우리 쪽으로 부는 자리를 골랐어. 순록이 우리 냄새를 못 맡게.
+Henrik|A1|Smart.|영리하네요.
+Nilla|A1|Gammalt.|오래된 거야.
+Viktor|A2|Hur många kalvar har kommit?|새끼는 몇 마리나 태어났어요?
+Nilla|A2|Många. Inte alla än.|많이. 아직 다는 아니고.
+Ylva|A2|Renarna kalvar just nu. Därför är vi här.|순록이 지금 새끼를 낳고 있어. 그래서 우리가 여기 있는 거고.
+Henrik|A2|Där borta, vid myren. Något rör sig.|저기, 습지 옆에. 뭔가 움직여요.
+Nilla|A1|Tyst nu. Hon är rädd.|쉿. 저 애가 겁먹었어.
+Ylva|A1|Henrik, kameran…|헨릭, 카메라…
+Henrik|A2|Locket är redan på. Den åker ner i väskan nu.|뚜껑은 벌써 닫았어요. 지금 가방에 넣을게요.
+Nilla|A1|Bra.|좋아.
+Henrik|A2|Den här bilden tar jag med ögonen.|이 사진은 눈으로 찍을게요.
+Ylva|B1|Det är första gången en fotograf har gjort det innan jag hunnit be om det.|내가 부탁하기도 전에 사진기자가 그렇게 한 건 처음이야.
+Viktor|A2|Vad händer om de blir störda?|방해를 받으면 어떻게 돼요?
+Ylva|B2|En vaja som blir skrämd kan springa ifrån sin kalv, och en kalv som lämnas ensam under de första dygnen klarar sig sällan. Ett enda drönarljud kan räcka.|놀란 암순록은 새끼를 두고 달아날 수 있어. 태어나고 처음 며칠 동안 혼자 남겨진 새끼는 살아남기 힘들고. 드론 소리 한 번이면 충분할 수도 있어.
+Viktor|B1|Så därför kan ingen av er åka in till Jokkmokk på ett möte mitt i maj.|그래서 5월 한가운데에 여러분 중 누구도 회의하러 요크모크에 나갈 수 없는 거군요.
+Ylva|B2|Ingen renskötare skulle boka ett möte under kalvningen, och ett bolag som föreslår det vet antingen ingenting om oss eller bryr sig inte. Därför är datumet nästan det mest avslöjande i hela protokollet.|출산 철에 회의를 잡는 순록 목축인은 없어. 그걸 제안하는 회사는 우리에 대해 아무것도 모르거나 신경을 안 쓰는 거고. 그래서 그 의사록에서 거의 가장 많은 걸 드러내는 게 날짜야.
+Nilla|B1|Jag har varit här varje vår sedan jag var tolv år.|난 열두 살 때부터 봄마다 여기 있었어.
+Henrik|A2|Även nu, som pensionär?|은퇴하신 지금도요?
+Nilla|A2|Renarna vet inte att jag är pensionär.|순록은 내가 은퇴한 걸 몰라.
+Henrik|A1|Nej, det gör de väl inte.|그렇겠네요.
+Viktor|B1|Ylva, får jag fråga din pappa om underskriften? Jag vill höra det från honom själv.|윌바 씨, 아버님께 서명에 대해 여쭤봐도 될까요? 직접 듣고 싶습니다.
+Ylva|A2|Fråga honom. Han svarar själv.|아빠한테 물어. 본인이 대답해.
+Viktor|A2|Nilla, skrev du under ett papper i maj 2023?|닐라 씨, 2023년 5월에 서류에 서명하셨어요?
+Nilla|A1|Nej. Jag var här.|아니. 난 여기 있었어.
+Viktor|A2|Har du sett papperet?|그 서류 보셨어요?
+Nilla|B1|Ylva visade det i mars. Den som skrev mitt namn har aldrig sett mig skriva.|3월에 윌바가 보여 줬어. 내 이름을 쓴 놈은 내가 글씨 쓰는 걸 한 번도 본 적이 없어.
+Henrik|B2|På Gotland sa de gamla att den som skriver ditt namn åt dig redan har tagit något ifrån dig. Jag förstod aldrig vad de menade förrän nu.|고틀란드 노인들이 그랬죠. 네 이름을 대신 써 주는 사람은 이미 너한테서 뭔가를 가져간 거라고. 무슨 뜻인지 이제야 알겠네요.
+Nilla|A1|Ja. Mitt namn.|그래. 내 이름.
+Viktor|B2|Jag har skrivit om människor som aldrig bad om att bli skrivna om, Hesa. En av dem lever inte längre, och jag vet fortfarande inte vem som lämnade ut hans namn.|난 기사에 나오길 원한 적 없는 사람들에 대해 써 왔어, 헤사. 그중 하나는 이제 살아 있지 않고. 누가 그 애 이름을 흘렸는지 난 아직도 몰라.
+Henrik|B1|Jag vet. Därför står du här och lyssnar i stället för att anteckna.|알아. 그래서 네가 지금 받아 적지 않고 여기 서서 듣고 있는 거지.
+Ylva|B1|Pappa vill att ni äter hos oss i kväll. Det är inte jag som bjuder, så det är honom ni ska tacka.|아빠가 오늘 저녁 우리 집에서 먹고 가래. 초대하는 건 내가 아니니까, 고맙다는 말은 아빠한테 해.
+# 장면 4 — 저녁 6시 반, 요크모크 외곽 사리 가족의 부엌 (끓인 커피, 마른 순록 고기, 창밖의 밝은 저녁, 빅토르의 휴대폰 영상 통화)
+Nilla|A1|Kaffe. Sitt.|커피. 앉아.
+Henrik|B1|Tack. Det luktar precis som hemma hos min mormor när jag var liten.|고맙습니다. 어릴 때 외할머니 댁이랑 냄새가 똑같네요.
+Ylva|A2|Kokkaffe. Pappa dricker inget annat.|끓인 커피야. 아빠는 다른 건 안 마셔.
+Nilla|A1|Och kött. Ät.|고기도. 먹어.
+Henrik|A2|Tack, men jag har redan fått tre bitar.|감사합니다, 근데 벌써 세 조각이나 받았는데요.
+Nilla|A1|Ät.|먹어.
+Viktor|B1|Giitu. Har jag sagt det rätt?|기투(북사미어로 '고맙습니다'). 제대로 말했나요?
+Nilla|A2|Ja. Hennes mamma sa alltid så.|그래. 쟤 엄마가 늘 그렇게 말했지.
+Ylva|B1|Bättre än bures i morse. Men ett ord på samiska gör inte artikeln bättre, Viktor.|아침의 '부레스'보단 낫네. 근데 사미어 한 마디로 기사가 나아지진 않아, 빅토르.
+Viktor|B1|Nej. Säg vad du tycker att artikeln saknar, då.|그렇죠. 그럼 기사에 뭐가 빠졌다고 생각하시는지 말씀해 주세요.
+Ylva|B2|Alla skriver om en gruva i taget, som om varje projekt vore en egen historia. Men här finns en gruva, där en vindkraftspark, en kraftledning genom kalvningslandet, en ny väg och kalhyggen. Varje bit är liten. Tillsammans är det betesmarken.|다들 광산을 하나씩 따로 써. 프로젝트마다 별개의 이야기인 것처럼. 근데 여기엔 광산, 저기엔 풍력단지, 출산지를 가로지르는 송전선, 새 도로, 벌채지가 있어. 하나하나는 작아. 합치면 그게 방목지 전체야.
+Henrik|B2|Det är som med stenmurarna hemma på Gotland: tar man en sten om året märker ingen något, men en vacker dag står man där med en hög grus.|고틀란드 고향의 돌담이랑 같네요. 해마다 돌 하나씩 빼면 아무도 모르지만, 어느 날 보면 자갈 더미만 남아 있죠.
+Nilla|A1|Ja. Så är det.|그래. 그런 거야.
+Viktor|B1|Och allt det där säljs som grön omställning, eftersom det ska rädda klimatet.|그리고 그게 다 녹색 전환이라는 이름으로 팔리죠. 기후를 구한다면서요.
+Ylva|B2|Klimatet slår redan mot oss. När det regnar på snön blir det is, och renarna kommer inte åt laven. Sedan kommer ni söderifrån och räddar klimatet på vår mark – med gruvor för batterier och vindkraft på vinterbetet.|기후는 이미 우릴 때리고 있어. 눈 위에 비가 내리면 얼음이 되고, 순록은 이끼를 못 먹어. 그러고 나면 당신들이 남쪽에서 와서 우리 땅 위에서 기후를 구하지. 배터리용 광산과 겨울 방목지 위의 풍력으로.
+Viktor|A2|Är du emot vindkraft?|풍력에 반대하세요?
+Ylva|B2|Jag är emot att bli tillfrågad efteråt. I Norge kom Högsta domstolen fram till att vindkraftverken på Fosen kränkte renskötarnas rättigheter – men då stod verken redan där och snurrade.|나중에야 물어보는 데 반대하는 거야. 노르웨이에선 대법원이 포센 풍력발전소가 순록 목축인의 권리를 침해했다고 판결했어. 근데 그때 발전기들은 이미 서서 돌고 있었지.
+Viktor|B1|Har lagen om konsultation från 2022 ändrat något för er?|2022년 협의법이 여러분에게 뭔가 바꿔 놓았나요?
+Ylva|B2|Den ger oss rätt att bli konsulterade, och konsultationen ska dokumenteras. Men konsultation är inte samtycke – myndigheten får lyssna och sedan säga ja ändå. Därför är dokumentationen det enda vi har, och det är just den som någon har förfalskat.|협의를 받을 권리는 줘. 협의는 기록으로 남겨야 하고. 하지만 협의는 동의가 아니야. 기관은 듣고 나서 그래도 허가할 수 있어. 그래서 기록이 우리가 가진 전부인데, 하필 그걸 누가 위조한 거야.
+Henrik|A1|Telefonen, Viktor.|전화 왔다, 빅토르.
+Amira|B1|Hej, förlåt att jag stör. Ylva och Ánte loggade in för en timme sedan, och jag fick se sändarens logg på hennes skärm.|안녕, 방해해서 미안. 한 시간 전에 윌바 씨랑 안테 씨가 같이 로그인해서, 윌바 씨 화면으로 송신기 기록을 봤어.
+Viktor|A2|Och vad visar den?|그래서 뭐가 나왔어?
+Amira|B1|En position var tionde minut hela dagen, och inte en enda närmare Jokkmokk än femtiofem kilometer. Han kan inte ha varit på det där mötet.|하루 종일 10분마다 위치가 찍혀 있는데, 요크모크에서 55킬로미터보다 가까운 건 하나도 없어. 그 사람은 그 회의에 있었을 수가 없어.
+Ylva|B1|Det visste vi redan innan ni kom hit.|그건 당신들이 오기 전부터 우린 알고 있었어.
+Viktor|B1|Ja. Men nu kan vi visa det för dem som inte tror er.|네. 하지만 이제는 여러분을 믿지 않는 사람들한테도 보여 줄 수 있죠.
+Ylva|B2|Det är just det som gör mig så trött. Våra ord räcker aldrig förrän en satellit har bekräftat dem, och sedan kallas det för grävande journalistik.|바로 그게 날 지치게 해. 위성이 확인해 주기 전엔 우리 말은 절대 충분하지 않아. 그러고 나면 그걸 탐사보도라고 부르지.
+Viktor|B2|Det kravet gäller alla vi skriver om. Men jag förstår att det inte känns så när det alltid är ni som måste bevisa att ni fanns på er egen mark.|그 요구는 저희가 쓰는 모든 사람에게 해당됩니다. 하지만 자기 땅에 자기가 있었다는 걸 늘 여러분이 증명해야 한다면, 그렇게 느껴지지 않는다는 것도 이해합니다.
+Ylva|B1|Jag vill prata med den som bestämmer. Inte med den som skriver.|결정하는 사람이랑 얘기하고 싶어. 쓰는 사람 말고.
+Viktor|A2|Då ringer jag Sofia. Hon är hemma.|그럼 소피아한테 전화할게요. 집에 있을 겁니다.
+Sofia|A2|God kväll. Jag heter Sofia Brandt och är ansvarig utgivare.|안녕하세요. 소피아 브란트입니다. 발행책임자예요.
+Ylva|B2|Då är det dig jag ska fråga. Jag vill läsa hela artikeln innan den publiceras – inte bara mina citat, utan hur ni berättar om oss.|그럼 당신한테 물어야겠네. 보도 전에 기사 전체를 읽고 싶어. 내 인용만이 아니라, 당신들이 우리를 어떻게 이야기하는지까지.
+Sofia|B2|Ni får läsa era citat och rätta fakta. Men beslutet om vad som publiceras kan jag inte lämna ifrån mig.|인용을 읽고 사실을 바로잡으실 수 있어요. 하지만 무엇을 보도할지는 제가 넘길 수 없는 결정이에요.
+Ylva|B2|Precis det sa de andra tidningarna också, och sedan blev min kusin en bild i kolt som hela landet fick titta på utan att höra vad han hade att säga.|다른 신문들도 똑같이 말했어. 그러고 나서 내 사촌은 콜트 입은 사진 한 장이 됐지. 온 나라가 봤지만, 그 애가 하려던 말은 아무도 듣지 못한.
+Sofia|B2|Jag förstår misstron, och den är förtjänt. Därför lovar jag något konkret: positionsdatan används bara för att kontrollera protokollet. Vi publicerar ingen karta, inga koordinater och inga avstånd som avslöjar platsen. Och att ni är samer står i texten för att det är det saken handlar om, inte för att det ser bra ut på bild.|불신은 이해합니다. 그럴 만도 하고요. 그래서 구체적으로 약속드릴게요. 위치 데이터는 의사록을 확인하는 데만 씁니다. 지도도, 좌표도, 장소를 드러내는 거리도 싣지 않아요. 그리고 여러분이 사미라는 사실은 그게 이 사안의 본질이라서 기사에 들어가는 거지, 사진에 잘 받아서가 아닙니다.
+Viktor|B1|Jag hade tänkt skriva sextio kilometer. Vi skriver ”flera mil bort” i stället.|전 60킬로미터라고 쓰려고 했어요. 대신 "여러 밀(1밀은 10킬로미터) 떨어진 곳"이라고 쓰겠습니다.
+Ylva|B2|Och polisanmälan om urkundsförfalskning gör samebyn när styrelsen har bestämt sig – inte när det passar er tidning att ha en nyhet.|그리고 문서 위조 고발은 사미 마을 이사회가 결정했을 때 할 거야. 당신네 신문이 뉴스가 필요할 때가 아니라.
+Sofia|B1|Det är ert beslut, och vi skriver ingenting om en anmälan förrän ni har gjort den.|그건 여러분의 결정이에요. 고발하시기 전까진 그에 관해 아무것도 쓰지 않겠습니다.
+Viktor|B2|Får jag läsa hur jag tänkte börja? Jag skrev det i bilen: ”I dimman vid kalvningslandet står renarna tysta, som de har gjort i tusen år, medan någon i ett konferensrum skriver renägarnas namn på ett papper.”|어떻게 시작하려 했는지 읽어 드려도 될까요? 차에서 썼어요. "출산지의 안개 속에서 순록들은 천 년 동안 그래 왔듯 말없이 서 있다. 그사이 누군가 회의실에서 순록 주인들의 이름을 종이에 적는다."
+Nilla|A2|I dag var det ingen dimma. Det var sol.|오늘은 안개 같은 거 없었어. 해가 났지.
+Ylva|A2|Vi är inte bakgrundsbilden i din artikel.|우리는 당신 기사의 배경화면이 아니야.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Bures! Kom in.** | 부레스! 들어와. | *Bures*는 북사미어 인사('안녕'). 대답도 똑같이 *Bures*. 요크모크 일대의 룰레 사미어로는 *Buoris*라고 한다 — '사미어'는 하나가 아니라 여러 언어다. *Kom in* = 들어와(*komma in*의 명령형) |
+| `A2` | **Renarna kalvar just nu.** | 순록이 지금 새끼를 낳고 있다. | *kalva* = (소·순록 등이) 새끼를 낳다, 명사 *kalv*(새끼)에서 온 동사. *just nu* = 바로 지금. 출산 철은 *kalvning*, 출산지는 *kalvningsland* |
+| `B1` | **Vi var på kalvningslandet den dagen, så ingen av oss kan ha skrivit under.** | 그날 우린 출산지에 있었으니, 우리 중 누구도 서명했을 리 없다. | *kan ha* + 과거분사(supinum) = ~했을 수 있다 / 부정 *ingen … kan ha* = ~했을 리 없다. *skriva under* = 서명하다(분리동사, 강세는 *under*에) — 명사는 *underskrift* |
+| `B2` | **Ett samråd som aldrig har ägt rum kan inte ligga till grund för ett tillstånd.** | 열린 적 없는 협의는 허가의 근거가 될 수 없다. | *äga rum* = (행사·회의가) 열리다, 일어나다. *ligga till grund för* = ~의 근거·바탕이 되다 — 법률·행정 문장의 단골 표현 |
+| `B2` | **Ni får läsa era citat och rätta fakta. Men beslutet om vad som publiceras kan jag inte lämna ifrån mig.** | 인용을 읽고 사실을 바로잡을 수 있어요. 하지만 무엇을 보도할지는 제가 넘길 수 없는 결정이에요. | *lämna ifrån sig* = (권한·물건을) 내주다, 손에서 놓다. *vad som publiceras*: 의문사가 종속절의 주어일 때는 *som*이 붙는다 |
+| 관용구 | **en vacker dag** | 어느 날 갑자기, 언젠가는 | 직역 '어느 아름다운 날'. 날씨와 상관없이, 오래 쌓인 일이 어느 순간 결과로 드러날 때 쓴다. 헨릭의 돌담 비유 — 해마다 돌 하나씩 빼면 *en vacker dag* 자갈 더미만 남는다 |
+| 지역어 | **kåta** | 코타 — 사미의 전통 천막·오두막 | 북사미어 *goahti*에서 온 말. 천으로 친 이동식과 나무·흙으로 지은 고정식이 있다. 닐라의 일지 "*i kåtan*"은 출산 철에 순록 곁에서 지내는 오두막을 가리킨다 |
+| 법·산업 | **undersökningstillstånd** | 탐사 허가 | 광물을 찾기 위해 시추·시료 채취를 할 수 있는 허가로, 광산청 *Bergsstaten*이 내준다. 실제로 캐려면 별도의 채굴권 *bearbetningskoncession*과 환경 허가가 필요하다. 허가는 다른 회사에 넘길 수 있다 — Arktis가 지난겨울 사들인 것처럼 |
+
+## 저널리즘·법 메모
+2022년 3월 시행된 사미 협의법(*lagen om konsultation i frågor som rör det samiska folket*)은 정부·국가기관·지자체가 사미에게 특히 중요한 사안을 결정하기 전에 사미의회, 해당 sameby 등과 협의하고 그 협의를 기록으로 남기도록 한다. 다만 협의는 *동의*가 아니어서, 기관은 의견을 들은 뒤에도 허가할 수 있다 — 그래서 기록 자체가 공동체가 가진 거의 유일한 증거가 되고, 위조된 의사록은 절차 전체를 무너뜨린다(극 중 탐사 허가 절차는 단순화했다). 기자는 사미 마을의 위치 데이터를 *검증*에만 쓰고 지도·좌표·거리를 싣지 않기로 했다. 공개해서 얻는 정보 가치보다 출산지가 드러나 순록과 목축인이 입을 피해가 크기 때문이다. 스웨덴 언론윤리 규칙(*publicitetsregler*)은 민족 배경을 기사와 관련 있을 때만 쓰라고 하며, 공동체의 동의 없는 촬영이나 "그림이 되는" 연출도 경계한다. 인용 확인(*citatkontroll*)은 취재원에게 자기 말과 사실관계를 확인할 기회를 주는 관행이지만, 무엇을 보도할지는 출판자유법(TF)상 발행책임자(*ansvarig utgivare*)만 내릴 수 있는 결정이다 — 소피아가 기사 전체 사전 열람을 거절한 이유다.
+
+## 문화·현안 메모
+- **사미(samer)와 사미어** — 사미는 스웨덴·노르웨이·핀란드·러시아 북부에 걸쳐 사는 원주민으로, 스웨덴 의회는 1977년 사미를 원주민으로 인정했고, 2000년부터 공식 소수민족, 2011년부터는 헌법(통치법)에 하나의 '민족(folk)'으로 명시돼 있다. 사미어는 북사미어·룰레 사미어·남사미어 등 여러 언어로 나뉘며 서로 꽤 다르다. 북사미어 *Bures*(안녕), *Giitu*(고마워), *boazu*(순록), *eanan*(땅). 순록 목축인 대부분이 사미라는 이유로 모든 사미가 순록을 키우는 것으로 그리는 것도 흔한 고정관념이다 — 윌바처럼 변호사이면서 목축 가족의 일원인 사람도, 목축과 무관한 사미도 많다.
+- **sameby와 순록 출산 철** — *sameby*는 '마을'이라기보다 일정한 방목 구역에서 순록 목축을 함께 운영하는 경제·행정 조합이다. 5~6월 출산 철(*kalvning*)에는 암순록이 사람·개·드론 소리에 놀라 새끼를 버리고 달아날 수 있어, 목축인들은 무리 곁에 머물며 외부인의 접근을 막는다. 광산·풍력단지·송전선·도로·벌채가 하나씩 들어설 때마다 방목지가 조각나는 "누적 영향"이 가장 큰 쟁점이고, 눈 위에 내린 비가 얼어 순록이 이끼(*lav*)를 못 먹게 되는 기후 변화의 피해도 겹친다.
+- **포센 판결(노르웨이)** — 2021년 10월 노르웨이 대법원은 트뢴델라그 지방 포센 반도의 대형 풍력단지 허가가 사미 순록 목축인의 문화적 권리(시민적·정치적 권리에 관한 국제규약 27조)를 침해해 무효라고 판결했다. 그러나 발전기는 이미 가동 중이었고, 판결 이후에도 한동안 철거나 해결책 없이 돌아가 2023년 대규모 항의 시위로 이어졌다. 윌바가 말한 "나중에야 묻는 것"의 상징적인 사례다.
+- **요크모크(Jokkmokk)** — 북극권 바로 북쪽의 작은 도시로, 1605년부터 열려 온 2월 초의 겨울 장터(*Jokkmokks marknad*)와 사미·산악 박물관 *Ájtte*로 알려져 있다. 이곳 사미 마을들의 방목지는 산악 지대에서 숲까지 넓게 걸쳐 있다.
+- ⚠️ 윌바 사리, 닐라 사리, 안테, 작중 사미 마을과 탐사 회사, 2023년 5월 17일 "협의 기록", 예란 닐손은 모두 허구다. 사미 협의법, 광산청의 탐사 허가 제도, 포센 판결은 실제를 배경으로 했으나 절차는 극적 구성을 위해 단순화했다.
+
+## 다음 화 예고
+> 옘틀란드의 산등성이에서 군의회는 1년 만에 "반대"를 "찬성"으로 바꿨고, 그 사이 핵심 토지주들은 시세의 세 배에 땅을 팔았다. 바람은 천 년을 불었는데, 이제 갑자기 돈을 벌어야 한다.
