@@ -1,0 +1,186 @@
+@title 2부 8화 — Rusta och matcha
+@subtitle (준비와 매칭)
+@meta 날짜|2026년 2월 10일 화요일
+@meta 장소|Källaren (오전 8시 반) → 키스타의 오피스 빌딩 "Kistaporten 12" 4층 (오전 10시) → 키스타 갈레리아 푸드코트 (오후 1시) → 밤의 Källaren (밤 9시 반)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Noah** (노아 베리룬드, 24, 인턴) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Ronny** (로니, 50대, 오피스 빌딩 관리인) · **Tobias** (토비아스 헤드, 37, 고용청 위탁 사업자 Steget Vidare AB 대표)
+@intro **지난 이야기** — 사립학교 Framtidsakademin은 412명 몫의 학생 수당을 받지만, 교실에 오는 학생은 그 절반도 안 됐다. 루네베리 케이크를 내놓던 교장 야리 코스키넨은 Kungen의 사촌이었고, 문 앞에서 처음으로 빅토르를 "너"라고 불렀다. "내 사촌이 안부 전하래요. 이스탄불에서 당신을 기억한대요." 그날 밤 빅토르는 처음으로 알바에게 일을 숨기지 않았다.
+@intro 닷새 뒤, 2월 10일 화요일 아침 8시 반. 노아는 주말 내내 거울 앞에서 "일자리를 찾는 청년"을 연습했다. 연습할 것도 별로 없다 — 인턴십은 6월에 끝나고, 그 뒤엔 정말로 아무것도 없으니까. 아미라의 큰 모니터에는 막대그래프 하나가 혼자 튀어 올라 있다.
+# 장면 1 — 오전 8시 반, Källaren (아미라의 도표, 고용청 공개 사업자 목록, 노아의 "연습", 소피아의 규칙)
+Noah|B1|Jag har övat hela helgen. Lyssna: ”Hej, jag heter Noah och jag letar jobb.”|주말 내내 연습했어요. 들어 보세요. "안녕하세요, 노아라고 하는데 일자리 찾고 있어요."
+Amira|A1|Du låter som en reklamfilm.|광고 영상 같아.
+Noah|A2|Det är väl bra? Tobias låter också som en reklamfilm.|좋은 거 아니에요? 토비아스도 광고 영상처럼 말하는데.
+Sofia|B1|Innan vi börjar: har Framtidsakademin svarat?|시작하기 전에. Framtidsakademin은 답이 왔어?
+Viktor|B2|Juristen svarade i fredags, som rektorn hade lovat. Två sidor utan ett ord om tillstånd för distansundervisning, vilket i sig är ett slags svar. Begäran till CSN skickade jag i går.|법무 담당이 금요일에 답했어. 교장이 약속한 대로. 두 장인데 원격 수업 허가 얘기는 한 마디도 없어. 그것 자체가 일종의 답이지. CSN 청구는 어제 보냈고.
+Sofia|A1|Bra. Amira, kör.|좋아. 아미라, 시작해.
+Amira|B1|Det här är Arbetsförmedlingens öppna lista över leverantörer i Stockholm. Alla bolag som säljer kurser till arbetssökande finns här, med antal deltagare och resultat.|이게 고용청의 공개 사업자 목록이에요. 스톡홀름이요. 구직자한테 교육을 파는 회사는 전부 여기 있어요. 참가자 수랑 성과까지.
+Sofia|A1|Och Steget Vidare?|그래서 Steget Vidare는?
+Amira|B1|Steget Vidare AB i Kista. Enligt sina egna rapporter har de hundratjugo deltagare i veckan, och så har det sett ut sedan våren 2024.|키스타의 Steget Vidare AB요. 자기들 보고로는 매주 참가자가 120명이고, 2024년 봄부터 계속 그래요.
+Noah|A2|Det är mycket folk för en kurs i Kista, va?|키스타 교육장치고 사람 엄청 많은 거죠?
+Amira|B2|Det är inte antalet som sticker ut. Titta på den här stapeln: sextioen procent av deras deltagare får jobb eller börjar studera, medan liknande leverantörer i Stockholm ligger runt trettio.|튀는 건 인원이 아니야. 이 막대 봐. 참가자의 61퍼센트가 취업하거나 학업을 시작한대. 스톡홀름의 비슷한 사업자들은 30퍼센트 안팎인데.
+Viktor|A2|Dubbelt så bra som alla andra.|다른 데보다 두 배 잘한다는 거네.
+Amira|B2|På pappret, ja. Och det spelar roll, eftersom ersättningen är resultatbaserad: bolaget får en grundsumma per deltagare, men de stora pengarna kommer först när någon rapporteras ut i jobb.|서류상으로는. 그리고 그게 중요해. 보수가 성과 기반이거든. 회사는 참가자당 기본금을 받지만, 큰돈은 누가 취업했다고 보고될 때 비로소 들어와.
+Sofia|B1|Hur mycket betalade Arbetsförmedlingen till dem i fjol?|작년에 고용청이 거기에 얼마 냈어?
+Amira|A2|Nästan elva miljoner kronor. Bolaget har tre anställda.|거의 1,100만 크로나요. 직원은 세 명이고요.
+Noah|A1|Tre? För hundratjugo personer?|셋이요? 120명한테?
+Viktor|B2|Det bevisar ingenting än. Bakom siffran kan det finnas duktiga lärare eller inhyrd personal, och tills någon har satt sin fot där är en stapel bara en stapel.|아직 아무것도 증명 못 해. 그 숫자 뒤에 유능한 강사가 있을 수도 있고 외부 인력이 있을 수도 있어. 누가 직접 발을 들여놓기 전까지 막대는 그냥 막대야.
+Noah|A2|Och det är jag. Jag ringde Tobias Hed i fredags.|그게 저죠. 금요일에 토비아스 헤드한테 전화했어요.
+Sofia|A1|Inspelat?|녹음했어?
+Noah|B1|Ja, hela samtalet, sju minuter. Han frågade inte vad jag har gjort tidigare, bara om jag är inskriven på Arbetsförmedlingen. Vi ses i Kista Galleria klockan ett i dag.|네, 통화 전체요. 7분이요. 제가 전에 뭘 했는지는 안 묻고, 고용청에 등록돼 있냐고만 물었어요. 오늘 1시에 키스타 갈레리아에서 만나요.
+Sofia|B2|Då går vi igenom reglerna en gång till, och jag vill att du upprepar dem högt efter mig. Det är jag som bär ansvaret för att en praktikant gör det här, inte du.|그럼 규칙을 한 번 더 짚자. 내가 말하면 소리 내서 따라 해. 인턴한테 이 일을 시키는 책임은 네가 아니라 내가 지는 거야.
+Noah|A1|Okej. Kör.|네. 하세요.
+Sofia|B1|Ett: du skriver inte in dig på Arbetsförmedlingen. Du lämnar inga uppgifter till någon myndighet, inte ens ett formulär.|하나. 고용청에 등록하지 않는다. 어떤 기관에도 정보를 내지 않는다. 신청서 한 장도.
+Noah|A2|Inga uppgifter till myndigheter. Och två?|기관엔 정보 없음. 둘은요?
+Sofia|A2|Du skriver inte under på någonting.|아무것에도 서명하지 않는다.
+Noah|A2|Inte under på någonting. Inte ens med ett fejknamn?|아무것에도 서명 안 함. 가짜 이름으로도요?
+Sofia|B2|Särskilt inte med ett fejknamn. Du heter Noah, du är tjugofyra och din praktik tar slut i juni, så du söker faktiskt jobb. Mer än så behöver du inte hitta på.|가짜 이름이면 더더욱. 넌 노아고, 스물넷이고, 인턴십은 6월에 끝나. 그러니까 넌 실제로 일자리를 찾는 거야. 그 이상은 지어낼 필요 없어.
+Noah|A1|Tre, då?|그럼 셋은요?
+Sofia|B1|Du tar inte emot pengar. Inga kontanter, inget presentkort, inte ens en lunch som han betalar.|돈 받지 않는다. 현금도, 상품권도, 그 사람이 사는 점심도.
+Noah|A2|Inte ens lunch? Han sa att han bjuder.|점심도요? 자기가 산다던데요.
+Sofia|A2|Inte ens ett kvitto. Och varje samtal spelas in.|영수증 한 장도 안 돼. 그리고 모든 통화는 녹음한다.
+Viktor|B2|En sak till. När du träffar honom ringer du inte mig och låter samtalet stå på i fickan. Du får spela in ett samtal som du själv deltar i, men om jag lyssnar i smyg är det olovlig avlyssning.|하나 더. 그 사람 만날 때 나한테 전화 걸어서 주머니 속에 켜 두지 마. 네가 직접 참여하는 대화는 녹음해도 되지만, 내가 몰래 들으면 그건 불법 도청이야.
+Noah|B1|Men det tomma rummet, då? Får jag visa det för dig, om det inte är någon där?|그럼 빈 방은요? 아무도 없으면 그건 보여 드려도 돼요?
+Viktor|B1|Ett rum pratar inte. Ring på Signal när du är framme, så sitter jag på kaféet nere i gallerian.|방은 말을 안 하잖아. 도착하면 시그널로 걸어. 난 갈레리아 아래층 카페에 있을게.
+Sofia|B2|Och glöm inte varför reglerna finns. Vi får dokumentera ett brott, men vi får aldrig själva medverka till det.|그리고 규칙이 왜 있는지 잊지 마. 우리는 범죄를 기록할 수는 있지만, 절대 직접 가담해서는 안 돼.
+Noah|A1|Uppfattat.|알겠습니다.
+Viktor|B2|Och kom ihåg vad jag sa förra veckan, med Phuket: ju roligare jakten är, desto noggrannare ska du vara. I dag kommer det att kännas roligt.|그리고 지난주 푸껫 건 때 내가 한 말 기억해. 사냥이 재밌을수록 더 꼼꼼해야 한다. 오늘은 재밌게 느껴질 거야.
+# 장면 2 — 오전 10시, 키스타의 오피스 빌딩 "Kistaporten 12" 4층 (엘리베이터, 테이프로 붙인 A4 한 장, 먼지 쌓인 빈 방, 시그널 영상통화)
+Noah|A2|Jag är framme. Hör du mig?|도착했어요. 들려요?
+Viktor|A1|Ja. Var är du?|응. 어디야?
+Noah|A2|I hissen. Fjärde våningen, som det står på hemsidan.|엘리베이터요. 홈페이지에 나온 대로 4층이요.
+Viktor|A2|Vad står det på hemsidan exakt?|홈페이지에 정확히 뭐라고 돼 있어?
+Noah|B1|”Jobbsökarverkstad tisdagar nio till tre, Kistaporten 12, plan fyra.” Klockan är tio, så de borde vara mitt i.|"구직 워크숍, 매주 화요일 9시부터 3시, 키스타포르텐 12번지 4층." 지금 10시니까 한창일 때예요.
+Viktor|A1|Visa korridoren.|복도 보여 줘.
+Noah|A2|Där. Ser du? Ett A4 med tejp på dörren.|저기요. 보여요? 문에 테이프로 붙인 A4 한 장.
+Viktor|A1|Läs.|읽어.
+Noah|A2|”Steget Vidare – Kurs.” Handskrivet. Ingen logga, inga tider.|"Steget Vidare – 교육." 손글씨예요. 로고도 없고 시간도 없어요.
+Viktor|A1|Knacka.|노크해.
+Noah|A1|Hallå? Är det här kursen?|저기요? 여기가 교육장인가요?
+Viktor|B1|Ingen svarar? Känn på handtaget. Om dörren är olåst går du bara till tröskeln. Du öppnar ingenting annat, du rör ingenting, och om någon frågar säger du att du letar efter kursen.|대답 없어? 손잡이 돌려 봐. 문이 안 잠겨 있으면 문턱까지만 가. 다른 건 아무것도 열지 말고, 아무것도 만지지 마. 누가 물으면 교육장 찾는다고 해.
+Noah|A2|Bro, det är ju literally ett tomt rum.|형, 이거 진짜 말 그대로 빈 방이에요.
+Viktor|B1|Beskriv det, som om jag inte kunde se någonting.|설명해 봐. 내가 아무것도 못 본다고 치고.
+Noah|B1|Inga bord, inga stolar, ingen whiteboard. Det ligger damm på golvet, och vid dörren finns en hög med reklam som någon har stoppat in genom brevinkastet.|책상도, 의자도, 화이트보드도 없어요. 바닥엔 먼지가 앉았고, 문 옆엔 누가 우편 투입구로 밀어 넣은 광고지가 쌓여 있어요.
+Viktor|A2|Vad för reklam? Läs datumen.|무슨 광고? 날짜 읽어 봐.
+Noah|B1|Julbord på en restaurang här i Kista, sista dagen trettonde december. Och en pizzameny från november. Allt ligger kvar på golvet, ingen har plockat upp det.|여기 키스타 식당 크리스마스 뷔페요. 마지막 날이 12월 13일. 그리고 11월 피자 메뉴. 전부 바닥에 그대로예요. 아무도 안 주웠어요.
+Viktor|B2|Så sedan november har ingen gått in genom den dörren och böjt sig efter posten, men någon har brytt sig om att sätta upp en lapp utanför. Fotografera lappen och golvet så att båda syns.|그러니까 11월 이후로 저 문으로 들어가서 우편물 줍느라 허리 굽힌 사람은 없는데, 바깥에 종이 붙일 신경은 쓴 사람이 있다는 거지. 종이랑 바닥이 둘 다 보이게 찍어.
+Noah|A2|Klart. Rummet är helt tomt. Vänta, det kommer någon.|찍었어요. 방이 완전히 비어 있어요. 잠깐, 누가 와요.
+Ronny|A2|Hallå där. Letar du efter något?|어이, 거기. 뭐 찾아요?
+Noah|B1|Ja, kursen. Steget Vidare. Jag har en kompis med i telefonen, han hör dig, bara så att du vet.|네, 교육장이요. Steget Vidare. 친구가 통화 중이라 아저씨 말 들려요. 그냥 알고 계시라고요.
+Ronny|A1|Spelar ingen roll.|상관없어.
+Noah|B1|Det står ju på dörren att det är kurs här.|문에는 여기서 교육한다고 써 있잖아요.
+Ronny|B1|Den lappen kom i december. Här har ingen suttit sedan i höstas.|그 종이는 12월에 붙은 거야. 지난가을부터 여기 아무도 없었어요.
+Noah|A2|Ingen alls? Inte ens en lärare?|아무도요? 강사도요?
+Ronny|B1|Jag har varit fastighetsskötare i huset i tolv år, och jag ser vem som går in och ut. Det här kontoret har stått tomt sedan oktober. Hyran betalas, så det är inte mitt problem.|난 이 건물 관리인만 12년째야. 누가 드나드는지 다 보지. 이 사무실은 10월부터 비어 있었어. 월세는 들어오니까 내 알 바 아니고.
+Noah|A2|Vem satte upp lappen?|종이는 누가 붙였어요?
+Ronny|B2|En kille i kostym, strax före jul. Han frågade om hissen fungerade och om jag kunde låta lappen sitta kvar, och sedan dess har jag inte sett skymten av honom.|양복 입은 남자. 크리스마스 직전에. 엘리베이터 되냐고 묻더니 그 종이 그냥 붙여 둬도 되냐고 하더라고. 그 뒤로는 코빼기도 못 봤어.
+Noah|A1|Okej. Tack.|네. 고맙습니다.
+Ronny|A2|Nu måste jag gå. Hissen på plan två krånglar igen.|이제 가 봐야겠다. 2층 엘리베이터가 또 말썽이야.
+Viktor|B2|Kom ner nu. Han visste inte att han pratade med en tidning, så jag går tillbaka till honom en annan dag och frågar under mitt eget namn innan vi använder ett ord av det han sa.|이제 내려와. 그 사람은 신문사랑 얘기하는 줄 몰랐어. 그러니 다른 날 내가 내 이름 걸고 다시 가서 물어볼 거야. 그 사람 말을 한 마디라도 쓰기 전에.
+Noah|B1|Jag kommer. Filmen är sparad på jobbtelefonen, och jag har skrivit upp tiden: sju minuter över tio.|갈게요. 영상은 업무 폰에 저장했고, 시각도 적어 뒀어요. 10시 7분.
+Viktor|B1|Bra. Skriv in samma tid i loggboken i kväll, med det du såg och det han sa, innan du hinner börja tolka det.|좋아. 오늘 밤 로그에 같은 시각으로 적어. 본 것과 그 사람이 한 말을. 해석하기 시작하기 전에.
+# 장면 3 — 오후 1시, 키스타 갈레리아 푸드코트 (타이 음식 냄새, 물 한 잔, 토비아스의 성공담, 테이블 위로 미끄러져 오는 흰 봉투)
+Tobias|A2|Noah? Tobias. Sätt dig, grabben. Har du ätit?|노아? 토비아스야. 앉아, 친구. 밥 먹었어?
+Noah|A2|Nej, men det är lugnt. Jag tar bara vatten. Jag är inte hungrig.|아뇨, 근데 괜찮아요. 그냥 물 마실게요. 배 안 고파요.
+Tobias|B1|Okej, som du vill. Du sa i telefon att du har letat jobb ett tag. Hur länge då?|그래, 마음대로 해. 전화로 한동안 일자리 찾았다고 했지. 얼마나 됐어?
+Noah|B1|Min praktik tar slut i juni, och jag har ingenting efter det. Jag har sökt typ trettio jobb.|인턴십이 6월에 끝나는데 그다음엔 아무것도 없어요. 한 서른 군데 지원했어요.
+Tobias|B1|Trettio! Och hur många har ringt tillbaka?|서른 군데! 그래서 몇 군데서 연락 왔어?
+Noah|A1|Ingen.|한 군데도요.
+Tobias|B2|Precis. Det är inte ditt fel, det är systemet. När jag var nitton satt jag i Rinkeby utan jobb och utan plan, och i dag har jag ett eget bolag och tre anställda. Det är det vi säljer: ett steg vidare.|그렇지. 네 잘못 아니야, 시스템 탓이지. 나도 열아홉 땐 링케뷔에서 일도 계획도 없이 앉아 있었어. 지금은 내 회사가 있고 직원이 셋이야. 우리가 파는 게 바로 그거야. 한 걸음 더.
+Noah|A2|Låter bra. Var är kursen, då?|좋네요. 그럼 교육은 어디서 해요?
+Tobias|A2|Hur så? Vi har lokaler här i Kista.|왜? 여기 키스타에 교육장 있어.
+Noah|B1|Jag gick förbi Kistaporten i morse, eftersom det stod på hemsidan. Men där var det tomt.|오늘 아침에 키스타포르텐에 들렀어요. 홈페이지에 나와 있어서요. 근데 비어 있던데요.
+Tobias|B1|Ja, vi håller på att flytta, och det mesta sker digitalt nu ändå. Men lyssna: är du inskriven på Arbetsförmedlingen?|아, 지금 이사 중이야. 어차피 요즘은 대부분 온라인으로 하고. 그건 그렇고, 잘 들어. 고용청에 등록돼 있어?
+Noah|A1|Inte än.|아직이요.
+Tobias|B1|Gör det i morgon, det tar tio minuter med BankID. Sedan väljer du Steget Vidare som leverantör, och resten sköter vi.|내일 해. BankID로 10분이면 돼. 그다음 사업자로 Steget Vidare를 고르면 나머지는 우리가 알아서 해.
+Noah|A2|Resten? Som vad?|나머지요? 뭐요?
+Tobias|B1|Du behöver inte komma hit, vi fixar närvarolistan åt dig.|여기 올 필요 없어. 출석부는 우리가 알아서 채워 줄게.
+Noah|B1|Men jag vill ju lära mig saker, typ hur man skriver ett cv som någon faktiskt läser.|근데 전 뭘 좀 배우고 싶은데요. 누가 진짜로 읽어 주는 이력서 쓰는 법 같은 거요.
+Tobias|B2|Ditt cv fixar jag på tio minuter, grabben. Det viktiga är att du står på listan i tre månader, och om du får ett jobb under tiden ringer du mig först, inte Arbetsförmedlingen.|네 이력서는 내가 10분이면 만들어, 친구. 중요한 건 석 달 동안 명단에 올라 있는 거야. 그 사이에 일자리 구하면 고용청 말고 나한테 먼저 전화해.
+Noah|A2|Varför ska jag ringa dig först?|왜 사장님한테 먼저 전화해야 돼요?
+Tobias|B2|För att det är vi som rapporterar resultaten. Ett jobb som vi har rapporterat är värt pengar för oss, och en del av de pengarna hamnar hos dig. Alla vinner.|결과를 보고하는 게 우리니까. 우리가 보고한 취업 하나가 우리한텐 돈이고, 그 돈의 일부가 너한테 가. 모두가 이기는 거지.
+Noah|A2|Och vad får jag, typ?|그럼 전 뭘 받는데요?
+Tobias|B1|Tusen i månaden. Och en bonus nu, för att du valde oss.|한 달에 천. 그리고 우릴 골라 준 보너스를 지금.
+Noah|A1|Nu?|지금요?
+Tobias|A2|Ta den, grabben. Tusen spänn, inga frågor.|받아, 친구. 천 크로나, 아무것도 안 물어.
+Noah|A2|Nej, det är lugnt. Jag vill typ bara ha ett jobb.|아뇨, 괜찮아요. 그냥 일자리가 필요해요.
+Tobias|B1|Alla vill ha ett jobb. Men det här är pengar på bordet, i dag, och ingen behöver veta något.|다들 일자리 원하지. 근데 이건 오늘 테이블 위에 있는 돈이야. 아무도 알 필요 없고.
+Noah|A1|Nej. Ta tillbaka den.|아뇨. 도로 가져가세요.
+Tobias|A2|Du är nervös. Dina händer skakar ju.|긴장했구나. 손이 떨리네.
+Noah|A2|Det är bara kallt här inne.|그냥 여기 안이 추워서요.
+Tobias|B1|Okej. Jag gillar folk som tänker efter. Skicka ditt personnummer till mig i kväll, så fixar jag papperen.|좋아. 신중한 사람 맘에 들어. 오늘 밤에 주민번호 보내. 서류는 내가 처리할게.
+Noah|A2|Jag hör av mig. Sen.|연락드릴게요. 나중에.
+Tobias|B2|Gör det. Men vänta inte för länge, för platserna går åt fort, och ärligt talat hade jag aldrig erbjudit det här till vem som helst om jag inte hade sett något i dig.|그래. 근데 너무 오래 끌지 마. 자리 금방 차. 솔직히 너한테서 뭔가 보지 않았으면 이런 제안 아무한테나 안 했어.
+Noah|A2|Viktor? Han har gått. Han tog kuvertet med sig.|빅토르? 갔어요. 봉투는 챙겨 갔어요.
+Viktor|A1|Var är du nu?|지금 어디야?
+Noah|B1|Kvar vid bordet. Inspelningen är på fjorton minuter, och jag har inte stängt av den än. Jag vågar inte röra telefonen.|아직 테이블에 있어요. 녹음은 14분이고, 아직 안 껐어요. 폰을 못 건드리겠어요.
+Viktor|B1|Säg tiden högt innan du stänger av, så att den finns på inspelningen. Sedan går du mot tunnelbanan.|끄기 전에 시각을 소리 내서 말해. 녹음에 남게. 그다음 지하철역 쪽으로 가.
+Noah|A1|Kommer du?|오실 거예요?
+Viktor|B2|Jag går tio meter bakom dig hela vägen, men vi pratar inte förrän vi sitter på tåget. Om han står kvar någonstans i gallerian ska han inte se oss tillsammans.|가는 내내 10미터 뒤에 있을게. 근데 열차에 앉을 때까진 말하지 마. 그 사람이 갈레리아 어디에 아직 서 있다면, 우리가 같이 있는 걸 보면 안 돼.
+Noah|A1|Okej.|네.
+# 장면 4 — 밤 9시 반, Källaren (자판기 커피 두 잔, 노아의 loggbok, 빅토르의 노르셰핑 이야기, 아미라의 모니터에 열린 연차보고서와 법원 기록)
+Viktor|A2|Svart, utan socker. Det är det enda automaten kan.|블랙, 설탕 없이. 자판기가 할 줄 아는 게 그거뿐이야.
+Noah|A1|Tack.|고마워요.
+Viktor|B1|Du har skrivit loggboken, läst den två gånger och skickat den till Sofia. Varför är du fortfarande kvar?|로그 다 쓰고, 두 번 읽고, 소피아한테 보냈잖아. 왜 아직 여기 있어?
+Noah|B1|Jag vill inte åka hem än. Det känns konstigt, som om dagen inte har tagit slut.|아직 집에 가기 싫어요. 기분이 이상해요. 하루가 아직 안 끝난 것 같아요.
+Viktor|A1|Konstigt hur?|어떻게 이상한데?
+Noah|B1|Du stod utanför toaletten i gallerian i tio minuter, och jag satt därinne och fick inte stopp på händerna. Han såg det. Han sa det rakt ut.|형이 갈레리아 화장실 밖에서 10분 서 있었잖아요. 전 안에 앉아서 손이 안 멈췄어요. 그 사람도 봤어요. 대놓고 말했잖아요.
+Viktor|B2|Och du svarade att det var kallt. Det var ett bättre svar än du tror, för det gav honom en förklaring utan att ge honom något annat.|그리고 넌 춥다고 했지. 네 생각보다 훨씬 좋은 대답이었어. 그 사람한테 설명은 주되 다른 건 아무것도 안 줬으니까.
+Noah|B2|Det var en lögn. Hela dagen kändes det som ett spel, typ en quest, och sedan låg det plötsligt ett kuvert på bordet och jag kände mig som en idiot som inte ens kunde hålla i ett vattenglas.|거짓말이었잖아요. 하루 종일 게임 같았어요, 퀘스트 같은 거. 그러다 갑자기 테이블에 봉투가 놓이니까, 물컵 하나 제대로 못 드는 바보가 된 기분이었어요.
+Viktor|B1|Mitt första år i Norrköping skrev jag om en bilfirma som hade brunnit. Två gånger på tre år, och båda gångerna betalade försäkringsbolaget.|노르셰핑에서 일한 첫해에 불난 자동차 판매점 기사를 썼어. 3년에 두 번. 두 번 다 보험사가 돈을 냈지.
+Noah|A2|Tände ägaren på själv?|주인이 직접 불 낸 거예요?
+Viktor|B2|Det trodde polisen, men de kunde aldrig bevisa det. En kväll väntade han på mig i parkeringshuset bakom redaktionen och lade ett kuvert på motorhuven. Tiotusen kronor, för att jag skulle glömma hans namn.|경찰은 그렇게 봤는데 끝내 증명은 못 했어. 어느 날 저녁 그 사람이 편집국 뒤 주차장에서 날 기다리다가 보닛 위에 봉투를 올려놨어. 만 크로나. 자기 이름을 잊어 달라고.
+Noah|A1|Vad gjorde du?|어떻게 했어요?
+Viktor|B1|Jag sa nej och satte mig i bilen. Sedan satt jag där i en timme, för jag kunde inte vrida om nyckeln. Händerna ville inte.|싫다고 하고 차에 탔어. 그리고 한 시간을 거기 앉아 있었어. 키를 못 돌려서. 손이 말을 안 들었어.
+Noah|A2|Du? På riktigt?|형이요? 진짜요?
+Viktor|B2|Jag berättade aldrig det för min redaktör. Jag skrev artikeln dagen efter och låtsades att ingenting hade hänt, och i över tjugo år har jag trott att det pinsamma var att jag skakade.|편집장한텐 끝내 말 안 했어. 다음 날 기사를 쓰고 아무 일도 없었던 척했지. 그리고 20년 넘게, 창피한 건 내가 떨었다는 거라고 믿었어.
+Noah|A1|Var det inte det?|아니었어요?
+Viktor|B2|Att handen darrar betyder inte att du är svag. Det betyder att du förstod vad som stod på spel.|손이 떨렸다는 건 네가 약하다는 뜻이 아니야. 뭐가 걸려 있었는지 알았다는 거지.
+Noah|B1|Jag tänkte på Sofias regler hela tiden. Inte ens ett kvitto. Det var som om hon satt bredvid mig vid bordet.|계속 소피아 규칙을 생각했어요. 영수증 한 장도 안 된다. 소피아가 테이블 옆자리에 앉아 있는 것 같았어요.
+Viktor|B2|Det var därför hon lät dig säga dem högt. Regler som man har upprepat sitter i kroppen, och det är kroppen som bestämmer i det ögonblick då huvudet inte hinner med.|그래서 소리 내서 따라 하게 한 거야. 따라 말한 규칙은 몸에 남아. 머리가 못 따라가는 순간엔 몸이 정하거든.
+Noah|B2|Men tänk om jag hade tagit kuvertet för att inte bli avslöjad? Då hade hela granskningen handlat om mig i stället för om honom.|근데 제가 들키지 않으려고 봉투를 받았다면요? 그럼 취재 전체가 그 사람이 아니라 제 얘기가 됐겠죠.
+Viktor|B2|Precis. Då hade han kunnat säga att Stockholmspostens reporter tog emot pengar, och han hade haft rätt. Du gjorde jobbet i dag, kollega.|그렇지. 그럼 그 사람은 스톡홀름스포스텐 기자가 돈을 받았다고 말할 수 있었을 거고, 그 말이 맞았겠지. 넌 오늘 일을 해냈어, 동료.
+Noah|A2|Kollega? Inte praktikant?|동료요? 인턴 아니고요?
+Viktor|A2|Inte i kväll. Titta på din hand.|오늘 밤은 아니야. 네 손 봐.
+Noah|B1|Den är stilla. Den har varit stilla en stund.|안 떨려요. 한참 됐어요.
+Viktor|A2|Drick upp kaffet innan det blir kallt.|커피 식기 전에 마셔.
+Amira|A1|Viktor. Noah. Kom hit.|빅토르. 노아. 이리 와 봐.
+Viktor|B1|Du sa att du skulle gå hem vid sju.|일곱 시에 집에 간다고 했잖아.
+Amira|B1|Jag ljög. Steget Vidares årsredovisning, sista sidan. Titta på namnet under revisionsberättelsen.|거짓말했어. Steget Vidare 연차보고서, 마지막 장. 감사보고서 밑에 있는 이름 봐.
+Noah|A2|Ingemar Thorsell, auktoriserad revisor. Vem är det?|잉에마르 토르셀, 공인회계사. 누군데요?
+Amira|B1|Kommer du ihåg revisorskolumnen som du markerade med gult i januari? Revisorn som granskade nästan hälften av bolagen på Industrigatan? Det är han.|1월에 네가 노란색으로 칠한 회계감사인 열 기억나? 인두스트리가탄 회사 거의 절반을 감사한 그 사람? 바로 이 사람이야.
+Viktor|A1|Och Trygga Händer?|그럼 Trygga Händer는?
+Amira|A2|Samma man. Samma underskrift sedan 2021.|같은 사람. 2021년부터 같은 서명.
+Viktor|B1|En revisor med många kunder är inget brott. Vad mer har du?|고객 많은 회계감사인은 범죄가 아니야. 또 뭐 있어?
+Amira|B2|I fjol skrev han en upplysning i Steget Vidares revisionsberättelse om stora betalningar till ett utländskt bolag utan skriftligt avtal. Och sedan skrev han under ändå, som om det räckte att ha varnat.|작년에 그 사람이 Steget Vidare 감사보고서에 외국 회사로 나간 큰 지급에 대해 따로 언급을 달았어. 서면 계약이 없다고. 그러고는 그냥 서명했어. 경고했으면 됐다는 듯이.
+Noah|A1|Vilket bolag?|어느 회사요?
+Amira|B2|Det stod inte där. Men när jag sökte på hans namn dök han upp som vittne i ett tvistemål i Solna tingsrätt i fjol, där en före detta kursledare stämde Steget Vidare för obetald lön, och domstolens handlingar är allmänna. Jag begärde ut akten i går, och den kom med mejl klockan fyra.|거기엔 안 나와. 근데 그 사람 이름으로 검색했더니 작년 솔나 지방법원 민사소송에 증인으로 나오더라. 전직 강사가 임금 체불로 Steget Vidare를 고소한 사건인데, 법원 문서는 공문서잖아. 어제 사건 기록을 청구했더니 4시에 메일로 왔어.
+Viktor|B2|Smart. Ett bolag som vill verka fattigt inför en domstol brukar visa mer än det borde. Vad står i akten?|똑똑하네. 법원 앞에서 가난해 보이고 싶은 회사는 보여 줘야 할 것보다 더 보여 주기 마련이지. 기록엔 뭐가 있어?
+Amira|B2|Ironiskt nog lämnade bolaget själv in sina kontoutdrag för att bevisa att det inte hade råd med lönen. Där syns överföringar till ett konto på Cypern varje månad, märkta ”konsultarvode”.|아이러니하게도 회사가 월급 줄 여력이 없다는 걸 증명하려고 직접 계좌 내역을 냈어. 거기 매달 키프로스 계좌로 나간 송금이 보여. '컨설팅 수수료'라고 적혀서.
+Noah|B1|Cypern? Men vad har det med Trygga Händer att göra, när det är två helt olika bolag?|키프로스요? 근데 완전히 다른 회사인데, 그게 Trygga Händer랑 무슨 상관이에요?
+Amira|B2|I Liams telefon fanns sju skärmbilder som jag lade åt sidan i januari, eftersom de var utlandsbetalningar och inte passade in i kalkylarket. I kväll jämförde jag kontonumret siffra för siffra.|리암 폰에 1월에 따로 빼 둔 캡처가 일곱 장 있었어. 해외 송금이라 스프레드시트에 안 맞았거든. 오늘 밤 계좌번호를 한 자리씩 대조해 봤어.
+Viktor|A1|Och?|그래서?
+Amira|A2|Steget Vidare har samma revisor som Trygga Händer. Och pengarna landar på samma konto i Limassol.|Steget Vidare는 Trygga Händer와 회계감사인이 같아. 그리고 돈은 리마솔의 같은 계좌로 떨어져.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Är det här kursen?** | 여기가 교육장인가요? | *det här* = 이것, 여기. 의문문은 동사가 맨 앞으로(*Det här är kursen.* → *Är det här kursen?*). *kurs* → *kursen*(그 교육·강좌). 노아가 빈 방 문 앞에서 던지는 질문 — 대답이 없다는 것이 대답이다 |
+| `A2` | **Rummet är helt tomt.** | 방이 완전히 비어 있어요. | *rum* → *rummet*(그 방, 한정형에서 m이 겹친다). *helt* = 완전히(형용사 *hel*의 부사형). *tom*은 중성 명사 앞에서 *tomt*: *ett tomt rum* / *rummet är tomt* |
+| `B1` | **Du behöver inte komma hit, vi fixar närvarolistan åt dig.** | 여기 올 필요 없어. 출석부는 우리가 알아서 해 줄게. | *behöver inte* + 원형 = ~할 필요 없다(*att* 없이). *fixa … åt någon* = 누구를 위해 ~를 처리해 주다 — *åt*는 "~를 대신해서". *närvarolista* = 출석부(*närvaro* 출석 + *lista*). 친절하게 들리는 이 한 문장이 사기의 전부다 |
+| `B2` | **Vi får dokumentera ett brott, men vi får aldrig själva medverka till det.** | 우리는 범죄를 기록할 수는 있지만, 절대 직접 가담해서는 안 된다. | *får* = ~해도 된다(허가) / *får aldrig* = 절대 ~하면 안 된다. *medverka till* = ~에 가담하다, 관여하다. *själva*(복수형)는 "우리 스스로"를 강조 — 잠입 취재 전체의 경계선을 한 문장으로 그은 소피아의 규칙 |
+| `A2` | **Ta den, grabben. Tusen spänn, inga frågor.** | 받아, 친구. 천 크로나, 아무것도 안 물어. | *grabben* = 젊은 남자를 친근하게(때로는 내려다보며) 부르는 말. 명령형 *Ta!* + 대명사 *den* — 바로 앞 문장의 *en bonus*를 가리킨다. 봉투(*ett kuvert*)였다면 *det*이 됐을 것이다. 토비아스에게 그것은 봉투가 아니라 "보너스"다 |
+| `B2` | **Att handen darrar betyder inte att du är svag. Det betyder att du förstod vad som stod på spel.** | 손이 떨렸다는 건 네가 약하다는 뜻이 아니야. 뭐가 걸려 있었는지 알았다는 거지. | *att*절이 문장의 주어가 된다(*Att handen darrar* = 손이 떨린다는 것). *stå på spel* = (무엇이) 걸려 있다, 위태롭다 — *Det står mycket på spel.* (걸린 게 많다) |
+| 구어 | **tusen spänn** | 천 크로나 | *spänn*은 크로나의 구어(단수·복수 같음): *femtio spänn*, *en hundring*(100크로나 지폐), *en lax*(1,000크로나, 지난 화의 *två lax*). 은행이나 관청에서는 쓰지 않는, 길거리·친구 사이의 돈 단위 |
+| 용어 | **resultatbaserad ersättning** | 성과 기반 보수 | 고용청(*Arbetsförmedlingen*)이 위탁 사업자에게 참가자당 기본금(*grundersättning*)을 주고, 참가자가 취업하거나 학업을 시작하면 성과금(*resultatersättning*)을 더 주는 방식. 성과를 *보고하는 쪽*이 돈을 받는 쪽이라는 데 구멍이 있다 — 토비아스의 "결과를 보고하는 게 우리니까" |
+
+## 저널리즘·법 메모
+잠입 기자도 법 위에 있지 않다. 기자는 범죄를 *기록*할 수는 있지만 *가담*할 수는 없다 — 노아가 고용청에 등록해 Steget Vidare를 선택했다면 허위 출석 기록에 이름을 보탰을 것이고, 현금 봉투를 받았다면 토비아스는 "기자가 돈을 받았다"는 사실 하나로 취재 전체를 뒤집을 수 있었다. 그래서 소피아의 규칙은 등록 금지·서명 금지·금전 수수 금지·통화 녹음, 그리고 "지어내지 않기"(노아는 실명과 실제 사정을 쓴다)로 이루어진다. 녹음에도 선이 있다. 스웨덴에서는 대화의 *당사자*가 녹음하는 것은 허용되지만, 자기가 참여하지 않은 대화를 몰래 듣거나 녹음하면 *olovlig avlyssning*(불법 도청, 형법 4장 9a조)이 된다 — 빅토르가 열어 둔 전화로 푸드코트 대화를 듣지 않은 이유다. 관리인의 말도 마찬가지로, 그는 신문사와 이야기하는 줄 몰랐으므로 빅토르가 신분을 밝히고 다시 확인하기 전에는 인용하지 않는다. 마지막으로 인턴의 잠입을 승인하고 감독하는 책임은 발행책임자(*ansvarig utgivare*)에게 있다. "책임은 네가 아니라 내가 진다"는 소피아의 말은 수사가 아니라 출판자유법(TF)이 정한 구조다. 한편 아미라가 찾은 키프로스 계좌는 회사가 스스로 법원에 낸 계좌 내역에서 나왔다. 법원에 제출된 문서는 원칙적으로 공문서(*allmän handling*)여서 누구나 청구할 수 있다 — 취재원 없이도 문이 열리는 곳이다.
+
+## 문화·현안 메모
+- **고용청 위탁 매칭 사업** — 스웨덴 고용청(*Arbetsförmedlingen*)은 2010년대 말 개편 이후 구직자 지원의 상당 부분을 민간 사업자(*leverantörer*)에게 맡겼다. 구직자가 직접 사업자를 고르고, 사업자는 참가자 수와 취업 성과에 따라 돈을 받는다. 이 구조에서 출석 조작, 실제로 열리지 않는 수업, 참가자에게 돈을 주고 이름만 빌리는 사례가 보도·감사로 드러났고, 고용청은 여러 사업자와 계약을 해지했다. 이 화의 Steget Vidare AB와 수치는 모두 허구다.
+- **키스타(Kista)** — 스톡홀름 북서부의 IT·통신 기업 단지이자 대형 쇼핑몰 *Kista Galleria*가 있는 곳. 유리 오피스 빌딩 사이로 빈 사무실도 적지 않아, 서류상 주소만 둔 회사가 숨기 좋은 동네이기도 하다. 바로 옆이 1부의 후스뷔·링케뷔다.
+- ***Julbord*** — 크리스마스 시즌의 뷔페. 11월 말부터 12월 중순까지 식당과 회사 송년회가 줄줄이 *julbord*를 차린다. 빈 사무실 바닥의 *julbord* 전단은 "12월 이후 아무도 이 문을 열지 않았다"는 날짜 도장이 됐다.
+- **스웨덴의 녹음 규칙** — 스웨덴에서는 대화에 참여한 사람이 상대에게 알리지 않고 그 대화를 녹음하는 것이 원칙적으로 합법이다(당사자 한 명의 동의로 충분하다는 원칙). 그래서 스웨덴 탐사보도에서는 기자 본인이 대화에 참여하는 한 "숨긴 녹음기"가 흔한 도구지만, 보도에 쓸지는 언론윤리 규칙(*publicitetsregler*)에 따라 공익과 사생활을 따져 다시 판단한다.
+
+## 다음 화 예고
+> 2월 17일, 셈라의 날. 새벽 5시 노르비크 시청 지하에서, 아미라는 명함 대신 손으로 쓴 번호를 내민다. "Jag får inte prata. Chefen ser."
