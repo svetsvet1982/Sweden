@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (56/105화 완성)
+## 대본 목차 (57/105화 완성)
 
 ### 1부
 
@@ -100,3 +100,4 @@
 | 9 | [Stålgryning](episodes/k4_e09.md) | 강철의 새벽 |
 | 10 | [Elpriset](episodes/k4_e10.md) | 전기요금 |
 | 11 | [Länsstyrelsen](episodes/k4_e11.md) | 도청 |
+| 12 | [Mutan](episodes/k4_e12.md) | 뇌물 |
