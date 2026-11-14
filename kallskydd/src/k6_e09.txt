@@ -179,7 +179,7 @@ Henrik|B1|Det är en sak jag borde ha sagt dig för sju år sen, Viktor…|칠 �
 **메테의 덴마크어 ↔ 스웨덴어 대조**
 - `[da]` *Det er jeres drenge, men det er vores gader.* = *Det är era pojkar, men det är våra gator.* (너희 애들인데, 거리는 우리 거리야.) — *jeres/era*(너희의), *drenge/pojkar*(소년들), *vores/våra*(우리의), *gader/gator*(거리들)
 - `[da]` *Fandeme rigtigt.* ≈ *Fan i mig, det stämmer.* (젠장, 맞는 말이야.) — *rigtig*는 '올바른, 진짜'(스웨덴어 *riktig*)
-- `[da]` *halvtreds tusind* = *femtio tusen* (5만) — 덴마크어 숫자는 20을 단위로 센다: *halvtreds*는 '두 번째 20의 절반을 더한 셋째 20', 곧 2.5 × 20 = 50
+- `[da]` *halvtreds tusind* = *femtio tusen* (5만) — 덴마크어 숫자는 20을 단위로 센다: *halvtreds*는 *halvtredsindstyve*('세 번째의 절반', 곧 2.5 × 20)의 줄임말로 50
 - `[da]` *frokost*(점심) vs. 스웨덴어 *frukost*(아침), `[da]` *rolig*(차분한) vs. 스웨덴어 *rolig*(재밌는) — 스칸디나비아 학습자가 꼭 걸려 넘어지는 "가짜 친구"들
 
 ## 저널리즘·법 메모
