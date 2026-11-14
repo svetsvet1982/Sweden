@@ -1,0 +1,186 @@
+@title 6부 5화 — Kriminalvården
+@subtitle (교정청)
+@meta 날짜|2026년 10월 27일 화요일 오후 3시 20분 ~ 28일 수요일 오전 (데얀 피격 26일 뒤)
+@meta 장소|엔셰핑 외곽, 가상의 교도소 *Anstalten Granhed* 직원 주차장 — 교대 시간 (오후 3시 20분) → 엔셰핑 광장 옆 피자집 (오후 4시경) → 엔셰핑 역 뒤 헬스장 (저녁 7시 40분) → 다음 날 아침, Källaren 소회의실 — 라르스의 화이트보드 (수요일 오전 8시 반)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자) · **Kicki** (키키, 58, 그란헤드 교도소 30년 차 교도관 — 첫 등장, 성은 대사에 나오지 않는다) · **Oliver** (올리버, 27, 8주 교육 뒤 채용된 신입 교도관 — 첫 등장) · **Lars** (라르스 몰린, 62, 신문사 법률고문) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자)
+@intro **지난 이야기** — 10월 13일 새벽, 이란 출신 망명 언론인 시린의 창문으로 수류탄이 날아들었고, 마리아는 후스뷔와 순드뷔베리의 주문 계정이 같은 철자 실수와 같은 이모티콘 습관을 가졌다는 것을 보여 주었다 — 텔레그램에서 그는 자기를 "박사(Doktorn)"라고 부른다. 빅토르와 엘린은 그 돈을 따라 이스탄불까지 갔지만 Kungen은 이미 새 보호자 곁으로 떠난 뒤였고, 두 사람은 공항에서 미행을 눈치챘다. 출장 일정을 아는 사람은 몇 명 되지 않았다.
+@intro 10월 23일 금요일 밤, 제보함 Brevlådan에 한 줄짜리 메시지가 들어왔다. 아미라는 그 한 줄을 들고 주말 내내 후스뷔 주문 메시지의 발신 시각을 다시 정렬했다. 화요일 오후, 빅토르와 엘린은 엔셰핑 외곽의 교도소 직원 주차장에서 헨릭의 옛 인맥이 연결해 준 사람을 기다린다.
+# 장면 1 — 오후 3시 20분, Anstalten Granhed 직원 주차장 (교대 시간, 높은 담장과 철문, 빅토르의 회사 공용차, 줄지어 선 직원들의 차)
+Elin|A2|Klockan är tjugo över tre. Hon slutar halv fyra, sa du?|3시 20분이에요. 세 시 반에 끝난다고 하셨죠?
+Viktor|A1|Halv fyra. Om hon kommer.|세 시 반. 온다면.
+Elin|B1|Läs meddelandet igen. Jag vill höra exakt hur det stod.|메시지 다시 읽어 주세요. 정확히 어떻게 적혀 있었는지 듣고 싶어요.
+Viktor|A2|Brevlådan, fredag kväll. En enda rad: "Telefonen som beställde Husby ringde inifrån."|브레블로단, 금요일 밤. 딱 한 줄. "후스뷔를 주문한 전화는 안에서 걸었다."
+Elin|A1|Inifrån vad?|뭐 안에서요?
+Viktor|B2|Det visste vi inte, förrän Amira lade tiderna från Marias jämförelse bredvid varandra. Varje meddelande till pojken skickades efter sju på kvällen, som om någon hade en stämpelklocka.|그건 몰랐지, 아미라가 마리아의 비교 자료에 있던 시각들을 나란히 놓기 전까진. 그 애한테 간 메시지는 전부 저녁 7시 이후에 보내졌어. 누가 출퇴근 기록기라도 찍는 것처럼.
+Elin|A2|Folk skriver väl på kvällen. Det gör jag också.|사람들은 원래 저녁에 쓰잖아요. 저도 그래요.
+Viktor|B2|Inte en enda gång på dagen, inte ens på söndagar. Och kontot raderades fem över sju, en minut efter skotten. Det är inte någon som är ledig på kvällarna — det är någon som blir inlåst.|낮엔 단 한 번도 없었어, 일요일에도. 그리고 계정은 7시 5분, 총격 1분 뒤에 삭제됐어. 저녁에 한가한 사람이 아니야 — 갇히는 사람이지.
+Elin|B1|Och totalvisitationen? Amira sa att det fanns tre tysta dagar.|그럼 전면 수색은요? 아미라가 조용한 날이 사흘 있었다고 했잖아요.
+Viktor|B2|Sjätte till åttonde oktober. Inte ett ord från något av kontona med samma stavfel. Samma dagar vände de upp och ner på Granhed efter ett bråk — det stod i lokaltidningen.|10월 6일부터 8일까지. 같은 철자 실수를 하는 계정 어디에서도 한마디 없었어. 같은 날 그란헤드는 싸움이 난 뒤 교도소를 발칵 뒤집었고 — 지역 신문에 났지.
+Elin|B1|Och Doktorn då? Maria sa att det var samma beställare i båda fallen.|그럼 박사는요? 마리아는 두 사건 다 같은 주문자라고 했잖아요.
+Viktor|B2|Doktorn kanske skriver orden och betalar. Men någon annan trycker på skicka, och den personen sitter i en cell med en telefon som inte borde finnas.|박사가 문장을 쓰고 돈을 대는지도 모르지. 하지만 전송 버튼을 누르는 건 다른 누군가야. 그리고 그 사람은 있어선 안 되는 전화기를 들고 감방에 앉아 있어.
+Elin|A2|Hur hittade du henne?|그 사람은 어떻게 찾으셨어요?
+Viktor|B1|Henrik. En gammal vän till honom jobbade som vakt på nittiotalet, och han känner alla som har varit med länge.|헨릭. 헨릭의 오랜 친구가 90년대에 교도관이었는데, 오래 일한 사람은 다 알아.
+Elin|A1|Där. Den gamla Volvon.|저기요. 낡은 볼보.
+Kicki|A2|Ni är journalisterna. Gå inte fram till grinden, där sitter kameror. Vi står här vid bilen, två minuter.|기자분들이죠. 정문 쪽으론 가지 마요, 카메라가 있어요. 여기 차 옆에 서요, 2분만.
+Viktor|A2|Viktor Holm. Och det här är Elin. Och du är…?|빅토르 홀름이에요. 이쪽은 엘린. 그리고 당신은…?
+Kicki|A1|Kicki räcker.|키키면 충분해요.
+Viktor|A2|Får jag spela in det vi säger?|우리 얘기 녹음해도 될까요?
+Kicki|A2|Nej. Inga inspelningar, inga bilder. Skriv om du måste — och låt mig röka i fred.|안 돼요. 녹음도 사진도 안 돼요. 꼭 해야 하면 적어요 — 그리고 담배 좀 편히 피우게 해 줘요.
+Viktor|A1|Bara papper. Jag lovar.|종이에만요. 약속해요.
+Kicki|A1|Vad skrev du nu?|방금 뭐 적었어요?
+Viktor|A2|Ett K. Det är allt som står om dig.|K 하나요. 당신에 대해 적힌 건 그게 전부예요.
+Kicki|B1|Bra. Henriks gamla kompis sa att du var en som håller tyst om folk. Det är därför jag kom.|좋아요. 헨릭의 옛 친구가 당신은 사람 얘기를 입 밖에 안 내는 사람이라더군요. 그래서 나온 거예요.
+Elin|A2|Har du jobbat här länge?|여기서 오래 일하셨어요?
+Kicki|B1|Jag har jobbat här i trettio år, och jag har aldrig sett det så här illa.|여기서 30년 일했는데, 이렇게 엉망인 건 처음이에요.
+Viktor|A1|Vad har ändrats?|뭐가 달라졌죠?
+Kicki|A2|Allt. Folket, tempot, lurarna. Mest lurarna.|전부 다요. 사람들, 속도, 폰들. 제일은 폰이죠.
+Elin|A1|Lurarna?|폰들이요?
+Kicki|B1|Telefonerna. Mer säger jag inte här ute. Det finns en pizzeria vid torget i Enköping — kom dit om en halvtimme.|전화기요. 여기 밖에선 더 말 안 해요. 엔셰핑 광장 옆에 피자집이 있어요 — 30분 뒤에 거기로 와요.
+# 장면 2 — 오후 4시경, 엔셰핑 광장 옆 피자집 (구석 자리, 플라스틱 식탁보, 키키가 핸드백에서 꺼낸 종이 몇 장, 빅토르의 수첩)
+Elin|A2|Är det här ditt stamställe?|여기 단골집이에요?
+Kicki|B1|Ta en kebabpizza. Den är bäst här, och ingen kollar på folk som äter.|케밥 피자 시켜요. 여기서 제일 맛있고, 먹는 사람은 아무도 안 쳐다봐요.
+Viktor|A2|Berätta om lurarna. Från början.|폰 얘기 해 주세요. 처음부터.
+Kicki|B1|För två år sedan hade vi hundraåttio platser. Nu är vi uppe i tvåhundrasextio, för de har ställt in en extra säng i nästan varje rum.|2년 전엔 정원이 180명이었어요. 지금은 260명까지 올라갔죠. 거의 모든 방에 침대를 하나씩 더 넣었거든요.
+Elin|A1|Och personalen?|그럼 직원은요?
+Kicki|B1|Hälften av mitt skift är nya. När jag började gick vi bredvid en erfaren kollega i ett halvår. Nu går de en utbildning på åtta veckor, och sen står de ensamma på avdelningen.|우리 근무조 절반이 신입이에요. 내가 시작할 땐 경력자 옆에 붙어서 반년을 배웠어요. 지금은 8주 교육 받고, 그다음엔 혼자 사동에 서요.
+Viktor|B1|Men de kontrolleras väl innan de anställs? Det finns ju en säkerhetsprövning.|그래도 채용 전에 확인은 하잖아요? 보안 심사가 있으니까요.
+Kicki|B2|De kollar registret, ja. Men registret säger bara vad du har gjort, inte vem du är skyldig pengar eller vem som har ditt nummer. Den som har ett rent register och en stor skuld är precis den de letar efter där ute.|전과 조회는 하죠, 네. 근데 기록은 당신이 뭘 했는지만 말해 주지, 누구한테 돈을 빚졌는지, 누가 당신 번호를 갖고 있는지는 말 안 해요. 기록은 깨끗한데 빚이 큰 사람 — 바깥 놈들이 찾는 게 딱 그런 사람이에요.
+Elin|B1|Så när man anställer så snabbt hinner man inte kontrollera vilka man släpper in.|그러니까 그렇게 빨리 뽑으면, 누굴 들이는지 확인할 시간이 없다는 거네요.
+Kicki|B2|Precis. Och vi som har varit med länge får springa dubbelt, samtidigt som vi ska lära upp folk som kanske redan är köpta innan de har fått sina nycklar.|바로 그거예요. 그리고 오래 있던 우리는 두 배로 뛰어야 해요. 열쇠를 받기도 전에 이미 매수됐을지도 모르는 사람들을 가르치면서요.
+Viktor|A2|I telefon sa du att det handlar om en av de nya.|전화로는 신입 중 한 명 얘기라고 하셨죠.
+Kicki|A2|Han började jobba här för bara tre månader sedan.|여기서 일 시작한 지 겨우 석 달 됐어요.
+Viktor|A1|Vad heter han?|이름이 뭐죠?
+Kicki|B1|Oliver. Tjugosju år, trevlig, tränar varje kväll. Efternamnet får ni inte av mig, men ni kommer att hitta det ändå.|올리버. 스물일곱, 싹싹하고, 매일 저녁 운동해요. 성은 나한테서 못 들어요. 근데 어차피 찾아내겠죠.
+Elin|A2|Hur vet du att det är han?|그 사람인 걸 어떻게 알아요?
+Kicki|A2|Titta. Det här är beslagsliggaren för B-avdelningen, augusti till oktober.|봐요. 이게 B사동 압수물 대장이에요, 8월부터 10월까지.
+Viktor|A1|Hur många telefoner?|전화기 몇 대요?
+Kicki|B1|Vi hittar två, tre i veckan på B. Det har varit så i flera år. Men titta på de här veckorna.|B에선 일주일에 두세 대씩 찾아요. 몇 년째 그래요. 근데 이 주들을 봐요.
+Elin|A2|Vecka trettiosex: noll. Trettioåtta: noll. Fyrtio: noll.|36주차, 0. 38주차, 0. 40주차, 0.
+Kicki|B1|Och här är schemat. Han jobbar varannan vecka, och de veckorna är det han som visiterar rummen på B.|그리고 이게 근무표예요. 그 사람은 격주로 일하는데, 그 주엔 B사동 방 수색을 그 사람이 해요.
+Viktor|A2|Och han hittar aldrig något.|그리고 아무것도 못 찾고요.
+Kicki|A1|Aldrig. Inte en laddare.|한 번도요. 충전기 하나도.
+Elin|A2|Var tränar han? Du sa varje kväll.|어디서 운동해요? 매일 저녁이라고 하셨죠.
+Kicki|B1|Han lägger upp allt på Instagram. Gymmet bakom stationen, efter halv åtta, varje kväll som han har jobbat.|인스타에 다 올려요. 역 뒤 헬스장, 7시 반 넘어서, 근무한 날은 매일 저녁.
+Elin|B1|Schemat har du fotat med mobilen. Vet någon annan att du har det?|근무표는 휴대폰으로 찍으셨네요. 그걸 갖고 있다는 걸 아는 사람이 있어요?
+Kicki|B1|Schemat hänger på väggen i personalrummet, alla har sett det. Liggaren är svårare — den skrev jag ut i förra veckan.|근무표는 휴게실 벽에 붙어 있어요, 다들 봤죠. 대장은 좀 달라요 — 그건 지난주에 내가 출력했어요.
+Viktor|B2|Då tar jag inte med mig några papper. Jag skriver av siffrorna för hand här vid bordet, och du gör dig av med kopian i kväll.|그럼 서류는 하나도 안 가져갈게요. 숫자는 여기 식탁에서 손으로 옮겨 적고, 사본은 오늘 밤 처분하세요.
+Kicki|A2|Du är försiktig. Det gillar jag.|조심성이 있네요. 그거 맘에 들어요.
+Viktor|A2|Jag har lärt mig den hårda vägen.|힘들게 배웠어요.
+Elin|A2|Vad kostar en telefon där inne?|안에서 전화기 한 대가 얼마예요?
+Kicki|A2|Tjugo lax för en lur. Det är mer än han tjänar på en vecka.|폰 한 대에 2만이에요. 걔 일주일 벌이보다 많죠.
+Viktor|A1|Tjugo tusen?|2만 크로나요?
+Kicki|B1|Lax, ja. Tusen kronor. Och telefonen kostar kanske trehundra i affären, så resten är betalt för risken.|락스요, 네. 천 크로나. 전화기는 가게에서 300크로나쯤 할 테니까, 나머진 위험값이죠.
+Elin|B1|Vem köper? Det är väl inte vem som helst som har tjugo tusen på kåken.|누가 사요? 교도소 안에서 2만 크로나 가진 사람이 아무나는 아닐 텐데요.
+Kicki|B2|Ingen betalar därinne. Pengarna går utanför, mellan folk som aldrig har träffat varandra, och lurarna hamnar i samma rum varje gång: B-avdelningen, rum tolv. Vi kallar det kontoret.|안에서 돈 내는 사람은 없어요. 돈은 밖에서, 서로 본 적도 없는 사람들 사이에서 오가고, 폰은 매번 같은 방으로 가요. B사동 12호. 우린 거길 "사무실"이라고 불러요.
+Viktor|A1|Vem sitter i kontoret?|사무실엔 누가 있죠?
+Kicki|B1|En av Zenits gamla, dömd till fjorton år. Han läser inte, han tränar inte, han pratar knappt med någon. Men klockan sju, när dörrarna låses, då börjar hans arbetsdag.|Zenit의 옛 고참 하나요. 14년 받았어요. 책도 안 읽고, 운동도 안 하고, 누구랑 말도 거의 안 해요. 근데 7시, 문이 잠기면 그때 그 사람 근무가 시작되는 거죠.
+Elin|B1|Har du rapporterat det här? Till din chef?|이거 보고하셨어요? 상사한테?
+Kicki|B2|Två avvikelserapporter i september. Svaret var att alla anstalter har samma problem och att jag skulle vara glad att vi alls får folk. Så nu sitter jag här och äter pizza med er.|9월에 이상 보고서 두 번이요. 돌아온 답은, 모든 교도소가 똑같은 문제를 안고 있고 사람을 뽑을 수 있는 것만도 다행으로 알라는 거였어요. 그래서 지금 여기서 당신들이랑 피자 먹고 있는 거고요.
+Viktor|B1|Är du rädd för vad som händer om de får veta att du har pratat med oss?|우리랑 얘기한 걸 그쪽에서 알게 되면 무슨 일이 생길지 두려우세요?
+Kicki|B2|Min chef får inte efterforska vem som har pratat med er — det står i grundlagen. Men grundlagen sitter inte med i fikarummet.|내 상사는 누가 당신들이랑 얘기했는지 캐면 안 돼요 — 기본법에 나와 있어요. 근데 기본법이 휴게실에 같이 앉아 있진 않거든요.
+# 장면 3 — 저녁 7시 40분, 엔셰핑 역 뒤 헬스장 (형광등, 덤벨 부딪는 소리, 거울 벽, 출입문이 보이는 벤치 — 빅토르는 주차장 차 안에서 기다린다)
+Elin|A2|Ursäkta, är du klar med bänken?|실례지만, 벤치 다 쓰셨어요?
+Oliver|A1|Ja… ta den.|네… 쓰세요.
+Elin|A2|Du tittar på dörren hela tiden. Väntar du på någon?|계속 문 쪽을 보시네요. 누구 기다려요?
+Oliver|A1|Nej. Nej, ingen.|아뇨. 아뇨, 아무도.
+Elin|B1|Jag ska vara ärlig mot dig, Oliver, för det förtjänar du. Jag heter Elin och jag är journalist på Stockholmsposten.|솔직하게 말할게요, 올리버. 그래야 공평하니까요. 저는 엘린이고, Stockholmsposten 기자예요.
+Oliver|A2|Hur vet du vad jag heter?|내 이름 어떻게 알아요?
+Elin|B1|Du har ett öppet Instagramkonto med fyrtio bilder från det här gymmet. Det var inte svårt.|공개 인스타 계정에 이 헬스장 사진이 마흔 장 있잖아요. 어렵지 않았어요.
+Oliver|A1|Jag går nu.|나 갈게요.
+Elin|B2|Du får gå, och jag följer inte efter dig. Men jag tror att du har burit på något i flera månader som du inte kan berätta för någon på jobbet, och jag är inte här för att sätta dit dig.|가도 돼요. 따라가지 않을게요. 근데 제 생각엔 몇 달째 직장 누구한테도 말 못 할 걸 혼자 짊어지고 있잖아요. 전 당신을 엮어 넣으려고 온 게 아니에요.
+Oliver|A1|Spelar du in det här?|이거 녹음해요?
+Elin|A2|Nej. Ingen telefon i handen, ser du? Den ligger i skåpet.|아뇨. 손에 폰 없죠? 사물함에 있어요.
+Oliver|A1|Okej… okej.|알았어요… 알았어요.
+Elin|B1|Jag vet om telefonerna på B. Jag vet inte varför, och det är det jag vill förstå.|B사동 폰들에 대해선 알아요. 왜인지는 몰라요. 제가 이해하고 싶은 건 그거예요.
+Oliver|A2|Vem har sagt det? Är det… är det Kicki?|누가 그래요? 그거… 키키예요?
+Elin|B1|Jag säger aldrig vem jag har pratat med. Inte om dig heller, om du pratar med mig.|전 누구랑 얘기했는지 절대 말 안 해요. 당신이 저랑 얘기해도, 당신에 대해서도 마찬가지고요.
+Oliver|A2|Det spelar ingen roll. De vet ändå allt.|상관없어요. 걔들은 어차피 다 알아요.
+Elin|A1|Vilka "de"?|"걔들"이 누군데요?
+Oliver|A2|Jag vet inte. Jag har aldrig sett dem.|몰라요. 한 번도 본 적 없어요.
+Elin|A2|Hur började det?|어떻게 시작됐어요?
+Oliver|B1|Jag hade lån. Snabblån, för bilen och… sånt. I våras var det uppe i hundratio tusen, och de ringde varje dag.|빚이 있었어요. 소액 대출이요, 차 때문에, 그리고… 이것저것. 봄에 11만까지 불었고, 매일 독촉 전화가 왔어요.
+Elin|A1|Och sen?|그다음엔요?
+Oliver|B1|Sen skrev en tjej till mig på Instagram. Jasmin. Hon var rolig, vi skrev varje kväll i två månader, och hon visste att jag hade sökt till Kriminalvården.|그러다 인스타로 어떤 여자가 연락해 왔어요. 야스민. 재밌었고, 두 달 동안 매일 밤 메시지 했어요. 내가 교정청에 지원한 것도 알았고요.
+Elin|A1|Träffades ni?|만났어요?
+Oliver|A2|Aldrig. Hon hade alltid en anledning.|한 번도요. 늘 핑계가 있었어요.
+Elin|B1|Låt mig gissa. Sen hade hon en kusin som kunde hjälpa dig med skulden.|맞혀 볼게요. 그다음엔 빚 문제를 도와줄 수 있는 사촌이 있었고요.
+Oliver|A2|Hur… ja. En kusin. Skulden försvann på en vecka.|어떻게… 네. 사촌이요. 빚이 일주일 만에 없어졌어요.
+Elin|B1|Och den kusinen ville förstås ha något tillbaka.|그리고 그 사촌은 당연히 뭔가를 돌려받고 싶어 했겠죠.
+Oliver|B1|Först var det bara en laddare som jag skulle ta med in. En laddare, liksom. Sen en telefon. Sen tre.|처음엔 충전기 하나 갖고 들어가는 거였어요. 그냥 충전기요. 그다음엔 전화기 하나. 그다음엔 세 개.
+Elin|B1|Har du försökt sluta?|그만두려고 해 본 적 있어요?
+Oliver|A2|En gång. I september. Jag skrev att jag inte ville mer.|한 번요. 9월에. 더는 안 하겠다고 보냈어요.
+Elin|A2|Och vad gjorde de då?|그래서 걔들이 어떻게 했어요?
+Oliver|A2|Jag… jag vet inte. De har bilder på mammas ytterdörr, fattar du?|나… 모르겠어요. 걔들이 우리 엄마 집 현관 사진을 갖고 있다고요, 알아요?
+Elin|B1|Visa mig. Jag tar ingen bild, jag vill bara se.|보여 줘요. 사진은 안 찍어요. 보기만 할게요.
+Oliver|A2|Här. "Fin dörr. Hälsa mamma." Hon bor i Bålsta. Ensam.|여기요. "문 예쁘네. 엄마한테 안부 전해." 엄마는 볼스타에 살아요. 혼자.
+Elin|B2|Lyssna på mig nu. Det jag har sett stannar i mitt huvud, och ditt namn kommer inte att stå i någon text. Men du måste prata med en advokat, för ingen journalist i världen kan skydda din mamma.|이제 제 말 들어요. 제가 본 건 제 머릿속에만 남고, 당신 이름은 어떤 기사에도 안 나와요. 하지만 변호사랑 얘기해야 해요. 세상 어떤 기자도 당신 어머니를 지켜 줄 순 없으니까요.
+Oliver|A2|Om jag pratar, då… då vet de det.|내가 말하면… 그럼 걔들이 알 텐데.
+Elin|B2|De vet redan att du är rädd, och det är därför de äger dig. Det enda de inte vet är att du har börjat tänka på en väg ut.|걔들은 당신이 겁먹은 걸 이미 알아요. 그래서 당신을 쥐고 있는 거고요. 걔들이 모르는 건 딱 하나, 당신이 빠져나갈 길을 생각하기 시작했다는 거예요.
+Oliver|A1|Jag måste gå. Skriv inte.|가야 해요. 연락하지 마요.
+# 장면 4 — 다음 날 수요일 오전 8시 반, Källaren 소회의실 (라르스의 화이트보드에 적힌 세 단어, 식은 커피, 빅토르의 수첩, 아미라의 노트북 — 밤새 켜져 있었다)
+Lars|B2|Innan någon säger något: inga namn i det här rummet. Vi talar om källan på anstalten och om den nyanställde, och det räcker för allt jag behöver veta.|누가 말하기 전에 — 이 방에선 이름 금지예요. 교도소의 취재원, 그리고 신입 직원이라고만 합시다. 내가 알아야 할 건 그걸로 충분해요.
+Viktor|A2|Hon heter K i min bok. Inget mer.|제 수첩에선 K예요. 그 이상은 없어요.
+Lars|B2|Bra. Då till tavlan. Jag har skrivit tre ord som låter nästan likadant, men de skyddar olika saker mot olika människor.|좋아요. 그럼 칠판으로. 거의 비슷하게 들리는 단어 세 개를 썼는데, 서로 다른 것을 서로 다른 사람들로부터 지켜 줘요.
+Amira|A2|Meddelarfrihet, efterforskningsförbud, repressalieförbud. Det låter som en omgång Alfapet.|제보의 자유, 색출 금지, 보복 금지. 무슨 알파펫 한 판 하는 것 같네요.
+Lars|B2|Det första betyder att hon får berätta för oss, även om det hon säger egentligen omfattas av tystnadsplikt på jobbet. Det gäller nästan allt, utom ett fåtal saker som rör rikets säkerhet.|첫 번째는 그녀가 우리에게 말해도 된다는 뜻이에요. 그 내용이 원래 직장의 비밀유지 의무에 걸리는 것이라도요. 국가 안보에 관한 몇 가지를 빼면 거의 모든 게 해당돼요.
+Elin|B1|Gäller det också papperen hon visade oss, liggaren och schemat?|그녀가 보여 준 서류에도 해당돼요? 대장이랑 근무표요?
+Lars|B2|Där är det svårare. Att berätta är skyddat, men att lämna ut en hemlig handling kan i sig vara ett brott. Därför gjorde Viktor rätt när han lät papperen ligga kvar: vi citerar inte ur dem, och vi visar dem för ingen.|거긴 더 까다로워요. 말하는 건 보호되지만, 비밀 문서를 넘기는 건 그 자체로 범죄일 수 있어요. 그래서 빅토르가 서류를 두고 온 건 옳았어요. 거기서 인용하지 않고, 누구에게도 보여 주지 않습니다.
+Viktor|B1|Siffrorna har jag skrivit av för hand. Noll, noll, noll — samma veckor som han visiterade.|숫자는 손으로 옮겨 적었어요. 0, 0, 0 — 그가 수색을 맡은 주와 똑같아요.
+Lars|B2|Det andra ordet är det viktigaste för henne. Kriminalvården är en myndighet, och en myndighet får inte efterforska vem som har pratat med medierna. Ingen chef får fråga, leta i loggar eller jämföra scheman för att hitta henne.|두 번째 단어가 그녀에겐 제일 중요해요. 교정청은 공공기관이고, 공공기관은 누가 언론과 얘기했는지 캐선 안 돼요. 어떤 상사도 그녀를 찾으려고 묻거나, 로그를 뒤지거나, 근무표를 대조해선 안 됩니다.
+Amira|A1|Och om de gör det?|그럼 그렇게 하면요?
+Lars|B2|Då begår de själva ett brott. Och det tredje ordet betyder att hon inte får straffas för att hon har pratat — ingen omplacering, ingen varning, inga sämre pass.|그럼 그 사람들이 범죄를 저지르는 거죠. 그리고 세 번째 단어는 그녀가 말했다는 이유로 불이익을 받아선 안 된다는 뜻이에요 — 전보도, 경고도, 나쁜 근무 배정도 안 돼요.
+Viktor|B1|Det sa hon också, nästan ordagrant. Fast hon lade till att grundlagen inte sitter med i fikarummet.|그녀도 그렇게 말했어요, 거의 그대로. 다만 기본법이 휴게실에 같이 앉아 있진 않다고 덧붙였죠.
+Lars|B2|Hon är offentligt anställd, och därför har hon ett starkare skydd än någon av oss i det här rummet.|그녀는 공무원이라 이 방의 누구보다 강한 보호를 받습니다.
+Elin|A1|Starkare än vi?|우리보다 더요?
+Lars|B2|Stockholmsposten är ett privat företag. Om någon här ringde en annan tidning, skulle Sofia få leta efter den personen — lagen hindrar henne inte, bara hennes eget omdöme.|Stockholmsposten은 사기업이에요. 여기 누가 다른 신문사에 전화한다면, 소피아는 그 사람을 찾아도 돼요 — 법은 막지 않아요. 막는 건 그녀 자신의 판단뿐이죠.
+Viktor|B2|Så hennes chef får inte leta efter henne, men vi får leta efter en av våra egna. Och vi gör det redan, med loggar och scheman — precis det som ni nyss sa att ingen får göra mot henne.|그러니까 그녀의 상사는 그녀를 찾으면 안 되는데, 우린 우리 사람 하나를 찾아도 된다는 거네요. 그리고 이미 그러고 있죠, 로그와 근무표로 — 방금 아무도 그녀한테 해선 안 된다고 하신 바로 그 방식으로.
+Lars|B2|Det finns en skillnad, Viktor. Den som skickade din bild vidare lämnade inte uppgifter till en tidning för publicering, utan sålde dem till människor som skjuter. Det är ingen meddelare, och den personen har inget skydd alls.|차이가 있어요, 빅토르. 당신 사진을 넘긴 사람은 보도를 위해 신문사에 정보를 준 게 아니라, 총 쏘는 사람들한테 팔았어요. 그건 제보자가 아니고, 그 사람은 아무 보호도 못 받아요.
+Viktor|B2|Jag vet. Men det gör det inte lättare att sitta här och förklara för en källa att hon är skyddad, när jag inte kunde skydda min egen.|알아요. 그래도 내 취재원 하나 못 지킨 사람이 여기 앉아서 다른 취재원한테 당신은 보호받는다고 설명하는 게 쉬워지진 않네요.
+Amira|B1|Kan jag ta det jag har? Jag satt med tiderna i natt, och det är värre än vi trodde.|제가 가진 거 말해도 될까요? 밤새 시각들을 붙잡고 있었는데, 생각보다 더 나빠요.
+Lars|A1|Varsågod.|하세요.
+Amira|B2|Bilden från Viktors anteckningsbok skickades till pojken tjugo över sju på kvällen den tjugonionde september, alltså efter inlåsning. Men den kan inte ha tagits där inne — någon utanför måste ha skickat den till en lur i en cell.|빅토르 수첩 사진은 9월 29일 저녁 7시 20분에 그 애한테 보내졌어요. 그러니까 문이 잠긴 뒤예요. 근데 그 사진이 안에서 찍혔을 리는 없잖아요 — 밖에 있는 누군가가 그걸 감방 안의 폰으로 보냈어야 해요.
+Elin|B1|Så kedjan går från vårt hus, via någon utanför, in i rum tolv och ut till en femtonåring.|그러니까 사슬이 우리 건물에서, 밖의 누군가를 거쳐, 12호실로 들어갔다가, 열다섯 살짜리한테 나간 거네요.
+Amira|B2|Om rum tolv stämmer, ja. Jävlar, det fungerar som en växel. Ingen i kedjan behöver känna någon annan än nästa länk, och den som sitter längst in har ingenting kvar att förlora.|12호실이 맞다면, 응. 젠장, 이건 꼭 교환기처럼 돌아가. 사슬 속 누구도 바로 다음 고리 말고는 아무도 알 필요가 없고, 제일 안쪽에 앉은 놈은 더 잃을 것도 없어.
+Viktor|B2|Och den som sitter längst ut, i vårt hus, har allt att förlora. Det är därför den personen gör det — inte för pengarnas skull, utan för att någon har något på henne eller honom.|그리고 제일 바깥, 우리 건물에 앉은 사람은 잃을 게 전부지. 그래서 그 사람이 그러는 거야 — 돈 때문이 아니라, 누군가 그 사람 약점을 쥐고 있어서.
+Elin|B2|Som med den nyanställde. En skuld, en snäll röst på Instagram och sedan ett foto av mammas dörr. Han påminde mig om Hanna, Viktor — hon trodde också att hon bara gjorde någon en liten tjänst.|신입처럼요. 빚 하나, 인스타의 다정한 목소리, 그리고 엄마 집 문 사진. 한나가 생각났어요, 빅토르 — 그 사람도 누군가에게 작은 부탁 하나 들어주는 것뿐이라고 믿었잖아요.
+Lars|B2|Då ska ni veta en sak till. I samma ögonblick som han pratade med Elin blev även han en meddelare. Vi får inte tipsa polisen om honom, hur gärna vi än vill hjälpa honom.|그럼 하나 더 알아 둬요. 그가 엘린과 얘기한 그 순간, 그도 제보자가 됐어요. 아무리 돕고 싶어도 우리가 경찰에 그를 알려선 안 됩니다.
+Elin|B2|Jag sa åt honom att ringa en advokat, och mer än så kan jag inte göra utan att bli en del av hans historia i stället för den som berättar den.|변호사한테 전화하라고 했어요. 그 이상은 제가 할 수 없어요. 그랬다간 그 이야기를 전하는 사람이 아니라 그 이야기의 일부가 돼 버리니까요.
+Viktor|B2|Då skriver vi så här, och jag föreslår det för Sofia före lunch: inget namn, ingen ålder, ingen avdelning som går att känna igen. Texten handlar om hur Kriminalvården anställer — åtta veckor, dubbla sängar och ett register som inte säger vem du är skyldig pengar.|그럼 이렇게 쓰죠. 점심 전에 소피아한테 제안할게요. 이름 없음, 나이 없음, 알아볼 수 있는 사동 없음. 기사는 교정청이 어떻게 사람을 뽑는지에 관한 거예요 — 8주, 두 배가 된 침대, 그리고 누구한테 빚졌는지는 알려 주지 않는 전과 조회.
+Lars|B1|Och ni ger Kriminalvården chansen att svara. Men ställ frågorna brett, inte om tre bestämda veckor på B.|그리고 교정청에 반론 기회를 줘요. 다만 질문은 넓게 해요. B사동의 특정한 세 주에 대해서가 아니라.
+Amira|B1|För att bara en handfull människor har sett just de siffrorna.|그 숫자를 본 사람이 손에 꼽을 만큼밖에 없으니까요.
+Lars|B2|Exakt. En fråga kan peka ut en källa lika tydligt som ett namn. Lagen förbjuder dem att leta, men den hindrar inte en klumpig journalist från att visa dem vägen.|바로 그거예요. 질문 하나가 이름만큼 분명하게 취재원을 가리킬 수 있어요. 법은 그들이 찾는 걸 금지하지만, 서툰 기자가 그들에게 길을 알려 주는 것까지 막아 주진 못해요.
+Viktor|A1|Förstått.|알겠습니다.
+Amira|B1|En sak till, och den gillar jag inte. Poolbilen till Enköping låg i deskens gemensamma kalender i går: "Holm, Sjöqvist, heldag". Alla vid desken kan se den.|하나 더요, 이건 맘에 안 들어요. 엔셰핑 가는 공용차가 어제 데스크 공용 캘린더에 올라 있었어요. "홀름, 셰크비스트, 종일." 데스크에 있는 사람은 누구나 볼 수 있어요.
+Elin|B1|Det står inte Granhed där, bara Enköping. Hur mycket kan man gissa utifrån det?|거기 그란헤드라고 적힌 건 아니잖아요, 엔셰핑뿐이지. 그걸로 얼마나 짐작할 수 있겠어요?
+Viktor|B2|Tillräckligt, om man redan vet vad vi letar efter. Och Fredrik har skrivit till mig två gånger sedan i går och frågat vem vakten är — för planeringen, säger han. Han får samma svar som alla andra: desken får veta när det finns en text.|우리가 뭘 찾는지 이미 안다면 충분하지. 그리고 프레드릭이 어제부터 두 번이나 문자로 그 교도관이 누구냐고 물었어 — 지면 기획 때문이래. 다른 모두랑 똑같은 답을 받을 거야. 데스크는 기사가 나오면 알게 된다고.
+Amira|B1|Han är nyhetschef, Viktor. Han frågar alla om allt, det har han alltid gjort.|그 사람 뉴스 데스크장이잖아, 빅토르. 다들한테 다 물어봐. 늘 그래 왔어.
+Viktor|B2|Jag vet. Men i går satt jag mittemot en kvinna som har lagen på sin sida och ändå inte vågade prata framför grinden på sitt eget jobb, och i dag inser jag att vi har exakt samma hål som Granhed. Vi vet bara inte vem som bär in lurarna hos oss.|알아. 그런데 어제 난 법이 자기 편인데도 자기 직장 정문 앞에서는 말 한마디 못 꺼내는 여자 맞은편에 앉아 있었어. 그리고 오늘 깨달았지. 우리도 그란헤드랑 똑같은 구멍을 갖고 있다는 걸. 우리 쪽에선 누가 폰을 들고 들어오는지 모를 뿐이야.
+Elin|A1|Din telefon, Viktor.|빅토르, 전화요.
+Amira|A1|Vem är det?|누구야?
+Viktor|A2|Det är K. Hallå? Ja, jag kan prata.|K야. 여보세요? 네, 얘기할 수 있어요.
+Kicki|B1|I morse fick jag veta att jag flyttas till en annan anstalt, tjugo mil bort. Någon har börjat leta.|오늘 아침, 200킬로 떨어진 다른 교도소로 발령 난다는 걸 들었어요. 누군가 찾기 시작했어요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Hur många telefoner?** | 전화기 몇 대요? | *hur många* + 복수 명사 = 몇 개(셀 수 있는 것). 셀 수 없는 것에는 *hur mycket*: *Hur mycket kostar en telefon?* *telefon*의 복수는 *telefoner*(-er 복수) |
+| `A2` | **Han började jobba här för bara tre månader sedan.** | 여기서 일 시작한 지 겨우 석 달 됐어요. | *för … sedan* = ~ 전에(과거 시점). *börja* + 동사 원형 — 구어에서는 *att*를 흔히 생략한다(*började jobba*). *bara*(겨우)를 시간 표현 앞에 넣으면 "얼마 안 됐다"는 뉘앙스 |
+| `B1` | **När man anställer så snabbt hinner man inte kontrollera vilka man släpper in.** | 그렇게 빨리 뽑으면 누굴 들이는지 확인할 시간이 없어요. | *när*로 시작하는 종속절이 앞에 오면 주절은 동사가 먼저 — *hinner man*(V2 어순). *hinna* = (시간 안에) ~할 여유가 있다. *vilka* 간접의문절 안에서는 평서문 어순: *vilka man släpper in* |
+| `B1` | **Jag har jobbat här i trettio år, och jag har aldrig sett det så här illa.** | 여기서 30년 일했는데, 이렇게 엉망인 건 처음이에요. | 현재완료 + *i trettio år* = 30년째 계속(지금도 일한다). *aldrig*는 조동사 *har* 뒤에. *så här illa* = 이 정도로 나쁘게 — *illa*는 *dålig*의 부사형 |
+| `B2` | **Min chef får inte efterforska vem som har pratat med er — det står i grundlagen.** | 내 상사는 누가 당신들과 얘기했는지 캐면 안 돼요 — 기본법에 나와 있어요. | *får inte* = ~해선 안 된다(금지). 의문사가 주어인 간접의문절에는 *som*이 붙는다: *vem som har pratat*. *det står i …* = ~에 쓰여 있다(법·신문·문서) |
+| `B2` | **Hon är offentligt anställd, och därför har hon ett starkare skydd än någon av oss i det här rummet.** | 그녀는 공무원이라 이 방의 누구보다 강한 보호를 받습니다. | *offentligt anställd* = 공공 부문 고용인(부사 *offentligt* + 분사). *därför* 뒤 도치 *har hon*. *starkare … än någon av oss* = 우리 중 누구보다 강한 |
+| 슬랭 | **tjugo lax** · **lur** · **kåken** | 2만 크로나 · 폰 · 교도소 | *lax*(연어)는 천 크로나를 뜻하는 은어 — 옛 천 크로나 지폐의 붉은빛에서 왔다는 설이 있다. *lur*는 원래 수화기, 지금은 휴대폰. *kåken*(허름한 집)은 교도소를 부르는 오래된 은어 — *sitta på kåken*(감옥살이하다) |
+| 보안·법 | **repressalieförbud** | 보복 금지 | *repressalie*(보복) + *förbud*(금지). 공공기관은 언론에 제보한 직원에게 전보·경고·불리한 근무 배정 같은 불이익을 줄 수 없다. 짝을 이루는 말이 *efterforskningsförbud*(색출 금지) — 찾는 것부터 금지, 찾았더라도 벌하는 것은 또 금지 |
+
+## 저널리즘·법 메모
+이번 화의 중심은 라르스가 칠판에 쓴 세 단어다. *meddelarfrihet*(제보의 자유)는 교도관 키키가 직무상 비밀유지 의무가 걸린 내용이라도 보도를 위해 언론에 말할 수 있다는 뜻이다. 국가 안보 같은 소수의 예외만 빼면 그렇다. 다만 말하는 것과 비밀 문서를 넘기는 것은 다르다 — 그래서 빅토르는 압수물 대장 사본을 가져오지 않고 숫자만 손으로 옮겨 적는다. 공공기관에는 *efterforskningsförbud*(누가 제보했는지 캐는 것 금지)와 *repressalieförbud*(제보자에게 불이익을 주는 것 금지)가 걸려 있고, 이를 어긴 공무원은 처벌받을 수 있다. 이 보호는 원칙적으로 공공 부문 직원의 것이어서, 사기업인 Stockholmsposten의 직원에게는 같은 방패가 없다. 뉴스룸이 내부에서 두더지를 찾는 일은 법이 막지 않는다. 게다가 갱단에 정보를 판 사람은 보도를 위해 말한 제보자가 아니므로 보호 대상도 아니다. 마지막으로 라르스가 짚는 실무 교훈은 반론권 질의다. 반론을 요청하는 질문이 너무 구체적이면(특정한 세 주, 특정 사동) 질문 자체가 취재원을 가리키는 지도가 된다. 엘린과 이야기한 올리버 역시 그 순간부터 제보자이므로, 기자가 그를 경찰에 알릴 수는 없다.
+
+## 문화·현안 메모
+- **교정청의 급속 확장** — 처벌 강화와 수용 인원 증가로 스웨덴 교정청(Kriminalvården)은 2020년대 들어 대규모 증원에 나섰고, 한 방에 두 명을 수용하는 *dubbelbeläggning*과 신입 교도관의 짧은 교육 기간, 그리고 직원이 범죄 조직에 포섭되는 문제가 감독기관과 언론에서 거듭 지적되었다. 극 중 수치(8주 교육, 180→260명)는 이야기를 위한 설정이다.
+- **inlåsning(저녁 잠금)** — 스웨덴 교도소는 저녁 일정 시각에 수용자를 각자의 방에 잠그고 아침에 연다. 극 중 그란헤드는 저녁 7시. 아미라가 찾아낸 "7시 이후에만 발신"이라는 패턴은 바로 이 일과표의 흔적이다.
+- **엔셰핑(Enköping)** — 스톡홀름과 베스테로스 사이 E18 고속도로변의 소도시로, 공원과 원예로 알려져 "Sveriges närmaste stad"(스웨덴에서 가장 가까운 도시)라는 홍보 문구를 쓴다. *Alfapet*은 스웨덴판 단어 보드게임(스크래블)이다.
+- ⚠️ *Anstalten Granhed*과 그 안의 인물·사건, B사동 12호, 근무표와 압수물 대장은 모두 허구이며 실제 교도소나 교정청 직원의 행위를 묘사하지 않는다.
+
+## 다음 화 예고
+> 일주일 뒤, 알바의 휴대폰에 소년원에서 온 스냅챗 한 통 — "Säg till din pappa att jag måste prata med honom."

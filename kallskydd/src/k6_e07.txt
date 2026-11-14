@@ -1,0 +1,194 @@
+@title 6부 7화 — Kommundata
+@subtitle (지자체 데이터)
+@meta 날짜|2026년 11월 10일 화요일 오전 8시 반 ~ 오후 5시 반경 (리암의 "Kapten" 경고 일주일 뒤)
+@meta 장소|Källaren 격리 분석실 — 인터넷이 끊긴 노트북, 문 옆 휴대폰 바구니 (오전 8시 반) → 노르비크 시청 3층, IT 책임자 사무실 (오전 11시) → 시청 주차장, 빅토르의 차 안 — 전화 세 통 (낮 12시 10분경) → Källaren 회의실 (오후 5시)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Noah** (노아 베리룬드, 24, 기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Ulf** (울프 그란크비스트, 50대, 노르비크 시 IT 책임자 — 첫 등장) · **Robban** (로베르트 "롭반" 할린, 46, SiS 시설 Björkbacken 치료 보조원 — 전화) · **Maria** (마리아 벤베리, 50, NOA 경감 — 전화) · **Hedvig** (헤드비그 팔크, 36, 사주가 보낸 외부 보안감사관) · **Agnes** (아그네스 에크만, 39, 야간 편집자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장)
+@intro **지난 이야기** — 웁란드의 SiS 시설 Björkbacken 면회실에서, 열다섯 살 리암은 감시 직원이 자리를 비운 30초 동안 빅토르에게 속삭였다. "너희 신문사에 Kungen이랑 얘기하는 사람이 있어. 그쪽에선 그를 Kapten이라고 불러." 사내 모두가 프레드릭을 그렇게 부른다. 소피아는 "너무 뻔하다"고 했고, 프레드릭은 웃으며 두 손을 들었다. "선장? 그럼 나겠네. 축하해, 사건 해결했네."
+@intro 일주일 뒤, 11월 10일 화요일 아침. 8월에 노르비크 시의회 의장의 메일을 흘렸던 랜섬웨어 그룹 NightLedger가 자정 직전 자기들 유출 사이트에 나머지를 전부 올렸다. 마흔 개 지자체에 시스템을 공급하는 Kommundata AB의 300기가바이트. 아미라는 아침 7시부터 격리실 문을 잠그고 앉아 있다.
+# 장면 1 — 오전 8시 반, Källaren 격리 분석실 (인터넷 케이블이 뽑힌 노트북 두 대, 문 옆의 휴대폰 바구니, 빈 4테라 디스크, 아미라의 종이 수첩)
+Amira|A2|Mobilerna i korgen. Allihop. Din också, Sofia.|휴대폰은 바구니에. 전부 다. 소피아 것도.
+Sofia|A1|Här. Den är avstängd.|여기. 꺼 놨어.
+Noah|A2|Datorn är offline. Jag drog ut kabeln själv i morse.|노트북 오프라인이에요. 아침에 케이블 제가 직접 뽑았어요.
+Viktor|A1|Hur mycket data?|데이터가 얼마나 돼?
+Amira|B1|Trehundra gigabyte. NightLedger lade ut allt strax före midnatt, när det stod klart att Kommundata inte tänkte betala.|300기가. Kommundata가 돈을 안 낼 게 확실해지니까, NightLedger가 자정 직전에 전부 올렸어.
+Noah|A2|Filerna ligger ute på nätet sedan i natt. Vem som helst kan ta dem.|파일들이 어젯밤부터 인터넷에 떠 있어요. 누구든 가져갈 수 있어요.
+Viktor|A2|Samma grupp som i augusti?|8월이랑 같은 그룹이야?
+Amira|B2|Samma namn, samma sajt och samma mappstruktur som i mejlen om Ahlgren: först servern, sedan kommunen, sedan användaren. Det är samma intrång, de har bara väntat med resten.|같은 이름, 같은 사이트, 알그렌 메일 때랑 같은 폴더 구조. 먼저 서버, 그다음 지자체, 그다음 사용자. 같은 침입이야. 나머지를 쥐고 기다렸던 것뿐이지.
+Noah|B1|Asså, förra veckan sålde de mapparna en och en på ett forum. I natt släppte de allt gratis.|그러니까, 지난주엔 포럼에서 폴더를 하나씩 팔았어요. 그러다 어젯밤에 전부 공짜로 풀어 버린 거예요.
+Amira|A2|Hur vet du det?|그걸 네가 어떻게 알아?
+Noah|A2|Man läser. Det är inte hemligt.|읽으면 알아요. 비밀도 아니에요.
+Sofia|B1|I augusti sa Kommundata att det var en begränsad incident och att inga personuppgifter hade läckt.|8월에 Kommundata는 제한적인 사고였고 개인정보는 하나도 안 샜다고 했지.
+Amira|A1|De ljög.|거짓말이었네.
+Sofia|B2|Eller så visste de inte. Det ska vi ta reda på innan vi skriver att någon har ljugit.|아니면 몰랐거나. 누가 거짓말했다고 쓰기 전에 그것부터 알아내야 해.
+Viktor|B1|Och de fyratusen barnfilerna som vi fick lösenordet till i augusti? Vad hände med dem?|8월에 비밀번호까지 받았던 아동 파일 4천 개는? 그건 어떻게 됐어?
+Sofia|B2|Vi öppnade aldrig en enda. Jag skrev till Norrvik och Kommundata i september, och disken ligger förseglad i mitt kassaskåp. Nu ligger samma filer öppna för hela världen.|한 개도 안 열었어. 9월에 내가 노르비크랑 Kommundata에 서면으로 알렸고, 디스크는 봉인해서 내 금고에 있어. 근데 이제 같은 파일들이 온 세상에 열려 있네.
+Noah|B1|Om vi laddar ner allt på en gång går det mycket snabbare. Jag har en tom disk på fyra tera.|한 번에 다 받으면 훨씬 빨라요. 4테라짜리 빈 디스크 있어요.
+Amira|A1|Fan, nej.|젠장, 안 돼.
+Noah|A2|Varför inte? Den är ju krypterad.|왜요? 암호화돼 있잖아요.
+Amira|B1|Vi öppnar fillistan först. Inte filerna. Fattar ni? Listan.|파일 목록부터 열어. 파일 말고. 알겠지? 목록.
+Viktor|A2|Varför är listan viktigare?|왜 목록이 더 중요해?
+Amira|B2|För att varje fil vi laddar ner blir vår. Ligger ett barns journal på vår disk, då är det vi som måste skydda den, och vi som kan tappa den.|우리가 받는 파일 하나하나가 우리 게 되니까. 어떤 아이의 기록이 우리 디스크에 있으면, 그걸 지켜야 하는 것도 우리고 잃어버릴 수 있는 것도 우리야.
+Sofia|B1|Då bestämmer vi reglerna nu, innan någon klickar. Vad behöver vi egentligen?|그럼 누가 클릭하기 전에 지금 규칙을 정하자. 우리한테 실제로 필요한 게 뭐야?
+Amira|B1|Listan, och några få filer som vi kan jämföra med offentliga handlingar. Ett protokoll från fullmäktige, till exempel.|목록, 그리고 공문서랑 대조할 수 있는 파일 몇 개. 예를 들면 시의회 회의록.
+Viktor|B1|Om protokollet i dumpen är identiskt med det som ligger på kommunens hemsida, vet vi att dumpen är äkta.|덤프 속 회의록이 시 홈페이지에 올라온 거랑 똑같으면, 덤프가 진짜라는 걸 아는 거지.
+Sofia|B1|Vi laddar inte ner mer än vi behöver för att kunna verifiera läckan. Det är regel ett.|유출을 검증하는 데 필요한 것 이상은 받지 않는다. 그게 규칙 1이야.
+Noah|A1|Och regel två?|규칙 2는요?
+Sofia|B2|Inga namn, inga adresser och inga personnummer i någon text, inte ens i ett internt mejl. Och de som drabbas ska få höra det av oss innan de läser om det.|이름, 주소, 주민번호는 어떤 글에도 안 들어가. 내부 메일에도. 그리고 피해자들은 기사로 읽기 전에 우리한테서 먼저 들어야 해.
+Noah|A2|Okej. Listan är klar. Jag läser upp den.|네. 목록 다 됐어요. 읽어 볼게요.
+Amira|A2|Bara mappnamnen. Inget annat.|폴더 이름만. 다른 건 말고.
+Noah|B1|Kd-mail01, det är mejlen. Kd-fil02, socialtjänstens akter från tolv kommuner. Och kd-plac01, nåt som heter placeringsportalen.|kd-mail01은 메일이고요. kd-fil02는 지자체 열두 곳 사회복지 서류. 그리고 kd-plac01은 '배치 포털'이라는 거요.
+Viktor|A1|Placeringsportalen?|배치 포털?
+Amira|B1|Där skickar kommunerna sina förfrågningar när ett barn ska placeras på ett hem, både HVB och SiS. Även Stockholms stadsdelar använder den.|아이를 시설에 보내야 할 때 지자체들이 요청을 넣는 데야. HVB도, SiS도. 스톡홀름 구청들도 그걸 써.
+Noah|B1|Och i kd-fil02 finns en mapp som heter "skyddade". Med sekretessmarkering, typ. Fyrahundra filer.|그리고 kd-fil02 안에 '보호'라는 폴더가 있어요. 비밀 표시 붙은 거요, 뭐랄까. 파일 400개.
+Amira|B2|Jävlar. Det är folk som har flytt från någon, och vars adresser inte ens Skatteverket lämnar ut. Om adresserna ligger ute är det kört för de här ungarna.|젠장. 누군가한테서 도망친 사람들이야. 국세청도 주소를 안 내주는 사람들. 주소가 밖에 돌면 이 애들은 끝장이야.
+Sofia|B2|Då ringer vi polisen före allt annat, och Viktor åker till Norrvik och frågar varför en kommun lämnar sina mest skyddade invånare hos en leverantör som inte ens märkte att den hade blivit rånad.|그럼 무엇보다 먼저 경찰에 전화하고, 빅토르는 노르비크로 가. 왜 시가 가장 보호받아야 할 주민들을 털린 줄도 몰랐던 업체에 맡겼는지 물어봐.
+Viktor|A2|Jag åker nu. Ring om ni hittar något mer.|지금 갈게. 뭐 더 나오면 전화해.
+# 장면 2 — 오전 11시, 노르비크 시청 3층, IT 책임자 울프 그란크비스트의 사무실 (출력해 둔 답변 메모, 벽에 걸린 "Trygg digital kommun" 포스터, 탁자 위 빅토르의 녹음기와 휴대폰)
+Ulf|B1|Välkommen. Jag har tjugo minuter, och jag vill säga från början att det här är en attack mot vår leverantör, inte mot kommunen.|어서 오세요. 20분 있습니다. 처음부터 말씀드리고 싶은 건, 이건 저희 공급사에 대한 공격이지 시에 대한 공격이 아니라는 겁니다.
+Viktor|A2|Jag spelar in. Går det bra?|녹음하겠습니다. 괜찮으세요?
+Ulf|A1|Ja. Det går bra.|네. 괜찮습니다.
+Viktor|A2|När fick ni veta det?|언제 아셨어요?
+Ulf|B1|Kommundata informerade oss i augusti om en begränsad incident. Vi fick då beskedet att inga personuppgifter hade påverkats.|8월에 Kommundata가 제한적인 사고라고 알려 왔습니다. 그때 개인정보는 영향을 받지 않았다고 들었고요.
+Viktor|A2|Vi skrev till er i september.|저희가 9월에 서면으로 알려 드렸죠.
+Ulf|B1|Ert brev skickades vidare till leverantören samma dag. Det är leverantören som ansvarar för driften.|보내 주신 편지는 그날로 공급사에 전달했습니다. 운영 책임은 공급사에 있으니까요.
+Viktor|A1|Och sedan?|그다음엔요?
+Ulf|A2|De svarade att de inte kunde bekräfta att filerna kom från deras system.|그 파일이 자기들 시스템에서 나왔다고 확인할 수 없다고 답했습니다.
+Viktor|B1|Det stod "Norrvik" i varje sökväg, och kommunalrådets mejl låg i en mapp med hans användarnamn. Vad behövde ni mer?|경로마다 '노르비크'가 적혀 있었고, 시의회 의장 메일은 그 사람 사용자 이름 폴더에 들어 있었어요. 뭐가 더 필요하셨어요?
+Ulf|B2|Jag förstår att det ser ut så i efterhand, men vi är en liten kommun som saknar resurser att göra en egen teknisk utredning av en leverantörs system.|지나고 보면 그렇게 보인다는 건 압니다. 하지만 저희는 공급사 시스템을 자체적으로 기술 조사할 여력이 없는 작은 지자체예요.
+Viktor|A2|Får min kollega vara med på högtalare? Hon har läst listan.|제 동료가 스피커로 참여해도 될까요? 목록을 본 사람이에요.
+Ulf|A1|Om det går fort.|빨리 끝난다면요.
+Amira|A2|Hej, Amira Saleh. Bara en fråga. Känner ni till kontot lev-support-19?|안녕하세요, 아미라 살레입니다. 질문 하나만요. lev-support-19라는 계정 아세요?
+Ulf|A1|Nej. Vad är det?|아니요. 그게 뭡니까?
+Amira|B2|Ett VPN-konto för en konsult som slutade i mars förra året. Det gick ut på pappret men stängdes aldrig, och i dumpen syns det att någon loggade in med det i början av augusti.|작년 3월에 일을 그만둔 컨설턴트의 VPN 계정이에요. 서류상으론 만료됐는데 실제로는 한 번도 안 닫혔고, 덤프를 보면 8월 초에 누가 그 계정으로 로그인했어요.
+Viktor|B1|Samma väg in som för mejlen i augusti, alltså. Det har aldrig varit två olika intrång.|그러니까 8월 메일 때랑 같은 길로 들어온 거네요. 침입이 두 번이었던 적은 없었던 거예요.
+Ulf|B1|I så fall är det en fråga för Kommundata. Kontohanteringen ingår i deras uppdrag.|그렇다면 그건 Kommundata에 물으실 문제입니다. 계정 관리는 그쪽 업무에 들어 있어요.
+Amira|A2|Kontot kom åt er placeringsportal.|그 계정은 시의 배치 포털에도 들어갈 수 있었어요.
+Ulf|A1|Portalen också?|포털까지요?
+Amira|B1|Och mappen med skyddade personuppgifter. Det står i behörighetslistan, som också ligger i dumpen.|보호 대상 개인정보 폴더에도요. 권한 목록에 그렇게 적혀 있어요. 그 목록도 덤프에 있고요.
+Viktor|A1|Tack, Amira.|고마워, 아미라.
+Ulf|B2|Vi har gjort en anmälan om personuppgiftsincident till IMY inom 72 timmar, och kommunens krisledning sammanträder i eftermiddag.|저희는 72시간 안에 IMY에 개인정보 침해 사고 신고를 했고, 시 위기대응반이 오늘 오후에 회의를 합니다.
+Viktor|B1|Inom 72 timmar räknat från i natt, eller från augusti?|72시간이라는 게 어젯밤부터인가요, 8월부터인가요?
+Ulf|A2|Från i morse. När vi såg sajten.|오늘 아침부터요. 사이트를 봤을 때부터.
+Viktor|B2|Då har det gått nästan tre månader sedan en leverantör som ni betalar sa att ingenting hade hänt, och ingen här frågade vad "begränsad" betydde.|그럼 돈 주고 쓰는 업체가 아무 일도 없었다고 한 지 거의 석 달이 지났는데, 여기선 아무도 '제한적'이 무슨 뜻인지 안 물어본 거네요.
+Ulf|B1|Vi litade på avtalet. Det är så upphandling fungerar.|저희는 계약을 믿었습니다. 조달이란 게 원래 그렇게 돌아가요.
+Viktor|A2|Vem skrev under avtalet med Kommundata?|Kommundata와의 계약서에 누가 서명했죠?
+Ulf|A2|Det är upphandlingsavdelningens område, så…|그건 조달 부서 소관이라…
+Viktor|A2|Då begär jag ut avtalet. I dag.|그럼 계약서 공개를 청구하겠습니다. 오늘.
+Ulf|B2|Det får ni gärna göra, men delar kan omfattas av sekretess av säkerhetsskäl, och i så fall får ni ett skriftligt beslut som ni kan överklaga.|그러셔도 됩니다. 다만 일부는 보안상 이유로 비공개일 수 있고, 그 경우엔 이의 제기할 수 있는 서면 결정을 받으실 겁니다.
+Viktor|B2|Sekretessen stoppade inte NightLedger. Den hindrar bara dem som har betalat för systemet från att få veta vad de har köpt.|비밀 유지가 NightLedger는 못 막았죠. 그건 그 시스템 값을 낸 사람들이 자기가 뭘 샀는지 알지 못하게 막을 뿐이에요.
+Ulf|A2|Jag har ett möte nu.|이제 회의가 있습니다.
+Viktor|A2|Jag mejlar mina frågor i eftermiddag. Ni får svara skriftligt.|질문은 오후에 메일로 보내겠습니다. 서면으로 답하셔도 됩니다.
+# 장면 3 — 낮 12시 10분경, 노르비크 시청 주차장, 빅토르의 차 안 (시동을 걸지 않은 차, 대시보드 위의 휴대폰 — 노아, 롭반, 마리아 순으로 세 통의 전화)
+Noah|A1|Viktor? Är du kvar där?|빅토르? 아직 거기예요?
+Viktor|A2|I bilen. Vad har hänt?|차 안이야. 무슨 일이야?
+Noah|B1|Jag sökte på Björkbacken i placeringsportalens lista, bara för att se hur många barn det gäller.|배치 포털 목록에서 Björkbacken을 검색해 봤어요. 몇 명이나 해당되는지만 보려고요.
+Viktor|A1|Och?|그래서?
+Noah|A2|Det är Liam. Hans namn står i filnamnet.|리암이에요. 파일 이름에 걔 이름이 있어요.
+Viktor|A1|Öppnade du den?|열어 봤어?
+Noah|B1|Nej! Amira öppnade den med Sofia bredvid sig. Bara första sidan, för att se hur farligt det är.|아니요! 아미라가 열었어요, 소피아 옆에서. 첫 페이지만요. 얼마나 위험한지 보려고요.
+Viktor|A2|Vad står det?|뭐라고 쓰여 있어?
+Noah|B1|Hela namnet, personnummer, Björkbacken och vilken avdelning. Och en rad om att han lämnade uppgifter till polisen förra hösten.|풀네임, 주민번호, Björkbacken, 어느 병동인지. 그리고 작년 가을에 경찰에 진술했다는 한 줄이요.
+Viktor|A1|Herregud.|맙소사.
+Noah|B2|Asså, i morse var det bara mappnamn och gigabyte för mig, typ ett spel. Nu är det en kille som jag har pratat med.|그러니까, 오늘 아침까진 저한테 그냥 폴더 이름이랑 기가바이트였어요. 게임 같은 거. 근데 이제 제가 얘기해 본 애예요.
+Viktor|A2|Jag vet. Lägg på nu. Jag ringer Robban.|알아. 이제 끊어. 롭반한테 전화할게.
+Robban|A2|Hallin. Jag står i ett kök med tolv ungdomar.|할린입니다. 지금 애들 열두 명이랑 주방에 있어요.
+Viktor|A2|Det är Viktor. Har du en minut? Det är bråttom.|빅토르예요. 1분 있어요? 급해요.
+Robban|A1|Vänta. Jag går ut.|잠깐만요. 나갈게요.
+Viktor|A2|Robban, hans placering ligger ute på nätet. Ni måste flytta honom i dag.|롭반, 리암 배치 정보가 인터넷에 떠 있어요. 오늘 옮겨야 해요.
+Robban|A1|Liams?|리암 거요?
+Viktor|B1|Hans akt ligger i Kommundatas dump, med avdelningen och en anteckning om att han har pratat med polisen.|그 애 서류가 Kommundata 덤프에 있어요. 병동이랑, 경찰이랑 얘기했다는 메모까지요.
+Robban|B2|Då vet varenda kille med en mobil i madrassen vad han har gjort redan före lunch. Här inne golar man inte, och den som har gjort det får betala.|그럼 매트리스에 폰 숨긴 놈들은 점심 전에 다 알겠네요, 걔가 뭘 했는지. 여기선 고자질 안 해요. 한 놈은 대가를 치르고요.
+Viktor|A1|Kan ni flytta honom?|옮길 수 있어요?
+Robban|B1|Det är socialtjänsten och SiS som beslutar, inte jag. Men föreståndaren kan ta honom till ett enkelrum tills beslutet kommer.|결정은 사회복지과랑 SiS가 해요, 제가 아니라. 그래도 원장이 결정 날 때까지 1인실로 옮길 수는 있어요.
+Viktor|B1|Hans handläggare i Hässelby måste få veta det nu, inte i morgon. Jag ringer polisen också.|헤셀뷔 담당 사회복지사도 내일 말고 지금 알아야 해요. 저는 경찰에도 전화할게요.
+Robban|A2|Jag ringer föreståndaren nu.|원장한테 지금 전화할게요.
+Viktor|B1|Säg sanningen till Liam: att hans papper har läckt. Inte vem som hittade dem.|리암한테는 사실대로 말해 주세요. 서류가 샜다고요. 누가 찾아냈는지는 말고요.
+Maria|A2|Wennberg. Jag vet varför du ringer.|벤베리. 왜 전화했는지 알아.
+Viktor|A2|Vet du om Liam?|리암 일 알아?
+Maria|B1|Jag vet om fyrahundra personer med skyddade personuppgifter i fyrtio kommuner. Vi har ringt dem en och en sedan nio i morse.|지자체 마흔 곳에 보호 대상 개인정보를 가진 사람 400명이 있다는 건 알아. 아침 9시부터 한 명씩 전화하고 있어.
+Viktor|B1|Liam finns inte i den mappen. Han finns i placeringsportalen, och där står det att han har hjälpt er.|리암은 그 폴더에 없어. 배치 포털에 있어. 그리고 거기에 그 애가 너희를 도왔다고 쓰여 있어.
+Maria|A1|Fan.|젠장.
+Viktor|A2|Han är femton, Maria.|열다섯 살이야, 마리아.
+Maria|B2|Jag ringer SiS säkerhetschef och begär en omplacering redan i eftermiddag, och om de säger att det inte går, tar jag det högre upp.|SiS 보안 책임자한테 전화해서 오늘 오후 안에 이송해 달라고 할게. 안 된다고 하면 윗선으로 올릴 거고.
+Viktor|A1|Tack.|고마워.
+Maria|B1|Och Viktor: skriv ingenting om honom, inte ens att en pojke på ett ungdomshem finns med.|그리고 빅토르, 그 애에 대해선 아무것도 쓰지 마. 청소년 시설의 한 소년이 들어 있다는 것조차.
+Viktor|A1|Aldrig.|절대 안 써.
+# 장면 4 — 오후 5시, Källaren 회의실 (벽 화면에 띄운 폴더 이름 하나, 헤드비그가 출력해 온 2024년 호스팅 계약서와 부속서, 야간 근무를 앞둔 아그네스의 커피, 아미라 무릎 위의 격리 노트북)
+Sofia|A2|Är Liam flyttad?|리암은 옮겼어?
+Viktor|B1|Klockan tre och fyrtio. Maria ringde från bilen, men inte ens hon fick veta vart.|3시 40분에. 마리아가 차에서 전화했어. 근데 어디로인지는 마리아도 못 들었대.
+Sofia|B1|Bra. Det är precis så det ska vara.|잘됐네. 딱 그래야 하는 거야.
+Amira|B1|Då tar vi nästa sak. I eftermiddag gick jag igenom kd-web04, Kommundatas webbhotell. Titta på mappnamnet.|그럼 다음 거. 오후에 Kommundata 웹 호스팅인 kd-web04를 훑어봤어. 폴더 이름 봐.
+Noah|A1|SP_brevlada.|SP_brevlada.
+Viktor|A2|Vår brevlåda?|우리 제보함?
+Amira|B1|Metadata från servern där Brevlådan körs. Klockslag, IP-adresser, vilken dörr och hur stor bilagan var.|Brevlådan이 돌아가는 서버의 메타데이터야. 시각, IP 주소, 어느 문으로 들어왔는지, 첨부파일 크기.
+Sofia|B1|Brevlådan sparar inga loggar. Det har vi lovat varenda källa sedan starten.|Brevlådan은 로그를 안 남겨. 처음부터 모든 취재원한테 그렇게 약속했어.
+Amira|B2|Programmet sparar ingenting, det stämmer. Men webbservern framför det gör det, och den står inte hos oss utan hos ett dotterbolag till Kommundata.|프로그램은 아무것도 안 남겨, 그건 맞아. 근데 그 앞단 웹 서버는 남겨. 그리고 그 서버는 우리 쪽이 아니라 Kommundata 자회사에 있어.
+Agnes|A2|Sedan när då?|아니, 언제부터?
+Hedvig|B1|Sedan maj 2024. Samma sparprogram som stängde av inspelningen hos IT:s helpdesk flyttade också Brevlådan till en extern leverantör.|2024년 5월부터요. IT 헬프데스크 녹음을 끈 그 비용 절감 사업이 Brevlådan도 외부 업체로 옮겼습니다.
+Viktor|A2|Ingen sa något till oss.|아무도 우리한테 말 안 했어.
+Hedvig|A2|Avtalet ligger i mitt material. Det godkändes av nyhetsdesken.|계약서는 제 자료에 있습니다. 승인란엔 '뉴스 데스크'라고 돼 있어요.
+Fredrik|B2|Av mig, alltså. Lennart ville spara tre miljoner det året, och IT sa att Kommundata redan körde servrar åt fyrtio kommuner. Jag skrev under det som IT rekommenderade.|그러니까 나지. 그해 레나트가 300만 크로나를 줄이고 싶어 했고, IT는 Kommundata가 이미 지자체 마흔 곳 서버를 돌린다고 했어. 난 IT가 추천한 걸 서명했어.
+Sofia|B1|Och jag godkände budgeten. Det är lika mycket mitt ansvar.|그리고 예산은 내가 승인했지. 내 책임이기도 해.
+Viktor|A1|Läste någon bilagorna?|부속서 읽은 사람 있어?
+Hedvig|B1|Bilaga fyra: "Standardloggning enligt leverantörens rutin." Ingen har strukit under någonting.|부속서 4: '공급사 절차에 따른 표준 로깅.' 아무도 밑줄 하나 안 그었어요.
+Fredrik|A2|Nej. Det gjorde jag inte.|그래. 난 안 읽었어.
+Agnes|B1|Så alla som har tipsat oss sedan maj 2024 ligger nu på en läcksajt, med klockslag.|그러니까 2024년 5월부터 우리한테 제보한 사람이 전부, 지금 시각까지 찍혀서 유출 사이트에 올라가 있다는 거네.
+Amira|B1|Och med IP-adress. De flesta använde Tor eller ett kafé, men inte alla.|IP 주소까지. 대부분은 Tor나 카페를 썼는데, 다 그런 건 아니야.
+Noah|A2|Hur många skrev hemifrån?|집에서 보낸 사람은 몇 명이에요?
+Amira|A2|Jag har räknat till trettioen.|서른한 명까지 셌어.
+Sofia|B2|Att metadata från vår egen tipslåda finns i dumpen betyder att vi har svikit dem som litade på oss. Det ska stå i vår egen artikel, i första stycket.|우리 제보함의 메타데이터가 덤프에 있다는 건, 우리를 믿은 사람들을 우리가 저버렸다는 뜻이야. 그건 우리 기사 첫 문단에 들어가야 해.
+Fredrik|B1|Vänta lite. Om vi skriver det skrämmer vi bort varenda framtida källa. Kan vi inte skriva "ett medieföretag"?|잠깐만. 그렇게 쓰면 앞으로 올 취재원을 전부 쫓아내는 거야. 그냥 '한 언론사'라고 쓰면 안 돼?
+Sofia|B2|Det vore att gömma oss bakom ett ord. De som litade på oss förtjänar att höra det rakt ut, och helst från oss innan någon annan berättar det.|그건 단어 하나 뒤에 숨는 거야. 우리를 믿은 사람들은 이걸 똑바로 들을 자격이 있어. 될 수 있으면 다른 누가 말하기 전에 우리한테서.
+Viktor|B1|Hur varnar man en källa när man inte vet vem det är?|누군지도 모르는 취재원한테 어떻게 경고해?
+Amira|B1|Genom Brevlådan själv. Ett meddelande överst på sidan till alla som har skrivit till oss, och nya lappar till dem vi träffar.|Brevlådan 자체로. 우리한테 써 보낸 모든 사람한테 페이지 맨 위에 공지 하나, 그리고 직접 만나는 사람들한텐 새 쪽지.
+Sofia|B2|Dörr två stängs i kväll, och vi öppnar ingen ny dörr förrän servern står i vårt eget hus, där ingen bilaga fyra bestämmer vad som sparas.|2번 문은 오늘 밤 닫아. 그리고 서버가 우리 건물 안에 들어올 때까진 새 문은 없어. 부속서 4 같은 게 뭘 남길지 정하지 못하는 곳으로.
+Fredrik|B1|Jag kan ta ner den nu och byta alla lösenord själv. Det tar tio minuter.|내가 지금 내리고 비밀번호도 전부 직접 바꿀게. 10분이면 돼.
+Sofia|A2|Inte själv. Hedvig gör det med IT.|혼자는 안 돼. 헤드비그가 IT랑 같이 해.
+Hedvig|B1|Då behöver jag veta vilka som har kunnat logga in på servern. Vem har desk-admin?|그럼 누가 서버에 로그인할 수 있었는지 알아야겠네요. desk-admin은 누가 갖고 있죠?
+Agnes|A2|Jag. För nattens tips.|저요. 밤 제보 때문에.
+Fredrik|A2|Jag. Det följer med jobbet.|나. 직책에 딸려 오는 거야.
+Noah|B1|Och jag, sedan augusti, för valtipsen. Fredrik fixade det, och sedan tog ingen tillbaka det.|그리고 저요. 8월부터, 선거 제보 때문에요. 프레드릭이 해 줬는데, 그 뒤로 아무도 회수를 안 했어요.
+Fredrik|B1|För att ingen annan orkade sitta med valtipsen på nätterna. Det var jag tacksam för.|밤마다 선거 제보 붙잡고 앉아 있을 사람이 아무도 없었으니까. 그건 고마웠어.
+Hedvig|B2|Det är ett gemensamt konto vars lösenord tre personer känner till. Loggen säger att desk-admin loggade in, aldrig vem av er det var.|비밀번호를 세 사람이 아는 공용 계정입니다. 로그엔 desk-admin이 로그인했다고만 나오지, 셋 중 누구였는지는 절대 안 나와요.
+Agnes|B1|Fredrik, jag och Noah. Samma tre som satt på desken den fjortonde september. Vi borde starta ett band.|프레드릭, 나, 노아. 9월 14일 밤 데스크에 앉아 있던 그 셋이네. 우리 밴드라도 하나 차려야겠다.
+Viktor|B2|Det är samma tre namn, och just därför lär det oss ingenting nytt. Två identiska listor smalnar inte av någonting.|같은 세 이름이야. 바로 그래서 새로 알려 주는 게 없어. 똑같은 목록 두 개는 아무것도 좁혀 주지 않아.
+Amira|B2|En sak till. Den som skickade MUST-dokumentet i april visste hur dörr två fungerar inifrån, och med desk-admin ser man exakt de inställningarna.|하나 더. 4월에 MUST 문서를 보낸 사람은 2번 문이 어떻게 돌아가는지 안에서 알고 있었어. 그리고 desk-admin으로 보면 바로 그 설정들이 보여.
+Sofia|B2|Eller så hade man en källas lapp och en bild av vår rutin, som den Katja tog i mars. Vi pekar inte ut någon i kväll.|아니면 취재원의 쪽지 한 장이랑, 카탸가 3월에 찍은 것 같은 우리 절차 문서 사진이 있었거나. 오늘 밤엔 아무도 지목하지 않아.
+Viktor|A2|Står nionde april i loggen?|4월 9일도 로그에 있어?
+Amira|B1|Klockan 21.14, dörr två, en bilaga på två megabyte. IP-adressen är en Tor-utgång, och den säger ingenting.|21시 14분, 2번 문, 2메가바이트짜리 첨부 하나. IP 주소는 Tor 출구야. 아무것도 안 알려 줘.
+Fredrik|A2|Kan vi få se hela listan?|목록 전체 좀 볼 수 있어?
+Sofia|B1|Nej. Ingen utom Amira ser adresserna, och hon skriver dem inte ens på papper.|안 돼. 아미라 말고는 아무도 그 주소 못 봐. 아미라도 종이에조차 안 적어.
+Fredrik|A1|Självklart.|당연하지.
+Amira|B1|En sista sak. Innan allt blev gratis kunde man köpa enskilda mappar på forumet, och köparna står kvar i en lista under tråden.|마지막 하나. 전부 공짜가 되기 전엔 포럼에서 폴더를 하나씩 살 수 있었어. 산 사람들이 게시글 아래 목록에 남아 있어.
+Viktor|A1|Och?|그래서?
+Amira|A2|Vänta. Någon har bara tagit vår mapp. Inget annat.|잠깐. 누가 우리 폴더만 가져갔어. 다른 건 하나도 없이.
+Viktor|A1|När?|언제?
+Amira|B1|Den andra november, en vecka innan resten blev gratis. Någon betalade för just den.|11월 2일. 나머지가 공짜로 풀리기 일주일 전이야. 누가 딱 그것만 돈 내고 샀어.
+Agnes|A2|Noah? Du är alldeles vit i ansiktet.|노아? 너 얼굴이 하얗게 질렸어.
+Noah|A1|Det är inget. Läs.|아무것도 아니에요. 읽어요.
+Amira|B1|Någon har laddat ner just vår mapp från forumet. Användaren heter KaptenKrok.|누군가 포럼에서 딱 우리 폴더만 내려받았어. 사용자 이름은 KaptenKrok.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Hur mycket data?** | 데이터가 얼마나 돼? | *data*는 셀 수 없는 명사로 취급해 *hur mycket*(얼마나 많이 — 양)과 쓴다. 셀 수 있는 명사엔 *hur många*: *Hur många filer? Hur många barn?* |
+| `A2` | **Filerna ligger ute på nätet sedan i natt.** | 파일들이 어젯밤부터 인터넷에 떠 있어요. | *ligga ute*(밖에 나와 있다·공개되어 있다)는 정보·파일이 공개된 상태를 말하는 관용적 위치 동사. *sedan i natt*(어젯밤부터) — *sedan* + 시점은 '그때부터 지금까지'라서 현재형 *ligger*와 함께 쓴다 |
+| `B1` | **Vi laddar inte ner mer än vi behöver för att kunna verifiera läckan.** | 유출을 검증하는 데 필요한 것 이상은 받지 않는다. | 분리동사 *ladda ner*(내려받다) — 부정어 *inte*는 동사와 소사 사이에 온다. *mer än vi behöver*(필요한 것보다 더) + 목적의 *för att kunna* + 동사원형 |
+| `B2` | **Att metadata från vår egen tipslåda finns i dumpen betyder att vi har svikit dem som litade på oss.** | 우리 제보함의 메타데이터가 덤프에 있다는 건, 우리를 믿은 사람들을 우리가 저버렸다는 뜻이야. | *att*-절 전체가 주어가 되고 동사 *betyder*가 그 뒤에 온다. *svika*(저버리다·배신하다)의 완료형 *har svikit*. *dem som litade på oss* — *lita på*(믿다)는 전치사 *på*와 함께 |
+| `B2` | **Två identiska listor smalnar inte av någonting.** | 똑같은 목록 두 개는 아무것도 좁혀 주지 않아. | 분리동사 *smalna av*(좁아지다·좁히다)의 부정 — *inte*가 동사와 소사 사이. 빅토르가 단서를 읽는 방식: 같은 세 사람이 두 번 나왔다고 해서 범위가 줄지는 않는다 |
+| `B2` | **Sekretessen stoppade inte NightLedger.** | 비밀 유지가 NightLedger는 못 막았죠. | *sekretess*는 공공기관 문서의 비공개 규정. 스웨덴에선 공개가 원칙(*offentlighetsprincipen*)이고 비공개는 예외라서, 거부할 땐 *skriftligt beslut*(서면 결정)을 내야 하고 시민은 *överklaga*(이의 제기)할 수 있다 |
+| 구어 | **det är kört** | 끝장이다, 이제 틀렸다 | *köra*(몰다)의 완료분사에서 온 비인칭 관용구. 아미라: *"Om adresserna ligger ute är det kört för de här ungarna."* 앞에 *nu*를 붙이면 '이제 끝났다'(*Nu är det kört.*) |
+| 보안·법 | **personuppgiftsincident** | 개인정보 침해 사고 | 개인정보가 유출·분실·무단 접근된 사고. GDPR에 따라 개인정보 처리 책임자는 사고를 안 때부터 **72시간 안에** 감독기관 *IMY*(Integritetsskyddsmyndigheten)에 신고해야 한다. 울프는 "오늘 아침부터" 72시간을 센다 — 공급사가 "제한적"이라고 했던 8월은 세지 않는다 |
+
+## 저널리즘·법 메모
+유출 데이터를 다루는 첫 원칙은 "필요한 만큼만"이다. 내려받는 파일은 그 순간부터 신문사가 지켜야 할 자료가 되고, 실수로 다시 흘릴 수 있는 자료가 된다. 그래서 아미라는 파일 목록부터 뽑고, 진위는 이미 공개된 문서(시의회 회의록)와 대조해서 확인한다 — 언론윤리 규칙(*publicitetsregler*)의 정신대로 이름·주소·주민번호는 어떤 글에도 쓰지 않고, 피해자가 기사보다 먼저 알게 한다. 보호 신분자(*skyddade personuppgifter*)의 주소나 리암의 배치 기록처럼 생명과 직결된 정보는 보도보다 경찰·시설에 대한 즉각적인 알림이 먼저다. 지자체는 공문서 공개 청구를 받으면 비공개 사유가 있을 때 서면 결정으로 거부해야 하며, 그 결정은 다툴 수 있다. 마지막으로, 취재원 보호(*källskydd*)는 기자의 침묵만으로 지켜지지 않는다. 제보함 프로그램이 아무것도 저장하지 않아도, 그 앞의 서버와 계약서 부속서 한 줄이 기록을 남기면 약속은 깨진다 — 소피아가 자기 신문의 실패를 기사 첫 문단에 쓰겠다고 하는 이유다.
+
+## 문화·현안 메모
+- **공급망 랜섬웨어** — 스웨덴 지자체 상당수는 메일·문서·복지 업무 시스템을 소수의 IT 공급사에 맡긴다. 2024~2025년 실제로 이런 공급사들이 랜섬웨어 공격을 당해 여러 기관의 개인정보가 한꺼번에 다크웹에 공개되는 일이 잇따랐다. 공급사 하나가 뚫리면 수십 개 기관이 동시에 뚫린다.
+- **skyddade personuppgifter** — 폭력이나 위협을 피해 숨은 사람의 주소를 국세청 주민등록에서도 감추는 제도(*sekretessmarkering*, *skyddad folkbokföring* 등). 이 정보가 새면 보호 자체가 무너지기 때문에 경찰이 당사자에게 직접 연락한다.
+- **LVU와 SiS** — 아이를 보호자 동의 없이 보호할 수 있게 하는 법(*LVU*)에 따라 지자체 사회복지과가 결정하고, 국가 기관 SiS가 *särskilda ungdomshem*(특별 청소년 시설)을 운영한다. 이송·배치 결정은 시설 직원이 아니라 사회복지과와 SiS의 몫이다.
+- ⚠️ 이번 화의 인물(울프 그란크비스트 등), 노르비크시, Kommundata AB와 자회사, NightLedger, 시설 Björkbacken, 포럼과 계정 이름은 모두 허구이며 실제 사건·기업·기관 내부 인물을 묘사하지 않는다.
+
+## 다음 화 예고
+> 노아는 인정한다. KaptenKrok은 열다섯 살 때부터 쓴 이름이고, 폴더는 혼자 받았다고. 프레드릭은 가장 먼저 정직을 요구한다.

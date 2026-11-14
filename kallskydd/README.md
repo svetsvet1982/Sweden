@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (79/105화 완성)
+## 대본 목차 (82/105화 완성)
 
 ### 1부
 
@@ -133,3 +133,6 @@
 | 2 | [Källan brann](episodes/k6_e02.md) | 취재원이 탔다 |
 | 3 | [Attacken](episodes/k6_e03.md) | 습격 |
 | 4 | [Doktorn](episodes/k6_e04.md) | 박사 |
+| 5 | [Kriminalvården](episodes/k6_e05.md) | 교정청 |
+| 6 | [SiS](episodes/k6_e06.md) | 소년원 |
+| 7 | [Kommundata](episodes/k6_e07.md) | 지자체 데이터 |
