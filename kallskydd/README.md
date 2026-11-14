@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (97/105화 완성)
+## 대본 목차 (99/105화 완성)
 
 ### 1부
 
@@ -156,3 +156,5 @@
 | 5 | [Visselblåsaren](episodes/k7_e05.md) | 내부고발자 |
 | 6 | [Dubai](episodes/k7_e06.md) | 두바이 |
 | 7 | [Kungen](episodes/k7_e07.md) | 왕 |
+| 8 | [Gråsparven har ett namn](episodes/k7_e08.md) | 참새의 이름 |
+| 9 | [Ministern](episodes/k7_e09.md) | 장관 |

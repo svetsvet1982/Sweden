@@ -1,0 +1,185 @@
+@title 7부 9화 — Ministern
+@subtitle (장관)
+@meta 날짜|2027년 2월 15일 월요일 오후 1시 40분 ~ 3시 (스톡홀름·취리히 같은 시각 · 영하 6도 · Valvet Partners 매각 서명일까지 14일)
+@meta 장소|로센바드 정부청사 법무부 층 대기실 (오후 1시 40분) → 법무장관 집무실 옆 회의실 — 타원형 탁자, 물병 두 개, 녹음기 두 대 (오후 2시) → 로센바드 앞 스트룀가탄 물가, 얼음 낀 노르스트룀 (오후 2시 25분) → (교차) 취리히 지방법원 기록 열람실 — 판결문 서류철 여섯 권 (오후 2시 30분)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Ludvig** (루드비그 포겔베리, 30대, 법무장관 공보관 — 첫 등장) · **Märta** (메르타 엔, 52, 법무장관, Samlingspartiet — 첫 등장) · **Lars** (라르스 몰린, 62, 법률고문 — 전화) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자 — 취리히) · **Anna-Lena** (안나레나 프라이, 50, 취리히의 금융 전문 기자, 국제 공동취재 파트너) · **Noah** (노아 베리룬드, 24, 기자 — Källaren에서 원격)
+@intro **지난 이야기** — 2월 4일 두바이의 빈 아파트에서 Kungen은 돈 한 푼 받지 않고 녹음기 앞에서 말했고, 사흘 뒤 체포되어 스웨덴으로 송환됐다. 2월 10일 얼어붙은 리다르홀멘 강변에서 3부부터 Signal 너머에만 있던 참새가 처음 얼굴을 드러냈다. 법무부의 30년 차 공무원 비르기타 알름. 그녀는 송환 파일의 접근 기록과 장관 비서실 직원이 개인 메일로 Nordhavn에 보낸 메일 두 통을 가져왔다 — "M står inte för Magnus. M står för ministern." 그리고 장관이 지시한 내부 유출 조사가 금요일에 그녀를 부를 것이라고 했다.
+@intro 소피아는 비르기타의 출력본을 쓰지 않고 같은 접근 기록을 공문서 공개 청구로 직접 받았다. 목요일, 법무장관에게 인터뷰 요청과 질문 목록 전체가 서면으로 나갔다. 월요일 오후, 빅토르와 소피아가 로센바드의 대기실에 앉아 있다. 금요일 이후 참새에게서는 아무 소식이 없다.
+# 장면 1 — 오후 1시 40분, 로센바드 법무부 층 대기실
+Ludvig|A2|Välkomna. Jag heter Ludvig Fogelberg och är statsrådets pressekreterare.|어서 오세요. 루드비그 포겔베리입니다. 장관님 공보관이에요.
+Viktor|A1|Viktor Holm. Hej.|빅토르 홀름입니다. 안녕하세요.
+Sofia|A2|Sofia Brandt. Vi pratade i telefon i fredags.|소피아 브란트예요. 금요일에 통화했죠.
+Ludvig|B1|Precis. Innan vi går in vill jag gå igenom några saker, så att ingen blir överraskad.|맞습니다. 들어가기 전에 몇 가지 짚어 두고 싶어요. 아무도 놀라지 않게요.
+Viktor|A1|Varsågod.|말씀하세요.
+Ludvig|A2|Ni får tjugo minuter. Statsrådet har ett möte klockan halv tre.|20분 드립니다. 장관님은 두 시 반에 회의가 있으세요.
+Sofia|B1|Vi bad om en timme i torsdags, och vi skickade alla frågor skriftligt samma dag.|저희는 목요일에 한 시간을 요청했고, 같은 날 질문을 전부 서면으로 보냈어요.
+Ludvig|B1|Statsrådet har läst frågorna. Det är därför hon ställer upp över huvud taget.|장관님은 질문을 다 읽으셨어요. 애초에 인터뷰에 응하시는 것도 그래서고요.
+Viktor|A2|Tjugo minuter räcker inte för tre frågor.|세 가지 질문에 20분은 부족합니다.
+Ludvig|B2|Då föreslår jag att ni prioriterar, eftersom statsrådet inte kommer att stanna en minut längre, hur intressant samtalet än blir.|그럼 우선순위를 정하시길 권합니다. 대화가 아무리 흥미로워져도 장관님은 1분도 더 계시지 않을 테니까요.
+Sofia|A1|Uppfattat.|알겠어요.
+Ludvig|B1|En sak till. Statsrådet skulle föredra att samtalet inte spelas in.|하나 더요. 장관님은 대화를 녹음하지 않는 쪽을 원하십니다.
+Viktor|A1|Vi spelar in. Det gör vi alltid.|녹음합니다. 언제나 그렇게 합니다.
+Ludvig|B2|I så fall spelar vi in samtalet själva också, så att det finns en version som inte bara är er.|그렇다면 저희도 직접 녹음하겠습니다. 그쪽 버전만 있는 게 아니도록요.
+Sofia|B2|Gärna. Med två inspelningar kan ingen av oss påstå att något har ryckts ur sitt sammanhang.|좋아요. 녹음이 두 개면 우리 중 누구도 말이 맥락에서 잘려 나갔다고 주장할 수 없겠죠.
+Ludvig|A2|Jag hämtar statsrådet. Det tar fem minuter.|장관님 모셔 오겠습니다. 5분 걸려요.
+Viktor|A1|Tjugo minuter.|20분이라.
+Sofia|A2|Vi har tjugo minuter. Då börjar vi med loggarna.|20분 있어. 그럼 접속 기록부터 시작하자.
+Viktor|B1|Loggarna är det enda vi har fått direkt från departementet. Dem kan hon inte kalla falska.|접속 기록은 우리가 부처에서 직접 받은 유일한 거야. 그건 가짜라고 못 하지.
+Sofia|B1|De kom i fredags klockan fyra, med användarnamnen maskade men enhetskoderna kvar.|금요일 네 시에 왔지. 사용자 이름은 가려 놨지만 부서 코드는 그대로 남아 있었어.
+Viktor|A2|Fjorton öppningar. Alla från samma konto på ministerns kansli.|열네 번 열람. 전부 장관 비서실의 같은 계정에서.
+Sofia|B2|Och ingen på ministerns kansli har något ansvar för att handlägga ett utlämningsärende, vilket hon vet bättre än vi.|그리고 장관 비서실 사람은 누구도 범죄인 인도 사건을 처리할 책임이 없어. 그건 장관이 우리보다 더 잘 알 거고.
+Viktor|A2|Sedan kalendern. Sist mejlen.|그다음 일정표. 마지막에 메일.
+Sofia|B2|En sak tar vi inte upp: den interna utredningen. Om vi frågar om den bekräftar vi att det finns någon att leta efter.|하나는 꺼내지 말자. 내부 조사. 우리가 그걸 물으면 찾아낼 누군가가 있다고 확인해 주는 셈이니까.
+Viktor|A1|Jag vet.|알아.
+Sofia|A2|Har du hört något sedan i fredags?|금요일 이후로 무슨 소식 들었어?
+Viktor|B1|Ingenting. Och jag tänker inte höra av mig heller, inte i dag.|아무것도. 나도 연락 안 할 거야. 오늘은.
+Sofia|B2|Frågelistan vi skickade i torsdags berättade exakt vad vi har. Det är priset för att ge någon en ärlig chans att svara.|목요일에 보낸 질문 목록이 우리가 가진 걸 정확히 알려 준 셈이야. 누군가에게 정직하게 답할 기회를 주는 대가지.
+Viktor|A2|Där kommer hon. Hon ler redan.|저기 온다. 벌써 웃고 있어.
+# 장면 2 — 오후 2시, 법무장관 집무실 옆 회의실
+Märta|A2|Hej, välkomna. Sätt er, så att vi inte slösar bort tiden.|안녕하세요, 어서 오세요. 앉으세요, 시간 낭비하지 않게.
+Viktor|A2|Tack. Jag lägger diktafonen här, mitt på bordet.|감사합니다. 녹음기는 여기, 탁자 한가운데 두겠습니다.
+Märta|B1|Ludvig har berättat. Vi spelar in också, så då står det lika.|루드비그한테 들었어요. 우리도 녹음하니까 공평하네요.
+Sofia|B1|Tack för att ni tog emot oss med så kort varsel, statsrådet.|급한 요청인데 만나 주셔서 감사합니다, 장관님.
+Märta|B2|Ni skrev att det gällde allvarliga uppgifter om mitt departement. Sådant bemöter jag hellre själv än läser om i efterhand.|제 부처에 관한 심각한 의혹이라고 쓰셨죠. 그런 건 나중에 기사로 읽느니 제가 직접 답하는 편이에요.
+Viktor|B1|Då börjar jag. Utlämningsärendet om Robin Saarinen öppnades fjorton gånger mellan den artonde november och den tredje december.|그럼 시작하겠습니다. 로빈 사리넨의 범죄인 인도 사건 파일이 11월 18일부터 12월 3일 사이에 열네 번 열렸습니다.
+Märta|B1|Det är ett stort ärende. Är det inte bra att folk läser det?|큰 사건이잖아요. 사람들이 읽는 게 좋은 일 아닌가요?
+Viktor|B1|Alla fjorton gånger från samma konto, som hör till ditt kansli och inte till enheten som handlägger ärendet. Varför?|열네 번 모두 같은 계정이었습니다. 사건 담당 부서가 아니라 장관님 비서실 소속 계정이고요. 왜죠?
+Märta|B2|Mitt kansli ska kunna informera mig om ärenden som kan bli politiskt känsliga. Tycker ni att en justitieminister ska vara ovetande?|제 비서실은 정치적으로 민감해질 수 있는 사건을 제게 보고할 수 있어야 해요. 법무장관이 아무것도 몰라야 한다고 생각하세요?
+Viktor|A1|Svara på frågan.|질문에 답해 주십시오.
+Märta|B1|Jag svarar. Jag säger att det inte är konstigt att kansliet följer ett ärende som hela landet väntar på.|답하고 있잖아요. 온 나라가 기다리는 사건을 비서실이 지켜보는 건 이상할 게 없다는 거예요.
+Sofia|B2|Det vi undrar är vem som bad om dem. Fick ni muntliga dragningar om ärendet, eller läste någon för någon annans räkning?|저희가 궁금한 건 누가 그걸 시켰느냐예요. 사건에 대해 구두 보고를 받으셨나요, 아니면 누군가가 다른 사람을 위해 읽은 건가요?
+Märta|B2|Ni förutsätter att någon läste för någon annans räkning. Vilken grund har ni för det, utöver ett antal klockslag?|누군가가 다른 사람을 위해 읽었다고 전제하시네요. 시각 몇 개 말고 무슨 근거가 있으시죠?
+Viktor|A1|Vi kommer dit.|거기까지 갈 겁니다.
+Märta|A1|Jaha. Jag väntar.|그래요. 기다리죠.
+Viktor|A1|Känner du Magnus Ekwall?|마그누스 에크발을 아십니까?
+Märta|B1|Det vet ni redan. Varför skulle ni annars sitta här?|이미 아시잖아요. 아니면 왜 여기 앉아 계시겠어요?
+Viktor|A1|Hur länge?|얼마나 오래요?
+Märta|B2|I tjugo år. Vi träffades när jag var nyvald riksdagsledamot och han arbetade på partikansliet. Han är en av mina äldsta vänner, och det har jag aldrig försökt dölja.|20년이요. 제가 국회의원에 막 당선됐을 때, 그 사람은 당 사무처에서 일하고 있었죠. 제 가장 오랜 친구 중 하나고, 그걸 숨기려 한 적은 한 번도 없어요.
+Viktor|A2|Du äter middag hemma hos honom.|그분 댁에서 저녁을 드시죠.
+Märta|A1|Ibland. Några gånger om året.|가끔요. 1년에 몇 번.
+Viktor|A1|På Djurgården?|유르고르덴에서요?
+Märta|B1|Är det ett brott att äta middag hos en vän nu för tiden?|요즘은 친구 집에서 저녁 먹는 것도 범죄인가요?
+Sofia|B2|Att ni har varit vänner i tjugo år är inget brott, men det förklarar varför ingen på departementet vågade säga emot.|20년 동안 친구였다는 건 범죄가 아닙니다. 하지만 왜 부처에서 아무도 감히 반대하지 못했는지는 설명해 주죠.
+Märta|B1|Säga emot vad? Ni pratar som om ni redan hade skrivit artikeln.|뭘 반대한다는 거죠? 기사를 벌써 다 쓴 사람처럼 말씀하시네요.
+Viktor|B1|Vi har begärt ut din kalender för hösten. Kvällen den nittonde november står det bara "privat".|가을 일정표를 공개 청구해 받았습니다. 11월 19일 저녁에는 '개인 일정'이라고만 적혀 있어요.
+Märta|A2|Privat betyder privat. Så har det alltid varit.|개인 일정은 개인 일정이에요. 늘 그래 왔고요.
+Viktor|A1|Var du hos Ekwall?|에크발 댁에 계셨습니까?
+Märta|B1|Jag tänker inte redovisa mitt privatliv på en diktafon.|녹음기 앞에서 제 사생활을 밝힐 생각은 없어요.
+Sofia|A2|Det är noterat.|기록해 두겠습니다.
+Viktor|B2|Då går vi till mejlen. Den nittonde november klockan 07.52 skickade en politiskt sakkunnig på ditt kansli ett mejl från sin privata adress till en adress hos Nordhavn Strategi.|그럼 메일로 넘어가겠습니다. 11월 19일 오전 7시 52분, 장관님 비서실의 정무 보좌관 한 명이 개인 메일 주소로 Nordhavn Strategi의 주소에 메일을 보냈습니다.
+Märta|A2|Vad stod det?|뭐라고 적혀 있었죠?
+Viktor|B1|"UAE har bekräftat att R.S. är tillbaka. Begäran går vidare på måndag."|"UAE가 R.S.의 귀환을 확인했음. 요청은 월요일에 진행됨."
+Märta|B1|Har ni det mejlet framför er? Var har ni fått det ifrån?|그 메일을 지금 갖고 계세요? 어디서 받으셨죠?
+Viktor|A2|Det svarar vi aldrig på.|그 질문엔 절대 답하지 않습니다.
+Märta|B2|Ni kommer hit med ett påstått mejl från en privat adress och vill att jag ska stå till svars för det, utan att ens visa det.|개인 주소에서 왔다는 메일을 들고 와서, 보여 주지도 않으면서 제가 책임지길 바라시는 거군요.
+Sofia|B2|Ni har fått varje ord i det skriftligt i torsdags. Polisen fick beskedet från departementet den tjugofjärde november, fem dagar senare. Nordhavn visste alltså i förväg.|그 메일의 모든 단어를 목요일에 서면으로 받으셨습니다. 경찰은 부처에서 11월 24일에야 통보를 받았어요. 닷새 뒤죠. 그러니까 Nordhavn이 미리 알았던 겁니다.
+Märta|B2|Vad menar ni med "i förväg"? Vem har sagt att det skedde i förväg?|미리라니 무슨 뜻이죠? 누가 미리 일어났다고 했나요?
+Viktor|A1|Datumen säger det.|날짜가 말해 줍니다.
+Märta|B2|Datum kan betyda vad som helst, och ni har ingen aning om vilka informationsvägar som finns mellan myndigheter när ett utlämningsärende pågår.|날짜는 무슨 뜻이든 될 수 있어요. 범죄인 인도 사건이 진행 중일 때 기관들 사이에 어떤 정보 경로가 있는지 전혀 모르시잖아요.
+Viktor|B1|Varför fick Ekwall veta om utlämningen innan polisen gjorde det?|왜 에크발이 경찰보다 먼저 범죄인 인도 소식을 알게 된 겁니까?
+Märta|B2|Robin Saarinen sitter i dag häktad i Sverige. Om jag hade velat skydda honom, hur förklarar ni då det?|로빈 사리넨은 지금 스웨덴에서 구속돼 있어요. 제가 그를 보호하려 했다면, 그건 어떻게 설명하실 건데요?
+Viktor|B1|Det var inte Saarinen som någon ville skydda.|누군가 보호하려던 건 사리넨이 아니었습니다.
+Märta|A2|Vem då?|그럼 누구요?
+Viktor|A1|Svara på frågan.|질문에 답해 주십시오.
+Märta|B1|Medarbetaren ni talar om slutade i december, på egen begäran.|말씀하시는 그 직원은 12월에 그만뒀어요. 본인 요청으로요.
+Viktor|A2|Bad du honom att sluta?|그만두라고 하셨습니까?
+Märta|B2|Jag kan inte svara för vad en före detta medarbetare har gjort med sin privata mejl, och det kan ingen minister.|전 직원이 개인 메일로 무슨 짓을 했는지 제가 책임질 순 없어요. 어떤 장관도 그렇게 못 하고요.
+Viktor|A2|Visste du om mejlen?|그 메일들을 알고 계셨습니까?
+Märta|B1|Jag har inget att tillägga om det.|그 부분은 더 드릴 말씀이 없어요.
+Viktor|A1|Är det ett nej?|'아니요'라는 뜻입니까?
+Märta|A2|Det är svaret ni får.|그게 드리는 답이에요.
+Viktor|B2|Den tredje december klockan 07.31 kom det andra mejlet: "Ärendet ligger hos ministern. Inget beslut före jul." Samma dag som din kalender säger "privat".|12월 3일 오전 7시 31분에 두 번째 메일이 갔습니다. "사건은 장관에게 있음. 성탄 전 결정 없음." 장관님 일정표에 '개인 일정'이라고 적힌 바로 그날입니다.
+Märta|B2|Ni lägger två datum bredvid varandra och kallar det ett mönster. Det är journalistik, inte bevis.|날짜 두 개를 나란히 놓고 패턴이라고 부르시네요. 그건 저널리즘이지, 증거가 아니에요.
+Sofia|B2|Det är därför vi frågar er, statsrådet, innan vi skriver en enda rad. Ni kan fortfarande ge oss en förklaring som håller.|그래서 저희가 한 줄이라도 쓰기 전에 장관님께 여쭙는 겁니다. 아직 납득할 만한 설명을 해 주실 수 있어요.
+Märta|B1|Förklaringen är enkel. Jag har aldrig gett någon i uppdrag att informera Magnus Ekwall om något ärende.|설명은 간단해요. 저는 누구에게도 마그누스 에크발에게 어떤 사건이든 알려 주라고 시킨 적이 없어요.
+Viktor|A2|Det skriver vi. Ord för ord.|그대로 쓰겠습니다. 한 마디도 빼지 않고.
+Märta|B2|Gör det. Och skriv också att Saarinen greps och utlämnades under min tid som minister, så att läsarna får hela bilden.|그러세요. 그리고 사리넨이 제 재임 중에 체포되고 송환됐다는 것도 쓰세요. 독자들이 전체 그림을 보게.
+Viktor|A2|Det står redan i mitt utkast.|그건 이미 제 초안에 있습니다.
+Märta|A1|Bra.|좋아요.
+# 장면 3 — 오후 2시 18분, 같은 회의실 → 2시 25분, 스트룀가탄 물가
+Ludvig|A2|Statsrådet, två minuter kvar.|장관님, 2분 남았습니다.
+Märta|B1|Då vill jag säga en sak utanför protokollet.|그럼 하나는 기록 밖에서 말하고 싶네요.
+Viktor|B2|Nej. Vad som är utanför protokollet kommer man överens om innan samtalet, inte mitt i det. Diktafonen är på.|안 됩니다. 기록 밖이냐 아니냐는 대화 전에 합의하는 겁니다. 도중에 정하는 게 아니라요. 녹음기는 켜져 있습니다.
+Märta|B1|Då säger jag det ändå. Om du publicerar det här bränner du din källa.|그럼 그래도 말하죠. 이걸 보도하면 당신 손으로 당신 취재원을 태우는 거야.
+Sofia|A2|Vad menar statsrådet med det?|무슨 뜻으로 하시는 말씀입니까, 장관님?
+Märta|B1|Vi vet redan vem det är. Utredningen blir klar den här veckan.|우린 이미 누군지 알아요. 조사는 이번 주에 끝나요.
+Ludvig|A2|Statsrådet… båda inspelningarna är på.|장관님… 녹음기 두 대 다 켜져 있습니다.
+Viktor|B2|Med all respekt, statsrådet: om ni redan vet vem källan är, har ni just berättat att ni bryter mot lagen.|실례지만 장관님: 취재원이 누군지 이미 아신다면, 방금 법을 어기고 있다고 말씀하신 겁니다.
+Märta|B2|Jag har inte sagt att det finns någon källa. Jag talade om en utredning av en läcka, och den är min skyldighet.|취재원이 있다고는 안 했어요. 유출 조사 얘기를 한 거고, 그건 제 의무예요.
+Viktor|B2|En myndighet får inte efterforska vem som har lämnat uppgifter till pressen, och den får inte straffa någon för det. Det vet ni bättre än någon annan i det här huset.|공공기관은 누가 언론에 정보를 줬는지 캐내서는 안 되고, 그 일로 누구를 벌해서도 안 됩니다. 이 건물에서 그걸 가장 잘 아시는 분이 장관님입니다.
+Sofia|B2|Jag är ansvarig utgivare. Jag bekräftar inte att det finns någon källa, och jag kommer aldrig att säga vem det skulle vara. Men det ni just sade kommer att stå i texten, och ni får bemöta det innan vi publicerar.|저는 발행책임자입니다. 취재원이 있다고 확인하지도 않고, 그게 누구인지 절대 말하지 않을 겁니다. 하지만 방금 하신 말씀은 기사에 실릴 거고, 보도 전에 그에 대해 답하실 기회를 드리겠습니다.
+Märta|A2|Det var inget hot. Jag beskrev en risk.|협박이 아니었어요. 위험을 설명한 거죠.
+Viktor|B1|Ni sade "bränner". Det ordet kom från er, inte från oss.|'태운다'고 하셨습니다. 그 단어는 저희가 아니라 장관님 입에서 나왔습니다.
+Märta|A1|Vi är klara här.|여기까지 하죠.
+Sofia|B1|Lars, du är på högtalare. Vi står vid vattnet utanför Rosenbad, och det är ingen här.|라르스, 스피커폰이야. 로센바드 앞 물가에 서 있고, 주변엔 아무도 없어.
+Lars|A2|Hur gick det? Ni låter frusna.|어떻게 됐어? 둘 다 얼어 있는 목소리네.
+Viktor|B1|Hon sa att de redan vet vem det är, och att jag bränner källan om vi publicerar. På två inspelningar, hennes egen också.|이미 누군지 안대. 그리고 우리가 보도하면 내가 취재원을 태우는 거래. 녹음 두 개에 다 들어 있어. 장관 쪽 것까지.
+Lars|B2|Lyssna noga nu. Tredje kapitlet i tryckfrihetsförordningen förbjuder en myndighet att efterforska vem som har lämnat uppgifter till medier. Det kallas efterforskningsförbud, och Regeringskansliet är en myndighet som alla andra. Har de redan letat kan själva utredningen vara ett brott, och den som uppsåtligen bryter mot förbudet kan dömas till böter eller fängelse i upp till ett år.|이제 잘 들어. 출판자유법 3장은 공공기관이 누가 언론에 정보를 줬는지 캐는 걸 금지해. 그게 efterforskningsförbud, 취재원 색출 금지야. 정부청사도 다른 기관과 똑같은 공공기관이고. 이미 찾아봤다면 조사 자체가 범죄일 수 있어. 고의로 그 금지를 어긴 사람은 벌금이나 최대 1년 징역형을 받을 수 있고.
+Sofia|B1|Hon kallar det en utredning av en läcka, inte ett sökande efter en källa.|장관은 그걸 취재원 찾기가 아니라 유출 조사라고 불러.
+Lars|B2|Det finns ett smalt undantag, om läckan i sig är ett av de allvarliga brott som lagen räknar upp, till exempel att någon har lämnat ut hemliga handlingar. Men då är det polis och åklagare som utreder, inte statsrådets kansli. Och loggarna lämnade departementet ut till er själva i fredags.|좁은 예외가 하나 있긴 해. 유출 자체가 법이 열거한 중대 범죄일 때, 예를 들어 누가 비밀문서를 넘겼을 때. 하지만 그럼 조사하는 건 경찰과 검사지, 장관 비서실이 아니야. 게다가 그 접속 기록은 부처가 금요일에 너희한테 직접 내줬잖아.
+Viktor|A2|Och "bränna"? Vad är det?|그럼 '태운다'는 건? 그건 뭐야?
+Lars|B2|Det är den andra halvan: repressalieförbudet. Myndigheten får inte straffa någon för att hen har pratat med pressen, varken med uppsägning, omplacering eller varning. Att släppa ett namn för att stoppa en artikel är precis vad lagen förbjuder.|그게 나머지 절반이야. repressalieförbud, 보복 금지. 기관은 언론과 이야기했다는 이유로 누구도 벌할 수 없어. 해고도, 전보도, 경고도 안 돼. 기사를 막으려고 이름을 흘리는 건 법이 금지하는 바로 그 행위고.
+Sofia|B1|Jag skriver till departementets rättschef i kväll och påminner om lagen. Skriftligt, med datum och klockslag.|오늘 밤 부처 법무 책임자한테 편지 써서 법을 상기시킬게. 서면으로, 날짜와 시각까지 넣어서.
+Lars|B2|Bra. En anmälan till JK kan vi göra senare, utan ett enda ord om vem källan är. Men Viktor: ingen kontakt på det vanliga sättet i dag, inte ens ett hej.|좋아. 법무감찰관 신고는 나중에 할 수 있어. 취재원이 누군지 한 마디도 없이. 하지만 빅토르, 오늘은 늘 하던 방식으로 연락하지 마. 인사 한 마디도.
+Viktor|B2|Hon gick som katten kring het gröt i en kvart, och sedan sade hon den enda mening som hon aldrig borde ha sagt.|15분 동안 뜨거운 죽 주위를 도는 고양이처럼 빙빙 돌더니, 결국 절대 해서는 안 될 단 한 문장을 말했어.
+Sofia|B2|Den inspelningen är större än artikeln, Viktor. Hon har just bevisat det vi själva aldrig hade kunnat bevisa.|그 녹음이 기사보다 더 커, 빅토르. 우리 힘으로는 절대 증명 못 했을 걸 장관이 방금 증명해 줬어.
+Viktor|B1|I fredags skulle utredningen höra någon. Vi vet fortfarande inte vad som hände där inne.|금요일에 조사단이 누군가를 부르기로 돼 있었어. 거기서 무슨 일이 있었는지 우린 아직도 몰라.
+# 장면 4 — 같은 시각, 취리히 지방법원 기록 열람실
+Amira|A2|Fan, vad kallt det är här inne.|젠장, 안이 왜 이렇게 추워.
+Anna-Lena|A2|Archives are always cold. Good for paper, bad for people.|기록실은 늘 추워요. 종이한텐 좋고, 사람한텐 나쁘죠.
+Amira|B1|Sex pärmar, och vi har en timme kvar innan de stänger läsesalen.|서류철이 여섯 권인데, 열람실 닫기 전까지 한 시간 남았어요.
+Anna-Lena|B1|This morning at Bahnhofstrasse they did not even open the door. Here, at least, they give us coffee.|오늘 아침 반호프슈트라세에선 문도 안 열어 줬죠. 여기선 적어도 커피는 주네요.
+Amira|B1|Förvaltningsbolaget hade en brevlåda och en kamera. Ingen människa.|그 자산관리 회사엔 우편함이랑 카메라뿐이었어요. 사람은 하나도 없고.
+Anna-Lena|B2|That is why we come here. A foundation can hide its beneficiaries from the register, but it cannot hide them from a judge.|그래서 여기 온 거예요. 재단은 등기부에선 수익자를 숨길 수 있어도, 판사 앞에선 못 숨기거든요.
+Amira|B1|På nätet är domen anonymiserad. Där står bara "Stiftung L." och "M.E., Stockholm".|온라인 판결문은 익명 처리돼 있잖아요. 'Stiftung L.'이랑 'M.E., 스톡홀름'만 나와요.
+Anna-Lena|B1|And M.E. could be anybody. So I asked to see the original. I am accredited at this court for eighteen years.|그리고 M.E.는 누구든 될 수 있죠. 그래서 원본 열람을 신청했어요. 난 18년째 이 법원 출입 기자예요.
+Amira|A2|Och det här är originalet?|그럼 이게 원본이에요?
+Anna-Lena|B1|District court 2023, high court 2024. Rechtskräftig. Final.|2023년 지방법원, 2024년 고등법원. 확정. 끝난 거예요.
+Amira|B1|En lagakraftvunnen dom. Ingen kan överklaga den längre, och ingen kan kalla den ett rykte.|확정 판결이네요. 더는 누구도 항소할 수 없고, 누구도 소문이라고 못 하죠.
+Anna-Lena|B1|Werner Hauri. He gave a building in Küsnacht to Stiftung Lindenhof in 2019, and he died two years later.|베르너 하우리. 2019년에 퀴스나흐트의 건물 하나를 Stiftung Lindenhof에 줬고, 2년 뒤에 죽었어요.
+Amira|A1|Kände du honom?|그 사람 알았어요?
+Anna-Lena|B1|I interviewed him once, in 2016. He talked about taxes for an hour and never about friends.|2016년에 한 번 인터뷰했어요. 한 시간 내내 세금 얘기만 하고 친구 얘기는 한 번도 안 했죠.
+Amira|B1|Och hans döttrar stämde stiftelsen, för att pappan hade gett bort deras arv.|그리고 그 딸들이 재단을 고소했고요. 아빠가 자기들 상속분을 줘 버렸으니까.
+Anna-Lena|A2|Yes. They wanted their legal share back.|맞아요. 법정 상속분을 돌려받고 싶었던 거죠.
+Amira|A2|Vänta, Noah ringer från Källaren.|잠깐요, 노아가 Källaren에서 전화했어요.
+Noah|B1|Luxemburg svarade på din ansökan i morse. Verklig huvudman: "ingen fysisk person identifierad".|룩셈부르크에서 오늘 아침 네 신청에 답이 왔어. 실질 소유자: "확인된 자연인 없음".
+Amira|A1|Fan. Igen.|젠장. 또.
+Noah|B1|Bara stiftelsen, som vanligt. Hela kedjan slutar i Zürich, precis som förra månaden.|또 재단뿐이야. 사슬 전체가 취리히에서 끝나. 지난달이랑 똑같이.
+Anna-Lena|A1|Amira, look at page twelve. Sidan tolv!|아미라, 12쪽 봐요. 12쪽!
+Amira|A2|Vänta, Noah. Stanna kvar.|잠깐, 노아. 끊지 마.
+Noah|A1|Jag är här.|나 여기 있어.
+Amira|B2|"Nebenintervenient"… Den som gick in i målet på stiftelsens sida, som förmånstagare enligt artikel fyra i stiftelsens reglemente.|"보조참가인"… 재단 편에서 소송에 들어온 사람이야. 재단 규칙 4조에 따른 수익자로.
+Anna-Lena|B1|Article four says sole beneficiary. Only one name, in a foundation that claims to support culture.|4조엔 유일한 수익자라고 돼 있어요. 문화를 지원한다는 재단에 이름이 딱 하나.
+Noah|A2|Vilket namn? Läs!|무슨 이름? 읽어 봐!
+Amira|B1|Född 1967, bosatt i Stockholm, företrädd av advokaten Reto Imhof.|1967년생, 스톡홀름 거주, 변호인은 레토 임호프.
+Noah|B1|Imhof sitter i stiftelsens styrelse. Och 1967 är samma år som i Nordhavns registrering.|임호프는 재단 이사잖아. 그리고 1967년은 Nordhavn 등기에 나온 그 해랑 같고.
+Amira|A1|Jävlar.|젠장.
+Anna-Lena|B1|We can order a certified copy. It takes five working days.|공증 사본을 신청할 수 있어요. 영업일로 5일 걸려요.
+Amira|B1|Vi har fjorton dagar till den första mars. Det räcker.|3월 1일까지 14일 남았어요. 충분해요.
+Noah|A2|Ring Viktor. Nu.|빅토르한테 전화해. 지금.
+Viktor|A2|Amira. Vi kom precis ut från Rosenbad.|아미라. 우리 방금 로센바드에서 나왔어.
+Amira|B1|Viktor. Stiftelsen äger fonden. Och förmånstagaren heter Ekwall.|빅토르. 재단이 펀드를 소유해. 그리고 수익자 이름이 에크발이야.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Kände du honom?** | 그 사람 알았어요? | *känna*(사람을 알다)의 과거형 *kände*. 사실·정보를 아는 것은 *veta*(*Jag vet det.*), 사람을 아는 것은 *känna*(*Jag känner honom.*)로 구별한다. 아미라는 이미 죽은 하우리에 대해 과거형으로, 빅토르는 장관에게 현재형 *Känner du Magnus Ekwall?*로 묻는다 |
+| `A1` | **Svara på frågan.** | 질문에 답해 주십시오. | 명령형 *svara* + *på*. '~에 답하다'는 항상 *svara på något*. 빅토르는 장관의 되묻는 질문을 이 세 단어로 몇 번이고 되돌려 놓는다 |
+| `A2` | **Vi har tjugo minuter.** | 우리에게 20분 있어. | 공보관의 *Ni får tjugo minuter.*(20분 드립니다)를 소피아가 *Vi har*로 바꿔 말한다. *få*는 '받다·허락받다', *ha*는 '가지다' — 같은 20분도 누가 쥐고 있느냐에 따라 동사가 달라진다 |
+| `B1` | **Varför fick Ekwall veta om utlämningen innan polisen gjorde det?** | 왜 에크발이 경찰보다 먼저 범죄인 인도 소식을 알게 됐습니까? | *få veta* = '알게 되다, 전해 듣다'. *innan*은 접속사(뒤에 절), *före*는 전치사(뒤에 명사: *före polisen*). *gjorde det*는 앞의 동사 *fick veta*를 대신하는 대동사 |
+| `B2` | **Att ni har varit vänner i tjugo år är inget brott, men det förklarar varför ingen på departementet vågade säga emot.** | 20년 동안 친구였다는 건 범죄가 아니지만, 왜 부처에서 아무도 감히 반대하지 못했는지는 설명해 준다. | *att*-절이 문장 전체의 주어가 된다(*Att ni har varit vänner … är inget brott*). *säga emot* = '반대하다, 말대꾸하다'. 소피아는 장관을 끝까지 *ni*로 부른다 |
+| `B2` | **Med all respekt, statsrådet: om ni redan vet vem källan är, har ni just berättat att ni bryter mot lagen.** | 실례지만 장관님, 취재원이 누군지 이미 아신다면 방금 법을 어기고 있다고 말씀하신 겁니다. | *statsrådet*은 장관을 3인칭처럼 부르는 격식 호칭. *om*-절이 앞에 오면 주절은 동사부터(*har ni*). *bryta mot lagen* = '법을 어기다'. 빅토르는 인터뷰 내내 쓰던 *du*를 여기서 *ni*로 바꾼다 — 화날수록 정중해지는 그의 방식이다 |
+| 구어 | **gå som katten kring het gröt** | 뜨거운 죽 주위를 도는 고양이처럼 — 말을 빙빙 돌리다 | 핵심을 피하며 에둘러 말하는 것. 고양이는 죽 냄새에 끌리지만 뜨거워서 먹지 못하고 그릇 주위만 맴돈다. *Sluta gå som katten kring het gröt!*(빙빙 돌리지 마!)처럼 쓴다 |
+| 법 | **lagakraftvunnen dom** | 확정 판결 | *laga kraft*(법적 효력) + *vinna*(얻다)의 과거분사 → '법적 효력을 얻은 판결'. 더는 항소할 수 없는 판결이다. 동사로는 *domen har vunnit laga kraft*(판결이 확정됐다) |
+
+## 저널리즘·법 메모
+대결 인터뷰의 출발점은 *bemötande*(반론권)이다. 비판받는 당사자에게는 보도 전에 답할 기회를 줘야 하고, 그 기회는 진짜여야 한다 — 그래서 소피아는 목요일에 질문 목록 전체를 서면으로 보냈다. 그 목록이 상대에게 우리가 무엇을 가졌는지 알려 준다는 것까지 감수하는 것이 반론권의 대가다. 녹음은 스웨덴에서 대화 당사자 한쪽이 하면 합법이고, "기록 밖(off the record)"은 대화 *전에* 합의해야 성립한다. 대화 도중에 장관이 "기록 밖에서"라고 말한다고 해서 이미 켜진 녹음기의 말이 기록 밖이 되지는 않는다. 그리고 거부나 위협은 거부권이 아니다 — 답하지 않았다는 사실도, 위협했다는 사실도 기사가 된다. 장관의 "우리는 이미 누군지 안다"는 출판자유법(TF) 3장의 두 금지와 정면으로 부딪친다. *efterforskningsförbud*(색출 금지)는 공공기관이 언론에 정보를 준 사람을 찾아내려 하는 것 자체를 금지하고, *repressalieförbud*(보복 금지)는 그 사람을 해고·전보·경고 등으로 불이익을 주는 것을 금지한다. 고의 위반은 벌금 또는 1년 이하 징역형에 처할 수 있다. 비밀문서를 넘긴 경우처럼 법이 열거한 중대 범죄에는 좁은 예외가 있지만, 그때도 조사는 경찰과 검찰의 몫이다. 장관 개인의 직무상 범죄는 국회 헌법위원회(KU)가 기소를 결정하고 대법원이 재판한다. 부처의 조사 자체는 법무감찰관(JK)이 감독할 수 있다.
+
+## 문화·현안 메모
+- **로센바드(Rosenbad)** — 스톡홀름 노르스트룀 물가의 정부청사로, 총리실과 여러 부처가 있다. *Rosenbad*는 흔히 '정부'를 가리키는 말로도 쓰인다(*Rosenbad meddelar …*). 스웨덴 정부청사(*Regeringskansliet*)는 법적으로 하나의 공공기관이어서 공문서 공개 원칙과 색출 금지가 그대로 적용된다.
+- **장관과 공보관** — 스웨덴에서는 장관을 *statsråd*라고 부르며, 격식을 갖춰 말할 때는 *statsrådet*(장관님)이라고 3인칭으로 부른다. 일상적으로는 장관에게도 *du*를 쓰는 것이 보통이어서, 빅토르가 *ni*로 바꾸는 순간은 차가운 거리 두기로 들린다. 장관 곁에는 정무직 공보관(*pressekreterare*)과 정무 보좌관(*politiskt sakkunnig*)이 있고, 이들은 공무원이 아니라 장관과 함께 들어오고 함께 나가는 정치 임용직이다.
+- **스위스 재단과 법원 공개** — 스위스 재단은 상업등기부에 이사회와 목적은 올리지만 수익자는 공개하지 않는다. 반면 스위스 법원 판결은 원칙적으로 공개되며, 온라인 판결문은 당사자 이름을 익명 처리하는 경우가 많다. 법원에 출입 등록한 기자는 원본을 열람할 수 있는 경우가 있다. 막힌 문을 연 것은 비밀문서가 아니라 공개된 판결문이었다. ⚠️ 극중 Stiftung Lindenhof, 하우리 가족, 판결은 모두 허구이며 실존 인물·사건을 묘사하지 않는다.
+
+## 다음 화 예고
+> 2월 18일 목요일, 쿵스브론의 검찰청. 5부부터 빅토르를 짓누르던 외국 첩보죄 예비수사의 결정문이 탁자 위에 놓인다. "Förundersökningen är nedlagd. Brott kan inte styrkas."
