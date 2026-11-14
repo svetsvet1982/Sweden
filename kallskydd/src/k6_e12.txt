@@ -1,0 +1,188 @@
+@title 6부 12화 — Kanariefågeln II
+@subtitle (카나리아 2)
+@meta 날짜|2026년 12월 1일 화요일 밤 10시 40분 ~ 12월 3일 목요일 밤 11시 (데얀 피격 두 달 뒤, 빅토르가 아미라·엘린과 공문서를 모으기 시작한 지 닷새 뒤)
+@meta 장소|쇠데르말름, 소피아의 집 부엌 — 식은 차와 식탁 위의 공문서 사본들 (화 밤 10시 40분) → Källaren, 문을 잠근 이른 아침 (수 오전 6시 50분) → 3층 커피 머신 앞 (수 오전 10시 40분) · 한트베르카르가탄 정문 옆 흡연 구석 (수 밤 10시 10분) · 주차장 빅토르의 차 안, 노아와의 통화 (수 밤 10시 40분) → 남쪽 교외의 주유소 뒤, 경찰의 표지 없는 차 안 (목 밤 9시 ~ 11시)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Lars** (라르스 몰린, 62, 법률고문) · **Maria** (마리아 벤베리, 50, 경찰 국가작전국 NOA 경감) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Agnes** (아그네스 에크만, 39, 야간 편집자) · **Noah** (노아 베리룬드, 24, 기자 — 정직 중, 전화) · **Radio** (경찰 감시조의 무전)
+@intro **지난 이야기** — 빅토르는 소피아에게도 알리지 않고 아미라·엘린과 함께 동료를 몰래 취재했다. 집행청 창구의 공문서는 2018년 프레드릭의 도박 빚 87만 크로나를, 살트셰바덴 요트 보관소 관리인은 스포츠백에 담긴 현금을, 부동산 등기는 노르드파스트에서 시세보다 30% 싸게 산 아파트를 말해 주었다. 주차장에서는 엘린이 그의 두 번째 휴대폰을 사진에 담았다. 그리고 아미라가 날짜를 맞춰 보았다. "빚은 2019년 11월 4일에 갚았어. 엘리아스가 죽고 2주 뒤에."
+@intro 닷새 뒤, 12월 1일 화요일 밤 10시 40분. 빅토르는 서류 봉투 하나를 들고 쇠데르말름의 한 아파트 계단을 오른다. 전화로는 한 문장만 말했다. "내일까지 못 기다려."
+# 장면 1 — 화요일 밤 10시 40분, 쇠데르말름 소피아의 집 부엌 (식은 찻주전자, 식탁 위에 하나씩 놓이는 공문서 사본, 창밖의 눈 섞인 비)
+Sofia|A2|Kom in. Du sa i telefon att det inte kunde vänta till i morgon.|들어와. 전화로 내일까지 못 기다린다고 했지.
+Viktor|A1|Nej. Det kan det inte.|응. 못 기다려.
+Sofia|A2|Teet har kallnat. Jag gjorde det när du ringde.|차가 식었어. 네가 전화했을 때 끓였거든.
+Viktor|A1|Det gör ingenting. Sätt dig, Sofia.|괜찮아. 앉아, 소피아.
+Sofia|B1|Du ber mig sätta mig i mitt eget kök. Då är det illa.|내 부엌에서 나한테 앉으라고 하네. 그럼 나쁜 얘기구나.
+Viktor|B1|Jag har papper med mig. Alla är allmänna handlingar, och jag vill att du läser dem innan jag säger ett enda namn.|서류 가져왔어. 전부 공문서야. 내가 이름 하나라도 말하기 전에 네가 이걸 먼저 읽었으면 해.
+Sofia|A1|Visa mig.|보여 줘.
+Viktor|B1|Kronofogden först. En skuld på åttahundrasjuttio tusen kronor från 2018, spelskulder på nätet. Betald i ett enda slag den fjärde november 2019.|집행청 먼저. 2018년부터 있던 87만 크로나 빚, 온라인 도박이야. 2019년 11월 4일에 한 번에 다 갚았어.
+Sofia|B1|Den fjärde november 2019. Det är två veckor efter att Elias dog.|2019년 11월 4일. 엘리아스가 죽고 2주 뒤네.
+Viktor|B2|Samma månad köptes en segelbåt kontant. Mannen som sköter varvet i Saltsjöbaden minns en sportbag full med sedlar, och båten heter Frihet.|같은 달에 요트 한 척을 현금으로 샀어. 살트셰바덴 보관소 관리인이 지폐가 가득 든 스포츠백을 기억해. 배 이름은 프리헤트야.
+Sofia|A2|Frihet. Jag har sett den båten på bilder från desken.|프리헤트. 그 배 본 적 있어. 데스크에서 돌던 사진으로.
+Viktor|B1|Och lagfarten på lägenheten i Hammarby sjöstad: köpt från Nordfast 2021, trettio procent billigare än grannarna betalade.|그리고 함마르뷔 셰스타드 아파트 등기. 2021년에 노르드파스트한테서 샀어. 이웃들이 낸 값보다 30% 싸게.
+Sofia|A1|Fredrik.|프레드릭.
+Viktor|A1|Ja. Fredrik.|응. 프레드릭.
+Sofia|B2|I våras frågade styrelsen vem som skulle kunna ta över efter mig. Jag sa hans namn utan att tveka en sekund.|올봄에 이사회가 내 뒤를 누가 이을 수 있겠냐고 물었어. 난 1초도 망설이지 않고 그 이름을 댔지.
+Viktor|B2|Det finns mer, och det svåraste står inte i några handlingar. Henrik gav mig sin anteckningsbok från 2019 på sjukhuset. Den åttonde oktober, tjugotre och fyrtio, kom Fredrik ner till bildredaktionen och bad om Elias fullständiga namn.|더 있어. 제일 어려운 건 어떤 공문서에도 없어. 헨릭이 병원에서 2019년 수첩을 줬어. 10월 8일 밤 11시 40분에 프레드릭이 사진부로 내려와서 엘리아스의 전체 이름을 달라고 했대.
+Sofia|A1|Varför då?|왜?
+Viktor|B2|För den juridiska granskningen, sa han. Men texten godkändes tjugo över fyra samma eftermiddag, och våra riktlinjer sa redan då att källors namn aldrig lämnas till juristen. Henrik trodde honom och sa namnet.|법률 검토 때문이라고 했대. 근데 그 기사는 그날 오후 4시 20분에 이미 승인됐고, 우리 지침은 그때도 취재원 이름은 절대 변호사한테 넘기지 않는다고 돼 있었어. 헨릭은 그 말을 믿고 이름을 말해 줬고.
+Sofia|B1|Bakdörren. Han sa ”bakdörren till fritidsgården” på mötet dagen efter skotten, innan Amira ens hade satt upp sin tabell.|뒷문. 총격 다음 날 회의에서 그가 "청소년센터 뒷문"이라고 했어. 아미라가 표를 붙이기도 전에.
+Viktor|A2|Ja. Och det hade jag bara sagt till Henrik.|응. 그리고 그건 내가 헨릭한테만 말했던 거야.
+Sofia|A2|Hur länge har du vetat?|언제부터 알았어?
+Viktor|A2|Sedan den tjugotredje november. Åtta dagar.|11월 23일부터. 8일.
+Sofia|B1|Du granskade en av mina chefer i en vecka utan att säga ett ord till mig?|내 간부 한 명을 일주일 동안, 나한테 한마디도 없이 조사했다고요?
+Viktor|B1|Ja. Med Amira och Elin, och bara med papper som vem som helst kan begära ut.|응. 아미라랑 엘린이랑. 누구나 청구할 수 있는 서류만 갖고.
+Sofia|B2|Noah har suttit avstängd hemma i Högdalen medan du visste att han gick i gymnasiet 2019. Åtta dagar, Viktor. Vad trodde du att jag skulle göra med det här?|노아가 회그달렌 집에 정직당한 채 앉아 있는 동안, 당신은 그 애가 2019년에 고등학생이었다는 걸 알고 있었어요. 8일이요, 빅토르. 내가 이걸 갖고 뭘 할 거라고 생각했어요?
+Viktor|B2|Jag trodde att du skulle göra det rätta, och det rätta hade kommit för tidigt. Du hade varit tvungen att agera, Hedvig hade skrivit en rapport till ägarna, och han hade fått veta det innan jag hade något i händerna.|네가 옳은 일을 할 거라고 생각했어. 근데 그 옳은 일은 너무 일렀을 거야. 넌 움직여야 했을 거고, 헤드비그는 사주한테 보고서를 썼을 거고, 그는 내가 손에 뭘 쥐기도 전에 알아챘겠지.
+Sofia|B2|Så du skyddade mig från mitt eget ansvar. Det beslutet är inte ditt att fatta, Viktor. Det är därför det heter ansvarig utgivare.|그러니까 당신이 나를 내 책임으로부터 보호해 줬다는 거네요. 그건 당신이 내릴 결정이 아니에요, 빅토르. 그래서 이름이 발행'책임자'인 거예요.
+Viktor|A1|Du har rätt. Förlåt.|네 말이 맞아. 미안해.
+Sofia|B1|Det är andra gången i höst som du bär något ensam och kommer till mig när det redan har kostat. Först bilderna på anteckningarna, nu det här.|올가을에만 두 번째예요. 혼자 짊어지고 있다가 이미 대가를 치른 뒤에야 나한테 오는 게. 처음엔 수첩 사진, 이번엔 이거.
+Viktor|A2|Jag vet. Därför sitter jag här i kväll.|알아. 그래서 오늘 밤 여기 앉아 있는 거야.
+Sofia|B1|Hösten 2019 satt jag i ledningsgruppen och sa själv att läckan nog kom från hans kvarter. Jag sa det högt, på ett möte.|2019년 가을에 난 경영진 회의에 앉아서, 유출은 아마 그 애 동네에서 나왔을 거라고 직접 말했어. 회의에서, 큰 소리로.
+Viktor|B1|Det sa alla. Henrik kallar det att lägga locket på.|다들 그렇게 말했어. 헨릭은 그걸 뚜껑을 덮는 거라고 불러.
+Sofia|B2|Varför kommer du just nu, då? Med de här papperen kan vi inte publicera en rad. Skulder, en båt och en lägenhet bevisar att han fick pengar, inte varifrån eller för vad.|그럼 왜 하필 지금 왔어요? 이 서류로는 한 줄도 못 내요. 빚, 배, 아파트는 그가 돈을 받았다는 걸 증명하지, 어디서, 무엇 때문에 받았는지는 아니에요.
+Viktor|B2|Precis. Papperen säger att han ljög och att någon betalade honom. De säger ingenting om att han pratar med Kungen i dag, och för det behöver jag dig.|바로 그거야. 서류는 그가 거짓말을 했고 누가 그에게 돈을 줬다는 것까지만 말해. 그가 지금 Kungen 쪽이랑 얘기한다는 건 아무것도 말해 주지 않아. 그러려면 네가 필요해.
+Sofia|B2|I våras gjorde vi det med båtar. Tre versioner, tre personer, och vi väntade på att en av dem skulle dyka upp. Den här gången behöver vi en människa som inte finns.|올봄엔 배로 했었죠. 버전 셋, 사람 셋, 그리고 그중 하나가 나타나길 기다렸어요. 이번엔 존재하지 않는 사람이 하나 필요해요.
+Viktor|A1|En kanariefågel. Igen.|카나리아. 또.
+Sofia|A2|Bevisa det, då. Tillsammans.|그럼 증명해요. 같이.
+# 장면 2 — 수요일 오전 6시 50분, 문을 잠근 Källaren (아직 켜지지 않은 모니터들, 라르스의 만년필, 손으로 그린 세 칸짜리 표, 빈 갈색 봉투)
+Lars|B1|Klockan är tio i sju och vi sitter i källaren med dörren låst. Jag antar att det här är något jag inte vill höra.|7시 10분 전에 문 잠근 지하실이라. 제가 듣고 싶지 않은 얘기겠군요.
+Sofia|B2|Viktor har gett mig skäl att tro att läckan sitter på desken, och att den har suttit där sedan 2019. Du får läsa papperen, men namnet säger vi högt bara en gång, här.|빅토르가 유출원이 데스크에 있다고, 그것도 2019년부터 있었다고 믿을 근거를 줬어요. 서류는 읽으셔도 돼요. 하지만 이름은 여기서 딱 한 번만 소리 내 말해요.
+Viktor|A1|Fredrik.|프레드릭이에요.
+Lars|A2|Jag förstår. Fortsätt, Viktor.|알겠습니다. 계속하세요, 빅토르.
+Viktor|B1|Hösten 2019 sa han till Henrik att juristen ville ha Elias namn före torsdagens tidning.|2019년 가을에 그가 헨릭한테, 목요일 자 신문 전에 변호사가 엘리아스 이름을 원한다고 했어요.
+Lars|B2|Det var jag som granskade din text den hösten. Jag gick hem vid fem, ingen ringde mig, och jag har aldrig bett om en källas namn under alla mina år i det här huset.|그해 가을 당신 기사를 검토한 게 저였어요. 다섯 시쯤 퇴근했고, 아무도 전화하지 않았어요. 그리고 이 건물에서 일한 그 긴 세월 동안 취재원 이름을 달라고 한 적은 한 번도 없습니다.
+Sofia|B1|Därför behöver vi en källa som inte finns. Hon heter Sara.|그래서 존재하지 않는 취재원이 필요해요. 이름은 사라예요.
+Lars|A1|Sara vem?|사라 누구요?
+Viktor|B2|Inget efternamn, det är hela poängen. Trettiofyra år, jobbar på ett apotek i Kista, stod vid busshållplatsen på framsidan klockan fem i sju den första oktober och såg en vuxen man i en mörk bil peka mot baksidan av fritidsgården.|성은 없어요. 그게 핵심이에요. 34세, 시스타의 약국에서 일하고, 10월 1일 저녁 7시 5분 전에 건물 앞쪽 버스 정류장에 서 있다가, 어두운색 차 안의 어른 남자가 청소년센터 뒤쪽을 가리키는 걸 봤어요.
+Lars|B1|En vuxen man. Alltså någon som Zenit inte vill att polisen hittar.|어른 남자라. 그러니까 Zenit이 경찰한테 들키고 싶지 않은 사람이군요.
+Sofia|B2|Det är därför hon är värd något för dem. Hon är livrädd, hon flyttar till sin syster från och med torsdag kväll, och hon vill bara prata med Viktor.|그래서 그쪽에겐 그녀가 값어치가 있는 거예요. 겁에 질려 있고, 목요일 밤부터 언니 집으로 옮기고, 빅토르하고만 얘기하려 해요.
+Lars|A1|Och var bor systern?|그럼 언니는 어디 살죠?
+Viktor|B1|Det beror på vem som frågar. Varje misstänkt får en egen version, så att vi vet var läckan sitter.|누가 묻느냐에 달렸죠. 용의자마다 각자의 버전을 받아요. 그래야 유출이 어디서 나는지 알 수 있으니까요.
+Lars|A2|Hur många misstänkta?|용의자가 몇 명입니까?
+Viktor|B1|Tre. Fredrik får Bagarmossen, tredje våningen. Agnes får Hagsätra, andra våningen. Noah får Tensta, femte våningen. Samma historia, samma ord, bara adressen skiljer.|셋이요. 프레드릭은 바가르모센 3층. 아그네스는 하그세트라 2층. 노아는 텐스타 5층. 같은 이야기, 같은 단어, 주소만 달라요.
+Sofia|B2|Noah? Han sitter avstängd för att vi misstänkte honom på för lite. Och nu ska vi ljuga för honom också?|노아요? 그 애는 우리가 너무 얄팍한 근거로 의심해서 정직당해 있어요. 그런데 이제 그 애한테 거짓말까지 하자고요?
+Viktor|B2|Henriks anteckningsbok friar honom för mig, men där står Elias efternamn, och den får aldrig visas för någon. Om Noah inte får en version kommer Fredrik att säga att vi aldrig prövade honom, och Hedvigs rapport kommer att säga samma sak.|헨릭의 수첩은 나한텐 노아의 결백을 증명해 줘. 근데 거기엔 엘리아스의 성이 적혀 있어서 누구한테도 보여 줄 수 없어. 노아가 버전을 받지 않으면, 프레드릭은 우리가 노아는 시험도 안 해 봤다고 할 거고, 헤드비그 보고서에도 똑같이 남을 거야.
+Sofia|B1|Så vi friar honom genom att lura honom.|그러니까 그 애를 속여서 그 애 누명을 벗기자는 거네요.
+Viktor|A2|Ja. Jag tycker inte heller om det.|응. 나도 마음에 안 들어.
+Sofia|B2|Då gör vi det. Men kom ihåg att jag sa ja, Viktor. När han får veta är jag lika skyldig som du.|그럼 해요. 하지만 내가 그러자고 했다는 거 기억해요, 빅토르. 그 애가 알게 되면 나도 당신만큼 책임이 있는 거예요.
+Lars|B1|Ett villkor före allt annat. Ingenting av det här får någonsin publiceras. Skriv det på papper, och skriv under.|무엇보다 먼저 조건 하나. 이 중 어떤 것도 절대 보도돼선 안 됩니다. 종이에 쓰고, 서명하세요.
+Sofia|B2|Vi skapar en källa som inte finns för att skydda alla som faktiskt finns – jag hoppas att det räcker som försvar.|우리는 실제로 존재하는 모든 사람을 지키려고 존재하지 않는 취재원을 만드는 거예요 — 그게 변명으로 충분하길 바랄 뿐이에요.
+Viktor|A1|Jag skriver under också. Här.|나도 서명할게. 여기.
+Sofia|B2|Och samma regler som i våras: Sara och de tre adresserna blir spärrord i redaktionssystemet, varje steg skrivs i ett förseglat PM i ditt kassaskåp, och alla vi lurar får veta det efteråt. Agnes också. Hedvig får ingenting, hennes rapporter går till ägarna.|그리고 봄과 같은 규칙. 사라와 주소 세 개는 편집 시스템 금칙어로 넣고, 모든 단계는 봉인 메모로 써서 라르스 금고에 넣고, 우리가 속이는 사람은 전부 나중에 사실을 알게 돼요. 아그네스도요. 헤드비그한텐 아무것도 안 줘요. 그 사람 보고서는 사주한테 가니까.
+Lars|B2|En sak till. Efterforskningsförbudet binder myndigheter, inte oss, och den som ger uppgifter till ett kriminellt nätverk är ingen meddelare. Men om Hagsätra eller Tensta dyker upp i en annan tidning i stället för vid en dörr, då har ni hittat en kollega som pratar med journalister – och det är skyddat. Då stänger ni kuvertet och glömmer vad ni såg.|하나 더. 색출 금지는 공공기관을 묶는 거지 우리를 묶는 게 아니고, 범죄 조직에 정보를 주는 사람은 제보자가 아닙니다. 하지만 하그세트라나 텐스타가 어느 집 문 앞이 아니라 다른 신문에 나타난다면, 그건 기자들과 얘기하는 동료를 찾은 거예요 — 그건 보호받습니다. 그럴 땐 봉투를 닫고 본 걸 잊으세요.
+Sofia|B1|Det lovar jag. Vi letar efter den som pratar med Kungen, inte efter den som pratar med journalister.|약속해요. 우리가 찾는 건 Kungen과 얘기하는 사람이지, 기자들과 얘기하는 사람이 아니에요.
+Viktor|B2|Och det här är inte i våras. Då ljög vi om båtar för en frilansare och en konsult, och det värsta som kunde hända var ett inlägg i en kanal. Nu ljuger vi om en människa för tre av våra egna.|그리고 이건 봄이랑 달라요. 그땐 프리랜서 한 명과 컨설턴트 한 명한테 배에 대해 거짓말을 했고, 최악이래 봐야 채널에 글 하나 올라오는 거였어요. 이번엔 우리 사람 셋한테 사람 하나를 두고 거짓말을 하는 거예요.
+Lars|B1|I en stad där adresser används för att döda. Vem bor i de där tre lägenheterna?|주소가 사람을 죽이는 데 쓰이는 도시에서요. 그 세 집엔 누가 살죠?
+Maria|A2|Ingen. Det har jag sett till.|아무도 안 살아요. 제가 그렇게 해 뒀어요.
+Lars|A2|Wennberg. Ni kom väl inte in genom huvudingången?|벤베리 경감. 설마 정문으로 들어오신 건 아니겠죠?
+Maria|B2|Lastkajen. Tre lägenheter i trappuppgångar med stambyte, där hyresgästerna har varit evakuerade sedan november. Bostadsbolaget tror att det är vanlig spaning, och räddningstjänsten vet att den ska stå beredd på torsdag.|하역장으로요. 배관 교체 공사 중인 계단통의 집 세 곳이에요. 세입자들은 11월부터 다른 데로 옮겨 가 있어요. 주택 회사는 평범한 잠복인 줄 알고, 소방대는 목요일에 대기해야 한다는 것만 알아요.
+Sofia|B2|Vi lägger ut ett bete, och den som nappar kan vara femton år. Hur skiljer sig det från att locka fram ett brott?|우리가 미끼를 놓는 거고, 그걸 무는 애는 열다섯 살일 수도 있어요. 그게 범죄를 끌어내는 거랑 뭐가 달라요?
+Maria|B2|Polisen får inte provocera fram brott, så jag har inte hittat på någonting av det här – det har ni. Jag vet bara att tre adresser kan bli angripna, och då är det min plikt att skydda dem. Vi vaktar. Vi lockar inte.|경찰은 범죄를 유발해선 안 돼요. 그래서 이건 제가 꾸민 게 하나도 없어요 — 그쪽이 꾸민 거죠. 저는 주소 세 곳이 공격당할 수 있다는 것만 알고, 그럼 그곳을 지키는 게 제 의무예요. 우린 지키기만 해요. 꾀어내지 않아요.
+Viktor|A2|Och vilken adress som hör till vem?|그럼 어느 주소가 누구 건지는?
+Maria|B1|Det vill jag inte veta förrän det är över. Då kan ingen säga att polisen valde ut någon, och Säpo får läsa min rapport efteråt, som alla andra.|끝날 때까지 알고 싶지 않아요. 그래야 경찰이 누굴 골랐다는 말이 안 나오죠. 그리고 Säpo도 나중에 다른 사람들처럼 제 보고서를 읽게 될 거예요.
+Viktor|A2|Tabellen. Handskriven. En enda kopia.|표예요. 손으로 쓴 거. 사본은 이거 하나뿐이고.
+Sofia|B2|Om Hagsätra och Tensta förblir tysta öppnas det här kuvertet aldrig utanför det här rummet. Då har två oskyldiga aldrig ens funnits i en polisanteckning.|하그세트라와 텐스타가 조용하면, 이 봉투는 이 방 밖에서 절대 열리지 않아요. 그럼 결백한 두 사람은 경찰 메모 한 줄에도 존재한 적이 없게 되는 거예요.
+# 장면 3 — 수요일, 흘리기 세 번: 오전 10시 40분 3층 커피 머신 앞 → 밤 10시 10분 정문 옆 흡연 구석의 바람 → 밤 10시 40분 주차장 빅토르의 차 안, 노아와의 통화
+Fredrik|A2|Viktor! Du ser ut som om du har sovit i bilen.|빅토르! 차에서 잔 사람 같네.
+Viktor|A1|Nästan. Kaffe?|거의. 커피?
+Fredrik|B1|Alltid. Hur mår Hesa? Sköterskorna säger att han sover varje gång jag ringer.|당연하지. 헤사는 좀 어때? 전화할 때마다 간호사들이 잔다고 하더라.
+Viktor|A2|Han sover mycket. Det är bra för honom.|많이 자. 그게 그한테 좋아.
+Fredrik|B1|Hälsa att desken fortfarande saknar hans dåliga skämt. Och vad jobbar du med? Du har varit osynlig i en vecka.|데스크가 아직도 그 썰렁한 농담 그리워한다고 전해 줘. 그리고 요즘 뭐 해? 일주일째 안 보이던데.
+Viktor|B1|Husby. Jag har en ny källa. Hon såg allt i Husby – men det stannar mellan oss, okej?|후스뷔. 새 취재원이 생겼어. 후스뷔에서 다 봤대 — 근데 우리끼리만 아는 거야, 알았지?
+Fredrik|A2|Självklart. Vad såg hon?|당연하지. 뭘 봤는데?
+Viktor|B2|En vuxen man i en bil som pekade ut bakdörren för pojken. Hon vågar inte bo hemma, så jag behöver en taxi på tidningens bekostnad i morgon kväll, och det är du som attesterar.|차 안의 어른 남자가 그 애한테 뒷문을 가리켜 줬대. 집에 있을 엄두가 안 난대. 그래서 내일 밤 회사 돈으로 택시가 필요한데, 결재는 네가 하잖아.
+Fredrik|A1|Vilken adress?|어느 주소?
+Viktor|A2|Hon bor på tredje våningen i Bagarmossen. Hos sin syster, från i morgon kväll.|바가르모센 3층에 있어. 언니 집에. 내일 밤부터.
+Fredrik|B1|Skicka underlaget till mig, så attesterar jag direkt. Ska inte Sofia veta om det här?|증빙 보내, 바로 결재할게. 소피아는 알아야 하지 않아?
+Viktor|A1|Sofia vet. Ingen annan.|소피아는 알아. 다른 사람은 몰라.
+Fredrik|B1|Bra. Och Viktor, ett vittne till en vuxen man är guld värt. Säg till så fort vi kan köra.|좋아. 그리고 빅토르, 어른 남자를 본 목격자는 금값이야. 낼 수 있게 되면 바로 말해.
+Viktor|A1|När hon är trygg.|그녀가 안전해지면.
+Agnes|A2|Du röker inte, Viktor. Vad gör du här ute i blåsten?|너 담배 안 피우잖아, 빅토르. 이 바람 속에 밖에서 뭐 해?
+Viktor|A2|Jag letade efter dig. Desken har öron.|너 찾고 있었어. 데스크엔 귀가 많아서.
+Agnes|B1|Desken har mest skrivare som inte fungerar. Men okej, jag har sju minuter kvar på den här cigaretten.|데스크엔 고장 난 프린터가 대부분이지. 근데 좋아, 이 담배 7분 남았어.
+Viktor|B1|Om det kommer ett tips i natt om Hagsätra, vad som helst, ring mig direkt. Inte desken.|오늘 밤 하그세트라 관련 제보가 들어오면, 뭐든 좋으니까 나한테 바로 전화해. 데스크 말고.
+Agnes|A1|Hagsätra? Varför då?|하그세트라? 왜?
+Viktor|B1|En källa flyttar dit i morgon kväll, andra våningen, hos sin syster. Hon har sett något i Husby som hon inte borde ha sett.|취재원 하나가 내일 밤 거기로 옮겨. 2층, 언니 집. 후스뷔에서 보지 말았어야 할 걸 봤어.
+Agnes|B1|Och sedan när går vi förbi desken? Fredrik får spel om han hör det.|그리고 언제부터 데스크를 건너뛰었대? 프레드릭이 들으면 난리 날걸.
+Viktor|A2|Då får han inte höra det.|그럼 못 듣게 해야지.
+Agnes|B2|Du har samma min som min exman hade när han sa att han jobbade över. Är det här någon sorts test, Viktor?|너 지금 우리 전남편이 야근한다고 할 때랑 똑같은 표정이야. 이거 무슨 테스트야, 빅토르?
+Viktor|A2|Det är ett tips. Inget annat.|제보야. 그 이상은 아무것도 아니고.
+Agnes|B1|Hagsätra, andra våningen. Jag har redan glömt det. Jag ska bara berätta det för katten klockan tre.|하그세트라, 2층. 벌써 잊어버렸어. 새벽 세 시에 고양이한테만 말해 줄게.
+Noah|A1|Viktor? På riktigt?|빅토르? 진짜요?
+Viktor|A2|Hej, Noah. Är det för sent?|안녕, 노아. 너무 늦었나?
+Noah|B1|Asså, jag har inte gjort något annat än att stirra på väggen i nitton dagar. Klockan spelar typ ingen roll.|아니, 19일 동안 벽만 쳐다본 게 다예요. 시간은 뭐, 별 상관없어요.
+Viktor|B1|Jag behöver hjälp med dina konton, de som rekryterar. Har du kvar listan?|네 계정들 도움이 필요해. 애들 모집하는 놈들. 그 목록 아직 있어?
+Noah|B1|Alla tvåhundrafjorton. På papper, med penna, som Elin sa. Varför då?|214개 전부요. 엘린 말대로 종이에 펜으로요. 왜요?
+Viktor|B2|En källa flyttar till sin syster i Tensta i morgon kväll, femte våningen. Om det dyker upp ett jobb i någon kanal, skriv till mig – men läs bara. Skriv ingenting i kanalerna och gör ingenting själv.|취재원 하나가 내일 밤 텐스타 언니 집으로 옮겨, 5층. 어느 채널에든 일감이 뜨면 나한테 문자해 — 근데 읽기만 해. 채널에 아무것도 쓰지 말고, 혼자 아무것도 하지 마.
+Noah|A2|Ni behöver mig fortfarande?|아직 제가 필요하세요?
+Viktor|A2|Läs bara kanalerna, Noah. Okej?|채널만 읽어, 노아. 알았지?
+Noah|A2|Okej. Jag gör det. Tack för att du ringde. Asså, på riktigt.|알았어요. 할게요. 전화해 줘서 고마워요. 아니, 진짜로요.
+# 장면 4 — 목요일 밤 9시 ~ 11시, 남쪽 교외의 주유소 뒤, 경찰의 표지 없는 차 안 (꺼진 시동, 김 서린 유리, 보온병, 무전기의 잡음, 소피아 안주머니의 봉투)
+Maria|A2|Mössan på, Sofia. Motorn får inte gå, så det blir kallt.|모자 쓰세요, 소피아. 시동을 못 켜니까 추워질 거예요.
+Sofia|A2|Jag har suttit i kallare bilar. Hur länge sitter vi här?|더 추운 차에도 앉아 봤어요. 여기 얼마나 있어야 해요?
+Maria|B1|Tills något händer eller tills klockan blir fem i morgon bitti. Då släcker vi allt, och det här var aldrig en plan.|뭔가 일어나거나, 새벽 다섯 시가 될 때까지요. 그러면 다 끄고, 이건 계획이었던 적이 없는 거예요.
+Viktor|A1|Var är dina folk?|네 사람들은 어디 있어?
+Maria|B1|Två i varje trappuppgång, en bil på varje gata, och räddningstjänsten väntar en kilometer bort.|계단통마다 둘, 길마다 차 한 대. 그리고 소방대가 1킬로 떨어진 데서 기다리고 있어.
+Radio|A2|Tensta här. Lugnt. Två hundar och en man med matkasse.|텐스타. 이상 없음. 개 두 마리, 장바구니 든 남자 하나.
+Sofia|B1|Kuvertet ligger i min innerficka. Det känns som om det väger ett kilo.|봉투는 제 안주머니에 있어요. 1킬로는 나가는 것 같네요.
+Maria|B1|Låt det ligga. Och torka inte rutorna. En immig bil ser ut som ett par som grälar, inte som polisen.|그냥 두세요. 그리고 유리 닦지 마세요. 김 서린 차는 경찰이 아니라 싸우는 커플처럼 보이거든요.
+Sofia|B2|Vi har grälat i tre dagar. Agnes frågade dig rakt ut om det var ett test, och du ljög henne i ansiktet – och det var jag som bad dig göra det.|우리 사흘째 싸우고 있죠. 아그네스가 테스트냐고 대놓고 물었는데, 당신은 얼굴을 보면서 거짓말을 했어요 — 그렇게 하라고 한 게 나였고요.
+Viktor|B2|Och Noah lät gladare i telefon än han har gjort på hela hösten. En fälla gör ont även på dem som aldrig går i den.|그리고 노아는 전화로 올가을 들어 제일 기쁜 목소리였어. 함정은 거기 걸리지 않는 사람한테도 상처를 줘.
+Sofia|B1|Jag har redan skrivit två brev, ett till var och en av dem. Precis som i våras: innan jag vet om de behövs.|편지 두 통을 벌써 써 놨어요. 한 사람에 한 통씩. 봄이랑 똑같이, 필요한지 알기 전에.
+Viktor|B1|Vänta. Ett sms från en kollega som läser kanalerna åt mig.|잠깐. 나 대신 채널을 읽어 주는 동료한테서 문자 왔어.
+Maria|B1|Säg inte vem. Jag får inte fråga efter era källor, och jag tänker inte göra det.|누군지 말하지 마. 난 너희 취재원을 물어선 안 되고, 물을 생각도 없어.
+Viktor|B1|”Inget om Tensta. Men 21.14 kom det här i en öppen kanal: söder, torsdag natt, en dörr, bensin ingår, snabba para.”|"텐스타 얘긴 없어요. 근데 21시 14분에 공개 채널에 이게 올라왔어요. 남쪽, 목요일 밤, 문 하나, 기름 포함, 빠른 돈."
+Sofia|B1|Både Bagarmossen och Hagsätra ligger söder om stan.|바가르모센도 하그세트라도 시내 남쪽이에요.
+Maria|A2|Någon har nappat på kroken.|누군가 미끼를 물었네요.
+Viktor|A2|Men vi vet inte vilken krok.|근데 어느 미끼인지는 몰라.
+Maria|B1|Alla enheter, lyssna: möjligt uppdrag i söder i natt. Bagarmossen och Hagsätra, skärp er. Tensta, ni stannar där ni är.|전 대원, 잘 들어. 오늘 밤 남쪽에서 일감 가능성 있음. 바가르모센, 하그세트라, 긴장해. 텐스타는 현 위치 유지.
+Radio|A1|Uppfattat.|알았다.
+Sofia|A2|Norr är tyst, alltså.|그러니까 북쪽은 조용하네요.
+Viktor|A1|Ja. Norr är tyst.|응. 북쪽은 조용해.
+Maria|B1|Jag hörde inte det där. Och jag vill inte förstå det heller.|난 그 말 못 들었어요. 그리고 알아듣고 싶지도 않고요.
+Viktor|A1|Ett sms till. Från Fredrik.|문자 하나 더. 프레드릭이야.
+Sofia|A1|Läs högt.|소리 내서 읽어요.
+Viktor|B1|”Taxin till i kväll är attesterad. Kom din källa fram ordentligt? /F”|"오늘 밤 택시 결재했어. 네 취재원 무사히 도착했어? /F"
+Sofia|B1|Han frågar efter henne. Klockan kvart över tio en torsdagskväll.|그녀 안부를 묻네요. 목요일 밤 10시 15분에.
+Viktor|B1|Han frågar alltid. Det är hans jobb att fråga, och han har attesterat tusen taxiresor.|그는 늘 물어. 묻는 게 그 사람 일이고, 택시 결재를 천 번은 했어.
+Sofia|B2|Du försvarar honom, efter allt du lade på mitt köksbord i tisdags.|그를 변호하네요. 화요일에 내 식탁 위에 그 모든 걸 늘어놓고 나서.
+Viktor|B2|Jag försvarar inte honom. Jag försvarar skillnaden mellan det vi tror och det vi kan bevisa, och den skillnaden är det du som har lärt mig.|그를 변호하는 게 아니야. 우리가 믿는 것과 증명할 수 있는 것 사이의 차이를 지키는 거야. 그 차이를 가르쳐 준 게 너고.
+Maria|B2|Jag har tänkt på brottsprovokation hela dagen. Om någon kommer i natt är det inte för att polisen bad honom komma, men det är inte heller hela sanningen.|하루 종일 함정수사 생각을 했어요. 오늘 밤 누가 온다면 경찰이 오라고 해서 오는 건 아니에요. 하지만 그게 진실의 전부도 아니죠.
+Sofia|B2|Nej. Den som kommer kan vara femton år och tro att han tjänar ihop till en moped, och det priset fick jag aldrig in i något papper med Lars.|아니죠. 오는 애는 열다섯 살일 수도 있고, 오토바이 살 돈을 번다고 생각할지도 몰라요. 그 대가는 라르스와 쓴 어떤 종이에도 넣지 못했어요.
+Viktor|B1|Han hade fått ett jobb ändå, nästa vecka eller nästa månad, mot en dörr där någon faktiskt sover.|그 애는 어차피 일감을 받았을 거야. 다음 주든 다음 달이든, 누군가 정말로 자고 있는 집 문 앞으로.
+Sofia|A2|Det är sant. Det gör det inte lättare.|맞아요. 그렇다고 쉬워지진 않네요.
+Radio|A2|Hagsätra. Fortfarande lugnt. Någon röker på en balkong mittemot.|하그세트라. 여전히 이상 없음. 맞은편 발코니에서 누가 담배 피움.
+Viktor|A2|Ett sms till. Katten hälsar, står det, och i natt har hon inte hört någonting.|문자 또 왔어. 고양이가 안부 전한대. 그리고 오늘 밤엔 아무것도 못 들었대.
+Sofia|B2|Hon kommer att förlåta dig när hon får veta. Det är nästan det värsta.|사실을 알게 되면 당신을 용서할 거예요. 그게 거의 제일 끔찍한 부분이죠.
+Radio|B1|Bagarmossen. Två personer kommer från tunnelbanan mot porten. Huvtröjor, och de bär på något tungt.|바가르모센. 두 명이 지하철역에서 입구 쪽으로 이동 중. 후드티, 뭔가 무거운 걸 들고 있음.
+Maria|A2|Ingen rör sig förrän jag säger till.|내가 말하기 전엔 아무도 움직이지 마.
+Radio|A2|De står vid porten nu. Det är dunkar. Det luktar bensin ända hit.|지금 입구 앞에 섰음. 통이다. 여기까지 기름 냄새가 남.
+Viktor|A1|Klockan är elva.|열한 시야.
+Maria|B1|Två killar vid porten i Bagarmossen. Vems version var det?|바가르모센 입구에 남자 둘. 누구 버전이었죠?
+Sofia|A1|Fredriks.|프레드릭 거요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vilken adress?** | 어느 주소? | *vilken*은 en-명사 앞(*en adress*), ett-명사 앞에선 *vilket*(*Vilket nummer?*), 복수 앞에선 *vilka*(*Vilka adresser?*). 프레드릭이 던진 이 두 단어가 함정의 문을 연다 |
+| `A2` | **Hon bor på tredje våningen i Bagarmossen.** | 바가르모센 3층에 살아요. | 층은 *på* + 서수 + *våningen*(한정형). 동네 이름 앞에는 *i*(*i Bagarmossen, i Tensta*). 스웨덴은 1층이 *bottenvåningen*이라 *första våningen*이 한국식 2층일 때가 많다 |
+| `B1` | **Varje misstänkt får en egen version, så att vi vet var läckan sitter.** | 용의자마다 각자의 버전을 받아요. 그래야 유출이 어디서 나는지 알 수 있죠. | *så att* + 평서문 어순 = 목적·결과("~하도록"). *var läckan sitter*는 간접의문문이라 주어 + 동사 순서. *sitta*는 '앉다'뿐 아니라 문제·원인이 '어디에 있다'는 뜻으로도 쓴다 |
+| `B2` | **Vi skapar en källa som inte finns för att skydda alla som faktiskt finns – jag hoppas att det räcker som försvar.** | 실제로 존재하는 모든 사람을 지키려고 존재하지 않는 취재원을 만드는 거예요 — 그게 변명으로 충분하길 바랄 뿐이에요. | *som inte finns* / *som faktiskt finns*의 대구. *för att* + 부정사 = 목적. *räcka som* + 명사 = '~로서 충분하다'. *försvar*는 '방어'이자 '정당화·변명' |
+| `B1` | **Du granskade en av mina chefer i en vecka utan att säga ett ord till mig?** | 내 간부 한 명을 일주일 동안, 나한테 한마디도 없이 조사했다고요? | 평서문 어순에 물음표 — 믿기지 않을 때 쓰는 되묻기. *utan att* + 부정사 = '~하지 않고'. 기간은 *i en vecka*(일주일 동안) |
+| `A2` | **Bevisa det, då. Tillsammans.** | 그럼 증명해요. 같이. | 명령문 끝의 *då*는 '그렇다면, 그럼' — 상대 말을 받아 조건을 거는 구어. 소피아의 신조("맞다는 것만으로는 부족해, 증명해야 해")가 한 단어로 줄었다 |
+| 구어 | **nappa på kroken** | 미끼를 물다 | 낚시에서 온 말. *napp*는 물고기가 미끼를 무는 것. 마리아: *"Någon har nappat på kroken."* 빅토르의 대꾸 *"Men vi vet inte vilken krok."*는 함정이 세 개라서 가능한 말장난 |
+| 보안·법 | **brottsprovokation** | 범죄 유발형 함정수사 | 스웨덴에서 경찰이 범죄를 부추기거나 꾸며 내는 것은 허용되지 않고, 그렇게 얻은 증거는 재판에서 문제가 된다. 그래서 이번 작전에서 미끼를 놓은 것은 신문사이고, 경찰은 위협받을 수 있는 세 주소를 *지키기만* 한다 |
+| 보안·법 | **spärrord** | 금칙어 | 편집 시스템에 등록해 두면 그 단어가 든 기사는 자동으로 멈추고 지정된 사람에게만 알림이 간다. 3부 12화와 같은 장치 — 가짜 정보가 실수로라도 지면에 나가지 않게 하는 안전핀 |
+
+## 저널리즘·법 메모
+카나리아 함정은 3부 12화와 같은 방법이지만, 이번 화의 질문은 훨씬 무겁다. 봄에는 *외부인*(프리랜서와 컨설턴트)에게 *사물*(배의 위치)에 대한 거짓 정보를 흘렸고, 최악의 결과는 텔레그램 채널의 게시물 하나였으며, 대조군이었던 사샤는 미리 동의했다. 이번에는 *동료 세 명*에게, 그중 한 명은 이미 정직시킨 사람에게, *사람*(존재하지 않는 목격자 사라)과 그 사람의 *주소*를 흘린다. 이 도시에서 주소는 폭력의 주문서이고, 그 주문을 받는 것은 열다섯 살 아이들이다. 그래서 소피아와 라르스는 봄의 조건(금칙어, 봉인 메모, 속인 사람 전원에게 사후 공개)에 서명한 서면 약속 — "어떤 것도 보도하지 않는다" — 을 더한다. 법의 선도 하나씩 그어진다. *efterforskningsförbud*(색출 금지)는 공공기관을 묶는 규정이라 사기업인 신문사의 내부 조사를 직접 막지는 않고, 범죄 조직에 정보를 넘긴 사람은 *meddelare*(제보자)가 아니므로 보호받지 못한다. 그러나 라르스는 그 정신을 지키라고 말한다. 가짜 정보가 문 앞이 아니라 *다른 신문*에 나타난다면, 그것은 기자와 이야기한 동료, 곧 보호받는 제보자를 찾아낸 것이므로 봉투를 닫고 잊어야 한다. 경찰도 같은 원칙 위에 선다. 마리아는 미끼를 놓지 않고(*brottsprovokation* 금지) 주소만 지키며, 끝날 때까지 어느 주소가 누구의 버전인지 모르려 한다. 무전 너머로 들어온 "채널을 읽어 주는 동료"가 누구인지도 묻지 않는다. 조용히 지나간 두 주소의 주인은 경찰 기록에 한 줄도 남지 않는다 — 함정이 무고한 사람에게 남기는 상처를 그나마 줄이는 방법이다.
+
+## 문화·현안 메모
+- **바가르모센·하그세트라·텐스타** — 바가르모센과 하그세트라는 스톡홀름 남쪽, 지하철 녹색선의 서로 다른 지선 끝 쪽 동네이고, 텐스타는 북서쪽 파란선의 동네다. 그래서 "남쪽"이라는 일감 문구 하나로는 두 버전을 가를 수 없고, 텐스타(노아의 버전)만 먼저 빠진다.
+- **stambyte(배관 전면 교체)** — 1960~70년대 *miljonprogrammet* 시기에 지어진 아파트들은 수십 년 만에 상하수도관을 통째로 바꾸는 공사를 하며, 그동안 세입자를 계단통 단위로 임시 거처(*evakueringslägenhet*)에 옮기기도 한다. 마리아가 빈 아파트 세 곳을 구한 방법이다.
+- **attestering(결재)** — 스웨덴 직장에서 경비는 담당 관리자가 *attestera*(승인 서명)해야 지급된다. 빅토르가 프레드릭에게 택시비 결재를 부탁한 것은 평범한 일처럼 보이는 핑계이자, 그가 주소를 *업무상* 알게 되었다는 기록을 남기는 방법이기도 하다.
+- **증인에 대한 위협** — 스웨덴에서는 갱단 사건의 목격자가 보복이 두려워 진술을 꺼리는 문제가 오래 지적되어 왔고, 익명 증인 제도 같은 보호 장치 도입이 논의되어 왔다. 존재하지 않는 목격자 "사라"가 Kungen의 네트워크에게 미끼가 될 수 있었던 이유다.
+- ⚠️ 이번 화의 인물·작전·주소·텔레그램 문구는 모두 허구이며, 실제 경찰 작전이나 특정 건물·주민을 묘사하지 않는다.
+
+## 다음 화 예고
+> 영하 5도의 살트셰바덴, 크레인에 매달린 *Frihet* 아래. 빅토르가 서류를 한 장씩 내려놓는다 — 집행청, 스포츠백, 데스크 내선, 그리고 마지막 한 장, 바가르모센.

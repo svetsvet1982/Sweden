@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (86/105화 완성)
+## 대본 목차 (88/105화 완성)
 
 ### 1부
 
@@ -140,3 +140,5 @@
 | 9 | [Köpenhamn](episodes/k6_e09.md) | 코펜하겐 |
 | 10 | [Hesa](episodes/k6_e10.md) | 헤사 |
 | 11 | [Kaptenen](episodes/k6_e11.md) | 선장 |
+| 12 | [Kanariefågeln II](episodes/k6_e12.md) | 카나리아 2 |
+| 13 | [Mullvaden](episodes/k6_e13.md) | 두더지 |
