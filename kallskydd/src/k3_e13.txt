@@ -1,0 +1,188 @@
+@title 3부 13화 — Avslöjandet
+@subtitle (폭로)
+@meta 날짜|2026년 4월 30일 목요일 (발보리 *Valborgsmässoafton*) 오전 7시 50분 ~ 밤 9시 35분
+@meta 장소|브롬마, 알바의 학교 앞 빅토르의 차 (오전 7시 50분) → 리다르홀멘, Säpo가 지정한 빈 사무실 (오후 4시) → 같은 사무실 (저녁 8시) → 같은 사무실, 물 건너편 발보리 모닥불이 보이는 창가 (밤 9시 30분)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Alva** (알바 홀름, 16, 빅토르의 딸) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Noah** (노아 베리룬드, 24, 기자) · **Rydén** (안데르스 뤼덴, 48, Säpo 방첩 담당관) · **Katja** (카탸 린델, 29, 위성사진을 파는 프리랜서)
+@intro **지난 이야기** — 소피아의 세 가지 조건 아래 카나리아 함정이 놓였다. 카탸에게는 "슬리테, 두 척, 일요일부터", IT 컨설턴트에게는 파뢰순드, 사샤에게는 비스뷔. 사흘째인 4월 29일 저녁 6시 28분, 러시아어 텔레그램 채널 "Baltijskij Dozor"에 카탸의 버전이 글자 그대로 올라왔다. 그러나 빅토르는 말했다. 이건 "어느 버전이 새었는가"를 증명할 뿐, "어떻게"는 아니라고.
+@intro 다음 날, 4월 30일 목요일. 발보리다. 소피아는 밤사이 Säpo의 안데르스 뤼덴에게 전화를 걸었고, 대면 장소는 Säpo가 정했다. 저녁 8시, 리다르홀멘의 빈 사무실. 그 전에 빅토르에게는 지켜야 할 약속이 하나 더 생긴다. 이번 주는 알바가 아빠 집에서 지내는 주다.
+# 장면 1 — 목요일 오전 7시 50분, 브롬마, 알바의 학교 앞 빅토르의 차 (교정에서 들려오는 3학년들의 봄노래 연습)
+Alva|A1|Stanna här, pappa. Inte vid grinden.|여기 세워, 아빠. 교문 앞 말고.
+Viktor|A1|Varför inte?|왜?
+Alva|A2|Alla ser oss där. Det är pinsamt.|거기선 다 보잖아. 창피해.
+Viktor|B1|Jag har skjutsat dig till skolan i tio år.|십 년 동안 너 학교 태워다 줬는데.
+Alva|B1|Ja, och det har varit pinsamt i tio år. Lyssna! Treorna sjunger.|응, 그리고 십 년 동안 창피했어. 들어 봐! 3학년들 노래한다.
+Viktor|A1|”Vintern rasat”?|'겨울은 물러갔다'?
+Alva|B1|De övar inför i kväll. Rektorn vill att de sjunger vid brasan, fast de flesta bara tänker på studenten.|오늘 밤 때문에 연습하는 거야. 교장 선생님이 모닥불 옆에서 부르게 하고 싶대. 근데 다들 졸업식 생각뿐이야.
+Viktor|A2|Har de redan fått sina mössor?|벌써 학생모 받았어?
+Alva|B1|De har köpt dem, men ingen vågar ha dem på sig före juni. Det sägs att det betyder otur.|사긴 샀는데, 6월 전엔 아무도 감히 안 써. 재수 없다잖아.
+Viktor|B2|Klokt. Jag skulle inte heller utmana ödet, om jag vore arton och hade fem veckor kvar.|현명하네. 나라도 열여덟 살에 졸업까지 5주 남았으면 운명을 시험하진 않겠다.
+Alva|A2|Kommer du till brasan i kväll? Den tänds klockan nio, nere vid sjön.|오늘 밤 모닥불 올 거야? 아홉 시에 불 붙여. 호숫가에서.
+Viktor|A2|Jag har ett möte i kväll. Ett viktigt.|오늘 저녁에 회의가 있어. 중요한 거.
+Alva|A1|Med vem?|누구랑?
+Viktor|B1|Det kan jag inte säga. Men jag lovade dig i vintras att inte ljuga, så jag säger hellre det än hittar på något.|그건 말 못 해. 근데 지난겨울에 거짓말 안 하겠다고 약속했잖아. 그러니까 뭘 지어내느니 이렇게 말하는 거야.
+Alva|B1|Det är din vecka, pappa. Du sa att vi skulle grilla korv vid brasan.|아빠 주잖아. 모닥불에서 소시지 구워 먹자고 했잖아.
+Viktor|A2|Mötet börjar klockan åtta. Jag hinner.|회의는 여덟 시에 시작해. 갈 수 있어.
+Alva|A1|Säkert?|확실해?
+Viktor|A1|Säkert.|확실해.
+Alva|A2|Lova nu. Riktigt lova, inte pappa-lova.|약속해. 진짜 약속, 아빠식 약속 말고.
+Viktor|A2|Vad är det för skillnad?|뭐가 다른데?
+Alva|B2|Pappa-lova är när du säger ja medan du redan tittar på telefonen, och sedan ringer du klockan tio och säger att det drog ut på tiden.|아빠식 약속은 벌써 휴대폰 보면서 '응' 하는 거야. 그러고 열 시에 전화해서 일이 길어졌다고 하지.
+Viktor|A1|Okej. Lillfingret.|알았어. 새끼손가락.
+Alva|A1|Lillfingret. Nu gäller det.|새끼손가락. 이제 진짜야.
+Viktor|B1|Jag kommer till brasan, och jag tar med korv, senap och den där äckliga ketchupen som du gillar.|모닥불에 갈게. 소시지랑 머스터드, 그리고 네가 좋아하는 그 끔찍한 케첩도 가져갈게.
+Alva|A2|Den är inte äcklig. Du har bara ingen smak.|안 끔찍하거든. 아빠가 입맛이 없는 거지.
+Viktor|B2|Det har din mamma påpekat i tjugo år, så det är nog den enda punkt där ni två alltid har varit helt överens.|그건 네 엄마가 이십 년 동안 지적해 왔지. 아마 너희 둘이 늘 완전히 의견이 같았던 유일한 대목일 거야.
+Alva|A2|Hej då! Klockan nio. Vid sjön!|안녕! 아홉 시. 호숫가에서!
+Viktor|A1|Nio. Vid sjön.|아홉 시. 호숫가.
+# 장면 2 — 목요일 오후 4시, 리다르홀멘, Säpo가 지정한 빈 사무실 (먼지 앉은 회의 탁자, 소피아의 서류 두 장, 아미라와 노아가 정리한 갈색 봉투 세 개)
+Rydén|A1|Ni är tidiga.|일찍 오셨군요.
+Sofia|A2|Ni också. Vems kontor är det här?|그쪽도요. 여긴 누구 사무실이죠?
+Rydén|A2|Spelar det någon roll?|그게 중요합니까?
+Viktor|A1|Typiskt.|역시나.
+Sofia|B2|Då börjar vi med det som spelar roll. Jag har skrivit ner villkoren för vårt samarbete på två sidor, och innan någon sätter sig vid det där bordet i kväll vill jag att ni skriver under dem.|그럼 중요한 것부터 시작하죠. 우리 협조 조건을 두 장에 적어 왔어요. 오늘 밤 누구든 저 탁자에 앉기 전에 서명해 주셨으면 해요.
+Rydén|A2|Läs dem för mig.|읽어 주시죠.
+Sofia|B2|Punkt ett: Stockholmsposten delar med sig av det vi har dokumenterat om Katja Lindells arbete hos oss, men aldrig av våra källor eller av råmaterial som kan leda till dem.|1항. 스톡홀름스포스텐은 카탸 린델이 우리 회사에서 한 일에 대해 기록한 것은 공유한다. 그러나 우리 취재원, 그리고 취재원으로 이어질 수 있는 원자료는 절대 공유하지 않는다.
+Rydén|B1|Och om vi behöver listan som hon kopierade?|그 여자가 복사한 명단이 필요하다면요?
+Amira|A2|Den får ni inte. Den finns inte ens kvar på servern.|그건 못 드려요. 서버에 남아 있지도 않아요.
+Sofia|B2|Punkt två: samtalet i kväll spelas in av oss, och inspelningen tillhör tidningen. Ni får lyssna, men en kopia lämnas bara ut efter ett beslut av mig som ansvarig utgivare.|2항. 오늘 밤 대화는 우리가 녹음하고, 녹음은 신문사 소유다. 들을 수는 있지만, 사본은 발행책임자인 내 결정이 있을 때만 넘긴다.
+Rydén|B1|Ni vet att vi kan begära beslag på en inspelning?|녹음은 압수를 청구할 수도 있다는 거, 아시죠?
+Sofia|B2|Det vet jag, och ni vet att en sådan begäran skulle prövas mot tryckfrihetsförordningen. Jag tror inte att någon av oss vill ta den striden i kväll.|알아요. 그리고 그런 청구는 출판자유법에 비춰 심사받게 된다는 것도 아시죠. 오늘 밤 그 싸움을 하고 싶은 사람은 우리 중에 없을 거예요.
+Rydén|B2|Kanske inte. Men jag noterar att ni redan har tänkt igenom den striden, vilket säger mig en hel del. Fortsätt.|아마 그렇겠죠. 하지만 그 싸움을 벌써 다 생각해 두셨다는 건 기억해 두죠. 그것만으로도 많은 걸 말해 주니까. 계속하시죠.
+Sofia|B1|Punkt tre gäller våra källor. Ni ställer inga frågor om dem, varken till oss eller till henne medan vi sitter i rummet.|3항은 우리 취재원에 관한 거예요. 취재원에 대해선 아무것도 묻지 않는다. 우리한테도, 우리가 방에 있는 동안 그 여자한테도.
+Rydén|A2|Och om hon nämner era källor?|그 여자가 당신들 취재원 이름을 대면요?
+Sofia|A2|Då bekräftar vi ingenting. Det står i punkt tre.|그럼 우린 아무것도 확인해 주지 않아요. 3항에 있어요.
+Rydén|B1|Och vad gör jag i rummet, om jag inte får fråga något?|아무것도 물을 수 없다면, 저는 그 방에서 뭘 합니까?
+Viktor|B1|Ni lyssnar. Och när vi är klara får ni göra ert jobb, precis som vi gör vårt.|들으시면 됩니다. 그리고 우리가 끝나면 그쪽 일을 하시면 되고요. 우리가 우리 일을 하듯이.
+Rydén|B2|Ni förstår att det här inte är en intervju för oss. Om hon säger det jag tror att hon kommer att säga, är det början på en förundersökning om olovlig underrättelseverksamhet.|이게 우리한텐 인터뷰가 아니라는 건 아시겠죠. 그 여자가 제 예상대로 말한다면, 그건 불법 정보활동죄 예비수사의 시작입니다.
+Sofia|B2|Och för oss är det ett bemötande. Hon ska få svara på allt som vi tänker publicera om henne innan vi publicerar det, oavsett vad ni gör efteråt.|그리고 우리한텐 반론 기회예요. 그 여자는 우리가 자기에 대해 보도하려는 모든 것에, 보도하기 전에 답할 수 있어야 해요. 그쪽이 나중에 뭘 하든 상관없이.
+Rydén|A2|Vem mer vet att ni är här?|여기 온 걸 또 누가 압니까?
+Sofia|B2|Ingen utanför Källaren, förutom Lars. Fredrik, som har desken, gick tidigt i dag för att göra i ordning båten inför säsongen, och kvällsdesken tror att jag sitter på en middag.|Källaren 밖에선 아무도요. 라르스 빼고요. 데스크를 맡은 프레드릭은 시즌 전에 배를 손본다고 오늘 일찍 퇴근했고, 야간 데스크는 제가 저녁 약속에 간 줄 알아요.
+Noah|B1|Webben har haft Henriks brasor uppe sedan fyra. Ingen tittar ner i källaren i dag.|웹엔 네 시부터 헨릭 선배 모닥불 사진이 걸려 있어요. 오늘은 아무도 지하실 안 들여다봐요.
+Rydén|A1|Bra. Bevisen?|좋습니다. 증거는요?
+Amira|B1|Tre buntar. Den första är felkartan: trettioen av fyrtio artiklar har fel, och alla pekar åt samma håll. Plus Orbitums svar om den tredje bilden.|세 묶음이에요. 첫째는 오류 지도. 기사 40편 중 31편에 오류가 있고, 전부 같은 방향을 가리켜요. 거기에 세 번째 사진에 대한 오르비툼의 답변.
+Rydén|B1|Och hur kommer hon att förklara det?|그 여자는 그걸 어떻게 해명할까요?
+Amira|B2|Att alla gör fel. Därför har vi en kontrollgrupp: tre andra frilansare, samma händelser, nio fel som går åt båda hållen. Och bilden blir svår att förklara bort, eftersom den beställdes två dygn innan kabeln gick av.|누구나 틀린다고요. 그래서 대조군이 있어요. 다른 프리랜서 셋, 같은 사건, 오류 아홉 개, 그것도 양쪽 방향으로요. 그리고 사진은 해명하기 어려울 거예요. 케이블이 끊기기 이틀 전에 주문됐으니까요.
+Noah|B1|Den andra bunten är loggen. Gäst-07 kopierade mappen 19.52, och hennes passerkort gick in genom entrén 19.41.|두 번째 묶음은 로그예요. Gäst-07이 19시 52분에 폴더를 복사했고, 그 여자 출입 카드가 19시 41분에 정문을 통과했어요.
+Viktor|B1|Och vad tror du att hon svarar på det?|그럼 그 여자가 거기에 뭐라고 답할 것 같아?
+Noah|B1|Att konsulten också använde kontot, vilket är sant. Han var i huset hela kvällen, så loggen räcker inte ensam.|컨설턴트도 그 계정을 썼다고요. 사실이기도 하고요. 그 사람도 저녁 내내 건물에 있었으니까, 로그만으로는 부족해요.
+Rydén|B1|Men det finns en tredje bunt, som ni inte har berättat om än?|그런데 아직 말씀 안 하신 세 번째 묶음이 있죠?
+Viktor|B2|En kanariefälla. Tre personer fick tre olika påhittade uppgifter, och bara hennes version dök upp i en rysk Telegramkanal i går kväll. Vad hon kan säga emot det vet jag faktiskt inte.|카나리아 함정입니다. 세 사람에게 각기 다른 지어낸 정보를 줬는데, 그 여자 버전만 어젯밤 러시아 텔레그램 채널에 떴죠. 그걸 두고 그 여자가 뭐라고 반박할 수 있을지는 솔직히 모르겠습니다.
+Rydén|B2|Att hon berättade det för någon på en bar. Och tro inte att hon släpper katten ur säcken bara för att ni lägger fram tre kuvert; den som har levt med en hemlighet i åratal brukar hålla fast vid den längst.|바에서 누군가한테 말했다고 하겠죠. 그리고 봉투 세 개 내민다고 그 여자가 자루에서 고양이를 풀어 줄 거라곤 생각하지 마세요. 몇 년씩 비밀을 안고 산 사람은 보통 그걸 제일 오래 붙들고 있으니까.
+Sofia|B2|Då får hon säga det, och vi skriver att hon sa det. Skriv under nu, så att vi kan börja klockan åtta.|그럼 그렇게 말하라고 하죠. 우리는 그 여자가 그렇게 말했다고 쓰면 되고요. 이제 서명하세요. 여덟 시에 시작할 수 있게.
+# 장면 3 — 저녁 8시, 같은 사무실 (탁자 위 녹음기, 창가에 선 뤼덴, 봉투 세 개)
+Katja|A2|Viktor! Och Sofia, och Amira. Vilket fint sällskap.|빅토르! 그리고 소피아, 아미라. 근사한 모임이네요.
+Viktor|A1|Sätt dig.|앉아요.
+Katja|A2|Vem är mannen vid fönstret?|창가의 남자는 누구예요?
+Viktor|B1|Anders Rydén från Säkerhetspolisen. Han lyssnar men ställer inga frågor. Vi spelar in samtalet, och inspelningen är tidningens.|보안경찰의 안데르스 뤼덴. 듣기만 하고 질문은 안 해요. 대화는 우리가 녹음하고, 녹음은 신문사 거예요.
+Katja|B1|Viktor, du har tagit med dig Säpo på fika. Ska jag känna mig smickrad eller rädd?|빅토르, 피카에 Säpo를 데려왔네요. 우쭐해야 해요, 무서워해야 해요?
+Rydén|B1|Ingetdera. Jag är här för att lyssna, inget annat.|둘 다 아닙니다. 저는 듣기 위해 여기 있을 뿐입니다.
+Sofia|B2|Katja, vi tänker publicera en artikel om att en frilansare har fört uppgifter från vår redaktion vidare till ryska intressen. Innan vi gör det har du rätt att bemöta allt som vi påstår om dig.|카탸, 우리는 한 프리랜서가 우리 편집국의 정보를 러시아 쪽에 넘겼다는 기사를 낼 생각이에요. 그 전에 당신은 우리가 당신에 대해 주장하는 모든 것에 반론할 권리가 있어요.
+Katja|A2|Så det här är ett bemötande. Med polis.|그러니까 이게 반론 기회라는 거군요. 경찰 입회하에.
+Viktor|B1|Ja. Och du kan gå när du vill, det här är inget förhör.|네. 그리고 원하면 언제든 나가도 돼요. 이건 심문이 아니니까.
+Katja|A1|Jag stannar. Börja.|있을게요. 시작해요.
+Amira|B1|Fyrtio artiklar sedan 2023. I trettioen av dem finns ett fel, och felen pekar alltid åt samma håll.|2023년 이후 기사 40편. 그중 31편에 오류가 있어요. 그리고 오류는 늘 같은 방향을 가리켜요.
+Katja|B1|Amira, jag skriver snabbt och säljer billigt. Har du någonsin läst en frilansares text som är helt utan fel?|아미라, 난 빨리 쓰고 싸게 팔아요. 오류가 하나도 없는 프리랜서 글, 읽어 본 적 있어요?
+Amira|B1|Ja. Vi läste fyrtio texter av tre andra frilansare om samma händelser. Nio fel, och de gick åt båda hållen.|네. 같은 사건을 다룬 다른 프리랜서 셋의 글 40편을 읽었어요. 오류 아홉 개, 그것도 양쪽 방향이었어요.
+Katja|A2|Viktor, alla gör fel ibland. Även du.|빅토르, 누구나 가끔 틀려요. 당신도요.
+Viktor|B2|Det stämmer, och mina fel har kostat mer än jag tycker om att tänka på. Men mina fel gynnar inte alltid samma land.|맞아요. 그리고 내 실수들은 생각하기도 싫을 만큼 큰 대가를 치르게 했죠. 하지만 내 실수가 늘 같은 나라에 이득이 되진 않아요.
+Katja|B1|Det där är en tolkning, inte ett bevis. Det vet du bättre än någon annan här.|그건 해석이지 증거가 아니에요. 여기 있는 누구보다 당신이 더 잘 알잖아요.
+Viktor|A2|Då tar vi bilden. Den tredje.|그럼 사진 얘기 하죠. 세 번째 사진.
+Katja|A1|Vilken bild?|무슨 사진요?
+Viktor|B2|Radarbilden från den artonde mars, klockan två och fem. Du sa att du hittade den i arkivet, men enligt Orbitum beställde ditt konto den den sextonde, två dygn innan kabeln gick av.|3월 18일 2시 5분의 레이더 사진. 아카이브에서 찾았다고 했죠. 그런데 오르비툼에 따르면 당신 계정이 16일에 그걸 주문했어요. 케이블이 끊기기 이틀 전에.
+Katja|B2|Kunderna beställer bevakning av halva Östersjön varje natt. Jag beställde ett område, inte en händelse, och att något hände just där kan knappast vara mitt fel.|고객들은 매일 밤 발트해 절반을 감시 촬영으로 주문해요. 난 사건이 아니라 구역을 주문했어요. 하필 거기서 뭔가 일어난 게 내 잘못일 리는 없죠.
+Sofia|A2|Varför sa du ”arkivet”, då?|그럼 왜 '아카이브'라고 했죠?
+Katja|A1|Vana. Förlåt.|습관이에요. 미안해요.
+Amira|B1|Den åttonde april klockan 19.52 kopierade gästkontot hela min mapp med källor. Du gick in genom entrén elva minuter tidigare.|4월 8일 19시 52분에 게스트 계정이 내 취재원 폴더를 통째로 복사했어요. 당신은 그 11분 전에 정문으로 들어왔고요.
+Katja|B2|Amira, det kontot använde alla. Konsulten hade det i två veckor, och han satt i huset hela den kvällen, det vet ni lika väl som jag.|아미라, 그 계정은 다들 썼어요. 컨설턴트가 2주 동안 썼고, 그날 저녁 내내 건물에 있었어요. 당신들도 나만큼 잘 알잖아요.
+Amira|A1|Hur vet du det?|그걸 어떻게 알아요?
+Katja|A2|Jag såg honom i hissen. Det är ett litet hus.|엘리베이터에서 봤어요. 작은 건물이잖아요.
+Viktor|A2|Då tar vi Slite.|그럼 슬리테 얘기 하죠.
+Katja|A1|Slite?|슬리테요?
+Viktor|B1|I måndags vid kaffemaskinen sa jag att marinen följde två fartyg utanför Slite sedan i söndags. Det var inte sant. Jag hittade på det.|월요일에 커피 머신 앞에서 해군이 일요일부터 슬리테 앞바다에서 배 두 척을 쫓고 있다고 했죠. 사실이 아니었어요. 내가 지어낸 거예요.
+Katja|A2|Du ljög för mig?|나한테 거짓말했어요?
+Viktor|B2|Ja, och varje steg står i ett förseglat PM med datum och klockslag, som du har rätt att läsa. Två andra personer fick andra hamnar och andra siffror, och deras versioner har inte dykt upp någonstans.|네. 그리고 모든 단계가 날짜와 시각과 함께 봉인 메모에 적혀 있어요. 당신은 그걸 읽을 권리가 있고요. 다른 두 사람은 다른 항구, 다른 숫자를 받았는데, 그 버전들은 어디에도 나타나지 않았어요.
+Amira|B1|Din version publicerades i går 18.28 i kanalen Baltijskij Dozor. Slite, två fartyg, sedan söndag. Ordagrant.|당신 버전은 어제 18시 28분에 발티스키 도조르 채널에 올라왔어요. 슬리테, 두 척, 일요일부터. 글자 그대로.
+Sofia|A1|Katja? Vill du svara?|카탸? 답하겠어요?
+Katja|A1|Vänta.|잠깐만요.
+Viktor|A2|Vi har tid. Hela kvällen.|시간 있어요. 저녁 내내.
+Katja|B1|Jag kan ha nämnt det för någon. På en bar, kanske, eller i telefon med en redaktör. Folk pratar.|누군가한테 얘기했을 수도 있어요. 바에서였나, 아니면 어떤 편집자랑 통화하다가. 사람들은 말을 하잖아요.
+Viktor|B2|Det kan du ha gjort, och i så fall vill jag veta vem du sa det till, eftersom just den personen skickade det vidare till en rysk kanal på mindre än två dygn.|그랬을 수도 있죠. 그렇다면 누구한테 말했는지 알고 싶어요. 바로 그 사람이 이틀도 안 돼서 그걸 러시아 채널에 넘겼으니까.
+Katja|A1|Ingen. Ingen särskild.|아무도요. 특별한 사람은 없어요.
+# 장면 4 — 저녁 8시 40분, 같은 사무실 (아미라가 처음으로 봉투가 아닌 자기 수첩을 펼친다)
+Amira|B1|Karwan. Min kusin i Erbil. Hans namn stod på listan som du kopierade.|카르완. 에르빌에 사는 내 사촌이요. 당신이 복사한 명단에 그 애 이름이 있었어요.
+Katja|A2|Jag vet inte vem det är.|누군지 몰라요.
+Amira|B2|Förra onsdagen klockan tio på kvällen ringde en man till min mamma i Angered. Han sa Karwans namn, med efternamn, och frågade om jag fortfarande skrev om båtar. Hon har inte sovit ordentligt sedan dess.|지난주 수요일 밤 열 시에 어떤 남자가 앙에레드에 사는 우리 엄마한테 전화했어요. 카르완 이름을 성까지 대고, 내가 아직도 배에 대해 쓰냐고 물었죠. 엄마는 그 뒤로 잠을 제대로 못 자요.
+Katja|A1|Ringde de henne?|그 사람들이 어머님한테 전화했어요?
+Amira|A2|Visste du inte det?|몰랐어요?
+Katja|B1|Nej. Jag lämnar saker. Vad de gör sedan får jag aldrig veta, och jag har slutat fråga.|몰랐어요. 난 넘기기만 해요. 그 뒤에 그들이 뭘 하는지는 절대 몰라요. 묻는 것도 그만뒀고요.
+Viktor|A2|Vilka är ”de”, Katja?|'그들'이 누구죠, 카탸?
+Katja|B2|Jag vet inte vad de heter, och jag tror inte att de vet vad jag heter heller, inte på riktigt. Jag är ett nummer i en telefon på ett kontor som jag aldrig har sett.|그들 이름은 몰라요. 그들도 진짜로는 내 이름을 모를 거예요. 난 한 번도 본 적 없는 사무실의 어떤 전화기 속 번호일 뿐이에요.
+Sofia|A2|Varför gör du det här?|왜 이런 일을 하는 거예요?
+Katja|A2|Min mamma bor kvar i Sankt Petersburg.|우리 엄마는 아직 상트페테르부르크에 살아요.
+Amira|A2|Vet hon vad du gör?|어머님은 당신이 뭘 하는지 아세요?
+Katja|B2|Hon tror att jag skriver om miljön. Hon är sextiosex och var lärare i trettio år, pensionen räcker knappt till hyran och medicinerna, och varje söndag skickar hon bilder på tomaterna som hon odlar på balkongen.|환경에 대해 쓰는 줄 알아요. 예순여섯이고, 삼십 년 동안 교사였어요. 연금은 집세랑 약값에도 빠듯하고요. 일요일마다 발코니에서 키우는 토마토 사진을 보내 줘요.
+Sofia|A2|Och lägenheten?|그럼 아파트는요?
+Katja|B1|De sa att hon skulle förlora sin lägenhet om jag inte gjorde som de ville.|그들이 그랬어요. 내가 시키는 대로 안 하면 엄마가 아파트를 잃게 될 거라고.
+Viktor|A2|När sa de det första gången?|처음 그 말을 한 게 언제였어요?
+Katja|B2|Våren 2017, innan jag reste hit. En man kom hem till oss med blommor till mamma och sa att staten gärna hjälper begåvade unga kvinnor att studera utomlands, om de bara gör några små tjänster ibland.|2017년 봄, 여기 오기 전이요. 한 남자가 엄마 줄 꽃을 들고 우리 집에 와서는, 국가는 재능 있는 젊은 여성들이 외국에서 공부하는 걸 기꺼이 돕는다고 했어요. 가끔 작은 부탁 몇 가지만 들어준다면요.
+Amira|A2|Små tjänster. Som vad?|작은 부탁. 예를 들면요?
+Katja|B1|I början bara att skriva upp namn på lärare och studenter. Sedan att gå på seminarier och berätta vem som sa vad. Det kändes som ingenting.|처음엔 그냥 교수랑 학생들 이름 적어 두기. 그다음엔 세미나에 가서 누가 무슨 말을 했는지 전하기. 아무것도 아닌 것 같았어요.
+Sofia|A2|Och ditt äktenskap?|그리고 결혼은요?
+Katja|B1|Det var planerat från början. Jag behövde ett uppehållstillstånd som ingen ifrågasatte. Han visste ingenting, och han förtjänade någon bättre än mig.|처음부터 계획된 거였어요. 아무도 문제 삼지 않을 체류 허가가 필요했거든요. 그 사람은 아무것도 몰랐어요. 나보다 나은 사람을 만났어야 했어요.
+Viktor|B2|Och felen i artiklarna? Ett datum här, en siffra där, sådant som ingen redaktör orkar kontrollera en fredag eftermiddag.|그럼 기사 속 오류는요? 여기 날짜 하나, 저기 숫자 하나. 금요일 오후엔 어떤 편집자도 굳이 확인하지 않을 그런 것들.
+Katja|B2|Det var det enda jag tyckte att jag var bra på. Ingen lögn, bara en sanning som är lite fel. De sa att det fungerar bättre än propaganda, och där hade de tyvärr rätt.|그게 내가 잘한다고 생각한 유일한 일이었어요. 거짓말이 아니라 조금 틀린 진실. 그게 선전보다 잘 먹힌다고 했죠. 안타깝게도 그 말은 맞았어요.
+Sofia|A2|Och vår redaktion?|그럼 우리 편집국은요?
+Katja|B2|Den sextonde mars fick jag koordinater och en order: beställ en bild, vänta, och sälj den sedan till Stockholmsposten. Bilden var min biljett in till er.|3월 16일에 좌표랑 지시를 받았어요. 사진을 주문하고, 기다렸다가, 스톡홀름스포스텐에 팔라고. 그 사진이 당신들한테 들어가는 내 입장권이었어요.
+Amira|B1|Så du visste att något skulle hända den natten.|그러니까 그날 밤 뭔가 일어날 거라는 걸 알았던 거네요.
+Katja|B1|Jag visste att jag skulle beställa en bild. Resten har jag försökt att inte tänka på.|사진을 주문해야 한다는 것만 알았어요. 나머지는 생각하지 않으려고 애썼어요.
+Viktor|A2|Och Brevlådan?|그리고 Brevlådan은요?
+Katja|B1|Hur Brevlådan fungerar, ja. Det gav jag dem. Men dokumentet – det var inte jag.|Brevlådan이 어떻게 돌아가는지, 네. 그건 내가 넘겼어요. 하지만 그 문서는 — 내가 아니에요.
+Sofia|B2|Var noga nu, Katja. Vad exakt gav du dem, och hur fick du tag på det?|이제 정확하게 말해요, 카탸. 정확히 뭘 넘겼고, 그걸 어떻게 손에 넣었죠?
+Katja|B2|Rutinen låg i en mapp som gästkontot kunde öppna i mars: dörr två, ingen text, annars ett dygns karantän. Jag fotograferade sidan och skickade den. Adressen och lösenfrasen har jag aldrig haft.|그 절차 문서가 3월에 게스트 계정으로 열리는 폴더에 있었어요. 2번 문, 텍스트 금지, 아니면 하루 격리. 그 페이지를 찍어서 보냈어요. 주소랑 암호 문구는 가져 본 적이 없어요.
+Amira|A1|Fan.|젠장.
+Viktor|B1|Dokumentet kom genom dörr två den nionde april, med rätt lösenfras. Om det inte var du, vem var det då?|문서는 4월 9일에 맞는 암호 문구로 2번 문을 통해 들어왔어요. 당신이 아니라면, 그럼 누구죠?
+Katja|B1|Jag vet inte. Jag har aldrig sett det, och jag har aldrig hört någon av dem tala om det.|몰라요. 본 적도 없고, 그들 중 누구도 그 얘기를 하는 걸 들은 적이 없어요.
+Rydén|B1|Det räcker för i kväll. Resten berättar du för oss, i ett rum där det inte sitter någon tidning.|오늘 밤은 이걸로 충분합니다. 나머지는 우리한테 하시죠. 신문사가 앉아 있지 않은 방에서.
+Katja|A2|Vad händer med min mamma?|우리 엄마는 어떻게 되죠?
+# 장면 5 — 밤 9시 30분, 같은 사무실의 창가 (물 건너편의 발보리 모닥불, 멀리서 들려오는 합창)
+Rydén|B1|Det kan jag inte lova något om. Men vi vet hur de arbetar, och det brukar hjälpa att prata med oss.|그건 아무것도 약속드릴 수 없습니다. 다만 우리는 그들이 어떻게 움직이는지 알고, 우리와 이야기하는 게 대개 도움이 됩니다.
+Katja|A2|Hör ni? De sjunger därute.|들려요? 밖에서 노래하네요.
+Sofia|A2|Valborg. Brasan på andra sidan vattnet.|발보리예요. 물 건너편 모닥불.
+Katja|B1|Min första vår i Stockholm trodde jag att hela staden brann. Mamma skrattade i telefonen när jag berättade det.|스톡홀름에서 맞은 첫 봄에 도시 전체가 불타는 줄 알았어요. 엄마한테 말했더니 전화기 너머로 웃더라고요.
+Amira|B2|Jag sa Karwans namn för att knäcka dig. Det var exakt det de gjorde mot min mamma, och jag vet inte om jag är stolt eller äcklad.|당신을 무너뜨리려고 카르완 이름을 꺼냈어요. 그 사람들이 우리 엄마한테 한 짓이랑 똑같죠. 내가 자랑스러운 건지 역겨운 건지 모르겠어요.
+Katja|A1|Förlåt, Amira.|미안해요, 아미라.
+Rydén|A1|Kom nu.|이제 가시죠.
+Viktor|B1|Klockan är halv tio, och Alva har väntat vid sjön sedan nio.|아홉 시 반이야. 알바는 아홉 시부터 호숫가에서 기다렸을 텐데.
+Sofia|A1|Skriv till henne.|문자 보내.
+Viktor|A2|”Förlåt, gumman. Jag blir sen.” Skickat.|"미안해, 우리 딸. 늦을 것 같아." 보냈어.
+Sofia|A1|Vad tänker du på?|무슨 생각해?
+Viktor|B2|Det som skrämmer mig mest är inte vad hon har gjort, utan vad hon antyder att någon annan fortfarande gör.|내가 제일 무서운 건 그 여자가 한 일이 아니야. 다른 누군가가 아직도 하고 있다고 그 여자가 넌지시 말하는 거지.
+Katja|A1|Viktor.|빅토르.
+Viktor|A1|Ja?|네?
+Katja|A2|Jag var inte den enda hos er.|당신들 쪽에 나만 있었던 게 아니에요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Sätt dig.** | 앉아요. | *sätta sig*(앉다)는 재귀동사 — 명령형 *sätt* + 재귀대명사 *dig*. 여럿에게는 *Sätt er.* '앉아 있다'는 상태는 *sitta*(*Hon sitter vid fönstret*)로, 동작과 상태를 다른 동사로 구분한다 |
+| `A2` | **Lova nu. Riktigt lova, inte pappa-lova.** | 약속해. 진짜 약속, 아빠식 약속 말고. | 동사 *lova*(약속하다)를 명사처럼 써서 *pappa-lova*라는 말을 즉석에서 만든 10대 말투. 스웨덴어는 이렇게 붙여서 새 합성어를 자유롭게 만든다. 새끼손가락 약속은 *lillfingret* |
+| `A2` | **Min mamma bor kvar i Sankt Petersburg.** | 우리 엄마는 아직 상트페테르부르크에 살아요. | *bo kvar*는 '떠나지 않고 계속 살다'. *kvar*는 '남아 있는' — *stanna kvar*(남아 있다), *Det finns ingen kaffe kvar*(커피가 하나도 안 남았다) |
+| `B1` | **De sa att hon skulle förlora sin lägenhet om jag inte gjorde som de ville.** | 내가 시키는 대로 안 하면 엄마가 아파트를 잃게 될 거라고 그들이 말했어요. | 과거 시점에서 본 미래 *skulle* + 원형. 간접화법 안의 *om*-절은 과거형(*gjorde*). *sin lägenhet*은 주어 *hon* 자신의 아파트 — *hennes*를 쓰면 다른 여자의 아파트가 된다 |
+| `B1` | **Hur Brevlådan fungerar, ja. Det gav jag dem. Men dokumentet – det var inte jag.** | Brevlådan이 어떻게 돌아가는지, 네. 그건 내가 넘겼어요. 하지만 그 문서는 — 내가 아니에요. | 목적어 *det*을 문장 맨 앞에 두고 동사를 둘째 자리에(*Det gav jag dem*) — 강조하면서도 V2 어순은 지킨다. *det var inte jag*는 '내가 한 게 아니다'의 가장 흔한 말 |
+| `B2` | **Det som skrämmer mig mest är inte vad hon har gjort, utan vad hon antyder att någon annan fortfarande gör.** | 내가 제일 무서운 건 그 여자가 한 일이 아니라, 다른 누군가가 아직도 하고 있다고 그 여자가 넌지시 말하는 거야. | *det som …*(~한 것)이 긴 주어가 되고, *inte … utan …*(~가 아니라 …)으로 대비한다. *antyda*는 '직접 말하지 않고 비치다, 암시하다' |
+| 관용구 | **släppa katten ur säcken** | 자루에서 고양이를 풀어 주다 — 비밀을 털어놓다 | 뤼덴의 경고 *tro inte att hon släpper katten ur säcken bara för att…*처럼 쓴다. 영어 *let the cat out of the bag*과 같은 그림. 비슷한 말로 *lägga korten på bordet*(패를 탁자에 내려놓다) |
+| 안보·법 | **olovlig underrättelseverksamhet** | 불법 정보활동죄 | 외국 세력을 위해 몰래 스웨덴 안의 사람이나 정보를 수집하는 활동을 처벌하는 죄. 특히 *flyktingspionage*(망명자 감시)처럼 이주 공동체를 겨냥한 정보 수집이 여기에 해당한다. 카탸의 '이름 적어 두기', 아미라의 취재원 명단 복사가 그 경계에 있다 |
+
+## 저널리즘·법 메모
+신문사가 수사기관과 같은 방에 앉는 순간, 경계선이 가장 중요해진다. 소피아가 뤼덴에게 먼저 서명받은 두 장의 조건은 언론의 독립성을 지키는 장치다 — 기록한 사실은 주되 취재원과 원자료는 주지 않고(1항), 대면 녹음은 신문사 소유이며 사본 제공 여부는 발행책임자(*ansvarig utgivare*)가 결정하고(2항), 대상자가 취재원 이름을 대더라도 신문사는 아무것도 확인하지 않는다(3항). Säpo가 녹음을 압수하려 해도 그 요구는 출판자유법(TF)의 취재원 보호 규정에 비춰 심사받는다. 동시에 이 자리는 수사가 아니라 **반론 기회**(*bemötande*)다: 카탸는 신문이 그녀에 대해 쓰려는 모든 주장에 보도 전에 답할 권리가 있고, 빅토르는 카나리아 함정에서 그녀에게 거짓말했다는 사실까지 먼저 밝힌다 — 12화에서 소피아가 건 '사후 공개' 조건을 지키는 것이다. 기자는 증거를 내밀되 판결을 내리지 않고, Säpo는 듣되 묻지 않는다. 그 역할이 섞이는 순간 신문은 수사기관의 '정보원'이 된다.
+
+## 문화·현안 메모
+- **발보리(Valborgsmässoafton, 4월 30일)** — 스웨덴 곳곳에서 저녁에 큰 모닥불을 피우고 합창단이 *Vintern rasat*(겨울은 물러갔다) 같은 봄노래를 부른다. 웁살라·룬드 같은 대학 도시에서는 하얀 학생모를 쓰는 날이기도 하다.
+- **하얀 학생모(studentmössa)** — 고등학교 졸업생은 6월 졸업식(*studenten*)에 학생모를 쓰고 트럭 짐칸(*studentflak*)에 올라 시내를 돈다. 졸업 전에 모자를 쓰면 재수가 없다는 미신이 있어, 알바네 3학년들은 모자를 사 놓고도 아직 쓰지 않는다.
+- **해외 가족을 볼모로 한 포섭** — 권위주의 국가의 정보기관이 외국에 사는 자국 출신 학생·이주민에게 본국 가족의 집·연금·안전을 빌미로 '작은 부탁'을 하는 방식은 여러 유럽 정보기관의 연례 보고서에 반복해서 등장한다. 카탸의 이야기는 가해자이면서 피해자인 사람의 모습이다.
+- **리다르홀멘(Riddarholmen)** — 감라스탄 바로 옆의 작은 섬으로, 옛 귀족 저택들에 지금은 법원과 관청이 들어서 있다. 저녁이면 인적이 드물어진다.
+- ⚠️ 이 화의 텔레그램 채널, Orbitum Imaging, 카탸의 이력과 포섭 경위, Säpo 담당관은 모두 허구다.
+
+## 다음 화 예고
+> 노동절 아침, 브뤼셀. NATO 회의장 뒤편에서 국방부 공보비서가 커피를 권한다: "Ingen ber er att avstå från att publicera."
