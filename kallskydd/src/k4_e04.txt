@@ -1,0 +1,186 @@
+@title 4부 4화 — Kiruna
+@subtitle (키루나)
+@meta 날짜|2026년 5월 14일 목요일 (그리스도 승천일 공휴일) 오전 10시 ~ 오후 5시경 (키루나는 이미 밤에도 어두워지지 않는다)
+@meta 장소|키루나 옛 도심, 철거 울타리와 옮겨 간 교회 자리 (오전 10시) → 새 도심 광장의 카페 (낮 12시 반) → 새 도심 호텔 회의장, Arktis 설명회 "Arktis berättar om framtiden" (오후 3시) → 같은 호텔 로비 (오후 4시 반)
+@meta 등장인물|**Viktor** (빅토르, 47, 탐사기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Kalle** (칼레 페카리, 66, 은퇴 광부, 토르네달 출신) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자, 원격) · **Rydberg** (칼-요한 뤼드베리, 61, Arktis Mineral AB 이사회 의장) · **Han** (한웨이궈, 52, Arktis 이사회 "기술 고문")
+@intro **지난 이야기** — 은퇴 버스기사 수네의 퇴직연금이 7월부터 깎인다. 연금기금 Norrsken Pension은 "보정된" 수율 보고서가 나온 지 8일 만에 두 번이나 Nordcell에 추가 투자했고, 이사 Ekwall의 회사는 그 기금에서 3년간 700만 크로나 넘는 자문료를 받았다. 장관 일정표의 2월 3일 저녁은 검게 가려져 있었고, 국가보증은 정확히 일주일 뒤 승인됐다. Ekwall은 전화로 웃으며 말했다 — "만찬은 불법이 아니야. 아직은."
+@intro 사흘 뒤, 5월 14일 그리스도 승천일. Ekwall이 제안한 목요일 점심 대신, 빅토르는 전날 밤 헨릭과 함께 키루나행 마지막 비행기를 탔다. 아미라가 Arktis Mineral 홈페이지에서 찾은 공고 — 공휴일 오후의 "북극 가공단지" 주민·투자자 설명회 — 때문이다. 오전 10시, 헨릭이 지역 연금생활자 모임을 통해 연락한 은퇴 광부가 옛 도심의 철거 울타리 앞에서 두 사람을 기다린다. 그늘에는 아직 눈이 남아 있다.
+# 장면 1 — 오전 10시, 키루나 옛 도심 (철거 울타리, 자갈만 남은 학교 자리, 옮겨 간 교회의 빈 언덕, 헨릭의 담뱃갑)
+Kalle|A1|Här är det. Kom.|여기야. 이리 와.
+Viktor|A2|Tack för att du tar dig tid på en röd dag.|공휴일에 시간 내 주셔서 고맙습니다.
+Kalle|A2|Röd dag? Jo, nog. Men för en pensionär är det int mycket skillnad.|공휴일? 그렇지 뭐. 근데 연금 생활자한텐 별 차이 없어.
+Henrik|A1|Det är så tyst här.|여긴 참 조용하네요.
+Kalle|B1|Det är tyst varje dag nu. Folk flyttade härifrån för flera år sedan, och nu är det bara staketet kvar.|이젠 매일 조용해. 사람들은 몇 년 전에 다 이사 갔고, 이제 울타리만 남았지.
+Viktor|A2|Bodde du på den här gatan?|이 거리에 사셨어요?
+Kalle|B1|Jag växte upp i det gula huset som stod där borta vid hörnet. Pappa kom hit från Tornedalen på femtiotalet för att jobba i gruvan.|저기 모퉁이에 서 있던 노란 집에서 자랐어. 아버지가 50년대에 광산에서 일하려고 토르네달렌에서 여기로 왔지.
+Viktor|A1|Och huset?|그 집은요?
+Kalle|A1|Rivet. I fjol.|헐렸어. 작년에.
+Henrik|A2|Får jag ta en bild av staketet?|울타리 사진 좀 찍어도 될까요?
+Kalle|A2|Ta du. Det är int mitt staket. Det är gruvans.|찍어. 내 울타리도 아닌데 뭐. 광산 거야.
+Viktor|A2|Varför måste staden flytta?|도시가 왜 옮겨 가야 하는 거예요?
+Kalle|B2|Därför att malmen går snett ner under staden. Ju djupare de bryter, desto mer spricker marken ovanför – först vägarna, sedan källarna. Till slut sa de att hela centrum måste bort.|광맥이 도시 밑으로 비스듬히 뻗어 있으니까. 깊이 캘수록 위쪽 땅이 더 갈라져. 처음엔 길이, 다음엔 지하실이. 결국 시내 전체가 없어져야 한다더군.
+Henrik|A1|Staden flyttar.|도시가 이사 가는 거네요.
+Kalle|A2|Jo, nog. Gruvan äter staden, bit för bit.|그렇지. 광산이 도시를 먹어 치우는 거야, 한 입씩.
+Viktor|A1|Var låg skolan?|학교는 어디 있었어요?
+Kalle|A2|Här låg min skola. Nu är det bara grus.|여기 내 학교가 있었지. 이젠 자갈뿐이야.
+Henrik|A1|Hur länge gick du där?|거기 몇 년 다녔어요?
+Kalle|B1|Nio år. Hemma pratade vi bara meänkieli, och om vi gjorde det på rasterna tittade lärarna surt på oss. Då kallade vi det bara finska.|9년. 집에선 메엔키엘리만 썼는데, 쉬는 시간에 그 말을 쓰면 선생들이 언짢은 눈으로 봤어. 그땐 그냥 핀란드어라고 불렀지.
+Viktor|A1|Och nu?|지금은요?
+Kalle|B1|Nu är det fint att prata meänkieli. Det står till och med på skyltarna. Det kom bara femtio år för sent.|이젠 메엔키엘리를 쓰는 게 좋은 일이 됐지. 표지판에도 적혀 있어. 그냥 50년 늦게 왔을 뿐이야.
+Henrik|A1|Vill du ha en cigarett?|담배 한 대 피우실래요?
+Kalle|A1|Kiitos. Röker du int själv?|키토스(고마워). 본인은 안 피워?
+Henrik|B1|Jag slutade 2009. Men jag har alltid ett paket i fickan, för folk pratar lättare när de har något mellan fingrarna.|2009년에 끊었어요. 그래도 주머니엔 늘 한 갑 넣고 다녀요. 사람들은 손가락 사이에 뭐가 있으면 말을 더 쉽게 하거든요.
+Viktor|A2|Kyrkan flyttades i fjol, va? Jag såg det på tv.|교회는 작년에 옮겼죠? TV에서 봤어요.
+Kalle|B1|Jo. Den stod där uppe på kullen. I augusti rullade de den fem kilometer österut, och det tog två dagar. Hela stan stod längs vägen.|그래. 저 위 언덕에 있었어. 8월에 동쪽으로 5킬로미터를 굴려 갔는데, 이틀 걸렸지. 온 동네 사람이 길가에 서 있었어.
+Henrik|B2|Hemma på Gotland var det havet som tog slut för fiskarna, när torsken försvann. Här är det marken som försvinner under folk. Jag vet inte vilket som är värst.|고향 고틀란드에선 대구가 사라지면서 어부들한테 바다가 끝나 버렸죠. 여기선 사람들 발밑의 땅이 사라지고. 어느 쪽이 더 나쁜지 모르겠네요.
+Kalle|B2|Det värsta är att man int får vara arg. Gruvan har gett oss allt – jobb, hus, pension. Det är svårt att hata den som har betalat för hela ens liv.|제일 나쁜 건 화를 낼 수도 없다는 거야. 광산이 우리한테 다 줬거든. 일자리, 집, 연금. 내 인생 전부의 값을 치러 준 걸 미워하긴 어렵지.
+Viktor|A2|Och nu pratar alla om något nytt under berget.|그리고 이젠 다들 산 밑의 새로운 걸 얘기하죠.
+Kalle|B1|Jo, de där sällsynta metallerna. Det roliga är att de har funnits i gråberget hela tiden. Vi körde ut det på högarna i hundra år.|그래, 그 희토류인가 뭔가. 웃긴 건 그게 내내 폐석 속에 있었다는 거야. 우린 백 년 동안 그걸 더미에 내다 버렸어.
+Viktor|A2|Ska du gå på Arktis möte i eftermiddag?|오늘 오후 Arktis 설명회 가세요?
+Kalle|B1|Nä. De lade en lapp i brevlådan: kaffe och tårta, ”Arktis berättar om framtiden”. Jag har hört om framtiden förut, och int är den gratis.|아니. 우편함에 쪽지를 넣었더군. 커피랑 케이크, "Arktis가 미래를 이야기합니다". 미래 얘긴 전에도 들어 봤어. 그리고 그게 공짜인 적은 없었지.
+Henrik|A1|Tack för i dag, Kalle.|오늘 고마웠어요, 칼레.
+Viktor|A2|Får jag skriva ditt namn i tidningen?|신문에 성함을 써도 될까요?
+Kalle|B1|Jo. Skriv Kalle Pekkari, fyrtiotre år under jord. Och skriv att pappas hjälm från gruvan fortfarande hänger i min hall. Jag har flyttat två gånger, men den kan jag int slänga.|그래. 칼레 페카리, 땅 밑에서 43년이라고 써. 그리고 아버지 광산 안전모가 아직 우리 집 현관에 걸려 있다고도 써 줘. 두 번 이사했는데, 그건 못 버리겠더라고.
+# 장면 2 — 낮 12시 반, 새 도심 광장의 카페 (나무가 아직 자라지 않은 광장, 순록 고기 샌드위치, 휴대폰으로 하는 희토류 공부, 아미라의 전화)
+Henrik|A2|Allt är nytt här. Till och med lukten.|여긴 다 새거네. 냄새까지.
+Viktor|A2|Torget och stadshuset blev klara för några år sedan. Resten bygger de fortfarande.|광장이랑 시청은 몇 년 전에 완공됐어. 나머진 아직 짓는 중이고.
+Henrik|B1|Det är en fin stad, men den ser ut som en ritning som någon har ställt upp på riktigt. Träden har inte hunnit växa än.|멋진 도시야. 근데 누가 설계도를 진짜로 세워 놓은 것 같아. 나무들이 아직 자랄 틈이 없었어.
+Viktor|A2|Ekwall ville bjuda mig på lunch i dag.|에크발이 오늘 점심 사겠다고 했었지.
+Henrik|A2|Och du valde en renskavsmacka i Kiruna i stället.|그리고 넌 대신 키루나에서 순록 고기 샌드위치를 골랐고.
+Viktor|B1|Jag svarade aldrig på inbjudan. Frågorna har han fått skriftligt, och han har till måndag på sig att svara.|그 제안엔 대답 안 했어. 질문은 서면으로 받았고, 월요일까지 답할 기한이 있어.
+Henrik|A2|Nå. Vad är sällsynta jordartsmetaller egentligen?|그래서. 희토류가 대체 뭐야?
+Viktor|B1|Jag läser just nu. Det är sjutton grundämnen, och de är egentligen inte särskilt sällsynta – det svåra är att få loss dem ur berget.|지금 읽고 있어. 원소 열일곱 개래. 사실 그렇게 드물지도 않대. 어려운 건 그걸 암석에서 빼내는 거고.
+Henrik|A1|Läs högt.|소리 내서 읽어 봐.
+Viktor|B2|”Neodym och praseodym används i permanentmagneter, som behövs i elbilarnas motorer och i vindkraftverkens generatorer. Utan dem stannar den gröna omställningen.”|"네오디뮴과 프라세오디뮴은 영구자석에 쓰이며, 영구자석은 전기차 모터와 풍력 터빈 발전기에 필요하다. 이것 없이는 녹색 전환이 멈춘다."
+Henrik|A2|I min tid hette det bara malm.|내 시절엔 그냥 다 광석이었는데.
+Viktor|B1|Och här: ”Under berget finns en av Europas största fyndigheter av sällsynta jordartsmetaller.” Gruvbolaget berättade det i januari 2023.|그리고 여기. "산 밑에는 유럽 최대 규모의 희토류 매장지 가운데 하나가 있다." 광산 회사가 2023년 1월에 발표했대.
+Henrik|B1|Men om det finns så mycket här, varför köper Europa då allt från andra sidan jorden?|근데 여기 그렇게 많으면, 유럽은 왜 다 지구 반대편에서 사 오는데?
+Viktor|B2|För att det inte räcker att bryta. Man måste skilja metallerna från varandra, och det kräver hundratals kemiska steg, stora mängder syra och många års kunnande.|캐는 것만으론 부족하니까. 금속들을 서로 분리해야 하는데, 그러려면 수백 단계의 화학 공정, 엄청난 양의 산, 그리고 오랜 세월의 노하우가 필요하대.
+Henrik|A1|Och vem kan det?|그럼 누가 그걸 할 줄 아는데?
+Viktor|B1|Det står att ett enda land står för nästan nittio procent av all förädling i världen.|한 나라가 세계 가공의 거의 90%를 차지한다고 써 있어.
+Henrik|A1|Kina.|중국이군.
+Viktor|B2|Ja. Och här är EU:s svar: en förordning om kritiska råmaterial från 2024. Senast 2030 ska Europa självt förädla fyrtio procent av det man använder, och ”strategiska projekt” ska få sina tillstånd snabbare.|응. 그리고 이게 EU의 대답이야. 2024년 핵심원자재법. 2030년까지 유럽은 쓰는 양의 40%를 직접 가공해야 하고, "전략 프로젝트"는 허가를 더 빨리 받게 된대.
+Henrik|A2|Snabbare tillstånd. Det låter bra för någon.|빠른 허가라. 누군가한텐 듣기 좋은 소리겠네.
+Viktor|B1|Så den som äger förädlingen äger hela kedjan?|그러니까 가공을 가진 사람이 사슬 전체를 갖는 거네?
+Henrik|B2|Som kvarnen i byn hemma. Bönderna odlade säden, men det var mjölnaren som bestämde priset, eftersom alla var tvungna att gå förbi honom.|고향 마을 방앗간 같네. 곡식은 농부들이 길렀지만, 값을 정한 건 방앗간 주인이었어. 다들 그 사람을 거쳐야 했으니까.
+Viktor|B1|Och Arktis vill bygga kvarnen. I inbjudan står det: ”Arktiska förädlingsparken – Europas första kompletta kedja från berg till magnet.” Talare: ordföranden Carl-Johan Rydberg och en teknisk rådgivare, Han Weiguo.|그리고 Arktis는 그 방앗간을 짓고 싶어 해. 초대장에 이렇게 써 있어. "북극 가공단지 — 광산에서 자석까지, 유럽 최초의 완전한 사슬." 연사는 의장 칼-요한 뤼드베리, 그리고 기술 고문 한웨이궈.
+Henrik|A2|Från berg till magnet. Eller till battericell?|광산에서 자석까지라. 아니면 배터리 셀까지?
+Viktor|B1|Tolv formeringsskåp från Skellefteå. Jag har tänkt på samma sak sedan vi stod vid fabriksgrinden.|셸레프테오에서 간 화성 캐비닛 열두 대. 공장 정문 앞에 섰던 날부터 나도 같은 생각을 하고 있어.
+Henrik|A2|Tänker du fråga om skåpen i dag?|오늘 그 캐비닛 얘기 물어볼 거야?
+Viktor|B1|Nej. Inte förrän Amira vet vem som skrev under avtalen. Annars visar vi vad vi vet innan vi vet tillräckligt.|아니. 아미라가 계약서에 누가 서명했는지 알아낼 때까지는 안 물어. 안 그러면 충분히 알기도 전에 우리가 뭘 아는지 보여 주는 셈이야.
+Henrik|A1|Din telefon. Amira.|네 전화. 아미라야.
+Amira|A2|Hej! Jag sitter hemma med årsredovisningar på en röd dag. Mamma tror att jag har blivit galen.|안녕! 공휴일에 집에서 연차보고서 붙잡고 있어. 엄마는 내가 미친 줄 알아.
+Viktor|A1|Vad hittade du?|뭐 찾았어?
+Amira|B2|Bolagsverkets register över verkliga huvudmän. Som journalist får jag ta del av det om jag förklarar varför, och för Arktis Mineral står det: ”Ingen person äger eller kontrollerar mer än tjugofem procent.”|법인등기청의 실소유자 등록부. 기자는 이유를 설명하면 열람할 수 있거든. 근데 Arktis Mineral 항목엔 이렇게 써 있어. "25%를 넘게 소유하거나 지배하는 사람 없음."
+Henrik|A1|Ingen alls?|아무도 없다고?
+Amira|B1|Då ska bolaget registrera ordföranden i stället. Så Arktis verkliga huvudman är, på papperet, Carl-Johan Rydberg.|그럴 땐 대신 이사회 의장을 등록해야 해. 그러니까 Arktis의 실소유자는, 서류상으론 칼-요한 뤼드베리야.
+Viktor|A1|Och Han Weiguo?|그럼 한웨이궈는?
+Amira|B1|Finns inte någonstans. Inte i styrelsen, inte bland huvudmännen, inte i ett enda protokoll. Fan, det är som om han inte existerar.|어디에도 없어. 이사회에도, 실소유자 명단에도, 회의록 한 장에도. 젠장, 존재하지 않는 사람 같아.
+Viktor|A2|Han existerar. Vi ser honom klockan tre.|존재해. 3시에 그 사람 보러 가.
+# 장면 3 — 오후 3시, 새 도심 호텔 회의장, Arktis 설명회 (커피와 케이크, 120여 명의 주민과 투자자, 뒷줄의 빅토르와 헨릭)
+Rydberg|B2|Välkomna, mina damer och herrar, och tack för att ni har valt att tillbringa Kristi himmelsfärdsdag med oss. Kaffet bjuder vi på – framtiden kostar lite mer.|환영합니다, 신사 숙녀 여러분. 그리스도 승천일을 저희와 함께 보내기로 해 주셔서 감사합니다. 커피는 저희가 대접합니다. 미래는 조금 더 비싸고요.
+Henrik|A2|Han har övat på det där skämtet i bilen.|저 농담, 차 안에서 연습했겠네.
+Rydberg|B1|Jag spelar mycket golf, och golfen har lärt mig en sak: man vinner inte på första hålet, utan genom att hålla sig kvar på banan.|저는 골프를 많이 칩니다. 골프가 가르쳐 준 게 하나 있죠. 첫 홀에서 이기는 게 아니라, 끝까지 코스에 남아 있어야 이긴다는 겁니다.
+Viktor|A1|Golf. Klart att han spelar golf.|골프라. 당연히 골프 치겠지.
+Rydberg|B2|Arktis har spelat på den här banan i tre år. Vi har undersökningstillstånd, vi har mark, och vi har en partner med ett kunnande om förädling som ingen annan i Europa kan matcha.|Arktis는 3년째 이 코스를 돌고 있습니다. 탐사 허가가 있고, 땅이 있고, 유럽의 누구도 따라올 수 없는 가공 노하우를 가진 파트너가 있습니다.
+Henrik|A1|Där kommer partnern.|파트너 나오시네.
+Rydberg|B1|Det är en ära att presentera Han Weiguo, som studerade metallurgi vid KTH på nittiotalet och som i dag är teknisk rådgivare åt vår styrelse.|한웨이궈 씨를 소개하게 되어 영광입니다. 90년대에 KTH에서 금속공학을 공부했고, 지금은 저희 이사회의 기술 고문입니다.
+Han|B2|Tack, herr ordförande. Jag ska fatta mig kort, eftersom det är helgdag och tårtan väntar.|감사합니다, 의장님. 짧게 말씀드리겠습니다. 오늘은 휴일이고, 케이크가 기다리고 있으니까요.
+Viktor|A1|Perfekt svenska.|스웨덴어가 완벽하네.
+Han|B2|Europa vill ha elbilar och vindkraft, men det vill inte ha de smutsiga stegen däremellan. I trettio år har ni låtit andra länder separera metallerna åt er, och nu upptäcker ni att den som förädlar också bestämmer.|유럽은 전기차와 풍력을 원하지만, 그 사이에 있는 더러운 단계는 원하지 않습니다. 30년 동안 여러분은 금속을 분리하는 일을 다른 나라에 맡겨 왔고, 이제야 가공하는 쪽이 결정권도 갖는다는 걸 깨닫고 있습니다.
+Henrik|A2|Kvarnen. Han säger samma sak som jag.|방앗간이네. 내가 한 말이랑 똑같아.
+Han|B2|EU:s förordning om kritiska råmaterial ger oss ett mål: fyrtio procent av förädlingen ska ske inom unionen år 2030. Ett strategiskt projekt ska få sina tillstånd inom femton månader, i stället för de sju eller tio år som det ofta tar i dag. Arktis har ansökt om den statusen.|EU 핵심원자재법은 우리에게 목표를 줍니다. 2030년까지 가공의 40%를 역내에서 하는 것. 전략 프로젝트는 지금 흔히 걸리는 7년이나 10년이 아니라 15개월 안에 허가를 받게 됩니다. Arktis는 그 지위를 신청했습니다.
+Viktor|A2|De har redan ansökt. Det visste vi inte.|벌써 신청했대. 그건 몰랐네.
+Han|B1|Parken ska ge sexhundra arbetstillfällen här i Kiruna, och vi vill bygga hela kedjan – från berget till magneten och kanske en dag till battericellen.|가공단지는 이곳 키루나에 일자리 600개를 만들 겁니다. 그리고 우리는 사슬 전체를 짓고 싶습니다. 광산에서 자석까지, 그리고 언젠가는 배터리 셀까지.
+Henrik|A1|Battericellen. Hörde du?|배터리 셀. 들었어?
+Rydberg|A2|Nu tar vi några frågor. Ja, där bak!|이제 질문 몇 개 받겠습니다. 네, 저 뒤에!
+Viktor|A1|Vem äger Arktis?|Arktis의 주인은 누굽니까?
+Rydberg|B1|Svenska investerare. Vi har ett brett ägande med långsiktiga aktörer, precis som det ska vara.|스웨덴 투자자들입니다. 장기적인 주체들이 폭넓게 지분을 갖고 있죠. 마땅히 그래야 하듯이요.
+Viktor|A2|Vilka investerare? Kan du nämna några?|어떤 투자자들이요? 몇 곳만 말씀해 주시겠어요?
+Rydberg|B2|Vi är ett privat bolag, och våra ägare har rätt att slippa se sina namn i tidningen. Men jag kan lova att varenda krona har granskats av revisorer, banker och advokater.|저희는 비상장 회사고, 주주들은 자기 이름이 신문에 나지 않을 권리가 있습니다. 하지만 한 푼도 빠짐없이 감사인, 은행, 변호사들의 검토를 거쳤다는 건 약속드리죠.
+Viktor|A2|Har staten granskat ägandet?|국가가 지분 구조를 심사했습니까?
+Rydberg|B2|Det har inte behövts. Ingen enskild ägare ligger över gränsen för anmälan, och därför är lagen om utländska direktinvesteringar helt enkelt inte tillämplig.|그럴 필요가 없었습니다. 신고 기준선을 넘는 개별 주주가 없으니, 외국인 직접투자 심사법은 애초에 적용되지 않죠.
+Henrik|B2|Ingen sa ”utländska”. Det var han som tog upp det själv, och så gör man bara om man har tänkt på saken länge.|아무도 "외국인"이라고 안 했어. 자기가 먼저 꺼냈지. 그건 그 문제를 오래 생각해 본 사람이나 하는 짓이야.
+Viktor|A2|Herr Han, äger ni aktier i Arktis?|한 선생님, Arktis 주식을 갖고 계십니까?
+Han|B2|Det är en bra fråga, herr Holm. Jag äger inga aktier i Arktis Mineral AB. Jag är rådgivare, och man betalar mig för mina råd – inte för mina åsikter.|좋은 질문입니다, 홀름 씨. 저는 Arktis Mineral AB 주식을 한 주도 갖고 있지 않습니다. 저는 고문이고, 사람들은 제 의견이 아니라 제 조언에 돈을 냅니다.
+Henrik|A1|Han vet vem du är.|저 사람, 너 누군지 알아.
+Viktor|A2|Jag har inte sagt mitt namn.|난 이름 말한 적 없어.
+Rydberg|A2|Fler frågor? Ja, damen i röd jacka. Frågan gäller vattnet och älvarna.|다른 질문 있으십니까? 네, 빨간 재킷 입으신 분. 물과 강에 관한 질문이시군요.
+Han|B2|Oron för älvarna är befogad, och jag tar den på allvar. Separationen sker i slutna system, och vi har åtagit oss att inte släppa ut något i vattnet som inte redan finns där i dag.|강에 대한 걱정은 정당한 것이고, 저는 그걸 진지하게 받아들입니다. 분리 공정은 폐쇄형 설비에서 이뤄지며, 지금 물속에 없는 것은 아무것도 내보내지 않겠다고 약속했습니다.
+Henrik|B2|Snyggt svar, men lägg märke till att det inte innehöll en enda siffra. Så svarar man när siffrorna inte är till ens fördel.|깔끔한 대답이네. 근데 숫자가 하나도 없었다는 거 봐 둬. 숫자가 자기한테 불리할 때 저렇게 대답하는 거야.
+Viktor|B1|Om ingen ägare har över tio procent – hur många ägare ligger strax under?|10% 넘는 주주가 없다면, 바로 그 밑에 있는 주주는 몇이나 됩니까?
+Rydberg|B2|Nu blir det tekniskt, och jag vill inte tråka ut publiken med aktieböcker på en helgdag. Vi står på green nu, mina damer och herrar. Det enda som återstår är att putta.|이제 얘기가 기술적으로 흐르는데, 휴일에 주주명부로 청중을 지루하게 하고 싶진 않군요. 이제 그린 위에 있습니다, 여러분. 남은 건 퍼팅뿐이죠.
+Henrik|A2|Alla applåderar. Klappa du också.|다들 박수 친다. 너도 쳐.
+Viktor|A1|Måste jag?|꼭 쳐야 돼?
+Henrik|B2|Håll god min i elakt spel, Viktor. Om du sitter med armarna i kors är du den ende i salen som de kommer att minnas.|궂은 판에선 태연한 얼굴을 해, 빅토르. 팔짱 끼고 앉아 있으면, 이 홀에서 저 사람들이 기억할 사람은 너 하나뿐이야.
+Viktor|B1|De minns mig redan. Han visste mitt namn innan jag hade sagt ett ord.|벌써 기억하고 있어. 내가 한마디 하기도 전에 내 이름을 알고 있었잖아.
+Rydberg|A2|Tack ska ni ha! Nu väntar tårtan.|감사합니다! 이제 케이크가 기다립니다.
+Henrik|A2|Han tittar hitåt. Han Weiguo.|이쪽을 보고 있어. 한웨이궈.
+Viktor|B1|Ta en bild på honom och Rydberg, men inte medan han äter tårta. Bilden ska vara rättvis, även mot honom.|그 사람이랑 뤼드베리 같이 찍어. 근데 케이크 먹을 때는 말고. 사진은 공정해야 해. 그 사람한테도.
+Henrik|B1|Han ställer sig själv så att ljuset faller rätt. Den mannen har blivit fotograferad förut.|알아서 빛이 잘 드는 자리에 서네. 사진 찍혀 본 사람이야.
+Viktor|A2|Jag skriver ner allt han sa. Ord för ord.|그 사람이 한 말 전부 적어 둘게. 한 마디 한 마디.
+Henrik|A1|Tårta?|케이크 먹을래?
+# 장면 4 — 오후 4시 반, 같은 호텔 로비 (창밖의 밝은 저녁, 블랙커피 세 잔, 아미라의 Signal 메시지)
+Han|A2|Herr Holm? Får jag störa en minut?|홀름 씨? 잠시 실례해도 되겠습니까?
+Viktor|A2|Ni vet redan vem jag är.|제가 누군지 이미 아시네요.
+Han|B2|Ni syns i televisionen oftare än ni kanske tror. Och när en av Sveriges mest kända grävande reportrar sitter längst bak på ett informationsmöte i Kiruna, är det svårt att inte lägga märke till honom.|생각하시는 것보다 텔레비전에 자주 나오십니다. 그리고 스웨덴에서 가장 유명한 탐사기자 가운데 한 분이 키루나의 설명회 맨 뒷줄에 앉아 있으면, 눈에 띄지 않기가 어렵지요.
+Viktor|B1|Och ni är Han Weiguo, som enligt programmet bara är teknisk rådgivare.|그리고 당신은 한웨이궈 씨고요. 순서지에 따르면 그저 기술 고문이신.
+Han|B1|”Herr Han” går alldeles utmärkt. Hos oss kommer familjenamnet först, men svenskar blir ofta osäkra och säger båda namnen för säkerhets skull.|"한 선생"이라고 하시면 아주 좋습니다. 우리는 성이 먼저 오는데, 스웨덴 분들은 헷갈려서 혹시 몰라 이름을 둘 다 부르곤 하시더군요.
+Viktor|B1|Hur kommer det sig att ni talar så bra svenska?|어떻게 그렇게 스웨덴어를 잘하십니까?
+Han|B2|Jag kom till KTH 1995 för att läsa metallurgi, och jag lärde mig språket med en grammatikbok och era tidningars ledarsidor. Konjunktiven har jag fortfarande svårt för – ”vore det så väl”.|1995년에 금속공학을 공부하러 KTH에 왔고, 문법책 한 권과 여러분 신문의 사설란으로 이 언어를 배웠습니다. 접속법은 아직도 어렵습니다. "그렇다면야 좋으련만."
+Viktor|B1|Ni använder den rätt, och bättre än de flesta svenskar jag känner.|제대로 쓰시는데요. 제가 아는 대부분의 스웨덴 사람보다 낫습니다.
+Han|B1|Det var vänligt sagt. Jag har märkt att svenskar ofta säger något vänligt precis innan de frågar det de egentligen vill veta.|친절한 말씀이군요. 스웨덴 분들은 정말 알고 싶은 걸 묻기 직전에 친절한 말을 하시는 경우가 많더군요.
+Henrik|A2|Kaffe, någon? Automaten fungerar faktiskt.|커피 드실 분? 자판기가 웬일로 되네요.
+Han|A1|Tack, gärna. Svart.|감사합니다. 블랙으로요.
+Viktor|B1|Ni sa att ni inte äger några aktier i Arktis. Vem är det då som gör det?|Arktis 주식을 갖고 있지 않다고 하셨죠. 그럼 대체 누가 갖고 있습니까?
+Han|B2|Ordföranden har svarat på den frågan, och det är inte min sak att svara bättre än han. Men jag förstår er nyfikenhet. Jag läste er artikel om skuggflottan, herr Holm. Mycket grundlig. Nästan för grundlig.|그 질문엔 의장께서 답하셨고, 제가 그분보다 더 잘 답할 일은 아닙니다. 하지만 궁금해하시는 건 이해합니다. 그림자 선단 기사 읽었습니다, 홀름 씨. 아주 철저하더군요. 거의 지나칠 정도로.
+Viktor|B2|För grundlig för vem, herr Han? Om det hade funnits mindre att hitta, hade jag skrivit mindre.|누구에게 지나치다는 겁니까, 한 선생님? 찾을 게 적었다면, 저도 적게 썼을 겁니다.
+Han|B2|För dem som tror att verkligheten går att ställa upp i en tabell. Ni följde ett fartyg genom fyra namnbyten, men ni stannade vid frågan om vem som egentligen styrde det. Det var klokt. Det var också en gräns.|현실을 표 한 장에 정리할 수 있다고 믿는 사람들에게요. 당신은 이름을 네 번 바꾼 배를 끝까지 따라갔지만, 실제로 누가 그 배를 움직였느냐는 질문 앞에서 멈췄습니다. 현명한 일이었지요. 그리고 그게 한계이기도 했습니다.
+Henrik|A1|Kaffe. Svart.|커피요. 블랙.
+Han|B1|Tack. Ursäkta mig en minut, jag måste ta det här samtalet. På andra sidan jorden är det snart midnatt, och där sover ingen förrän ett avtal är klart.|감사합니다. 잠시 실례하겠습니다, 이 전화는 받아야 해서요. 지구 반대편은 곧 자정인데, 거기선 계약이 끝나기 전엔 아무도 자지 않거든요.
+Amira|B1|Är du ensam? Läs snabbt, för det här vill du inte att han ser över din axel.|혼자야? 빨리 읽어. 이건 그 사람이 네 어깨 너머로 보면 안 되니까.
+Viktor|A1|Skriv.|보내.
+Amira|B1|Arktis årsredovisning för 2025, not 21: fyra ägare med 9,9 procent var – Lavskog Holding, Isälv Invest, Fjällgran Kapital och Tjäle Förvaltning. Alla svenska aktiebolag.|Arktis 2025년 연차보고서 주석 21. 지분 9.9%씩 가진 주주 넷. 라브스코그 홀딩, 이셸브 인베스트, 피엘그란 카피탈, 셸레 푀르발트닝. 전부 스웨덴 주식회사야.
+Viktor|A1|Nio komma nio?|9.9?
+Amira|B2|Precis under tio. I lagen om granskning av utländska direktinvesteringar går gränsen för anmälan vid tio procent av rösterna, så ingen av dem behöver anmäla något. Tillsammans äger de nästan fyrtio procent.|딱 10% 밑이야. 외국인 직접투자 심사법에선 의결권 10%가 신고 기준선이거든. 그러니까 어느 회사도 신고할 필요가 없어. 근데 넷을 합치면 거의 40%야.
+Henrik|B1|Fyra lika stora bitar, alla precis under strecket. Sådant händer inte av en slump.|똑같은 크기 네 조각이, 전부 선 바로 밑에. 그런 건 우연히 생기지 않아.
+Amira|B1|Och alla fyra har samma adress: c/o Wessel Advokatbyrå på Östermalm. Samma två personer sitter i alla fyra styrelser.|그리고 네 회사 주소가 다 똑같아. c/o 외스테르말름의 베셀 법률사무소. 같은 두 사람이 네 회사 이사회에 다 앉아 있고.
+Viktor|B1|Vem står som ägare till de fyra bolagen, om det inte är han?|그 사람이 아니라면, 네 회사의 주주로는 누가 올라 있는데?
+Amira|B2|Det är problemet. På papperet ägs de av just de två – pensionerade svenskar utan andra bolag och utan någon förmögenhet att tala om. Ingenstans står det Han Weiguo.|그게 문제야. 서류상으론 바로 그 두 사람 소유야. 다른 회사도 없고 이렇다 할 재산도 없는 스웨덴 은퇴자들. 한웨이궈라는 이름은 어디에도 없어.
+Viktor|A1|Ingenstans?|어디에도?
+Amira|B1|Men läs not 9 i deras egna årsredovisningar. Alla fyra fick ett ”aktieägarlån” från Silverpeak Resources Ltd i Hongkong – samma dag, den tredje november, och samma belopp, fyrtioåtta miljoner var.|근데 그 회사들 자체 연차보고서 주석 9를 봐. 네 회사 모두 홍콩의 Silverpeak Resources Ltd한테서 "주주 대출"을 받았어. 같은 날, 11월 3일에, 같은 액수로. 각각 4,800만 크로나.
+Henrik|B1|Ett aktieägarlån från någon som inte äger något. Det har jag aldrig hört talas om.|아무것도 소유하지 않은 쪽에서 받은 주주 대출이라. 그런 건 들어 본 적이 없네.
+Amira|B2|Exakt. Antingen har revisorn slarvat med ett ord, eller så har ordet råkat säga sanningen. Om bolagen agerar tillsammans räknas de som en enda ägare enligt lagen – men det måste någon bevisa. Det här är en tråd, inte ett bevis. Jävlar, vad jag vill skriva det nu.|바로 그거야. 감사인이 단어 하나를 대충 썼거나, 아니면 그 단어가 어쩌다 진실을 말해 버렸거나. 회사들이 함께 움직이면 법적으로 한 명의 주주로 쳐. 근데 그건 누군가 증명해야 해. 이건 실마리지, 증거가 아니야. 젠장, 지금 당장 쓰고 싶다.
+Viktor|B2|Vi skriver ingenting än. Genom svenska bulvanbolag undviker ägaren att investeringen granskas av staten – det är hela poängen med upplägget. Men vi måste kunna visa varje länk innan den meningen hamnar i en artikel.|아직 아무것도 안 써. 스웨덴 명의 회사들을 통해 실소유주는 투자가 국가 심사를 받지 않게 피해 가는 거야. 그게 이 구조의 핵심이고. 하지만 그 문장이 기사에 들어가기 전에 고리 하나하나를 다 증명할 수 있어야 해.
+Henrik|A1|Han kommer tillbaka.|그 사람 돌아온다.
+Han|B1|Förlåt att ni fick vänta. Ni ser ut som en man som just har fått goda nyheter, herr Holm.|기다리게 해서 죄송합니다. 방금 좋은 소식을 들은 사람 같은 얼굴이시군요, 홀름 씨.
+Viktor|A2|Bara ett sms från redaktionen.|그냥 편집국에서 온 문자입니다.
+Han|B2|Då ska jag inte uppehålla er längre. Men eftersom ni kommer att skriva om oss vill jag säga en sak: alla i salen tror att vi har kommit hit för berget. Berget har legat här i nästan två miljarder år, och det går ingenstans.|그럼 더 붙잡지 않겠습니다. 다만 저희에 대해 쓰실 테니 한 가지만 말씀드리지요. 홀에 있던 사람들은 다들 우리가 저 산 때문에 왔다고 생각합니다. 산은 20억 년 가까이 여기 있었고, 어디로도 가지 않습니다.
+Henrik|A2|Berget går ingenstans. Det är staden som flyttar.|산은 어디로도 안 가죠. 옮겨 가는 건 도시고.
+Viktor|B1|Om ni inte köper berget, vad är det då ni köper, herr Han?|산을 사는 게 아니라면, 대체 무엇을 사시는 겁니까, 한 선생님?
+Han|A2|Jag köper inte gruvor, herr Holm. Jag köper tid.|저는 광산을 사지 않습니다, 홀름 씨. 시간을 삽니다.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Staden flyttar.** | 도시가 옮겨 간다. | *flytta*는 '이사하다'와 '(물건을) 옮기다' 두 뜻이 있다. 사람이 주어면 이사(*Vi flyttade i fjol.*), 목적어가 있으면 옮기기(*De flyttade kyrkan.*). 키루나에서는 도시 자체가 주어가 된다 |
+| `A2` | **Kyrkan flyttades i fjol.** | 교회는 작년에 옮겨졌다. | *flyttades*는 *flytta*의 -s 수동 과거 — 누가 옮겼는지보다 옮겨졌다는 사실이 중요할 때 쓴다. *i fjol* = 작년에(= *förra året*), *i år* = 올해, *nästa år* = 내년 |
+| `B1` | **Under berget finns en av Europas största fyndigheter av sällsynta jordartsmetaller.** | 산 밑에는 유럽 최대 규모의 희토류 매장지 가운데 하나가 있다. | 장소 부사구(*Under berget*)가 문장 앞에 오면 동사가 두 번째 자리를 지키고 주어가 뒤로 간다(V2 어순): *Under berget finns …* *en av* + 최상급 + 복수 = ~ 가운데 하나. *sällsynta jordartsmetaller* = 희토류(직역 '드문 토류 금속') |
+| `B1` | **Så den som äger förädlingen äger hela kedjan?** | 그러니까 가공을 가진 사람이 사슬 전체를 갖는 거네? | *den som* + 절 = ~하는 사람. 주어 덩어리 *den som äger förädlingen* 전체 뒤에 본동사 *äger*가 다시 온다. 평서문 어순에 억양만 올려도 확인 질문이 된다 |
+| `B2` | **Genom svenska bulvanbolag undviker ägaren att investeringen granskas av staten.** | 스웨덴 명의 회사들을 통해 실소유주는 투자가 국가 심사를 받는 것을 피한다. | *genom* + 명사 = ~을 통해. *undvika att* + 절/부정사 = ~을 피하다. *granskas av staten*은 -s 수동 + 행위자 *av*. *bulvan* = 바지, 명의 대여자 — *bulvanbolag*은 실제 주인을 가리기 위해 세운 회사 |
+| 관용구 | **hålla god min i elakt spel** | 궂은 판에서 태연한 얼굴을 하다 | 마음에 들지 않는 상황에서도 겉으로는 침착하고 상냥하게 행동하라는 뜻. *min* = 표정(대명사 *min*과 다른 단어). 헨릭은 박수를 치라고 권한다 — 팔짱 낀 사람은 기억되기 때문이다 |
+| 법·산업 | **verklig huvudman** | 실소유자 | 법인을 실제로 소유·지배하는 자연인(보통 지분·의결권 25% 초과). 법인은 법인등기청 *Bolagsverket*에 등록할 의무가 있고, 그런 사람이 없으면 이사회 의장이나 대표이사를 대신 등록한다 — 그래서 서류상 Arktis의 "실소유자"는 바지 의장 뤼드베리다 |
+| 지역어 | **Jo, nog. · int · nä** | 그렇지 뭐 · 안(= *inte*) · 아니(= *nej*) | 노를란드 구어. *jo*는 원래 부정 질문에 대한 '아니, 그래'지만 북부에서는 맞장구로 널리 쓴다. *nog*(아마, 그렇지)가 붙으면 체념 섞인 동의. 칼레의 "*int är den gratis*"처럼 *int*가 문장 앞에 나와 강조하기도 한다 |
+
+## 저널리즘·법 메모
+2023년 12월 시행된 외국인 직접투자 심사법(*lagen om granskning av utländska direktinvesteringar*)은 핵심원자재 같은 민감 분야 회사의 의결권 10%·20%·30% 등 기준선을 넘는 지분 취득을 사전에 신고하게 한다. 9.9%씩 쪼갠 지분은 그 자체로 불법이 아니다 — 그래서 기자가 증명해야 할 것은 "법 위반"이 아니라 "제도를 피하도록 설계된 구조"이며, 같은 주소·같은 이사·같은 날 같은 액수의 대출 같은 사실을 하나씩 문서로 고정한 뒤 해석과 분리해 쓴다. 법은 함께 움직이는 주주들을 하나로 보지만, 그 '함께'를 입증하는 것은 기사의 몫이다. 실소유자 등록부는 법인등기청에 있고, 기자는 이유를 밝히고 열람을 신청할 수 있다. 빅토르가 설명회에서 셸레프테오 설비 이야기를 꺼내지 않은 것도 원칙이다 — 아직 확인하지 못한 카드를 상대에게 먼저 보여 주면, 상대는 서류를 정리할 시간을 얻는다.
+
+## 문화·현안 메모
+- **움직이는 도시 키루나** — 철광석 광맥이 도시 밑으로 비스듬히 뻗어 있어, 채굴이 깊어질수록 지반이 갈라진다. 그래서 수십 년에 걸쳐 도심 전체를 동쪽 새 도심으로 옮기고 있다. 2025년 8월에는 목조 교회(*Kiruna kyrka*)를 통째로 대형 운반 차량에 실어 이틀에 걸쳐 약 5km 옮겼고, 많은 주민이 길가에서 지켜봤다. 2023년에는 키루나 인근에서 유럽 최대 규모로 알려진 희토류 매장지가 발표됐다.
+- **토르네달 사람들과 메엔키엘리(*meänkieli*)** — 핀란드 국경의 토르네 강 유역 사람들이 쓰는 핀란드어 계열 언어로, 2000년부터 스웨덴의 공식 소수 언어다. 20세기 중반까지 학교에서는 스웨덴어 동화 정책 때문에 이 말을 쓰지 못하게 했고, 지금은 표지판에도 쓰인다. *Kiitos*는 '고마워'.
+- **그리스도 승천일(*Kristi himmelsfärdsdag*)과 *klämdag*** — 부활절 39일 뒤 목요일인 공휴일(*röd dag*, 달력의 빨간 날). 종교와 상관없이 대부분 쉬며, 목요일과 주말 사이에 '끼인 날'(*klämdag*) 금요일까지 휴가를 내는 사람이 많다. 그래서 공휴일 오후의 투자설명회는 정치인과 지역 인사들이 오기 쉬운 날이기도 하다.
+- ⚠️ Arktis Mineral AB, Arktis Processing AB, "북극 가공단지", Lavskog Holding·Isälv Invest·Fjällgran Kapital·Tjäle Förvaltning, Wessel Advokatbyrå, Silverpeak Resources Ltd, 칼레 페카리, 칼-요한 뤼드베리, 한웨이궈는 모두 허구다. 키루나 이전·교회 이동·희토류 발견, EU 핵심원자재법과 스웨덴 외국인 직접투자 심사법은 실제를 배경으로 했으나 수치와 절차는 극적 구성을 위해 단순화했다.
+
+## 다음 화 예고
+> 요크모크의 사미 변호사 윌바 사리는 또 한 명의 스톡홀름 기자를 반기지 않는다. 그녀가 내민 협의 의사록에는, 그날 아무도 있을 수 없었던 자리의 서명 세 개가 있다.

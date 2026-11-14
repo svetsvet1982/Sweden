@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (48/105화 완성)
+## 대본 목차 (49/105화 완성)
 
 ### 1부
 
@@ -92,3 +92,4 @@
 | 1 | [Konkursen](episodes/k4_e01.md) | 파산 |
 | 2 | [Boomtown](episodes/k4_e02.md) | 붐타운 |
 | 3 | [Pensionen](episodes/k4_e03.md) | 연금 |
+| 4 | [Kiruna](episodes/k4_e04.md) | 키루나 |
