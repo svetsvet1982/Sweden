@@ -1,0 +1,187 @@
+@title 5부 2화 — Kontona
+@subtitle (계정들)
+@meta 날짜|2026년 7월 2일 목요일 오전 8시 반 ~ 밤 11시 40분경
+@meta 장소|Källaren 화이트보드 앞 (오전 8시 반) → Källaren 아미라의 책상 (오전 10시 반) → 하가 공원(Hagaparken) 에코템플레트(Ekotemplet) 옆 벤치 (오후 2시) → 소피아의 유리방, 편집회의 (오후 5시) → 툼바(Tumba), 아미라의 아파트 (밤 11시 20분)
+@meta 등장인물|**Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Viktor** (빅토르, 47, 탐사기자) · **Noah** (노아 베리룬드, 24, 기자) · **Jonna** (요나, 31, Hemlandspartiet 디지털팀 전 직원 — 익명 제보자 "J") · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자)
+@intro **지난 이야기** — 알메달렌에서 Ekwall은 "선거 전략 자문"이라는 새 명함을 내밀었지만 고객이 누구인지는 끝내 말하지 않았다. 그날 밤 성벽 북문에서 이름을 밝히지 않은 여자 "J"가 빅토르를 만났고, 자정이 넘어 여름집 대문 앞에 다시 나타나 한 문장을 남겼다: "Fyrahundra konton. Och tjugo av dem skötte jag själv."
+@intro 그날 밤 J는 여름집 부엌 식탁에서 계정 스무 개를 연필로 적어 주었다. 원본은 소피아의 금고에 들어갔고, 아미라는 그 뒤 일주일 동안 거의 집에 가지 않았다. 7월 2일 목요일 아침, Källaren 화이트보드에는 점 사백 개가 붙어 있다.
+# 장면 1 — 오전 8시 반, Källaren 화이트보드 앞 (출력한 계정 지도, 빨강·파랑·초록 자석, 노아의 노트북 속 밈 폴더, 식은 커피)
+Viktor|A1|Hur många konton?|계정이 몇 개야?
+Amira|A1|Fyrahundra. Exakt.|사백 개. 정확히.
+Viktor|B1|Det är samma siffra som hon sa vid grinden, och då hade du inte ens börjat räkna.|그 사람이 대문에서 말한 숫자랑 똑같네. 그때 넌 세기 시작하지도 않았는데.
+Amira|B1|Ja, och det gör mig nervös. När en siffra stämmer för bra vill jag kontrollera den en gång till.|응, 그래서 오히려 불안해. 숫자가 너무 딱 맞으면 한 번 더 확인하고 싶어지거든.
+Noah|A2|Var började du? Med hennes lista?|어디서부터 시작했어요? 그 사람 목록으로요?
+Amira|B1|Med de tjugo konton som J skrev med blyerts vid köksbordet på Gotland. Originalet ligger i Sofias kassaskåp, och jag jobbar bara med min egen avskrift.|J가 고틀란드 부엌 식탁에서 연필로 적은 계정 스무 개로. 원본은 소피아 금고에 있고, 난 내가 옮겨 적은 사본으로만 작업해.
+Viktor|A2|Och från de tjugo hittade du resten?|그 스무 개에서 나머지를 찾았고?
+Amira|B2|Jag tittade på vilka konton som delade, gillade och svarade på de tjugo inom några minuter, gång på gång, i arton månader. Sedan gjorde jag samma sak med de nya kontona, varv efter varv, tills nätet slutade växa.|그 스무 개를 몇 분 안에 공유하고, 좋아요 누르고, 답글 다는 계정이 어떤 건지 봤어. 18개월 동안 계속 반복되는지. 그다음엔 새로 나온 계정들로 똑같이 하고, 한 바퀴 또 한 바퀴. 그물이 더 안 커질 때까지.
+Noah|A1|Som en snöboll.|눈덩이처럼요.
+Amira|A2|Nej, som ett nät. En snöboll växer ju hela tiden.|아니, 그물처럼. 눈덩이는 끝없이 커지잖아.
+Viktor|A1|Och färgerna?|색깔은?
+Amira|B1|Det är måltavlorna. Rött är de andra partierna, blått är folk i Hemlandspartiet självt, och grönt är vi.|표적이야. 빨강은 다른 정당들, 파랑은 헴란드스파르티에트 자기 당 사람들, 초록은 우리.
+Viktor|A2|Deras eget parti? Varför då?|자기 당이라고? 왜?
+Amira|B2|Tre riksdagsledamöter krävde på partistämman i april att partiet skulle redovisa vad den digitala budgeten används till. Sedan dess har de fått över två tusen inlägg om sig, och nästan inget av dem handlar om politik.|국회의원 세 명이 4월 전당대회에서 디지털 예산을 어디에 쓰는지 당이 공개해야 한다고 요구했어. 그 뒤로 그 사람들에 대한 게시물이 2천 개 넘게 달렸는데, 정치 얘기는 거의 하나도 없어.
+Noah|A2|Jag har sparat några. Titta här.|몇 개 저장해 놨어요. 여기 보세요.
+Viktor|A1|En clown?|광대?
+Noah|B1|En av ledamöterna med clownsmink och texten ”Sveriges roligaste förrädare”. Den har delats elvahundra gånger, och det är alltid samma konton som delar först.|의원 한 명 얼굴에 광대 화장을 하고 "스웨덴에서 제일 웃기는 배신자"라고 써 놨어요. 1,100번 공유됐는데, 맨 먼저 공유하는 건 늘 같은 계정들이에요.
+Viktor|B2|Det är ju bara ett skämt, om än ett dåligt sådant – och skämt har man väl alltid fått dra i politiken.|그냥 농담이잖아. 질이 나쁘긴 해도. 정치판에선 늘 농담을 해 왔고.
+Noah|B1|Det är det som är grejen. Om man klagar säger de att det bara är humor, och då är det du som inte fattar.|바로 그게 핵심이에요. 불평하면 그냥 유머라고 하죠. 그럼 못 알아듣는 사람이 되는 거예요.
+Amira|A1|Visa nästa.|다음 거 보여 줘.
+Noah|A2|Den här heter NPC. Ett grått ansikte utan ögon.|이건 NPC라고 해요. 눈 없는 회색 얼굴이요.
+Viktor|A1|Vad betyder NPC?|NPC가 무슨 뜻이야?
+Noah|B1|Non-player character. I ett spel är det en figur som bara upprepar samma repliker, alltså någon som inte har egna tankar.|논플레이어 캐릭터요. 게임에서 똑같은 대사만 반복하는 인물이요. 그러니까 자기 생각이 없는 사람이요.
+Viktor|A2|Och vems ansikte har de satt där?|그런데 거기에 누구 얼굴을 넣었어?
+Noah|A2|Ditt. Och Sofias. Och några på Kanal Sverige.|빅토르 얼굴이요. 그리고 소피아 얼굴. 카날 스베리예 사람 몇 명도요.
+Viktor|B1|Så vad vi än skriver blir det bara ännu en replik från en NPC. Smart.|그러니까 우리가 뭘 쓰든 NPC의 대사 한 줄이 될 뿐이란 거군. 영리하네.
+Noah|B2|Det här är inte humor, det är taktik. Ironin gör att moderatorerna på plattformarna inte reagerar, och den gör att de som delar aldrig behöver stå för vad de egentligen säger.|이건 유머가 아니라 전술이에요. 비꼬는 형식이라 플랫폼 관리자들은 반응을 안 하고, 공유하는 사람들은 자기가 진짜 하는 말에 책임질 필요가 없어지죠.
+Amira|B1|Och de gröna punkterna, alltså vi. De började på allvar efter ministertexten den tjugoandra juni.|그리고 초록 점들, 그러니까 우리. 6월 22일 장관 기사 이후로 본격적으로 시작됐어.
+Viktor|B2|Men den texten skadade inte dem. Om något borde de ha tackat oss, eftersom det var Samlingspartiet som drabbades.|그런데 그 기사는 그쪽한테 해가 된 게 아니잖아. 오히려 고마워해야 할 판이지. 타격을 입은 건 삼링스파르티에트였으니까.
+Amira|B2|Det spelar ingen roll vad vi skriver. Budskapet är alltid detsamma: att vi skrev för sent, att vi skyddar eliten, att ingen borde lita på oss. Poängen är inte en enskild artikel, utan förtroendet för hela tidningen.|우리가 뭘 쓰든 상관없어. 메시지는 늘 같아. 우리가 너무 늦게 썼다, 엘리트를 보호한다, 아무도 우리를 믿으면 안 된다. 요점은 기사 하나가 아니라 신문 전체에 대한 신뢰야.
+Noah|B2|Memen är bara förpackningen. Innehållet är hat. Och förpackningen är gjord för att farmor i Arvika ska dela den utan att fundera på vad som ligger inuti.|밈은 포장일 뿐이에요. 내용물은 혐오고요. 그리고 그 포장은 아르비카에 사는 할머니가 속에 뭐가 들었는지 생각도 안 하고 공유하게끔 만들어진 거예요.
+Viktor|A2|När postar de?|언제 올려?
+Amira|A2|De postar alltid klockan sju på morgonen. Varje dag.|늘 아침 7시에 올려. 매일.
+Noah|A2|När folk sitter på bussen och scrollar.|사람들이 버스에 앉아서 스크롤할 때요.
+Viktor|A1|Visa mig hur.|어떻게 하는지 보여 줘.
+# 장면 2 — 오전 10시 반, Källaren 아미라의 책상 (모니터 세 대: 시간대 히트맵, 계정 연결망, 노아의 역이미지 검색 결과 표)
+Amira|B1|Först insamlingen. Jag har bara tagit det som är offentligt, alltså inlägg som vem som helst kan se utan att logga in.|먼저 수집. 공개된 것만 가져왔어. 그러니까 로그인 안 해도 누구나 볼 수 있는 게시물만.
+Viktor|A1|Hur mycket?|얼마나?
+Amira|A2|Arton månader. Tvåhundratolvtusen inlägg.|18개월. 게시물 21만 2천 개.
+Noah|A1|Herregud.|세상에.
+Amira|B1|Sedan kollade jag fyra saker: när de postar, hur de skriver, vilka bilder de använder och om de delar samma sak samtidigt.|그다음 네 가지를 봤어. 언제 올리는지, 어떻게 쓰는지, 무슨 이미지를 쓰는지, 그리고 같은 걸 동시에 공유하는지.
+Viktor|A2|Börja med tiden.|시간부터 해.
+Amira|B1|Här är värmekartan. Varje ruta är en timme, och ju mörkare rutan är, desto fler inlägg.|이게 히트맵이야. 칸 하나가 한 시간이고, 진할수록 게시물이 많은 거야.
+Noah|A2|Klockan sju är nästan svart. Varje dag.|7시가 거의 새까매요. 매일.
+Amira|B2|Och sedan ligger det jämnt över hela dygnet, också mitt i natten, bara lite tunnare – som ett skiftschema. Riktiga människor sover ibland, för fan. De här kontona tar aldrig ledigt, inte ens på midsommarafton.|그러고 나서 하루 종일 고르게 이어져. 한밤중에도, 조금 옅어질 뿐이고. 교대 근무표처럼. 진짜 사람은 가끔 잠을 잔다고, 젠장. 이 계정들은 미드섬머 이브에도 안 쉬어.
+Viktor|A2|Midsommarafton? Båda åren?|미드섬머 이브? 두 해 다?
+Amira|B1|Både förra året och i år. Samma volym som en vanlig tisdag, medan resten av Sverige satt och åt sill.|작년에도 올해도. 평범한 화요일이랑 같은 양이야. 스웨덴 나머지 사람들은 다 앉아서 청어 먹고 있을 때.
+Viktor|B1|Det kan vara en ivrig människa med många konton. Det är inte förbjudet.|열성적인 사람 하나가 계정을 많이 가진 걸 수도 있어. 그건 금지된 게 아니야.
+Amira|B2|Därför räcker inte tiden. Titta på språket: trettiosju av kontona stavar ”definitift” med f på slutet, och de sätter alltid samma tre emojier i samma ordning efter sista meningen.|그래서 시간만으론 부족해. 말투를 봐. 계정 서른일곱 개가 'definitivt'를 끝에 f를 붙여서 'definitift'라고 쓰고, 마지막 문장 뒤엔 항상 똑같은 이모지 세 개를 똑같은 순서로 붙여.
+Noah|A2|Samma stavfel? På trettiosju konton?|같은 오타요? 계정 서른일곱 개에서요?
+Amira|B1|Antingen är det samma person, eller så har någon gett dem samma mall och de har kopierat den.|같은 사람이거나, 아니면 누군가 같은 틀을 줬고 다들 그걸 베꼈거나.
+Viktor|A1|Och bilderna?|이미지는?
+Amira|B1|Samma bild, beskuren på olika sätt, på femtiotvå konton. Och här kommer det viktigaste: om tre konton skriver samma sak inom en minut är det knappast en slump.|같은 이미지를 다르게 잘라서 쓴 계정이 쉰두 개. 그리고 여기서 제일 중요한 거. 계정 세 개가 1분 안에 같은 말을 쓰면, 그건 우연이라고 보기 어려워.
+Viktor|A2|Hur ofta händer det?|그게 얼마나 자주 있어?
+Amira|B2|Tusentals gånger. Det finns ett namn för det: samordnat inautentiskt beteende. Det betyder inte att åsikterna är falska, utan att avsändarna låtsas vara många oberoende människor fast de styrs från samma ställe.|수천 번. 그걸 부르는 이름이 있어. 조직적 비진정 행위. 의견이 가짜라는 뜻이 아니야. 같은 곳에서 조종되면서 서로 무관한 여러 사람인 척한다는 뜻이지.
+Noah|A2|Och nu mina bilder. Jag tog fyrtio konton.|이제 제 이미지 차례예요. 계정 마흔 개를 골랐어요.
+Viktor|A1|Hur valde du?|어떻게 골랐어?
+Noah|B1|Slumpmässigt. Amira lät datorn dra fyrtio nummer, så att jag inte skulle välja de konstigaste själv.|무작위로요. 아미라가 컴퓨터로 번호 마흔 개를 뽑게 했어요. 제가 제일 이상한 것만 골라내지 않게요.
+Viktor|A1|Bra. Och?|좋아. 그래서?
+Noah|B1|Tjugotvå profilbilder är bildbyråfoton som man kan köpa för några kronor. Femton är ansikten som en AI har gjort – örhängena matchar inte, och bakgrunden smälter liksom ihop bakom öronen.|프로필 사진 스물두 개는 몇 크로나면 살 수 있는 스톡 사진이에요. 열다섯 개는 AI가 만든 얼굴이고요. 양쪽 귀걸이가 안 맞고, 귀 뒤로 배경이 녹아내린 것처럼 뭉개져 있어요.
+Viktor|A2|Det blir trettiosju. Och de sista tre?|그럼 서른일곱. 나머지 세 개는?
+Noah|B2|Det är riktiga människor – en lärare, en student och en tandläkare, alla utomlands – vars bilder har stulits från gamla konton. De har ingen aning om att deras ansikten hatar svenska politiker varje morgon klockan sju.|진짜 사람들이에요. 교사 한 명, 학생 한 명, 치과의사 한 명. 다 외국에 사는데, 옛날 계정에서 사진을 도둑맞은 거예요. 자기 얼굴이 매일 아침 7시에 스웨덴 정치인들을 혐오하고 있다는 걸 전혀 몰라요.
+Viktor|B2|Då har vi två lager av offer som inte syns i någon statistik. Skriv upp dem, Noah, men vi publicerar inte en enda av de bilderna.|그럼 어떤 통계에도 안 잡히는 피해자가 두 겹이네. 적어 둬, 노아. 하지만 그 사진은 한 장도 싣지 않아.
+Noah|A1|Förstått.|알겠어요.
+Viktor|B1|Men varför fyrahundra? I förrgår sa du fyrahundratrettioett.|그런데 왜 사백이야? 그저께는 사백삼십일이라고 했잖아.
+Amira|B2|För att mitt första filter var för grovt. Det fångade alla som reagerade på samma nyhet samtidigt, och efter en tv-debatt skriver ju tusentals riktiga människor samma sak inom samma minut.|첫 번째 필터가 너무 엉성했으니까. 같은 뉴스에 동시에 반응하는 사람을 다 잡아 버렸거든. TV 토론이 끝나면 진짜 사람 수천 명이 같은 분에 같은 말을 쓰잖아.
+Viktor|B2|Så du fick ändra reglerna medan du gick, och det är precis vad motparten kommer att anklaga oss för.|그러니까 하는 도중에 기준을 바꿔야 했다는 거네. 상대편이 우리를 공격할 때 딱 그걸 물고 늘어질 거야.
+Amira|B2|Därför är varje version sparad. Nu måste ett konto visa minst två av de fyra tecknen, i minst tre månader, och inte bara vid stora nyheter. Trettioett konton föll bort – bland annat en pensionär i Kalmar som postar klockan sju varje morgon för att det är då han dricker kaffe.|그래서 버전마다 다 저장해 뒀어. 지금은 계정 하나가 네 가지 신호 중 최소 두 개를, 최소 석 달 동안, 큰 뉴스 때만이 아니라 평소에도 보여야 해. 서른한 개가 빠졌어. 그중엔 매일 아침 7시에 글을 올리는 칼마르의 연금 생활자도 있어. 그때 커피를 마시거든.
+Noah|A2|Med en hund som profilbild. Jag kollade. Han är äkta.|프로필 사진이 개예요. 확인했어요. 진짜 사람이에요.
+Viktor|B2|Det räcker inte att visa ett mönster; vi måste kunna bevisa vem som styr det. Fyrahundra konton som beter sig likadant är en stark misstanke, men ingen avsändare.|패턴을 보여 주는 것만으론 부족해. 누가 그걸 조종하는지 증명할 수 있어야 해. 똑같이 움직이는 계정 사백 개는 강한 의심이지, 보낸 사람이 아니야.
+Amira|B1|Därför ska du till Haga i eftermiddag. Hon har suttit i rummet där det styrs.|그래서 너 오늘 오후에 하가 가는 거잖아. 그 사람은 그걸 조종하는 방에 앉아 있었으니까.
+# 장면 3 — 오후 2시, 하가 공원 에코템플레트 옆 벤치 (브룬스비켄 만이 내려다보이는 언덕, 조깅하는 사람들, 빅토르가 출력해 온 계정 목록 한 장과 연필)
+Jonna|A2|Du kom. Och ingen telefon?|오셨네요. 휴대폰은 없죠?
+Viktor|A2|Den ligger i bilen, en kilometer bort.|차에 있어요. 1킬로미터 떨어진 데요.
+Jonna|B1|Bra. Jag tog två bussar och gick sista biten, för jag ville se om någon gick efter mig.|좋아요. 버스 두 번 타고 마지막엔 걸어왔어요. 누가 따라오는지 보고 싶어서요.
+Viktor|A1|Gjorde någon det?|누가 따라왔어요?
+Jonna|A2|Nej. Bara joggare. Alla här joggar.|아니요. 조깅하는 사람들뿐이에요. 여기선 다들 뛰어요.
+Viktor|B1|Vi har gått igenom dina tjugo konton. De ledde oss till fyrahundra, precis som du sa.|당신이 준 계정 스무 개를 살펴봤어요. 그게 사백 개로 이어졌어요. 당신 말대로요.
+Jonna|A1|Fyrahundra. Okej.|사백 개. 그렇군요.
+Viktor|B1|Nu vill jag förstå hur det fungerar inifrån. Inte vem, utan hur.|이제 안에서 어떻게 돌아가는지 이해하고 싶어요. 누가가 아니라, 어떻게요.
+Jonna|B1|Det finns en manual. Tolv sidor, en pdf som heter ”Röster – riktlinjer”. Alla nya måste läsa den första veckan, men ingen får skriva ut den.|매뉴얼이 있어요. 열두 쪽짜리, "목소리 — 지침"이라는 PDF요. 신입은 다 첫 주에 읽어야 하는데, 아무도 출력은 못 해요.
+Viktor|A2|Har du den kvar?|아직 갖고 있어요?
+Jonna|B2|Nej. Och även om jag hade haft den skulle jag inte ha gett den till dig. Mitt användarnamn står i hörnet på varje sida.|아니요. 갖고 있었다 해도 드리지 않았을 거예요. 페이지마다 구석에 제 사용자 이름이 찍혀 있거든요.
+Viktor|A2|Berätta vad som står i den.|거기 뭐라고 쓰여 있는지 말해 줘요.
+Jonna|B1|Tre ord på första sidan: tonläge, tajming, tre gilla-markeringar inom två minuter. Resten är bara exempel.|첫 장에 세 가지요. 어조, 타이밍, 2분 안에 좋아요 세 개. 나머지는 다 예시예요.
+Viktor|A1|Tonläge?|어조요?
+Jonna|B2|Man ska låta som en vanlig arg människa, inte som ett parti. Inga partiord, aldrig en svordom i första meningen, och gärna ett litet stavfel, för perfekt svenska låter som en pressavdelning.|정당이 아니라 평범하게 화난 사람처럼 들려야 해요. 정당 용어 금지, 첫 문장엔 절대 욕 금지, 그리고 작은 오타는 있으면 좋아요. 완벽한 스웨덴어는 홍보실처럼 들리니까요.
+Viktor|A2|Ett stavfel. Som ”definitift”?|오타라. 'definitift' 같은 거요?
+Jonna|B1|Hur vet du det? Det var jag som hittade på det, och sedan kopierade de andra.|그걸 어떻게 알아요? 그거 제가 만든 거예요. 그다음에 다른 사람들이 따라 했고요.
+Viktor|B1|Vi hittade det på trettiosju konton. Fortsätt. Tajming?|계정 서른일곱 개에서 찾았어요. 계속해요. 타이밍은요?
+Jonna|B1|Klockan sju, när folk sitter på tåget. Och direkt efter att någon har varit med i tv, innan journalisterna har hunnit skriva något.|7시요. 사람들이 기차에 앉아 있을 때. 그리고 누가 TV에 나온 직후, 기자들이 뭘 쓰기도 전에요.
+Viktor|A2|Och tre gilla-markeringar på två minuter?|그리고 2분 안에 좋아요 세 개는요?
+Jonna|B2|Då tror algoritmen att inlägget är populärt och visar det för fler. Varje morgon klockan halv sju kom en lista i en chattkanal – dagens mål – och den som skötte kanalen skrev aldrig ett ord för mycket.|그럼 알고리즘이 게시물이 인기 있다고 믿고 더 많은 사람한테 보여 줘요. 매일 아침 6시 반에 채팅 채널에 목록이 왔어요. 오늘의 표적. 그 채널을 관리하는 사람은 쓸데없는 말은 한 마디도 안 썼어요.
+Viktor|B1|Jag har en lista här, trettiofem konton. Kan du markera vilka som är era?|여기 목록이 있어요. 계정 서른다섯 개. 어느 게 당신네 건지 표시해 줄 수 있어요?
+Jonna|A2|Med pennan? Okej. Ge mig en minut.|연필로요? 좋아요. 1분만요.
+Viktor|A1|Ingen brådska.|서두를 거 없어요.
+Jonna|B1|Den här, ja. Den här också, hon skriver alltid om vården. Och den här har jag själv gillat hundratals gånger.|이건 맞아요. 이것도요, 이 여자는 늘 의료 얘기만 써요. 그리고 이건 제가 직접 수백 번 좋아요 눌렀어요.
+Viktor|A2|Och de sista?|마지막 것들은요?
+Jonna|B2|De där fem… nej. De är inte våra. Våra skulle aldrig… alltså, de skriver för bra. Långa meningar, källor, länkar till riktiga tidningar – så skriver någon som faktiskt bryr sig om att bli trodd.|그 다섯 개는… 아니에요. 우리 거 아니에요. 우리 건 절대… 그러니까, 글을 너무 잘 써요. 긴 문장에, 출처에, 진짜 신문 링크까지. 그건 정말로 믿어 주길 바라는 사람이 쓰는 방식이에요.
+Viktor|B1|Du har rätt. Amira valde dem ur helt andra nätverk, och jag satte in dem för att testa dig. Det ska jag säga rakt ut.|맞아요. 아미라가 전혀 다른 네트워크에서 골랐고, 당신을 시험하려고 제가 섞어 넣었어요. 그건 솔직히 말해야죠.
+Jonna|B2|Du testade mig? Jag borde bli arg, men egentligen är det skönt – då vet ni åtminstone att jag inte hittar på.|저를 시험했다고요? 화를 내야 맞는데, 사실은 다행이에요. 그럼 적어도 제가 지어내지 않는다는 건 아시겠네요.
+Viktor|B1|En sak till. Får vi använda det du har berättat i dag, och i så fall hur?|하나 더요. 오늘 말해 준 걸 써도 될까요? 된다면 어떻게요?
+Jonna|B2|Siffrorna och mönstret, ja, för det kan ni ha hittat själva. Men inte manualens namn och inte morgonlistan, för det är bara en handfull som har sett dem.|숫자랑 패턴은 돼요. 그건 당신들이 스스로 찾았을 수도 있으니까요. 하지만 매뉴얼 이름이랑 아침 목록은 안 돼요. 그건 몇 사람밖에 못 봤어요.
+Viktor|A2|Det lovar jag. Hur hittar jag dig nästa gång?|약속해요. 다음엔 어떻게 연락하죠?
+Jonna|B1|Via brevlådan, som förra gången. Och en sak till: de har annonserat efter någon som ska ersätta mig. ”Kreatör med egen kanal, van vid kameran.”|제보함으로요, 지난번처럼. 그리고 하나 더요. 저를 대신할 사람을 뽑는 공고를 냈어요. "자기 채널이 있고 카메라에 익숙한 크리에이터."
+# 장면 4 — 오후 5시, 소피아의 유리방, 편집회의 (화이트보드 사진 출력본, 프레드릭의 선거 보도 일정표, 8월 26일에 빨간 동그라미)
+Sofia|A2|Viktor, hur gick det i Haga?|빅토르, 하가는 어땠어?
+Viktor|B1|J kände igen sina egna konton och pekade ut alla fem som inte hörde dit. Mer än så behöver vi inte veta om J för att gå vidare.|J는 자기 계정들을 알아봤고, 거기 속하지 않는 다섯 개를 전부 골라냈어. 앞으로 나아가는 데 J에 대해 그 이상 알 필요는 없어.
+Fredrik|B2|Då har vi en källa som håller, fyrahundra konton och en metod som Amira kan försvara. Jag tycker att vi ska publicera före förtidsröstningen, helst redan i juli, innan alla andra har hunnit ikapp.|그럼 믿을 만한 취재원에, 계정 사백 개에, 아미라가 방어할 수 있는 방법론까지 있네. 사전투표 전에 내보내야 한다고 봐. 될 수 있으면 7월 안에, 다른 데가 다 따라잡기 전에.
+Noah|A2|När börjar förtidsröstningen?|사전투표가 언제 시작해요?
+Fredrik|B1|Den tjugosjätte augusti. Efter det har en stor del av väljarna redan röstat, och då kommer vår granskning för sent för dem.|8월 26일. 그 뒤엔 유권자 상당수가 이미 투표를 끝내. 그럼 그 사람들한텐 우리 취재가 너무 늦게 가는 거지.
+Sofia|B2|Jag förstår poängen, Fredrik, men ett datum i kalendern gör inte texten sannare. Vi har ett mönster och en källa som inte får citeras, men ännu ingenting som visar vem som sitter vid ratten.|무슨 말인지 알아, 프레드릭. 하지만 달력의 날짜가 기사를 더 사실로 만들어 주진 않아. 우리한텐 패턴 하나랑 인용할 수 없는 취재원 하나가 있을 뿐, 누가 운전대를 잡고 있는지 보여 주는 건 아직 아무것도 없어.
+Fredrik|B1|Valrörelser går fort, Sofia. Om vi väntar till slutet av augusti kanske någon annan publicerar en sämre version först.|선거판은 빨리 돌아가, 소피아. 8월 말까지 기다리면 다른 데서 더 허술한 버전을 먼저 낼 수도 있어.
+Sofia|B2|Hellre en vecka för sent än en dag för tidigt. Om vi har fel om ett parti mitt i en valrörelse är det inte bara vår trovärdighet som tar skada, utan själva valet.|하루 일찍 내느니 일주일 늦는 게 나아. 선거 한가운데서 한 정당에 대해 틀리면, 다치는 건 우리 신뢰만이 아니라 선거 그 자체야.
+Amira|A1|Får jag visa en sak?|하나 보여 줘도 돼?
+Sofia|A1|Visa.|보여 줘.
+Amira|B1|När jag körde samma analys på hela materialet dök det upp ett annat kluster. Mycket mindre, sextio konton, och det ligger på andra sidan.|전체 자료에 같은 분석을 돌렸더니 다른 군집이 하나 튀어나왔어. 훨씬 작아. 계정 예순 개. 그리고 반대편이야.
+Viktor|A2|Andra sidan? Vilket parti?|반대편? 어느 당?
+Amira|B2|De hyllar Arbetarpartiet och attackerar både Samlingspartiet och Hemlandspartiet. Alla skapades mellan mars och april i år, och de låtsas vara sjuksköterskor, busschaufförer och lärare – med bilder från samma bildbyrå.|아르베타르파르티에트를 띄우고 삼링스파르티에트랑 헴란드스파르티에트를 둘 다 공격해. 전부 올해 3월에서 4월 사이에 만들어졌고, 간호사, 버스 기사, 교사인 척해. 사진은 다 같은 스톡 사진 업체 거고.
+Noah|B1|Jag kan köra bildsökningen på dem också. I kväll, om ni vill.|그 계정들도 이미지 검색 돌릴 수 있어요. 원하시면 오늘 밤에요.
+Fredrik|B2|Det gör historien större, inte svagare. Men om vi ställer sextio konton bredvid fyrahundra riskerar vi att läsarna tror att båda sidor är lika skyldiga, och det är de ju inte.|그럼 기사가 약해지는 게 아니라 커지는 거네. 그런데 계정 예순 개를 사백 개 옆에 나란히 놓으면, 독자들이 양쪽 다 똑같이 잘못했다고 생각할 위험이 있어. 실제론 그렇지 않잖아.
+Sofia|B2|Om vi bara granskar ena sidan blir vi själva en del av en kampanj. Det betyder inte att vi låtsas att de är lika stora – vi granskar båda lika noggrant och låter siffrorna visa skillnaden.|한쪽만 들여다보면 우리 자신이 캠페인의 일부가 돼. 둘이 똑같이 크다고 우기자는 게 아니야. 둘 다 똑같이 꼼꼼하게 들여다보고, 차이는 숫자가 보여 주게 하자는 거지.
+Fredrik|A2|Okej. Du är chefen.|알았어. 국장은 너니까.
+Viktor|B1|Vi vet inte ens vem som står bakom de sextio. Det kan vara ett parti, en förening eller någon som har köpt en tjänst.|그 예순 개 뒤에 누가 있는지도 아직 몰라. 정당일 수도, 단체일 수도, 서비스를 사들인 누군가일 수도 있어.
+Amira|B1|Och samma frågor gäller där: samma tider, samma mallar, samma bildbyrå. Jag använder exakt samma filter som på de fyrahundra.|거기도 같은 질문을 던지면 돼. 같은 시간대, 같은 틀, 같은 사진 업체. 사백 개에 쓴 거랑 똑같은 필터를 쓸 거야.
+Noah|B1|En sak till. Ett av Hemlandspartiets konton hette något annat fram till mars, och det gamla namnet är för- och efternamnet på en tjugotreåring på deras kansli. Ska vi skriva hans namn?|하나 더요. 헴란드스파르티에트 계정 하나가 3월까지는 다른 이름이었는데, 옛날 이름이 그 당 사무처에서 일하는 스물세 살짜리의 이름이랑 성이에요. 그 사람 이름을 써야 할까요?
+Sofia|B2|Nej. Vi hänger inte ut en tjugotreåring som gör det han blir tillsagd. Den som namnges måste vara den som bestämmer, och dessutom är ett gammalt kontonamn ingen identitet – vem som helst kan ha tagit det.|안 돼. 시키는 대로 하는 스물세 살짜리를 공개적으로 망신 주진 않아. 이름이 나가야 할 사람은 결정하는 사람이야. 게다가 옛날 계정 이름은 신원이 아니야. 누구든 그 이름을 갖다 쓸 수 있어.
+Fredrik|B2|Och juridiskt är det samma sak: skriver vi att en namngiven person driver trollkonton utan att kunna styrka det, är det förtal, oavsett hur många prickar Amira har på tavlan.|법적으로도 마찬가지야. 이름을 밝힌 사람이 트롤 계정을 운영한다고 입증도 못 하면서 쓰면, 아미라가 칠판에 점을 몇 개 찍어 놨든 명예훼손이야.
+Viktor|B2|Då behöver vi något som binder kontona till dem som fattar besluten – ett dokument, en betalning eller någon som har sett det med egna ögon och kan visa det.|그럼 계정들을 결정하는 사람들한테 묶어 줄 게 필요해. 문서든, 돈이든, 아니면 그걸 직접 봤고 보여 줄 수 있는 누군가든.
+Sofia|B1|Och J kan inte vara den personen. J har redan gett oss mer än vi kan begära.|그리고 J가 그 사람이 될 순 없어. J는 이미 우리가 바랄 수 있는 것보다 더 많이 줬어.
+Fredrik|A2|Vad gör vi till dess?|그때까진 뭘 해?
+Sofia|B1|Amira tar de sextio med exakt samma metod, Noah bilderna och Viktor sin källa. Inget datum förrän vi kan visa vem som styr.|아미라는 똑같은 방법으로 예순 개를 맡고, 노아는 이미지, 빅토르는 자기 취재원. 누가 조종하는지 보여 줄 수 있을 때까진 날짜 없어.
+Fredrik|B1|Då håller jag en plats i början av september, utan rubrik. Blir ni klara tidigare flyttar jag fram den.|그럼 9월 초에 자리 하나 잡아 둘게, 제목 없이. 더 일찍 끝나면 당겨 줄게.
+# 장면 5 — 밤 11시 20분, 툼바, 아미라의 아파트 (노트북 속 수집 프로그램 알림, 소파 위 엘린의 가방, 체인이 달린 현관문, 스피커폰)
+Amira|A1|Viktor. Är du vaken?|빅토르. 깨어 있어?
+Viktor|A2|Nu är jag det. Vad har hänt?|이제 깼어. 무슨 일이야?
+Amira|B1|Ett av de fyrahundra kontona publicerade något klockan 22.51 och raderade det efter trettioåtta sekunder. Mitt program kollar kontona var trettionde sekund, så jag hann få en kopia.|사백 개 중 계정 하나가 10시 51분에 뭘 올렸다가 38초 만에 지웠어. 내 프로그램이 30초마다 계정들을 확인하니까, 사본을 건졌어.
+Viktor|A1|Vad stod det?|뭐라고 쓰여 있었어?
+Amira|A2|Överst stod det ”TEST”. Sedan kom en lista med namn.|맨 위에 "TEST"라고 돼 있었어. 그다음에 이름 목록.
+Elin|B1|Våra namn, Viktor. Amira ringde mig först eftersom jag bor närmast, och jag tog en taxi direkt.|우리 이름이요, 빅토르. 제가 제일 가까이 살아서 아미라가 저한테 먼저 전화했어요. 바로 택시 탔고요.
+Viktor|A1|Läs upp dem.|읽어 줘.
+Amira|B1|Viktor Holm, Amira Saleh, Elin Sjöqvist, Henrik Lindgren, Noah Berglund och längst ner ”ansvarig utgivare Sofia Brandt”. Under det står det: ”Fråga dem vem som betalar dem.”|빅토르 홀름, 아미라 살레, 엘린 셰크비스트, 헨릭 린드그렌, 노아 베리룬드. 맨 아래엔 "발행책임자 소피아 브란트". 그 밑에 "누가 저들에게 돈을 대는지 물어보라."
+Viktor|B1|Det är obehagligt, men de flesta av namnen står ju under varje artikel vi publicerar.|기분 나쁘지만, 이름은 대부분 우리가 내는 기사마다 밑에 달려 있잖아.
+Amira|B2|Inte allt. Efter mitt namn står det ”Angered” inom parentes. Det har jag aldrig skrivit offentligt, och den som vet var mamma bor vet också var man ska trycka.|전부는 아니야. 내 이름 뒤에 괄호로 "앙에레드"라고 적혀 있어. 그건 공개적으로 써 본 적이 없어. 엄마가 어디 사는지 아는 사람은 어딜 누르면 되는지도 아는 거야.
+Viktor|A2|Och längst ner? Något mer?|그리고 맨 아래엔? 더 있어?
+Amira|B1|En rad som de glömde att radera: ”PUBL. I MORGON 07:00”. De har våra namn. Och en tid. Sju i morgon bitti.|지우는 걸 깜빡한 한 줄. "게시: 내일 07:00." 우리 이름을 갖고 있어. 시간도. 내일 아침 7시.
+Elin|A2|Vart går du, Amira?|어디 가요, 아미라?
+Amira|A1|Kedjan. På dörren.|체인. 현관에.
+Elin|A2|Du har aldrig satt på den förut.|전엔 한 번도 안 걸었잖아요.
+Amira|B1|Inte en enda gång sedan jag flyttade hit. Jag har alltid tyckt att kedjor är för folk som tittar på för mycket krim-tv.|여기 이사 온 뒤로 한 번도. 체인은 범죄 드라마를 너무 많이 보는 사람들이나 거는 거라고 늘 생각했거든.
+Sofia|B2|Jag är med, Viktor kopplade in mig och jag har hört allt. Ingen svarar på någonting i natt. Amira sparar kopian med tidsstämpel, och före sju ringer jag polisen och vår säkerhetschef – inte för att en lista med namn är ett brott, utan för att någon har tagit reda på var din mamma bor.|나도 들어왔어. 빅토르가 연결해 줘서 다 들었어. 오늘 밤엔 아무도 아무것에도 대응하지 마. 아미라는 사본을 시간 기록과 함께 저장해 두고, 7시 전에 내가 경찰이랑 우리 보안 책임자한테 전화할게. 이름 목록이 범죄라서가 아니라, 누군가 너희 엄마가 어디 사는지 알아냈으니까.
+Viktor|B2|Vi kan räkna deras konton hela sommaren, Sofia. Men utifrån ser vi bara vad de gör, aldrig vem som bestämmer – och J kan inte ge oss mer utan att bränna sig själv.|여름 내내 그쪽 계정을 셀 수도 있어, 소피아. 하지만 밖에서는 그들이 뭘 하는지만 보여. 누가 결정하는지는 절대 안 보이고. 그리고 J는 자기를 태워 버리지 않고는 더 줄 수가 없어.
+Sofia|A1|Vi behöver någon där inne.|안에 사람이 필요해.
+Elin|A2|Jag har redan ett namn. Moa.|이름은 벌써 정했어요. 모아.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Hur många konton?** | 계정이 몇 개야? | *hur många* + 복수 명사 = 몇 개(셀 수 있는 것). 셀 수 없는 것에는 *hur mycket*을 쓴다 — 빅토르는 게시물 양을 물을 때 *Hur mycket?*이라고 한다. *konto*(계정)는 ett-명사라 복수 미정형이 *konton* |
+| `A2` | **De postar alltid klockan sju på morgonen.** | 그들은 늘 아침 7시에 올린다. | *posta*(게시하다)는 영어에서 온 1군 동사(*postar – postade – postat*). 빈도 부사 *alltid*는 주절에서 동사 바로 뒤에 온다(*De postar alltid…*). *på morgonen* = 아침에(반복되는 습관), *i morse* = 오늘 아침에(한 번) |
+| `B1` | **Om tre konton skriver samma sak inom en minut är det knappast en slump.** | 계정 세 개가 1분 안에 같은 말을 쓰면, 그건 우연이라고 보기 어렵다. | *om*-절이 앞에 오면 주절은 동사부터 시작한다(*…är det*) — V2 어순. *inom en minut* = 1분 안에. *knappast* = 거의 ~ 않다(*inte*보다 부드럽고 신중한 부정) |
+| `B1` | **Memen är bara förpackningen. Innehållet är hat.** | 밈은 포장일 뿐이에요. 내용물은 혐오고요. | *mem*(밈)은 en-명사: *en mem – memen – memer*. *förpackning*(포장)과 *innehåll*(내용물)은 짝으로 쓰이는 단어. *hat*(증오, 혐오)은 관사 없이 추상명사로 쓰였다 |
+| `B2` | **Det räcker inte att visa ett mönster; vi måste kunna bevisa vem som styr det.** | 패턴을 보여 주는 것만으론 부족하다. 누가 그걸 조종하는지 증명할 수 있어야 한다. | *det räcker inte att* + 부정사 = ~하는 것으로는 충분하지 않다(*det*은 형식 주어). *måste kunna* = ~할 수 있어야 한다 — 조동사 두 개가 겹치면 뒤의 것은 부정사형. 간접의문문 주어 *vem* 뒤에는 *som*(*vem som styr*) |
+| `B2` | **Om vi bara granskar ena sidan blir vi själva en del av en kampanj.** | 한쪽만 들여다보면 우리 자신이 캠페인의 일부가 된다. | *granska* = 꼼꼼히 조사하다, 검증하다 — 탐사보도의 핵심 동사(*granskande journalistik*). *ena sidan* = 한쪽(*den ena sidan*에서 관사가 빠진 고정 표현). *själva* = 우리 스스로(주어 *vi*에 맞춘 복수형) |
+| 관용구 | **hänga ut någon** | 누군가를 공개적으로 망신 주다, 신상을 털다 | 직역은 "누군가를 밖에 내걸다". 이름·얼굴·사생활을 드러내 공개적으로 창피를 주거나 공격받게 만드는 것. 소피아의 *Vi hänger inte ut en tjugotreåring som gör det han blir tillsagd.*(시키는 대로 하는 스물세 살짜리를 망신 주진 않아)처럼 언론윤리를 말할 때 자주 쓰고, 트롤 계정이 기자 명단을 올리는 것도 *hänga ut journalister*라고 한다 |
+| 미디어·정치 | **samordnat inautentiskt beteende** | 조직적 비진정 행위 | 영어 *coordinated inauthentic behaviour*(CIB)의 번역. 의견의 진위가 아니라 *행동 방식*을 문제 삼는 개념이다 — 같은 곳에서 조종되는 계정들이 서로 무관한 개인인 척 움직이는 것. *samordna* = 조율하다, *inautentisk* = 진짜가 아닌 |
+
+## 저널리즘·법 메모
+익명 계정 네트워크를 보도할 때 가장 위험한 단어는 "누가"다. 아미라의 분석은 게시 시각·문체·이미지 재사용·동시 공유라는 네 가지 *행동* 신호로 계정들을 묶지만, 패턴은 의심일 뿐 운영자를 증명하지 않는다. 그래서 팀은 두 겹으로 검증한다 — 무작위 표본의 역이미지 검색, 그리고 취재원이 모르는 미끼 계정을 섞어 진술을 시험하는 것(시험한 뒤에는 취재원에게 그 사실을 솔직히 알린다). 오탐을 걸러 내려고 기준을 바꿨다면 바꾼 이유와 모든 버전을 기록해 둬야 나중에 "결론에 맞춰 기준을 바꿨다"는 공격에 답할 수 있다. 실명 보도는 *förtal*(명예훼손) 위험이 크다: 스웨덴 형법상 누군가를 비난받을 만한 사람으로 묘사하는 정보를 퍼뜨리면, 그것이 사실이고 공개할 정당한 이유가 있음을 증명하지 못하는 한 처벌될 수 있다. 언론윤리 규칙(*publicitetsregler*)도 이름 공개는 공익이 명백할 때만 하라고 요구한다 — 그래서 소피아는 지시받아 계정을 돌린 말단 직원이 아니라 지시한 구조와 결정권자를 겨냥하라고 한다. 같은 방법을 정치 성향이 반대인 군집에도 똑같이 적용하는 것은 "균형"을 위한 장식이 아니라, 방법이 특정 진영을 겨냥한 것이 아님을 증명하는 장치다.
+
+## 문화·현안 메모
+- **하가 공원(Hagaparken)과 에코템플레트** — 스톡홀름 북쪽 솔나의 브룬스비켄 만을 끼고 있는 18세기 영국식 풍경 공원. 구스타브 3세 시대에 지어진 정자 *Ekotemplet*(메아리 신전), 구리로 만든 천막 모양 건물 *Koppartälten*, 왕세녀 가족이 사는 하가 궁이 있다. 산책과 조깅을 하는 사람이 많고 시야가 탁 트여 있어, 누가 따라오는지 보기 쉬운 장소다.
+- **사전투표(förtidsröstning)** — 스웨덴 총선은 9월 둘째 일요일에 치러지고, 사전투표는 선거일 18일 전부터 전국의 사전투표소(도서관·쇼핑센터 등)에서 할 수 있다. 2026년 9월 13일 선거라면 8월 26일부터다. 최근 선거에서는 유권자의 절반 이상이 사전투표를 했기 때문에, 언론이 "선거 직전" 보도의 시점을 고민할 때 사전투표 시작일이 실질적인 마감선이 된다.
+- **NPC 밈** — 게임의 *non-player character*(사람이 조종하지 않는 등장인물)에서 온 인터넷 밈. 회색 무표정 얼굴로 상대를 "자기 생각 없이 정해진 대사만 반복하는 사람"으로 그린다. 반박하면 할수록 "역시 NPC"라는 반응이 돌아오게 만드는 구조라, 기자·정치인을 공격하는 데 자주 쓰인다.
+- ⚠️ Hemlandspartiet·Samlingspartiet·Arbetarpartiet·Gröna Framtid, 계정 네트워크와 그 숫자, 매뉴얼 "Röster – riktlinjer", 반대 진영의 60개 군집은 모두 허구다. 실존 정당·정치인·캠페인의 행위나 실제 선거 결과를 묘사하지 않는다. 사전투표 제도, 명예훼손 규정, 언론윤리 규칙은 실제 제도를 배경으로만 썼다.
+
+## 다음 화 예고
+> 1년 치 인스타그램, 가짜 고향, 정치엔 관심 없는 스물세 살. 엘린이 "Moa Lind"가 되는 동안 라르스는 금지 목록을 내밀고, 화면 너머의 테오는 함정 질문을 던진다 — "Vad tycker du om media?"
