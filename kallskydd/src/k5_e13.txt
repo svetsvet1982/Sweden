@@ -8,7 +8,7 @@
 # 장면 1 — 오전 8시 반, Källaren 회의실 (벽 화면의 기사 원고와 오른쪽 여백의 출처 칸, 소피아의 금고에서 꺼낸 아미라의 손글씨 사본, Kanal Sverige가 밤사이 보낸 3월 생방송 원본 파일)
 Sofia|B1|Klockan är halv nio, och om tretton och en halv timme trycker vi på knappen. Så vi läser texten en sista gång, uppifrån.|8시 반이야. 13시간 반 뒤에 우린 버튼을 눌러. 그러니까 기사를 마지막으로 한 번, 위에서부터 읽자.
 Noah|A2|Hela texten? Den är fyrtiotvå tusen tecken lång.|전부요? 4만 2천 자나 되는데요.
-Sofia|A2|Hela. Och marginalen också.|전부. 여백까지.
+Sofia|A1|Hela. Och marginalen också.|전부. 여백까지.
 Amira|B1|Jag har lagt in en kolumn till höger. Bredvid varje mening står källan: data, loggbok, foto, dokument eller J.|오른쪽에 칸을 하나 넣었어. 문장마다 옆에 출처가 적혀 있어. 데이터, 업무 일지, 사진, 문서, 아니면 J.
 Sofia|A2|Varje mening ska ha en källa i marginalen. Varenda en.|모든 문장 여백에 출처가 있어야 해. 한 문장도 빠짐없이.
 Fredrik|B2|Fem delar, alltså: kontona, fabriken, filmen, de två LVU-kampanjerna på samma server och Kvists plånbok, med ljudfilen sist. Men ingressen, Sofia? Den sammanfattar ju bara det som kommer längre ner.|그러니까 다섯 꼭지네. 계정, 공장, 영상, 같은 서버를 쓴 LVU 캠페인 두 개, 크비스트의 지갑. 음성 파일은 맨 끝. 근데 리드도, 소피아? 그건 그냥 아래 내용 요약이잖아.
@@ -34,10 +34,10 @@ Sofia|B2|Då bestämmer jag så här: båda nätverken står i huvudtexten, gran
 Fredrik|A1|Okej. Rimligt.|좋아. 합리적이네.
 Elin|B1|En sak till. Ekwall satt i glasrummet den trettioförsta augusti. Jag såg honom med egna ögon.|하나 더요. 8월 31일에 에크발이 유리방에 앉아 있었어요. 제 눈으로 봤어요.
 Sofia|B2|Du såg honom dricka svart kaffe bakom en trasig persienn. Vad han beställde hörde du inte, och tavlan nämner honom inte. Att sitta i ett rum är ingen nyhet.|넌 그 사람이 고장 난 블라인드 뒤에서 블랙커피 마시는 걸 봤지. 뭘 주문했는지는 못 들었고, 보드에도 그 사람 이름은 없어. 방에 앉아 있었다는 건 뉴스가 아니야.
-Viktor|B1|Det var precis det som han räknade med.|그게 바로 그 사람이 노린 거예요.
+Viktor|A2|Precis. Det räknade han med.|바로 그거예요. 그 사람은 그걸 노린 거예요.
 Elin|A2|”Ingen ska kunna bevisa någonting.” Det var det enda jag läste på hans läppar.|"아무도 아무것도 증명할 수 없어야 한다." 그 사람 입술에서 읽은 건 그 한 문장뿐이었어요.
 Sofia|B2|Då står han inte i texten. Inte för att vi är rädda för honom, utan för att vi inte kan visa det. Det är en skillnad som jag tänker hålla fast vid.|그럼 그 사람은 기사에 안 들어가. 그 사람이 무서워서가 아니라, 증명할 수 없어서야. 난 그 차이를 끝까지 붙들 거야.
-Lars|B1|Och ingenting från Kommundata-filerna. Inte en rad, inte ett mejl.|그리고 Kommundata 파일에서 나온 건 아무것도 안 돼요. 한 줄도, 메일 한 통도.
+Lars|A1|Och inget från Kommundata. Inte en rad.|그리고 Kommundata 건은 아무것도 안 돼요. 한 줄도.
 Fredrik|A2|Valet är på söndag. Varför väntar vi till tio i kväll? Lunch ger fler läsare.|선거는 일요일이야. 왜 밤 10시까지 기다려? 점심에 내면 독자가 더 많을 텐데.
 Sofia|B1|Vi ger partiet tjugofyra timmar att svara innan vi publicerar. Frågorna gick klockan tio i går kväll.|우린 보도 전에 당에 답변할 시간 24시간을 줘. 질문은 어젯밤 10시에 나갔어.
 Lars|B2|Den som kritiseras ska ha en verklig chans att svara, inte en formell. Tjugofyra timmar fem dagar före ett val är redan snålt – kortare än så vore svårt att försvara.|비판받는 쪽은 형식적인 게 아니라 실제로 답할 기회를 가져야 해요. 선거 5일 전에 24시간이면 이미 빠듯해요. 그보다 짧으면 정당화하기 어렵죠.
@@ -87,25 +87,25 @@ Sofia|B2|I ditt hus granskar vi ett parti som har drivit fyrahundra anonyma kont
 Lennart|B2|Det respekterar jag. Men fem dagar före ett val, Sofia? Är det klokt? Kvällsbladet kommer att skriva att Stockholmsposten har valt sida, och då spelar det ingen roll vad som står i texten.|그건 존중해. 근데 선거 5일 전이야, 소피아. 현명한 일일까? Kvällsbladet은 Stockholmsposten이 편을 골랐다고 쓸 거고, 그럼 기사에 뭐가 쓰였든 상관없어지지.
 Sofia|B2|Om vi tiger till måndag har vi också valt sida, bara tystare. På fredag ska en falsk ljudfil släppas, och då är det för sent att berätta att den kommer.|저희가 월요일까지 입 다물면 그것도 편을 고른 거예요. 조용히 골랐을 뿐이죠. 금요일에 가짜 음성 파일이 풀릴 예정인데, 그때 가서 그게 온다고 말하면 늦어요.
 Lennart|A2|En ljudfil? Med vem?|음성 파일? 누구 목소리로?
-Sofia|A2|Det läser du klockan tio.|10시에 읽으세요.
+Sofia|A1|Det läser du klockan tio.|10시에 읽으세요.
 Lennart|B1|Du gör det svårt för mig. Jag har en styrelse som sammanträder på torsdag.|나를 곤란하게 하는군. 목요일에 이사회가 열리는데.
 Sofia|B1|Då har styrelsen en publicerad artikel att diskutera. Det är bättre än en opublicerad.|그럼 이사회는 보도된 기사를 놓고 논의하겠네요. 보도 안 된 기사보다 나아요.
 Lennart|B2|Jag lägger mig inte i, Sofia, det vet du. Men har du verkligen tänkt på annonsörerna?|난 간섭 안 해, 소피아, 알잖아. 그래도 광고주들 생각은 정말 해 봤나?
-Sofia|A2|Vilka annonsörer?|어느 광고주요?
+Sofia|A1|Vilka annonsörer?|어느 광고주요?
 Lennart|B2|Två av våra fem största ringde efter lunch. De är inte politiska, de vill bara inte synas bredvid något som uppfattas som en valbomb. Och det är ingen hemlighet att vi behöver varenda krona just nu.|우리 5대 광고주 중 두 곳이 점심 지나고 전화했어. 정치적인 사람들이 아니야. 그냥 '선거 폭탄'으로 보이는 것 옆에 자기들 광고가 실리는 게 싫은 거지. 그리고 지금 우리가 한 푼이 아쉬운 건 비밀도 아니잖아.
 Sofia|B2|Då kan annonsavdelningen flytta deras annonser till en annan sida. Det är ett affärsbeslut, och det fattar ni. Vad som står i tidningen är ett publicistiskt beslut, och det fattar jag.|그럼 광고부가 그 광고들을 다른 면으로 옮기면 돼요. 그건 사업 결정이고, 그건 당신들이 내리죠. 신문에 뭐가 실리느냐는 편집 결정이고, 그건 제가 내려요.
 Lennart|B1|Ingen pratar om att stoppa något. Jag vill bara läsa den innan, som en vän. Det är väl ingen censur?|아무도 뭘 막자는 얘기 안 해. 그냥 미리 읽어 보고 싶을 뿐이야, 친구로서. 그게 검열은 아니잖아?
 Sofia|B2|Nej, censur är när staten gör det, och det förbjuder grundlagen. Men ingen utanför redaktionen läser en text före publicering – inte partiet, inte annonsörerna och inte du. Det gäller just för att du är vän.|아니요. 검열은 국가가 할 때 쓰는 말이고, 그건 헌법이 금지해요. 하지만 편집국 밖의 누구도 보도 전에 기사를 읽지 않아요. 당도, 광고주도, 당신도요. 친구이시니까 더더욱 그래요.
 Lennart|B2|Du talar som om jag vore en fiende. Jag har försvarat den här redaktionen på varje styrelsemöte sedan jag kom.|꼭 내가 적이라도 되는 것처럼 말하네. 난 내가 온 뒤로 이사회 때마다 이 편집국을 감쌌어.
 Sofia|B2|Det vet jag, och därför säger jag det rakt. Enligt tryckfrihetsförordningen är det jag som avgör vad som publiceras. Inte styrelsen.|알아요. 그래서 솔직하게 말씀드리는 거예요. 출판자유법에 따라 무엇을 실을지는 제가 결정합니다. 이사회가 아니라.
-Lennart|A2|Och om du har fel?|그리고 만약 네가 틀렸다면?
+Lennart|A1|Och om du har fel?|그리고 만약 네가 틀렸다면?
 Sofia|B1|Då är det jag som åtalas, inte du och inte styrelsen. Det står också i grundlagen.|그럼 기소되는 건 저예요. 당신도, 이사회도 아니고요. 그것도 헌법에 있어요.
 Lennart|B1|Du har alltid haft svar på allt. Gör som du vill, Sofia. Det gör du ju alltid.|넌 늘 모든 것에 답이 있었지. 하고 싶은 대로 해, 소피아. 넌 언제나 그랬으니까.
 Sofia|A1|Tack för samtalet.|전화 주셔서 감사합니다.
 Lars|A2|Jag stod i dörren. Förlåt. Jag hörde slutet.|문간에 서 있었어요. 미안해요. 끝부분을 들었어요.
-Sofia|B1|Sa jag något fel, Lars? Om censuren?|제가 틀린 말 했나요, 라르스? 검열에 대해서요?
+Sofia|A1|Fel, Lars? Om censuren?|틀렸나요, 라르스? 검열 얘기요?
 Lars|B2|Nej, men det är värt att hålla isär två saker. Censurförbudet hindrar myndigheter från att granska eller stoppa en skrift i förväg. Ägaren är ingen myndighet, så det är inte censurförbudet som skyddar dig mot honom.|아뇨. 다만 두 가지는 구분해 둘 만해요. 사전검열 금지는 국가기관이 출판물을 미리 검토하거나 막지 못하게 하는 거예요. 사주는 국가기관이 아니니까, 그 사람한테서 당신을 지키는 건 검열 금지가 아니에요.
-Sofia|A2|Vad skyddar mig då?|그럼 뭐가 절 지켜 주죠?
+Sofia|A1|Vad skyddar mig då?|그럼 뭐가 절 지켜 주죠?
 Lars|B2|Utgivarens befogenhet. Ingenting får föras in i tidningen mot din vilja, och ingen kan tvinga fram en förhandsgranskning. Styrelsen kan byta utgivare. Den kan inte stoppa en artikel.|발행책임자의 권한이요. 당신 뜻에 반해서는 아무것도 신문에 실릴 수 없고, 누구도 사전 검토를 강요할 수 없어요. 이사회는 발행책임자를 바꿀 수는 있어요. 기사를 막을 수는 없고요.
 Sofia|B1|Byta utgivare. Det var inte vad han sa, men det var vad han menade.|발행책임자를 바꾼다. 그 사람이 그렇게 말하진 않았지만, 그런 뜻이었죠.
 Lars|B2|Kanske. Men en utgivare som byts ut för att hon publicerade något sant blir en större nyhet än artikeln, och det vet han också. Stå på dig, Sofia.|그럴지도요. 하지만 사실을 보도했다는 이유로 교체된 발행책임자는 기사보다 더 큰 뉴스가 돼요. 그 사람도 알고요. 굽히지 마세요, 소피아.
@@ -132,13 +132,12 @@ Sofia|B1|Jag vet. Skydda oss i kväll i stället, så att ingenting går fel eft
 Fredrik|B1|Det är redan gjort. Två extra redigerare från sju, pushnotis klockan tio och ettan i morgondagens tidning.|이미 해 놨어. 7시부터 편집자 두 명 추가, 10시에 푸시 알림, 그리고 내일 신문 1면.
 Sofia|A2|Och faktarutan?|팩트 박스는?
 Fredrik|B1|”Så granskade vi” ligger bredvid huvudtexten: metoden, de fyrahundra, de sextio och varför vi inte namnger våra källor.|"우리는 이렇게 검증했다"가 본문 옆에 들어가. 방법, 400개, 60개, 그리고 우리가 왜 취재원을 밝히지 않는지.
-Sofia|B1|Bra. Och om Hemlandspartiet vill bemöta det?|좋아. Hemlandspartiet가 반론하겠다고 하면?
+Sofia|A2|Bra. Och om Hemlandspartiet vill bemöta det?|좋아. Hemlandspartiet가 반론하겠다고 하면?
 Fredrik|B1|Då har de plats för ett genmäle på torsdag, på samma sida som uppföljningen. Byrån också, om den vaknar.|그럼 목요일에 반론문 실을 자리가 있어. 후속 기사랑 같은 면에. 그 PR 회사도, 정신 차리면.
 Sofia|A2|Tack, Fredrik. Och tryckeriet?|고마워, 프레드릭. 인쇄소는?
 Fredrik|A2|Deadline kvart över elva. Första exemplaren tjugo i tolv.|마감 11시 15분. 첫 부수는 11시 40분.
 # 장면 5 — 밤 9시 58분 ~ 10시 5분, Källaren (게시 버튼, 아미라의 트래픽 그래프, 노아의 군집 모니터) → 밤 11시 40분경, 도시 북쪽 외곽의 인쇄소 (윤전기에서 막 나온 신문, 잉크 냄새, 소피아의 휴대폰)
-Noah|A1|Två minuter kvar.|2분 남았어요.
-Amira|B1|Inga nya svar från Hemlandspartiet sedan pressmeddelandet, och byrån har inte svarat alls. Marginalen är full.|보도자료 이후로 Hemlandspartiet에선 새 답이 없어. PR 회사는 아예 답이 없고. 여백은 꽉 찼어.
+Noah|A1|Två minuter. Inga nya svar.|2분 남았어요. 새 답변은 없어요.
 Viktor|A2|Klockan är tio.|10시예요.
 Sofia|A1|Publicera.|게시해.
 Noah|A1|Den är ute.|나갔어요.
