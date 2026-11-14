@@ -1,0 +1,189 @@
+@title 7부 11화 — Ekwall
+@subtitle (에크발)
+@meta 날짜|2027년 2월 28일 일요일 오후 2시 ~ 밤 10시 40분경 (보도 예정일 하루 전, 매각 서명 하루 전, 영하 6도)
+@meta 장소|Stockholmsposten 3층 라르스의 방 — 휴대폰은 문 옆 상자에, 출력한 기사 초안과 경고장 여섯 쪽 (오후 2시) → 유르고르덴, Ekwall 저택의 현관과 응접실 — 벽을 덮은 옛 장관들의 사진 (저녁 7시) → 같은 저택의 만찬실 — 열두 자리 식탁, 촛불, 맨 끝의 빈 의자 (저녁 7시 40분) → 저택 철문 밖, 헨릭의 볼보 (밤 10시 20분)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Lars** (라르스 몰린, 62, 법률고문) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Ekwall** (마그누스 에크발, 58, Nordhavn Strategi 창업자, 전 차관 — Klubben의 중심) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자 — 심장마비 뒤 첫 현장)
+@intro **지난 이야기** — 법무장관 메르타 엔은 녹음기 앞에서 "우리는 이미 취재원이 누군지 안다"고 말했고, 같은 날 취리히의 판결문 12쪽이 Stiftung Lindenhof의 수익자 이름을 내놓았다: Ekwall. 사흘 뒤 빅토르의 외국 첩보죄 예비수사는 종결됐지만, 수석검사 비크스트룀은 하드디스크의 출처를 법정에서 증언하라고 했고 빅토르는 거절했다. 그리고 다음 날 아침 우편함에 두꺼운 카드 한 장. "Middag på söndag. Bara vi två. /M"
+@intro 빅토르는 일요일을 직접 골랐다 — 3월 1일 전의 마지막 일요일. 목요일에 Ekwall과 Nordhavn에 질문 서른한 개를 서면으로 보냈고, 토요일 저녁 답이 왔다. Ekwall이 아니라 그의 변호사 클라에스 노를링에게서, 여섯 쪽.
+# 장면 1 — 오후 2시, Stockholmsposten 3층 라르스의 방 (휴대폰은 문 옆 상자에, 노란 형광펜, 마흔일곱 문장짜리 기사 초안)
+Lars|B1|Sex sidor från Ekwalls advokat, Claes Norling på Granholm Wester. Jag läser bara de meningar som faktiskt betyder något.|그란홀름 베스테르의 클라에스 노를링, 에크발 변호사가 보낸 여섯 쪽이에요. 정말로 의미 있는 문장만 읽을게요.
+Viktor|A1|Hur många är det?|몇 개야?
+Lars|A2|Tre. Resten är adjektiv.|세 개. 나머진 형용사고.
+Sofia|A2|Läs den första.|첫 번째 거 읽어 주세요.
+Lars|B2|”Varje påstående om att vår klient har medverkat till penningtvätt utgör grovt förtal, och vår klient förbehåller sig rätten att väcka enskilt åtal mot ansvarig utgivare.”|"저희 의뢰인이 자금세탁에 가담했다는 모든 주장은 중대한 명예훼손에 해당하며, 저희 의뢰인은 발행책임자를 상대로 사인 소추를 제기할 권리를 유보합니다."
+Sofia|B1|Mot mig, alltså. Inte mot Viktor och inte mot tidningen.|그러니까 저를 상대로요. 빅토르도, 신문사도 아니고.
+Lars|B2|Ja, så fungerar ensamansvaret. Om han går till domstol blir det sanningsbevisning: vi måste visa att det var försvarligt att publicera, och att det är sant eller att vi hade skälig grund att tro det.|네, 단독 책임이 그렇게 작동하죠. 그가 법원에 가면 진실 입증이 돼요. 보도하는 게 정당했다는 것, 그리고 그게 사실이거나 사실이라고 믿을 합리적 근거가 있었다는 걸 우리가 보여 줘야 해요.
+Viktor|A2|Vi kan visa det. Läs den andra.|보여 줄 수 있어. 두 번째 거 읽어.
+Lars|B2|”Vår klient har aldrig haft något bestämmande inflytande över Stiftung Lindenhof eller över Valvet Partners.”|"저희 의뢰인은 Stiftung Lindenhof나 Valvet Partners에 대해 지배적 영향력을 가진 적이 결코 없습니다."
+Sofia|B1|Lägg märke till vad som inte står där. Han förnekar inflytande, men inte att han är förmånstagare.|뭐가 안 적혀 있는지 보세요. 영향력은 부인하지만, 수익자라는 건 부인하지 않아요.
+Lars|B1|Precis. En advokat skriver aldrig ett ord för mycket. Och den tredje meningen handlar om dig, Viktor.|바로 그거예요. 변호사는 한 단어도 더 쓰지 않아요. 그리고 세 번째 문장은 네 얘기야, 빅토르.
+Viktor|A1|Läs.|읽어.
+Lars|B2|”Vi utgår från att reportern inte kommer att spela in middagen i hemlighet, eftersom det skulle strida mot god publicistisk sed.”|"저희는 기자가 만찬을 몰래 녹음하지 않으리라 전제합니다. 그것은 바람직한 언론 관행에 어긋나기 때문입니다."
+Viktor|B1|Är det olagligt att spela in ett samtal som jag själv sitter i?|내가 직접 참여하는 대화를 녹음하는 게 불법이야?
+Lars|B2|Nej. I Sverige får man spela in ett samtal som man själv deltar i. Olovlig avlyssning är när någon i hemlighet lyssnar på andras samtal. Men du har ingen anledning att gömma den.|아니. 스웨덴에선 자기가 참여하는 대화는 녹음해도 돼. 불법 도청은 남의 대화를 몰래 엿듣는 거고. 하지만 넌 그걸 숨길 이유가 없잖아.
+Viktor|B1|Den ska ligga mitt på bordet. Han ska se den hela kvällen.|녹음기는 식탁 한가운데 둘 거야. 저녁 내내 그가 보도록.
+Sofia|B1|Bra. Då kan ingen säga efteråt att han inte visste att det han sa kunde citeras.|좋아. 그럼 나중에 아무도 자기 말이 인용될 줄 몰랐다고 못 하지.
+Lars|B1|Då tar vi utkastet. Fyrtiosju meningar, och bredvid varje mening ett dokumentnummer.|그럼 초안 봅시다. 마흔일곱 문장, 문장마다 옆에 문서 번호.
+Viktor|A2|Ett är boken. Två är Ineses lista.|1번은 장부. 2번은 이네세의 목록.
+Lars|B1|Nio är domen från Zürich och fjorton är intervjun med ministern. Fyrtiofyra meningar har minst två källor.|9번은 취리히 판결문, 14번은 장관 인터뷰. 마흔네 문장은 근거가 최소 두 개예요.
+Sofia|A2|Och de tre andra?|나머지 셋은요?
+Lars|B2|Mening tolv: att Ekwall köpte vittnen inför Kungens frikännande 2022. Den vilar bara på Kungens ord. Varje mening måste kunna bära sin egen vikt i rätten. Den här klarar inte det. Stryk den.|열두 번째 문장. 에크발이 2022년 Kungen 무죄 판결을 앞두고 증인을 샀다는 것. Kungen의 말에만 기대고 있어. 모든 문장은 법정에서 스스로 무게를 견뎌야 해. 이건 못 견뎌. 지워.
+Viktor|A2|Han sa det till mig i Dubai. Jag tror honom.|두바이에서 나한테 그렇게 말했어. 난 그 말 믿어.
+Lars|B1|Det du tror är inget dokument. Mening tjugo, koranbrännaren och adressen: samma sak. Bara Kungen.|네가 믿는 건 문서가 아니야. 스무 번째 문장, 코란 소각자와 주소. 마찬가지야. Kungen 하나뿐.
+Viktor|A1|Stryk den.|지워.
+Sofia|B2|Och den sista är min: att Märta Ehn själv satt vid middagarna. Vi har två mejl från hennes kansli, inte från henne. Den stryker jag själv.|그리고 마지막 건 내 몫이야. 메르타 엔 본인이 그 만찬에 앉았다는 것. 우리한텐 장관 비서실에서 나간 메일 두 통이 있지, 장관 본인이 아니라. 그건 내가 직접 지울게.
+Lars|B2|Bra. Då återstår en sak innan du skriver under i natt, Sofia. ”Lycka till, Sofia. M.” Jag frågade dig i januari om du har jäv, och du svarade: inte i dag.|좋아요. 그럼 오늘 밤 서명하기 전에 하나 남았어요, 소피아. "행운을 빌어, 소피아. M." 1월에 이해충돌이 있냐고 물었을 때, 당신은 "오늘은 아니"라고 했죠.
+Sofia|B1|Jag har inget jäv. Inga pengar, inga tjänster, ingen relation. Men det finns en gammal historia som jag inte får berätta.|이해충돌은 없어요. 돈도, 대가도, 관계도 없어요. 하지만 제가 말해선 안 되는 옛날이야기가 하나 있어요.
+Viktor|A1|Får inte?|말하면 안 된다고?
+Sofia|B2|Den är inte min att ge bort. Jag skyddar inte honom, Viktor. Jag skyddar en regel som du själv har skyddat i åtta år.|그건 내가 마음대로 내줄 수 있는 게 아니야. 난 그 사람을 지키는 게 아니야, 빅토르. 너 자신이 8년 동안 지켜 온 규칙을 지키는 거야.
+Lars|B1|Då har du inte sagt något, och jag har inte hört något.|그럼 당신은 아무 말도 안 했고, 저는 아무것도 못 들은 거예요.
+Sofia|B2|Om han tar upp det i kväll, Viktor, så är det han som har släppt det – inte jag. Då får du veta allt. Gå nu. Henrik väntar i bilen.|오늘 밤 그가 그 얘길 꺼내면, 빅토르, 그걸 놓아 버린 건 그 사람이야. 내가 아니라. 그럼 너도 전부 알게 될 거야. 이제 가. 헨릭이 차에서 기다려.
+# 장면 2 — 저녁 7시, 유르고르덴의 Ekwall 저택, 현관과 응접실 (직접 문을 여는 집주인, 옛 장관들의 사진으로 덮인 벽, 99년산 보르도)
+Ekwall|B2|Kom in, Viktor, kom in. Du ser trött ut. Det där med Elias – jag har alltid tyckt att det var tragiskt.|들어와, 빅토르, 들어와. 피곤해 보이네. 엘리아스 일은 — 늘 비극이라고 생각했어.
+Viktor|A1|God kväll.|안녕하세요.
+Ekwall|B1|Ge mig rocken. Jag har gett personalen ledigt i kväll, så det är bara du och jag, precis som jag skrev.|외투 이리 주게. 오늘 밤은 직원들 다 쉬라고 했어. 그러니 자네랑 나뿐이야, 내가 쓴 그대로.
+Viktor|A2|Jag har en bandspelare med mig.|녹음기를 가져왔어요.
+Ekwall|B2|Det trodde jag väl. Claes var orolig att du skulle gömma den i fickan, men jag sa att du inte är den typen. Lägg den var du vill.|그럴 줄 알았지. 클라에스는 자네가 주머니에 숨길까 봐 걱정하던데, 난 자네가 그런 부류가 아니라고 했어. 아무 데나 두게.
+Viktor|A2|Den är på. Från och med nu.|켜져 있어요. 지금부터.
+Ekwall|B1|Utmärkt. Då vet vi båda var vi har varandra. Kom, jag vill visa dig väggen innan vi äter.|좋아. 그럼 우리 둘 다 서로 어디 서 있는지 아는 거군. 이리 와. 먹기 전에 벽을 보여 주고 싶어.
+Viktor|A1|Väggen?|벽이요?
+Ekwall|B2|Elva ministrar och tre statsministrar, och jag står bredvid allihop. Där är jag trettiotvå, med för mycket hår. Där är Märta, Almedalen 2007, innan någon visste vem hon var.|장관 열하나에 총리 셋, 그리고 난 그 모두 옆에 서 있지. 저건 서른두 살 때야, 머리숱이 너무 많지. 저건 메르타, 2007년 알메달렌. 아무도 그녀가 누군지 모르던 때.
+Viktor|A1|Och nu?|그럼 지금은요?
+Ekwall|B2|Nu ringer hon mig när hon inte kan sova. Hon ringde efter er intervju på Rosenbad, förresten, och grät nästan. Du var hård mot henne, Viktor. Det får du av mig gratis.|지금은 잠이 안 올 때 나한테 전화하지. 그건 그렇고, 로센바드에서 자네들 인터뷰 끝나고도 전화했어. 거의 울더군. 자네가 그녀한테 모질었어, 빅토르. 이건 공짜로 주는 거야.
+Viktor|A2|Varför ger du mig det?|그걸 왜 저한테 줘요?
+Ekwall|B2|Därför att du ändå skulle få veta det, och jag föredrar att folk får saker av mig. Och du säger ”du” i kväll, inget ”ni”. Antingen är du inte arg, eller så är du mycket argare än förra gången.|어차피 알게 될 테고, 난 사람들이 나한테서 뭔가를 받는 쪽이 좋거든. 그리고 오늘은 '두'라고 하는군. '니'가 아니라. 화가 안 났거나, 아니면 지난번보다 훨씬 더 화가 났거나.
+Viktor|A1|Vad tror du?|어떻게 생각하세요?
+Ekwall|B1|Jag tror att du har bestämt dig för att inte visa någonting. Det respekterar jag. Ett glas?|아무것도 드러내지 않기로 마음먹은 것 같군. 그건 존중하지. 한잔하겠나?
+Viktor|A2|Ett halvt. Jag kör inte, men jag arbetar.|반 잔만요. 운전은 안 하지만 일하는 중이라서요.
+Ekwall|B2|Bordeaux, nittionio. Ett bra år, både för vinet och för vissa journalister. Fråga Sofia, hon minns det.|보르도, 99년산이야. 좋은 해였지. 와인에도, 어떤 기자들에게도. 소피아한테 물어봐. 그녀는 기억할 거야.
+Viktor|A1|Skål.|건배.
+Ekwall|B1|Skål. Och hälsa Henrik att han kan köra in genom grinden. Han har stått där ute med motorn av sedan kvart i sju.|건배. 그리고 헨릭한테 전해. 철문 안으로 들어와도 된다고. 6시 45분부터 시동 끄고 밖에 서 있잖아.
+Viktor|A2|Han tycker om att vänta ute.|그 사람은 밖에서 기다리는 걸 좋아해요.
+Ekwall|B2|Det har han alltid gjort. Femton år på Rosenbad, och Hesa stod alltid längst bak vid dörren. Säg att jag frågade hur hjärtat mår.|늘 그랬지. 로센바드 15년 동안 헤사는 늘 맨 뒤 문가에 서 있었어. 심장은 좀 어떠냐고 내가 물었다고 전해 주게.
+Viktor|A2|Du vet mycket om oss.|우리에 대해 많이 아시네요.
+Ekwall|B2|Jag vet mycket om alla, Viktor. Det är inget hot, det är mitt yrke. Kunskap är som små presenter – man ger bort dem en i taget och ser vem som tackar.|난 모두에 대해 많이 알아, 빅토르. 협박이 아니야, 내 직업이지. 아는 건 작은 선물 같은 거야. 하나씩 나눠 주고 누가 고맙다고 하는지 보는 거지.
+Viktor|A1|Jag tackar inte.|전 고맙다고 안 해요.
+Ekwall|A2|Nej, det har jag märkt. Det är ovanligt.|그래, 눈치챘지. 드문 일이야.
+Viktor|B1|Du fick trettioen frågor i torsdags, och ditt svar kom från en advokat.|목요일에 질문 서른한 개를 받으셨죠. 그리고 답은 변호사한테서 왔고요.
+Ekwall|A2|Jag har bjudit dig hit för att prata. Inte för att fylla i ett formulär.|난 얘기하려고 자넬 불렀어. 설문지 채우려고가 아니라.
+Viktor|B1|Du får en chans att svara innan vi publicerar. Det är därför jag är här, och inte för något annat.|보도하기 전에 답할 기회를 드리는 거예요. 제가 여기 온 건 그것 때문이고, 다른 이유는 없어요.
+Ekwall|B1|Då ska du få dina svar, men vid bordet. Ingen har sagt något viktigt i en hall. Matsalen är längre än du tror.|그럼 대답은 주지, 식탁에서. 현관에서 중요한 말을 한 사람은 아무도 없어. 만찬실은 자네 생각보다 길어.
+Viktor|A1|Tolv stolar.|의자 열두 개.
+# 장면 3 — 저녁 7시 40분, 만찬실 (열두 자리 식탁의 짧은 쪽, 두 사람 사이의 녹음기, 촛대 두 개, 맨 끝의 빈 의자)
+Ekwall|B1|Du räknade dem direkt. Elva stolar för gäster, och en längst ner som ingen sätter sig på.|바로 세었군. 손님용 의자 열하나, 그리고 아무도 앉지 않는 맨 끝의 하나.
+Viktor|A1|Stol tolv.|12번 의자.
+Ekwall|B2|Jag brukar lyfta glaset mot den. Ministrar kommer och går, Viktor. Stolen står kvar. Sätt dig här vid kortänden, så slipper vi skrika.|난 저 의자를 향해 잔을 들곤 하지. 장관은 오고 가, 빅토르. 의자는 남지. 여기 짧은 쪽에 앉게. 그래야 소리 지를 필요가 없지.
+Viktor|B1|Jag lägger bandspelaren mellan oss. Den hör dig bättre än mig.|녹음기는 우리 사이에 둘게요. 제 목소리보다 당신 목소리를 더 잘 들을 거예요.
+Ekwall|A2|Bra. Jag talar alltid tydligt.|좋아. 난 늘 또박또박 말하지.
+Viktor|B1|Jag har några datum. Jag läser dem, och du svarar om du vill.|날짜가 몇 개 있어요. 제가 읽을 테니, 원하시면 답하세요.
+Ekwall|A1|Läs. Jag har gott minne.|읽게. 난 기억력이 좋아.
+Viktor|B1|Tredje februari 2026. Du, Han Weiguo och Anders Kjellgren vid det här bordet. En vecka senare beviljades statsgarantin.|2026년 2월 3일. 당신, 한웨이궈, 안데르스 셸그렌이 이 식탁에. 일주일 뒤 국가보증이 승인됐어요.
+Ekwall|B1|Lammkött, om jag minns rätt. Anders åt för mycket, som vanligt.|양고기였지, 내 기억이 맞다면. 안데르스는 늘 그렇듯 너무 많이 먹었어.
+Viktor|A2|Jag frågade inte om maten.|음식에 대해 물은 게 아니에요.
+Ekwall|B2|Nej, men det är ett svar. Ministrar äter middag, Viktor, och en vecka senare fattar de beslut. Så har det varit sedan Oxenstiernas dagar.|아니지, 하지만 그게 대답이야. 장관들은 저녁을 먹고, 일주일 뒤에 결정을 내려, 빅토르. 옥센셰르나 시절부터 그래 왔어.
+Viktor|B1|Fjortonde oktober 2026. Samma förmiddag fick Nordhavn ett mejl om Kungens utlämning, och svaret var: ”Stolen för M. står framme i kväll.”|2026년 10월 14일. 같은 날 오전 Nordhavn이 Kungen 인도에 관한 메일을 받았고, 답장은 이랬죠. "오늘 밤 M.의 의자를 내놓겠습니다."
+Ekwall|A2|Ha! Du har verkligen läst allt, du.|하! 정말 다 읽었군, 자네.
+Viktor|B1|Du skrattar. Jag säger det högt, så att det finns med på inspelningen.|웃으시네요. 녹음에 남도록 소리 내서 말해 두는 거예요.
+Ekwall|B2|Jag sa en gång att ett leende inte går att citera. Ett skratt går tydligen att spela in. Fortsätt, det här är roligare än jag trodde.|언젠가 미소는 인용할 수 없다고 했지. 웃음은 녹음할 수 있나 보군. 계속하게. 생각보다 재밌네.
+Viktor|B1|Fjärde november. Samma sak, och samma svar: ”Vi skålar för M. i kväll.”|11월 4일. 같은 일, 같은 답장. "오늘 밤 M.을 위해 건배합니다."
+Ekwall|A1|Skål för M.|M.을 위하여.
+Viktor|A2|Tolfte november 2024. Ulrika Fält.|2024년 11월 12일. 울리카 펠트.
+Ekwall|A2|Det minns jag inte.|기억 안 나는데.
+Viktor|B1|Dagen efter höll Omsorgia ett extra styrelsemöte. Det står i årsredovisningen.|그다음 날 Omsorgia가 임시 이사회를 열었어요. 연차보고서에 나와 있어요.
+Ekwall|B1|Då får du fråga Ulrika. Hon minns allt, och det var just det som var hennes problem.|그럼 울리카한테 묻게. 그녀는 다 기억하지. 바로 그게 그녀의 문제였고.
+Viktor|A2|Nionde maj 2023. R.S.|2023년 5월 9일. R.S.
+Ekwall|A2|Det minns jag inte heller.|그것도 기억 안 나.
+Viktor|B1|Konstigt, för Robin säger att han aldrig har suttit här. Någon annan satt på hans stol.|이상하네요. 로빈은 여기 앉은 적이 한 번도 없다고 하거든요. 누군가 다른 사람이 그의 의자에 앉았어요.
+Ekwall|B2|Robin säger många saker från ett svenskt häkte. Han har plötsligt fått mycket tid att tänka och väldigt lite kvar att förlora.|로빈은 스웨덴 구치소에서 이런저런 말을 많이 하지. 갑자기 생각할 시간은 많아졌고, 잃을 건 거의 안 남았으니까.
+Viktor|B1|Split, femte till tolfte juli 2025. Peter Sandell och Kenneth Örn.|스플리트, 2025년 7월 5일부터 12일. 페테르 산델과 켄네트 외른.
+Ekwall|B1|Split är vackert i juli, ha! Det är allt jag har att säga om Split.|7월의 스플리트는 아름답지, 하! 스플리트에 대해 할 말은 그게 다야.
+Viktor|A2|Två datum minns du inte. Åt resten skrattade du.|날짜 두 개는 기억이 안 나시고, 나머진 웃어넘기셨네요.
+Ekwall|B1|Och ingenting förnekade jag. Lägg märke till det.|그리고 아무것도 부인하지 않았지. 그걸 눈여겨보게.
+Viktor|A1|Varför inte?|왜요?
+Ekwall|B2|Därför att det inte finns något att förneka. Jag har aldrig köpt någon, Viktor. Jag har bara presenterat folk för varandra. Det kallas nätverk.|부인할 게 없으니까. 난 아무도 산 적 없어, 빅토르. 사람들을 서로 소개했을 뿐이지. 그걸 인맥이라고 하지.
+Viktor|B1|Stiftung Lindenhof äger fonden som ska köpa min tidning i morgon. I domen från Zürich, på sidan tolv, står ditt namn som förmånstagare.|Stiftung Lindenhof가 내일 우리 신문을 사려는 펀드를 소유하고 있어요. 취리히 판결문 12쪽에 당신 이름이 수익자로 나와요.
+Ekwall|B2|Sidan tolv. Du har läst noggrannare än Claes. Stiftelser är tråkiga, Viktor, och det är just därför de är så användbara. Ingen journalist orkar läsa en arvstvist på tyska.|12쪽이라. 클라에스보다 꼼꼼히 읽었군. 재단은 지루해, 빅토르. 바로 그래서 그렇게 쓸모가 있지. 독일어로 된 상속 분쟁을 끝까지 읽을 기운이 있는 기자는 없거든.
+Viktor|A2|En schweizisk kollega orkade.|스위스 동료가 읽었어요.
+Ekwall|B2|Då ska jag skicka blommor till Zürich. Men låt mig ge dig en sak till, gratis: Helena Wikström vill att du berättar i rätten var boken kommer ifrån. Jag vet redan var den kommer ifrån.|그럼 취리히에 꽃을 보내야겠군. 그런데 하나 더 공짜로 주지. 헬레나 비크스트룀은 자네가 법정에서 장부가 어디서 왔는지 말하길 원해. 난 그게 어디서 왔는지 이미 알아.
+Viktor|B1|Vi pratar inte om källor. Inte i kväll och inte någon annan kväll.|취재원 얘기는 안 해요. 오늘 밤도, 다른 어떤 밤도.
+Ekwall|B2|Märta tror också att hon vet vem på departementet som pratar med er. Hon har fel. Jag vet, och jag har inte sagt det till henne. Tänk på det när du skriver.|메르타도 부처에서 누가 자네들한테 말하는지 안다고 생각하지. 틀렸어. 난 알아. 그리고 그녀한테 말하지 않았지. 기사 쓸 때 그걸 생각해 보게.
+Viktor|A2|Nästa fråga. Fas två.|다음 질문. '2단계'.
+Ekwall|B2|Du har sparat sms:et. Fas två var aldrig valet, Viktor. Val kommer och går. Fas två är allt som händer efteråt, när journalisterna har gått hem och ingen tittar längre.|그 문자 아직 갖고 있군. 2단계는 처음부터 선거가 아니었어, 빅토르. 선거는 왔다 가지. 2단계는 그다음에 일어나는 모든 일이야. 기자들이 집에 가고, 더는 아무도 지켜보지 않을 때.
+Viktor|A1|Och vem betalar?|그럼 누가 돈을 내죠?
+Ekwall|B2|Sverige har alltid varit till salu, Viktor. Du såg bara inte prislappen.|스웨덴은 늘 팔려 왔어, 빅토르. 자넨 가격표를 못 봤을 뿐이야.
+Viktor|B1|Ljuset droppar. Det har runnit stearin ända fram till bandspelaren.|초가 녹아내려요. 촛농이 녹음기 바로 앞까지 흘렀어요.
+Ekwall|B2|Då flyttar jag ljuset, jag vill inte att något går förlorat. Och prislappen sitter överallt, även på din egen tidning. Har Sofia någonsin berättat om nittionio?|그럼 촛불을 옮기지. 아무것도 잃어버리고 싶지 않으니까. 그리고 가격표는 어디에나 붙어 있어. 자네 신문에도. 소피아가 99년 얘기를 한 적 있나?
+Viktor|A1|Nej.|아니요.
+Ekwall|B2|Nej, det kan hon ju inte. Hösten 1999 var jag pressekreterare, och hon var tjugoåtta och vikarie på politikredaktionen. Jag gav henne ett kuvert om en statssekreterare som hade gömt ett konsultavtal. Hennes första förstasida. Han avgick inom en vecka, och jag fick hans rum.|그래, 그럴 수가 없지. 1999년 가을에 난 공보 비서관이었고, 그녀는 스물여덟, 정치부 임시직이었어. 컨설팅 계약을 숨긴 차관 하나에 관한 봉투를 그녀에게 줬지. 그녀의 첫 1면이었어. 그는 일주일 안에 물러났고, 난 그의 방을 얻었지.
+Viktor|A2|Du var hennes källa.|당신이 그녀의 취재원이었군요.
+Ekwall|B2|På kuvertet skrev jag: ”Lycka till, Sofia. M.” På tjugosju år har hon aldrig sagt mitt namn till någon, inte ens till dig, hör jag. Säg till henne att jag släpper henne. Hon får berätta nu.|봉투에 이렇게 썼지. "행운을 빌어, 소피아. M." 27년 동안 그녀는 내 이름을 아무한테도 말하지 않았어. 자네한테도 안 했군. 그녀에게 전해. 내가 그녀를 놓아준다고. 이제 말해도 된다고.
+Viktor|A2|Var allt i artikeln sant?|그 기사 내용은 전부 사실이었어요?
+Ekwall|B1|Varje ord. Jag ljuger aldrig, Viktor. Det är för dyrt.|한 마디도 빠짐없이. 난 거짓말 안 해, 빅토르. 너무 비싸거든.
+Viktor|B2|Då betalade du med sanningen. Det är den enda valuta vi tar emot, och den räcker inte för att köpa henne – eller mig.|그럼 진실로 값을 치르신 거네요. 그게 우리가 받는 유일한 화폐예요. 그리고 그걸로는 그녀를 살 수 없어요 — 저도요.
+Ekwall|B2|Du är bitter, och det förstår jag. Det där med Elias har du burit på länge. Det var tragiskt, men det var aldrig personligt …|자넨 씁쓸한 거야, 이해해. 엘리아스 일을 오래 짊어지고 있었지. 비극이었지만, 결코 개인적인 건 아니었어…
+Viktor|B2|Han hette Elias. Han var sjutton. Säg inte ”det där” om honom en gång till, herr Ekwall. Tack för maten. Ni har fått era frågor, och ni har fått svara.|그 애 이름은 엘리아스였습니다. 열일곱이었고요. 다시는 그 애를 '그 일'이라고 부르지 마십시오, 에크발 씨. 잘 먹었습니다. 질문은 받으셨고, 답할 기회도 받으셨습니다.
+Ekwall|B1|Ni – du missförstår mig, Viktor. Vi ses. Det gör vi alltid.|당신은 — 자넨 날 오해하고 있어, 빅토르. 또 보지. 늘 그렇게 되니까.
+# 장면 4 — 밤 10시 20분, 저택 철문 밖, 헨릭의 볼보 (빈 보온병, 김 서린 앞유리, 처음으로 제대로 도는 히터)
+Henrik|A2|Sätt dig. Jag har satt på värmen.|타라. 히터 켜 놨다.
+Viktor|A1|Fungerar den?|그거 돼?
+Henrik|B1|Ända sedan Arne lagade den på Gotland i fjol. Det är det enda i bilen som har blivit bättre med åren.|작년에 고틀란드에서 아르네가 고쳐 준 뒤로 쭉. 이 차에서 해가 갈수록 나아진 건 그거 하나다.
+Viktor|A2|Du har suttit här i tre och en halv timme.|세 시간 반이나 여기 앉아 있었잖아.
+Henrik|B1|Med motorn av, så att ingen i villan skulle tro att vi tänkte åka någonstans. Termosen är tom.|시동 끄고. 저택 안 누구도 우리가 어디 갈 생각이라고 여기지 않게. 보온병은 비었다.
+Viktor|A2|Han visste att du stod här. Sedan kvart i sju.|당신이 여기 있는 거 알더라. 6시 45분부터.
+Henrik|A2|Klart han visste. Han vet allt, int sant?|당연히 알았겠지. 그 사람은 다 안다, 안 그러냐?
+Viktor|B1|Han frågade hur ditt hjärta mår. Han sa att du alltid stod längst bak vid dörren på Rosenbad.|당신 심장 어떠냐고 묻더라. 로센바드에서 당신이 늘 맨 뒤 문가에 서 있었다고.
+Henrik|B1|Det var han som stod vid dörren, inte jag. Men det är så han gör: han tar ens minne och ger tillbaka det lite fel.|문가에 서 있던 건 그 사람이다, 내가 아니라. 근데 그게 그 사람 방식이지. 남의 기억을 가져가서 살짝 틀리게 돌려준다.
+Viktor|A1|Mina händer.|내 손.
+Henrik|A1|Jag ser det. De skakar.|보인다. 떨리네.
+Viktor|B1|De skakade inte därinne. Inte en enda gång på tre timmar.|안에선 안 떨렸어. 세 시간 동안 한 번도.
+Henrik|B2|Så är det. Man håller god min i elakt spel så länge någon tittar, och sedan kommer notan i bilen. Håll händerna mot värmen.|그런 거다. 누가 보고 있는 동안은 나쁜 판에서도 태연한 척하고, 계산서는 차 안에서 날아오지. 손 히터에 대 봐라.
+Viktor|A2|Han förnekade ingenting. Inte ett ord.|그 사람, 아무것도 부인 안 했어. 한 마디도.
+Henrik|A1|Inte ett ord?|한 마디도?
+Viktor|B1|Två datum minns han inte. Åt resten skrattade han, och bandspelaren hörde varenda skratt.|날짜 두 개는 기억이 안 난대. 나머진 웃어넘겼고, 녹음기는 그 웃음을 하나도 빠짐없이 들었어.
+Henrik|B1|Ett skratt är inget erkännande. Det vet han.|웃음은 자백이 아니다. 그 사람도 알아.
+Viktor|B2|Nej, men i en text där varje mening har två källor blir skrattet det enda svar han gav. Och han sa ”ni” till mig. En gång, när jag sa Elias namn.|그렇지. 하지만 문장마다 근거가 두 개씩 있는 기사에선, 그 웃음이 그가 준 유일한 대답이 돼. 그리고 나한테 '니'라고 했어. 딱 한 번. 내가 엘리아스 이름을 말했을 때.
+Henrik|A2|Då blev han rädd.|그럼 겁먹은 거다.
+Viktor|B1|Han berättade om Sofia också. Nittionio. Ett kuvert och en statssekreterare som avgick.|소피아 얘기도 했어. 99년. 봉투 하나, 그리고 물러난 차관 하나.
+Henrik|B2|Jag tog bilden. Statssekreteraren i trappan på Rosenbad, med rocken över armen. Sofia stod bredvid mig, blek som ett lakan, och jag trodde att det var för att det var hennes första stora grej.|그 사진, 내가 찍었다. 로센바드 계단의 차관, 외투를 팔에 걸치고. 소피아가 내 옆에 서 있었는데 얼굴이 하얗게 질려 있었지. 첫 큰 건이라 그런 줄 알았다.
+Viktor|A2|Hon visste vem som hade gett henne kuvertet.|봉투를 누가 줬는지 알았던 거야.
+Henrik|B1|Och hon har aldrig sagt det. På tjugosju år. Det kan man inte säga om särskilt många.|그리고 한 번도 말 안 했지. 27년 동안. 그렇게 말할 수 있는 사람은 많지 않다.
+Viktor|B2|Han sa att han släpper henne, som om han gav henne en present. Men det var en kniv. I natt ska hon skriva under en text om honom, och han vill att hon ska tvivla på sin egen penna.|그녀를 놓아준대. 무슨 선물이라도 주는 것처럼. 하지만 그건 칼이었어. 오늘 밤 그녀는 그 사람에 관한 기사에 서명해야 하는데, 그는 그녀가 자기 펜을 의심하길 바라는 거야.
+Henrik|B2|Som mormor i När brukade säga: den som gapar efter mycket mister ofta hela stycket.|네르의 할머니가 늘 그러셨지. 너무 많이 탐하는 자는 종종 전부를 잃는다.
+Viktor|A2|Vad betyder det i kväll?|오늘 밤엔 그게 무슨 뜻이야?
+Henrik|B1|Att han ville ha både dig och Sofia i kväll. Och han fick ingen av er.|오늘 밤 너랑 소피아 둘 다 갖고 싶어 했다는 거지. 그런데 아무도 못 가졌잖아.
+Viktor|A1|Kör, Hesa.|가자, 헤사.
+Henrik|A2|Din telefon. Den surrar.|네 전화. 울린다.
+Viktor|A1|Det är han.|그 사람이야.
+Henrik|A2|Ta det på högtalaren. Jag vill höra.|스피커로 받아라. 나도 듣고 싶다.
+Viktor|A2|Jag spelar in. Bandspelaren är fortfarande på.|녹음하고 있어요. 녹음기 아직 켜져 있어요.
+Ekwall|B1|Gör det. Du glömde en sak vid bordet, Viktor: din tidning är såld i morgon.|그러게. 식탁에서 자네가 하나 잊었어, 빅토르. 자네 신문은 내일이면 팔린 거야.
+Viktor|B1|Den är inte såld förrän någon har skrivit under.|누가 서명하기 전까지는 팔린 게 아니에요.
+Ekwall|B2|Din tidning säljs i morgon klockan nio. Vad du än skriver i natt läser du det i min tidning.|네 신문은 내일 아홉 시에 팔려. 오늘 밤 네가 뭘 쓰든, 너는 그걸 내 신문에서 읽게 될 거야.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Skål.** | 건배. | 스웨덴식 건배는 눈을 맞추고 *skål*, 한 모금, 다시 눈을 맞춘 뒤 잔을 내린다. 빅토르의 *Skål.*은 한 단어뿐이고, 에크발의 *Skål för M.*(M.을 위하여)은 빈 의자를 향한다 — *skåla för någon* = ~을 위해 건배하다 |
+| `A2` | **Jag har bjudit dig hit för att prata.** | 얘기하려고 자넬 여기 불렀어. | *bjuda* = 초대하다·대접하다(*bjuda på middag* 저녁을 대접하다). *hit*은 "여기로"(방향), *här*는 "여기에"(위치). *för att* + 동사원형 = ~하려고 |
+| `B1` | **Du får en chans att svara innan vi publicerar.** | 보도하기 전에 답할 기회를 드리는 겁니다. | 반론권(*bemötande*)을 주는 기자의 표준 문장. *få* = (기회·허락을) 얻다. *innan* + 절 = ~하기 전에(전치사로는 *före*: *före publiceringen*) |
+| `B2` | **Jag har aldrig köpt någon. Jag har bara presenterat folk för varandra. Det kallas nätverk.** | 난 아무도 산 적 없어. 사람들을 서로 소개했을 뿐이지. 그걸 인맥이라고 하지. | *presentera någon för någon* = ~를 ~에게 소개하다. *varandra* = 서로. *det kallas* = 그걸 ~라고 부른다(수동 *-s*). 부인이 아니라 "이름 바꾸기"로 답하는 로비스트의 화법 |
+| `B2` | **Sverige har alltid varit till salu, Viktor. Du såg bara inte prislappen.** | 스웨덴은 늘 팔려 왔어, 빅토르. 자넨 가격표를 못 봤을 뿐이야. | *vara till salu* = 팔려고 내놓여 있다(*Till salu* = 매물 표지판). 현재완료 *har alltid varit*(지금까지 늘 ~였다)와 과거형 *såg inte*(그때 못 봤다)의 대비 |
+| `B2` | **Varje mening måste kunna bära sin egen vikt i rätten.** | 모든 문장은 법정에서 스스로 무게를 견뎌야 한다. | 조동사 두 개를 겹친 *måste kunna* + 동사원형 = ~할 수 있어야 한다. *sin egen* = 주어 자신의(재귀 소유). 라르스의 다음 두 문장 *Den här klarar inte det. Stryk den.*(이건 못 견뎌. 지워.)은 A2 단문 — 법률가의 B2 원칙이 편집의 A2 명령으로 바뀐다 |
+| 구어 | **hålla god min i elakt spel** | 나쁜 판에서도 태연한 척하다 | 직역 "고약한 게임에서 좋은 표정을 유지하다". 카드 게임에서 패가 나빠도 얼굴에 드러내지 않는 데서 온 말. 헨릭: 누가 보는 동안은 *god min*, 계산서(*notan*)는 차 안에서 온다 |
+| 법 | **sanningsbevisning** | 진실 입증 | 명예훼손(*förtal*) 소송에서 피고(언론에선 발행책임자)가 주장이 사실임을, 또는 사실이라 믿을 합리적 근거(*skälig grund*)가 있었음을 증명하는 절차. 다만 먼저 그 정보를 전하는 것이 정당했는지(*försvarligt*)가 인정돼야 입증이 허용된다 |
+
+- 속담 **Den som gapar efter mycket mister ofta hela stycket.** (너무 많이 탐하는 자는 종종 전부를 잃는다) — *gapa efter* = 입을 벌리고 덤비다, 탐내다. *mista* = 잃다(문어적). 각운(*mycket – stycket*)으로 외워지는 옛 속담.
+
+## 저널리즘·법 메모
+명예훼손(*förtal*, 형법 5장 1조)은 남을 경멸받게 할 만한 정보를 퍼뜨리는 범죄지만, 정보를 전하는 것이 사정상 정당했고(*försvarligt*) 그 정보가 사실이거나 사실이라 믿을 합리적 근거가 있었음을 보이면 처벌되지 않는다. 신문 기사의 경우 책임은 기자가 아니라 발행책임자 한 사람에게 모이고(*ensamansvar*), 피해자가 직접 제기하는 사인 소추(*enskilt åtal*)도 그녀를 향한다 — 경고장이 "발행책임자를 상대로"라고 쓴 이유다. 그래서 라르스는 기사 마흔일곱 문장마다 문서 번호를 붙이고, 근거가 하나뿐인 세 문장(Kungen의 말에만 기댄 둘, 비서실 메일로는 증명되지 않는 장관 본인의 참석)을 지운다. 녹음은 스웨덴에서 대화 당사자라면 상대의 동의 없이도 합법이고, 처벌되는 것은 남의 대화를 몰래 엿듣는 *olovlig avlyssning*이다. 다만 언론윤리상 몰래 녹음은 예외적인 경우에만 정당화되므로, 숨길 이유가 없는 빅토르는 녹음기를 식탁 한가운데 둔다. 반론 기회(*bemötande*)는 서면 질문과 마주 앉은 자리로 두 번 주어졌고, Ekwall이 부인하지 않고 웃기만 했다는 사실 자체가 기사에 들어갈 "그의 대답"이 된다. 마지막으로, 취재원 보호에는 기한이 없다: 소피아는 27년 전의 취재원이 적이 된 뒤에도 그 이름을 말하지 않았고, 비밀을 풀 수 있는 사람은 취재원 본인뿐이었다. (작중 설명은 일반 원칙이며, 실제 사안의 판단은 개별 사정에 따라 달라진다.)
+
+## 문화·현안 메모
+- **유르고르덴(Djurgården)** — 스톡홀름 한가운데의 녹지 섬. 땅 대부분이 국왕의 처분권 아래 있는 국유지라 저택들은 대개 임차한 땅 위에 서 있고, 새로 짓기가 거의 불가능하다. 그래서 이곳의 오래된 빌라는 돈만으로는 살 수 없는 "자리"의 상징이 된다 — 1부부터 소문으로만 나오던 클럽의 만찬실이 바로 이런 집이다.
+- **du와 ni, 그리고 한 번의 실수** — 2부 3화에서 Ekwall은 *ni*를 쓰는 빅토르를 "웨이터 지배인과 화난 사람들"이라고 놀렸다. 이번 화의 빅토르는 끝까지 *du*로 화를 숨기다가, 엘리아스의 이름 앞에서만 *herr Ekwall*과 *ni*로 굳는다. 그리고 평생 모두에게 *du*를 써 온 Ekwall이 그 순간 "*Ni* – du…"라고 말을 더듬는다 — 친근함의 가면에 생긴 첫 균열.
+- **회전문과 공보 비서관** — 스웨덴 부처의 *pressekreterare*(공보 비서관)와 *politiskt sakkunnig*(정무 보좌관)는 공무원이 아니라 장관이 데려오는 정무직이다. 정권이 바뀌면 함께 떠나고, 상당수가 PR·로비 업계로 옮겨 간다. 2018년 도입된 고위 공직자 이직 심사(*karensregler*)는 장관과 차관을 대상으로 하지만, 그 전에 쌓인 인맥까지 막을 수는 없다.
+- **Axel Oxenstierna** — 17세기 스웨덴의 재상. 근대 스웨덴 관료제의 설계자로 꼽혀, "옥센셰르나 때부터"는 "국가가 생긴 이래 줄곧"이라는 과장된 관용 표현처럼 쓰인다.
+- ⚠️ 이번 화의 Ekwall, 법무장관, 1999년의 차관, 재단과 펀드는 모두 허구이며, 실존 인물이나 실제 사건을 묘사하지 않는다.
+
+## 다음 화 예고
+> 밤 11시, Källaren의 화면이 하나씩 꺼진다. 노아의 손이 빨라진다. *"Servern ligger nere! Amira, skicka filerna till Riga. Nu!"*

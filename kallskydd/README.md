@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (100/105화 완성)
+## 대본 목차 (102/105화 완성)
 
 ### 1부
 
@@ -159,3 +159,5 @@
 | 8 | [Gråsparven har ett namn](episodes/k7_e08.md) | 참새의 이름 |
 | 9 | [Ministern](episodes/k7_e09.md) | 장관 |
 | 10 | [Nedlagd](episodes/k7_e10.md) | 종결 |
+| 11 | [Ekwall](episodes/k7_e11.md) | 에크발 |
+| 12 | [Natten före](episodes/k7_e12.md) | 전야 |
