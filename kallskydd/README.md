@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (66/105화 완성)
+## 대본 목차 (67/105화 완성)
 
 ### 1부
 
@@ -115,3 +115,4 @@
 | 4 | [Innehållsfabriken](episodes/k5_e04.md) | 콘텐츠 공장 |
 | 5 | [LVU](episodes/k5_e05.md) | 아동보호법 |
 | 6 | [Provokatören](episodes/k5_e06.md) | 도발자 |
+| 7 | [Deepfaken](episodes/k5_e07.md) | 딥페이크 |

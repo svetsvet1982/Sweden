@@ -1,0 +1,187 @@
+@title 5부 7화 — Deepfaken
+@subtitle (딥페이크)
+@meta 날짜|2026년 8월 14일 금요일 오전 7시 10분 ~ 밤 10시경
+@meta 장소|브롬마, 카린의 집 부엌 (오전 7시 10분) → Källaren, 아미라의 책상 앞 모니터 두 대 (오전 9시 반) → 바사가탄, Hemlandspartiet 디지털팀 사무실 — 알빈의 자리와 화장실 앞 복도 (오후 1시 40분) → 소피아의 유리방 (오후 3시 반) → 베링뷔, 빅토르의 아파트 (밤 8시 40분 ~ 10시경)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자) · **Alva** (알바 홀름, 16, 빅토르의 딸, 다음 주 화요일 개학) · **Karin** (카린 홀름, 46, 빅토르의 전처, 변호사) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Noah** (노아 베리룬드, 24, 기자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Moa** (모아 린드 — 엘린 셰크비스트의 위장 인물, "23세 라이프스타일 크리에이터") · **Albin** (알빈 "케브" 룬드, 26, 디지털팀 밈 제작자, 모아의 옆자리) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장) · **Elin** (엘린 셰크비스트, 28, 잠입 전문 기자 — 문자)
+@intro **지난 이야기** — 다음 주 토요일 한 대사관 앞에서 코란을 태우겠다는 라스무스 크비스트에게 빅토르는 "누가 돈을 내죠?" 한 마디만 물었다. 아미라는 그의 장비값과 변호사비를 낸 암호화폐가 결제 대행업체, 믹서, 해외 거래소 두 곳을 거쳐 한 지갑에서 나왔다는 걸 두 개의 분석 프로그램으로 따라갔다 — 작년 가을 베링뷔에서 문을 폭파한 소년의 판결문에 한 글자도 다르지 않게 적혀 있던 지갑이었다.
+@intro 8일 뒤인 8월 14일 금요일, 새벽 6시 12분. 이틀 전에 만들어진 익명 계정에 41초짜리 영상 하나가 올라온다. 빅토르 홀름이 카페에서 한 남자에게 봉투를 받으며 "이건 우리 둘 사이 일로 해 두죠"라고 말하는 영상이다. 6시 40분, 노아가 빅토르에게 전화한다. 그리고 7시 10분, 브롬마의 부엌에서 알바가 엄마를 부른다.
+# 장면 1 — 오전 7시 10분, 브롬마, 카린의 집 부엌 (식탁 위 알바의 휴대폰, 반 단톡방에 멈춰 있는 영상, 카린의 서류 가방과 식은 커피, 스피커폰)
+Alva|A1|Mamma. Kom hit.|엄마. 이리 와 봐.
+Karin|A2|Vad är det? Jag måste gå om tio minuter, jag har ett möte klockan åtta.|왜? 나 10분 뒤에 나가야 해. 8시에 회의 있어.
+Alva|A2|Titta. Det är pappa. Någon lade upp den i klassens chatt i morse.|봐. 아빠야. 누가 아침에 반 단톡방에 올렸어.
+Karin|A1|Vad är det här?|이게 뭐야?
+Alva|B1|En film där han tar emot ett kuvert av en man och säger att det ska stanna mellan dem. Den är fyrtioen sekunder lång, och jag har sett den tre gånger.|아빠가 어떤 남자한테서 봉투를 받으면서 이건 둘 사이 일로 하자고 하는 영상. 41초짜리야. 나 세 번 봤어.
+Karin|B1|Det står något under filmen: ”Journalisten som granskade Omsorgia tar emot pengar från Omsorgia.”|영상 밑에 뭐라고 써 있네. "Omsorgia를 파헤친 기자가 Omsorgia에게서 돈을 받는다."
+Alva|B1|Omsorgia är ju de som ägde skolan som Elvin skulle byta till. Pappa skrev om dem i vintras.|Omsorgia면 엘빈이 옮기기로 했던 그 학교 주인 회사잖아. 아빠가 지난겨울에 기사 썼던.
+Karin|A1|Jag ringer honom.|아빠한테 전화할게.
+Viktor|A2|Karin. Jag skulle precis ringa Alva.|카린. 지금 막 알바한테 전화하려던 참이었어.
+Karin|A1|Igen, Viktor?|또야, 빅토르?
+Viktor|A1|Det är inte jag.|그거 나 아니야.
+Karin|B1|Jag ser ditt ansikte och jag hör din röst. Alva sitter bredvid mig, och du är på högtalare.|네 얼굴이 보이고 네 목소리가 들려. 알바가 내 옆에 있고, 지금 스피커폰이야.
+Viktor|B2|Det är mitt ansikte, men det är inte jag – någon har satt ihop filmen med ett program som lär sig hur en människa ser ut och låter. Noah väckte mig för en halvtimme sedan.|내 얼굴인 건 맞는데, 나는 아니야. 사람이 어떻게 생겼고 어떤 목소리를 내는지 학습하는 프로그램으로 누가 그 영상을 짜 맞춘 거야. 노아가 30분 전에 날 깨웠어.
+Alva|A1|Pappa?|아빠?
+Viktor|A2|Hej, gumman. Förlåt att du fick se den innan jag hann ringa.|안녕, 우리 딸. 아빠가 전화하기 전에 그걸 먼저 보게 해서 미안해.
+Alva|A2|Alla i klassen har sett den. Typ alla, pappa.|반 애들 다 봤어. 진짜 다, 아빠.
+Viktor|B2|Jag vet att det känns hemskt, gumman. Men jag har aldrig tagit emot pengar av någon som jag granskar, och om jag hade gjort det skulle jag knappast ha gjort det framför en kamera.|끔찍한 기분인 거 알아, 우리 딸. 하지만 아빠는 취재 대상한테서 돈을 받은 적이 한 번도 없어. 설령 받았다 해도 카메라 앞에서 받진 않았겠지.
+Alva|B1|Wilma skrev ”din pappa är korrupt lol”, och fyrtio personer har gillat det. Skolan har inte ens börjat än.|빌마가 "너네 아빠 부패했네 ㅋㅋ"라고 썼는데 마흔 명이 좋아요 눌렀어. 개학도 아직 안 했는데.
+Karin|B1|Hur kan någon göra en sådan film? Den ser ju helt äkta ut, och rösten är din.|어떻게 그런 영상을 만들 수 있어? 완전 진짜 같은데. 목소리도 너고.
+Viktor|B2|Det räcker med några minuter film och ljud av en person, och jag har suttit i tv-studion flera gånger. Programmen finns på nätet, och de blir bättre för varje månad.|한 사람의 영상이랑 목소리 몇 분이면 충분해. 난 TV 스튜디오에도 몇 번 나갔고. 그런 프로그램은 인터넷에 널렸고, 달마다 더 좋아지고 있어.
+Alva|A2|Kan du inte bara skriva att den är fejk? På Insta, typ?|그냥 가짜라고 쓰면 안 돼? 인스타 같은 데?
+Viktor|B2|Om jag bara förnekar det, blir det mitt ord mot en film som hundratusentals redan har sett. Alla som blir avslöjade säger att det inte var de, så vi måste visa det i stället för att säga det.|아빠가 그냥 아니라고 하면, 수십만 명이 이미 본 영상 대 아빠 말이 되는 거야. 들킨 사람은 다 자기 아니라고 하거든. 그러니까 말로 할 게 아니라 보여 줘야 해.
+Alva|A1|Okej. Jag går in till mig.|알았어. 나 방에 들어갈게.
+Karin|B2|Hon stängde dörren. Det har hon inte gjort sedan i våras, när du lovade att komma till brasan vid sjön och dök upp när den redan hade slocknat.|문 닫았어. 지난봄 이후로 저런 적 없었는데. 네가 호숫가 모닥불에 온다고 약속해 놓고 불이 다 꺼진 다음에야 나타났을 때 말이야.
+Viktor|B1|Jag ringer henne i kväll, eller så kommer jag dit om hon vill.|오늘 밤에 전화할게. 아니면 알바가 원하면 그리로 갈게.
+Karin|B2|Viktor, jag är advokat och jag vet vad förtal är. Men jag tänker inte bli din advokat i det här, och jag tänker inte en gång till förklara för henne varför ditt jobb hamnar vid vårt köksbord.|빅토르, 나 변호사고, 명예훼손이 뭔지 알아. 하지만 이번 일에서 네 변호사가 될 생각은 없어. 그리고 네 일이 왜 우리 식탁까지 들이닥치는지 걔한테 또 한 번 설명할 생각도 없고.
+Viktor|B1|Jag har inte bett dig om det. Och jag har ingenting att förklara, Karin.|그런 부탁 한 적 없어. 그리고 난 설명할 게 하나도 없어, 카린.
+Karin|B1|Du har en dotter att förklara för. Det är inte samma sak.|넌 설명해야 할 딸이 있어. 그건 다른 얘기야.
+Viktor|A1|Jag vet. Förlåt.|알아. 미안해.
+Karin|A2|Säg inte förlåt till mig. Säg det till henne.|나한테 미안하다고 하지 마. 걔한테 해.
+# 장면 2 — 오전 9시 반, Källaren, 아미라의 책상 앞 모니터 두 대 (왼쪽 화면에 프레임 단위로 쪼갠 41초짜리 영상, 오른쪽 화면에 조회수 그래프와 감시 목록 알람, 노아가 아침에 찍어 온 사진 몇 장, 빅토르의 종이 수첩)
+Amira|A2|Sätt dig. Och läs inte kommentarerna.|앉아. 그리고 댓글은 읽지 마.
+Viktor|A2|Jag har redan läst dem. Hur många har sett filmen?|벌써 읽었어. 몇 명이나 봤어?
+Noah|B1|Över sexhundratusen sedan den lades upp tolv över sex. Kontot skapades i onsdags och har bara ett enda inlägg: filmen.|6시 12분에 올라온 뒤로 60만 명 넘게요. 계정은 수요일에 만들어졌고 게시물은 딱 하나예요. 그 영상.
+Amira|B1|Och inom fyra minuter hade trettioen av våra fyrahundra konton delat den. Larmet på min bevakningslista gick sexton över sex.|그리고 4분 만에 우리 400개 계정 중 31개가 그걸 공유했어. 내 감시 목록 알람이 6시 16분에 울렸고.
+Viktor|A2|Alva såg filmen innan jag hann ringa.|알바가 내가 전화하기도 전에 그 영상을 봤어.
+Amira|A1|Fan. Hur mår hon?|젠장. 알바는 좀 어때?
+Viktor|A1|Hon stängde dörren.|방문을 닫더라.
+Amira|B1|Okej. Då gör vi det här ordentligt, för hennes skull också. Fyrtioen sekunder och trettio bilder per sekund – det blir 1 230 bildrutor, och vi har gått igenom varenda en.|알았어. 그럼 제대로 하자. 알바를 위해서도. 41초에 초당 30프레임, 그러면 1,230프레임이야. 하나하나 다 봤어.
+Noah|B1|Vi började med munnen. Vid p, b och m måste läpparna mötas, men när rösten säger ”pengarna” och ”mellan oss” är munnen öppen.|입부터 봤어요. p, b, m 소리에선 입술이 닿아야 하는데, 목소리가 "돈"이랑 "우리 둘 사이"라고 할 때 입이 벌어져 있어요.
+Viktor|A1|Hur mycket fel?|얼마나 어긋나?
+Amira|B2|Ljudet och läpparna glider isär med ungefär två tiondels sekund, ibland före och ibland efter. Om en vanlig mobilfilm är osynkad, är felet detsamma hela vägen, men här ändras det från mening till mening.|소리랑 입술이 0.2초쯤 어긋나. 앞섰다가 뒤처졌다가 해. 보통 휴대폰 영상이면 어긋나더라도 처음부터 끝까지 똑같이 어긋나는데, 이건 문장마다 달라.
+Viktor|A2|Och händerna? Du skrev något om händerna.|손은? 손 얘기 써 보냈잖아.
+Amira|B1|Titta på händerna – han har sex fingrar i en av bildrutorna.|손을 봐. 한 프레임에서 손가락이 여섯 개야.
+Noah|A2|Bildruta 847. Precis när kuvertet byter hand.|847번 프레임이요. 딱 봉투가 손을 바꿀 때.
+Amira|B2|Händer som håller i något är fortfarande det svåraste för de här programmen. Fyra händer och ett kuvert som rör sig samtidigt, och någonstans där tappar modellen räkningen.|뭘 쥐고 있는 손이 아직도 이런 프로그램한테 제일 어려운 부분이야. 손 네 개랑 봉투 하나가 동시에 움직이면, 어디선가 모델이 수를 놓쳐.
+Viktor|B2|Det räcker inte. Den som vill tro på filmen kommer att säga att det bara är en dålig mobilkamera, och den som redan tvivlar behöver inga fingrar.|그걸로는 부족해. 영상을 믿고 싶은 사람은 그냥 휴대폰 카메라가 구려서 그렇다고 할 거고, 이미 의심하는 사람한텐 손가락 같은 거 필요 없어.
+Noah|B1|Därför tittade vi på ljuset också. Fönstret är till vänster om er, men skuggan från kuvertet faller också åt vänster.|그래서 빛도 봤어요. 창문이 두 사람 왼쪽에 있는데, 봉투 그림자도 왼쪽으로 떨어져요.
+Viktor|A1|Det går inte.|그건 말이 안 되지.
+Amira|B2|Nej. Och klockan på väggen bakom er visar 10.24 i alla fyrtioen sekunderna. Sekundvisaren rör sig inte en enda gång, vilket betyder att bakgrunden är en stillbild som någon har lagt in bakom er.|안 되지. 그리고 뒤쪽 벽시계가 41초 내내 10시 24분이야. 초침이 한 번도 안 움직여. 누가 정지 사진을 배경으로 깔았다는 뜻이야.
+Viktor|A2|Vilket kafé är det?|어느 카페야?
+Noah|B1|Kafé Strandkanten på Kungsholms strand, tre portar från Omsorgias huvudkontor. Jag cyklade dit i morse. Fönstren är täckta med papper, och på dörren sitter en skylt: ”Lokalen uthyres.”|쿵스홀름스 스트란드의 카페 스트란드칸텐이요. Omsorgia 본사에서 세 건물 떨어진 곳. 아침에 자전거로 가 봤어요. 창문은 종이로 가려져 있고, 문에 "임대 문의" 안내문이 붙어 있어요.
+Viktor|A1|Sedan när?|언제부터?
+Noah|B1|Sedan sista april, säger fastighetsägaren. Och bakgrunden i filmen är samma bild som kaféet självt lade ut på Instagram i maj 2024 – samma stolar och samma tavla med sommarmenyn.|건물주 말로는 4월 말부터요. 그리고 영상 배경은 그 카페가 2024년 5월에 인스타그램에 직접 올린 사진이랑 똑같아요. 같은 의자에, 같은 여름 메뉴판까지.
+Amira|B2|Filmen påstår alltså att du satt där den sjätte augusti klockan 10.24 – på ett kafé som hade varit stängt i över tre månader, framför en bild som är två år gammal.|그러니까 영상은 네가 8월 6일 10시 24분에 거기 앉아 있었다고 주장하는 거야. 석 달 넘게 문 닫은 카페에, 2년 묵은 사진 앞에서.
+Viktor|B1|Den sjätte augusti klockan tio satt jag på ett kafé i Hornstull med Rasmus Kvist. Noah var med hela tiden.|8월 6일 10시엔 호른스툴 카페에서 라스무스 크비스트랑 앉아 있었어. 노아가 내내 같이 있었고.
+Noah|A2|Jag har mina anteckningar. Och kvittot på kaffet.|제 메모 있어요. 커피 영수증도요.
+Viktor|B1|Det står i min anteckningsbok också, och mitt SL-kort är registrerat. Resehistoriken visar Vällingby 09.21 och Hornstull 11.08.|내 수첩에도 적혀 있고, 내 SL 카드는 등록돼 있어. 이용 내역에 베링뷔 9시 21분, 호른스툴 11시 08분이 찍혀 있어.
+Amira|B2|Jag körde också filmen genom två program som letar efter manipulation. Det ena säger 91 procent, det andra säger ”osäkert”. Sådana siffror är en väderprognos, inte ett bevis, så vi bygger bara på det som vi kan visa själva.|영상을 조작 탐지 프로그램 두 개에도 돌려 봤어. 하나는 91퍼센트, 다른 하나는 "불확실". 그런 숫자는 일기예보지 증거가 아니야. 그러니까 우리가 직접 보여 줄 수 있는 것만 가지고 가는 거야.
+Noah|B2|Rösten är för ren också. Ett kafé med stengolv ekar, och man hör koppar och folk, men här finns ingenting runt rösten – vilket tyder på att den har spelats in eller skapats någon helt annanstans och lagts på i efterhand.|목소리도 너무 깨끗해요. 돌바닥 카페면 소리가 울리고 컵 소리랑 사람 소리가 들리는데, 여긴 목소리 주변에 아무것도 없어요. 완전히 다른 데서 녹음했거나 만들어서 나중에 덧씌웠다는 뜻이죠.
+Viktor|A2|Kanal Sverige. I mars.|Kanal Sverige. 3월.
+Amira|B2|Kanske. Du pratade länge i direktsändning, och det räcker gott för att träna en röst. Men så länge vi inte har hittat källmaterialet är det en hypotes och ingenting mer.|그럴지도. 생방송에서 오래 말했잖아. 목소리 학습시키기엔 충분하고도 남아. 하지만 원재료를 찾기 전까지 그건 가설이지, 그 이상은 아니야.
+Noah|B1|Jag ringde Omsorgias pressavdelning klockan åtta. Tove svarade att mannen i filmen aldrig har jobbat där och att de har polisanmält filmen själva.|8시에 Omsorgia 홍보실에 전화했어요. 토베 말로는 영상 속 남자는 거기서 일한 적이 없고, 자기들도 영상을 경찰에 신고했대요.
+Sofia|B2|Bra. Spara allt med tider och skärmbilder, och skicka det till Lars innan någon av oss säger ett ord utåt. Viktor, han väntar på dig klockan elva – polisanmälan gör du som privatperson, inte som reporter.|좋아. 전부 시간이랑 화면 캡처까지 저장해서, 우리 중 누구든 밖에 한마디라도 하기 전에 라르스한테 보내. 빅토르, 라르스가 11시에 기다려. 경찰 신고는 기자가 아니라 개인 자격으로 하는 거야.
+Viktor|A2|Och sedan?|그다음엔?
+Sofia|B2|Från och med nu är du inte med i granskningen av trollkontona, och inte i granskningen av filmen heller. Du är målsägande, och om filmen kommer från samma fabrik som vi granskar, kommer varje rad du skriver om dem att läsas som hämnd, hur korrekt den än är.|지금부터 넌 트롤 계정 취재에서 빠져. 영상 검증에서도. 넌 피해 당사자야. 영상이 우리가 취재하는 그 공장에서 나온 거라면, 네가 그들에 대해 쓰는 한 줄 한 줄이 아무리 정확해도 복수로 읽힐 거야.
+Viktor|A2|Och J? J pratar bara med mig.|J는? J는 나하고만 얘기해.
+Sofia|B2|J hör av sig via Brevlådan som vanligt, och ingen här får veta mer än i dag. Det du vet om J stannar hos dig – din tystnadsplikt gäller oavsett vilka artiklar du får skriva.|J는 평소처럼 Brevlådan으로 연락해 올 거고, 여기 누구도 오늘 아는 것 이상은 알게 되지 않아. J에 대해 네가 아는 건 너한테 그대로 남아. 네 비밀유지 의무는 네가 어떤 기사를 쓰게 되든 그대로야.
+Viktor|B1|Jag förstår beslutet, Sofia. Jag tycker bara att det är fel. Tack.|결정은 이해합니다, 소피아. 틀렸다고 생각할 뿐이에요. 고맙습니다.
+Noah|A2|Han sa tack. Är det bra?|"고맙습니다"래요. 좋은 거예요?
+Amira|A2|Nej. Det är så han blir arg.|아니. 저게 저 사람 화났을 때야.
+# 장면 3 — 오후 1시 40분, 바사가탄, Hemlandspartiet 디지털팀 사무실 (알빈의 모니터에 붙은 고양이 스티커, 공유 드라이브의 "Nedåt" 폴더, 그 안의 파일 하나, 화장실 앞 복도)
+Albin|A2|Moa! Bror, kom hit en sekund.|모아! 브로, 잠깐 이리 와 봐.
+Moa|A2|Vad är det? Jag har typ tvåhundra kommentarer kvar, asså.|왜? 나 댓글 200개쯤 남았거든.
+Albin|A2|Har du sett filmen? Journalisten med kuvertet?|그 영상 봤어? 봉투 받는 기자.
+Moa|B1|Asså, den är typ överallt. Min mamma skickade den till mig i morse med tre arga emojis.|아, 그거 완전 어디에나 있잖아. 우리 엄마가 아침에 화난 이모지 세 개랑 같이 보냈어.
+Albin|B1|Kolla här, den här är skarpare. Det som ligger ute är komprimerat, men det här är originalet.|여기 봐, 이게 더 선명해. 밖에 돌아다니는 건 압축된 거고, 이게 원본이야.
+Moa|A1|Varför har du den?|그걸 네가 왜 갖고 있어?
+Albin|B1|Ida lade den i nedåt-mappen i morse. Jag ska klippa korta versioner, sex sekunder med text, till de ljusa kontona.|이다가 아침에 '아래층용' 폴더에 넣어 줬어. 텍스트 넣은 6초짜리 짧은 버전을 잘라서 라이트 계정들에 줘야 돼.
+Moa|A1|Spela den då.|그럼 틀어 봐.
+Albin|A2|Lyssna nu. Här kommer kuvertet.|잘 들어 봐. 이제 봉투 나온다.
+Moa|A2|Åh. Han låter typ som en riktig människa.|와. 완전 진짜 사람 목소리 같아.
+Albin|A2|Lowkey sjukt bra gjord, va?|은근 미친 듯이 잘 만들었지?
+Moa|B1|Haha! Asså, sjukt läskigt hur bra den är. Vem har gjort den, typ?|하하! 와, 소름 끼칠 정도로 잘 만들었다. 누가 만든 거야?
+Albin|B1|Leverantören, tror jag. Samma som gör glitchklippen. Den kom ner från övervåningen som allt annat.|납품업체인 것 같아. 글리치 클립 만드는 데랑 같은 데. 다른 것들처럼 위층에서 내려왔어.
+Moa|A2|Och gubben med kuvertet? Jobbar han på Omsorgia på riktigt?|봉투 준 아저씨는? 진짜 Omsorgia에서 일해?
+Albin|B1|Han finns nog inte ens. Och journalisten vet jag inte heller vem det är, någon från Stockholmsposten. Ida säger att de är ute efter oss.|아마 존재하지도 않을걸. 기자도 누군지 몰라. 스톡홀름스포스텐 누구래. 이다 말로는 그쪽이 우리 뒤를 캐고 있대.
+Moa|A1|Spelar det ingen roll?|그게 상관없어?
+Albin|B1|Bror, jag gör memes, inte nyheter. Men tekniskt är det helt sjukt. För ett år sedan såg sådant här ut som ett tv-spel från 2005.|브로, 난 밈 만드는 사람이지 뉴스 만드는 사람이 아니야. 근데 기술적으로는 진짜 미쳤어. 1년 전만 해도 이런 건 2005년 게임처럼 보였거든.
+Moa|B1|Men om folk tror att han typ tog pengarna på riktigt? Han har väl familj och sånt?|근데 사람들이 진짜로 돈 받은 줄 알면? 그 사람도 가족 같은 거 있을 거 아냐?
+Albin|B1|Det är Idas grej, inte min. Jag klipper bara. Och ingen tror på sånt här i mer än en vecka ändå.|그건 이다 일이지 내 일 아니야. 난 자르기만 해. 그리고 이런 건 어차피 아무도 일주일 넘게 안 믿어.
+Moa|A2|”viktor_v3_final.mp4.” Tre? Finns det fler?|"viktor_v3_final.mp4." 3? 더 있어?
+Albin|B1|Ettan och tvåan var kassa, han hade typ ingen hals. Och Ida säger att det finns en fyra också, men den ska sparas.|1이랑 2는 구렸어, 목이 거의 없었거든. 그리고 이다 말로는 4도 있대. 근데 그건 아껴 둔대.
+Moa|A1|Sparas? Till vad?|아껴 둬? 뭐에 쓰려고?
+Albin|B1|Till när den behövs, sa hon. Den här har legat här sedan i onsdags, men jag fick inte röra den förrän i dag.|필요할 때 쓴대. 이건 수요일부터 여기 있었는데, 오늘까지 손대지 말라고 했어.
+Moa|A2|Sedan i onsdags? Innan den kom ut?|수요일부터? 나오기도 전에?
+Albin|B1|Japp. Kan du förresten skriva texterna till klippen? Typ ”Vem granskar granskaren?”|응. 근데 너 클립 자막 좀 써 줄래? "감시자는 누가 감시하나?" 같은 거.
+Moa|B1|Asså, jag är sjukt kass på rubriker. Ida flyttade mig ju till kommentarerna. Jag måste typ på toa.|아, 나 제목 진짜 못 써. 이다가 나 댓글로 옮겼잖아. 나 화장실 좀.
+Albin|B1|Moa? Är allt okej där inne? Du var vit i ansiktet när du sprang, och jag hörde dig ända ut i korridoren.|모아? 안에서 괜찮아? 뛰어갈 때 얼굴 하얬어. 복도까지 소리 들렸어.
+Moa|A1|Lunchen. Dålig sushi, typ.|점심 때문에. 상한 초밥 같아.
+Albin|B1|Säg inget till Ida, hon tror att alla ljuger om toan nu. Jag har ett glas vatten åt dig här ute.|이다한테는 말하지 마. 요즘 다들 화장실 핑계 댄다고 생각하거든. 여기 밖에 물 한 잔 갖다 놨어.
+Moa|A1|Tack, Kev.|고마워, 케브.
+# 장면 4 — 오후 3시 반, 소피아의 유리방 (벽 화면의 조회수 그래프, 플랫폼의 자동 회신 메일 출력물, 소피아의 펜으로 줄이 그어진 A4 한 장)
+Fredrik|A2|Har ni sett siffrorna?|숫자 봤어?
+Amira|B1|1,4 miljoner visningar på den största plattformen och ungefär lika många på de andra tillsammans. Kurvan har inte planat ut än.|제일 큰 플랫폼에서 140만, 나머지 다 합쳐서 그 정도. 그래프가 아직 안 꺾였어.
+Fredrik|B2|Varje timme vi väntar ser hundratusen till filmen. Vi måste ut med något nu.|우리가 기다리는 한 시간마다 10만 명이 그 영상을 더 봐. 지금 뭐라도 내야 해.
+Sofia|B1|Vad vill du publicera, och vad vinner vi på det i kväll som vi inte vinner i morgon?|뭘 내고 싶은데? 그리고 내일 말고 오늘 밤에 내서 얻는 게 뭔데?
+Fredrik|B2|En motartikel i kväll: sex fingrar, klockan som står still, kaféet som har varit stängt sedan april och Viktors resehistorik. Allt det har vi redan, och Kvällsbladet har ringt fyra gånger för att fråga varför vi tiger.|오늘 밤 반박 기사. 손가락 여섯 개, 멈춘 시계, 4월부터 닫혀 있는 카페, 빅토르의 교통카드 기록. 그건 다 이미 있어. 그리고 Kvällsbladet에서 우리가 왜 입 다물고 있냐고 네 번이나 전화했어.
+Sofia|A1|Och plattformarna?|플랫폼들은?
+Amira|B1|Vi anmälde filmen som förtal i deras formulär klockan åtta. Svaret var automatiskt: handläggningstiden kan vara upp till sju dagar. En plattform har satt en etikett, ”manipulerat innehåll”, de andra har inte gjort någonting.|8시에 그쪽 신고 양식으로 명예훼손 신고했어. 답은 자동 회신이었고, 처리 기간은 최대 7일. 한 곳은 "조작된 콘텐츠" 라벨을 붙였고, 나머진 아무것도 안 했어.
+Fredrik|B2|Sju dagar. Om en vecka har ytterligare en miljon sett den, och de flesta kommer aldrig att se någon etikett. Det är så plattformsansvar ser ut i praktiken: ett formulär och en kö.|7일. 일주일이면 백만 명이 더 볼 거고, 대부분은 라벨 같은 건 보지도 못할 거야. 플랫폼 책임이라는 게 실제론 이래. 신고 양식 하나랑 대기 줄.
+Sofia|B2|Där håller jag med dig. EU:s regler säger att de ska agera snabbt när de får veta att något är olagligt, men ”snabbt” är deras ord och inte vårt. Det ändrar ändå inte vad vi kan bevisa i dag.|그건 네 말이 맞아. EU 규정은 불법인 걸 알게 되면 신속하게 조치하라고 하지만, "신속하게"는 걔네 기준이지 우리 기준이 아니야. 그래도 우리가 오늘 증명할 수 있는 게 달라지진 않아.
+Fredrik|B1|Vi kan bevisa att han inte satt där.|그 사람이 거기 없었다는 건 증명할 수 있잖아.
+Sofia|B2|Vi kan visa att vår egen reporter, enligt sin egen anteckningsbok och en kollega på samma redaktion, satt någon annanstans. Det är ett alibi, inte ett avslöjande, och den som redan tror på filmen ser bara en tidning som försvarar sina egna.|우리가 보여 줄 수 있는 건, 우리 기자가 자기 수첩이랑 같은 편집국 동료 말에 따르면 다른 데 있었다는 거야. 그건 알리바이지 폭로가 아니야. 이미 영상을 믿는 사람한테는 제 식구 감싸는 신문으로만 보일 거고.
+Fredrik|A2|Så vi säger ingenting?|그럼 아무 말도 안 해?
+Sofia|B2|Nej. Men ett dementi räcker aldrig; vi måste visa hur filmen gjordes och av vem.|아니. 하지만 부인만으로는 절대 충분하지 않아. 그 영상이 어떻게, 누구 손으로 만들어졌는지 보여 줘야 해.
+Amira|B2|Och om vi publicerar sex fingrar i kväll, kommer det en version utan sex fingrar i morgon. Då har vi bara lärt dem att göra nästa film bättre.|그리고 오늘 밤 손가락 여섯 개를 내보내면, 내일은 손가락 여섯 개 없는 버전이 나올 거야. 그럼 우린 다음 영상을 더 잘 만드는 법만 가르쳐 준 셈이지.
+Fredrik|B1|Det är ett bra argument. Men det är Viktors namn som står i varje kommentarsfält i dag, inte vårt.|좋은 논리야. 하지만 오늘 모든 댓글창에 올라 있는 건 우리 이름이 아니라 빅토르 이름이야.
+Sofia|B2|Jag vet, och det är därför vi publicerar ett kort uttalande under mitt namn – tre meningar, utan detaljer om metoden, så att vi inte ger dem en bruksanvisning.|알아. 그래서 내 이름으로 짧은 입장문을 낼 거야. 세 문장, 방법에 대한 세부 내용은 빼고. 그쪽에 사용설명서를 쥐여 주지 않게.
+Fredrik|A1|Vilka tre?|어떤 세 문장?
+Sofia|B2|”Stockholmsposten känner till filmen som sprids om vår reporter Viktor Holm. Vi har starka skäl att tro att den är fabricerad och granskar den med samma metoder som allt annat vi publicerar. Viktor Holm deltar inte i den granskningen.”|"스톡홀름스포스텐은 본사 기자 빅토르 홀름에 관해 퍼지고 있는 영상을 알고 있습니다. 저희는 이 영상이 조작됐다고 볼 강력한 근거가 있으며, 저희가 보도하는 다른 모든 것과 같은 방법으로 검증하고 있습니다. 빅토르 홀름은 이 검증에 참여하지 않습니다."
+Fredrik|B1|Det är ett dementi med längre ord.|그건 단어만 긴 부인이야.
+Sofia|B2|Nej. Ett dementi ber läsarna att lita på oss, medan det här är ett löfte om att vi kommer tillbaka med bevis som de kan pröva själva.|아니. 부인은 독자들한테 우릴 믿어 달라고 하는 거고, 이건 독자가 직접 따져 볼 수 있는 증거를 들고 돌아오겠다는 약속이야.
+Fredrik|A2|Och när kommer bevisen?|증거는 언제 나오는데?
+Sofia|B2|När vi har hittat originalet: var filmen gjordes, i vilken fil och på vems dator. Allt annat vore att be om ett förtroende som vi ännu inte har förtjänat.|원본을 찾으면. 영상이 어디서, 어떤 파일로, 누구 컴퓨터에서 만들어졌는지. 그 밖의 건 다 아직 얻지도 못한 신뢰를 달라고 하는 거야.
+Amira|B2|Det kan ta veckor, Sofia. Leverantörer av det här slaget brukar sudda ut sina spår långt innan någon ens har börjat leta.|몇 주 걸릴 수도 있어, 소피아. 이런 종류의 납품업자들은 누가 찾기 시작하기도 한참 전에 흔적을 지우거든.
+Fredrik|B2|Okej, det är ditt namn under och ditt beslut. Jag lägger uttalandet överst på sajten klockan fem och svarar Kvällsbladet själv, även om jag hade föredragit att vi slog tillbaka redan i kväll.|알았어, 네 이름이 들어가고 네 결정이니까. 입장문은 5시에 사이트 맨 위에 올리고, Kvällsbladet엔 내가 직접 답할게. 나라면 오늘 밤에 바로 반격하는 쪽을 택했겠지만.
+Sofia|A2|Tack, Fredrik. Och i morgon har vi Kvist vid ambassaden. Vi tar en dag i taget.|고마워, 프레드릭. 그리고 내일은 대사관 앞에 크비스트가 있어. 하루씩 가자.
+# 장면 5 — 밤 8시 40분 ~ 10시경, 베링뷔, 빅토르의 아파트 (현관 초인종, 센트룸 피자집 상자 두 개, 부엌 식탁, 뒤집어 놓은 빅토르의 휴대폰)
+Viktor|A1|Alva? Vad gör du här?|알바? 여기 웬일이야?
+Alva|A2|Jag har köpt pizza. Får jag komma in?|피자 사 왔어. 들어가도 돼?
+Viktor|A2|Vet mamma att du är här?|엄마는 너 여기 온 거 알아?
+Alva|B1|Hon körde mig hit. Hon hämtar mig klockan tio, och hon sa att du inte får prata om jobbet.|엄마가 태워다 줬어. 10시에 데리러 온대. 그리고 아빠는 일 얘기 하면 안 된대.
+Viktor|A1|Kom in.|들어와.
+Alva|A2|En Vesuvio till dig. Du tar alltid samma.|아빠 건 베수비오. 맨날 같은 거 먹잖아.
+Viktor|A2|Och du tar alltid kebabpizza.|넌 맨날 케밥피자 먹고.
+Alva|A1|Mm.|응.
+Viktor|A2|Vill du ha något att dricka? Jag har bara mjölk och vatten.|마실 거 줄까? 우유랑 물밖에 없는데.
+Alva|A1|Vatten.|물.
+Viktor|B1|Jag stängde av telefonen i två timmar i eftermiddags. Det har jag aldrig gjort förut.|오늘 오후에 휴대폰을 두 시간 꺼 놨어. 그런 거 처음이야.
+Alva|B1|Jag gick ur klassens chatt. Eva skrev till mig privat och frågade om jag ville prata, men det ville jag inte.|나 반 단톡방 나왔어. 에바가 따로 연락해서 얘기하고 싶냐고 물어봤는데, 그러고 싶지 않았어.
+Viktor|A1|Okej.|그래.
+Alva|A2|Slutar du nu? Med jobbet?|이제 그만둬? 일?
+Viktor|B1|Nej. Men jag får inte jobba med just det här på ett tag. Sofia bestämde det i dag.|아니. 근데 당분간 바로 이 일은 못 맡아. 소피아가 오늘 그렇게 정했어.
+Alva|A2|Är du arg på henne?|소피아한테 화났어?
+Viktor|B2|Jag tycker att hon har fel, men jag förstår varför hon gör det. Den som själv är en del av en historia kan inte vara den som berättar den.|틀렸다고 생각하지만 왜 그러는지는 이해해. 자기가 이야기의 일부인 사람은 그 이야기를 전하는 사람이 될 수 없거든.
+Alva|B1|Det låter som något som du har skrivit på en lapp och satt upp på kylskåpet.|그거 아빠가 쪽지에 써서 냉장고에 붙여 놓은 말 같다.
+Viktor|A1|Kanske.|그럴지도.
+Alva|A2|Pizzan är god i alla fall. Mamma står nere nu.|피자는 맛있네, 어쨌든. 엄마 지금 밑에 왔대.
+Viktor|A2|Jag följer dig ner till bilen.|차까지 데려다줄게.
+Alva|A2|Jag vet att den är fejk. Jag hatar den ändå.|가짜인 거 알아. 그래도 싫어.
+Viktor|B1|Jag med, gumman. Tack för att du kom, fast ingen bad dig.|아빠도 그래, 우리 딸. 부르지도 않았는데 와 줘서 고마워.
+Alva|A2|Ingen behövde be mig. Hej då, pappa. Din telefon surrar.|부를 필요 없었어. 잘 있어, 아빠. 휴대폰 울린다.
+Elin|A2|Originalet ligger på deras server. Version tre. Det finns en version fyra.|원본은 그쪽 서버에 있어요. 버전 3. 버전 4도 있어요.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Det är inte jag.** | 그거 나 아니야. | *det är* + 인칭대명사 주격 *jag*. 구어에서는 *Det är inte mig*라고도 하지만 표준어·문어는 *jag*. 빅토르는 이 짧은 문장 다음에 바로 "내 얼굴이지만 나는 아니다"라고 덧붙인다 — 딥페이크 시대에 *ansikte*(얼굴)와 *jag*(나)가 분리되는 순간 |
+| `A2` | **Alva såg filmen innan jag hann ringa.** | 내가 전화하기도 전에 알바가 그 영상을 봤다. | *hinna* + 원형 = (시간 안에) ~할 겨를이 있다. 과거형 *hann*. *innan jag hann ringa* = "전화할 틈도 없이, 그 전에". 부정문 *Jag hann inte*(시간이 없었다)도 자주 쓴다 |
+| `B1` | **Titta på händerna – han har sex fingrar i en av bildrutorna.** | 손을 봐. 한 프레임에서 손가락이 여섯 개야. | *titta på* + 목적어. *bildruta* = 영상의 한 프레임(*bild* + *ruta* 칸). *en av* + 복수 한정형(*bildrutorna*) = ~들 중 하나. 생성 영상은 물건을 쥔 손, 귀, 머리카락 경계처럼 복잡한 부분에서 자주 틀린다 |
+| `B1` | **Jag förstår beslutet, Sofia. Jag tycker bara att det är fel. Tack.** | 결정은 이해합니다, 소피아. 틀렸다고 생각할 뿐이에요. 고맙습니다. | *förstå*(이해하다)와 *tycka*(의견으로 생각하다)의 대비. *bara*가 "~할 뿐"으로 반대 의견의 수위를 낮추는 척하지만, 마지막 *Tack.* 한 단어가 분노를 감춘다. 빅토르는 화가 날수록 정중해진다 |
+| `B2` | **Ett dementi räcker aldrig; vi måste visa hur filmen gjordes och av vem.** | 부인만으로는 절대 충분하지 않다. 영상이 어떻게, 누구 손으로 만들어졌는지 보여 줘야 한다. | *dementi*(공식 부인, 프랑스어에서 온 말 — 발음 [demanˈtiː]), 동사형 *dementera*. *gjordes*는 *göra*의 과거 수동형(-s). *av vem* = 누구에 의해 — 수동문의 행위자를 *av*로 나타낸다. 이번 화 소피아의 원칙 문장 |
+| `A2` | **Jag vet att den är fejk. Jag hatar den ändå.** | 가짜인 거 알아. 그래도 싫어. | *ändå* = 그래도, 그럼에도. 앞 문장의 사실을 인정하면서 감정은 바뀌지 않는다고 말할 때. *den*은 *filmen*(en-명사)을 받는 대명사 |
+| 구어 | **fejk** | 가짜, 구라 | 영어 *fake*의 구어 차용어. *Den är fejk.* / *ett fejkkonto*(가짜 계정) / *fejka*(~인 척하다, 꾸며 내다). 표준어로는 *falsk*, *förfalskad*, 영상이라면 *manipulerad* |
+| 미디어·정치 | **plattformsansvar** | 플랫폼 책임 | *plattform* + *s* + *ansvar*(책임). 소셜미디어 기업이 자기 서비스에서 퍼지는 불법·유해 콘텐츠에 지는 책임. 프레드릭의 냉소: *Det är så plattformsansvar ser ut i praktiken: ett formulär och en kö.*(플랫폼 책임이라는 게 실제론 이래 — 신고 양식 하나랑 대기 줄) |
+
+## 저널리즘·법 메모
+기자가 허위정보의 *피해자*가 되면 그 기자는 더 이상 그 사건의 취재자가 될 수 없다 — 당사자(*part*, 법적으로는 *målsägande*)가 쓴 기사는 아무리 정확해도 독자에게 자기 변호나 보복으로 읽히기 때문이다. 그래서 소피아는 빅토르를 영상 검증뿐 아니라 트롤 계정 취재 전체에서 일시 배제했지만, 그가 취재원 J에 대해 지는 비밀유지 의무(*tystnadsplikt*, 출판자유법상 취재원 보호)는 어떤 기사를 맡든 그대로 남는다. 반박도 "그건 내가 아니다"라는 *dementi*로는 부족하다: 독자가 스스로 따져 볼 수 있는 검증 가능한 증거 — 프레임 단위의 이상(입 모양과 음성의 불규칙한 어긋남, 쥔 손의 손가락 수, 빛과 그림자의 방향, 멈춘 배경), 독립적인 기록(교통카드 이용 내역, 폐업 시점), 그리고 가장 강한 증거인 *원본 파일과 제작자* — 를 보여 줘야 한다. 탐지 프로그램의 확률 수치는 단서일 뿐 증거가 아니며, 구체적인 판별 단서를 너무 빨리 공개하면 다음 가짜를 더 정교하게 만드는 "사용설명서"가 될 수 있다는 점도 보도 시점의 판단 요소가 된다. 플랫폼 신고는 EU 디지털서비스법(DSA)에 따라 접수·처리돼야 하지만 처리 속도는 플랫폼마다 다르고, 스웨덴 형법상 명예훼손(*förtal*)으로 경찰에 신고하는 것은 신문사가 아니라 피해자 개인이 한다.
+
+## 문화·현안 메모
+- **AI 딥페이크와 선거** — 2020년대 중반 유럽 여러 나라의 선거에서 정치인·기자의 목소리와 얼굴을 합성한 가짜 영상·음성이 투표 직전에 퍼지는 사례가 보고됐다. 몇 분 분량의 공개 영상(방송 출연, 연설)만 있어도 얼굴과 목소리를 흉내 낼 수 있게 되면서, TV에 자주 나오는 사람일수록 표적이 되기 쉽다. 판별 단서(손, 입 모양, 그림자, 반사, 배경)는 기술이 나아질수록 줄어들기 때문에, 언론은 점점 "어디서 처음 나왔고 누가 만들었나"라는 출처 추적에 기대게 된다.
+- **EU 디지털서비스법(DSA)과 신고 절차** — 2024년부터 전면 적용된 DSA는 대형 온라인 플랫폼이 불법 콘텐츠 신고를 받을 창구를 두고, 신고를 "적시에" 처리하며, 선거 관련 위험을 평가하도록 요구한다. 그러나 무엇이 불법인지는 각국 법에 달려 있고, 처리 기간도 법에 일수로 정해져 있지 않아 피해자는 그사이 수백만 회의 조회를 지켜봐야 하는 경우가 많다. 일부 플랫폼은 삭제 대신 "조작된 콘텐츠" 라벨을 붙인다.
+- **SL 카드의 이용 내역** — 스톡홀름 대중교통(SL)의 교통카드를 이름으로 등록해 두면 온라인 계정에서 언제 어느 역·정류장에서 카드를 찍었는지 이용 내역(*resehistorik*)을 볼 수 있다. 지하철은 들어갈 때만 찍기 때문에 "어디서 내렸는지"는 남지 않는다 — 빅토르의 기록이 베링뷔 9시 21분과 호른스툴 11시 8분, 두 번의 "탄 곳"뿐인 이유다.
+- ⚠️ 빅토르의 딥페이크 영상, 카페 스트란드칸텐, 영상 속 남자, Omsorgia와 그 홍보실의 대응, 플랫폼들의 처리 방식, Hemlandspartiet 디지털팀과 알빈·모아, 빌마와 반 단톡방, 모든 숫자는 허구다. 실존 인물·기업·정당·플랫폼의 행위를 묘사하지 않는다. 딥페이크 판별 방법은 일반적인 원리만 썼고, DSA·명예훼손 제도는 실제 제도를 배경으로만 썼다.
+
+## 다음 화 예고
+> 8월 21일 금요일. 심리방어청 분석관은 "개별 사건은 말할 수 없다"면서 증폭 타임라인 한 장을 띄우고 — 그날 저녁, 잠입 한 달 만에 엘린이 "엘린"으로 돌아와 헨릭의 오두막에서 가재를 깐다.
