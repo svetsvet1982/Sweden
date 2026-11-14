@@ -1,0 +1,187 @@
+@title 3부 1화 — Kabeln
+@subtitle (케이블)
+@meta 날짜|2026년 3월 18일 수요일 새벽 2시 41분 ~ 저녁 7시 반경 (고틀란드 일출 5시 45분경)
+@meta 장소|고틀란드 류가른, 군나르의 부엌 (새벽 2시 41분) → 류가른 부두 (새벽 5시 45분) → 쿵스홀멘 Stockholmsposten 지하 "Källaren" (아침 7시 20분) → 같은 Källaren, 아미라의 화면 앞 (오전 9시 40분) → 같은 Källaren (오후 2시) → 류가른 북쪽 해안의 라우카르 위와 빅토르의 휴대폰 (저녁 7시 반)
+@meta 등장인물|**Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Gunnar** (군나르 린드그렌, 63, 헨릭의 형, 류가른의 어부) · **Viktor** (빅토르, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Noah** (노아 베리룬드, 24, 인턴) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장)
+@intro **지난 이야기** — 노르비크 시의회 의장은 사임했고 사회보험청 심사관 한나는 기소됐지만, Trygga Händer가 멈추자 베니의 보조는 하루아침에 끊겼다. 그날 밤 Källaren의 돈의 지도에서 빨간 실은 노르비크에서 리마솔의 명의 이사 안드레아스 미하일로, 다시 그가 이사로 앉은 선박관리사 Pelagos Baltic Shipmanagement와 그 회사가 관리하는 유조선 네 척으로 이어졌다. 자정 8분 전, 고틀란드의 헨릭이 전화했다: "고틀란드 동쪽에서 유조선 한 척이 닻을 끌고 있어. 이름이 Eventide Star야."
+@intro 세 시간 뒤, 3월 18일 수요일 새벽 2시 41분. 류가른 군나르의 부엌에서 헨릭은 아직 창가 의자에 앉아 있다. 수평선의 불빛은 보이지 않고, 냉장고 위 공유기에서 빨간 불이 깜빡이기 시작한다.
+# 장면 1 — 새벽 2시 41분, 류가른 군나르의 부엌 → 새벽 5시 45분, 류가른 부두 (빨간 불이 깜빡이는 공유기, 라디오, 봄을 앞두고 손질 중인 군나르의 배, 헨릭의 400mm 망원 렌즈)
+Gunnar|A1|Henrik. Är du vaken?|헨릭. 깼냐?
+Henrik|A2|Jag har int sovit. Jag har suttit här vid fönstret hela tiden.|안 잤어. 계속 여기 창가에 앉아 있었어.
+Gunnar|A2|Routern blinkar rött. Radion går, men datorn är död.|공유기가 빨간불로 깜빡여. 라디오는 나오는데 컴퓨터는 죽었어.
+Henrik|A1|Vad är klockan?|몇 시야?
+Gunnar|A1|Tjugo i tre.|3시 20분 전.
+Henrik|A2|Ljuset där ute är borta också. Det försvann för en kvart sen.|저 밖에 불빛도 없어졌어. 15분 전에 사라졌어.
+Gunnar|A2|Nätet är borta. Hä jär int strömmen, hä jär kabeln.|인터넷이 끊겼어. 전기가 아니야, 케이블이야.
+Henrik|A1|Hur vet du det?|그걸 어떻게 알아?
+Gunnar|B1|Byanätet går via stationen nere vid kusten, där kabeln till Lettland kommer upp ur havet. Hä har hänt förr, när en grävmaskin tog fel.|마을 망이 해안가 저 아래 기지국을 거쳐 가. 라트비아 가는 케이블이 바다에서 올라오는 데야. 전에도 있었어, 굴착기가 잘못 팠을 때.
+Henrik|A2|Ingen gräver i havet klockan tre på natten.|새벽 3시에 바다를 파는 사람은 없어.
+Gunnar|A1|Nä. Int i havet.|그렇지. 바다에선 안 파지.
+Henrik|B1|Jag skickar ett sms till Viktor. Han vill veta det innan radion säger det, även om han sover.|빅토르한테 문자 보낼게. 자고 있어도, 라디오가 말하기 전에 알고 싶어 할 거야.
+Gunnar|A2|Skriv kort. Mobilen går fortfarande, men långsamt.|짧게 써. 휴대폰은 아직 되는데, 느려.
+Henrik|A1|”Kabeln är av. 02.40.”|"케이블 끊김. 02시 40분."
+Gunnar|A2|Hör du? Radion har det redan, i nyheterna klockan tre.|들려? 라디오에 벌써 나온다. 3시 뉴스에.
+Henrik|B1|”Avbrott i en datakabel mellan Gotland och Ventspils.” De säger int ett ord om varför.|"고틀란드–벤츠필스 간 통신케이블 장애." 왜인지는 한마디도 안 하네.
+Gunnar|B1|Hä säger de aldrig den första timmen. Drick ditt kaffe, så går vi ner till bryggan när det ljusnar.|첫 한 시간엔 절대 안 말해. 커피 마셔. 날 밝으면 부두로 내려가자.
+Henrik|A1|Kom. Nu ljusnar det.|와. 이제 밝아진다.
+Gunnar|A2|Ta mössan. Vinden kommer från öster i dag.|모자 써. 오늘은 바람이 동쪽에서 불어.
+Henrik|A1|Där. Ser du?|저기. 보여?
+Gunnar|A2|Kustbevakningen. Den stora grå. Hä jär int en båt man ser här varje dag.|해안경비대야. 큰 회색 배. 여기서 매일 보는 배가 아니지.
+Henrik|B1|Den ligger stilla precis där ljuset låg i natt. Jag tar en serie med fyrahundringen innan solen kommer upp.|어젯밤 불빛이 있던 바로 그 자리에 가만히 떠 있어. 해 뜨기 전에 400밀리로 연사 찍을게.
+Gunnar|A1|Och tankern?|그 유조선은?
+Henrik|A2|Borta. Horisonten är tom.|없어. 수평선이 비었어.
+Gunnar|B1|Hä jär vårt hav, Henrik. Här fiskade farsan, och här har vi lagt nät sen vi var tio år gamla.|우리 바다야, 헨릭. 아버지가 여기서 고기를 잡았고, 우린 열 살 때부터 여기 그물을 놨어.
+Henrik|B2|Och nu kommer en rostig tanker som ingen vill kännas vid, drar sitt ankare över botten som en plog och kör vidare som om ingenting hade hänt. Fan, Gunnar. Fan ta dem.|그런데 이제 아무도 자기 거라고 안 하는 녹슨 유조선이 와서, 쟁기처럼 바닥에 닻을 끌고, 아무 일도 없었다는 듯이 가 버려. 젠장, 형. 망할 놈들.
+Gunnar|A2|Så har jag int hört dig prata sen farsans begravning.|아버지 장례식 이후로 네가 그렇게 말하는 건 처음 듣는다.
+Henrik|A2|Förlåt. Jag ska fotografera, int svära.|미안. 난 사진을 찍어야지, 욕을 할 게 아니라.
+Gunnar|A1|Fotografera, då.|그럼 찍어.
+Henrik|B1|Trettiosex bilder. En dag kommer någon att fråga vad som hände här i natt, och då ska bilderna finnas.|서른여섯 장. 언젠가 누가 어젯밤 여기서 무슨 일이 있었냐고 물을 거고, 그때 사진이 있어야 해.
+# 장면 2 — 아침 7시 20분, Källaren → 8시 15분, 소피아·프레드릭과의 아침 회의 (Brevlådan 알림, 화이트보드의 세 칸, 위층 데스크에서 들려오는 TV 속보)
+Noah|A2|Det har kommit något i Brevlådan. Klockan fjorton över sju.|브레블로단에 뭐가 왔어요. 7시 14분이요.
+Viktor|A1|Läs.|읽어.
+Noah|A2|”Kolla AIS för Eventide Star i natt.” Inget mer. Ingen hälsning.|"오늘 밤 Eventide Star의 AIS를 확인해 봐." 그게 다예요. 인사도 없어요.
+Amira|A1|Fan. Samma namn.|젠장. 같은 이름이야.
+Noah|A2|Eventide? Som bolaget på Cypern?|Eventide요? 키프로스 그 회사처럼요?
+Viktor|B1|Som fartyget som Henrik ringde om tio i tolv i går kväll. Då var kabeln fortfarande hel.|어젯밤 12시 10분 전에 헨릭이 전화로 말한 그 배처럼. 그땐 케이블이 아직 멀쩡했어.
+Noah|B1|Så den som skrev visste vad som skulle hända, eller så såg han samma sak som Henriks vän.|그럼 쓴 사람은 무슨 일이 일어날지 알았거나, 헨릭 지인이랑 같은 걸 봤다는 거네요.
+Viktor|B2|Eller så har han läst samma AIS-data som vem som helst kan köpa. Vi letar inte efter den som skriver, Noah. Vi kollar det han pekar på.|아니면 누구나 살 수 있는 AIS 데이터를 그 사람도 읽었거나. 우린 쓴 사람을 찾지 않아, 노아. 그 사람이 가리키는 걸 확인하지.
+Amira|B1|Jag började ladda ner loggarna hemma klockan sex, när radion sa att kabeln var av. Ge mig en timme med dem.|여섯 시에 라디오에서 케이블 끊겼다고 할 때 집에서 로그 내려받기 시작했어. 한 시간만 줘.
+Sofia|A2|God morgon. Fredrik och jag har tjugo minuter före morgonmötet.|좋은 아침. 프레드릭이랑 나, 아침 회의 전까지 20분 있어.
+Fredrik|B1|Och hela Sverige pratar om en enda sak. Kvällsbladet har haft ”Sabotage mot Gotland” på sajten sedan halv sex.|그리고 온 스웨덴이 한 가지 얘기만 해요. Kvällsbladet은 5시 반부터 사이트에 "고틀란드 사보타주"를 걸어 놨어요.
+Sofia|A1|Vad vet vi?|우리가 아는 게 뭐야?
+Viktor|B1|Kabeln mellan Gotland och Ventspils gick av klockan två och fyrtio. Operatören har bekräftat det, och Henrik skickade ett sms två minuter senare.|고틀란드–벤츠필스 케이블이 2시 40분에 끊겼어. 운영사가 확인했고, 헨릭이 2분 뒤에 문자를 보냈어.
+Noah|B1|Kustbevakningen säger att de ”följer ett fartyg”, men de vill inte säga vilket. Och polisen har inlett en förundersökning om grovt sabotage.|해안경비대는 "선박 한 척을 따라가고 있다"는데 어느 배인지는 말 안 해요. 그리고 경찰은 중대 사보타주 혐의로 예비수사를 시작했고요.
+Sofia|B2|Då gör vi som vi brukar. Tre kolumner på tavlan: fakta, antaganden och åsikter. Ingenting flyttas åt vänster förrän vi kan visa varför.|그럼 늘 하던 대로 하자. 칠판에 세 칸. 사실, 추정, 의견. 왜인지 보여 줄 수 있기 전엔 아무것도 왼쪽 칸으로 옮기지 않아.
+Amira|A2|Jag skriver. Fakta först.|제가 쓸게요. 사실부터.
+Viktor|B2|Fakta: en kabel är av, polisen utreder och Kustbevakningen följer ett fartyg. Antagande: att fartyget är Eventide Star och att det släpade ankaret. Det vet vi bara från Henriks vän och från ett anonymt tips.|사실: 케이블이 끊겼고, 경찰이 수사 중이고, 해안경비대가 배 한 척을 따라가고 있다. 추정: 그 배가 Eventide Star고 닻을 끌었다는 것. 그건 헨릭 친구랑 익명 제보로만 알아.
+Sofia|A1|Och åsikter?|그럼 의견은?
+Fredrik|B2|Att det är sabotage. Det tror varenda expert som har suttit i tv-soffan i morse, och förmodligen tror regeringen det också.|사보타주라는 거요. 오늘 아침 TV 소파에 앉았던 전문가들이 하나같이 그렇게 생각하고, 아마 정부도 그럴 거예요.
+Sofia|B1|Det kan mycket väl vara sant. Men det står i fel kolumn, Fredrik.|충분히 사실일 수 있어. 하지만 칸을 잘못 찾았어, 프레드릭.
+Fredrik|A2|Alla andra skriver ”misstänkt sabotage”. Vi kan inte komma sist.|다른 데는 다 '사보타주 의심'이라고 써요. 우리가 꼴찌로 갈 순 없어요.
+Sofia|B2|Vi kommer inte sist om vi har något som de andra saknar. Om ankaret släpades med avsikt är det inte en olycka utan sabotage, och då måste vi kunna bevisa det.|다른 데 없는 걸 갖고 있으면 꼴찌가 아니지. 닻을 일부러 끌었다면 그건 사고가 아니라 사보타주야. 그렇다면 우린 그걸 증명할 수 있어야 해.
+Fredrik|A2|Polisen själva använder ordet. Det står i deras pressmeddelande.|경찰이 직접 그 단어를 써요. 보도자료에 있어요.
+Viktor|B2|Polisen skriver vad de utreder, inte vad som har hänt. ”Polisen utreder sabotage” är fakta. ”Sabotage!” med utropstecken är en åsikt i en rubrik.|경찰은 뭘 수사하는지 쓰는 거지, 무슨 일이 일어났는지를 쓰는 게 아니야. "경찰, 사보타주 수사"는 사실이야. 느낌표 붙은 "사보타주!"는 제목에 들어간 의견이고.
+Fredrik|A2|Okej. Men jag behöver något till webben före tolv.|좋아요. 근데 12시 전에 웹에 뭔가 필요해요.
+Sofia|B1|Det får du. En text om vad som har hänt, med polisens ord inom citattecken. Rubriken bestämmer vi när Amira har tittat på loggarna.|그건 줄게. 무슨 일이 일어났는지 쓴 기사, 경찰 표현은 따옴표 안에. 제목은 아미라가 로그를 본 다음에 정해.
+Fredrik|B2|Då gör jag en grafik över kabeln under tiden, med landningsplatserna och avståndet, så att läsarna förstår varför en enda kabel räknas som samhällsviktig infrastruktur.|그럼 그동안 케이블 그래픽을 만들게요. 상륙 지점이랑 거리를 넣어서, 케이블 하나가 왜 사회 필수 기반시설로 치는지 독자들이 이해하게요.
+Sofia|A1|Bra. Gör det.|좋아. 그렇게 해.
+Noah|A1|Vad gör jag?|전 뭐 해요?
+Viktor|B1|Du ringer operatören, Kustbevakningen och polisen igen, och du skriver ner exakt vad de säger och när. Inga sammanfattningar.|운영사, 해안경비대, 경찰에 다시 전화해. 그리고 정확히 뭐라고 했는지, 언제 말했는지 받아 적어. 요약하지 말고.
+Noah|A2|Ordagrant. Med klockslag. Fattar.|글자 그대로. 시각까지. 알겠어요.
+Sofia|B1|Och Henrik? Han är den ende av oss som står på ön i dag.|그리고 헨릭은? 오늘 섬에 있는 건 우리 중 헨릭뿐이잖아.
+Viktor|B1|Han har bilder på Kustbevakningens fartyg från gryningen. Och han har en vän som han inte ska namnge.|새벽에 찍은 해안경비대 배 사진이 있어. 그리고 이름을 대면 안 되는 친구가 하나 있고.
+Sofia|B2|Då vill jag att någon påminner honom om att vännen har meddelarskydd, men att skyddet inte gäller om han lämnar ut något som rör rikets säkerhet.|그럼 누가 헨릭한테 일깨워 줘. 그 친구는 제보자 보호를 받지만, 국가 안보에 관한 걸 넘기면 그 보호가 적용되지 않는다는 걸.
+Viktor|A2|Jag ringer honom. Han svarar alltid efter tredje signalen.|내가 전화할게. 늘 신호가 세 번 가야 받아.
+Fredrik|B1|Hälsa Hesa att jag vill ha bilderna så fort han kommer åt nätet. Det är ju hans hemtrakt.|헤사한테 인터넷 되는 대로 사진 보내 달라고 전해 줘. 거기가 그 사람 고향이잖아.
+Amira|B1|Han kommer inte åt något nät, Fredrik. Hela byn sitter utan internet, det var ju därför han märkte det.|헤사는 인터넷 못 써요, 프레드릭. 마을 전체가 인터넷이 끊겼어요. 그래서 알아챈 거잖아요.
+Fredrik|A2|Mobilen, då. Kapten väntar.|그럼 휴대폰으로. 캡틴이 기다린다.
+# 장면 3 — 오전 9시 40분, Källaren, 아미라의 모니터 두 대 앞 (상업용 AIS 아카이브, 수신국 두 곳의 원시 로그, 부두의 헨릭과 스피커폰)
+Amira|A1|Viktor. Kom hit.|빅토르. 이리 와.
+Viktor|A2|Har du hittat den?|찾았어?
+Amira|B1|Det här är det kommersiella AIS-arkivet, det som rederier och försäkringsbolag betalar för. Eventide Star passerar öster om Gotland mellan tio i går kväll och fyra i morse.|이게 상업용 AIS 아카이브야. 선사랑 보험사들이 돈 내고 쓰는 거. Eventide Star가 어젯밤 10시부터 새벽 4시 사이에 고틀란드 동쪽을 지나가.
+Viktor|A1|Rakt?|직선으로?
+Amira|B2|Som en linjal. Elva knop hela vägen, samma kurs i sex timmar, och den korsar kabeln tjugo kilometer norr om stället där den gick av. Om man bara tittar här, har fartyget ingenting med saken att göra.|자로 잰 듯이. 내내 11노트, 여섯 시간 동안 같은 침로. 그리고 케이블이 끊긴 지점에서 북쪽으로 20킬로미터 떨어진 데서 케이블을 가로질러. 이것만 보면 그 배는 이 일이랑 아무 상관이 없어.
+Viktor|B1|Men Henriks vän såg två knop och sicksack. Då är det någon som har fel.|근데 헨릭 친구는 2노트에 지그재그를 봤어. 그럼 누군가는 틀린 거야.
+Amira|B2|Eller så ljuger signalen. Arkivet är en sammanställning, så jag hämtade rådata från två mottagare: en amatörstation på Gotlands östkust och en mottagare i Lettland som delar sina loggar öppet.|아니면 신호가 거짓말을 하든가. 아카이브는 취합본이라서, 수신국 두 곳에서 원시 데이터를 받았어. 고틀란드 동해안의 아마추어 수신국 하나, 그리고 로그를 공개하는 라트비아 수신기 하나.
+Viktor|A1|Och?|그래서?
+Amira|B1|Den gotländska stationen hör fartyget hela natten, med exakt samma signalstyrka. Klockan tio, klockan tolv, klockan tre.|고틀란드 수신국은 밤새 그 배를 들어. 신호 세기가 정확히 똑같아. 10시에도, 12시에도, 3시에도.
+Viktor|A2|Vad betyder det?|그게 무슨 뜻이야?
+Amira|B2|Att sändaren inte rörde sig. Om fartyget verkligen hade gått sextio kilometer norrut, skulle signalen ha blivit svagare för varje timme. Positionerna flyttade sig, men inte båten.|송신기가 안 움직였다는 거지. 배가 정말 북쪽으로 60킬로미터를 갔다면 신호는 시간마다 약해졌어야 해. 위치 값은 움직였는데, 배는 안 움직였어.
+Sofia|B2|Förklara det för mig som om jag vore sjuttio år och bara läste papperstidningen.|내가 일흔 살이고 종이신문만 읽는 사람이라고 치고 설명해 봐.
+Amira|B1|Fartyget skickar ut sin egen position, som ett vykort: ”Här är jag.” Men vem som helst med rätt utrustning kan skriva fel adress på vykortet.|배는 자기 위치를 스스로 보내요. 엽서처럼요. "나 여기 있어." 근데 장비만 있으면 누구든 엽서에 주소를 틀리게 쓸 수 있어요.
+Noah|A2|Spoofing. Det gör folk i spel också.|스푸핑이네요. 게임에서도 사람들이 그래요.
+Amira|B1|Precis. Och den lettiska mottagaren, som borde ha hört fartyget om det verkligen var så långt norrut, hör ingenting alls förrän halv fyra.|맞아. 그리고 배가 정말 그렇게 북쪽에 있었다면 들었어야 할 라트비아 수신기는, 3시 반까지 아무것도 못 들어.
+Viktor|B1|Så spåret i arkivet är en kuliss. Ett spökspår som någon har ritat åt oss.|그러니까 아카이브 항적은 무대 배경이네. 누가 우리 보라고 그려 놓은 유령 항적.
+Sofia|A2|Det är din tolkning. Vad har vi mer?|그건 네 해석이고. 또 뭐가 있어?
+Viktor|A2|Henrik har skickat en bild. Jag ringer upp honom.|헨릭이 사진을 보냈어. 다시 전화 걸게.
+Henrik|A2|Hör ni mig? Täckningen är dålig här nere vid bryggan.|들려? 부두 아래라 신호가 안 좋아.
+Amira|B1|Fan, kolla här. AIS säger elva knop rakt fram, radarn säger två knop i sicksack.|젠장, 여기 봐. AIS는 11노트로 직진, 레이더는 2노트로 지그재그야.
+Henrik|B1|Min vän fotograferade sin skärm med mobilen i natt, tjugo i tolv. Han skickade den till mig i morse, och jag har lovat att ingen utanför Källaren får se den.|내 친구가 어젯밤 12시 20분 전에 자기 화면을 휴대폰으로 찍었어. 오늘 아침 나한테 보냈고, 난 Källaren 밖에선 아무도 못 보게 하겠다고 약속했어.
+Amira|A2|Det ser ut som två fartyg. Ett på AIS och ett på radarn.|배가 두 척인 것처럼 보여요. AIS에 한 척, 레이더에 한 척.
+Viktor|B1|Sofia, så här är det: enligt AIS gick fartyget rakt fram, men radarn visar något helt annat.|소피아, 이런 거야. AIS에 따르면 배는 직진했는데, 레이더는 전혀 다른 걸 보여 줘.
+Sofia|B2|Henrik, jag tvivlar inte på dig. Men en mobilbild av en skärm, från en källa som vi aldrig kan namnge, bevisar inte att någon har gjort det med flit.|헨릭, 널 못 믿어서 그러는 게 아니야. 하지만 이름을 절대 댈 수 없는 취재원이 찍은 화면 사진 한 장으로는, 누가 일부러 그랬다는 게 증명되지 않아.
+Henrik|B2|Det vet jag. Men jag har fotograferat det här havet i fyrtio år, och jag säger dig: det luktar bränt.|알아. 하지만 난 40년 동안 이 바다를 찍어 왔어. 그리고 말해 두는데, 탄 냄새가 나.
+Noah|A2|Luktar bränt? Brinner det?|탄 냄새요? 불났어요?
+Henrik|B1|Nej, pojk. Det betyder att något är fel, även om man int kan se det än.|아니, 이 녀석아. 아직 눈에 안 보여도 뭔가 잘못됐다는 뜻이야.
+Viktor|B1|Kan bilden visa vem din vän är? Skärmen, ett hörn, något som ligger på bordet?|그 사진으로 네 친구가 누군지 드러날 수 있어? 화면, 모서리, 책상 위에 놓인 뭐든?
+Henrik|B2|Konsolens nummer syns i nederkanten, och det finns bara ett fåtal sådana på hela ostkusten. Den som vill leta hittar honom på en eftermiddag.|화면 아래쪽에 콘솔 번호가 보여. 그런 건 동해안 전체에 몇 대 없어. 찾으려고 마음먹은 사람은 오후 한나절이면 찾아.
+Sofia|B2|Då publicerar vi inte bilden, och vi skriver inte heller något som bara han kan ha sett. Varje detalj som pekar tillbaka på honom är en detalj för mycket.|그럼 사진은 안 내보내. 그리고 그 사람만 봤을 수 있는 내용도 안 써. 그 사람을 가리키는 세부 사항은 하나하나가 다 넘치는 거야.
+Amira|B1|Men AIS-loggarna är våra egna. Vem som helst kan ladda ner dem och göra samma jämförelse som jag.|하지만 AIS 로그는 우리 거예요. 누구든 내려받아서 저랑 똑같이 비교해 볼 수 있어요.
+Viktor|B2|Då skriver vi det som går att kontrollera: att fartygets egna signaler inte går ihop, och att vem som helst kan se det i öppna loggar. Radarn finns inte i texten.|그럼 확인 가능한 것만 쓰자. 그 배가 스스로 보낸 신호들이 서로 맞지 않는다는 것, 그리고 공개 로그에서 누구든 그걸 볼 수 있다는 것. 레이더는 기사에 없어.
+Fredrik|A2|Och rubriken? Klockan är tjugo i elva.|그럼 제목은요? 10시 40분이에요.
+Sofia|A2|”Kabel till Lettland skadad – frågor kring fartygs kurs.”|"라트비아행 케이블 손상 — 선박 항적에 의문."
+Fredrik|B1|Det är snällare än allt annat på nätet i dag. Men okej, jag ger mig. Du är chefen.|오늘 인터넷에 있는 어떤 제목보다 순하네요. 하지만 좋아요, 제가 물러설게요. 국장님이 보스죠.
+Sofia|B1|Och fartygets namn står inte i texten förrän vi har en andra källa.|그리고 선박 이름은 두 번째 출처가 생기기 전까진 기사에 안 들어가.
+Henrik|A2|Då hörs vi i kväll. Jag går upp till raukarna och fotograferar ljuset.|그럼 저녁에 통화하자. 라우카르에 올라가서 빛을 찍을게.
+# 장면 4 — 오후 2시, Källaren (국제 해사 데이터베이스, 키프로스 법인등기, 리마솔에서 쓴 빅토르의 수첩)
+Amira|A2|Okej. Nu tittar vi på båten, inte på signalen.|좋아. 이제 신호 말고 배를 보자.
+Viktor|A1|IMO-numret?|IMO 번호?
+Amira|B1|Sju siffror som följer fartyget från varvet till skroten, oavsett vad det heter. Och den sista är en kontrollsiffra, precis som i ett personnummer.|조선소에서 폐선장까지 배를 따라다니는 일곱 자리 숫자야. 이름이 뭐든 상관없이. 그리고 마지막 자리는 검증 숫자야. 개인번호처럼.
+Noah|A2|Stämmer den?|맞아요?
+Amira|A2|Den stämmer. Byggd 2005 i Sydkorea, hundraåttio meter lång.|맞아. 2005년 한국에서 건조, 길이 180미터.
+Viktor|A1|Och namnen?|이름들은?
+Amira|B1|Fartyget har bytt namn fyra gånger på tre år. Flaggan är Gabon.|배 이름이 3년 동안 네 번 바뀌었어. 국적은 가봉이고.
+Noah|A2|Varför byter man namn på en båt?|배 이름은 왜 바꿔요?
+Viktor|B2|Av samma skäl som man byter namn på ett bolag: varje nytt namn gör det lite svårare att hitta det gamla, och det gamla namnet har ofta en historia som någon vill bli av med.|회사 이름을 바꾸는 것과 같은 이유지. 새 이름이 하나 생길 때마다 옛 이름을 찾기가 조금씩 어려워지고, 옛 이름엔 누군가 떨쳐 내고 싶은 이력이 붙어 있는 경우가 많거든.
+Amira|B1|Fram till våren 2023 hette det Marlin Sun, sedan Sea Tiara, sedan Aster och sedan Noor Seven. I november i fjol blev det Eventide Star.|2023년 봄까지는 Marlin Sun이었고, 그다음 Sea Tiara, Aster, Noor Seven. 작년 11월에 Eventide Star가 됐어.
+Noah|A2|Eventide Star kom alltså efter Eventide Holdings.|그러니까 Eventide Star가 Eventide Holdings보다 나중이네요.
+Viktor|B2|Ja, holdingbolaget registrerades redan 2021, fyra år innan någon döpte om båten. Men ett namn som liknar ett annat är fortfarande en fråga och inte ett bevis, hur frestande det än är.|응, 지주회사는 이미 2021년에 등록됐어. 누가 배 이름을 바꾸기 4년 전이지. 하지만 이름이 다른 이름과 닮았다는 건 여전히 질문이지 증거가 아니야. 아무리 솔깃해도.
+Amira|B1|Vem som sköter fartyget vet vi redan sedan Cypern: Pelagos Baltic Shipmanagement. Det nya är vem som står som ägare.|배를 관리하는 게 누군지는 키프로스 이후로 이미 알아. Pelagos Baltic Shipmanagement. 새로운 건 소유주로 누가 올라 있느냐야.
+Viktor|A1|Vem?|누구?
+Amira|B2|Ett bolag på Marshallöarna med ett enda fartyg och ingen personal. Adressen är c/o Andreas Michael & Partners, tredje våningen, i huset med fjortonhundra brevlådor.|직원도 없고 배 한 척만 가진 마셜제도 회사. 주소는 Andreas Michael & Partners 방(c/o), 3층. 우편함 1,400개 있던 그 건물.
+Viktor|B2|Jag skrev det i blocket i Limassol: ”Pelagos, juni 2022. Michael.” Han satt alltså redan i styrelsen när rederiet tog över båten året därpå, vilket betyder att han var med från början.|리마솔에서 수첩에 적었어. "Pelagos, 2022년 6월. 미하일." 그러니까 선사가 이듬해에 그 배를 넘겨받았을 때 그 사람은 이미 이사회에 있었던 거야. 처음부터 함께였다는 뜻이지.
+Noah|A2|Samma man. Samma hus. Igen.|같은 사람. 같은 건물. 또.
+Amira|B2|Och nu det som jag egentligen ville visa dig. Pelagos bokslut för 2024 finns i det cypriotiska registret för några euro, och under skulder står ett lån på en komma nio miljoner euro från ett närstående bolag.|그리고 이제 진짜 보여 주고 싶었던 거. Pelagos의 2024년 결산서가 키프로스 등기에 몇 유로면 나와. 부채 항목에 관계사에서 받은 190만 유로 대출이 있어.
+Viktor|A2|Utan namn?|이름 없이?
+Amira|B2|Utan namn. Och samma år lånade Eventide Holdings ut nästan hela sina två miljoner till ett närstående bolag som inte heller har något namn. Om det är samma pengar, har välfärdspengar från Norrvik betalat för en tanker.|이름 없이. 그리고 같은 해에 Eventide Holdings는 200만 유로 거의 전부를, 역시 이름 없는 관계사에 빌려줬어. 같은 돈이라면, 노르비크의 복지 예산이 유조선 값을 낸 거야.
+Viktor|B2|Om. Två belopp som nästan är lika stora i två bokslut är ett spår att följa, inte en mening som vi kan trycka. Vi behöver ett dokument där båda bolagen står på samma sida.|'라면'. 결산서 두 개에 거의 같은 금액이 있다는 건 따라갈 단서지, 인쇄할 수 있는 문장이 아니야. 두 회사가 같은 페이지에 나오는 문서가 필요해.
+Noah|B1|Kan man inte bara fråga Pelagos? De måste väl ha någon som svarar på pressfrågor.|그냥 Pelagos한테 물어보면 안 돼요? 언론 질문에 답하는 사람이 있겠죠.
+Amira|B1|Pelagos har en mejladress och ett telefonnummer som ingen svarar i. Jag har ringt två gånger i dag.|Pelagos는 메일 주소 하나랑 아무도 안 받는 전화번호 하나가 있어. 오늘 두 번 걸었어.
+Viktor|B1|Då skickar vi frågorna skriftligt, till både Pelagos och ägarbolaget, och ger dem rimlig tid att svara. Det gäller även folk som aldrig svarar.|그럼 질문을 서면으로 보내자. Pelagos랑 소유 회사 둘 다. 답할 시간도 합리적으로 주고. 절대 답 안 하는 사람들한테도 마찬가지야.
+Noah|A1|Och sen?|그다음엔요?
+Viktor|A1|Följ pengarna.|돈을 따라가.
+Amira|B1|Från Norrvik till Limassol, och från Limassol ut på Östersjön. Jag tror att vi har letat på fel ställe hela vintern, Viktor. Pengarna var aldrig på land.|노르비크에서 리마솔로, 리마솔에서 발트해로. 우리 겨울 내내 엉뚱한 데를 뒤진 것 같아, 빅토르. 돈은 육지에 있었던 적이 없어.
+# 장면 5 — 저녁 7시 반, 류가른 북쪽 해안의 라우카르(석회암 기둥) 위 ↔ Källaren의 빅토르 (바람, 잿빛 바다, 휴대폰 너머의 목소리)
+Viktor|A1|Hesa. Var är du?|헤사. 어디야?
+Henrik|A2|Uppe vid raukarna norr om Ljugarn. Det blåser så att jag knappt hör dig.|류가른 북쪽 라우카르 위. 바람이 세서 네 말이 잘 안 들려.
+Viktor|B1|Texten har legat ute sedan tolv, och din bild från gryningen är det första man ser på webben.|기사는 12시부터 나가 있어. 그리고 네 새벽 사진이 웹에서 제일 먼저 보이는 거야.
+Henrik|B2|Kustbevakningens fartyg i gryningsljus, och inte ett ord om vem som gav mig skäl att stå där. Så ska det vara, även om det skaver.|새벽빛 속 해안경비대 배, 그리고 누가 날 거기 서 있게 했는지는 한마디도 없이. 그래야지, 좀 쓰라려도.
+Viktor|A1|Och båten? Ligger den kvar?|그 배는? 아직 거기 있어?
+Henrik|A2|Fartyget låg stilla i sex timmar. Vid lunch gick det söderut igen.|그 배는 여섯 시간 동안 가만히 있었어. 점심때 다시 남쪽으로 갔어.
+Viktor|A2|Och tankern? Var är den nu?|유조선은? 지금 어디 있어?
+Henrik|B1|Amira skickade ett sms. Enligt AIS är den på väg in i Finska viken, som om ingenting har hänt.|아미라가 문자 보냈어. AIS로는 핀란드만으로 들어가는 중이래. 아무 일도 없었다는 듯이.
+Viktor|A1|Vad ser du nu?|지금 뭐가 보여?
+Henrik|B2|Kalkstenspelare som har stått här sedan istiden, och ett hav som är så grått att man int ser var det slutar och himlen börjar. När jag var pojke trodde jag att raukarna var jättar som hade glömt att gå hem.|빙하기 때부터 여기 서 있던 석회암 기둥들. 그리고 너무 잿빛이라 어디서 끝나고 하늘이 시작되는지 안 보이는 바다. 어릴 땐 라우카르가 집에 가는 걸 잊어버린 거인들인 줄 알았어.
+Viktor|A2|Det har du aldrig berättat.|그 얘긴 한 번도 안 했잖아.
+Henrik|A2|Här drog vi nät, Gunnar och jag. Nu är det en front.|여기서 군나르랑 그물을 걷었지. 이제는 전선이야.
+Viktor|B1|Jag vet. Jag hörde det på din röst i morse, innan du hade sagt något alls.|알아. 오늘 아침 네가 아무 말도 하기 전에, 목소리에서 들었어.
+Henrik|B2|Gunnar säger att jag svor som farsan i morse. Det har jag int gjort sen jag var tjugo och trodde att ilska kunde ändra på något.|형이 그러는데 내가 오늘 아침 아버지처럼 욕을 했대. 스무 살 때, 화내면 뭐가 바뀌는 줄 알던 시절 이후로 그런 적 없는데.
+Viktor|A1|Vem tjänar på det?|누가 이득을 보지?
+Henrik|B2|Int vi, int fiskarna här och int letterna som satt utan nät i natt. Men lyssna: min vän ringde igen i eftermiddags. Han har lagt hela radarspåret på sjökortet, från första sicksacken till kabeln.|우리도 아니고, 여기 어부들도 아니고, 밤새 인터넷 없이 지낸 라트비아 사람들도 아니지. 근데 들어 봐. 내 친구가 오후에 또 전화했어. 레이더 항적 전체를 해도에 옮겨 놨대. 첫 지그재그부터 케이블까지.
+Viktor|B2|Ett sjökort kan vi senare kontrollera mot myndigheternas egna uppgifter, utan att han behöver finnas med någonstans. Hur långt?|해도라면 나중에 당국 자료랑 대조해 볼 수 있어. 그 친구가 어디에도 나오지 않게. 얼마나 길어?
+Henrik|A2|Ankaret släpade i fyrtio kilometer, Viktor. Det gör ingen av misstag.|닻이 40킬로미터를 끌렸어, 빅토르. 실수로 그러는 사람은 없어.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Kabeln är av.** | 케이블이 끊겼어. | *vara av* = 끊어져 있다, 꺼져 있다. *av*는 원래 전치사(~의, ~에서)지만 *vara* 뒤에서는 상태를 나타내는 부사처럼 쓰인다: *Benet är av*(다리가 부러졌다), *Strömmen är av*(전기가 나갔다). 반대는 *vara på*(켜져 있다) |
+| `A2` | **Fartyget låg stilla i sex timmar.** | 그 배는 여섯 시간 동안 가만히 있었어. | *ligga – låg – legat*: 배는 스웨덴어에서 바다에 "누워 있다"(*ligga*). *stilla* = 가만히, 움직이지 않고. 기간은 *i* + 시간(*i sex timmar*), 반면 '여섯 시간 전'은 *för sex timmar sedan* |
+| `B1` | **Enligt AIS gick fartyget rakt fram, men radarn visar något helt annat.** | AIS에 따르면 배는 직진했는데, 레이더는 전혀 다른 걸 보여 줘. | *enligt* + 출처 = ~에 따르면 — 기사 문장의 기본 장치로, 주장의 주인을 문장 안에 남긴다. *enligt*로 시작해도 주절 어순은 V2(*gick fartyget*). *helt annat* = 완전히 다른 것(중성 *något* + *annat*) |
+| `B2` | **Om ankaret släpades med avsikt är det inte en olycka utan sabotage, och då måste vi kunna bevisa det.** | 닻을 일부러 끌었다면 그건 사고가 아니라 사보타주야. 그렇다면 우린 그걸 증명할 수 있어야 해. | *släpades*는 *släpa*(끌다)의 -s 수동 과거형. *inte X utan Y* = X가 아니라 Y — 부정 뒤의 '~가 아니라'는 *men*이 아니라 *utan*. *måste kunna* + 동사 = ~할 수 있어야 한다(조동사 두 개를 겹쳐 쓴다) |
+| `B1` | **Polisen skriver vad de utreder, inte vad som har hänt.** | 경찰은 뭘 수사하는지 쓰는 거지, 무슨 일이 일어났는지를 쓰는 게 아니야. | 간접의문절 *vad de utreder* / *vad som har hänt*. 의문사가 간접의문절의 주어가 되면 *som*을 넣는다(*vad som har hänt*). *utreda* = 수사하다, 조사하다 → *utredning*(수사) |
+| 관용구 | **Det luktar bränt.** | 뭔가 수상하다. | 직역하면 "탄 냄새가 난다". 아직 증거는 없지만 일이 잘못 돌아가고 있다는 직감을 말할 때 쓴다. 헨릭처럼 경험 많은 사람이 "증명은 못 하지만…"이라는 뜻으로 꺼내는 말이라, 노아처럼 "불났어요?"라고 되묻는 오해도 생긴다 |
+| 방언 | **Hä jär int strömmen, hä jär kabeln.** | 전기가 아니야, 케이블이야. | 고틀란드 말투: *hä* = *det*, *jär* = *är*, *int* = *inte*. 표준어로는 *Det är inte strömmen, det är kabeln.* 헨릭도 형 앞에서는 *int*가 더 많아진다 |
+| 안보·법 | **samhällsviktig infrastruktur** | 사회 필수 기반시설 | 통신·전력·에너지·수도·교통망처럼 멈추면 사회 기능이 마비되는 시설. *samhällsviktig*(사회에 중요한) = *samhälle* + *viktig*. 이 시설을 해치면 형법상 사보타주(*sabotage*, 중대하면 *grovt sabotage*)로 수사된다 |
+
+## 저널리즘·법 메모
+스웨덴 언론윤리 규칙(*publicitetsregler*)은 정확하고 균형 잡힌 보도를 요구하며, 제목과 소개문도 본문이 뒷받침하는 범위를 넘으면 안 된다. 소피아의 세 칸 — 사실·추정·의견 — 은 그 원칙을 칠판에 옮긴 것이다. "경찰이 사보타주 혐의로 수사 중"은 확인된 사실이지만, 느낌표를 단 "사보타주!"는 아직 아무도 증명하지 못한 판단을 제목에 올리는 일이다. 해안경비대 친구의 레이더 사진은 강력한 정황이지만, 화면 구석의 콘솔 번호 하나로도 그를 찾아낼 수 있다. 공무원이 언론에 정보를 주는 것은 제보자 보호(*meddelarskydd*)를 받고, 그 보호에는 기자가 취재원을 지켜야 할 의무가 따른다. 그래서 팀은 누구나 내려받아 검증할 수 있는 공개 AIS 로그로만 "항적에 의문"을 쓰고, 배 이름은 두 번째 출처가 생길 때까지 기사에서 뺀다. 결산서 두 개에 거의 같은 금액이 있다는 것도 아직 따라갈 단서일 뿐 인쇄할 문장이 아니며, 답하지 않을 게 뻔한 회사에도 서면 질문과 답변 기한을 준다.
+
+## 문화·현안 메모
+- **발트해의 해저케이블과 "닻 끌기"** — 2023년부터 2025년 사이 발트해에서는 가스관과 통신·전력 케이블이 잇따라 손상됐고, 여러 사건에서 상선이 닻을 내린 채 수십 킬로미터를 끌고 지나간 정황이 보고됐다. 핀란드가 의심 선박을 나포한 경우도, 스웨덴이 조사 끝에 고의 증거가 부족하다며 배를 풀어 준 경우도 있었다. 늘 남는 질문은 같다 — 사고인가, 고의인가, 그리고 누가 재판하는가.
+- **AIS와 스푸핑** — AIS(선박자동식별장치)는 배가 자기 이름·위치·속도를 주기적으로 방송하는 장치다. 해안의 수신국과 위성이 이 신호를 모아 공개·상업 지도를 만들지만, 신호는 배가 스스로 보내는 "자기 신고"라서 끄거나(*mörk period*) 거짓 위치를 보낼 수도 있다. 그래서 탐사 기자들은 여러 수신국의 원시 로그, 신호 세기, 레이더·위성 자료를 서로 대조한다.
+- **라우카르(raukar)와 고틀란드 말** — 라우카르는 수억 년 전 산호초가 굳은 석회암이 파도에 깎여 남은 기둥으로, 고틀란드와 포뢰섬 해안의 상징이다. 섬 사람들의 말에는 *hä*(=*det*), *int*(=*inte*) 같은 고틀란드식 형태와 특유의 이중모음이 남아 있다. 2018년 고틀란드 연대가 재창설되고 2024년 스웨덴이 NATO에 가입한 뒤, 이 섬은 "발트해 한가운데의 요충지"로 다시 불리게 됐다.
+- ⚠️ 군나르 린드그렌, *Eventide Star*와 그 옛 이름들(Marlin Sun, Sea Tiara, Aster, Noor Seven), Pelagos Baltic Shipmanagement, Eventide Holdings, Andreas Michael & Partners, Kvällsbladet, Stockholmsposten은 모두 허구다. 해안경비대·경찰·고틀란드–라트비아 간 케이블 장애 설정은 극적 구성이며, 실제 사건은 배경으로만 쓴다.
+
+## 다음 화 예고
+> 베스트베리아 물류창고의 새벽 휴게실, 야간 근무를 마친 우크라이나 전직 해군 장교 사샤가 자판기 커피를 내려놓는다: "Okay, so… fartyg ljuger inte. Människor ljuger."
