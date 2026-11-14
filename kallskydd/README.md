@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (84/105화 완성)
+## 대본 목차 (85/105화 완성)
 
 ### 1부
 
@@ -137,4 +137,5 @@
 | 6 | [SiS](episodes/k6_e06.md) | 소년원 |
 | 7 | [Kommundata](episodes/k6_e07.md) | 지자체 데이터 |
 | 8 | [Misstänkt](episodes/k6_e08.md) | 용의자 |
+| 9 | [Köpenhamn](episodes/k6_e09.md) | 코펜하겐 |
 | 10 | [Hesa](episodes/k6_e10.md) | 헤사 |
