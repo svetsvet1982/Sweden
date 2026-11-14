@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (73/105화 완성)
+## 대본 목차 (76/105화 완성)
 
 ### 1부
 
@@ -122,3 +122,11 @@
 | 11 | [Förundersökningen](episodes/k5_e11.md) | 예비수사 |
 | 12 | [Moa försvinner](episodes/k5_e12.md) | 모아가 사라지다 |
 | 13 | [Valveckan](episodes/k5_e13.md) | 선거 주간 |
+| 14 | [Valnatten](episodes/k5_e14.md) | 개표의 밤 |
+| 15 | [Fas två](episodes/k5_e15.md) | 2단계 |
+
+### 6부
+
+| 화 | 제목 | 뜻 |
+|---|---|---|
+| 1 | [Skotten](episodes/k6_e01.md) | 총성 |

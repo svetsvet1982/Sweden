@@ -1,0 +1,187 @@
+@title 5부 14화 — Valnatten
+@subtitle (개표의 밤)
+@meta 날짜|2026년 9월 13일 일요일 (총선일) 오후 2시경 ~ 9월 14일 월요일 새벽 1시 40분
+@meta 장소|후스뷔의 투표소 — 학교 체육관 입구와 투표용지 선반 (오후 2시경) → 체육관 밖 벤치 (오후 3시경) → Källaren 개표 상황실 (밤 7시 59분 ~ 11시 40분경) → 같은 상황실, 벽의 TV — Kanal Sverige 개표 방송 (밤 12시 반 ~ 1시경) → 상황실 구석의 소파 (새벽 1시 40분)
+@meta 등장인물|**Viktor** (빅토르 홀름, 47, 탐사기자 — 트롤 계정·영상 검증에서는 여전히 배제) · **Alva** (알바 홀름, 16, 빅토르의 딸 — 투표권 없음) · **Dejan** (데얀 페트로비치, 38, 후스뷔 청소년 활동가) · **Fredrik** (프레드릭 발, 44, 뉴스 데스크장 — 개표 생중계 총괄) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Noah** (노아 베리룬드, 24, 기자) · **Elin** (엘린 셰크비스트, 28, 잠입 기자) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자) · **Camilla** (카밀라 헤딘, Kanal Sverige 개표 방송 진행자 — TV) · **Cecilia** (세실리아 알그렌, 51, Arbetarpartiet 대표 — TV) · **Tord** (토르드 쇠데르룬드, 현 총리·Samlingspartiet 대표 — TV) · **Ekwall** (망누스 에크발, 58, Nordhavn Valanalys "선거 전략가" — TV 해설, 문자)
+@intro **지난 이야기** — 선거 5일 전인 9월 8일 화요일 밤 10시, 소피아는 문장마다 여백에 출처를 단 기사를 게시했다. 400개 계정, 콘텐츠 공장, 빅토르 딥페이크의 원본, 같은 서버를 쓴 두 LVU 캠페인, 그리고 선거 48시간 전에 풀릴 예정인 알그렌의 가짜 음성 파일 "T–48"까지. 반대 진영의 60개 군집도 같은 기사에 같은 방법으로 실렸다. 테오는 질문에 답하지 않고 "흑색선전"이라는 성명만 냈고, 사주 CEO 셸베리는 자정 무렵 다시 전화해 말했다. "이사회가 이걸 기억할 거요, 소피아."
+@intro 닷새 뒤인 9월 13일 일요일, 총선일. 국회·광역·기초의회 선거가 한꺼번에 치러진다. 이번 주는 카린 주지만, 알바는 "첫 선거"를 직접 보고 싶다며 아빠를 따라나섰다. 빅토르는 수요일에 베링뷔에서 사전투표를 마쳤고, 오늘은 데얀의 전화를 받고 후스뷔 투표소로 간다. 그리고 금요일 밤, 예고됐던 알그렌의 가짜 음성이 정말로 풀렸다.
+# 장면 1 — 오후 2시경, 후스뷔의 투표소 (학교 체육관 입구, 줄 선 이웃들, 칸막이 뒤의 투표용지 선반, 문 옆에 선 데얀)
+Dejan|A1|Len! Här borta, vid dörren!|형! 여기야, 문 옆!
+Viktor|A2|Hej, Dejan. Det här är Alva, min dotter. Hon ville följa med.|안녕, 데얀. 얘는 알바, 내 딸이야. 따라오고 싶대서.
+Dejan|A1|Så du är Alva. Välkommen till Husby.|네가 알바구나. 후스뷔에 온 걸 환영해.
+Alva|A1|Tack. Hej.|감사합니다. 안녕하세요.
+Dejan|A1|Har du röstat, len?|투표했어, 형?
+Viktor|B1|I onsdags, i Vällingby. På valdagen får man bara rösta i sin egen vallokal, så jag förtidsröstade.|수요일에, 베링뷔에서. 선거 당일엔 자기 투표소에서만 투표할 수 있어서 사전투표했어.
+Dejan|A2|Smart. Här har det varit kö sedan elva. Kom in och titta.|똑똑하네. 여긴 11시부터 줄이야. 들어와서 봐.
+Alva|A2|Det luktar gympasal. Precis som i min gamla skola.|체육관 냄새 나요. 제가 다니던 학교랑 똑같아요.
+Dejan|B1|Det är en gympasal. I morgon spelar ungarna innebandy här igen, men i dag är det demokrati.|체육관 맞아. 내일이면 애들이 여기서 다시 플로어볼 하는데, 오늘은 민주주의야.
+Viktor|A2|Vad gör du här? Jobbar du för valnämnden?|넌 여기서 뭐 해? 선관위 일 하는 거야?
+Dejan|B2|Nej, jag står bara vid dörren och förklarar. Många här har aldrig röstat förut, och när röstkortet bara är på svenska är det lätt att tro att valet inte är till för en själv.|아니, 그냥 문 옆에 서서 설명해 주는 거야. 여기 사람들 중엔 한 번도 투표 안 해 본 사람이 많은데, 투표 카드가 스웨덴어로만 돼 있으면 선거가 자기를 위한 게 아니라고 생각하기 쉽거든.
+Alva|A1|Vad är ett röstkort?|투표 카드가 뭐예요?
+Dejan|A2|Ett kort som kommer hem med posten. Det visar var du ska rösta.|우편으로 집에 오는 카드야. 어디서 투표하는지 알려 주지.
+Alva|A2|Och de där hyllorna? Det är ju massor av papper.|저 선반들은요? 종이가 엄청 많아요.
+Viktor|B1|Valsedlar. Gula för riksdagen, blå för regionen och vita för kommunen. Man tar dem bakom skärmen, så att ingen ser vilka man väljer.|투표용지야. 노란 건 국회, 파란 건 광역, 하얀 건 기초의회. 칸막이 뒤에서 집어, 아무도 누굴 고르는지 못 보게.
+Alva|A1|Tre val samtidigt?|선거 세 개를 한꺼번에?
+Dejan|A2|Ja. Samma söndag, vart fjärde år.|응. 같은 일요일에, 4년마다.
+Alva|A2|Och sen? Vad gör man med lapparna?|그다음엔요? 그 종이로 뭘 해요?
+Viktor|B1|Man går in i båset och lägger varje valsedel i ett kuvert. Sedan visar man legitimation för valförrättaren, och kuverten hamnar i lådorna.|칸막이 안에 들어가서 투표용지를 하나씩 봉투에 넣어. 그다음 투표 사무원한테 신분증을 보여 주면, 봉투들이 투표함으로 들어가.
+Alva|A1|Får jag gå in?|나도 들어가도 돼?
+Dejan|A1|Nej, guss. Inte i båset.|안 돼, 아가씨. 칸막이 안은 안 돼.
+Alva|A2|Jag vet. Jag får inte ens rösta!|알아요. 난 투표도 못 하잖아요!
+Viktor|A2|Du är sexton, Alva.|넌 열여섯 살이야, 알바.
+Alva|B1|Ja, och det är min framtid de väljer om. Klimatet, skolan, allt. Men jag får bara titta på när andra bestämmer.|응, 근데 저 사람들이 정하는 건 내 미래라고. 기후, 학교, 전부. 근데 난 남들이 정하는 걸 구경만 해야 해.
+Dejan|B1|Lugnt, guss. Om fyra år får du rösta, och då bestämmer du över oss gubbar.|진정해, 아가씨. 4년 뒤엔 투표할 수 있잖아. 그땐 네가 우리 아저씨들 위에서 결정하는 거야.
+Alva|A2|Fyra år är jättelångt.|4년은 엄청 길어요.
+Dejan|A2|Inte när man är trettioåtta. Då går det fort.|서른여덟이면 안 그래. 그땐 금방 가.
+Alva|B1|Vi hade skolval i fredags, förresten. Där röstade jag, men det räknas ju inte på riktigt.|그러고 보니 금요일에 학교에서 모의선거 했어요. 거기선 투표했는데, 진짜로 치는 건 아니잖아요.
+Viktor|B2|Skolvalet ger inga mandat, men någon räknar det ändå: partierna läser resultaten noga, eftersom de visar hur nästa generation väljare tänker.|학교 모의선거로 의석이 생기진 않지만, 그래도 세어 보는 사람은 있어. 정당들이 결과를 꼼꼼히 읽거든. 다음 세대 유권자들이 어떻게 생각하는지 보여 주니까.
+Dejan|A1|Vem röstade du på?|넌 누구 찍었어?
+Alva|A2|Det är hemligt. Pappa säger att det är hela poängen med val.|비밀이에요. 아빠가 그게 선거의 핵심이래요.
+Dejan|A1|Haha. Hon är din dotter, len.|하하. 딱 형 딸이네.
+Viktor|A2|Kan vi prata lite? Utanför, där det är tyst.|잠깐 얘기 좀 할 수 있어? 밖에서, 조용한 데서.
+Dejan|B1|Ge mig tio minuter. Grannen där borta har glömt sin legitimation, så jag kör henne hem och hämtar den.|10분만 줘. 저기 이웃 아주머니가 신분증을 깜빡했대. 집에 태워다 주고 가져올게.
+Alva|A2|Pappa, jag köper en saft i kiosken och väntar vid bänken.|아빠, 나 매점에서 주스 사서 벤치에서 기다릴게.
+# 장면 2 — 오후 3시경, 체육관 밖 벤치 (투표소 표지판, 유모차를 미는 사람들, 빅토르의 종이 수첩)
+Viktor|A2|Hittade hon legitimationen?|아주머니 신분증 찾았어?
+Dejan|A2|I frysen. Fråga inte. Hon har röstat nu.|냉동실에 있더라. 묻지 마. 이제 투표했어.
+Viktor|A1|Hur många har kommit?|몇 명이나 왔어?
+Dejan|B1|Fler än förra gången, tror valförrättarna. Men hälften av mina grannar sitter hemma ändå. De säger att ingenting ändras, vem som än vinner.|사무원들 말로는 지난번보다 많대. 근데 우리 이웃 절반은 그래도 집에 있어. 누가 이기든 아무것도 안 바뀐다고.
+Viktor|A1|Tror du på det?|넌 그렇게 생각해?
+Dejan|B2|Jag tror att de har slutat vänta på att någon ska komma hit och fråga dem. Politiker dyker bara upp här när det har smällt, och då har de alltid en kamera med sig.|난 사람들이 누가 여기 와서 물어봐 주길 기다리는 걸 그만둔 거라고 봐. 정치인들은 뭐가 터졌을 때만 여기 나타나고, 그땐 꼭 카메라를 데리고 오지.
+Viktor|B2|Jag kom hit i dag, trots att ingenting har smällt – om det nu räknas för något.|난 오늘 왔잖아. 아무것도 안 터졌는데도. 그게 무슨 의미가 있다면 말이지만.
+Dejan|B1|Du är inte politiker, len. Och du kom för att jag ringde. Det är skillnad.|형은 정치인이 아니잖아. 그리고 내가 전화해서 온 거고. 그건 다르지.
+Viktor|A2|Varför ringde du egentligen?|근데 왜 전화한 거야?
+Dejan|B1|För att mina ungar på centret har sett en film på Tiktok. Den säger att staten ser vem du röstar på, via koden på röstkortet.|센터 애들이 틱톡에서 영상을 하나 봤거든. 투표 카드에 있는 코드로 나라가 누굴 찍는지 다 본다는 거야.
+Viktor|A1|Det är inte sant.|그건 사실이 아니야.
+Dejan|A2|Jag vet. Men säg det till dem, inte till mig.|알아. 근데 그 말은 걔네한테 해, 나 말고.
+Viktor|B2|Röstkortet visar bara var du ska rösta. Kuvertet har inget namn, och när rösterna räknas finns det ingenting som kopplar en valsedel till en människa.|투표 카드는 어디서 투표하는지만 알려 줘. 봉투엔 이름이 없고, 표를 셀 때 투표용지와 사람을 잇는 건 아무것도 없어.
+Dejan|B1|Du låter som en broschyr, len. Mina grannar läser inga broschyrer.|형 말은 안내 책자 같아. 우리 이웃들은 안내 책자 안 읽어.
+Viktor|A2|Vad läser de då?|그럼 뭘 읽는데?
+Dejan|A2|Telefonen. Hela dagen. Precis som alla andra.|폰. 하루 종일. 다른 사람들이랑 똑같이.
+Viktor|A2|Vem lade upp filmen? Vet du det?|그 영상 누가 올렸는지 알아?
+Dejan|B1|Ett konto utan ansikte. Det dök upp i fredags och har bara lagt upp tre filmer, på arabiska och somaliska.|얼굴 없는 계정. 금요일에 생겼고 영상 세 개만 올렸어. 아랍어랑 소말리어로.
+Viktor|B1|Skicka länken till Noah, inte till mig. Jag får inte röra sådant just nu.|링크는 나 말고 노아한테 보내. 난 지금 그런 거 건드리면 안 돼.
+Dejan|A2|På grund av den där filmen om dig?|형에 관한 그 영상 때문에?
+Viktor|A2|Ja. Och lite annat.|응. 그리고 다른 것도 좀.
+Dejan|B2|Jag såg den. Halva Husby såg den. Vet du vad de sa på centret? ”Om de kan göra så mot en journalist, vad kan de då inte göra mot oss?”|나도 봤어. 후스뷔 절반이 봤어. 센터에서 뭐라 했는지 알아? "기자한테 저런 짓을 할 수 있으면, 우리한테는 무슨 짓인들 못 하겠냐?"
+Viktor|A1|Det är rimligt.|일리 있는 말이네.
+Dejan|B1|Folk är rädda, len. De tror att någon ser vem de röstar på.|사람들이 겁먹었어, 형. 누가 자기가 누굴 찍는지 본다고 생각해.
+Viktor|B2|Då borde vi skriva om det. Inte om att Husby är farligt, utan om att någon försöker få folk här att stanna hemma.|그럼 그걸 써야겠네. 후스뷔가 위험하다는 게 아니라, 누군가 여기 사람들을 집에 붙잡아 두려 한다는 걸.
+Dejan|B1|Ingen här tror på er tidningar, len. Förra gången ni var här kallade ni oss en krigszon.|여기선 아무도 너희 신문 안 믿어, 형. 지난번에 너희가 와서는 우릴 전쟁터라고 불렀잖아.
+Viktor|B1|Det var en tv-kanal. Men jag förstår att det ser likadant ut härifrån.|그건 방송국이었어. 근데 여기서 보면 똑같아 보인다는 거 알아.
+Dejan|B2|Om du skriver det där, så skriv också att mamman med tvillingarna kom hit med båda barnen i vagnen, fast hon var rädd. Att hon kom ändå.|그거 쓸 거면, 쌍둥이 엄마가 겁먹었는데도 유모차에 애 둘을 태우고 여기 왔다는 것도 써. 그래도 왔다는 거.
+Viktor|B2|Det skriver jag, men utan hennes namn och utan att någon kan räkna ut vilket hus hon bor i.|그거 쓸게. 대신 이름도 없이, 어느 집에 사는지 아무도 짐작 못 하게.
+Dejan|A2|Bra. Och ta hand om din dotter. Hon är smartare än du.|좋아. 그리고 딸 잘 챙겨. 형보다 똑똑해.
+# 장면 3 — 밤 7시 59분 ~ 11시 40분경, Källaren 개표 상황실 (큰 화면의 선거관리청 집계, 프레드릭의 생중계 데스크, 피자 상자, 아미라의 노트북 세 대)
+Fredrik|A2|Tio sekunder kvar. Alla vid skärmarna!|10초 남았어. 다들 화면 앞으로!
+Alva|A2|Vallokalen stänger klockan åtta. Sen får ingen rösta mer?|투표소는 8시에 닫잖아요. 그다음엔 아무도 투표 못 해요?
+Henrik|B1|Den som står i kön klockan åtta får rösta. Sedan låser de dörren och börjar räkna, och vem som helst får stå och titta på.|8시에 줄 서 있던 사람은 투표할 수 있다. 그다음 문을 잠그고 세기 시작하지. 누구든 서서 지켜봐도 되고.
+Noah|A1|Nu! Vallokalsundersökningen.|지금이에요! 출구조사.
+Fredrik|B1|Vi lägger ut Kanal Sveriges siffror direkt, med källan i rubriken. Det står ”undersökning”, inte ”resultat”. Ingen här skriver ordet ”vinner” i kväll.|칸알 스베리예 수치 바로 올린다. 제목에 출처 박고. "결과"가 아니라 "조사"라고 써. 오늘 밤 여기서 아무도 "승리"라는 단어 쓰지 마.
+Sofia|A2|Bra, Fredrik. Det gäller hela natten.|좋아, 프레드릭. 밤새 그 원칙이야.
+Amira|B2|Enligt undersökningen ligger Söderlunds sida en procentenhet före, men felmarginalen är större än så, vilket betyder att den i praktiken inte säger någonting om vem som vinner.|조사로는 쇠데르룬드 쪽이 1퍼센트포인트 앞서. 근데 오차범위가 그보다 커. 그러니까 실제로는 누가 이기는지에 대해 아무것도 말해 주지 않는다는 뜻이야.
+Alva|A1|Så ingen vet?|그럼 아무도 모르는 거예요?
+Amira|A2|Ingen vet. Därför visar jag bara Valmyndighetens siffror på den stora skärmen.|아무도 몰라. 그래서 큰 화면엔 선거관리청 수치만 띄우는 거야.
+Viktor|A2|Hur många valdistrikt är räknade?|선거구 몇 개 개표됐어?
+Amira|A1|Fyra. Av drygt sex tusen.|네 개. 6천 개 조금 넘는 것 중에.
+Fredrik|B1|Viktor, din text från Husby går klockan nio. Jag har läst den två gånger, och den håller. Rubriken blir ”De kom ändå”, inte ”Rädslan i Husby”, för det första är vad du såg och det andra är vad vi skulle vilja sälja.|빅토르, 후스뷔 기사 9시에 나가. 두 번 읽었는데 탄탄해. 제목은 "후스뷔의 공포"가 아니라 "그래도 그들은 왔다"로 간다. 앞의 건 네가 본 거고, 뒤의 건 우리가 팔고 싶은 거니까.
+Viktor|A1|Tack. Det var Dejans ord.|고마워. 데얀이 한 말이야.
+Noah|B1|Jag har kollat Tiktokfilmen som Dejan skickade. Kontot finns inte bland de fyrahundra, och jag ser inga kopplingar till något annat. Vem som helst kan ha gjort den.|데얀이 보낸 틱톡 영상 확인했어요. 그 계정은 400개 안에 없고, 다른 데랑 연결된 것도 안 보여요. 누구든 만들 수 있었어요.
+Sofia|B2|Då skriver vi inte att det är en kampanj. Vi skriver vad filmen påstår, varför det inte stämmer och att vi inte vet vem som står bakom den.|그럼 캠페인이라고 쓰지 않아. 영상이 뭘 주장하는지, 왜 사실이 아닌지, 그리고 누가 뒤에 있는지 모른다는 걸 써.
+Elin|B1|Och ljudfilen från i fredags? Hur gick det med den?|금요일에 나온 음성 파일은요? 그건 어떻게 됐어요?
+Noah|B1|Den släpptes kvart i elva i fredags kväll. Den har bara delats en femtedel så mycket som klustrets vanliga kampanjer, och under den skriver folk: ”Det här är den falska.”|금요일 밤 10시 45분에 풀렸어요. 공유 수가 이 군집 평소 캠페인의 5분의 1밖에 안 돼요. 그리고 밑에 사람들이 써요. "이게 그 가짜다."
+Sofia|B2|En förfalskning som avslöjas innan den släpps tappar det enda den har: överraskningen.|공개되기 전에 폭로된 위조물은 자기가 가진 유일한 걸 잃지. 기습 효과.
+Amira|A1|Jävlar. Kolla här.|젠장. 여기 봐.
+Elin|A2|Vad är det?|뭔데요?
+Amira|B1|Tre filmer om valfusk. De sprids just nu, på svenska, och den största har redan fyrtio tusen visningar.|부정선거 영상 세 개. 지금 스웨덴어로 퍼지고 있어. 제일 큰 건 벌써 조회수 4만이야.
+Fredrik|B1|Kvällsbladet har redan en notis om ”uppgifter om fusk i flera vallokaler”. Ska vi svara?|크벨스블라데트엔 벌써 "여러 투표소에서 부정 의혹" 단신이 떴어. 우리도 대응해?
+Sofia|B2|Inte innan vi vet vad filmerna visar. En ogranskad fuskfilm i vårt flöde är en fuskfilm med vår logga på. Noah, Henrik, Amira – en film var.|영상이 뭘 보여 주는지 알기 전엔 안 돼. 검증 안 된 부정선거 영상이 우리 피드에 올라가면, 우리 로고 찍힌 부정선거 영상이 되는 거야. 노아, 헨릭, 아미라 — 하나씩 맡아.
+Noah|B1|Den första är inte ens svensk. Valurnorna har ett annat lands vapen, och samma film laddades upp på ett utländskt forum för fem år sedan.|첫 번째는 스웨덴 것도 아니에요. 투표함에 다른 나라 문장이 있고, 같은 영상이 5년 전에 외국 포럼에 올라왔어요.
+Henrik|B1|Den andra är äkta, men det är inget fusk. Jag har sett många rösträkningar: man öppnar kuverten och lägger valsedlarna i högar, ett parti i taget. Det ska se ut så.|두 번째는 진짜다. 근데 부정은 아니야. 개표는 많이 봤다. 봉투를 열고 투표용지를 정당별로 하나씩 더미로 쌓지. 원래 그렇게 보여야 해.
+Amira|B2|Den tredje kan jag inte bekräfta åt något håll. Ingen plats, inget datum, och ljudet är bortklippt. Om vi inte vet något om den, säger vi ingenting om den.|세 번째는 어느 쪽으로도 확인이 안 돼. 장소도, 날짜도 없고, 소리는 잘려 있어. 아무것도 모르면 아무 말도 안 하는 거야.
+Sofia|B2|Vi skriver en kort faktagranskning om de två första, utan att bädda in dem, och den tredje lägger vi åt sidan tills någon kan visa var den är filmad.|처음 두 개는 짧은 팩트체크로 쓰되 영상은 삽입하지 않아. 세 번째는 누군가 어디서 찍었는지 보여 줄 수 있을 때까지 보류해.
+Fredrik|A2|Jag tar rubriken. ”Nej, filmen visar inte valfusk.”|제목은 내가 잡을게. "아니요, 이 영상은 부정선거가 아닙니다."
+Alva|A2|Pappa, nu har det vänt igen. Nu leder den andra sidan.|아빠, 또 뒤집혔어. 이제 다른 쪽이 앞서.
+Viktor|B2|Det kommer att vända flera gånger i natt, eftersom storstäderna räknas fort medan små distrikt på landsbygden rapporterar senare. Den som utropar en vinnare före midnatt gissar.|오늘 밤에 몇 번은 더 뒤집힐 거야. 대도시는 빨리 세고 시골의 작은 선거구는 늦게 보고하거든. 자정 전에 승자를 외치는 사람은 찍는 거야.
+Noah|A1|Sofia. Amira. Kom hit.|소피아. 아미라. 이리 와 보세요.
+Sofia|A1|Vad har du?|뭐 찾았어?
+Noah|B1|De fyrahundra. Jag har kollat hela dagen, och de har inte postat någonting. Inga memes, inga ”gå och rösta”, ingenting.|그 400개요. 하루 종일 봤는데 아무것도 안 올렸어요. 밈도, "투표하러 가자"도, 아무것도.
+Amira|B2|Kanske har partiet stängt ner dem efter artikeln? Hade jag varit Theo, hade jag tryckt på knappen redan i tisdags.|기사 나간 뒤에 당이 닫아 버린 거 아냐? 내가 테오였으면 화요일에 벌써 버튼 눌렀을 거야.
+Noah|B1|Nej. Inte ett enda är raderat. Och i går kväll bytte trettio av dem profilbild.|아니요. 하나도 삭제 안 됐어요. 그리고 어젯밤에 그중 서른 개가 프로필 사진을 바꿨어요.
+Sofia|A2|Så de lever.|그러니까 살아 있다는 거네.
+Noah|B1|De är inte döda. De väntar. Inte ett enda inlägg sedan midnatt.|죽은 게 아니에요. 기다리는 거예요. 자정 이후로 게시물이 하나도 없어요.
+Elin|B1|”Fas 2 – efter valet.” Det stod längst ner på tavlan, med två streck under.|"2단계 — 선거 후." 화이트보드 맨 아래 그렇게 쓰여 있었어요. 밑줄 두 개 쳐서.
+Sofia|B1|Och de sextio på andra sidan? Vi tittar på dem med samma ögon.|반대편 60개는? 똑같은 눈으로 봐야지.
+Amira|B1|De har postat som vanligt i dag, mest bilder från vallokaler. Ingen tystnad, ingen förändring.|오늘 평소처럼 올렸어. 대부분 투표소 사진. 침묵도 없고 변화도 없어.
+Viktor|B2|Fyrahundra konton som har skrikit varje dag i ett och ett halvt år och sedan tystnar exakt på valdagen. Det är ingen paus, det är en order.|1년 반 동안 매일 소리 지르던 계정 400개가 딱 선거 날에 조용해진다. 그건 쉬는 게 아니라 명령이야.
+Sofia|B2|Det låter rimligt, Viktor, men du står fortfarande utanför den här granskningen. Noah, skriv ner tiderna och visa mig i morgon. Om en tystnad publicerar vi ingenting i kväll.|그럴듯하네, 빅토르. 그래도 넌 여전히 이 취재 밖에 있어. 노아, 시각 적어 두고 내일 보여 줘. 침묵에 대해서는 오늘 밤 아무것도 안 내.
+Noah|A2|Okej. Men jag sover inte i natt.|알겠어요. 근데 저 오늘 밤 못 자요.
+Henrik|B2|Ingen gör det, pojk. Jag har inte sovit en enda valnatt sedan sjuttiotalet, och det har inte blivit bättre av att man numera får siffrorna i telefonen.|아무도 못 잔다, 얘야. 난 70년대 이후로 개표의 밤에 한 번도 못 잤다. 요즘은 숫자가 폰으로 들어오니 더 못 자지.
+# 장면 4 — 밤 12시 반 ~ 1시경, 같은 상황실 벽의 TV (Kanal Sverige 개표 방송 — 카밀라 헤딘의 스튜디오, 두 당 대표의 연설, 해설석의 에크발)
+Camilla|B1|Klockan är halv ett, och nästan alla valdistrikt är räknade. Det skiljer fortfarande bara några mandat mellan sidorna.|12시 반입니다. 거의 모든 선거구 개표가 끝났습니다. 양측 차이는 여전히 몇 석에 불과합니다.
+Amira|B1|Hundrasjuttioen mot hundrasextionio. Gröna Framtid har nio, och de har inte valt sida.|171 대 169. 그뢰나 프람티드가 9석인데, 아직 어느 편도 안 정했어.
+Alva|A2|Vad betyder det? Vem har vunnit?|그게 무슨 뜻이야? 누가 이긴 거야?
+Viktor|B1|Det skiljer bara några mandat, så vi vet inte förrän onsdagsräkningen. Då räknas de sista förtidsrösterna och rösterna från utlandet.|몇 석 차이밖에 안 나서 수요일 최종 집계 때까지는 몰라. 그때 마지막 사전투표랑 해외 투표를 세거든.
+Henrik|B2|Jämnt skägg, flicka. Det är som när två gubbar drar i samma nät och ingen av dem vill släppa först – till slut är det fisken som bestämmer.|막상막하다, 얘야. 영감 둘이 같은 그물을 당기는데 아무도 먼저 놓으려 하지 않는 꼴이지. 결국엔 물고기가 정하는 거다.
+Camilla|A2|Nu talar Cecilia Ahlgren till sina anhängare.|이제 세실리아 알그렌 대표가 지지자들 앞에서 연설합니다.
+Cecilia|B2|I fredags hörde ni en röst som påstods vara min. Den var inte min. Men i dag har vi hört miljoner riktiga röster, och de har inte gett någon av oss rätt att regera ensam.|금요일에 여러분은 제 것이라는 목소리를 들으셨습니다. 그건 제 목소리가 아니었습니다. 그러나 오늘 우리는 수백만의 진짜 목소리를 들었고, 그 목소리들은 우리 중 누구에게도 혼자 통치할 권리를 주지 않았습니다.
+Elin|B1|Hon säger ”röster”. Det var Theos ord för kontona. Jag hörde det första kvällen.|"목소리"라고 하네요. 테오가 계정들을 부르던 말이에요. 첫날 밤에 들었어요.
+Camilla|B1|Och statsminister Tord Söderlund, som också gör anspråk på att leda nästa regering.|그리고 다음 정부도 자신이 이끌겠다고 나선 토르드 쇠데르룬드 총리입니다.
+Tord|B2|Sverige har inte röstat för kaos. Väljarna vill ha en stabil regering, och jag kommer att tala med alla partier som respekterar det.|스웨덴은 혼란에 표를 던지지 않았습니다. 유권자들은 안정된 정부를 원하며, 저는 그것을 존중하는 모든 정당과 대화하겠습니다.
+Sofia|B2|Att inget av blocken fick egen majoritet gör de kommande förhandlingarna viktigare än själva valet.|어느 블록도 단독 과반을 못 얻었으니 앞으로의 협상이 선거 자체보다 더 중요해졌어.
+Alva|A2|Och Gröna Framtid? Är det de som bestämmer nu?|그럼 그뢰나 프람티드는요? 이제 걔네가 정하는 거예요?
+Amira|B1|De kan bli vågmästare. Nio mandat räcker för att avgöra vem som får bilda regering.|캐스팅보트를 쥘 수 있지. 9석이면 누가 정부를 꾸릴지 정하기에 충분해.
+Camilla|B1|Med mig i studion har jag Magnus Ekwall, valstrateg och tidigare statssekreterare.|스튜디오에는 선거 전략가이자 전 차관인 망누스 에크발 씨가 나와 계십니다.
+Henrik|A1|Där är han.|저기 있군.
+Camilla|B1|Magnus, vilka kunder har ni haft i den här valrörelsen?|망누스 씨, 이번 선거운동에서 고객은 누구였습니까?
+Ekwall|B2|I kväll har jag bara en kund, Camilla, och det är demokratin. Mina uppdrag är konfidentiella, som hos alla rådgivare. Det vet du.|오늘 밤 제 고객은 하나뿐입니다, 카밀라. 민주주의죠. 제 일은 다른 모든 자문가들처럼 기밀입니다. 알잖아요.
+Viktor|B2|Där har vi svaret: en kund som heter demokratin och en faktura som ingen någonsin får se.|저게 답이지. 이름이 민주주의인 고객, 그리고 아무도 절대 볼 수 없는 청구서.
+Camilla|B1|Den här valrörelsen har handlat mycket om trollkonton och falska filmer. Har desinformationen avgjort valet?|이번 선거운동은 트롤 계정과 가짜 영상 얘기가 많았습니다. 허위정보가 선거를 결정했을까요?
+Ekwall|B2|Jag tror att vi underskattar svenska folket när vi pratar så. Väljarna är kloka. De har gett oss ett läge där alla måste prata med alla.|그렇게 말하면 스웨덴 국민을 과소평가하는 거라고 봅니다. 유권자는 현명합니다. 모두가 모두와 대화해야 하는 상황을 만들어 줬죠.
+Alva|A2|Han ler hela tiden. Varför ler han?|저 사람 계속 웃어. 왜 웃는 거야?
+Viktor|B2|För att den som förhandlar vinner när ingen annan har vunnit. Han sa nästan exakt så till mig i Visby i juni.|아무도 이기지 못하면 협상하는 사람이 이기니까. 6월에 비스뷔에서 나한테 거의 똑같이 말했어.
+Ekwall|B2|De kommande veckorna blir intressanta. Den som kan tala med alla sidor utan att någon känner sig sviken, den kommer att forma nästa regering.|앞으로 몇 주가 흥미로울 겁니다. 아무도 배신감을 느끼지 않게 모든 편과 대화할 수 있는 사람, 그 사람이 다음 정부를 빚어낼 겁니다.
+Henrik|B2|Han beskriver sig själv, pojk. Han har alltid varit bäst på att sitta kvar vid bordet medan andra slåss om stolarna.|자기 얘기를 하는 거다, 얘야. 남들이 의자 놓고 싸우는 동안 테이블에 끝까지 앉아 있는 데는 늘 그놈이 최고였지.
+Sofia|B1|Vi följer förhandlingarna lika noga som vi följde kontona. Gå hem nu, allihop, utom ni som har nattpasset.|계정을 지켜봤던 것만큼 협상도 꼼꼼히 지켜볼 거야. 이제 다들 집에 가. 야간조 빼고.
+# 장면 5 — 새벽 1시 40분, 상황실 구석의 소파 (꺼지지 않은 TV, 잠든 알바, 헨릭이 가져온 담요, 빅토르의 휴대폰)
+Henrik|A1|Klockan är tjugo i två.|1시 40분이다.
+Viktor|B2|Hon somnade mitt i Söderlunds tal, någonstans mellan det tredje och det fjärde löftet om stabilitet.|쇠데르룬드 연설 도중에 잠들었어. 안정을 세 번째 약속하고 네 번째 약속하는 사이 어딘가에서.
+Henrik|A2|Här är filten. Annars fryser hon.|여기 담요. 안 그러면 추울 거다.
+Viktor|A1|Tack, Hesa.|고마워, 헤사.
+Henrik|B1|Karin ringde mig när du inte svarade. Hon sa att flickan får sova hos dig i Vällingby i natt.|네가 안 받으니까 카린이 나한테 전화했다. 오늘 밤 애는 베링뷔 네 집에서 자도 된대.
+Viktor|A2|Lät hon arg?|화난 목소리였어?
+Henrik|B1|Hon lät som en mamma vars dotter har sett sitt första val. Det är inte samma sak som arg.|딸이 첫 선거를 지켜본 엄마 목소리더라. 화난 거랑은 다르지.
+Alva|A1|Pappa…|아빠…
+Viktor|A1|Jag är här.|나 여기 있어.
+Alva|A1|Pappa… vem vann?|아빠… 누가 이겼어?
+Viktor|A1|Ingen. Än.|아무도. 아직은.
+Henrik|A2|Din telefon, pojk. Den surrar.|네 폰, 얘야. 진동 온다.
+Viktor|A2|Ett sms. Från honom.|문자야. 그 사람한테서.
+Henrik|B2|Han sitter fortfarande i studion och ler mot kameran, och samtidigt skriver han till dig. Läs, då.|아직 스튜디오에 앉아 카메라 보고 웃고 있으면서, 동시에 너한테 문자를 보낸다는 거군. 읽어 봐.
+Viktor|A1|Två ord.|두 단어야.
+Ekwall|A1|Fas två.|2단계.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Har du röstat?** | 투표했어? | *rösta*(투표하다)의 현재완료 *har röstat*. 선거 날 스웨덴 사람들이 서로 가장 많이 묻는 인사말이다. 대답은 *Ja, i onsdags.*(응, 수요일에)처럼 과거 시점을 말하면 과거형으로 바뀐다 — *Jag förtidsröstade.*(사전투표했어) |
+| `A2` | **Vallokalen stänger klockan åtta.** | 투표소는 8시에 닫는다. | *vallokal* = 투표소(*val* 선거 + *lokal* 장소). 정해진 일정은 현재형으로 말한다. 사전투표소는 *röstningslokal*로 따로 부른다 — 선거 당일에는 자기 *vallokal*에서만 투표할 수 있다 |
+| `B1` | **Det skiljer bara några mandat, så vi vet inte förrän onsdagsräkningen.** | 몇 석 차이밖에 안 나서 수요일 최종 집계 때까지는 몰라. | *det skiljer* + 수량 = ~만큼 차이가 나다. *mandat* = 의석. *inte … förrän* = ~이 되어서야 비로소(~ 전에는 아니다). *onsdagsräkningen*은 '수요일 집계'라는 뜻의 고유한 말 |
+| `B1` | **Folk är rädda. De tror att någon ser vem de röstar på.** | 사람들이 겁먹었어. 누가 자기가 누굴 찍는지 본다고 생각해. | *folk*는 형태는 단수지만 '사람들'(복수 의미)이라 형용사도 복수 *rädda*. *rösta på* + 사람·정당 = ~에게 투표하다. 간접의문문 *vem de röstar på*에서 전치사 *på*는 끝에 남는다 |
+| `B2` | **Att inget av blocken fick egen majoritet gör de kommande förhandlingarna viktigare än själva valet.** | 어느 블록도 단독 과반을 얻지 못했다는 사실이 앞으로의 협상을 선거 자체보다 더 중요하게 만든다. | *Att*-절 전체가 주어다(~라는 것이 …하게 만든다). *inget av* + 정관사 복수 = ~ 중 아무것도. *själva valet* = 선거 그 자체(*själv*의 정관사 앞 형태 *själva*) |
+| `B2` | **En förfalskning som avslöjas innan den släpps tappar det enda den har: överraskningen.** | 공개되기 전에 폭로된 위조물은 자기가 가진 유일한 것, 즉 기습 효과를 잃는다. | *avslöjas*, *släpps*는 -s 수동태. *tappa* = 떨어뜨리다 → 잃다. 콜론 뒤에 *det enda*(유일한 것)의 정체를 밝히는 구조는 신문 칼럼에서 자주 쓰는 수사다 |
+| 구어 | **jämnt skägg** | 막상막하, 비김 | 직역하면 '고른 수염'. 경기·선거·논쟁에서 아무도 앞서지 못했을 때 쓴다: *Det blev jämnt skägg.*(비겼어) 헨릭처럼 나이 든 세대가 즐겨 쓰는 표현이다 |
+| 미디어·정치 | **vågmästare** | 캐스팅보트를 쥔 정당 | *våg*(저울) + *mästare*(장인, 주인) — 저울의 균형을 정하는 사람. 두 진영이 모두 과반에 못 미칠 때, 어느 쪽에도 속하지 않은 작은 정당이 *vågmästare*가 된다: *Partiet blev vågmästare i riksdagen.* |
+
+## 저널리즘·법 메모
+개표의 밤에 신문이 가장 쉽게 저지르는 실수는 '빠름'을 '확실함'으로 착각하는 것이다. 투표 마감 직후의 출구조사(*vallokalsundersökning*)는 표본 조사일 뿐이어서, 오차범위보다 작은 차이로 "누가 이겼다"고 쓰면 틀린 기사가 된다 — 그래서 프레드릭은 제목에 출처와 "조사"라는 단어를 박고, 아미라는 큰 화면에 선거관리청(*Valmyndigheten*)의 공식 집계만 띄운다. 스웨덴에서는 선거 당일 밤 각 투표소에서 공개적으로 표를 세는 예비 집계(*preliminär rösträkning*)가 먼저 나오고, 늦게 도착한 사전투표와 해외 투표는 수요일 집계(*onsdagsräkningen*)에서, 최종 결과는 그 뒤 광역 행정청(*länsstyrelsen*)의 확정 집계로 나온다. 몇 석 차이의 박빙이라면 "아직 모른다"가 가장 정확한 기사다. 개표의 밤에 도는 "부정선거" 영상도 같은 원칙으로 다룬다: 출처를 확인할 수 없는 영상은 옮기지 않고, 확인된 영상만 영상을 삽입하지 않은 채 팩트체크로 반박한다 — 검증 없이 퍼 나르는 순간 신문이 소문의 확성기가 되기 때문이다. 400개 계정의 '침묵'처럼 의미심장해 보이는 관찰도, 그것만으로는 기사가 아니라 다음 취재의 출발점일 뿐이다.
+
+## 문화·현안 메모
+- **세 가지 색의 투표용지** — 스웨덴의 총선은 국회(*riksdag*)·광역(*region*)·기초의회(*kommun*) 선거를 같은 일요일에 함께 치른다. 투표용지(*valsedel*)는 국회가 노란색, 광역이 파란색, 기초가 흰색이고, 정당마다 따로 인쇄된 용지를 칸막이 뒤 선반에서 골라 봉투에 넣는다. 누가 어떤 정당 용지를 집는지 보이지 않도록 선반을 가리는 방식은 비밀투표를 지키기 위해 몇 해 전부터 의무가 되었다.
+- **투표 카드(*röstkort*)** — 선거 몇 주 전 유권자의 주민등록 주소로 우편 발송되며, 자기 투표소의 위치와 사전투표 안내가 적혀 있다. 투표 내용과는 아무 관련이 없고, 투표할 때 꼭 필요한 것은 카드가 아니라 신분증이다.
+- **학교 모의선거(*skolval*)** — 총선을 앞두고 많은 중·고등학교가 진짜 투표용지 형식으로 모의선거를 치르고, 그 결과를 전국 단위로 모아 발표한다. 투표권이 없는 10대가 '첫 선거'를 경험하는 자리이자, 정당들이 다음 세대의 흐름을 읽는 지표다.
+- ⚠️ 이번 화의 정당(Samlingspartiet, Hemlandspartiet, Arbetarpartiet, Gröna Framtid), 정치인, 의석수와 출구조사, Kanal Sverige의 방송, 그리고 선거 결과는 모두 허구이며 실제 2026년 9월 13일 총선의 결과나 실존 정당·인물을 묘사하지 않는다.
+
+## 다음 화 예고
+> 사흘 뒤인 9월 16일 수요일, 최종 집계의 아침. 엘린이 말한다 — "Jag behöver två veckor. Utan telefon. Utan Moa."
