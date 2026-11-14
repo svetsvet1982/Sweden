@@ -1,0 +1,186 @@
+@title 5부 3화 — Ansökan
+@subtitle (지원서)
+@meta 날짜|2026년 7월 9일 목요일 오전 8시 반 ~ 밤 10시 10분경
+@meta 장소|Källaren 회의실 (오전 8시 반) → 헤게르스텐(Hägersten), 엘린의 아파트 (낮 12시 반) → 같은 아파트 창가 책상 ↔ Hemlandspartiet 당사(노르말름) 화상 면접 (오후 3시) → 엘린의 아파트 부엌과 현관 거울 (오후 3시 25분 ~ 밤 10시 10분)
+@meta 등장인물|**Elin** (엘린 셰크비스트, 28, 잠입 전문 기자) · **Moa** (모아 린드 — 엘린의 위장 인물, "23세 라이프스타일 크리에이터") · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Lars** (라르스 몰린, 62, 신문사 법률고문) · **Henrik** (헨릭 "헤사" 린드그렌, 59, 사진기자 — 이번 잠입의 핸들러) · **Noah** (노아 베리룬드, 24, 기자) · **Ida** (이다 발린, 29, Hemlandspartiet 디지털팀 관리자) · **Theo** (테오 말름, 36, Hemlandspartiet 커뮤니케이션 책임자)
+@intro **지난 이야기** — 아미라의 분석으로 Hemlandspartiet 쪽 익명 계정 사백 개가 하나의 군집으로 묶였고, 정반대 진영을 띄우는 60개짜리 군집도 함께 나왔다. 그날 밤 사백 개 중 한 계정이 Källaren 팀원들의 이름을 나열한 "TEST" 게시물을 올렸다가 38초 만에 지웠다. "안에 사람이 필요해"라는 소피아의 말에 엘린이 답했다. "이름은 벌써 정했어요. 모아."
+@intro J가 그만둔 자리를 채우려고 당이 낸 공고는 한 줄이었다 — "Kreatör med egen kanal, van vid kameran." 엘린은 7월 7일 화요일 밤 지원서를 보냈고, 다음 날 오후 이다 발린이라는 사람에게서 목요일 오후 3시 화상 면접 메일을 받았다. 목요일 아침, 라르스의 책상 위에 지원서 출력본이 놓여 있다.
+# 장면 1 — 오전 8시 반, Källaren 회의실 (지원서 출력본 두 장, 라르스의 만년필, 소피아가 손으로 쓴 금지 목록 초안, 서명란 두 개)
+Lars|A2|Du har redan skickat den.|이미 보내셨군요.
+Elin|A2|I tisdags kväll. Tjugotre och tio.|화요일 밤에요. 11시 10분.
+Sofia|B2|Jag sa ja i princip i fredags, Elin, men jag sa inte att du skulle söka innan vi hade fått reglerna svart på vitt.|금요일에 원칙적으로 허락은 했지, 엘린. 하지만 규칙을 문서로 확실히 정하기도 전에 지원하라고는 안 했어.
+Elin|B2|Annonsen stängde i går vid midnatt. Hade jag väntat på ett möte hade Moa aldrig funnits.|공고가 어제 자정에 마감됐어요. 회의를 기다렸으면 모아는 아예 존재하지도 못했을 거예요.
+Lars|B1|Man får gärna vara på hugget. Men då får man också stå för det man har kryssat i. Sida två, längst ner.|의욕이 넘치는 건 좋습니다. 하지만 그러면 자기가 체크한 것에도 책임을 져야죠. 2쪽, 맨 아래.
+Elin|A2|Jag vet vad det står.|뭐라고 쓰여 있는지 알아요.
+Lars|B1|Läs det högt ändå. Jag vill att vi alla hör hur det låter.|그래도 소리 내서 읽어 보세요. 그게 어떻게 들리는지 우리 모두 들었으면 합니다.
+Elin|B1|”Jag delar Hemlandspartiets grundläggande värderingar och vill bidra till partiets kommunikation.” Rutan är ikryssad, för annars gick det inte att skicka.|"나는 헴란드스파르티에트의 기본 가치에 동의하며 당의 커뮤니케이션에 기여하고 싶습니다." 체크돼 있어요. 안 그러면 보낼 수가 없었거든요.
+Sofia|A1|Är det ett medlemskap?|그게 당원 가입이야?
+Lars|B2|Nej. Ett medlemskap kräver en ansökan till partiet, en avgift och en rad i medlemsregistret. Det här är en mening i en jobbansökan – en lögn, men inte ett brott, eftersom den varken lämnas till en myndighet eller är en falsk handling.|아닙니다. 당원 가입에는 당에 내는 가입 신청, 당비, 그리고 당원 명부의 한 줄이 필요합니다. 이건 입사 지원서 속 한 문장이에요. 거짓말이지만 범죄는 아닙니다. 공공기관에 내는 것도 아니고 위조 문서도 아니니까요.
+Elin|A2|Så jag får kryssa i den?|그럼 체크해도 된다는 거죠?
+Lars|B2|Du har redan gjort det. Därför ska första raden i din loggbok vara just den: att du kryssade i rutan, vilken dag och varför du inte kunde låta bli. Det vi gör i smyg måste vi kunna redovisa öppet.|이미 하셨죠. 그러니까 업무 일지 첫 줄이 바로 그거여야 합니다. 체크했다는 것, 어느 날이었는지, 그리고 왜 안 할 수 없었는지. 몰래 하는 일은 공개적으로 설명할 수 있어야 합니다.
+Sofia|B2|Innan vi går vidare: listan från förra veckan. Inlägget som skulle ha publicerats klockan sju kom aldrig, och det har inte dykt upp sedan dess heller.|더 가기 전에, 지난주 그 목록. 7시에 올라갔어야 할 게시물은 끝내 안 올라왔어. 그 뒤로도 안 나타났고.
+Elin|A1|Och polisen?|경찰은요?
+Sofia|B2|De har tagit emot anmälan och kopian med tidsstämpel, men en lista med namn är inget olaga hot. Vår säkerhetschef har pratat med Amiras mamma, och Amira kollar kontona varje morgon. Men det som oroar mig i dag är ditt namn, Elin. Det stod på den listan.|신고랑 시간 기록이 남은 사본은 받아 줬어. 하지만 이름 목록은 불법 협박이 아니래. 우리 보안 책임자가 아미라 어머니랑 통화했고, 아미라는 매일 아침 그 계정들을 확인해. 그런데 오늘 내가 걱정하는 건 네 이름이야, 엘린. 그 목록에 있었잖아.
+Elin|B1|Mitt namn, inte mitt ansikte. Jag har aldrig haft en bylinebild, och den gamla profilbilden från teaterskolan raderade jag i februari.|제 이름이지 제 얼굴은 아니에요. 바이라인 사진은 가져 본 적도 없고, 연극학교 시절 옛 프로필 사진은 2월에 지웠어요.
+Lars|B2|Namnet räcker gott den dag de ber om ditt personnummer. Då står det Sjöqvist på deras skärm inom tre sekunder, precis som i vintras.|그쪽이 개인번호를 달라고 하는 날엔 이름만으로 충분합니다. 지난겨울처럼 3초 안에 그쪽 화면에 셰크비스트가 뜰 테니까요.
+Elin|B1|Därför har Moa inget personnummer förrän hon måste. Moa Lind är ett kanalnamn, inte en legitimation.|그래서 모아는 꼭 필요해질 때까지 개인번호가 없어요. 모아 린드는 채널 이름이지 신분증이 아니에요.
+Lars|B1|Ett artistnamn är tillåtet, men en falsk legitimation är det inte. Den dag de vill ha ett avtal med personnummer ringer du mig innan du skriver något.|예명은 괜찮지만 가짜 신분증은 안 됩니다. 그쪽이 개인번호가 들어간 계약서를 원하는 날엔, 아무것도 쓰기 전에 저한테 전화하세요.
+Sofia|B2|Bra. Nu till det viktigaste. I vintras gick du in hos ett assistansbolag. Ett parti är något annat, och jag vill att vi säger högt varför, innan någon annan gör det åt oss.|좋아. 이제 제일 중요한 것. 지난겨울엔 보조 서비스 업체에 들어갔지. 정당은 달라. 왜 다른지, 남이 대신 말하기 전에 우리가 먼저 소리 내서 말했으면 해.
+Lars|B2|Tre villkor, samma som alltid: ett starkt allmänintresse, att det inte finns någon annan väg och att metoden står i proportion till det vi vill visa. Men i ett parti väger varje villkor tyngre, eftersom partierna är själva verktygen i en demokrati.|세 가지 조건은 늘 같습니다. 강한 공익, 다른 길이 없을 것, 그리고 방법이 보여 주려는 것과 비례할 것. 하지만 정당 안에서는 조건 하나하나가 더 무겁습니다. 정당은 민주주의의 도구 그 자체니까요.
+Elin|A1|Hur menar du?|무슨 뜻이에요?
+Lars|B2|Ett parti har rätt att planera, gräla och byta åsikt i fred. Om vi går in och lyssnar på det, dessutom nio veckor före ett val, kan det se ut som att en tidning försöker bestämma vem som vinner.|정당은 조용히 계획하고, 다투고, 의견을 바꿀 권리가 있습니다. 우리가 들어가서 그걸 엿듣는다면, 그것도 선거 9주 전에, 신문사가 누가 이길지 정하려 드는 것처럼 보일 수 있어요.
+Sofia|B2|Därför granskar vi inte vad de tycker, hur obekväma deras åsikter än må vara, utan vad de gör mot väljarna – fyrahundra konton som låtsas vara vanliga människor.|그래서 우리는 그들이 무슨 생각을 하는지는 안 들여다봐. 그 의견이 아무리 불편하게 들리더라도. 우리가 들여다보는 건 유권자들한테 무슨 짓을 하느냐야. 평범한 사람인 척하는 계정 사백 개.
+Elin|B2|Och om det hade varit Arbetarpartiet? Om de sextio kontona hade haft ett kontor med en ledig tjänst, hade ni skickat in mig där också?|그럼 아르베타르파르티에트였다면요? 그 60개 계정에 빈자리가 난 사무실이 있었다면, 거기에도 저를 들여보냈을까요?
+Sofia|B2|Med exakt samma villkor, ja. Skillnaden är bara att de sextio verkar skötas av en konsultbyrå som vi inte kan söka jobb hos, och att vi inte har något vittne därifrån. Metoden får aldrig bero på vilket parti det gäller.|정확히 같은 조건으로, 응. 차이는 그 60개는 우리가 지원할 수 없는 컨설팅 업체가 운영하는 것 같다는 거, 그리고 거기엔 증인이 없다는 것뿐이야. 방법이 어느 정당이냐에 따라 달라져선 절대 안 돼.
+Lars|B2|En sak till om människorna du kommer att möta: politiska åsikter är känsliga personuppgifter. Journalistiken får samla dem, men vi publicerar aldrig vad en vanlig medlem eller volontär tycker. Ida Wallin är partitjänsteman, och det hon gör i tjänsten kan granskas – vad hon röstar på kan det inte.|앞으로 만날 사람들에 대해 하나 더. 정치적 견해는 민감한 개인정보입니다. 저널리즘은 그걸 수집할 수는 있지만, 평범한 당원이나 자원봉사자가 무슨 생각을 하는지는 절대 보도하지 않습니다. 이다 발린은 당직자니까 업무로 하는 일은 검증할 수 있어요. 하지만 그 사람이 누구에게 투표하는지는 안 됩니다.
+Elin|A1|Okej. Listan då.|알겠어요. 그럼 목록이요.
+Lars|B2|Ett: du blir inte medlem. Två: du röstar inte, nominerar inte och deltar inte i några beslut inom partiet. Tre: du skapar och publicerar ingenting åt dem – inte en mem, inte en kommentar, inte ett gillande. Du får iaktta, inte påverka. I samma stund som du skapar innehåll åt dem slutar du vara reporter.|하나: 당원이 되지 않는다. 둘: 당내에서 투표하지 않고, 후보를 추천하지 않고, 어떤 결정에도 참여하지 않는다. 셋: 그들을 위해 아무것도 만들거나 게시하지 않는다. 밈 하나, 댓글 하나, 좋아요 하나도. 관찰은 해도 되지만 영향을 줘선 안 됩니다. 그들을 위해 콘텐츠를 만드는 순간, 당신은 기자가 아니게 됩니다.
+Elin|B2|Men det är ett jobb som går ut på att skapa innehåll. Hur länge kan jag låtsas att jag inte kan göra det som jag har sökt jobbet för?|그런데 그건 콘텐츠를 만드는 게 일인 자리예요. 지원한 바로 그 일을 못 하는 척, 얼마나 오래 할 수 있을까요?
+Sofia|B2|Så länge det håller. Du säger att du håller på, att du lär dig, och sedan skriver du ner exakt vad de bad om. Den dag det inte håller längre avbryter vi, hur nära målet vi än är.|버틸 수 있는 만큼. 아직 하는 중이다, 배우는 중이다 하고, 그다음에 그쪽이 정확히 뭘 시켰는지 적어. 더는 안 버텨지는 날, 우리가 중단해. 목표에 아무리 가까이 와 있더라도.
+Elin|B2|Vi får aldrig själva skapa det vi är där för att granska. Jag har fattat. Dokumentera, men delta inte – som i vintras.|우리가 검증하러 들어간 바로 그것을 우리 손으로 만들어선 절대 안 된다. 알아들었어요. 기록하되, 가담하지는 말 것. 지난겨울처럼요.
+Lars|B2|Fyra: loggbok varje kväll, som Sofia läser. Fem: alla arvoden går oavkortade till en ideell förening utan politisk koppling, så att ingen kan påstå att tidningen har tjänat en krona på partiet. Sex: du spelar bara in samtal där du själv är med, och du lämnar aldrig en telefon som spelar in i ett rum där du inte själv är.|넷: 매일 밤 업무 일지, 소피아가 읽습니다. 다섯: 보수는 한 푼도 빼지 않고 정치와 무관한 비영리 단체로. 신문사가 그 당에서 1크로나라도 벌었다는 말은 아무도 못 하게. 여섯: 당신이 직접 참여한 대화만 녹음하고, 녹음 중인 휴대폰을 당신이 없는 방에 절대 두고 나오지 않습니다.
+Sofia|B2|Och en sjunde som jag lägger till själv: din röst i september är din egen, och den lägger vi oss inte i. Moas röst finns inte. Skriv under här, Elin – jag skriver under bredvid.|그리고 일곱째는 내가 직접 덧붙일게. 9월에 네 표는 네 거고, 우린 거기 끼어들지 않아. 모아의 표는 존재하지 않아. 여기 서명해, 엘린. 나도 옆에 서명할게.
+Elin|A1|Elin Sjöqvist. Klart.|엘린 셰크비스트. 됐어요.
+# 장면 2 — 낮 12시 반, 헤게르스텐, 엘린의 아파트 (6월에 이사 온 뒤 아직 못 푼 이삿짐 상자, 창가의 링라이트, 부엌 식탁 위 노아의 노트북, 헨릭이 사 온 시나몬롤 봉지)
+Henrik|A1|Det är jag. Kanelbullar.|나다. 시나몬롤.
+Elin|A2|Kom in. Kliv över kartongerna, jag har inte packat upp än.|들어오세요. 상자 넘어서 오세요, 아직 짐을 못 풀었어요.
+Henrik|A2|Tre veckor här och fortfarande kartonger. Och du har blekt håret.|여기 온 지 3주인데 아직도 상자구먼. 그리고 머리 탈색했네.
+Elin|B1|Moa var blond 2021, så Moa är blond i dag. Noah sitter vid köksbordet och går igenom hennes gamla konto.|모아는 2021년에 금발이었으니까 오늘도 금발이에요. 노아는 부엌 식탁에서 그 애 옛날 계정을 훑고 있어요.
+Noah|B1|Hej, Hesa. Det här kontot är faktiskt guld. Det skapades i april 2021, har 143 inlägg fram till maj 2022 och sedan är det tyst i fyra år.|안녕하세요, 헤사. 이 계정 진짜 금이에요. 2021년 4월에 만들어졌고, 2022년 5월까지 게시물이 143개, 그다음 4년 동안은 조용해요.
+Henrik|A1|Vem skapade det?|누가 만들었는데?
+Elin|B2|Jag. Det var en övning på teaterskolan: vi skulle bygga en karaktär som levde på nätet ett helt år, som om hon vore en verklig människa. Min hette Moa.|저요. 연극학교 과제였어요. 진짜 사람인 것처럼 인터넷에서 꼬박 1년을 사는 인물을 만드는 거였죠. 제 인물 이름이 모아였어요.
+Noah|B2|Och hon har 3 912 följare. Jag har kollat dem en och en, och ingen av dem är köpt. Hade du köpt följare hade Ida sett det på fem sekunder.|팔로워가 3,912명이에요. 하나하나 확인했는데 산 건 하나도 없어요. 팔로워를 샀더라면 이다가 5초 만에 알아봤을 거예요.
+Henrik|A1|Och kommentarerna?|댓글은?
+Noah|B1|Det är problemet. Elva av dem kommer från hennes klasskamrater, som spelade med i övningen. De vet alltså vem Moa är.|그게 문제예요. 그중 열한 개가 반 친구들이 단 거예요. 과제에 같이 장단을 맞춰 준 거죠. 그러니까 그 사람들은 모아가 누군지 알아요.
+Elin|B2|Jag dolde deras kommentarer i morse, men jag kan inte dölja vad de minns. Och på en av bilderna från 2021 står hela klassen på en trappa – den har jag arkiverat.|오늘 아침에 그 댓글들은 숨겼어요. 하지만 그 사람들 기억까지 숨길 순 없죠. 그리고 2021년 사진 하나에 반 전체가 계단에 서 있는 게 있어서, 그건 보관함으로 옮겼어요.
+Henrik|B2|Din bild kan du gömma. Deras kan du int. Den som har stått på en trappa med tjugo andra har tjugo andra som kan lägga ut den i morgon. Så från och med nu: låt ingen fotografera dig. Int på kontoret, int på nån fest.|네 사진은 숨길 수 있지. 남들 사진은 못 숨겨. 스무 명이랑 계단에 서 본 사람한텐, 그걸 내일 올릴 수 있는 사람이 스무 명 있는 거다. 그러니까 이제부터, 아무도 널 찍게 두지 마라. 사무실에서도, 무슨 파티에서도.
+Noah|A2|Och de fem nya inläggen? Sedan i lördags?|그럼 새 게시물 다섯 개는요? 토요일부터 올린 거요?
+Elin|A2|Frukost, en loppisjacka, Tantolunden, min ringlampa och en text om att jag är tillbaka.|아침 식사, 벼룩시장에서 산 재킷, 탄토 공원, 제 링라이트, 그리고 돌아왔다는 글.
+Noah|B1|Det senaste har 6 200 visningar, mest för att gamla följare blev glada att hon levde. Det är riktiga siffror. Ljug aldrig om dem, för de kommer att be dig visa skärmen.|마지막 게시물이 조회수 6,200이에요. 대부분 옛날 팔로워들이 그 애가 살아 있다고 반가워해서요. 진짜 숫자예요. 그 숫자로는 절대 거짓말하지 마세요. 화면 보여 달라고 할 거예요.
+Elin|A1|Jag vet. Tack, Noah.|알아. 고마워, 노아.
+Noah|A2|Jag måste tillbaka till Källaren. Lycka till klockan tre.|저 지하실로 돌아가야 돼요. 3시에 행운을 빌어요.
+Henrik|B1|Nu kör vi. Jag har int läst nåt om Moa, så jag frågar som en främling som int litar på dig.|자, 해 보자. 난 모아에 대해 아무것도 안 읽었으니까, 널 안 믿는 낯선 사람처럼 묻겠다.
+Elin|A1|Kör.|하세요.
+Henrik|A1|Vad heter du?|이름이 뭐요?
+Moa|A2|Moa! Moa Lind. Typ tjugotre, asså tjugotre på riktigt.|모아요! 모아 린드. 스물셋쯤, 아니 진짜 스물셋이요.
+Henrik|A1|Var kommer du ifrån?|어디 출신이오?
+Moa|B1|Norrtälje, liksom. Fast jag bor i andra hand i Liljeholmen nu, för man måste typ bo i stan om man ska göra content.|노르텔리에요, 뭐. 근데 지금은 릴리에홀멘에서 전대로 살아요. 콘텐츠 하려면 그냥 시내에 살아야 하잖아요.
+Henrik|B1|Var bor din mormor? Svara fort, flicka. Den som tvekar har redan ljugit.|네 외할머니 어디 사냐? 빨리 대답해, 아가씨. 머뭇거리는 놈은 이미 거짓말한 거다.
+Moa|A2|Grisslehamn! Typ där Ålandsfärjan går, asså.|그리슬레함이요! 그 올란드 가는 페리 다니는 데요.
+Henrik|A1|Vad heter gatan?|길 이름은?
+Moa|B1|Ingen vet vad gatorna heter i Grisslehamn, asså. Man säger typ ”huset efter affären”, och sen sjöboden.|그리슬레함에선 길 이름 아무도 몰라요. 그냥 "가게 지나서 있는 집"이라고 하고, 그다음에 바닷가 창고 하는 거죠.
+Henrik|A1|Och rektorn på gymnasiet?|고등학교 교장은?
+Moa|A2|Ingen vet vad rektorn heter. Det är typ hela grejen med rektorer.|교장 이름은 아무도 몰라요. 교장이란 게 원래 그런 거잖아요.
+Henrik|B1|Ha. Det där köper jag. Var kommer Grisslehamn ifrån, Elin? Svara som dig själv nu.|하. 그건 믿어 주지. 그리슬레함은 어디서 나온 거냐, 엘린? 이번엔 너 자신으로 대답해.
+Elin|B1|Min moster hade sommarstuga där. Jag var där varje juli tills jag var femton, så jag kan varenda brygga.|이모가 거기 여름 별장이 있었어요. 열다섯 살까지 7월마다 거기 있었으니까 부두 하나하나 다 알아요.
+Henrik|B2|Bra. Den bästa lögnen bor i ett hus man har sovit i, för då behöver man aldrig hitta på var möblerna står. Vad tycker du om politik, Moa?|좋아. 제일 좋은 거짓말은 자기가 자 본 집에 사는 법이지. 그래야 가구가 어디 있는지 지어낼 필요가 없거든. 정치는 어떻게 생각하냐, 모아?
+Moa|A2|Asså, typ, jag är inte politisk liksom.|음, 그러니까, 저 정치적인 사람 아니에요, 뭐랄까.
+Henrik|A2|Varför söker du jobb hos ett parti då?|그럼 왜 정당에 지원하냐?
+Moa|B1|Jag ba, varför låter alla politiker som en bruksanvisning? Sjukt tråkigt, asså. Någon måste typ prata som vanligt folk.|나 완전 그랬잖아요, 왜 정치인들은 다 사용설명서처럼 말해? 진짜 지루하다니까. 누군가는 좀 보통 사람처럼 말해야죠.
+# 장면 3 — 오후 3시, 엘린의 아파트 창가 책상 ↔ Hemlandspartiet 당사(노르말름) 화상 면접 (노트북 화면 속 하얀 벽과 커피잔 하나, 깜빡이는 링라이트, 부엌 문 뒤에서 숨죽인 헨릭, 노트북의 녹화 표시)
+Ida|A1|Hör du mig?|들려?
+Moa|A2|Ja! Hej! Sorry, min ringlampa blinkar lite.|네! 안녕하세요! 죄송해요, 제 링라이트가 좀 깜빡거려요.
+Ida|A2|Ida Wallin. Jag har tjugo minuter. Namn, ålder, stad.|이다 발린. 20분 있어. 이름, 나이, 도시.
+Moa|A2|Moa Lind, tjugotre, Liljeholmen. Fast typ Norrtälje från början.|모아 린드, 스물셋, 릴리에홀멘이요. 근데 원래는 노르텔리에.
+Ida|A2|Vad har du gjort tidigare?|전에 뭐 했어?
+Moa|A2|Jag har jobbat med sociala medier i två år. Och folk säger typ att mitt flöde känns sjukt varmt, liksom.|소셜미디어 일을 2년 했어요. 그리고 사람들이 제 피드가 진짜 따뜻하대요, 뭐랄까.
+Ida|A2|Visningar per inlägg. Siffror. Inte känslor.|게시물당 조회수. 숫자로. 감정 말고.
+Moa|A2|Okej, jag delar skärmen. Ser du? Det senaste ligger på 6 200.|네, 화면 공유할게요. 보여요? 마지막 거 6,200이에요.
+Ida|B1|Ditt konto var dött i fyra år. Varför ska jag tro att det lever nu?|네 계정은 4년 동안 죽어 있었어. 지금 살아 있다고 내가 왜 믿어야 하지?
+Moa|B1|Asså, jag tappade typ lusten när alla började sälja grejer. Nu vill jag tillbaka, men på riktigt den här gången, liksom.|그러니까, 다들 뭘 팔기 시작하니까 그냥 의욕이 없어졌어요. 이제 돌아오고 싶은데, 이번엔 진짜로요, 뭐랄까.
+Ida|A1|Engagemang per inlägg?|게시물당 참여율?
+Moa|A2|Typ åtta procent på de nya. Det är sjukt bra, asså.|새 것들은 8퍼센트쯤이요. 그거 진짜 좋은 거예요.
+Ida|B1|Det är bra för ett litet konto. Men du ska inte jobba med ditt konto här. Du ska jobba med våra.|작은 계정치고는 좋지. 근데 여기선 네 계정으로 일하는 게 아니야. 우리 계정으로 일하는 거지.
+Moa|A1|Era konton?|그쪽 계정이요?
+Ida|B1|Partiets kanaler och några till. Det får du veta när du börjar, om du börjar.|당 채널하고, 몇 개 더. 시작하면 알게 될 거야. 시작한다면.
+Moa|A2|Okej, coolt. Typ hur många timmar?|오케이, 좋아요. 몇 시간쯤이요?
+Ida|B1|Heltid fram till valet, på plats, åtta till fem. Telefonen lämnas i ett skåp vid dörren. Problem?|선거 때까지 풀타임, 출근해서, 8시부터 5시. 휴대폰은 입구 사물함에 맡겨. 문제 있어?
+Moa|A2|Sjukt jobbigt för en kreatör, asså. Men okej.|크리에이터한텐 진짜 힘든데요. 근데 괜찮아요.
+Ida|B1|Du fakturerar. F-skatt eller egenanställningsföretag, det bryr jag mig inte om.|넌 청구서로 받아. 사업자 등록이든 대행 회사든, 난 상관없어.
+Moa|A1|Inga problem.|문제없어요.
+Ida|B1|Har du gjort något för ett annat parti? Någon gång, någonstans?|다른 당 일 해 본 적 있어? 언제든, 어디서든.
+Moa|A2|Nej. Jag har typ aldrig ens varit på ett möte.|아뇨. 모임에도 한 번도 안 가 봤어요.
+Theo|B1|Sorry, sorry, jag stör bara i två minuter – är det kreatören? Ida, du sa inte att hon var så här… on brand.|미안, 미안, 2분만 방해할게. 그 크리에이터야? 이다, 이렇게… 브랜드에 딱이라곤 안 했잖아.
+Ida|A1|Theo. Det här är Moa.|테오. 이쪽이 모아.
+Theo|B2|Hej Moa! Theo Malm, jag leder kommunikationen. Jag kollade ditt flöde i morse, och det jag gillar är att det inte ser ut som reklam. Folk är så trötta på polerat innehåll att det äkta har blivit vår starkaste valuta.|안녕, 모아! 테오 말름, 커뮤니케이션 맡고 있어. 오늘 아침에 네 피드 봤는데, 광고처럼 안 보이는 게 맘에 들더라. 사람들이 매끈하게 다듬은 콘텐츠에 너무 질려서, 진짜 같은 게 우리한테 제일 센 화폐가 됐거든.
+Moa|B1|Asså, jag vill typ göra content som folk faktiskt känner igen sig i, liksom.|그러니까, 사람들이 진짜로 자기 얘기 같다고 느끼는 콘텐츠를 만들고 싶어요, 뭐랄까.
+Theo|A2|Där! Känna igen sig. Det är hela grejen.|바로 그거! 자기 얘기 같다고 느끼는 거. 그게 전부야.
+Moa|A2|Tack. Typ, sjukt kul att höra.|감사해요. 진짜 듣기 좋아요.
+Theo|B1|En snabb fråga bara, inget rätt eller fel. Vad tycker du om media?|빠른 질문 하나만, 정답은 없어. 미디어 어떻게 생각해?
+Moa|A2|Media? Asså… typ tråkigt. Ingen jag känner läser tidningar.|미디어요? 음… 그냥 지루해요. 제 주변엔 신문 읽는 사람 없어요.
+Theo|B1|Inte ens Stockholmsposten? De verkar väldigt intresserade av oss just nu.|스톡홀름스포스텐도? 요즘 우리한테 꽤 관심이 많은 것 같던데.
+Moa|B1|Är det den med typ korsord? Min morfar löser korsordet, men han läser inget annat, asså.|그거 십자말풀이 있는 거예요? 외할아버지가 십자말풀이는 푸는데, 다른 건 하나도 안 읽어요.
+Theo|B2|Perfekt svar, ärligt. Det är precis där vi vill vara – där folk faktiskt är, inte där tidningarna tror att de är. Media pratar om oss; vi pratar med folk.|완벽한 대답이야, 진짜로. 우리가 있고 싶은 데가 딱 거기야. 신문들이 사람들이 있을 거라고 생각하는 데 말고, 사람들이 실제로 있는 데. 미디어는 우리에 대해 말하고, 우리는 사람들이랑 말하지.
+Ida|A2|Theo. Hon har fem minuter kvar.|테오. 5분 남았어.
+Theo|B1|Jag går, jag går. Moa, en sista sak: vi bryr oss inte om du är medlem. Vi bryr oss om du når fram.|간다, 가. 모아, 마지막으로 하나. 네가 당원인지는 상관없어. 사람들한테 닿느냐가 중요하지.
+Moa|A2|Okej! Typ, tack, Theo.|네! 감사해요, 테오.
+Ida|B1|Sista frågan. Om du får ett uppdrag som du inte gillar, vad gör du då?|마지막 질문. 마음에 안 드는 일을 받으면, 그땐 어떻게 해?
+Moa|B1|Asså, jag frågar typ varför först. Jag är sjukt dålig på att låtsas, liksom.|그러니까, 일단 왜냐고 물어봐요. 저 척하는 거 진짜 못하거든요.
+Ida|B1|Vi hör av oss i kväll. Eller så gör vi det inte, och då vet du svaret.|오늘 밤에 연락할게. 아니면 안 할 거고, 그럼 답을 알겠지.
+Moa|A1|Okej. Hej då!|네. 안녕히 계세요!
+# 장면 4 — 오후 3시 25분 ~ 밤 10시 10분, 엘린의 아파트 부엌과 현관 거울 (노트북 녹화 파일 22분, 업무 일지 1쪽, 모아 폰, 식은 시나몬롤, 현관의 전신 거울)
+Henrik|A1|Är kameran av?|카메라 꺼졌냐?
+Elin|A2|Av. Och mikrofonen. Jag kollade två gånger.|꺼졌어요. 마이크도요. 두 번 확인했어요.
+Henrik|B2|Jag satt i köket och höll andan i tjugotvå minuter. Den där Theo, han frågade om tidningen som om han redan visste svaret och bara ville se hur du tog det.|부엌에 앉아서 22분 동안 숨을 참았다. 그 테오라는 놈, 신문 얘기를 묻는데 꼭 답을 이미 알고서 네가 어떻게 받아치나 보려는 것처럼 묻더구먼.
+Elin|B2|Han ville se om jag blev nervös. Jag spelade in hela samtalet på datorn, vilket är lagligt eftersom jag själv deltog i det, och filen går till Amira i kväll på ett usb-minne – inte på mejl.|제가 긴장하나 보려던 거예요. 통화는 전부 컴퓨터로 녹화했어요. 제가 직접 참여한 대화니까 합법이고요. 파일은 오늘 밤 아미라한테 가요. 메일 말고 USB로요.
+Henrik|B2|Och det Ida sa om ”våra konton”, att du int ska jobba med ditt eget konto utan med deras, det skriver du ordagrant, innan du hinner göra det snyggare i minnet.|그리고 이다가 말한 "우리 계정" 얘기, 네 계정이 아니라 그쪽 계정으로 일한다는 거, 그건 기억 속에서 그럴듯하게 다듬기 전에 토씨 하나 안 틀리고 적어 둬라.
+Elin|A2|Redan gjort. Sida ett i loggboken.|벌써 했어요. 업무 일지 1쪽에요.
+Henrik|A1|Läs första raden.|첫 줄 읽어 봐.
+Elin|B2|”Den 7 juli klockan 23.10 kryssade jag i en ruta om att jag delar Hemlandspartiets värderingar. Det gör jag inte. Utan krysset gick ansökan inte att skicka, och jag bedömde att det inte var ett medlemskap.” Lars ville ha det så.|"7월 7일 23시 10분, 헴란드스파르티에트의 가치에 동의한다는 칸에 체크했다. 나는 동의하지 않는다. 체크하지 않으면 지원서를 보낼 수 없었고, 나는 그것이 당원 가입이 아니라고 판단했다." 라르스가 그렇게 쓰라고 했어요.
+Henrik|B1|Bra. Nu mina regler, och de är int förhandlingsbara. Moa-telefonen är samma modell som Jennys, med nytt kort, och den ligger i din väska varje kväll när du går hem.|좋아. 이제 내 규칙이다. 협상은 없어. 모아 폰은 제니 폰이랑 같은 모델에 새 유심이고, 매일 밤 퇴근할 때 네 가방 안에 있어야 한다.
+Elin|A1|Och kodordet?|암호는요?
+Henrik|A2|Det väljer du. Som förra gången.|그건 네가 정해. 지난번처럼.
+Elin|B1|”Färjan går inte i dag.” Om du får det kommer du, och du frågar ingenting förrän jag sitter i bilen.|"오늘은 페리가 안 다녀요." 그게 오면 오세요. 그리고 제가 차에 탈 때까지 아무것도 묻지 마시고요.
+Henrik|A2|Uppfattat. Där ringer den – din, int min.|알았다. 저기 울리네. 네 거다, 내 거 말고.
+Moa|A1|Moa! Hej!|모아예요! 안녕하세요!
+Ida|B1|Ida Wallin. Du är antagen. Första dagen är måndag den tjugonde, klockan åtta, Vasagatan. Adressen kommer i ett sms.|이다 발린이야. 합격. 첫날은 20일 월요일, 8시, 바사가탄. 주소는 문자로 갈 거야.
+Moa|A2|Åh! Sjukt kul! Måste jag ta med något?|와! 진짜 좋아요! 뭐 가져가야 해요?
+Ida|B1|Dig själv och en dator. Avtalet kommer på mejl i nästa vecka. Läs det, skriv under och skicka tillbaka.|너 자신이랑 노트북. 계약서는 다음 주에 메일로 가. 읽고, 서명하고, 돌려보내.
+Moa|A1|Absolut. Tack, Ida!|물론이죠. 고마워요, 이다!
+Ida|A1|Klockan åtta. Inte fem över.|8시. 8시 5분 말고.
+Elin|A2|Hon la på. Det tog tre minuter, och hon sa inte hej då.|끊었어요. 3분 걸렸는데, 안녕이라는 말도 안 했어요.
+Henrik|A2|Ring Sofia. Sen ringer du Lars om avtalet.|소피아한테 전화해. 그다음엔 계약서 때문에 라르스한테.
+Sofia|B1|Jag har sett ditt sms. Grattis är fel ord, så jag säger det inte. Har de bett om ditt personnummer?|문자 봤어. 축하한다는 건 틀린 말이니까 안 할게. 개인번호 달래?
+Elin|B1|Inte än. Men ett avtal kommer i nästa vecka, och jag skriver inte under något innan Lars har läst det.|아직은요. 하지만 다음 주에 계약서가 와요. 라르스가 읽기 전엔 아무것도 서명 안 해요.
+Sofia|B2|Bra. Och en sak som inte står på listan: det här är J:s gamla plats. Om du någon gång börjar känna dig hemma där inne, säger du det till mig samma kväll. Det är inget fel att trivas, men det är ett tecken.|좋아. 그리고 목록에 없는 거 하나. 거긴 J가 있던 자리야. 언젠가 그 안에서 집처럼 편하다는 느낌이 들기 시작하면, 그날 밤 바로 나한테 말해. 거기서 지내는 게 좋아지는 게 잘못은 아니야. 하지만 그건 신호야.
+Elin|A2|Jag lovar. God natt, Sofia.|약속해요. 안녕히 주무세요, 소피아.
+Henrik|B1|Klockan är nio. Jag sitter kvar tills du har tagit av dig henne. Ställ dig vid spegeln.|9시다. 네가 그 애를 벗을 때까지 남아 있을게. 거울 앞에 서.
+Elin|A1|Okej. Nu.|좋아요. 지금.
+Henrik|A1|Säg ditt namn. Ditt riktiga.|이름 말해. 진짜 이름.
+Elin|A2|Elin, typ – nej. Vänta.|엘린, 뭐 — 아니. 잠깐만요.
+Henrik|A1|Igen.|다시.
+Elin|A2|Elin Sjöqvist. Jag bor i Hägersten.|엘린 셰크비스트. 헤게르스텐에 살아요.
+Henrik|B1|Rösten är tillbaka. Men du ler fortfarande med hela ansiktet, som hon gjorde i datorn.|목소리는 돌아왔다. 근데 아직도 얼굴 전체로 웃고 있어, 컴퓨터 속에서 그 애가 그랬던 것처럼.
+Elin|B1|Hon skrattar för mycket. Jag måste komma ihåg att sluta.|그 애는 너무 많이 웃어요. 멈추는 걸 기억해야 해요.
+Henrik|A2|Hur lång tid tog det?|얼마나 걸렸냐?
+Elin|B2|Fyrtio minuter. Med Jenny tog det fem, och då tyckte jag ändå att det var för länge. Moa sitter i munnen på ett annat sätt, som om hon tycker att hon har rätt att vara här.|40분이요. 제니 때는 5분 걸렸는데, 그때도 너무 길다고 생각했어요. 모아는 입에 다르게 붙어 있어요. 자기가 여기 있을 권리가 있다고 생각하는 것처럼요.
+Henrik|B2|Då gör vi så här, flicka. Du får vara Moa från åtta till fem. Men vad som än händer där inne, du ska komma hem varje kväll. Som Elin.|그럼 이렇게 하자, 아가씨. 8시부터 5시까지는 모아여도 돼. 하지만 거기서 무슨 일이 있든, 매일 밤 집에 와야 한다. 엘린으로.
+Elin|A2|Och om jag inte gör det?|안 그러면요?
+Henrik|B2|Då kör jag hit och sitter i ditt kök tills du gör det, om det så tar hela natten. Jag har int nåt bättre för mig.|그럼 여기까지 차 몰고 와서 네가 그럴 때까지 네 부엌에 앉아 있을 거다. 밤을 꼬박 새우더라도. 나한텐 그보다 나은 할 일도 없어.
+Moa|A2|Okänt nummer… Hallå, Moa här?|모르는 번호네… 여보세요, 모아예요?
+Theo|B1|Välkommen till familjen, Moa. Här säger vi aldrig ”troll”. Vi säger ”röster”.|가족이 된 걸 환영해, 모아. 여기선 '트롤'이라고 안 해. '목소리'라고 하지.
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Vad heter du?** | 이름이 뭐예요? | 가장 기본적인 질문. 의문사 *vad* 뒤에 바로 동사 *heter*(~라고 불리다)가 온다 — 의문문도 V2 어순. 헨릭이 리허설 첫 질문으로 쓰고, 이다는 같은 내용을 더 차갑게 *Namn, ålder, stad.*(이름, 나이, 도시)로 묻는다 |
+| `A2` | **Jag har jobbat med sociala medier i två år.** | 소셜미디어 일을 2년 했어요. | *har jobbat*는 현재완료 — *i två år*와 함께 쓰면 "2년째 해 오고 있다/2년 동안 해 왔다". 과거의 끝난 일이면 *jobbade*(과거형)를 쓴다. *jobba med något* = ~와 관련된 일을 하다 |
+| `B1` | **Asså, jag vill typ göra content som folk faktiskt känner igen sig i, liksom.** | 그러니까, 사람들이 진짜로 자기 얘기 같다고 느끼는 콘텐츠를 만들고 싶어요, 뭐랄까. | *känna igen sig i något* = ~에서 자기 모습을 알아보다, 공감하다. 관계절 *som folk … känner igen sig i*에서 전치사 *i*가 맨 끝에 남는다. *asså*(= *alltså*), *typ*, *liksom*은 뜻을 더하지 않는 군말(*utfyllnadsord*) — 모아 말투의 핵심이다 |
+| `B1` | **Den som tvekar har redan ljugit.** | 머뭇거리는 놈은 이미 거짓말한 거다. | *den som* + 동사 = ~하는 사람(일반적인 사람을 가리키는 속담식 주어). *ljuga – ljög – ljugit*는 불규칙 동사. 헨릭의 옛 관용구 말투 — 1화의 *Den som pratar mest har minst att säga*와 같은 틀이다 |
+| `B2` | **Vi får aldrig själva skapa det vi är där för att granska.** | 우리가 검증하러 들어간 바로 그것을 우리 손으로 만들어선 절대 안 된다. | *det (som) vi är där för att granska* — 관계대명사 *som*이 생략됐고, *för att* + 부정사(~하기 위해)가 관계절 안에 들어 있다. *själva*(우리 스스로)는 주어 *vi*에 맞춘 복수형. 잠입 취재 윤리를 한 문장으로 줄인 엘린의 요약 |
+| `B2` | **Hade jag väntat på ett möte hade Moa aldrig funnits.** | 회의를 기다렸으면 모아는 아예 존재하지도 못했을 거예요. | *om*을 빼고 동사를 맨 앞에 두는 조건절 도치(*Hade jag väntat* = *Om jag hade väntat*). 과거 사실의 반대를 가정할 때 양쪽 모두 *hade* + 완료분사. 말할 때 자주 쓰는 B2 가정법 |
+| 관용구 | **vara på hugget** | 의욕이 넘치다, 바로 덤벼들 준비가 돼 있다 | *hugg*는 '한 번 내려침, 물기'. 낚시에서 물고기가 미끼를 덥석 무는 순간처럼 "기회가 오면 바로 문다"는 뜻이다. 칭찬으로도, 라르스처럼 "너무 서둘렀다"는 부드러운 꾸짖음으로도 쓴다: *Man får gärna vara på hugget, men…* |
+| 미디어·정치 | **partitjänsteman** | 당직자, 정당 사무직원 | *parti*(정당) + *tjänsteman*(사무직원, 공무원). 선거로 뽑힌 정치인이 아니라 정당에 고용돼 일하는 직원. 라르스는 이 구분으로 선을 긋는다 — 당직자가 업무로 하는 일은 검증 대상이지만, 그 사람의 정치적 견해와 투표는 사생활이다. 엘린(모아)은 고용 계약이 아니라 청구서로 보수를 받는 *uppdragstagare*(용역 수행자)로 들어간다 |
+
+## 저널리즘·법 메모
+스웨덴 언론계에서 위장 취재(*wallraffa*)는 금지되지 않지만, 세 가지 조건을 모두 갖춰야 정당화된다 — 강한 공익, 다른 방법으로는 진실에 닿을 수 없을 것, 그리고 속이는 방법이 밝히려는 사실의 무게와 비례할 것. 정당 잠입에서 이 저울이 특히 무거운 이유는 정당이 민주주의의 핵심 도구이고, 선거 직전 기자가 정당 내부에 들어가는 일 자체가 "언론이 선거에 개입한다"는 비판을 부르기 때문이다. 그래서 Källaren의 기준은 *의견*이 아니라 *방법*을 겨냥한다: 유권자를 속이는 익명 계정 운영은 검증하되, 당이 무엇을 주장하고 어떻게 내부 토론을 하는지는 기사 대상이 아니다. 같은 이유로 기준은 어느 정당에나 똑같아야 한다 — 반대 진영의 60개 군집에 잠입하지 않는 건 다른 잣대 때문이 아니라 들어갈 길과 증인이 없기 때문이다. 법적으로 보면, 지원서의 거짓 체크나 예명 사용은 공공기관에 내는 문서나 위조 문서가 아니라서 범죄가 아니지만, 가짜 신분증은 문서 위조가 된다. 당원 가입·당내 투표·콘텐츠 제작은 법이 아니라 언론윤리의 선이며, 기자가 스스로 조사 대상의 일부가 되는 순간 취재는 끝난다. 정치적 견해는 GDPR상 민감한 개인정보라 저널리즘 예외로 수집은 가능해도, 평범한 당원·자원봉사자의 견해는 보도하지 않는다. 마지막으로, 거짓말에는 대가가 있다 — 매일의 업무 일지, 그리고 보도할 때 독자에게 어떻게, 왜 속였는지 밝히는 것.
+
+## 문화·현안 메모
+- **모아 말투의 군말들** — 스톡홀름 젊은 층 구어에서 *typ*(~같은, 대충), *asså*(*alltså*, 그러니까), *liksom*(뭐랄까), *sjukt*(완전, 진짜 — 원뜻은 '아프게')가 문장마다 끼어든다. 특히 *ba*(*bara*에서 온 말)는 *Jag ba…*(나 완전 이랬잖아…)처럼 누가 한 말이나 반응을 인용하는 표지로 쓰인다. 문법적으로 틀린 말은 아니지만, 공식 면접에서 이렇게 말하면 "어리고 정치에 무관심한 사람"이라는 인상을 준다 — 엘린이 노린 게 바로 그것이다.
+- **그리슬레함(Grisslehamn)** — 스톡홀름 북동쪽 로슬라겐 해안, 노르텔리에 시에 속한 작은 항구 마을. 올란드 제도의 에케뢰로 가는 페리가 다녀서 "올란드 페리 타는 곳"으로 알려져 있다. 여름 별장이 많고 길 이름보다 가게·부두·바닷가 창고(*sjöbod*)로 길을 설명하는 동네다.
+- **F-skatt와 *egenanställningsföretag*** — 스웨덴에서 프리랜서가 청구서를 발행하려면 국세청에서 사업자 세금 승인(F-skatt)을 받거나, 회사를 차리지 않고도 청구·세금·사회보험료를 대신 처리해 주는 "자기 고용 대행 회사"를 쓴다. 이다가 둘 다 상관없다고 한 건, 디지털팀이 크리에이터를 직원이 아니라 외주로 다룬다는 뜻이기도 하다.
+- ⚠️ Hemlandspartiet·Arbetarpartiet, 이다 발린·테오 말름, 채용 공고와 지원서 문구, "Moa Lind" 계정과 그 숫자는 모두 허구다. 실존 정당·정치인·캠페인의 행위나 실제 채용 과정을 묘사하지 않는다. 위장 취재 원칙, 개인정보 규정, F-skatt 제도는 실제 제도를 배경으로만 썼다.
+
+## 다음 화 예고
+> 7월 20일 월요일, 간판 없는 바사가탄 사무실. 휴대폰은 입구 사물함에, 커피는 공짜지만 맛이 없고, 위층은 "다크 계정" 권한이다 — 모아의 첫 출근, 그리고 공유 드라이브에서 눈에 띈 폴더 하나.

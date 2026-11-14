@@ -23,7 +23,7 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
-## 대본 목차 (62/105화 완성)
+## 대본 목차 (63/105화 완성)
 
 ### 1부
 
@@ -111,3 +111,4 @@
 |---|---|---|
 | 1 | [Almedalen](episodes/k5_e01.md) | 알메달렌 |
 | 2 | [Kontona](episodes/k5_e02.md) | 계정들 |
+| 3 | [Ansökan](episodes/k5_e03.md) | 지원서 |
