@@ -1,0 +1,185 @@
+@title 2부 6화 — Spöktimmar
+@subtitle (유령 시간)
+@meta 날짜|2026년 2월 2일 월요일, *kyndelsmäss* (성촉절 — 해는 8시쯤 떠서 4시쯤 진다)
+@meta 장소|노르비크, 베니의 거실 (오전 7시 40분) → 쿵스홀멘 "Källaren" (오후 3시 40분) → 한트베르카르가탄의 카페 구석 자리 (저녁 6시) → 다시 Källaren (저녁 7시 반)
+@meta 등장인물|**Elin** (엘린 셰크비스트, 28, 잠입 전문 기자 / 위장 신분 "제니 칼손") · **Benny** (베니 란츠, 34, 뇌성마비, Trygga Händer 이용자) · **Sofia** (소피아 브란트, 54, 편집국장·발행책임자) · **Viktor** (빅토르, 47, 탐사기자) · **Amira** (아미라 살레, 33, 데이터·OSINT 기자) · **Noah** (노아 베리룬드, 24, 인턴)
+@intro **지난 이야기** — 보조인 "제니"가 된 엘린은 베니의 집에서 저녁 6시 이후 문을 연 열쇠가 어머니 모니카의 것뿐이라는 걸 확인했고, 지역 관리자 마티아스는 일하지 않은 시간까지 "일주일 치 다 서명하라"며 금요일 점심을 시한으로 걸었다. 목요일 밤, 퀴즈쇼가 끝날 무렵 베니가 물었다. "넌 벡셰 우리 외할머니처럼 말하는데, 메모하는 건 짭새 같아. 너 뭐야?"
+@intro 엘린은 그날 밤 "오늘은 안 돼요. 월요일에, 제 목소리로 말할게요"라고만 답했다. 금요일과 주말이 지나고 2월 2일 월요일 아침 7시 40분, 모니카가 식당으로 출근한 뒤의 거실. 탁자 위에는 사회보험청 로고가 찍힌 두툼한 봉투가 놓여 있다.
+# 장면 1 — 월요일 오전 7시 40분, 베니의 거실 (탁자 위 사회보험청 봉투, 빨대 꽂은 파란 머그, 소파에 개어 둔 모니카의 이불, 엘린의 "제니 폰")
+Benny|B1|Mamma har gått. I torsdags sa du ”inte i kväll, på måndag, med min egen röst”. Nu är det måndag, Jenny.|엄마 나갔어. 목요일에 "오늘 밤은 안 돼요, 월요일에, 제 목소리로"라고 했지. 이제 월요일이야, 제니.
+Elin|B2|Tack för att du väntade. Jag behövde de dagarna, eftersom det jag ska säga inte bara gäller mig, och jag ville inte lova dig något som min chef sedan skulle ta tillbaka.|기다려 줘서 고마워요. 그 며칠이 필요했어요. 제가 할 말은 저한테만 해당되는 게 아니고, 나중에 제 상사가 거둬들일 약속을 하고 싶지 않았거든요.
+Benny|A1|Din chef?|네 상사?
+Elin|B1|Jag heter Elin Sjöqvist och är reporter på Stockholmsposten. Jag bor i Hornstull och har aldrig bott i Värnamo.|제 이름은 엘린 셰크비스트고, 스톡홀름스포스텐 기자예요. 호른스툴에 살고, 베르나모엔 살아 본 적도 없어요.
+Benny|A2|Där är den. Söderrösten. Fortsätt.|그거네. 쇠데르 목소리. 계속해.
+Elin|B2|Jenny är mitt riktiga mellannamn, men resten var en roll. Vi tror att Trygga Händer tar betalt för timmar som ingen arbetar, och jag sökte jobbet för att se det inifrån.|제니는 진짜 제 중간 이름인데, 나머진 배역이었어요. 우리는 Trygga Händer가 아무도 일하지 않은 시간에 돈을 받는다고 보고 있고, 그걸 안에서 보려고 지원했어요.
+Benny|A2|Så skrattet var också teater?|그럼 그 웃음도 다 연기였어?
+Elin|B1|Nej. Jag skrattade för att du var rolig. Det är det enda jag aldrig har behövt spela.|아뇨. 베니 씨가 웃겨서 웃은 거예요. 그것만은 한 번도 연기할 필요가 없었어요.
+Benny|B1|Bra svar. Fast det är precis vad en duktig skådespelare skulle säga. Vem mer vet?|좋은 대답이네. 근데 딱 실력 좋은 배우가 할 법한 말이기도 하지. 또 누가 알아?
+Elin|B2|Några få på redaktionen. Och mannen i den gamla Volvon på parkeringen, som har kört mig hit varje morgon och väntat på mig varje kväll. Han heter Henrik och är fotograf.|편집국에 몇 명이요. 그리고 주차장 낡은 볼보에 있는 남자요. 매일 아침 여기까지 태워 주고 매일 밤 저를 기다렸어요. 이름은 헨릭이고 사진기자예요.
+Benny|A2|Han med trasig värme? Jag har sett honom från fönstret i en vecka.|히터 고장 난 그 사람? 일주일째 창문으로 보고 있었어.
+Elin|B1|Det finns en sak till. I tisdags fotade jag låsloggen på plattan, när din mamma hjälpte dig på toaletten. Hon trodde att det var för att lära mig låset.|하나 더 있어요. 화요일에 어머님이 베니 씨 화장실 도와드릴 때 태블릿의 잠금장치 기록을 찍었어요. 어머님은 제가 잠금장치 쓰는 법을 익히려는 줄 아셨고요.
+Benny|B2|Utan att fråga mig. Använd loggen, men mammas tider är mammas, och dem visar ni inte för någon förrän hon själv har sagt ja.|나한테 묻지도 않고. 기록은 써. 근데 엄마 시간은 엄마 거야. 엄마가 직접 허락하기 전엔 누구한테도 보여 주지 마.
+Elin|A2|Ska jag prata med henne?|제가 어머님께 말씀드릴까요?
+Benny|B1|Nej. Hon har burit mig i trettiofyra år, det här kan jag bära själv. Jag berättar i kväll. Skrev du på tidrapporterna i fredags, förresten?|아니. 엄마는 34년 동안 날 업고 다녔어. 이건 내가 짊어질 수 있어. 오늘 밤 내가 말할게. 그건 그렇고, 금요일에 근무 기록에 서명했어?
+Elin|B2|Nej. Jag gick dit före lunch och sa, med Jennys röst, att jag bara skriver på timmar som jag faktiskt har jobbat. Då sa Mattias att han skriver under själv och att det inte är min grej.|아뇨. 점심 전에 가서 제니 목소리로, 실제로 일한 시간에만 서명하겠다고 했어요. 그랬더니 마티아스가 자기가 직접 서명하겠대요. 제가 신경 쓸 일이 아니라고.
+Benny|A2|Han skriver under för dig?|너 대신 서명한다고?
+Elin|B1|Han skriver väl under för dig också? Någon måste godkänna tidrapporterna i brukarens namn varje månad.|베니 씨 대신에도 서명하잖아요, 아니에요? 누군가는 매달 이용자 이름으로 근무 기록을 승인해야 하니까요.
+Benny|B2|För tre år sedan skrev jag en fullmakt, när mamma var för trött för att läsa papper och jag var för stolt för att be om hjälp. Sedan dess har Mattias skrivit under i mitt namn varje månad.|3년 전에 위임장을 썼어. 엄마는 서류 읽기엔 너무 지쳤고, 난 도와 달라고 하기엔 자존심이 너무 셌거든. 그 뒤로 매달 마티아스가 내 이름으로 서명해 왔어.
+Elin|A1|Vet du vad han skriver?|뭘 서명하는지 아세요?
+Benny|B1|Nu gör jag det. Kuvertet på bordet är min akt från Försäkringskassan. Jag begärde ut den före jul, för jag har rätt att se allt i mitt eget ärende.|이제는 알아. 탁자 위 봉투가 사회보험청에서 받은 내 서류철이야. 크리스마스 전에 신청했어. 내 사건 서류는 전부 볼 권리가 있으니까.
+Elin|A1|Partsinsyn.|당사자 열람권이네요.
+Benny|B2|Precis. Där ligger tidrapporterna för september, oktober och november, med sju namn och Mattias namnteckning längst ner på varje sida. Jag läste dem fyra gånger i helgen.|맞아. 거기 9월, 10월, 11월 근무 기록이 있어. 이름 일곱 개, 그리고 장마다 맨 밑에 마티아스 서명. 주말에 네 번 읽었어.
+Elin|A2|Får jag ta med dem till redaktionen?|편집국에 가져가도 돼요?
+Benny|B1|Det här är min historia också. Jag vill läsa vad du skriver om mig innan nån annan gör det.|이건 내 이야기이기도 해. 남들보다 먼저 네가 나에 대해 쓴 걸 읽고 싶어.
+Elin|B2|Det kan jag inte lova på egen hand, eftersom det inte är jag som bestämmer vad som publiceras. Men hon som bestämmer har lovat att svara i telefon klockan åtta.|그건 저 혼자 약속할 수 없어요. 뭘 보도할지 정하는 사람은 제가 아니니까요. 근데 정하는 사람이 8시에 전화 받겠다고 약속했어요.
+Benny|A1|Ring henne. Nu.|전화해. 지금.
+Sofia|B2|God morgon, Benny. Sofia Brandt, ansvarig utgivare. Ingen utanför redaktionen får läsa en text före publicering, inte ens den som texten handlar om, för då är det inte längre vi som står för den.|안녕하세요, 베니 씨. 발행책임자 소피아 브란트입니다. 편집국 밖의 사람은 누구도 보도 전에 기사를 읽을 수 없어요. 기사의 주인공이라도요. 그러면 그 기사를 책임지는 게 더는 우리가 아니게 되니까요.
+Benny|A2|Då blir det ingen artikel.|그럼 기사는 없어요.
+Sofia|B2|Men det här kan jag lova: du får se varje citat från dig och varje uppgift om dig innan vi publicerar, och du får rätta det som är fel. Om ditt namn och ditt ansikte syns bestämmer du, inte vi.|대신 이건 약속할 수 있어요. 보도 전에 베니 씨가 한 말의 인용 하나하나, 베니 씨에 관한 사실 하나하나를 보여 드리고, 틀린 건 고치시게 할게요. 그리고 이름과 얼굴을 드러낼지는 우리가 아니라 베니 씨가 정해요.
+Benny|A2|När måste jag bestämma det?|그건 언제까지 정해야 해요?
+Sofia|A1|Inte i dag.|오늘은 아니에요.
+Benny|B1|Nu snackar vi! Elin, skriv till din fotograf. Han får hämta kuvertet, och ni lämnar tillbaka originalet i morgon.|이제야 말이 통하네! 엘린, 사진기자한테 문자해. 봉투는 그 사람이 가져가고, 원본은 내일 돌려줘.
+Elin|A2|Elin. Du sa Elin.|엘린. 엘린이라고 하셨어요.
+Benny|B2|Vänj dig inte. Och läs februarischemat i mammas mejl, det kom i går: på natten till i dag står ett namn som jag aldrig har sett. Ingen kom i natt. Mamma sov på soffan.|익숙해지진 마. 그리고 엄마 메일에 있는 2월 근무표 읽어 봐, 어제 왔어. 오늘로 넘어오는 밤에 처음 보는 이름이 하나 있어. 어젯밤엔 아무도 안 왔어. 엄마가 소파에서 잤지.
+# 장면 2 — 같은 날 오후 3시 40분, 쿵스홀멘 "Källaren" (아미라의 오프라인 낡은 노트북에 띄운 스캔본 87장, 노아의 모니터에 열린 탭 마흔 개, 벽의 종이 "돈의 지도")
+Elin|A2|Det var ljust när jag gick från Benny. Klockan tre, och solen var fortfarande uppe.|베니 씨네서 나올 때 밝았어요. 3시였는데 해가 아직 떠 있었어요.
+Viktor|B1|Det är kyndelsmäss i dag. Mormor i Norrköping sa alltid att halva vintern är över då, men att den andra halvan är den kallaste.|오늘이 성촉절이야. 노르셰핑 외할머니가 늘 그랬어. 그날이면 겨울 절반이 지나간 거라고. 근데 남은 절반이 제일 춥다고.
+Amira|A2|Hej, Elin. Henrik kom med kuvertet halv tio. Sen åkte han hem och sov.|안녕, 엘린. 헨릭이 9시 반에 봉투 가져왔어. 그러고는 집에 가서 잤어.
+Elin|A1|Hur många sidor?|몇 장이에요?
+Amira|B1|Åttiosju. Jag har skannat allt till den gamla datorn, och originalet ligger i Sofias kassaskåp tills du lämnar tillbaka det i morgon.|87장. 낡은 노트북으로 전부 스캔했고, 원본은 네가 내일 돌려줄 때까지 소피아 금고에 있어.
+Viktor|A1|Hur tog han det?|그 사람은 어떻게 받아들였어?
+Elin|B2|Bättre än jag förtjänade. Han frågade om skrattet också var teater, och sedan ställde han villkor som en förhandlare. Sofia gav honom citatkontroll och rätten att själv bestämma om namn och ansikte.|제가 받을 자격보다 훨씬 잘요. 웃음도 연기였냐고 묻더니, 협상가처럼 조건을 걸었어요. 소피아가 인용 확인이랑 이름·얼굴 공개를 직접 정할 권리를 줬어요.
+Noah|A1|Får jag visa nu?|이제 보여 드려도 돼요?
+Viktor|A2|Strax. Amira först. Tidrapporterna.|잠깐. 아미라 먼저. 근무 기록.
+Amira|B1|Tre månader, sju namn. Monika står med åtta timmar om dagen, och Ahmed står kvar i november med hundrasextio timmar, fast han slutade i oktober.|석 달, 이름 일곱 개. 모니카는 하루 8시간으로 올라 있고, 아흐메드는 10월에 그만뒀는데 11월에도 160시간으로 남아 있어.
+Elin|A2|Benny sa att Ahmed var den sista som kom på riktigt.|베니 씨가 그랬어요, 아흐메드가 진짜로 온 마지막 사람이었다고.
+Noah|B1|Och enligt hans Linkedin jobbar han på ett lager i Rosersberg sedan oktober. Heltid, nattskift.|그리고 링크드인에 따르면 10월부터 로세르스베리 물류창고에서 일해요. 정규직, 야간 근무요.
+Viktor|A2|Och de fem andra?|나머지 다섯은?
+Noah|B1|Jag har sökt på alla fem. Tre har öppna konton, en har ett privat konto, och en finns inte på nätet alls.|다섯 명 다 검색해 봤어요. 셋은 공개 계정이고, 하나는 비공개 계정, 하나는 인터넷에 아예 없어요.
+Viktor|B1|Det privata rör vi inte. Inga följarförfrågningar, inga falska profiler. Bara det som ligger öppet för alla.|비공개는 건드리지 마. 팔로 요청도, 가짜 프로필도 안 돼. 누구나 볼 수 있게 열려 있는 것만.
+Noah|A2|Jag vet. Du sa det i morse. Två gånger.|알아요. 아침에 말씀하셨잖아요. 두 번이나.
+Amira|B1|Nummer fem springer. Hon har Strava, och hennes löprundor syns för alla, med karta och klockslag.|5번은 달리기를 해. 스트라바를 쓰는데, 달리기 기록이 지도랑 시각까지 다 공개돼 있어.
+Elin|A1|Var springer hon?|어디서 달려요?
+Amira|B1|I Göteborg. Den artonde november klockan tio över sex på morgonen sprang hon åtta kilometer runt Slottsskogen.|예테보리. 11월 18일 아침 6시 10분에 슬로츠스코겐을 돌아서 8킬로를 뛰었어.
+Viktor|A2|Och tidrapporten?|근무 기록은?
+Amira|B2|Enligt den satt hon hos Benny i Norrvik från tio på kvällen till sju på morgonen. Jag har sprungit den där slingan sedan jag var tolv, så jag känner igen varenda backe, fan.|그 기록대로라면 밤 10시부터 아침 7시까지 노르비크 베니네 있었어. 나 열두 살 때부터 그 코스를 뛰었거든, 오르막 하나하나 다 알아. 젠장.
+Viktor|B1|Kan någon annan ha sprungit med hennes klocka? En sambo, en kompis?|다른 사람이 그 사람 시계 차고 뛰었을 수도 있잖아? 동거인이나 친구가?
+Amira|B2|För en enda runda kan man aldrig utesluta det. Men det är elva rundor i Göteborg på morgnar då hon enligt papperen har jobbat natt i Norrvik, och på profilen står det att hon bor i Majorna.|한 번이라면 절대 배제 못 하지. 근데 서류상 노르비크에서 밤샘 근무를 한 날 아침에 예테보리에서 뛴 게 열한 번이야. 그리고 프로필에는 마요르나에 산다고 돼 있어.
+Noah|A1|Min tur nu?|이제 제 차례죠?
+Viktor|A1|Kör.|해 봐.
+Noah|A2|Bro, hon är literally i Phuket. Nummer tre. Kolla!|형, 이 사람 진짜 말 그대로 푸껫에 있어요. 3번이요. 보세요!
+Elin|A1|Hon är i Thailand. Just nu?|태국에 있다고요. 지금요?
+Noah|A2|Ja. Hon lade upp bilden klockan tre i natt. Det var en story, så jag filmade den med klockan synlig innan den försvann.|네. 새벽 3시에 사진 올렸어요. 스토리라서, 사라지기 전에 시계 보이게 녹화해 뒀어요.
+Elin|B1|Och hennes namn står på februarischemat för natten till i dag. Men ingen kom. Monika sov på soffan, det sa Benny klockan sju i morse.|그리고 그 사람 이름이 2월 근무표의 오늘로 넘어오는 밤에 있어요. 근데 아무도 안 왔어요. 모니카 씨가 소파에서 잤다고, 아침 7시에 베니 씨가 그랬어요.
+Viktor|B2|Ett schema är en plan, inte en faktura. Det som räknas är vad Trygga Händer rapporterar till Försäkringskassan i efterhand, och någon rapport för februari finns inte än.|근무표는 계획이지 청구서가 아니야. 중요한 건 Trygga Händer가 나중에 사회보험청에 보고하는 거고, 2월 보고서는 아직 없어.
+Noah|A2|Men november finns. Titta här.|근데 11월은 있잖아요. 여기 보세요.
+Viktor|A2|Vad ser jag på?|내가 뭘 보는 건데?
+Noah|A2|Nio bilder från samma strand. Upplagda den fjortonde november.|같은 해변 사진 아홉 장이요. 11월 14일에 올라왔어요.
+Amira|B2|Men upplagd är inte samma sak som tagen. Instagram tar bort all metadata, så vi vet inte om bilderna är från november eller från en semester för två år sedan.|근데 올린 거랑 찍은 건 같은 게 아니야. 인스타그램은 메타데이터를 다 지우니까, 11월 사진인지 2년 전 휴가 사진인지 우린 몰라.
+Noah|B1|Exakt. Kolla skylten bakom henne, bro. Det hotellet finns bara i Phuket, och det öppnade i oktober i fjol, så bilden kan inte vara äldre än så.|그러니까요. 뒤에 간판 봐, 형. 그 호텔은 푸껫에만 있어. 그리고 작년 10월에 문을 열었으니까, 사진이 그보다 오래됐을 수는 없어요.
+Viktor|A2|Det ger oss månaden. Inte dagen.|그걸로 달은 알지. 날짜는 아니고.
+Noah|B1|Hennes kompis lade upp samma strand, med datum, och taggade henne i bilden. Den elfte november.|친구가 같은 해변 사진을 날짜랑 같이 올리고 그 사람을 태그했어요. 11월 11일이요.
+Elin|A1|Och klockan?|시각은요?
+Noah|B2|Skuggorna. Hennes skugga pekar rakt västerut och är ungefär lika lång som hon, så solen står lågt i öster. Det är förmiddag i Phuket, alltså mitt i natten här, eftersom vi ligger sex timmar efter.|그림자요. 그림자가 정서쪽을 가리키고 키랑 거의 같은 길이니까, 해가 동쪽에 낮게 떠 있는 거예요. 푸껫은 오전이고, 여긴 한밤중이에요. 우리가 여섯 시간 늦으니까요.
+Amira|A2|Och natten till den elfte?|그럼 11일로 넘어가는 밤은?
+Noah|B1|Enligt tidrapporten satt hon hos Benny samtidigt som hon badade i Phuket. Från tio till sju.|근무 기록상으로는 그 사람이 푸껫에서 수영하던 그 시간에 베니 씨 곁에 있었어요. 10시부터 7시까지.
+Elin|B1|Och låsloggen för november säger samma sak: efter sex på kvällen öppnade ingen annan nyckel än Monikas.|그리고 11월 잠금장치 기록도 같은 말을 해요. 저녁 6시 이후엔 모니카 씨 열쇠 말고는 아무 열쇠도 문을 안 열었어요.
+Noah|B1|Jag har gjort ett dokument med alla bilder, alla tider och alla länkar. Fyrtio flikar. Jag har inte ens ätit lunch.|사진, 시각, 링크 다 넣어서 문서를 만들었어요. 탭이 마흔 개예요. 점심도 안 먹었어요.
+Viktor|B1|Det syns. Vi går ut och äter, allihop. Amira, ta med siffrorna, men på papper.|티 난다. 다 같이 나가서 먹자. 아미라, 숫자는 챙겨 와. 대신 종이로.
+Amira|A2|På papper. Som en riktig gammal tant.|종이로. 진짜 옛날 할머니처럼.
+# 장면 3 — 저녁 6시, 한트베르카르가탄의 카페 구석 자리 (다른 손님은 방금 나갔다, 아미라의 줄 친 수첩 한 장, 노아의 치킨 샌드위치, 빅토르의 종이 수첩)
+Viktor|A1|Okej. Siffrorna, Amira.|좋아. 숫자, 아미라.
+Amira|B1|Jag räknar bara på november, för där har vi både tidrapporten och låsloggen. Först beslutet: Benny är beviljad tjugofyra timmar om dygnet, plus dubbel assistans sex timmar om dygnet för lyft och dusch. Alltså trettio timmar per dygn.|11월만 계산할게. 거기엔 근무 기록이랑 잠금장치 기록이 둘 다 있으니까. 먼저 결정문. 베니는 하루 24시간에, 리프트랑 샤워 때문에 하루 6시간은 2인 보조까지 승인받았어. 그러니까 하루 30시간.
+Noah|A2|Trettio timmar på ett dygn? Hur går det till?|하루에 30시간이요? 그게 어떻게 돼요?
+Elin|B1|Två personer samtidigt. När han ska upp ur sängen ska det vara två, inte en trött mamma.|두 사람이 동시에요. 침대에서 일어날 땐 두 사람이 있어야 해요. 지친 엄마 한 명이 아니라.
+Amira|B1|November har trettio dagar, så Trygga Händer har rapporterat niohundra timmar. Ersättningen är drygt trehundrafyrtio kronor i timmen.|11월은 30일이니까 Trygga Händer는 900시간을 보고했어. 수당은 시간당 340크로나 조금 넘고.
+Viktor|A2|Hur mycket blir det?|얼마가 되지?
+Amira|A2|Ungefär trehundratusen kronor. På en månad.|30만 크로나쯤. 한 달에.
+Noah|A1|För en person?|한 사람한테요?
+Amira|B2|För en person. Sedan drar jag av Monikas tvåhundrafyrtio timmar, eftersom hon faktiskt är där, även om hon i verkligheten jobbar dubbelt så mycket som hon får betalt för.|한 사람한테. 그다음 모니카의 240시간을 빼. 실제로 거기 있으니까. 현실에선 돈 받는 것보다 두 배는 더 일하지만.
+Elin|A2|Kvar blir sexhundrasextio timmar.|660시간이 남네요.
+Amira|B2|Och sedan är jag snäll mot Trygga Händer. I november öppnade Bennys egen nyckel dörren inifrån nio gånger på dagtid, alltså när någon ringde på. Jag räknar varje sådan gång som ett helt pass på åtta timmar, fast de flesta säkert var bud eller färdtjänst.|그리고 Trygga Händer한테 너그럽게 해 줄게. 11월에 베니 본인 열쇠가 낮에 안에서 문을 연 게 아홉 번이야. 누가 초인종을 눌렀다는 거지. 그걸 전부 8시간짜리 근무 한 번으로 쳐 줄게. 대부분은 택배나 장애인 이동 서비스였겠지만.
+Viktor|A1|Och då?|그러면?
+Amira|B1|Då är det fortfarande nästan sexhundra timmar som ingen har arbetat. Runt tvåhundratusen kronor, bara i november.|그래도 아무도 일하지 않은 시간이 거의 600시간이야. 11월에만 20만 크로나 안팎.
+Viktor|A1|Och på ett år?|그럼 1년이면?
+Amira|B1|Bara på Benny blir det flera miljoner om året. Och Trygga Händer har hundrafyrtio brukare.|베니 한 명만으로 연간 수백만이야. 그런데 Trygga Händer 이용자가 140명이야.
+Noah|A2|Hundrafyrtio! Då kan vi ju räkna ut alltihop!|140명! 그럼 전부 계산할 수 있잖아요!
+Viktor|B2|Nej, det kan vi inte. Benny är ett fall som vi kan bevisa, inte ett genomsnitt. Multiplicerar vi honom med hundrafyrtio skriver vi en gissning, och den gissningen är det första som Omsorgias advokater kommer att slå sönder.|아니, 못 해. 베니는 우리가 증명할 수 있는 사례지 평균이 아니야. 140을 곱하면 추측을 쓰는 거고, 그 추측은 Omsorgia 변호사들이 제일 먼저 박살 낼 거야.
+Amira|B1|Så vi skriver ”minst”, och vi visar hur vi har räknat. Varje gång vi är osäkra räknar vi till deras fördel.|그러니까 "최소"라고 쓰고, 어떻게 계산했는지 보여 주는 거야. 확실하지 않을 땐 매번 그쪽에 유리하게 계산하고.
+Noah|B1|Okej. Men kvinnan i Phuket tar ju pengarna. Kan jag inte bara skriva till henne på Instagram och fråga?|알겠어요. 근데 푸껫 그 여자는 돈을 받는 거잖아요. 그냥 인스타그램으로 메시지 보내서 물어보면 안 돼요?
+Viktor|A1|Nej. Inte nu.|안 돼. 지금은.
+Noah|A2|Varför inte? Hon ljuger ju.|왜요? 거짓말하는 거잖아요.
+Viktor|B2|Det vet vi inte. Vi vet att hennes namn står på en tidrapport. Hon kan ha fått femhundra kronor i månaden för att låna ut det, eller så vet hon inte ens om att hon står där. Därför skriver vi aldrig ut de sju namnen.|그건 몰라. 우리가 아는 건 그 사람 이름이 근무 기록에 있다는 것뿐이야. 이름 빌려주고 한 달에 500크로나를 받았을 수도 있고, 거기 자기 이름이 있는 줄도 모를 수도 있어. 그래서 일곱 이름은 절대 기사에 안 써.
+Noah|B1|Men alla bilder jag har sparat, då? Får vi ens ha dem?|그럼 제가 저장한 사진들은요? 그걸 갖고 있어도 되긴 해요?
+Amira|B2|Dataskyddsförordningen har ett undantag för journalistik. Vi får samla och analysera det som folk själva har lagt ut öppet, men undantaget ger oss rätt att granska, inte att hänga ut någon.|개인정보보호규정에는 저널리즘 예외가 있어. 사람들이 스스로 공개해 둔 건 우리가 모으고 분석해도 돼. 근데 그 예외는 검증할 권리를 주는 거지, 누굴 공개 망신 줄 권리를 주는 게 아니야.
+Viktor|B1|Och när det blir dags får hon ett brev från mig, med frågor och en tidsfrist. Hon får svara sist, men hon får svara.|그리고 때가 되면 그 사람은 내 이름으로 질문이랑 답변 기한이 적힌 편지를 받아. 마지막에 답하는 거지만, 답할 기회는 있어.
+Noah|A2|Okej. Förlåt. Jag blev lite för taggad.|알겠어요. 죄송해요. 좀 너무 들떴어요.
+Viktor|B1|Det är bra att vara taggad. Men ju roligare jakten är, desto noggrannare måste man vara. Ät din macka.|들뜨는 건 좋아. 근데 사냥이 재밌을수록 더 꼼꼼해야 해. 샌드위치나 먹어.
+Elin|B2|En sak till om fredagen. Mattias sa på inspelningen att han skriver under själv. Om januarirapporten till Försäkringskassan har Jennys namnteckning på sig, har någon skrivit den åt mig.|금요일 일로 하나 더요. 마티아스가 녹음에서 자기가 직접 서명한다고 했어요. 사회보험청에 간 1월 보고서에 제니 서명이 있으면, 누군가 저 대신 쓴 거예요.
+Viktor|A2|Då är det en förfalskning.|그럼 위조지.
+Elin|B1|Och den kan vi bara se om Benny begär ut akten en gång till. Han sa att han ringer Försäkringskassan i morgon bitti.|그리고 그건 베니 씨가 서류철을 한 번 더 신청해야만 볼 수 있어요. 내일 아침 일찍 사회보험청에 전화하겠대요.
+Viktor|A2|Har Mattias hört av sig sedan dess?|그 뒤로 마티아스한테 연락 왔어?
+Elin|B1|Bara söndagssmset, som vanligt. Måndag till onsdag, sju till tre. Han tror att jag är trög, inte farlig.|일요일 문자뿐이에요, 늘 그렇듯. 월요일부터 수요일, 7시부터 3시. 저를 위험한 애가 아니라 굼뜬 애라고 생각해요.
+Viktor|B1|Åtta minuter från fredagen och tjugotre från torsdagen. Lägg in båda i loggboken i kväll, så att Sofia hinner läsa dem.|금요일 8분, 목요일 23분. 둘 다 오늘 밤 업무일지에 올려. 소피아가 읽을 수 있게.
+Elin|A2|När vi är tillbaka. Inte här.|돌아가서요. 여기선 말고요.
+# 장면 4 — 저녁 7시 반, Källaren (제보함 단말기 화면, 아미라의 낡은 노트북, 업무일지를 읽으러 내려온 소피아)
+Amira|A1|Brevlådan. Nu.|제보함. 지금요.
+Sofia|A2|Jag kom ner för att läsa loggboken. Vad har vi?|업무일지 읽으러 내려왔어. 뭐가 왔어?
+Amira|B1|Ett meddelande och två skärmbilder, klockan sju och tjugo. Texten först: ”Jag arbetar på Försäkringskassan. Ni frågade oss om Trygga Händer i januari. Titta på handläggare H.L. Hennes siffror stämmer inte.”|메시지 하나랑 스크린샷 두 장이요, 7시 20분에 왔어요. 글부터요. "저는 사회보험청에서 일합니다. 1월에 Trygga Händer에 대해 문의하셨죠. 심사관 H.L.을 보세요. 그 사람 숫자가 맞지 않아요."
+Noah|A1|H.L.? Vem är det?|H.L.? 누구예요?
+Viktor|A2|Vi vet inte. Än. Bilderna, Amira.|몰라. 아직은. 사진, 아미라.
+Amira|B2|Innan jag öppnar dem: jag ser att det finns ett användar-id och en klocka i hörnet på den första. Jag läser det inte. Jag beskär bort hörnet nu, innan någon av oss har tittat, och originalet raderas.|열기 전에요. 첫 번째 사진 구석에 사용자 ID랑 시계가 있는 게 보여요. 읽지는 않을게요. 우리 중 누가 보기 전에 지금 그 구석을 잘라 내고, 원본은 지울게요.
+Noah|B1|Men id:t skulle kunna visa att det är äkta. Man kunde kolla att personen verkligen jobbar där.|근데 그 ID로 진짜라는 걸 증명할 수도 있잖아요. 그 사람이 정말 거기서 일하는지 확인할 수 있고요.
+Sofia|B2|Nej. Myndigheten får inte efterforska vem som har pratat med oss, det skyddar grundlagen. Men om vi själva börjar leta efter källan gör vi precis det som myndigheten är förbjuden att göra, och då kan ingen på Försäkringskassan någonsin lita på oss igen.|안 돼. 기관은 누가 우리랑 얘기했는지 캐면 안 돼, 그건 헌법이 보호해. 근데 우리가 직접 취재원을 찾기 시작하면, 기관한테 금지된 바로 그 짓을 우리가 하는 거고, 그럼 사회보험청 누구도 다시는 우릴 못 믿어.
+Noah|A2|Okej. Jag fattar.|알겠어요. 이해했어요.
+Elin|A2|Det är en tabell. Beviljade ärenden per handläggare.|표네요. 심사관별 승인 건수.
+Amira|B1|År 2024 beviljade H.L. trettioåtta nya ärenden om assistans. År 2025 hundrafjorton. Resten av enheten ligger runt fyrtio var, båda åren.|2024년에 H.L.은 개인보조 신규 건 38건을 승인했어요. 2025년엔 114건. 부서 나머지는 두 해 다 각자 40건 안팎이고요.
+Noah|A1|Tre gånger mer!|세 배예요!
+Viktor|A2|Och den andra bilden?|두 번째 사진은?
+Amira|B2|Samma ärenden, sorterade efter anordnare. Av hennes hundrafjorton har trettioett en anordnare som ägs av Omsorgia, och arton av dem har Trygga Händer.|같은 건들을 운영 업체별로 정렬한 거예요. 그 사람 114건 중 31건이 Omsorgia 소유 업체고, 그중 18건이 Trygga Händer예요.
+Elin|A2|Är Benny ett av dem?|베니 씨도 그중 하나예요?
+Amira|A2|Nej. Hans beslut är från 2019. Någon annan skrev under.|아니. 베니 결정문은 2019년 거야. 다른 사람이 서명했어.
+Sofia|B2|Att antalet beviljade ärenden har tredubblats på ett år kan förklaras på många sätt, men inte alla är lika oskyldiga.|승인 건수가 1년 만에 세 배가 된 건 여러 가지로 설명할 수 있어. 하지만 그 설명들이 다 똑같이 무고하진 않지.
+Noah|B1|Men H.L. får vi väl leta efter? Det är ju inte hon som har skrivit.|근데 H.L.은 찾아봐도 되잖아요? 메시지 쓴 사람이 그 사람은 아니니까.
+Viktor|B2|Rätt. H.L. är den vi granskar, och den som skrev är den vi skyddar. Blanda aldrig ihop dem, varken i dokumenten, i mejlen eller när ni pratar i fikarummet.|맞아. H.L.은 우리가 검증하는 사람이고, 메시지 쓴 사람은 우리가 보호하는 사람이야. 절대 섞지 마. 문서에서도, 메일에서도, 휴게실에서 수다 떨 때도.
+Sofia|B1|Och vi svarar bara i Brevlådan. Ingen ringer Försäkringskassans växel och frågar om tabeller, och ingen skriver till någon där från sin vanliga mejl.|그리고 답은 제보함 안에서만 해. 아무도 사회보험청 대표번호에 전화해서 표에 대해 묻지 않고, 아무도 거기 누구한테 평소 쓰는 메일로 연락하지 않아.
+Amira|B1|Bilderna lägger jag på den gamla datorn, bredvid kopian av Liams telefon. De kommer aldrig ut på nätet, och vi publicerar dem aldrig som de är.|사진은 낡은 노트북에, 리암 폰 사본 옆에 둘게요. 절대 인터넷에 안 나가고, 있는 그대로 보도하는 일도 절대 없어요.
+Elin|A2|Vad svarar vi, då?|그럼 뭐라고 답해요?
+Viktor|B1|”Tack. Vi frågar inte vem du är. Vi frågar vad du kan visa.”|"고맙습니다. 우리는 당신이 누구인지 묻지 않아요. 무엇을 보여 줄 수 있는지만 묻죠."
+Sofia|B2|Lägg till att hen aldrig ska ta med sig något från jobbet som kan spåras, och att vi hellre väntar en månad än ser hen avslöjad.|한 줄 더 넣어. 직장에서 추적될 수 있는 건 절대 가지고 나오지 말라고. 그리고 그 사람이 드러나는 걸 보느니 우린 한 달이라도 기다리겠다고.
+Viktor|A2|”Ta inga risker för vår skull. Vi kan vänta.”|"우리 때문에 위험을 감수하지 마세요. 우린 기다릴 수 있어요."
+Sofia|A1|Bra. Skicka.|좋아. 보내.
+Amira|A1|Skickat. Halv åtta.|보냈어요. 7시 반.
+Noah|A2|Och nu? Vi bara väntar?|이제요? 그냥 기다려요?
+Viktor|B1|Ja. Det är den svåraste delen av jobbet, och den som ingen gör film om.|응. 이 일에서 제일 어려운 부분이고, 아무도 영화로 안 만드는 부분이지.
+Sofia|B2|Elin, i kväll berättar Benny för sin mamma vad du är. Ring mig om hon säger nej, för då gäller hennes nej, hur bra låsloggen än är.|엘린, 오늘 밤 베니가 어머니한테 네가 뭔지 말할 거야. 어머니가 안 된다고 하시면 나한테 전화해. 잠금장치 기록이 아무리 좋아도 그분의 '안 돼'가 우선이니까.
+Elin|A2|Jag vet. I morgon klockan sju är jag Jenny igen.|알아요. 내일 아침 7시엔 다시 제니예요.
+Amira|A1|Vänta. Det plingar.|잠깐만요. 알림 와요.
+Viktor|A1|Redan?|벌써?
+Amira|A2|Ett nytt meddelande. Bara två meningar.|새 메시지예요. 딱 두 문장.
+Sofia|A1|Läs.|읽어.
+Amira|B1|”Hanna stänger alltid dörren när hon pratar i telefon. Och det är aldrig hennes egen telefon.”|"한나는 통화할 때 늘 문을 닫아요. 그리고 그건 한 번도 자기 전화였던 적이 없어요."
+@@footer
+## 이번 화의 표현
+
+| 레벨 | 표현 | 뜻 | 포인트 |
+|---|---|---|---|
+| `A1` | **Hon är i Thailand.** | 그 사람 태국에 있어. | *vara i + 나라 이름* = ~에 있다. 국가·도시 앞에는 늘 *i*를 쓴다(*i Sverige, i Phuket, i Göteborg*). 섬과 일부 지역은 *på*(*på Gotland, på Söder*) — 엘린이 사는 호른스툴은 "쇠데르에" 있다 |
+| `A2` | **Hon lade upp bilden klockan tre i natt.** | 그 사람이 새벽 3시에 사진을 올렸어. | *lägga upp* (과거 *lade upp*) = (SNS에) 올리다, 게시하다. 일상 구어에서는 *la upp*으로 발음·표기하기도 한다. *i natt*는 과거형과 함께 쓰면 "지난밤", 미래와 쓰면 "오늘 밤" |
+| `B1` | **Enligt tidrapporten satt hon hos Benny samtidigt som hon badade i Phuket.** | 근무 기록에 따르면, 그 사람은 푸껫에서 수영하던 바로 그 시간에 베니 곁에 앉아 있었다. | *enligt* = ~에 따르면(출처를 밝히는 기자의 기본 단어). *samtidigt som* = ~하는 동시에. 서류가 말하는 것과 사진이 말하는 것을 한 문장에 맞세운다 |
+| `B2` | **Att antalet beviljade ärenden har tredubblats på ett år kan förklaras på många sätt, men inte alla är lika oskyldiga.** | 승인 건수가 1년 만에 세 배가 된 건 여러 방식으로 설명될 수 있지만, 그 설명이 다 똑같이 무고한 건 아니다. | *Att …*로 시작하는 명사절이 문장 전체의 주어. *kan förklaras* 는 조동사 + 수동(-s) 형태. 의혹을 단정하지 않으면서도 질문을 열어 두는, 발행책임자다운 문장 |
+| `B1` | **Det här är min historia också. Jag vill läsa vad du skriver om mig innan nån annan gör det.** | 이건 내 이야기이기도 해. 남들보다 먼저 네가 나에 대해 쓴 걸 읽고 싶어. | *nån* = *någon*의 구어형. *innan nån annan gör det*에서 *gör det*은 앞의 동사(*läsa*)를 대신 받는다 — 스웨덴어는 같은 동사를 반복하는 대신 *göra*로 받는 일이 많다 |
+| `A2` | **Kolla skylten bakom henne, bro. Det hotellet finns bara i Phuket.** | 뒤에 간판 봐, 형. 그 호텔은 푸껫에만 있어. | *kolla* = 보다·확인하다(구어). *bro*는 영어에서 온 젊은 층 호칭. *finnas* = 존재하다, 있다 — "그 호텔은 푸껫에만 있다"는 위치를 특정하는 OSINT의 핵심 논리다 |
+| 구어 | **Nu snackar vi!** | 이제야 말이 통하네! / 바로 그거야! | *snacka* = 수다 떨다, 말하다(구어). 상대가 마침내 원하던 조건이나 제안을 내놓았을 때 쓰는 말. 베니는 소피아의 타협안에 이 한마디로 거래를 받아들인다 |
+| 용어 | **partsinsyn** | 당사자 열람권 | *part*(당사자) + *insyn*(들여다봄). 행정 사건의 당사자가 자기 사건의 서류를 볼 권리로, 행정절차법(*förvaltningslagen*)에 근거한다. 일반인의 공문서 청구(*offentlighetsprincipen*)로는 비밀인 건강 정보도 당사자 본인은 볼 수 있다 — 그래서 베니의 서류철에는 기자가 절대 받을 수 없는 근무 기록이 들어 있다 |
+
+## 저널리즘·법 메모
+사회보험청 직원이 제보함에 승인 통계를 보낸 것은 헌법(출판자유법 TF)이 보장하는 제보자 보호(*meddelarskydd*)의 영역이다. 공공기관은 누가 언론에 정보를 줬는지 캐서는 안 되고(*efterforskningsförbud*), 제보를 이유로 불이익을 줄 수도 없다. 그러나 이 금지는 기관에 대한 것이고, 기자가 스스로 제보자를 찾아 나서면 그 보호는 안에서부터 무너진다 — 그래서 아미라는 스크린샷 구석의 사용자 ID를 읽기 전에 잘라 내고, 답장은 제보함 안에서만 한다. 한편 공개 SNS와 스트라바 기록을 모아 근무 기록과 대조할 수 있는 근거는 개인정보보호규정(GDPR)과 스웨덴 데이터보호법의 저널리즘 예외(*journalistiska undantaget*)다. 예외는 "검증할 권리"를 줄 뿐 "드러낼 의무"를 주지 않는다. 근무 기록의 일곱 이름은 이름을 빌려준 사람일 수도, 도용당한 사람일 수도 있기에 보도하지 않으며, 당사자에게는 보도 전에 서면 질문과 답변 기한(반론권)이 주어진다. 소피아가 베니에게 기사 전문의 사전 열람 대신 인용·사실 확인권을 준 것도 같은 원칙이다. 편집 독립은 지키되, 취재원이 자기 말과 자기 삶에 대해서는 마지막으로 확인할 수 있게 한다.
+
+## 문화·현안 메모
+- ***Kyndelsmäss*(성촉절, 2월 2일)** — 성모 마리아의 정결례와 아기 예수 봉헌을 기리는 교회 절기로, 옛 농촌에서는 겨울의 한가운데를 넘는 날로 여겼다. 스톡홀름의 낮은 동지 무렵 6시간 남짓에서 이날 8시간 가까이로 늘어난다. 오늘날 교회력에서는 2월 2일에 가까운 일요일로 옮겨 지키며, 양초를 축복하던 전통에서 이름이 왔다(*kyndel* = 촛불).
+- **근무 기록(*tidredovisning*)과 위임장(*fullmakt*)** — 개인보조 업체는 매달 보조인별 근무 시간을 사회보험청에 보고하고, 사회보험청은 그 시간에 시간당 표준 단가(*schablonbelopp*, 2020년대 중반 기준 340크로나 안팎)를 곱해 지급한다. 보고서에는 보조인과 이용자(또는 그 대리인)가 서명한다. 이용자가 업체 관리자에게 서명 위임장을 써 주는 일은 흔하지만, 그 순간 감시의 마지막 고리가 업체 손에 넘어간다.
+- **SNS와 메타데이터** — 인스타그램·페이스북 같은 플랫폼은 사진을 올릴 때 촬영 일시·GPS 같은 EXIF 메타데이터를 지운다. 그래서 공개 정보 분석(OSINT)에서는 배경의 간판, 같은 날 올라온 다른 사람의 게시물, 그림자의 방향과 길이 같은 "사진 밖의 시계"로 날짜와 시각을 고정한다. 스트라바처럼 운동 기록을 공개로 두면 경로와 시각이 그대로 남는다 — 2018년에는 군인들의 공개 달리기 기록이 해외 기지 위치를 드러내 국제적 논란이 됐다.
+
+## 다음 화 예고
+> 데얀이 후스뷔의 두 소년을 데려온다. 명단에는 이름이 있지만, 학교 건물엔 한 번도 가 본 적 없는 아이들: "Ingen av dem har ens sett skolan, len."
