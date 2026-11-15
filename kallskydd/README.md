@@ -23,6 +23,11 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
+## PDF
+- [pdf/Källskydd_전체.pdf](pdf/Källskydd_전체.pdf) — 바이블 + 105화 전체 (1,466쪽)
+- 부별: [1부](pdf/Källskydd_1부.pdf) · [2부](pdf/Källskydd_2부.pdf) · [3부](pdf/Källskydd_3부.pdf) · [4부](pdf/Källskydd_4부.pdf) · [5부](pdf/Källskydd_5부.pdf) · [6부](pdf/Källskydd_6부.pdf) · [7부](pdf/Källskydd_7부.pdf)
+- 다시 만들기: `python3 tools/build_pdf.py` (Noto CJK 폰트, `pip install markdown playwright`, Chromium 필요)
+
 ## 작업 방식
 - 원고: `src/kN_eYY.txt` (화자|레벨|스웨덴어|한국어) → `python3 tools/build_episode.py src/*.txt` 로 `episodes/*.md` 생성·검증
   (150턴, 같은 화자 연속 금지, 부별 레벨 분포 ±6)
