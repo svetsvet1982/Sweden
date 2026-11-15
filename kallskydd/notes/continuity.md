@@ -1250,3 +1250,19 @@
 - **원고 낭독(근거 번호)**: 문장 12 = 10/14 09:12 접근 기록(근거 31), 11:40 메일, 11/4 08:47·10:05(근거 32); 문장 40 = "Stiftung Lindenhof … en enda förmånstagare, född 1967 och bosatt i Stockholm"(근거 47, 취리히 판결 공증 사본). 참새만 알 수 있는 내용 없음 확인(전부 공개 청구 기록·비서실 등록부).
 - 인물: 헨릭 카메라 들고 00시경 복귀, 팀 단체 사진("le inte") 뒤 **04:45 알란다 5터미널로**(13화 연결). 노아는 아직 헨릭 재킷 보유("Tills vidare"). 데얀: 광장 빵집 부렉 + 미리야나의 사르마(미리야나는 친구 집 축구 관람으로 앎), **리암 2주 뒤(3월 중순) 출소**, 첫 규칙 "설거지 먼저". 엘린: 12월 컵라면 사과에 이어 "왜 '모르겠다'고 했는지"를 처음 말함 → 노아가 리가·탈린 모니터를 맡김.
 - 가정(병렬 집필, k7_e10·k7_e11 미열람 — 기획·continuity·k7_e09까지 참고): 11화 엔딩은 기획대로 "Din tidning säljs i morgon klockan nio. Vad du än skriver i natt läser du det i min tidning."이고 만찬은 녹음(식탁 위)됐으며 헨릭이 차로 빅토르를 태웠다고 가정. 취리히 판결 공증 사본은 2월 말 도착으로 가정. 5편 연재 계획·공동 엠바고 "3월 1일 06:00"·파트너 수신 시각 "04:00 예정"은 이번 화의 새 설정. 6부 14화에서 엘린이 이미 사과했으므로 기획의 "처음으로 사과"는 "사과의 이유를 처음 말함"으로 바꿈. 새 이름 없음(메테 크예르·요한나 베리·카드리·레토 임호프·빌레·미리야나는 기존 인물).
+
+### 7부 13화
+- 날짜: 2027년 3월 1일(월). 06:00 Källaren(밤샘, 데얀은 지팡이 안고 소파에서 잠) → 09:05~09:45 아를란다 5터미널 두바이행 게이트 → 08:58~12:00 스트란드베겐 Mediehuset Norr 6층 회의실 → 13:00~16:30 Källaren(TV) → 20:10 Källaren, 20:50 계단.
+- **기사**: 제목 "Klubben – middagarna där Sverige såldes.", "Del ett av sex"(6부작). 06:00 동시 게재: Atklāti(리가)·취리히(안나레나)·Aftenkuréren(코펜하겐, 메테)·탈린·코펜하겐 + Kanal Sverige 아침 방송. 트래픽 평소 월요일의 12배, 서버 유지. 점심 전 독자 40만.
+- 06:12 클라에스 노를링 보도자료 "förnekar all brottslig gärning och överväger rättsliga åtgärder". 스타판 엑스트룀(Säpo)이 소피아에게 전화: 위협 수준 유지, 경찰차가 이번 주 내내 출입구 앞. 올라 프리델: Nordfast 이사회가 아홉 건 계약서를 검찰에 넘김, 이제 실명 인용 허용. 노아의 **rättelselogg**: 20:12까지 0줄.
+- 07:03 Nordhavn 사무실(외스테르말름) 압수수색. 헬레나 비크스트룀 회견: 경찰이 Ekobrottsmyndigheten 지원으로 **7곳** 압수수색(유르고르덴 포함, Kanal Sverige 보도), 문서·컴퓨터 압수, "60대 남성" anhållen — 중대 자금세탁·중대 증뢰.
+- **체포**: 헨릭이 05:00부터 5터미널, 출국 심사를 지나려고 **런던행 1,400크로나 표**를 삼(탈 생각 없음). Ekwall 08:20 도착(기사 딸린 차, 가방 하나, 비즈니스석, 라운지). 헨릭은 아무에게도 전화하지 않음. 검사 결정 09:20, 체포 **09:40** 게이트, 비행기 10:00 두바이행. 수갑, Ekwall "왼쪽에서 찍어, 내 제일 좋은 쪽". Ekwall이 마리아에게 귓속말 → 마리아가 밤에 빅토르에게만 전함: "Hälsa Holm att det här bara är första akten." 헨릭: "이게 내 마지막 1면". 소피아 결정: 체포 사진 3월 2일 1면(공인·공공장소·공익).
+- **매각 무산**: 9시 캐롤린 서명 거부(룩셈부르크와 통화), 정오 Valvet Partners 철수 통보, 인용 "Valvet har avbrutit förhandlingarna och kommenterar inte uppgifter i medierna." 레나트 "Fonden drog sig ur … sex timmar efter publiceringen.", 은행 기한 3월 말 그대로. 캐롤린: Ekwall을 만난 적 없다고 주장. **아스펠린**: 질문지 2월 24일(수) 수령·무응답, 10시 이사회 직전 "Jag lämnar styrelsen med omedelbar verkan." 기사엔 그가 만찬에 앉았다는 사실과 날짜가 실림.
+- **의회·장관**: Arbetarpartiet 의원 **Rebecka Tornvall**(신규) 본회의 발언 — Arbetarpartiet+Gröna Framtid 불신임 요구(GF 9석이 결정). 16:00 로센바드 메르타 엔 사임 회견 "Jag har i dag lämnat in min avskedsansökan till statsministern.", 범죄·메일 인지 부인, "20년 우정이 정부의 부담". 엘린 질문(언론 접촉 내부 조사 계속하나?) → "후임자가 답할 것". 라르스: 그날 밤 **JK 신고**(조사와 장관 녹음 발언에 관해, 사람 언급 없음). 빅토르: 오늘은 누구도 참새에게 연락 금지.
+- **취재원 보호**: Kvällsbladet 요나스 프뢸링이 "익명 내부자 = 프레드릭 발?" 전화 → 빅토르 "부인도 확인도 안 한다"(1-13 그의 "Källskydd, Holm" 되돌려줌). 마리아: 프레드릭이 아침에 기사를 다 읽고 자기 이름이 있는지만 물음 — 빅토르 "앞으로도 절대 없다, 보호는 상이 아니다".
+- **소피아의 거취(미결)**: 밤에 레나트에게 사직서 + 조건("다음 계약에 어떤 주인도 발행책임자를 못 건드린다고 쓰면 찢어라"). 편집국 **73명** 서명 편지 "Om Sofia Brandt går, går vi."(점심부터 안내 데스크, 스포츠부·야간 데스크 포함). 레나트 "이건 개인적인 거야", 두 편지를 이사회에 가져감. 소피아 "Vi överlevde. I dag räcker det."
+- 빅토르는 오늘 나왈에게 전화하지 않음("8년 동안 내 목소리를 원하지 않았다") → 15화.
+
+- ⚠️ 가정(병렬 집필, k7_e11·k7_e12 미열람 — 기획·continuity·k7_e10까지 참고): 11화 만찬에서 Ekwall의 "Sverige har alltid varit till salu"와 "Din tidning säljs i morgon klockan nio"가 녹음·반론으로 기사에 실렸다고 가정(레베카가 인용). 12화 미러링 파트너는 기획대로 리가·취리히·코펜하겐(메테 크예르, 6-9의 Aftenkuréren)에 4화의 탈린·코펜하겐을 더함; 12화가 다른 구성이면 12화 우선. 헨릭은 12화에 Källaren에 있다가 05시에 떠난 것으로 처리. 아스펠린 질문지 발송일(2/24)과 사진 1면 결정은 이번 화의 새 설정.
+- 기획과 다른 점: B1 핵심 표현 "tre timmar" → **"sex timmar"**(06시 보도·정오 철회와 맞춤). 엔딩 훅은 체포 장면이 아니라 밤에 마리아가 전하는 말로 배치(체포 때 귓속말). 장면 3 시작 시각(08:58)이 장면 2(09:05)보다 앞섬 — 시간 교차.
+- 새 이름: Rebecka Tornvall(grep 중복 없음). Jonas Fröling은 1부 Kvällsbladet 기자 재등장. Gudrun Hagström·Ingela Moberg·Kungen은 이번 화 미등장·미언급.
