@@ -23,6 +23,12 @@
 | [part6_mullvaden.md](part6_mullvaden.md) | 6부 *Mullvaden* (두더지) — 2026.10–12 |
 | [part7_klubben.md](part7_klubben.md) | 7부 *Klubben* (클럽) — 2027.1–4 |
 
+## 작업 방식
+- 원고: `src/kN_eYY.txt` (화자|레벨|스웨덴어|한국어) → `python3 tools/build_episode.py src/*.txt` 로 `episodes/*.md` 생성·검증
+  (150턴, 같은 화자 연속 금지, 부별 레벨 분포 ±6)
+- 집필 규칙: [`notes/episode_brief.md`](notes/episode_brief.md) · 설정 연속성: [`notes/continuity.md`](notes/continuity.md)
+- 기획 검증: `python3 tools/check_plans.py` · 목차 갱신: `python3 tools/index.py`
+
 ## 대본 목차 (105/105화 완성)
 
 ### 1부
